@@ -7,6 +7,8 @@
       47.8093,
       2.3053
     ],
+    "year": null,
+    "date_str": "S.d.- Paris, S. Germain[-des-Pr\u00e9s] Ut vivant, valeant; quos fratrum funera tristant; Optant Germano devoti Parisiaco. Justitiae populis non debet dura videri Actio; exercens illos afflictio praesens; 15 Quos petit aeternae requies gratissima vitae. Ad praesens saeva mundi lymphante caterva Jactemur; certum nobis quod non sit inultum Quod patimur; Christo regi si jungimur almo. Sed quia vestrarum potius resolutio fratrum 20 Vos , conturbat, eis et nos persolvimus ipsi Quod debebamus quod et a vobis rogitamus His fieri quos hic designat ~ pennula vobis.",
     "description": "Origin: 76 S.d. [avant 7056] 25 Encycique sollicitant de p..."
   },
   {
@@ -14,6 +16,8 @@
     "type": "stop",
     "name": "Atrebatensis",
     "coords": null,
+    "year": 962,
+    "date_str": "962 1031",
     "description": "Visited: T. ecclesiae Atrebatensis. Flens Atrebatum Warneri flebile fatum Orat ut aeternum gaudens ignoret avernum."
   }
 ]

@@ -4,6 +4,8 @@
     "type": "origin",
     "name": "Rouleau",
     "coords": null,
+    "year": 1107,
+    "date_str": "S.d. [1107, apr\u00e8s le 8 septembre]",
     "description": "Origin: 15 Rouleau mortuaire ( fragmentaire) de _ 1107) . ..."
   },
   {
@@ -14,6 +16,8 @@
       49.0817,
       3.9383
     ],
+    "year": 1107,
+    "date_str": "S.d. [1107, apr\u00e8s le 8 septembre]",
     "description": "Visited: Hugo (en 1076 par Ie)"
   }
 ]

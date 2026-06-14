@@ -4,6 +4,8 @@
     "type": "origin",
     "name": "Initial",
     "coords": null,
+    "year": null,
+    "date_str": "S.d.",
     "description": "Origin: Initial Roll..."
   }
 ]

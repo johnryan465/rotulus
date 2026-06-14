@@ -4,6 +4,8 @@
     "type": "origin",
     "name": "Rouleau",
     "coords": null,
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
     "description": "Origin: Rouleau d'Oliba; abb\u00e9 de Ripoll et de $ Michel de ..."
   },
   {
@@ -14,6 +16,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Caserrass (Pul Oliva)"
   },
   {
@@ -21,6 +25,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Marti (Callia Juagiu P de christiana)"
   },
   {
@@ -28,6 +34,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Martin (1 Gereslees)"
   },
   {
@@ -38,6 +46,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Lemovicens (Pul Oliva)"
   },
   {
@@ -45,6 +55,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Martinus (Callia Juagiu P de christiana)"
   },
   {
@@ -52,6 +64,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Christo (1 Gereslees)"
   },
   {
@@ -62,6 +76,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Pictavis (Pul Oliva)"
   },
   {
@@ -69,6 +85,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Marti (Callia Juagiu P de christiana)"
   },
   {
@@ -76,6 +94,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Martin (1 Gereslees)"
   },
   {
@@ -86,6 +106,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Nos (Pul Oliva)"
   },
   {
@@ -93,6 +115,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Lorenzo (Callia Juagiu P de christiana)"
   },
   {
@@ -100,6 +124,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Bevite (1 Gereslees)"
   },
   {
@@ -110,6 +136,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Pos (Pul Oliva)"
   },
   {
@@ -117,6 +145,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Nos (Callia Juagiu P de christiana)"
   },
   {
@@ -124,6 +154,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Itaque (1 Gereslees)"
   },
   {
@@ -134,6 +166,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ermenisclus (Pul Oliva)"
   },
   {
@@ -141,6 +175,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Dominum (Callia Juagiu P de christiana)"
   },
   {
@@ -148,6 +184,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Quod (1 Gereslees)"
   },
   {
@@ -158,6 +196,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Quis (Pul Oliva)"
   },
   {
@@ -165,6 +205,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Serratei (Callia Juagiu P de christiana)"
   },
   {
@@ -172,6 +214,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Rivipoh (1 Gereslees)"
   },
   {
@@ -182,6 +226,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Pro (Pul Oliva)"
   },
   {
@@ -189,6 +235,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ghrignornfisatribus (Callia Juagiu P de christiana)"
   },
   {
@@ -196,6 +244,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Christoguarissimis (1 Gereslees)"
   },
   {
@@ -206,6 +256,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Illacrimaveruntque (Pul Oliva)"
   },
   {
@@ -213,6 +265,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Suyas (Callia Juagiu P de christiana)"
   },
   {
@@ -220,6 +274,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: En (1 Gereslees)"
   },
   {
@@ -230,6 +286,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Camprodo (Pul Oliva)"
   },
   {
@@ -237,6 +295,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: No (Callia Juagiu P de christiana)"
   },
   {
@@ -244,6 +304,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Monasterio (1 Gereslees)"
   },
   {
@@ -254,6 +316,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Olibe (Pul Oliva)"
   },
   {
@@ -261,6 +325,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: El (Callia Juagiu P de christiana)"
   },
   {
@@ -268,6 +334,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Cana (1 Gereslees)"
   },
   {
@@ -278,6 +346,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Paris (Pul Oliva)"
   },
   {
@@ -285,6 +355,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Olim (Callia Juagiu P de christiana)"
   },
   {
@@ -292,6 +364,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Dum (1 Gereslees)"
   },
   {
@@ -302,6 +376,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Flebilibus (Pul Oliva)"
   },
   {
@@ -309,6 +385,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Iemporis (Callia Juagiu P de christiana)"
   },
   {
@@ -316,6 +394,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Haec (1 Gereslees)"
   },
   {
@@ -326,6 +406,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Col (Pul Oliva)"
   },
   {
@@ -333,6 +415,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Pujade (Callia Juagiu P de christiana)"
   },
   {
@@ -340,6 +424,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Cronica (1 Gereslees)"
   },
   {
@@ -350,6 +436,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Guisla (Pul Oliva)"
   },
   {
@@ -357,6 +445,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ge (Callia Juagiu P de christiana)"
   },
   {
@@ -364,6 +454,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Il (1 Gereslees)"
   },
   {
@@ -374,6 +466,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Catalogn (Pul Oliva)"
   },
   {
@@ -381,6 +475,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Les (Callia Juagiu P de christiana)"
   },
   {
@@ -388,6 +484,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Seules (1 Gereslees)"
   },
   {
@@ -398,6 +496,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: La (Pul Oliva)"
   },
   {
@@ -405,6 +505,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Notons (1 Gereslees)"
   },
   {
@@ -415,6 +517,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Don (Pul Oliva)"
   },
   {
@@ -422,6 +526,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Seniofredus (Callia Juagiu P de christiana)"
   },
   {
@@ -429,6 +535,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Renardu (1 Gereslees)"
   },
   {
@@ -439,6 +547,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Isi (Pul Oliva)"
   },
   {
@@ -446,6 +556,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Petrus (Callia Juagiu P de christiana)"
   },
   {
@@ -453,6 +565,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Petrus (1 Gereslees)"
   },
   {
@@ -463,6 +577,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Jetitiam (Pul Oliva)"
   },
   {
@@ -470,6 +586,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Arulensi (Callia Juagiu P de christiana)"
   },
   {
@@ -477,6 +595,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Id (1 Gereslees)"
   },
   {
@@ -487,6 +607,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Kerulue (Pul Oliva)"
   },
   {
@@ -494,6 +616,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Christus (Callia Juagiu P de christiana)"
   },
   {
@@ -501,6 +625,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Jean- (1 Gereslees)"
   },
   {
@@ -511,6 +637,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Domin (Pul Oliva)"
   },
   {
@@ -518,6 +646,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Johanne (Callia Juagiu P de christiana)"
   },
   {
@@ -525,6 +655,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Valet (1 Gereslees)"
   },
   {
@@ -532,6 +664,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
     "description": "Visited: Hon (Callia Juagiu P de christiana)"
   },
   {
@@ -539,6 +673,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
     "description": "Visited: Manoguisi (1 Gereslees)"
   },
   {
@@ -549,6 +685,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Giscafre- (Pul Oliva)"
   },
   {
@@ -556,6 +694,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Wannalgaudus (Callia Juagiu P de christiana)"
   },
   {
@@ -563,6 +703,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Nos (1 Gereslees)"
   },
   {
@@ -573,6 +715,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Nomina (Pul Oliva)"
   },
   {
@@ -580,6 +724,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Bernardo (Callia Juagiu P de christiana)"
   },
   {
@@ -587,6 +733,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Dapr (1 Gereslees)"
   },
   {
@@ -597,6 +745,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Banyole (Pul Oliva)"
   },
   {
@@ -604,6 +754,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Pro (Callia Juagiu P de christiana)"
   },
   {
@@ -611,6 +763,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Domini (1 Gereslees)"
   },
   {
@@ -621,6 +775,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Obsequiis (Pul Oliva)"
   },
   {
@@ -628,6 +784,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Gifredi (Callia Juagiu P de christiana)"
   },
   {
@@ -635,6 +793,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Gualterio (1 Gereslees)"
   },
   {
@@ -645,6 +805,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Christi (Pul Oliva)"
   },
   {
@@ -652,6 +814,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Quidquid (Callia Juagiu P de christiana)"
   },
   {
@@ -659,6 +823,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Deitati (1 Gereslees)"
   },
   {
@@ -669,6 +835,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Quod (abb\u00e9 de S. 988)"
   },
   {
@@ -679,6 +847,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Bernardus (Pul Oliva)"
   },
   {
@@ -686,6 +856,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Fotrus (Callia Juagiu P de christiana)"
   },
   {
@@ -693,6 +865,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Iotuchus (1 Gereslees)"
   },
   {
@@ -703,6 +877,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Per (abb\u00e9 de S. 988)"
   },
   {
@@ -713,6 +889,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Adalbertus (Pul Oliva)"
   },
   {
@@ -720,6 +898,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Primu (Callia Juagiu P de christiana)"
   },
   {
@@ -727,6 +907,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Christi (1 Gereslees)"
   },
   {
@@ -737,6 +919,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Qu (abb\u00e9 de S. 988)"
   },
   {
@@ -747,6 +931,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Petrus (Pul Oliva)"
   },
   {
@@ -754,6 +940,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Il (Callia Juagiu P de christiana)"
   },
   {
@@ -761,6 +949,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Recuci (1 Gereslees)"
   },
   {
@@ -771,6 +961,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Barcclona (abb\u00e9 de S. 988)"
   },
   {
@@ -781,6 +973,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Eicfredu (Pul Oliva)"
   },
   {
@@ -788,6 +982,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Quidquid (Callia Juagiu P de christiana)"
   },
   {
@@ -795,6 +991,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Quod (1 Gereslees)"
   },
   {
@@ -805,6 +1003,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ram (abb\u00e9 de S. 988)"
   },
   {
@@ -815,6 +1015,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Que (Pul Oliva)"
   },
   {
@@ -822,6 +1024,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Succurrer (Callia Juagiu P de christiana)"
   },
   {
@@ -829,6 +1033,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ode (1 Gereslees)"
   },
   {
@@ -839,6 +1045,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Cugal (abb\u00e9 de S. 988)"
   },
   {
@@ -849,6 +1057,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Guifred (Pul Oliva)"
   },
   {
@@ -856,6 +1066,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Audegario (Callia Juagiu P de christiana)"
   },
   {
@@ -863,6 +1075,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Jeticiam (1 Gereslees)"
   },
   {
@@ -873,6 +1087,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Orgellitanensis (Pul Oliva)"
   },
   {
@@ -880,6 +1096,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ut (Callia Juagiu P de christiana)"
   },
   {
@@ -887,6 +1105,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Auxiliumque (1 Gereslees)"
   },
   {
@@ -897,6 +1117,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ansegiso (abb\u00e9 de S. 988)"
   },
   {
@@ -907,6 +1129,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ingenitu (Pul Oliva)"
   },
   {
@@ -914,6 +1138,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Christ (Callia Juagiu P de christiana)"
   },
   {
@@ -921,6 +1147,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Hinc (1 Gereslees)"
   },
   {
@@ -931,6 +1159,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Tum (abb\u00e9 de S. 988)"
   },
   {
@@ -941,6 +1171,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Goscelinus (Pul Oliva)"
   },
   {
@@ -948,6 +1180,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Hersindis (Callia Juagiu P de christiana)"
   },
   {
@@ -955,6 +1189,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Herbertus (1 Gereslees)"
   },
   {
@@ -965,6 +1201,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Orl (abb\u00e9 de S. 988)"
   },
   {
@@ -975,6 +1213,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Cursus (Pul Oliva)"
   },
   {
@@ -982,6 +1222,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Novimus (Callia Juagiu P de christiana)"
   },
   {
@@ -989,6 +1231,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Fecimus (1 Gereslees)"
   },
   {
@@ -999,6 +1243,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Jeg (abb\u00e9 de S. 988)"
   },
   {
@@ -1009,6 +1255,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Equa (Pul Oliva)"
   },
   {
@@ -1016,6 +1264,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ripak (Callia Juagiu P de christiana)"
   },
   {
@@ -1023,6 +1273,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Volfridus (1 Gereslees)"
   },
   {
@@ -1033,6 +1285,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Hereboldu (abb\u00e9 de S. 988)"
   },
   {
@@ -1043,6 +1297,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Cursus (Pul Oliva)"
   },
   {
@@ -1050,6 +1306,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Novimus (Callia Juagiu P de christiana)"
   },
   {
@@ -1057,6 +1315,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Fecimus (1 Gereslees)"
   },
   {
@@ -1067,6 +1327,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Guncti (abb\u00e9 de S. 988)"
   },
   {
@@ -1077,6 +1339,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Equa (Pul Oliva)"
   },
   {
@@ -1084,6 +1348,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Jozpertus (Callia Juagiu P de christiana)"
   },
   {
@@ -1091,6 +1357,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Biqa (1 Gereslees)"
   },
   {
@@ -1101,6 +1369,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Lanzelinus (abb\u00e9 de S. 988)"
   },
   {
@@ -1111,6 +1381,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Turone (Pul Oliva)"
   },
   {
@@ -1118,6 +1390,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Sed (Callia Juagiu P de christiana)"
   },
   {
@@ -1125,6 +1399,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Hos (1 Gereslees)"
   },
   {
@@ -1135,6 +1411,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Nomina (abb\u00e9 de S. 988)"
   },
   {
@@ -1145,6 +1423,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ermenardu (Pul Oliva)"
   },
   {
@@ -1152,6 +1432,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Provasiu (Callia Juagiu P de christiana)"
   },
   {
@@ -1159,6 +1441,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Johanne (1 Gereslees)"
   },
   {
@@ -1169,6 +1453,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Griboldu (abb\u00e9 de S. 988)"
   },
   {
@@ -1179,6 +1465,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Warnerus (Pul Oliva)"
   },
   {
@@ -1186,6 +1474,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Vuipertus (Callia Juagiu P de christiana)"
   },
   {
@@ -1193,6 +1483,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Herbertus (1 Gereslees)"
   },
   {
@@ -1203,6 +1495,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Fecimus (abb\u00e9 de S. 988)"
   },
   {
@@ -1213,6 +1507,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Pr (Pul Oliva)"
   },
   {
@@ -1220,6 +1516,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Turoldu (Callia Juagiu P de christiana)"
   },
   {
@@ -1227,6 +1525,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Tiberiu (1 Gereslees)"
   },
   {
@@ -1237,6 +1537,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Hubertuss (abb\u00e9 de S. 988)"
   },
   {
@@ -1247,6 +1549,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Harduinus (Pul Oliva)"
   },
   {
@@ -1254,6 +1558,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Dominum (Callia Juagiu P de christiana)"
   },
   {
@@ -1261,6 +1567,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Et (1 Gereslees)"
   },
   {
@@ -1271,6 +1579,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Et (abb\u00e9 de S. 988)"
   },
   {
@@ -1281,6 +1591,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Cessit (Pul Oliva)"
   },
   {
@@ -1288,6 +1600,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Abdical (Callia Juagiu P de christiana)"
   },
   {
@@ -1295,6 +1609,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Copturus (1 Gereslees)"
   },
   {
@@ -1305,6 +1621,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ansoldus (abb\u00e9 de S. 988)"
   },
   {
@@ -1315,6 +1633,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ut (Pul Oliva)"
   },
   {
@@ -1322,6 +1642,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Pace (Callia Juagiu P de christiana)"
   },
   {
@@ -1329,6 +1651,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ame (1 Gereslees)"
   },
   {
@@ -1339,6 +1663,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Meau (abb\u00e9 de S. 988)"
   },
   {
@@ -1349,6 +1675,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Pectora (Pul Oliva)"
   },
   {
@@ -1356,6 +1684,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Martini (Callia Juagiu P de christiana)"
   },
   {
@@ -1363,6 +1693,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Domini (1 Gereslees)"
   },
   {
@@ -1373,6 +1705,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Qui (abb\u00e9 de S. 988)"
   },
   {
@@ -1383,6 +1717,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Cr (Pul Oliva)"
   },
   {
@@ -1390,6 +1726,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ascelinu (Callia Juagiu P de christiana)"
   },
   {
@@ -1397,6 +1735,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Stephanus (1 Gereslees)"
   },
   {
@@ -1407,6 +1747,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Quod (abb\u00e9 de S. 988)"
   },
   {
@@ -1417,6 +1759,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Fratribus (Pul Oliva)"
   },
   {
@@ -1424,6 +1768,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Exilium (Callia Juagiu P de christiana)"
   },
   {
@@ -1431,6 +1777,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Que (1 Gereslees)"
   },
   {
@@ -1441,6 +1789,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Tcodcrico (abb\u00e9 de S. 988)"
   },
   {
@@ -1451,6 +1801,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Desideriu (Pul Oliva)"
   },
   {
@@ -1458,6 +1810,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Non (Callia Juagiu P de christiana)"
   },
   {
@@ -1465,6 +1819,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Jugendu (1 Gereslees)"
   },
   {
@@ -1475,6 +1831,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Hestreboldo (abb\u00e9 de S. 988)"
   },
   {
@@ -1485,6 +1843,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Mors (Pul Oliva)"
   },
   {
@@ -1492,6 +1852,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Asteriu (Callia Juagiu P de christiana)"
   },
   {
@@ -1499,6 +1861,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Haec (1 Gereslees)"
   },
   {
@@ -1509,6 +1873,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Geraldu (abb\u00e9 de S. 988)"
   },
   {
@@ -1519,6 +1885,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Wilelmus (Pul Oliva)"
   },
   {
@@ -1526,6 +1894,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Moribus (Callia Juagiu P de christiana)"
   },
   {
@@ -1533,6 +1903,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Martino (1 Gereslees)"
   },
   {
@@ -1543,6 +1915,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Helisii (abb\u00e9 de S. 988)"
   },
   {
@@ -1553,6 +1927,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Nimirum (Pul Oliva)"
   },
   {
@@ -1560,6 +1936,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Constantiu (Callia Juagiu P de christiana)"
   },
   {
@@ -1567,6 +1945,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Goastansa (1 Gereslees)"
   },
   {
@@ -1577,6 +1957,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ititru (abb\u00e9 de S. 988)"
   },
   {
@@ -1587,6 +1969,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Domino (Pul Oliva)"
   },
   {
@@ -1594,6 +1978,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Bernardus (Callia Juagiu P de christiana)"
   },
   {
@@ -1601,6 +1987,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Lagn (1 Gereslees)"
   },
   {
@@ -1611,6 +1999,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Et (abb\u00e9 de S. 988)"
   },
   {
@@ -1621,6 +2011,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Finibus (Pul Oliva)"
   },
   {
@@ -1628,6 +2020,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Quod (Callia Juagiu P de christiana)"
   },
   {
@@ -1635,6 +2029,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Benedict (1 Gereslees)"
   },
   {
@@ -1645,6 +2041,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Sur (abb\u00e9 de S. 988)"
   },
   {
@@ -1655,6 +2053,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Servatii (Pul Oliva)"
   },
   {
@@ -1662,6 +2062,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Sicaput (Callia Juagiu P de christiana)"
   },
   {
@@ -1669,6 +2071,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Quod (1 Gereslees)"
   },
   {
@@ -1679,6 +2083,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Foederibus (abb\u00e9 de S. 988)"
   },
   {
@@ -1689,6 +2095,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Visere (Pul Oliva)"
   },
   {
@@ -1696,6 +2104,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Pro (Callia Juagiu P de christiana)"
   },
   {
@@ -1703,6 +2113,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Sit (1 Gereslees)"
   },
   {
@@ -1713,6 +2125,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Et (abb\u00e9 de S. 988)"
   },
   {
@@ -1723,6 +2137,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Valet (Pul Oliva)"
   },
   {
@@ -1730,6 +2146,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Mors (Callia Juagiu P de christiana)"
   },
   {
@@ -1737,6 +2155,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Perderet (1 Gereslees)"
   },
   {
@@ -1747,6 +2167,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Nobis (Pul Oliva)"
   },
   {
@@ -1754,6 +2176,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Congaudete (Callia Juagiu P de christiana)"
   },
   {
@@ -1761,6 +2185,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Vita (1 Gereslees)"
   },
   {
@@ -1771,6 +2197,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Trajectum (abb\u00e9 de S. 988)"
   },
   {
@@ -1781,6 +2209,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Turbarique (Pul Oliva)"
   },
   {
@@ -1788,6 +2218,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Elegi (Callia Juagiu P de christiana)"
   },
   {
@@ -1795,6 +2227,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Subtraxit (1 Gereslees)"
   },
   {
@@ -1805,6 +2239,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Lu (abb\u00e9 de S. 988)"
   },
   {
@@ -1815,6 +2251,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Letificat (Pul Oliva)"
   },
   {
@@ -1822,6 +2260,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Non (Callia Juagiu P de christiana)"
   },
   {
@@ -1829,6 +2269,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Nam (1 Gereslees)"
   },
   {
@@ -1839,6 +2281,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Aquens (Pul Oliva)"
   },
   {
@@ -1846,6 +2290,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Martynus (Callia Juagiu P de christiana)"
   },
   {
@@ -1853,6 +2299,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Albertu (1 Gereslees)"
   },
   {
@@ -1863,6 +2311,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Jam (abb\u00e9 de S. 988)"
   },
   {
@@ -1873,6 +2323,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Martham (Pul Oliva)"
   },
   {
@@ -1880,6 +2332,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Mutavit (Callia Juagiu P de christiana)"
   },
   {
@@ -1887,6 +2341,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Alter (1 Gereslees)"
   },
   {
@@ -1897,6 +2353,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Dulces (abb\u00e9 de S. 988)"
   },
   {
@@ -1907,6 +2365,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Luget (Pul Oliva)"
   },
   {
@@ -1914,6 +2374,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Occasu (Callia Juagiu P de christiana)"
   },
   {
@@ -1921,6 +2383,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ordine (1 Gereslees)"
   },
   {
@@ -1931,6 +2395,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Quos (Pul Oliva)"
   },
   {
@@ -1938,6 +2404,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Berengerins (Callia Juagiu P de christiana)"
   },
   {
@@ -1945,6 +2413,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Alecherius (1 Gereslees)"
   },
   {
@@ -1955,6 +2425,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Stephanus (abb\u00e9 de S. 988)"
   },
   {
@@ -1965,6 +2437,8 @@
       45.2933,
       3.3847
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Prvpos (' cit\u00e9 pour Je milieu du XI s restitution)"
   },
   {
@@ -1975,6 +2449,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Dyonisii (Pul Oliva)"
   },
   {
@@ -1982,6 +2458,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Marti (Callia Juagiu P de christiana)"
   },
   {
@@ -1989,6 +2467,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Fhoebus (1 Gereslees)"
   },
   {
@@ -1999,6 +2479,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Stephanus (abb\u00e9 de S. 988)"
   },
   {
@@ -2009,6 +2491,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Deu (Pul Oliva)"
   },
   {
@@ -2016,6 +2500,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Et (Callia Juagiu P de christiana)"
   },
   {
@@ -2023,6 +2509,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Quis (1 Gereslees)"
   },
   {
@@ -2033,6 +2521,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Que (Pul Oliva)"
   },
   {
@@ -2040,6 +2530,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Participant (Callia Juagiu P de christiana)"
   },
   {
@@ -2047,6 +2539,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Sunt (1 Gereslees)"
   },
   {
@@ -2057,6 +2551,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Non (Pul Oliva)"
   },
   {
@@ -2064,6 +2560,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Wifredi (Callia Juagiu P de christiana)"
   },
   {
@@ -2071,6 +2569,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Christo (1 Gereslees)"
   },
   {
@@ -2081,6 +2581,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ite (abb\u00e9 de S. 988)"
   },
   {
@@ -2091,6 +2593,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Olim (Pul Oliva)"
   },
   {
@@ -2098,6 +2602,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Nostra (Callia Juagiu P de christiana)"
   },
   {
@@ -2105,6 +2611,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Nostro (1 Gereslees)"
   },
   {
@@ -2115,6 +2623,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Et (Pul Oliva)"
   },
   {
@@ -2122,6 +2632,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Addictam (Callia Juagiu P de christiana)"
   },
   {
@@ -2129,6 +2641,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ut (1 Gereslees)"
   },
   {
@@ -2139,6 +2653,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Coelitus (abb\u00e9 de S. 988)"
   },
   {
@@ -2149,6 +2665,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Hic (Pul Oliva)"
   },
   {
@@ -2156,6 +2674,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Lethes (Callia Juagiu P de christiana)"
   },
   {
@@ -2163,6 +2683,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Baldrico (1 Gereslees)"
   },
   {
@@ -2173,6 +2695,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Lyo (abb\u00e9 de S. 988)"
   },
   {
@@ -2183,6 +2707,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Domino (Pul Oliva)"
   },
   {
@@ -2190,6 +2716,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Conditor (Callia Juagiu P de christiana)"
   },
   {
@@ -2197,6 +2725,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Cunctaque (1 Gereslees)"
   },
   {
@@ -2207,6 +2737,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Cerritaniensis (abb\u00e9 de S. 988)"
   },
   {
@@ -2217,6 +2749,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Dis (Pul Oliva)"
   },
   {
@@ -2224,6 +2758,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Quam (Callia Juagiu P de christiana)"
   },
   {
@@ -2231,6 +2767,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Wifred (1 Gereslees)"
   },
   {
@@ -2241,6 +2779,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Or (abb\u00e9 de S. 988)"
   },
   {
@@ -2251,6 +2791,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Item (Pul Oliva)"
   },
   {
@@ -2258,6 +2800,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Croi (Callia Juagiu P de christiana)"
   },
   {
@@ -2265,6 +2809,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Item (1 Gereslees)"
   },
   {
@@ -2275,6 +2821,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Haec (abb\u00e9 de S. 988)"
   },
   {
@@ -2282,6 +2830,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
     "description": "Visited: Wifred (Callia Juagiu P de christiana)"
   },
   {
@@ -2289,6 +2839,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
     "description": "Visited: Vosqu (1 Gereslees)"
   },
   {
@@ -2299,6 +2851,8 @@
       46.0022,
       0.2818
     ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
     "description": "Visited: Si (abb\u00e9 de S. 988)"
   },
   {
@@ -2309,6 +2863,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Mammona (Pul Oliva)"
   },
   {
@@ -2316,6 +2872,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Mortuus (Callia Juagiu P de christiana)"
   },
   {
@@ -2323,6 +2881,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Christ (1 Gereslees)"
   },
   {
@@ -2333,6 +2893,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Publica (abb\u00e9 de S. 988)"
   },
   {
@@ -2343,6 +2905,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Vobiscum (Pul Oliva)"
   },
   {
@@ -2350,6 +2914,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Lux (Callia Juagiu P de christiana)"
   },
   {
@@ -2357,6 +2923,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Vit (1 Gereslees)"
   },
   {
@@ -2367,6 +2935,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Ame (abb\u00e9 de S. 988)"
   },
   {
@@ -2377,6 +2947,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Otia (Pul Oliva)"
   },
   {
@@ -2384,6 +2956,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Domin (Callia Juagiu P de christiana)"
   },
   {
@@ -2391,6 +2965,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Itc (1 Gereslees)"
   },
   {
@@ -2401,6 +2977,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Propr (abb\u00e9 de S. 988)"
   },
   {
@@ -2408,6 +2986,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
     "description": "Visited: Mauro (Callia Juagiu P de christiana)"
   },
   {
@@ -2415,6 +2995,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
     "description": "Visited: Walon (1 Gereslees)"
   },
   {
@@ -2425,6 +3007,8 @@
       46.0022,
       0.2818
     ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
     "description": "Visited: Precipu (abb\u00e9 de S. 988)"
   },
   {
@@ -2435,6 +3019,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Guifredu (Pul Oliva)"
   },
   {
@@ -2442,6 +3028,8 @@
     "type": "stop",
     "name": "par",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Nos (Callia Juagiu P de christiana)"
   },
   {
@@ -2449,6 +3037,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Deo (1 Gereslees)"
   },
   {
@@ -2459,6 +3049,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Inecea (abb\u00e9 de S. 988)"
   },
   {
@@ -2469,6 +3061,8 @@
       47.8093,
       2.3053
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Geraldus (Pul Oliva)"
   },
   {
@@ -2476,6 +3070,8 @@
     "type": "stop",
     "name": "Limoges",
     "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Jimina (1 Gereslees)"
   },
   {
@@ -2486,6 +3082,8 @@
       46.0022,
       0.2818
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Gairaldo (abb\u00e9 de S. 988)"
   },
   {
@@ -2496,6 +3094,8 @@
       45.2933,
       3.3847
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Virgineis (' cit\u00e9 pour Je milieu du XI s restitution)"
   },
   {
@@ -2506,6 +3106,8 @@
       48.9358,
       2.3598
     ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
     "description": "Visited: Grandil ([\")"
   }
 ]

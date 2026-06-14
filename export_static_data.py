@@ -106,43 +106,60 @@ GEOLOCATIONS = {
     "montierneuf": [46.5802, 0.3404, "Montierneuf Abbey, France"]
 }
 
+ROMAN_CENTURIES = {
+    'VII': 650, 'VIII': 750, 'IX': 850, 'X': 950, 'XI': 1050, 'XII': 1150, 'XIII': 1250, 'XIV': 1350, 'XV': 1450, 'XVI': 1550
+}
+
+def extract_year(date_str):
+    if not date_str: return None
+    
+    # 1. Match specific 4-digit years (e.g. 762, 859, 1020)
+    # Prefer years > 500 to avoid matching small numbers
+    years = re.findall(r'\b(5\d{2}|[6-9]\d{2}|1\d{3})\b', date_str)
+    if years:
+        return int(years[0])
+        
+    # 2. Match centuries (e.g. VIII s, IXe s)
+    for rom, yr in ROMAN_CENTURIES.items():
+        if f"{rom}'" in date_str or f"{rom}\"" in date_str or f"{rom} " in date_str:
+            return yr
+            
+    return None
+
 def get_db_connection():
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     return conn
 
 def geocode_location(name):
-    if not name:
-        return None
+    if not name: return None
     s = name.strip().lower()
-    if s in GEOLOCATIONS:
-        return GEOLOCATIONS[s]
+    if s in GEOLOCATIONS: return GEOLOCATIONS[s]
     for key, val in GEOLOCATIONS.items():
-        if key in s:
-            return val
+        if key in s: return val
     return None
 
 def get_roll_travels(conn, roll_id):
     cursor = conn.cursor()
     cursor.execute("SELECT * FROM rolls WHERE id = ?", (roll_id,))
     roll_row = cursor.fetchone()
-    if not roll_row:
-        return []
+    if not roll_row: return []
     roll = dict(roll_row)
+    
+    roll_year = extract_year(roll["date_str"])
     
     origin_geo = None
     origin_name = "Origin"
     for word in re.findall(r'\b[A-Za-zÀ-ÿ\-]+\b', roll["title"] + " " + roll["manuscripts"]):
         geo = geocode_location(word)
         if geo:
-            origin_geo = geo
-            origin_name = geo[2]
-            break
+            origin_geo = geo; origin_name = geo[2]; break
             
     travels = []
     if origin_geo:
         travels.append({
             "step": 0, "type": "origin", "name": origin_name, "coords": origin_geo[:2],
+            "year": roll_year, "date_str": roll["date_str"],
             "description": f"Origin: {roll['title'][:50]}..."
         })
     else:
@@ -152,7 +169,9 @@ def get_roll_travels(conn, roll_id):
         filtered = [w for w in words if w.lower() not in exclude_lower]
         if filtered:
             travels.append({
-                "step": 0, "type": "origin", "name": filtered[0], "coords": None, "description": f"Origin: {roll['title'][:50]}..."
+                "step": 0, "type": "origin", "name": filtered[0], "coords": None,
+                "year": roll_year, "date_str": roll["date_str"],
+                "description": f"Origin: {roll['title'][:50]}..."
             })
         
     cursor.execute("SELECT * FROM tituli WHERE roll_id = ? ORDER BY id", (roll_id,))
@@ -162,8 +181,19 @@ def get_roll_travels(conn, roll_id):
     for tit in tituli:
         cursor.execute("SELECT * FROM entities WHERE titulus_id = ? ORDER BY id", (tit["id"],))
         entities = [dict(row) for row in cursor.fetchall()]
-        entity_locations = [ent for ent in entities if ent["location_name"]]
         
+        # Try to find a date in entities
+        tit_year = roll_year
+        tit_date_str = roll["date_str"]
+        for ent in entities:
+            if ent["normalized_dates"]:
+                ey = extract_year(ent["normalized_dates"])
+                if ey: 
+                    tit_year = ey
+                    tit_date_str = ent["normalized_dates"]
+                    break
+        
+        entity_locations = [ent for ent in entities if ent["location_name"]]
         if entity_locations:
             for ent in entity_locations:
                 geo = geocode_location(ent["location_name"])
@@ -173,74 +203,55 @@ def get_roll_travels(conn, roll_id):
                 
                 is_duplicate = False
                 if travels:
-                    last_travel = travels[-1]
-                    if coords is not None and last_travel["coords"] is not None:
-                        is_duplicate = (last_travel["coords"] == coords)
-                    else:
-                        is_duplicate = (last_travel["name"].lower() == tit_loc_name.lower())
+                    last = travels[-1]
+                    is_duplicate = (last["coords"] == coords) if coords and last["coords"] else (last["name"].lower() == tit_loc_name.lower())
                         
                 if not is_duplicate:
                     travels.append({
-                        "step": step, "type": "stop", "name": tit_loc_name, "coords": coords, "description": f"Visited: {tit_desc}"
+                        "step": step, "type": "stop", "name": tit_loc_name, "coords": coords,
+                        "year": tit_year, "date_str": tit_date_str,
+                        "description": f"Visited: {tit_desc}"
                     })
                     step += 1
         else:
-            tit_geo = None
-            tit_loc_name = ""
-            tit_desc = ""
+            tit_geo = None; tit_loc_name = ""
             for word in re.findall(r'\b[A-Za-zÀ-ÿ\-]+\b', tit["title"]):
                 geo = geocode_location(word)
-                if geo:
-                    tit_geo = geo
-                    tit_loc_name = geo[2]
-                    tit_desc = tit["title"]
-                    break
+                if geo: tit_geo = geo; tit_loc_name = geo[2]; break
             if not tit_geo:
                 words = re.findall(r'\b[A-Z][a-zA-ZÀ-ÿ\-]+\b', tit["title"])
                 exclude = {"T", "S", "Sancti", "Sancte", "Sanctorum", "Sanctique", "Sanctus", "Sanctis", "Anima", "Amen", "Orate", "Oravimus", "Abbas", "Abbatis", "Titulus", "Implicit", "Deus", "Domini", "Domino", "Dominus", "Christo", "Christi", "Maria", "Marie", "Petri", "Martyris", "Apostolorum", "Pauli", "Johannis", "Trinitatis", "Ecclesie", "Monasterii", "Cenobii", "Cujus", "Vitalis", "Vitali", "Hospitalitatis", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XV", "XVI", "XVII", "XVIII", "XIX", "XX"}
                 exclude_lower = {e.lower() for e in exclude}
                 filtered = [w for w in words if w.lower() not in exclude_lower]
-                if filtered:
-                    tit_loc_name = filtered[0]
-                    tit_desc = tit["title"]
+                if filtered: tit_loc_name = filtered[0]
             if tit_geo or tit_loc_name:
                 coords = tit_geo[:2] if tit_geo else None
                 is_duplicate = False
                 if travels:
-                    last_travel = travels[-1]
-                    if coords is not None and last_travel["coords"] is not None:
-                        is_duplicate = (last_travel["coords"] == coords)
-                    else:
-                        is_duplicate = (last_travel["name"].lower() == tit_loc_name.lower())
+                    last = travels[-1]
+                    is_duplicate = (last["coords"] == coords) if coords and last["coords"] else (last["name"].lower() == tit_loc_name.lower())
                 if not is_duplicate:
                     travels.append({
-                        "step": step, "type": "stop", "name": tit_loc_name, "coords": coords, "description": f"Visited: {tit_desc}"
+                        "step": step, "type": "stop", "name": tit_loc_name, "coords": coords,
+                        "year": tit_year, "date_str": tit_date_str,
+                        "description": f"Visited: {tit['title']}"
                     })
                     step += 1
     return travels
 
 def export_data():
-    print(f"DEBUG: Current directory: {os.getcwd()}")
-    if not os.path.exists(DB_PATH):
-        print(f"❌ Error: {DB_PATH} not found.")
-        sys.exit(1)
+    if not os.path.exists(DB_PATH): sys.exit(1)
     conn = get_db_connection()
     cursor = conn.cursor()
-    try:
-        cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='rolls'")
-        if not cursor.fetchone():
-            print("❌ Error: 'rolls' table not found in database.")
-            sys.exit(1)
-    except Exception as e:
-        print(f"❌ Database error: {e}")
-        sys.exit(1)
-
-    if os.path.exists(OUTPUT_DIR):
-        shutil.rmtree(OUTPUT_DIR)
+    
+    if os.path.exists(OUTPUT_DIR): shutil.rmtree(OUTPUT_DIR)
     os.makedirs(OUTPUT_DIR)
     
     cursor.execute("SELECT * FROM rolls ORDER BY id")
     rolls = [dict(row) for row in cursor.fetchall()]
+    for r in rolls:
+        r["year"] = extract_year(r["date_str"])
+        
     with open(os.path.join(OUTPUT_DIR, "rolls.json"), "w") as f:
         json.dump(rolls, f, indent=2)
 
@@ -269,7 +280,7 @@ def export_data():
                 json.dump(travels, f, indent=2)
             all_travels[roll_id] = {
                 "roll_num": roll["roll_num"], "title": roll["title"],
-                "date_str": roll["date_str"], "travels": travels
+                "date_str": roll["date_str"], "year": roll["year"], "travels": travels
             }
 
     with open(os.path.join(OUTPUT_DIR, "travels.json"), "w") as f:

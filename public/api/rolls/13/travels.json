@@ -4,6 +4,8 @@
     "type": "origin",
     "name": "Institution",
     "coords": null,
+    "year": 859,
+    "date_str": "859. 14 juin.",
     "description": "Origin: Institution de  litterae currentes lors du concile..."
   },
   {
@@ -14,6 +16,8 @@
       47.2378,
       6.0241
     ],
+    "year": 843,
+    "date_str": "843-870",
     "description": "Visited: Placuit (30n sujel)"
   },
   {
@@ -24,6 +28,8 @@
       49.5807,
       2.9995
     ],
+    "year": 843,
+    "date_str": "843-870",
     "description": "Visited: Tullensium (\u00e9v\u00eaque de Noyon fut en charge de 8A1 \u00e0 860 environ)"
   },
   {
@@ -34,6 +40,8 @@
       47.2378,
       6.0241
     ],
+    "year": 843,
+    "date_str": "843-870",
     "description": "Visited: Gratianopolitanus (30n sujel)"
   },
   {
@@ -44,6 +52,8 @@
       49.5807,
       2.9995
     ],
+    "year": 843,
+    "date_str": "843-870",
     "description": "Visited: Ebo (\u00e9v\u00eaque de Noyon fut en charge de 8A1 \u00e0 860 environ)"
   },
   {
@@ -54,6 +64,8 @@
       47.2378,
       6.0241
     ],
+    "year": 843,
+    "date_str": "843-870",
     "description": "Visited: Franco (30n sujel)"
   },
   {
@@ -64,6 +76,8 @@
       49.5807,
       2.9995
     ],
+    "year": 843,
+    "date_str": "843-870",
     "description": "Visited: Agius (\u00e9v\u00eaque de Noyon fut en charge de 8A1 \u00e0 860 environ)"
   },
   {
@@ -74,6 +88,8 @@
       46.7833,
       4.85
     ],
+    "year": 843,
+    "date_str": "843-870",
     "description": "Visited: Meldensis ()"
   }
 ]

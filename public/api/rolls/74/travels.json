@@ -4,6 +4,8 @@
     "type": "origin",
     "name": "Encyclique",
     "coords": null,
+    "year": 1112,
+    "date_str": "S.d. [1112, apr\u00e8s le 21 janvier]",
     "description": "Origin: 15 Encyclique sollicitant de prier (P 21 janvier 1..."
   },
   {
@@ -14,6 +16,8 @@
       50.3854,
       3.2323
     ],
+    "year": 1112,
+    "date_str": "1112- (6",
     "description": "Visited: Christus (Domini abys- Cf. Ps.)"
   }
 ]
