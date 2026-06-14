@@ -32,6 +32,52 @@ const getApiUrl = (path) => {
   return path;
 };
 
+// Custom Dual-Handle Range Slider Component
+const RangeSlider = ({ min, max, value, onChange }) => {
+  const [lower, upper] = value;
+  
+  const handleLowerChange = (e) => {
+    const val = Math.min(Number(e.target.value), upper - 1);
+    onChange([val, upper]);
+  };
+  
+  const handleUpperChange = (e) => {
+    const val = Math.max(Number(e.target.value), lower + 1);
+    onChange([lower, val]);
+  };
+
+  const minPos = ((lower - min) / (max - min)) * 100;
+  const maxPos = ((upper - min) / (max - min)) * 100;
+
+  return (
+    <div className="range-container">
+      <div className="range-track" />
+      <div 
+        className="range-highlight" 
+        style={{ left: `${minPos}%`, width: `${maxPos - minPos}%` }} 
+      />
+      <input
+        type="range"
+        min={min}
+        max={max}
+        value={lower}
+        onChange={handleLowerChange}
+        className="range-input"
+        style={{ zIndex: lower > (max - min) / 2 ? 5 : 4 }}
+      />
+      <input
+        type="range"
+        min={min}
+        max={max}
+        value={upper}
+        onChange={handleUpperChange}
+        className="range-input"
+        style={{ zIndex: 4 }}
+      />
+    </div>
+  );
+};
+
 export default function App() {
   const [activeTab, setActiveTab] = useState('dashboard'); // dashboard, explorer, verification, export
   const [yearFilter, setYearFilter] = useState([600, 1600]);
@@ -783,39 +829,12 @@ export default function App() {
                         Reset Filter
                       </button>
                     </div>
-                  <div className="range-container">
-                    <div className="range-track"></div>
-                    <div 
-                      className="range-highlight"
-                      style={{
-                        left: `${((yearFilter[0] - availableYearRange[0]) / (availableYearRange[1] - availableYearRange[0])) * 100}%`,
-                        width: `${((yearFilter[1] - yearFilter[0]) / (availableYearRange[1] - availableYearRange[0])) * 100}%`
-                      }}
-                    ></div>
-                    <input 
-                      type="range" 
-                      min={availableYearRange[0]} 
-                      max={availableYearRange[1]} 
-                      value={yearFilter[0]} 
-                      onChange={e => {
-                        const val = Math.min(Number(e.target.value), yearFilter[1] - 10);
-                        setYearFilter([val, yearFilter[1]]);
-                      }}
-                      className="range-input"
+                    <RangeSlider 
+                      min={availableYearRange[0]}
+                      max={availableYearRange[1]}
+                      value={yearFilter}
+                      onChange={setYearFilter}
                     />
-                    <input 
-                      type="range" 
-                      min={availableYearRange[0]} 
-                      max={availableYearRange[1]} 
-                      value={yearFilter[1]} 
-                      onChange={e => {
-                        const val = Math.max(Number(e.target.value), yearFilter[0] + 10);
-                        setYearFilter([yearFilter[0], val]);
-                      }}
-                      className="range-input"
-                    />
-                  </div>
-
                   </div>
 
                   <div className="glass-panel" style={{ padding: '16px 24px', width: '250px' }}>

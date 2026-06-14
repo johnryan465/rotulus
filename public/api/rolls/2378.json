@@ -1,0 +1,42 @@
+{
+  "roll": {
+    "id": 2378,
+    "roll_num": "10",
+    "date_str": "S.d. [774-vers 786]",
+    "title": "Premi\u00e8re formule de bref mortuaire \u00e0 lusage de Murbach . A. Original perdu. B.Sankt Gallen, Stiftsbibl., 550, P. 149 (IX' &.). a,E. dc Rozi\u00e8re, Formules in\u00e9dites, publiees &apr\u00e8s un ms.de S.Gall, Paris, 1853, p. 22, n\" 30,~b. E. de Rozi\u00e8re, Formules, 2 partie, P. 952, 2\" 680. c. K. Zeumer; Formulae merowingici et 15 karolini aevi ( M. G. H, Leges), P. 331, Formulae Morbacenses, n? 7. IvDIQU\u00c9 M. Rothenh\u00e4user; K. Beyerle, Die Regel des hL. Benedikt, das Gesetz des Inselklosters und scine Veruncklichung % dans Die Kultur der Abtei Reichenau. Erinnerungsschrift zum zw\u00f6lfhundertsten Wiederkehr des Grundungsjahres des Inselklosters, 724-1924, Munchen, L. 1, 1925, P. 300. 20 Pour K. Zeumer (loc. cil) celte formule peut \u00eatre plac\u00e9e sous l'abbatiat d'Amico (774-vers 786) . Pro defuncto fratre Domino reverentissimo illo abbati ille abbas in Domino salutem. De cetero innotescimus beatitudine vestre; eo quod frater noster nomine ille ill. kal. de ac luce migravit. Qua de causa exoramus sanctitatem vestram; ut pro ejus anime de 25 psalmis seu missis vigiliisque taliter agatis, quatenus obtime continet consuetudo vestra. 7e6 750/778 Handho Arano",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "2,3,5,7",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 13160,
+      "roll_id": 2378,
+      "title": "Implicit Titulus",
+      "location_name": "",
+      "latin_text": "4 l\u00e0y S.d. [732-754, 5 juin] Mention de litterae [pro defunctis] adress\u00e9es par Boniface \u00e0 perdu. Cabb\u00e9 = 4 Original Aldherius , 5 B. Karlsruhe, Badische Landesbibl , Rastatt 22, fol. 1O6v. c. lat. 751, fol. 17 (milieu du IX' s.). Wien, \u00f6sterreichische ` JL Tangl, Bonifatius; P. 63, n\" 38. 6. R Rau, ,Nationalhihy , 0. Briefe des Bonifatius Darmstadt, 1968, p. 116, n? 38. Bonifatius. Willibalds Leben 7 TRADUCTION (allemande) R. Rau, op cit., p. 117. d4 10 INDIQu\u00c9 Annales ordinis sancti Benedicti, t. III, P. 76. G. p. 21, n. 95.-L. Delisle; Vital de Savignys P. &. Zappert, Verbr\u00fcderungensb\u00fcche ] 7l Les limites chronologiques indiqu\u00e9es sont celles de F\u00e9piscopat de Rien ne permet didentifier Tabb\u00e9 Aldherius Boniface (1) Venerando fratri Aldherio abbati Bonifatius, exiguus 15 Christo salutem servus Similiter ut pro dormientium fratrum servorum Dei, in laborabant in Domino, orationum adjuvamina animabus; qui et nobiscum missarum solemnia faciatis precamur; quorum nomina gerulus harum litterarum celebrare demonstrabit, 5 S.d. [760-762] 20 Stetuts dune association de pri\u00e8res pour les d\u00e9funts \u00e9tablis lors du concile dAti gny 4. Original perdu, B. Vaticano, Palat, 577, fol.6 (VIII-IX' s) () son propos; cf entre autres (Winfrid) - Bonifatius LIL dans   Zexikon   des   Miuclaliers, col 4174421. ce sujet, cf notamment K, Schmnid, und Wirkune 0 G. Oexle: Voraussetzungen dans _ Francia des Gebetsbundes von Attigny 12 1974 p 71-122",
+      "pdf_page": 3,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 12981,
+      "roll_id": 2378,
+      "pdf_page": 2,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "(4uulraad sanctae congregationi sub cura illius regularil tius;   sine praerogativa  meritorum   nominatu caritatis salutem Diligenter quoque depreca tis inter nos sit et pro viventibus oratio cor saeculo   orationes et missarum sollemnia defunctorum inter nos mittantur."
+    },
+    {
+      "id": 12982,
+      "roll_id": 2378,
+      "pdf_page": 2,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "normam custodienti Bonifa- 5 episcopus; obtabilem in Christo mur; ut familiaritas fraternae carita- nmonis et pro migrantibus de hoc 30 lebrentur; cum alternatim  nomina"
+    }
+  ]
+}
