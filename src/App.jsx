@@ -49,6 +49,7 @@ export default function App() {
   // Map states
   const mapInstanceRef = React.useRef(null);
   const [mapRollId, setMapRollId] = useState(null);
+  const [stopsFilter, setStopsFilter] = useState(0);
   const [travelPath, setTravelPath] = useState([]);
   const [allTravelsData, setAllTravelsData] = useState({});
   
@@ -117,6 +118,14 @@ export default function App() {
   }, [activeTab, rolls]);
 
   useEffect(() => {
+    window.gotoRoll = (id) => {
+      handleSelectRoll(Number(id));
+      setActiveTab('explorer');
+    };
+    return () => { delete window.gotoRoll; };
+  }, [rolls]);
+
+  useEffect(() => {
     if (activeTab !== 'map' || !mapRollId) return;
 
     const fetchTravels = async () => {
@@ -174,9 +183,11 @@ export default function App() {
             let colorIdx = 0;
             const allCoords = [];
 
-            Object.entries(data).forEach(([_, rInfo]) => {
-              // Time Filter
+            Object.entries(data).forEach(([rId, rInfo]) => {
+              // Filters
               if (rInfo.year && (rInfo.year < yearFilter[0] || rInfo.year > yearFilter[1])) return;
+              if (rInfo.num_stops < stopsFilter) return;
+
               const rollTravels = rInfo.travels;
               if (rollTravels.length === 0) return;
 
@@ -212,9 +223,10 @@ export default function App() {
                       <h4 style="margin: 0 0 4px 0; font-size: 13px; color: ${color};">
                         Roll ${rInfo.roll_num} [Approximate]
                       </h4>
-                      <p style="margin: 0; font-size: 12px; font-weight: 500;">${loc.name}</p>
+                      <p style="margin: 0 0 8px 0; font-size: 12px; font-weight: 500;">${loc.name}</p>
+                      <button onclick="window.gotoRoll(${rId})" style="background: var(--primary); color: white; border: none; padding: 4px 8px; border-radius: 2px; cursor: pointer; font-size: 11px; width: 100%;">View Scroll Details</button>
                     </div>
-                  `);
+                  `, { maxWidth: 200 });
                 } else {
                   // Render as Point Marker
                   const marker = window.L.circleMarker(loc.coords, {
@@ -232,8 +244,8 @@ export default function App() {
                         Roll ${rInfo.roll_num} (${isOrigin ? '🚩 Origin' : `📍 Stop ${index}`})
                       </h4>
                       <p style="margin: 0 0 4px 0; font-size: 12px; font-weight: 500;">${loc.name}</p>
-                      <p style="margin: 0 0 4px 0; font-size: 11px; color: #64748b;">${loc.date_str || ''}</p>
-                      <p style="margin: 0; font-size: 10px; color: #94a3b8;">${loc.description}</p>
+                      <p style="margin: 0 0 8px 0; font-size: 11px; color: #64748b;">${loc.date_str || ''}</p>
+                      <button onclick="window.gotoRoll(${rId})" style="background: var(--primary); color: white; border: none; padding: 4px 8px; border-radius: 2px; cursor: pointer; font-size: 11px; width: 100%;">View Scroll Details</button>
                     </div>
                   `;
                   marker.bindPopup(popupContent);
@@ -344,7 +356,7 @@ export default function App() {
         mapInstanceRef.current = null;
       }
     };
-  }, [activeTab, mapRollId, yearFilter]);
+  }, [activeTab, mapRollId, yearFilter, stopsFilter]);
 
   // Fetch page bounds for overlay
   useEffect(() => {
@@ -757,49 +769,64 @@ export default function App() {
                 </div>
               </div>
 
-              {/* Time Filter Slider */}
+              {/* Filter Section */}
               {mapRollId === 'all' && (
-                <div className="glass-panel" style={{ padding: '16px 24px', maxWidth: '600px' }}>
-                  <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px' }}>
-                    <span style={{ fontSize: '14px', fontWeight: 'bold', fontFamily: 'Cinzel' }}>Time Range: {yearFilter[0]} – {yearFilter[1]}</span>
-                    <button 
-                      onClick={() => setYearFilter([availableYearRange[0], availableYearRange[1]])}
-                      className="tab-btn"
-                      style={{ padding: '2px 8px', fontSize: '11px' }}
-                    >
-                      Reset Filter
-                    </button>
+                <div style={{ display: 'flex', gap: '24px', flexWrap: 'wrap' }}>
+                  <div className="glass-panel" style={{ padding: '16px 24px', flex: 1, minWidth: '300px' }}>
+                    <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '12px' }}>
+                      <span style={{ fontSize: '14px', fontWeight: 'bold', fontFamily: 'Cinzel' }}>Time Range: {yearFilter[0]} – {yearFilter[1]}</span>
+                      <button 
+                        onClick={() => setYearFilter([availableYearRange[0], availableYearRange[1]])}
+                        className="tab-btn"
+                        style={{ padding: '2px 8px', fontSize: '11px' }}
+                      >
+                        Reset Filter
+                      </button>
+                    </div>
+                    <div className="range-container">
+                      <div className="range-track"></div>
+                      <input 
+                        type="range" 
+                        min={availableYearRange[0]} 
+                        max={availableYearRange[1]} 
+                        value={yearFilter[0]} 
+                        onChange={e => {
+                          const val = Math.min(Number(e.target.value), yearFilter[1] - 10);
+                          setYearFilter([val, yearFilter[1]]);
+                        }}
+                        className="range-input"
+                      />
+                      <input 
+                        type="range" 
+                        min={availableYearRange[0]} 
+                        max={availableYearRange[1]} 
+                        value={yearFilter[1]} 
+                        onChange={e => {
+                          const val = Math.max(Number(e.target.value), yearFilter[0] + 10);
+                          setYearFilter([yearFilter[0], val]);
+                        }}
+                        className="range-input"
+                      />
+                    </div>
                   </div>
-                  
-                  <div className="range-container">
-                    <div className="range-track"></div>
+
+                  <div className="glass-panel" style={{ padding: '16px 24px', width: '250px' }}>
+                    <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px' }}>
+                      <span style={{ fontSize: '14px', fontWeight: 'bold', fontFamily: 'Cinzel' }}>Min. Stops</span>
+                      <span className="rubric">{stopsFilter}+</span>
+                    </div>
                     <input 
                       type="range" 
-                      min={availableYearRange[0]} 
-                      max={availableYearRange[1]} 
-                      value={yearFilter[0]} 
-                      onChange={e => {
-                        const val = Math.min(Number(e.target.value), yearFilter[1] - 10);
-                        setYearFilter([val, yearFilter[1]]);
-                      }}
-                      className="range-input"
+                      min="0" 
+                      max="20" 
+                      value={stopsFilter} 
+                      onChange={e => setStopsFilter(Number(e.target.value))}
+                      style={{ width: '100%', accentColor: 'var(--accent)', cursor: 'pointer' }}
                     />
-                    <input 
-                      type="range" 
-                      min={availableYearRange[0]} 
-                      max={availableYearRange[1]} 
-                      value={yearFilter[1]} 
-                      onChange={e => {
-                        const val = Math.max(Number(e.target.value), yearFilter[0] + 10);
-                        setYearFilter([yearFilter[0], val]);
-                      }}
-                      className="range-input"
-                    />
-                  </div>
-                  
-                  <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '12px', color: 'var(--text-muted)', marginTop: '8px' }}>
-                    <span>{availableYearRange[0]} CE</span>
-                    <span>{availableYearRange[1]} CE</span>
+                    <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '11px', color: 'var(--text-muted)', marginTop: '4px' }}>
+                      <span>All</span>
+                      <span>Complex only</span>
+                    </div>
                   </div>
                 </div>
               )}

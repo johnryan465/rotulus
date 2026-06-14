@@ -58,12 +58,17 @@ def clean_roll_num_string(s):
     return cleaned
 
 def extract_numbers_from_cleaned(cleaned):
-    # Only look at the first 20 characters to avoid picking up footnote numbers 
-    # from OCR-merged text blocks.
-    prefix_part = cleaned[:20]
-    main_part = prefix_part.split('[')[0].strip()
-    digits = re.findall(r'\d+', main_part)
-    return [int(d) for d in digits]
+    # Specifically look for a range like "8-10" at the very start
+    range_match = re.match(r'^N?[^0-9]*(\d+)\s*[\-\/]\s*(\d+)', cleaned, re.IGNORECASE)
+    if range_match:
+        return [int(range_match.group(1)), int(range_match.group(2))]
+    
+    # Otherwise just take the first number after the prefix
+    num_match = re.search(r'\d+', cleaned)
+    if num_match:
+        return [int(num_match.group(0))]
+        
+    return []
 
 def is_valid_roll_number_line(line):
     # Strip whitespace and common punctuation

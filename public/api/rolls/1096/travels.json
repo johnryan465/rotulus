@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Origin: Encyclique anonyme. A. Original perdu. B. \u00c9pinal, ..."
+  }
+]

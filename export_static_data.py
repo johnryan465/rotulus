@@ -233,7 +233,6 @@ def get_roll_travels(conn, roll_id):
     roll = dict(row); roll_year = extract_year(roll["date_str"])
     
     origin_geo = None; origin_name = "Origin"
-    # Prioritize locations in roll metadata
     for word in re.findall(r'\b[A-Za-zÀ-ÿ\-]{3,}\b', roll["title"] + " " + roll["manuscripts"]):
         geo = geocode_location(word)
         if geo: origin_geo = geo; origin_name = geo[2]; break
@@ -262,27 +261,17 @@ def get_roll_travels(conn, roll_id):
     step = len(travels)
     for tit in tituli:
         loc_str = tit.get("location_name")
-        
-        # If there's no explicit location extracted from a Dufour header, skip it.
-        # This prevents "static" rolls like Roll 5 from plotting fake journeys.
-        if not loc_str:
-            continue
-            
+        if not loc_str: continue
         geo = geocode_location(loc_str)
         if geo:
-            loc_name = geo[2]
-            coords = geo[:2]
-            approx = geo[3]
+            loc_name = geo[2]; coords = geo[:2]; approx = geo[3]
         else:
-            loc_name = loc_str.strip()
-            coords = None
-            approx = True
+            loc_name = loc_str.strip(); coords = None; approx = True
             
         is_dup = False
         if travels:
             last = travels[-1]
             is_dup = (last["coords"] == coords) if coords and last["coords"] else (last["name"].lower() == loc_name.lower())
-            
         if not is_dup:
             travels.append({
                 "step": step, "type": "stop", "name": loc_name, "coords": coords,
@@ -290,7 +279,6 @@ def get_roll_travels(conn, roll_id):
                 "description": f"Titulus Header: {loc_str}"
             })
             step += 1
-            
     return travels
 
 def export_data():
@@ -301,11 +289,11 @@ def export_data():
     
     cursor.execute("SELECT * FROM rolls ORDER BY id")
     rolls = [dict(row) for row in cursor.fetchall()]
-    for r in rolls: r["year"] = extract_year(r["date_str"])
-    with open(os.path.join(OUTPUT_DIR, "rolls.json"), "w") as f: json.dump(rolls, f, indent=2)
-
+    
     roll_dir = os.path.join(OUTPUT_DIR, "rolls"); os.makedirs(roll_dir, exist_ok=True)
     all_travels = {}
+    rolls_with_stops = []
+
     for roll in rolls:
         roll_id = roll['id']
         cursor.execute("SELECT * FROM tituli WHERE roll_id = ? ORDER BY id", (roll_id,))
@@ -318,12 +306,29 @@ def export_data():
         with open(os.path.join(roll_dir, f"{roll_id}.json"), "w") as f: json.dump(detail, f, indent=2)
 
         travels = get_roll_travels(conn, roll_id)
+        num_stops = len([t for t in travels if t['type'] == 'stop'])
+        year = extract_year(roll["date_str"])
+        
         if travels:
             roll_travel_dir = os.path.join(roll_dir, str(roll_id)); os.makedirs(roll_travel_dir, exist_ok=True)
             with open(os.path.join(roll_travel_dir, "travels.json"), "w") as f: json.dump(travels, f, indent=2)
-            all_travels[roll_id] = {"roll_num": roll["roll_num"], "title": roll["title"], "date_str": roll["date_str"], "year": roll["year"], "travels": travels}
+            all_travels[roll_id] = {
+                "roll_num": roll["roll_num"], "title": roll["title"], 
+                "date_str": roll["date_str"], "year": year, 
+                "travels": travels, "num_stops": num_stops
+            }
+        
+        roll_dict = dict(roll)
+        roll_dict["num_stops"] = num_stops
+        roll_dict["year"] = year
+        rolls_with_stops.append(roll_dict)
 
-    with open(os.path.join(OUTPUT_DIR, "travels.json"), "w") as f: json.dump(all_travels, f, indent=2)
+    with open(os.path.join(OUTPUT_DIR, "rolls.json"), "w") as f:
+        json.dump(rolls_with_stops, f, indent=2)
+
+    with open(os.path.join(OUTPUT_DIR, "travels.json"), "w") as f:
+        json.dump(all_travels, f, indent=2)
+
     conn.close(); print(f"✅ Database exported to static JSON in {OUTPUT_DIR}")
 
 if __name__ == "__main__":

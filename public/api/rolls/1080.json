@@ -1,0 +1,175 @@
+{
+  "roll": {
+    "id": 1080,
+    "roll_num": "40",
+    "date_str": "S.d. [vers 972]",
+    "title": "Premi\u00e8re variante de la formule de bref mortuaire ins\u00e9r\u00e9e dans la \u20ac Regularis concor- dia de Dunstan.",
+    "manuscripts": "A. Original perdu.\nB. London; British Library; Cotton Faustina B 3, fol. 198v (fin X' &) 10 a. Th. Symons, Regularis concordia Anglicae nationis monachorum sanctimonialiumque; London; 1953, p 66, n. f, japr\u00e8s B. INDIQU\u00c9 Th. Symons; op. cit., P. LIIL\nLa date indiqu\u00e9e est celle de la r\u00e9daction de la \u00f8 Regularis concordia ^",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "24",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 5344,
+      "roll_id": 1080,
+      "title": "Implicit Titulus",
+      "location_name": "",
+      "latin_text": "Gratia Dei archiepiscopus ill. humilisque Christi Ecclesiae monachorum coetus  15 cunctis in Christo salutem fidelibus. Quoniam quidem karissimi caritatis vinculo jubemur   uniri dilectioneque Dei fervere et proximi et, quia Apostolo   scimus obediendum ita monenti Orate pro invicem; ut salvemini ) (2) , vestrae fraternitati notum cupimus fieri unum e nostris fratribus ill., sacerdotem (vel levitam) et monachum; ill. (vel XIkal. febr) ergastulo carnis exemptum; vitam finisse tempo-  2 ralem pro quo petimus ut strenui ipsa compellente _ caritate interventores existatis Omnipotens; precibus complacatus vestris; animam ejus gaudiis inserat sine quo Deum postulat quo spiritus ejus requiescat in fine mansuris.  Vivat valeatque qui pace. [972]",
+      "pdf_page": 24,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 89977,
+          "titulus_id": 5344,
+          "original_name": "Gratia",
+          "original_title": "archiepiscopus ill",
+          "footnote_num": "1",
+          "footnote_text": "Perse; Satires,  I, 27, \u00e9d. A. Cartault, Paris; 1920, P. 17.",
+          "normalized_name": "Gratia",
+          "normalized_role": "Perse",
+          "normalized_dates": "",
+          "location_name": "Paris"
+        },
+        {
+          "id": 89978,
+          "titulus_id": 5344,
+          "original_name": "Christ",
+          "original_title": "Ecclesiae monachorum coetus  15 cunctis in Christo salutem fidelibus",
+          "footnote_num": "2",
+          "footnote_text": ", V, 16.",
+          "normalized_name": "Christ",
+          "normalized_role": "Ecclesiae monachorum coetus  15 cunctis in Christo salutem fidelibus",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 89979,
+          "titulus_id": 5344,
+          "original_name": "Ecclesia",
+          "original_title": "monachorum coetus  15 cunctis in Christo salutem fidelibus",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Ecclesia",
+          "normalized_role": "monachorum coetus  15 cunctis in Christo salutem fidelibus",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 89980,
+          "titulus_id": 5344,
+          "original_name": "Christ",
+          "original_title": "salutem fidelibus",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Christ",
+          "normalized_role": "salutem fidelibus",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 89981,
+          "titulus_id": 5344,
+          "original_name": "Quonia",
+          "original_title": "quidem karissimi caritatis vinculo jubemur   uniri dilectioneque Dei fervere et proximi et",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Quonia",
+          "normalized_role": "quidem karissimi caritatis vinculo jubemur   uniri dilectioneque Dei fervere et proximi et",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 89982,
+          "titulus_id": 5344,
+          "original_name": "Apostol",
+          "original_title": "scimus obediendum ita monenti Orate pro invicem",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Apostol",
+          "normalized_role": "scimus obediendum ita monenti Orate pro invicem",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 89983,
+          "titulus_id": 5344,
+          "original_name": "Orate",
+          "original_title": "invicem",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Orate",
+          "normalized_role": "invicem",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 89984,
+          "titulus_id": 5344,
+          "original_name": "XIka",
+          "original_title": "",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "XIka",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 89985,
+          "titulus_id": 5344,
+          "original_name": "Omnipoten",
+          "original_title": "",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Omnipoten",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 89986,
+          "titulus_id": 5344,
+          "original_name": "Deu",
+          "original_title": "postulat quo spiritus ejus requiescat in fine mansuris",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Deu",
+          "normalized_role": "postulat quo spiritus ejus requiescat in fine mansuris",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 89987,
+          "titulus_id": 5344,
+          "original_name": "Viva",
+          "original_title": "valeatque qui pace",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Viva",
+          "normalized_role": "valeatque qui pace",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 5239,
+      "roll_id": 1080,
+      "pdf_page": 24,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Perse; Satires,  I, 27, \u00e9d. A. Cartault, Paris; 1920, P. 17."
+    },
+    {
+      "id": 5240,
+      "roll_id": 1080,
+      "pdf_page": 24,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": ", V, 16."
+    }
+  ]
+}
