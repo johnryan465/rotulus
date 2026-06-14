@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 979,
+    "date_str": "S.d. [apr\u00e8s fevricr 979]",
+    "is_approximate": false,
+    "description": "Origin: Titre versifi\u00e9 \u00e9crit \u00e0 Fleury: A. Original perdu. ..."
+  }
+]

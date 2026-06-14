@@ -783,31 +783,48 @@ export default function App() {
                         Reset Filter
                       </button>
                     </div>
-                    <div className="range-container">
-                      <div className="range-track"></div>
-                      <input 
-                        type="range" 
-                        min={availableYearRange[0]} 
-                        max={availableYearRange[1]} 
-                        value={yearFilter[0]} 
-                        onChange={e => {
-                          const val = Math.min(Number(e.target.value), yearFilter[1] - 10);
-                          setYearFilter([val, yearFilter[1]]);
-                        }}
-                        className="range-input"
-                      />
-                      <input 
-                        type="range" 
-                        min={availableYearRange[0]} 
-                        max={availableYearRange[1]} 
-                        value={yearFilter[1]} 
-                        onChange={e => {
-                          const val = Math.max(Number(e.target.value), yearFilter[0] + 10);
-                          setYearFilter([yearFilter[0], val]);
-                        }}
-                        className="range-input"
-                      />
-                    </div>
+                  <div className="range-container" style={{ height: '40px', marginTop: '20px' }}>
+                    <div className="range-track" style={{ height: '4px', background: 'var(--paper-dark)', border: '1px solid var(--border)' }}></div>
+                    <div 
+                      className="range-highlight"
+                      style={{
+                        position: 'absolute',
+                        height: '4px',
+                        background: 'var(--primary)',
+                        zIndex: 2,
+                        borderRadius: '2px',
+                        top: '50%',
+                        transform: 'translateY(-50%)',
+                        left: `${((yearFilter[0] - availableYearRange[0]) / (availableYearRange[1] - availableYearRange[0])) * 100}%`,
+                        width: `${((yearFilter[1] - yearFilter[0]) / (availableYearRange[1] - availableYearRange[0])) * 100}%`
+                      }}
+                    ></div>
+                    <input 
+                      type="range" 
+                      min={availableYearRange[0]} 
+                      max={availableYearRange[1]} 
+                      value={yearFilter[0]} 
+                      onChange={e => {
+                        const val = Math.min(Number(e.target.value), yearFilter[1] - 10);
+                        setYearFilter([val, yearFilter[1]]);
+                      }}
+                      className="range-input"
+                      style={{ zIndex: yearFilter[0] > (availableYearRange[1] - availableYearRange[0]) / 2 ? 5 : 4 }}
+                    />
+                    <input 
+                      type="range" 
+                      min={availableYearRange[0]} 
+                      max={availableYearRange[1]} 
+                      value={yearFilter[1]} 
+                      onChange={e => {
+                        const val = Math.max(Number(e.target.value), yearFilter[0] + 10);
+                        setYearFilter([yearFilter[0], val]);
+                      }}
+                      className="range-input"
+                      style={{ zIndex: 4 }}
+                    />
+                  </div>
+
                   </div>
 
                   <div className="glass-panel" style={{ padding: '16px 24px', width: '250px' }}>

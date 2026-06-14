@@ -30,6 +30,9 @@ jobs:
             cat build.log
             exit 1
           fi
+          
+      - name: Run Integrity Check
+        run: python3 test_integrity.py
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

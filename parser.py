@@ -58,16 +58,37 @@ def clean_roll_num_string(s):
     return cleaned
 
 def extract_numbers_from_cleaned(cleaned):
-    # Specifically look for a range like "8-10" at the very start
-    range_match = re.match(r'^N?[^0-9]*(\d+)\s*[\-\/]\s*(\d+)', cleaned, re.IGNORECASE)
-    if range_match:
-        return [int(range_match.group(1)), int(range_match.group(2))]
+    """
+    Find all roll numbers in a line, supporting ranges (e.g. 8-10) 
+    and individual numbers (e.g. 13).
+    """
+    found = set()
+    # Robust range expansion:
+    # 1. Find all explicit ranges (8-10)
+    ranges = re.findall(r'(\d+)\s*[\-\/]\s*(\d+)', cleaned)
+    for s_str, e_str in ranges:
+        s, e = int(s_str), int(e_str)
+        if 0 < e - s <= 20: # Sanity check for range size
+            for n in range(s, e + 1):
+                found.add(n)
     
-    # Otherwise just take the first number after the prefix
-    num_match = re.search(r'\d+', cleaned)
-    if num_match:
-        return [int(num_match.group(0))]
+    # 2. Find all individual numbers
+    nums = re.findall(r'\d+', cleaned)
+    for n_str in nums:
+        found.add(int(n_str))
         
+    # 3. Gap Filling: If we have multiple numbers, fill small gaps
+    # e.g., "1-3 5" -> [1, 2, 3, 5] -> [1, 2, 3, 4, 5]
+    if found:
+        sorted_found = sorted(list(found))
+        expanded = set(sorted_found)
+        for i in range(len(sorted_found) - 1):
+            a, b = sorted_found[i], sorted_found[i+1]
+            if 1 < b - a <= 3: # Fill small gaps of 1 or 2 missing rolls
+                for n in range(a + 1, b):
+                    expanded.add(n)
+        return sorted(list(expanded))
+            
     return []
 
 def is_valid_roll_number_line(line):
@@ -132,9 +153,9 @@ def parse_roll_header(lines, expected_next, pdf_max_roll=145):
         if nums and (len(cleaned) < 15 or has_n_prefix):
             # Rule 1 & 2: Allow the roll number if it is within the expected sequence.
             # If it has an N prefix, we allow a larger window (+20) to recover from OCR misses.
-            # If it's a pure number, we keep it VERY strict (0 or +1) to avoid margin numbers (10, 15, 20).
-            forward_window = 20 if has_n_prefix else 1
-            backward_window = 2 if has_n_prefix else 0
+            # If it's a pure number, we keep it strict to avoid margin numbers (10, 15, 20).
+            forward_window = 20 if has_n_prefix else 2
+            backward_window = 2 # Allow small overlap for all
             
             matched_num = None
             for n in nums:
@@ -856,6 +877,7 @@ def parse_and_load():
         roll_num_to_id = {}
         
         # First pass over items to insert rolls and map referenced footnote numbers to roll IDs
+        active_roll_ids = []
         for item_type, data in items:
             if item_type == 'roll':
                 raw_roll_num = data["roll_num"]
@@ -863,47 +885,38 @@ def parse_and_load():
                 active_roll_title = data["title"]
                 active_roll_manuscripts = data["manuscripts"]
                 
-                # RANGE EXPANSION: Convert "8-10" to ["8", "9", "10"]
-                nums_to_process = []
-                if "-" in str(raw_roll_num):
-                    try:
-                        start_n, end_n = map(int, str(raw_roll_num).split("-"))
-                        nums_to_process = [str(n) for n in range(start_n, end_n + 1)]
-                    except:
-                        nums_to_process = [str(raw_roll_num)]
-                else:
+                # Expand ranges using the improved logic
+                cleaned_num = clean_roll_num_string(str(raw_roll_num))
+                nums_to_process = [str(n) for n in extract_numbers_from_cleaned(cleaned_num)]
+                if not nums_to_process:
                     nums_to_process = [str(raw_roll_num)]
 
+                current_group_ids = []
                 for active_roll_num in nums_to_process:
-                    # UPSERT: Check if this roll number already exists to avoid duplicates
                     cursor.execute("SELECT id, title, manuscripts, pdf_pages FROM rolls WHERE roll_num = ?", (active_roll_num,))
                     existing = cursor.fetchone()
                     
                     if existing:
-                        active_roll_id = existing[0]
-                        # Update metadata only if the new one is significantly longer (better OCR)
+                        r_id = existing[0]
                         if len(active_roll_title) > len(existing[1]):
                             cursor.execute("UPDATE rolls SET title = ?, manuscripts = ?, date_str = ? WHERE id = ?", 
-                                         (active_roll_title, active_roll_manuscripts, active_roll_date, active_roll_id))
-                        
-                        # Append page to pages list
+                                         (active_roll_title, active_roll_manuscripts, active_roll_date, r_id))
                         pages_list = [p.strip() for p in existing[3].split(",") if p.strip()]
                         if str(page_num) not in pages_list:
                             pages_list.append(str(page_num))
-                            cursor.execute("UPDATE rolls SET pdf_pages = ? WHERE id = ?", (",".join(pages_list), active_roll_id))
+                            cursor.execute("UPDATE rolls SET pdf_pages = ? WHERE id = ?", (",".join(pages_list), r_id))
                     else:
                         cursor.execute("""
                         INSERT INTO rolls (roll_num, date_str, title, manuscripts, pdf_source, pdf_pages)
                         VALUES (?, ?, ?, ?, ?, ?)
                         """, (active_roll_num, active_roll_date, active_roll_title, active_roll_manuscripts, pdf_name, str(page_num)))
-                        active_roll_id = cursor.lastrowid
+                        r_id = cursor.lastrowid
                     
-                    roll_num_to_id[active_roll_num] = active_roll_id
-                    print(f"Expanding/Aggregating Roll {active_roll_num}: {active_roll_title[:50]}...")
+                    roll_num_to_id[active_roll_num] = r_id
+                    current_group_ids.append(r_id)
                 
-                # For subsequent tituli, we link to the last roll in the range (the most recent one)
-                # This is a heuristic: tituli usually follow the last header of the group.
-                active_roll_id = roll_num_to_id[nums_to_process[-1]]
+                active_roll_ids = current_group_ids
+                active_roll_id = active_roll_ids[-1]
                 
             elif item_type == 'titulus' and active_roll_id is not None:
                 text = " ".join(data["text_lines"])
@@ -916,73 +929,69 @@ def parse_and_load():
                     fn_to_roll[fn_num] = active_roll_id
                     
         if active_roll_id is None:
-            cursor.execute("""
-            INSERT INTO rolls (roll_num, date_str, title, manuscripts, pdf_source, pdf_pages)
-            VALUES (?, ?, ?, ?, ?, ?)
-            """, ("1", "S.d.", "Initial Roll", "", pdf_name, str(page_num)))
-            active_roll_id = cursor.lastrowid
+            # Fallback to roll 1 if nothing found on page
+            cursor.execute("SELECT id FROM rolls WHERE roll_num = '1'")
+            row1 = cursor.fetchone()
+            if row1: active_roll_id = row1[0]
             
-        cursor.execute("SELECT pdf_pages FROM rolls WHERE id = ?", (active_roll_id,))
-        pages_str = cursor.fetchone()[0]
-        pages_list = [p.strip() for p in pages_str.split(",") if p.strip()]
-        if str(page_num) not in pages_list:
-            pages_list.append(str(page_num))
-            cursor.execute("UPDATE rolls SET pdf_pages = ? WHERE id = ?", (",".join(pages_list), active_roll_id))
+        if active_roll_id is not None:
+            cursor.execute("SELECT pdf_pages FROM rolls WHERE id = ?", (active_roll_id,))
+            pages_str = cursor.fetchone()[0]
+            pages_list = [p.strip() for p in pages_str.split(",") if p.strip()]
+            if str(page_num) not in pages_list:
+                pages_list.append(str(page_num))
+                cursor.execute("UPDATE rolls SET pdf_pages = ? WHERE id = ?", (",".join(pages_list), active_roll_id))
             
         # Insert footnotes
         for fn in footnotes:
             fn_roll_id = fn_to_roll.get(fn["num"], active_roll_id)
-            cursor.execute("""
-            INSERT INTO footnotes (roll_id, pdf_page, pdf_half, footnote_num, text)
-            VALUES (?, ?, ?, ?, ?)
-            """, (fn_roll_id, fn["page"], fn["half"], fn["num"], fn["text"]))
+            if fn_roll_id is not None:
+                cursor.execute("""
+                INSERT INTO footnotes (roll_id, pdf_page, pdf_half, footnote_num, text)
+                VALUES (?, ?, ?, ?, ?)
+                """, (fn_roll_id, fn["page"], fn["half"], fn["num"], fn["text"]))
             
-        # Restore active roll ID for the second pass
+        # Restore state for second pass
+        active_roll_ids = []
         if start_page_roll_id is not None:
             active_roll_id = start_page_roll_id
+            cursor.execute("SELECT roll_num FROM rolls WHERE id = ?", (active_roll_id,))
+            rn = cursor.fetchone()[0]
+            active_roll_ids = [active_roll_id]
         else:
             if roll_num_to_id:
-                active_roll_id = list(roll_num_to_id.values())[0]
-        
+                first_num = sorted(roll_num_to_id.keys(), key=lambda x: int(x.split('-')[0]) if '-' in x else int(x))[0]
+                active_roll_id = roll_num_to_id[first_num]
+                active_roll_ids = [active_roll_id]
+
         # Second pass over items to insert tituli and extract/insert entities
         for item_type, data in items:
             if item_type == 'roll':
-                raw_roll_num = data["roll_num"]
-                nums_to_process = []
-                if "-" in str(raw_roll_num):
-                    try:
-                        start_n, end_n = map(int, str(raw_roll_num).split("-"))
-                        nums_to_process = [str(n) for n in range(start_n, end_n + 1)]
-                    except:
-                        nums_to_process = [str(raw_roll_num)]
-                else:
-                    nums_to_process = [str(raw_roll_num)]
-                
-                # Use the last one in range as the active ID for tituli follow-up
+                cleaned_num = clean_roll_num_string(str(data["roll_num"]))
+                nums_to_process = [str(n) for n in extract_numbers_from_cleaned(cleaned_num)]
+                if not nums_to_process:
+                    nums_to_process = [str(data["roll_num"])]
                 active_roll_ids = [roll_num_to_id[n] for n in nums_to_process]
                 active_roll_id = active_roll_ids[-1]
-                
+                print(f"Aggregating Roll {nums_to_process}: {data['title'][:50]}...")
             elif item_type == 'titulus':
                 latin_text = " ".join(data["text_lines"])
                 loc_name = data.get("location_name", "")
                 
-                # If we have a range (e.g. 8-10), we insert the titulus for EVERY roll in that range
-                # to ensure each scroll entry has the full data.
-                target_ids = active_roll_ids if 'active_roll_ids' in locals() else [active_roll_id]
-                
+                # Use current group
+                target_ids = active_roll_ids if active_roll_ids else [active_roll_id]
                 for r_id in target_ids:
+                    if r_id is None: continue
                     cursor.execute("""
                     INSERT INTO tituli (roll_id, title, location_name, latin_text, pdf_page, pdf_half)
                     VALUES (?, ?, ?, ?, ?, ?)
                     """, (r_id, data["title"], loc_name, latin_text, page_num, half))
                     titulus_id = cursor.lastrowid
                     
-                    # Fetch footnotes for this specific roll
                     cursor.execute("SELECT footnote_num, text FROM footnotes WHERE roll_id = ?", (r_id,))
                     roll_fns = [{"num": r["footnote_num"], "text": r["text"]} for r in cursor.fetchall()]
                     
                     entities = extract_entities(data, roll_fns)
-                    # ... (keep specialized Bonifacio logic) ...
                     if re.search(r'Domino\s+Bonifacio', data["title"]):
                         entities.append({
                             "original_name": "Bonifacio",

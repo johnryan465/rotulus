@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 945,
+    "date_str": "S.d: [945-968, jour de la Pentec\u00f4te]",
+    "is_approximate": false,
+    "description": "Origin: Titre appos\u00e9 par $. Remi de Reims sur un rouleau m..."
+  }
+]
