@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,700;1,400&family=MedievalSharp&display=swap');
 
 :root {
-  font-family: 'EB Garamond', serif;
+  font-family: 'Calibri', 'Candara', 'Segoe UI', 'Optima', 'Arial', sans-serif;
   line-height: 1.5;
   font-weight: 400;
   color-scheme: light; /* Force light mode for parchment theme */

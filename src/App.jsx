@@ -132,10 +132,10 @@ export default function App() {
             const isOrigin = loc.type === 'origin';
             const marker = window.L.circleMarker(loc.coords, { radius: isOrigin ? 6 : 4, fillColor: color, color: '#fff', weight: 1, opacity: 0.8, fillOpacity: 0.8 }).addTo(mapLayersRef.current);
             marker.bindPopup(`
-              <div style="font-family: EB Garamond, serif; padding: 4px; min-width: 150px;">
-                <h4 style="margin: 0; color: ${color}; font-family: Cinzel, serif;">Roll ${rInfo.roll_num} (${isOrigin ? 'Origin' : 'Stop ' + index})</h4>
+              <div style="font-family: 'Calibri', 'Candara', 'Segoe UI', 'Optima', 'Arial', sans-serif; padding: 4px; min-width: 150px;">
+                <h4 style="margin: 0; color: ${color}; font-family: 'Calibri', 'Candara', 'Segoe UI', 'Optima', 'Arial', sans-serif;">Roll ${rInfo.roll_num} (${isOrigin ? 'Origin' : 'Stop ' + index})</h4>
                 <p style="margin: 4px 0;">${loc.name}</p>
-                <button onclick="window.gotoRoll(${rId})" style="background: var(--primary); color: white; border: none; padding: 6px; cursor: pointer; width: 100%; font-family: Cinzel, serif; border-radius: 2px;">View Details</button>
+                <button onclick="window.gotoRoll(${rId})" style="background: var(--primary); color: white; border: none; padding: 6px; cursor: pointer; width: 100%; font-family: 'Calibri', 'Candara', 'Segoe UI', 'Optima', 'Arial', sans-serif; border-radius: 2px;">View Details</button>
               </div>
             `);
           });
