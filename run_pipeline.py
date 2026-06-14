@@ -1,7 +1,7 @@
 import os
 from pipeline.orchestrator import PipelineOrchestrator
 from pipeline.provider import PageProvider
-from pipeline.processor import LegacyRegexProcessor, LLMStructuredProcessor
+from pipeline.processor import LegacyRegexProcessor, LLMStructuredProcessor, LocalOllamaProcessor
 
 def main():
     # Setup
@@ -10,22 +10,24 @@ def main():
     
     provider = PageProvider(RAW_TEXT_DIR)
     
-    # Choose processor: LegacyRegex or LLM
-    # processor = LegacyRegexProcessor()
+    # Processor Selection Logic
+    ollama_host = os.getenv("OLLAMA_HOST", "http://192.168.0.116:11434")
     
-    # If GEMINI_API_KEY is present, we can use the LLM processor
-    if os.getenv("GEMINI_API_KEY"):
-        print("Using LLM Structured Processor...")
+    if os.getenv("USE_LOCAL_LLM") == "true":
+        print(f"Using Local Ollama Processor (Llama 3 8B) at {ollama_host}...")
+        processor = LocalOllamaProcessor(host=ollama_host)
+    elif os.getenv("GEMINI_API_KEY"):
+        print("Using Gemini Structured Processor (Cloud)...")
         processor = LLMStructuredProcessor()
     else:
-        print("GEMINI_API_KEY not found. Using Legacy Regex Processor...")
+        print("No LLM keys found. Using Legacy Regex Processor...")
         processor = LegacyRegexProcessor()
         
     orchestrator = PipelineOrchestrator(DB_PATH, provider, processor)
     
     # Run
     # Warning: orchestrator.reset_db() will clear the database!
-    orchestrator.run(dry_run=True) # Start with dry_run to test
+    orchestrator.run(dry_run=True) 
 
 if __name__ == "__main__":
     main()

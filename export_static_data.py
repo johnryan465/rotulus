@@ -1,152 +1,120 @@
 import os
-import json
 import sqlite3
-import shutil
+import json
 import re
 import sys
+import shutil
 
 DB_PATH = "rolls.db"
 OUTPUT_DIR = "public/api"
 
-# Format: "key": [lat, lon, "Display Name", is_approximate]
 GEOLOCATIONS = {
-    # Existing Precise & Latin Variants
-    "gent": [51.0543, 3.7174, "Ghent, Belgium", False],
-    "ghent": [51.0543, 3.7174, "Ghent, Belgium", False],
-    "vatican": [41.9022, 12.4539, "Vatican City", False],
-    "vaticano": [41.9022, 12.4539, "Vatican City", False],
-    "wimborne": [50.8010, -1.9830, "Wimborne Minster, England", False],
-    "fulda": [50.5528, 9.6775, "Fulda Abbey, Germany", False],
-    "luxeuil": [47.8178, 6.3117, "Luxeuil Abbey, France", False],
-    "st. gall": [47.4245, 9.3767, "Abbey of Saint Gall, Switzerland", False],
-    "sankt gallen": [47.4245, 9.3767, "Abbey of Saint Gall, Switzerland", False],
-    "attigny": [49.4719, 4.5778, "Attigny, France", False],
-    "dingolfing": [48.6293, 12.4984, "Dingolfing, Germany", False],
-    "wien": [48.2082, 16.3738, "Vienna, Austria", False],
-    "vienna": [48.2082, 16.3738, "Vienna, Austria", False],
-    "karlsruhe": [49.0069, 8.4037, "Karlsruhe, Germany", False],
-    "rastatt": [48.8573, 8.2030, "Rastatt, Germany", False],
-    "montecassino": [41.4901, 13.8143, "Montecassino Abbey, Italy", False],
-    "mont cassin": [41.4901, 13.8143, "Montecassino Abbey, Italy", False],
-    "mainz": [49.9929, 8.2473, "Mainz, Germany", False],
-    "mayence": [49.9929, 8.2473, "Mainz, Germany", False],
-    "glastonbury": [51.1473, -2.7186, "Glastonbury, England", False],
-    "jumièges": [49.4326, 0.8211, "Jumièges Abbey, France", False],
-    "jumieges": [49.4326, 0.8211, "Jumièges Abbey, France", False],
-    "gemedico": [49.4326, 0.8211, "Jumièges Abbey, France", False],
-    "flavigny": [47.5126, 4.5312, "Flavigny Abbey, France", False],
-    "novalesa": [45.1897, 7.0142, "Novalesa Abbey, Italy", False],
-    "novalicio": [45.1897, 7.0142, "Novalesa Abbey, Italy", False],
-    "rebais": [48.8471, 3.2323, "Rebais Abbey, France", False],
-    "rasbacis": [48.8471, 3.2323, "Rebais Abbey, France", False],
-    "saint-wandrille": [49.5297, 0.7225, "Saint-Wandrille Abbey, France", False],
-    "wandrille": [49.5297, 0.7225, "Saint-Wandrille Abbey, France", False],
-    "funtanellas": [49.5297, 0.7225, "Saint-Wandrille Abbey, France", False],
-    "corbie": [49.9085, 2.5089, "Corbie Abbey, France", False],
-    "corbeia": [49.9085, 2.5089, "Corbie Abbey, France", False],
-    "niederaltaich": [48.7663, 13.0274, "Niederaltaich Abbey, Germany", False],
-    "altaich": [48.7663, 13.0274, "Niederaltaich Abbey, Germany", False],
-    "aldaha": [48.7663, 13.0274, "Niederaltaich Abbey, Germany", False],
-    "reichenau": [47.6994, 9.0601, "Reichenau Abbey, Germany", False],
-    "salzburg": [47.8095, 13.0550, "Salzburg, Austria", False],
-    "salzbourg": [47.8095, 13.0550, "Salzburg, Austria", False],
-    "saint-denis": [48.9358, 2.3598, "Saint-Denis Abbey, France", False],
-    "denis": [48.9358, 2.3598, "Saint-Denis Abbey, France", False],
-    "dionisio": [48.9358, 2.3598, "Saint-Denis Abbey, France", False],
-    "saint-germain": [48.8542, 2.3332, "Saint-Germain-des-Prés, France", False],
-    "germain": [48.8542, 2.3332, "Saint-Germain-des-Prés, France", False],
-    "saint-maurice": [46.2163, 7.0033, "Saint-Maurice Abbey, Switzerland", False],
-    "maurice": [46.2163, 7.0033, "Saint-Maurice Abbey, Switzerland", False],
-    "agaune": [46.2163, 7.0033, "Saint-Maurice Abbey, Switzerland", False],
-    "maurici": [46.2163, 7.0033, "Saint-Maurice Abbey, Switzerland", False],
-    "verdun": [49.1599, 5.3855, "Verdun, France", False],
-    "wirdunis": [49.1599, 5.3855, "Verdun, France", False],
-    "besançon": [47.2378, 6.0241, "Besançon, France", False],
-    "besancon": [47.2378, 6.0241, "Besançon, France", False],
-    "bisentionis": [47.2378, 6.0241, "Besançon, France", False],
-    "moosburg": [48.4682, 11.9360, "Moosburg, Germany", False],
-    "mondsee": [47.8566, 13.3516, "Mondsee Abbey, Austria", False],
-    "tegernsee": [47.7081, 11.7584, "Tegernsee Abbey, Germany", False],
-    "metten": [48.8576, 12.9133, "Metten Abbey, Germany", False],
-    "benediktbeuern": [47.7082, 11.4116, "Benediktbeuern Abbey, Germany", False],
-    "weltenburg": [48.8967, 11.8203, "Weltenburg Abbey, Germany", False],
-    "saint-cloud": [48.8413, 2.2185, "Saint-Cloud Abbey, France", False],
-    "cloud": [48.8413, 2.2185, "Saint-Cloud Abbey, France", False],
-    "clodoaldo": [48.8413, 2.2185, "Saint-Cloud Abbey, France", False],
-    "eichstätt": [48.8920, 11.1830, "Eichstätt, Germany", False],
-    "eichstatt": [48.8920, 11.1830, "Eichstätt, Germany", False],
-    "achistadi": [48.8920, 11.1830, "Eichstätt, Germany", False],
-    "würzburg": [49.7913, 9.9534, "Würzburg, Germany", False],
-    "wurzburg": [49.7913, 9.9534, "Würzburg, Germany", False],
-    "wirziaburgo": [49.7913, 9.9534, "Würzburg, Germany", False],
-    "noyon": [49.5807, 2.9995, "Noyon, France", False],
-    "novionis": [49.5807, 2.9995, "Noyon, France", False],
-    "murbach": [47.9234, 7.1581, "Murbach Abbey, France", False],
-    "bayeux": [49.2794, -0.7028, "Bayeux, France", False],
-    "beiocasio": [49.2794, -0.7028, "Bayeux, France", False],
-    "tours": [47.3941, 0.6848, "Tours, France", False],
-    "toro-": [47.3941, 0.6848, "Tours, France", False],
-    "chur": [46.8508, 9.5320, "Chur, Switzerland", False],
-    "coire": [46.8508, 9.5320, "Chur, Switzerland", False],
-    "angers": [47.4784, -0.5635, "Angers, France", False],
-    "andecavis": [47.4784, -0.5635, "Angers, France", False],
-    "winchester": [51.0632, -1.3080, "Winchester, England", False],
-    "saint-riquier": [50.1347, 1.9472, "Saint-Riquier Abbey, France", False],
-    "centula": [50.1347, 1.9472, "Saint-Riquier Abbey, France", False],
-    "riquier": [50.1347, 1.9472, "Saint-Riquier Abbey, France", False],
-    "pfifers": [46.9934, 9.5028, "Pfäfers Abbey, Switzerland", False],
-    "pfäfers": [46.9934, 9.5028, "Pfäfers Abbey, Switzerland", False],
-    "fabarias": [46.9934, 9.5028, "Pfäfers Abbey, Switzerland", False],
-    "nesle": [48.7619, 3.5683, "Nesle-la-Reposte, France", False],
-    "saint-evroult": [48.7903, 0.4627, "Saint-Evroult Abbey, France", False],
-    "evroult": [48.7903, 0.4627, "Saint-Evroult Abbey, France", False],
-    "scharnitz": [47.3889, 11.2642, "Scharnitz Abbey, Austria", False],
-    "isen": [48.2124, 12.0628, "Isen Abbey, Germany", False],
-    "oberaltaich": [48.9132, 12.6775, "Oberaltaich Abbey, Germany", False],
-    "berg": [48.9868, 12.0833, "Berg im Donaugau, Germany", False],
-    "schliersee": [47.7247, 11.8615, "Schliersee, Germany", False],
-    "hautvillers": [49.0817, 3.9383, "Abbey of Hautvillers, France", False],
-    "rochester": [51.3900, 0.5050, "Rochester, England", False],
-    "anchinl": [50.3854, 3.2323, "Anchin Abbey, France", False],
+    "montecassino": [41.4900, 13.8140, "Montecassino, Italy", False],
+    "mainz": [50.0000, 8.2667, "Mainz, Germany", False],
+    "maguntiaci": [50.0000, 8.2667, "Mainz, Germany", False],
+    "fulda": [50.5528, 9.6775, "Fulda, Germany", False],
+    "st. gallen": [47.4239, 9.3747, "St. Gallen, Switzerland", False],
+    "sanctigallensis": [47.4239, 9.3747, "St. Gallen, Switzerland", False],
+    "cluny": [46.4351, 4.6592, "Cluny, France", False],
+    "cluniacensis": [46.4351, 4.6592, "Cluny, France", False],
+    "fleury": [47.8100, 2.3050, "Fleury / Saint-Benoît-sur-Loire, France", False],
+    "floriacensis": [47.8100, 2.3050, "Fleury / Saint-Benoît-sur-Loire, France", False],
+    "st. denis": [48.9356, 2.3539, "Saint-Denis, France", False],
+    "dionysii": [48.9356, 2.3539, "Saint-Denis, France", False],
+    "marmoutier": [47.4022, 0.7033, "Marmoutier, Tours, France", False],
+    "majoris monasterii": [47.4022, 0.7033, "Marmoutier, Tours, France", False],
+    "st. remi": [49.2431, 4.0417, "Saint-Remi, Reims, France", False],
+    "remigii": [49.2431, 4.0417, "Saint-Remi, Reims, France", False],
+    "corbie": [49.9089, 2.5117, "Corbie, France", False],
+    "corbeiensis": [49.9089, 2.5117, "Corbie, France", False],
+    "ripoll": [42.1997, 2.1911, "Ripoll, Spain", False],
+    "rivipollentis": [42.1997, 2.1911, "Ripoll, Spain", False],
+    "st. michel": [48.6361, -1.5114, "Mont-Saint-Michel, France", False],
+    "michel": [48.6361, -1.5114, "Mont-Saint-Michel, France", False],
+    "canigou": [42.5850, 2.4567, "Saint-Martin-du-Canigou, France", False],
+    "canigonensis": [42.5850, 2.4567, "Saint-Martin-du-Canigou, France", False],
+    "cuxà": [42.5958, 2.4178, "Saint-Michel-de-Cuxà, France", False],
+    "besalú": [42.1994, 2.6967, "Besalú, Spain", False],
+    "bisuldunensis": [42.1994, 2.6967, "Besalú, Spain", False],
+    "girona": [41.9833, 2.8233, "Girona, Spain", False],
+    "gerundensis": [41.9833, 2.8233, "Girona, Spain", False],
+    "vic": [41.9300, 2.2544, "Vic, Spain", False],
+    "ausonensis": [41.9300, 2.2544, "Vic, Spain", False],
+    "barcelona": [41.3833, 2.1833, "Barcelona, Spain", False],
+    "barcinonensis": [41.3833, 2.1833, "Barcelona, Spain", False],
+    "narbonne": [43.1833, 3.0000, "Narbonne, France", False],
+    "narbonensis": [43.1833, 3.0000, "Narbonne, France", False],
+    "arles-sur-tech": [42.4564, 2.6347, "Arles-sur-Tech, France", False],
+    "arulensis": [42.4564, 2.6347, "Arles-sur-Tech, France", False],
+    "elne": [42.6000, 2.9714, "Elne, France", False],
+    "elenensis": [42.6000, 2.9714, "Elne, France", False],
+    "carcassonne": [43.2167, 2.3500, "Carcassonne, France", False],
+    "carcassonensis": [43.2167, 2.3500, "Carcassonne, France", False],
+    "beziers": [43.3444, 3.2158, "Béziers, France", False],
+    "biterris": [43.3444, 3.2158, "Béziers, France", False],
+    "agde": [43.3108, 3.4758, "Agde, France", False],
+    "agathensis": [43.3108, 3.4758, "Agde, France", False],
+    "maguelone": [43.5119, 3.8831, "Maguelone, France", False],
+    "magalonensis": [43.5119, 3.8831, "Maguelone, France", False],
+    "nîmes": [43.8333, 4.3500, "Nîmes, France", False],
+    "nemausensis": [43.8333, 4.3500, "Nîmes, France", False],
+    "uzès": [44.0122, 4.4194, "Uzès, France", False],
+    "viviensis": [44.4819, 4.6889, "Viviers, France", False],
+    "valence": [44.9333, 4.8917, "Valence, France", False],
+    "valentia": [44.9333, 4.8917, "Valence, France", False],
+    "vienne": [45.5244, 4.8761, "Vienne, France", False],
+    "viennensis": [45.5244, 4.8761, "Vienne, France", False],
+    "lyon": [45.7597, 4.8422, "Lyon, France", False],
+    "lugdunensis": [45.7597, 4.8422, "Lyon, France", False],
+    "macon": [46.3000, 4.8333, "Mâcon, France", False],
+    "matiscensis": [46.3000, 4.8333, "Mâcon, France", False],
     "chalon": [46.7833, 4.8500, "Chalon-sur-Saône, France", False],
-    "nantcuil": [46.0022, 0.2818, "Nanteuil-en-Vallée Abbey, France", False],
-    "clermont": [45.7772, 3.0870, "Clermont-Ferrand, France", False],
-    "sever": [43.7600, -0.5739, "Saint-Sever Abbey, France", False],
-    "toulouse": [43.6047, 1.4442, "Toulouse, France", False],
-    "tourtoirac": [45.2706, 1.0594, "Tourtoirac Abbey, France", False],
-    "brioude": [45.2933, 3.3847, "Brioude Abbey, France", False],
-    "fleury": [47.8093, 2.3053, "Fleury Abbey, France", False],
-    "redon": [47.6534, -2.0850, "Redon Abbey, France", False],
-    "tournus": [46.5647, 4.9111, "Tournus Abbey, France", False],
-    "laon": [49.5642, 3.6199, "Laon, France", False],
-    "poitiers": [46.5802, 0.3404, "Poitiers, France", False],
-    "montierneuf": [46.5802, 0.3404, "Montierneuf Abbey, France", False],
-    "reims": [49.2583, 4.0317, "Reims, France", False],
+    "cabillonensis": [46.7833, 4.8500, "Chalon-sur-Saône, France", False],
+    "dijon": [47.3167, 5.0167, "Dijon, France", False],
+    "divionensis": [47.3167, 5.0167, "Dijon, France", False],
+    "langres": [47.8667, 5.3333, "Langres, France", False],
+    "lingonensis": [47.8667, 5.3333, "Langres, France", False],
+    "troyes": [48.3000, 4.0833, "Troyes, France", False],
+    "trecas": [48.3000, 4.0833, "Troyes, France", False],
+    "sens": [48.2000, 3.2833, "Sens, France", False],
+    "senonensis": [48.2000, 3.2833, "Sens, France", False],
+    "auxerre": [47.8000, 3.5667, "Auxerre, France", False],
+    "autissiodorensis": [47.8000, 3.5667, "Auxerre, France", False],
+    "nevers": [46.9936, 3.1592, "Nevers, France", False],
+    "nivernensis": [46.9936, 3.1592, "Nevers, France", False],
+    "bourges": [47.0833, 2.4000, "Bourges, France", False],
+    "bituricensis": [47.0833, 2.4000, "Bourges, France", False],
+    "tours": [47.3833, 0.6833, "Tours, France", False],
+    "turonensis": [47.3833, 0.6833, "Tours, France", False],
+    "angers": [47.4736, -0.5542, "Angers, France", False],
+    "andecavensis": [47.4736, -0.5542, "Angers, France", False],
+    "le mans": [48.0000, 0.2000, "Le Mans, France", False],
+    "cenomanensis": [48.0000, 0.2000, "Le Mans, France", False],
+    "chartres": [48.4472, 1.4875, "Chartres, France", False],
+    "carnotensis": [48.4472, 1.4875, "Chartres, France", False],
+    "orléans": [47.9025, 1.9090, "Orléans, France", False],
+    "aurelianensis": [47.9025, 1.9090, "Orléans, France", False],
     "paris": [48.8566, 2.3522, "Paris, France", False],
-    "limoges": [45.8336, 1.2611, "Limoges, France", False],
-    "ripoll": [42.2014, 2.1901, "Santa Maria de Ripoll, Spain", False],
-    "lobbes": [50.3481, 4.2611, "Lobbes Abbey, Belgium", False],
-    "laubicis": [50.3481, 4.2611, "Lobbes Abbey, Belgium", False],
-    "cluny": [46.4350, 4.6583, "Cluny Abbey, France", False],
-    "cîteaux": [47.1294, 5.0889, "Cîteaux Abbey, France", False],
-    "clairvaux": [48.1469, 4.6500, "Clairvaux Abbey, France", False],
-    "bec": [49.2294, 0.7208, "Bec Abbey, France", False],
-    "fécamp": [49.7589, 0.3800, "Fécamp Abbey, France", False],
-    "caen": [49.1829, -0.3707, "Caen, France", False],
-    "rouen": [49.4431, 1.0992, "Rouen, France", False],
-    "chartres": [48.4472, 1.4877, "Chartres, France", False],
-    "orléans": [47.9030, 1.9090, "Orléans, France", False],
-    "bourges": [47.0810, 2.3980, "Bourges, France", False],
-    "sens": [48.1970, 3.2840, "Sens, France", False],
-    "auxerre": [47.7980, 3.5730, "Auxerre, France", False],
-    "troyes": [48.2970, 4.0740, "Troyes, France", False],
-    "langres": [47.8630, 5.3330, "Langres, France", False],
-    "metz": [49.1190, 6.1750, "Metz, France", False],
-    "mettis": [49.1190, 6.1750, "Metz, France", False],
-    "toul": [48.6750, 5.8910, "Toul, France", False],
-    "liège": [50.6330, 5.5670, "Liège, Belgium", False],
-    "utrecht": [52.0907, 5.1214, "Utrecht, Netherlands", False],
-    "cologne": [50.9375, 6.9603, "Cologne, Germany", False],
+    "parisiensis": [48.8566, 2.3522, "Paris, France", False],
+    "meaux": [48.9500, 2.9000, "Meaux, France", False],
+    "meldis": [48.9500, 2.9000, "Meaux, France", False],
+    "beauvais": [49.4333, 2.0833, "Beauvais, France", False],
+    "bellovacensis": [49.4333, 2.0833, "Beauvais, France", False],
+    "amiens": [49.8944, 2.2958, "Amiens, France", False],
+    "ambianensis": [49.8944, 2.2958, "Amiens, France", False],
+    "laon": [49.5667, 3.6167, "Laon, France", False],
+    "laudunensis": [49.5667, 3.6167, "Laon, France", False],
+    "reims": [49.2500, 4.0333, "Reims, France", False],
+    "remensis": [49.2500, 4.0333, "Reims, France", False],
+    "châlons": [48.9539, 4.3644, "Châlons-en-Champagne, France", False],
+    "catalaunensis": [48.9539, 4.3644, "Châlons-en-Champagne, France", False],
+    "verdun": [49.1603, 5.3811, "Verdun, France", False],
+    "virdunensis": [49.1603, 5.3811, "Verdun, France", False],
+    "metz": [49.1203, 6.1778, "Metz, France", False],
+    "mettensis": [49.1203, 6.1778, "Metz, France", False],
+    "toul": [48.6750, 5.8917, "Toul, France", False],
+    "tullensis": [48.6750, 5.8917, "Toul, France", False],
+    "trier": [49.7590, 6.6440, "Trier, Germany", False],
     "trèves": [49.7590, 6.6440, "Trier, Germany", False],
     "worms": [49.6340, 8.3580, "Worms, Germany", False],
     "spire": [49.3170, 8.4390, "Speyer, Germany", False],
@@ -167,50 +135,16 @@ GEOLOCATIONS = {
     "naples": [40.8518, 14.2681, "Naples, Italy", False],
     "messine": [38.1939, 15.5552, "Messina, Italy", False],
     "palerme": [38.1157, 13.3615, "Palermo, Italy", False],
-    "soissons": [49.3813, 3.3262, "Soissons, France", False],
-    "suaseonis": [49.3813, 3.3262, "Soissons, France", False],
-    "tongeren": [50.7833, 5.4667, "Tongeren, Belgium", False],
-    "tungris": [50.7833, 5.4667, "Tongeren, Belgium", False],
-    "autun": [46.9500, 4.3000, "Autun, France", False],
-    "augustoduno": [46.9500, 4.3000, "Autun, France", False],
-    "buxbrunn": [49.4444, 10.7419, "Buxbrunn, Germany", False],
-    "busbrunno": [49.4444, 10.7419, "Buxbrunn, Germany", False],
-
-    # Regional / Approximate
-    "anglia": [52.5000, 1.0000, "East Anglia, England", True],
-    "northumbrie": [55.1000, -2.0000, "Northumbria, England", True],
-    "northumbria": [55.1000, -2.0000, "Northumbria, England", True],
-    "bavaria": [48.7904, 11.4979, "Bavaria, Germany", True],
-    "normandy": [49.1829, -0.3707, "Normandy, France", True],
-    "normandie": [49.1829, -0.3707, "Normandy, France", True],
-    "aquitaine": [44.8378, -0.5792, "Aquitaine, France", True],
-    "france": [46.2276, 2.2137, "France (General)", True],
-    "germany": [51.1657, 10.4515, "Germany (General)", True],
-    "italy": [41.8719, 12.5674, "Italy (General)", True],
-    "gallia": [46.2276, 2.2137, "Gaul / France", True],
-    "bretagne": [48.2020, -2.9326, "Brittany, France", True],
-    "bourgogne": [47.2805, 4.4126, "Burgundy, France", True],
-    "provence": [43.9352, 6.0679, "Provence, France", True],
-    "lombardie": [45.4791, 9.8452, "Lombardy, Italy", True],
-    "toscane": [43.7711, 11.2486, "Tuscany, Italy", True],
-    "sicile": [37.5990, 14.0154, "Sicily, Italy", True],
-    "espagne": [40.4637, -3.7492, "Spain (General)", True],
-    "hispania": [40.4637, -3.7492, "Hispania", True],
-    "belgium": [50.5039, 4.4699, "Belgium (General)", True],
-    "flandre": [51.0500, 3.7333, "Flanders", True],
 }
 
-ROMAN_CENTURIES = {
-    'VII': 650, 'VIII': 750, 'IX': 850, 'X': 950, 'XI': 1050, 'XII': 1150, 'XIII': 1250, 'XIV': 1350, 'XV': 1450, 'XVI': 1550
-}
+ROMAN_CENTURIES = {'VII': 650, 'VIII': 750, 'IX': 850, 'X': 950, 'XI': 1050, 'XII': 1150, 'XIII': 1250, 'XIV': 1350, 'XV': 1450, 'XVI': 1550}
 
 def extract_year(date_str):
     if not date_str: return None
     years = re.findall(r'\b(5\d{2}|[6-9]\d{2}|1\d{3})\b', date_str)
     if years: return int(years[0])
     for rom, yr in ROMAN_CENTURIES.items():
-        if f"{rom}'" in date_str or f"{rom}\"" in date_str or f"{rom} " in date_str:
-            return yr
+        if f"{rom}'" in date_str or f"{rom}\"" in date_str or f"{rom} " in date_str: return yr
     return None
 
 def get_db_connection():
@@ -220,126 +154,80 @@ def geocode_location(name):
     if not name: return None
     s = name.strip().lower()
     if s in GEOLOCATIONS: return GEOLOCATIONS[s]
-    # Partial match
     for key, val in GEOLOCATIONS.items():
         if key in s or s in key: return val
     return None
 
-def get_roll_travels(conn, roll_id):
+def get_roll_travels(conn, db_id):
     cursor = conn.cursor()
-    cursor.execute("SELECT * FROM rolls WHERE id = ?", (roll_id,))
+    cursor.execute("SELECT * FROM rolls WHERE id = ?", (db_id,))
     row = cursor.fetchone()
     if not row: return []
     roll = dict(row); roll_year = extract_year(roll["date_str"])
+    travels = []
     
+    # Origin logic
     origin_geo = None; origin_name = "Origin"
     for word in re.findall(r'\b[A-Za-zÀ-ÿ\-]{3,}\b', roll["title"] + " " + roll["manuscripts"]):
         geo = geocode_location(word)
         if geo: origin_geo = geo; origin_name = geo[2]; break
-            
-    travels = []
     if origin_geo:
-        travels.append({
-            "step": 0, "type": "origin", "name": origin_name, "coords": origin_geo[:2],
-            "year": roll_year, "date_str": roll["date_str"], "is_approximate": origin_geo[3],
-            "description": f"Origin: {roll['title'][:50]}..."
-        })
-    else:
-        words = re.findall(r'\b[A-Z][a-zA-ZÀ-ÿ\-]+\b', roll["title"] + " " + roll["manuscripts"])
-        exclude = {"T", "S", "Sancti", "Sancte", "Sanctorum", "Sanctique", "Sanctus", "Sanctis", "Anima", "Amen", "Orate", "Oravimus", "Abbas", "Abbatis", "Titulus", "Implicit", "Deus", "Domini", "Domino", "Dominus", "Christo", "Christi", "Maria", "Marie", "Petri", "Martyris", "Apostolorum", "Pauli", "Johannis", "Trinitatis", "Ecclesie", "Monasterii", "Cenobii", "Cujus", "Vitalis", "Vitali", "Hospitalitatis", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XV", "XVI", "XVII", "XVIII", "XIX", "XX", "Original", "Communication", "Wien", "Paris", "Bibliotheque", "Nationalbibl", "Briefe", "Brief", "EpP", "M", "G", "H", "R", "Rau", "Lul"}
-        filtered = [w for w in words if w.lower() not in {e.lower() for e in exclude}]
-        if filtered:
-            travels.append({
-                "step": 0, "type": "origin", "name": filtered[0], "coords": None,
-                "year": roll_year, "date_str": roll["date_str"], "is_approximate": True,
-                "description": f"Origin: {roll['title'][:50]}..."
-            })
-        
-    cursor.execute("SELECT * FROM tituli WHERE roll_id = ? ORDER BY id", (roll_id,))
+        travels.append({"step": 0, "type": "origin", "name": origin_name, "coords": origin_geo[:2], "year": roll_year, "date_str": roll["date_str"], "is_approximate": origin_geo[3], "description": f"Origin: {roll['title'][:50]}..."})
+
+    cursor.execute("SELECT * FROM tituli WHERE roll_id = ? ORDER BY id", (db_id,))
     tituli = [dict(r) for r in cursor.fetchall()]
-    
     step = len(travels)
     for tit in tituli:
         loc_str = tit.get("location_name")
         if not loc_str: continue
         geo = geocode_location(loc_str)
-        if geo:
-            loc_name = geo[2]; coords = geo[:2]; approx = geo[3]
-        else:
-            loc_name = loc_str.strip(); coords = None; approx = True
-            
+        if geo: loc_name = geo[2]; coords = geo[:2]; approx = geo[3]
+        else: loc_name = loc_str.strip(); coords = None; approx = True
         is_dup = False
         if travels:
             last = travels[-1]
             is_dup = (last["coords"] == coords) if coords and last["coords"] else (last["name"].lower() == loc_name.lower())
         if not is_dup:
-            travels.append({
-                "step": step, "type": "stop", "name": loc_name, "coords": coords,
-                "year": roll_year, "date_str": roll["date_str"], "is_approximate": approx,
-                "description": f"Titulus Header: {loc_str}"
-            })
+            travels.append({"step": step, "type": "stop", "name": loc_name, "coords": coords, "year": roll_year, "date_str": roll["date_str"], "is_approximate": approx, "description": f"Titulus Header: {loc_str}"})
             step += 1
     return travels
 
 def export_data():
-    if not os.path.exists(DB_PATH): sys.exit(1)
     conn = get_db_connection(); cursor = conn.cursor()
     if os.path.exists(OUTPUT_DIR): shutil.rmtree(OUTPUT_DIR)
-    os.makedirs(OUTPUT_DIR)
+    os.makedirs(OUTPUT_DIR); roll_dir = os.path.join(OUTPUT_DIR, "rolls"); os.makedirs(roll_dir, exist_ok=True)
     
-    cursor.execute("SELECT * FROM rolls ORDER BY id")
+    cursor.execute("SELECT * FROM rolls ORDER BY CAST(roll_num AS INTEGER)")
     rolls = [dict(row) for row in cursor.fetchall()]
-    
-    roll_dir = os.path.join(OUTPUT_DIR, "rolls"); os.makedirs(roll_dir, exist_ok=True)
-    all_travels = {}
-    rolls_with_stops = []
+    all_travels = {}; rolls_with_stops = []
 
     for roll in rolls:
-        roll_id = roll['id']
-        cursor.execute("SELECT * FROM tituli WHERE roll_id = ? ORDER BY id", (roll_id,))
+        db_id = roll['id']; r_num = roll['roll_num']
+        cursor.execute("SELECT * FROM tituli WHERE roll_id = ? ORDER BY id", (db_id,))
         tituli = [dict(row) for row in cursor.fetchall()]
         for tit in tituli:
             cursor.execute("SELECT * FROM entities WHERE titulus_id = ? ORDER BY id", (tit["id"],))
             tit["entities"] = [dict(row) for row in cursor.fetchall()]
-        cursor.execute("SELECT * FROM footnotes WHERE roll_id = ? ORDER BY pdf_page, pdf_half, CAST(footnote_num AS INTEGER)", (roll_id,))
+        cursor.execute("SELECT * FROM footnotes WHERE roll_id = ? ORDER BY pdf_page, pdf_half, CAST(footnote_num AS INTEGER)", (db_id,))
         detail = {"roll": roll, "tituli": tituli, "footnotes": [dict(row) for row in cursor.fetchall()]}
-        with open(os.path.join(roll_dir, f"{roll_id}.json"), "w") as f: json.dump(detail, f, indent=2)
+        
+        # KEY CHANGE: Filename is now roll_num
+        with open(os.path.join(roll_dir, f"{r_num}.json"), "w") as f: json.dump(detail, f, indent=2)
 
-        travels = get_roll_travels(conn, roll_id)
+        travels = get_roll_travels(conn, db_id)
         num_stops = len([t for t in travels if t['type'] == 'stop'])
         year = extract_year(roll["date_str"])
         
-        if travels:
-            roll_travel_dir = os.path.join(roll_dir, str(roll_id)); os.makedirs(roll_travel_dir, exist_ok=True)
-            with open(os.path.join(roll_travel_dir, "travels.json"), "w") as f: json.dump(travels, f, indent=2)
-            all_travels[roll_id] = {
-                "id": roll_id,
-                "roll_num": roll["roll_num"], "title": roll["title"], 
-                "date_str": roll["date_str"], "year": year, 
-                "travels": travels, "num_stops": num_stops
-            }
+        # KEY CHANGE: Key is now roll_num
+        all_travels[r_num] = {"id": r_num, "roll_num": r_num, "title": roll["title"], "date_str": roll["date_str"], "year": year, "travels": travels, "num_stops": num_stops, "manuscripts": roll["manuscripts"]}
         
-        roll_dict = dict(roll)
-        roll_dict["num_stops"] = num_stops
-        roll_dict["year"] = year
+        roll_dict = dict(roll); roll_dict["num_stops"] = num_stops; roll_dict["year"] = year
         rolls_with_stops.append(roll_dict)
 
-    with open(os.path.join(OUTPUT_DIR, "rolls.json"), "w") as f:
-        json.dump(rolls_with_stops, f, indent=2)
-
-    # Export CSV version for researchers
-    import csv
-    if rolls_with_stops:
-        keys = rolls_with_stops[0].keys()
-        with open(os.path.join(OUTPUT_DIR, "rolls.csv"), "w", newline="", encoding='utf-8') as f:
-            writer = csv.DictWriter(f, fieldnames=keys)
-            writer.writeheader()
-            writer.writerows(rolls_with_stops)
-
-    with open(os.path.join(OUTPUT_DIR, "travels.json"), "w") as f:
-        json.dump(all_travels, f, indent=2)
-
-    conn.close(); print(f"✅ Database exported to static JSON in {OUTPUT_DIR}")
+    with open(os.path.join(OUTPUT_DIR, "rolls.json"), "w") as f: json.dump(rolls_with_stops, f, indent=2)
+    with open(os.path.join(OUTPUT_DIR, "travels.json"), "w") as f: json.dump(all_travels, f, indent=2)
+    
+    conn.close(); print(f"✅ Database exported to static JSON using ROLL_NUM as keys.")
 
 if __name__ == "__main__":
     export_data()
