@@ -50,22 +50,69 @@ const RangeSlider = ({ min, max, value, onChange }) => {
   const lp = getPercentage(lower);
   const up = getPercentage(upper);
 
+  // Styles defined here to bypass CSS loading issues
+  const containerStyle = {
+    position: 'relative',
+    width: '100%',
+    height: '40px',
+    userSelect: 'none',
+    margin: '8px 0',
+    cursor: activeHandle ? 'grabbing' : 'default',
+    display: 'flex',
+    alignItems: 'center'
+  };
+
+  const trackStyle = {
+    position: 'absolute',
+    width: '100%',
+    height: '6px',
+    background: 'rgba(0, 0, 0, 0.15)',
+    borderRadius: '3px',
+    zIndex: 1,
+    top: '50%',
+    transform: 'translateY(-50%)'
+  };
+
+  const highlightStyle = {
+    position: 'absolute',
+    height: '6px',
+    background: '#8b0000', // Rubric Red
+    borderRadius: '3px',
+    zIndex: 2,
+    top: '50%',
+    transform: 'translateY(-50%)',
+    left: `${lp}%`,
+    width: `${up - lp}%`
+  };
+
+  const thumbBaseStyle = {
+    position: 'absolute',
+    width: '24px',
+    height: '24px',
+    background: '#f4ecd8', // Parchment
+    border: '2px solid #8b0000', // Rubric Red
+    borderRadius: '50%',
+    cursor: 'grab',
+    zIndex: 10,
+    top: '50%',
+    transform: 'translate(-50%, -50%)',
+    boxShadow: '0 2px 6px rgba(0,0,0,0.3)',
+    transition: 'transform 0.1s ease'
+  };
+
   return (
-    <div className="range-container" ref={sliderRef} style={{ pointerEvents: 'auto' }}>
-      <div className="range-track" />
-      <div 
-        className="range-highlight" 
-        style={{ left: `${lp}%`, width: `${up - lp}%` }} 
-      />
+    <div className="range-container" ref={sliderRef} style={containerStyle} data-slider-v="3">
+      <div className="range-track" style={trackStyle} />
+      <div className="range-highlight" style={highlightStyle} />
       <div 
         className="range-thumb"
-        style={{ left: `${lp}%`, zIndex: activeHandle === 'lower' ? 10 : 5 }}
+        style={{ ...thumbBaseStyle, left: `${lp}%`, zIndex: activeHandle === 'lower' ? 12 : 11 }}
         onMouseDown={(e) => { e.preventDefault(); setActiveHandle('lower'); }}
         onTouchStart={(e) => { e.preventDefault(); setActiveHandle('lower'); }}
       />
       <div 
         className="range-thumb"
-        style={{ left: `${up}%`, zIndex: activeHandle === 'upper' ? 10 : 4 }}
+        style={{ ...thumbBaseStyle, left: `${up}%`, zIndex: activeHandle === 'upper' ? 12 : 10 }}
         onMouseDown={(e) => { e.preventDefault(); setActiveHandle('upper'); }}
         onTouchStart={(e) => { e.preventDefault(); setActiveHandle('upper'); }}
       />
