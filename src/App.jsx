@@ -203,6 +203,14 @@ export default function App() {
     fetchAndDraw();
   }, [activeTab, mapRollId, yearFilter, stopsFilter]);
 
+  useEffect(() => {
+    if (activeTab === 'map' && mapInstanceRef.current) {
+      setTimeout(() => {
+        mapInstanceRef.current.invalidateSize();
+      }, 100);
+    }
+  }, [activeTab]);
+
   const handleSelectRoll = (id) => {
     setSelectedRollId(id);
     setRollDetail(null); // Clear previous detail to show loading state
@@ -269,31 +277,29 @@ export default function App() {
         )}
 
         <div className="viewer-pane">
-          {activeTab === 'dashboard' && (
-            <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>
-              <h1 style={{ fontSize: '32px' }}>Archive Dashboard</h1>
-              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '24px' }}>
-                <div className="glass-panel" style={{ padding: '24px' }}><span>Total Scrolls</span><h2>{stats.total}</h2></div>
-                <div className="glass-panel" style={{ padding: '24px' }}><span>Verified Records</span><h2 style={{ color: 'var(--primary)' }}>{stats.verified}</h2></div>
-                <div className="glass-panel" style={{ padding: '24px' }}><span>Completion</span><h2 style={{ color: 'var(--accent)' }}>{stats.percent}%</h2></div>
-              </div>
-              <div className="glass-panel" style={{ padding: '32px' }}>
-                <h3>Catalogue of Rolls</h3>
-                {rolls.slice(0, 8).map(r => (
-                  <div key={r.id} className="roll-item active" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }} onClick={() => handleSelectRoll(r.id)}>
-                    <div style={{ display: 'flex', gap: '20px' }}>
-                      <span className="roll-num">N° {r.roll_num}</span>
-                      <div><h4 style={{ margin: 0 }}>{r.title.slice(0, 60)}...</h4><span>{r.date_str}</span></div>
-                    </div>
-                    <ChevronRight color="var(--accent)" />
-                  </div>
-                ))}
-              </div>
+          <div style={{ display: activeTab === 'dashboard' ? 'flex' : 'none', flexDirection: 'column', gap: '32px' }}>
+            <h1 style={{ fontSize: '32px' }}>Archive Dashboard</h1>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '24px' }}>
+              <div className="glass-panel" style={{ padding: '24px' }}><span>Total Scrolls</span><h2>{stats.total}</h2></div>
+              <div className="glass-panel" style={{ padding: '24px' }}><span>Verified Records</span><h2 style={{ color: 'var(--primary)' }}>{stats.verified}</h2></div>
+              <div className="glass-panel" style={{ padding: '24px' }}><span>Completion</span><h2 style={{ color: 'var(--accent)' }}>{stats.percent}%</h2></div>
             </div>
-          )}
+            <div className="glass-panel" style={{ padding: '32px' }}>
+              <h3>Catalogue of Rolls</h3>
+              {rolls.slice(0, 8).map(r => (
+                <div key={r.id} className="roll-item active" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }} onClick={() => handleSelectRoll(r.id)}>
+                  <div style={{ display: 'flex', gap: '20px' }}>
+                    <span className="roll-num">N° {r.roll_num}</span>
+                    <div><h4 style={{ margin: 0 }}>{r.title.slice(0, 60)}...</h4><span>{r.date_str}</span></div>
+                  </div>
+                  <ChevronRight color="var(--accent)" />
+                </div>
+              ))}
+            </div>
+          </div>
 
-          {activeTab === 'explorer' && (
-            rollDetail ? (
+          <div style={{ display: activeTab === 'explorer' ? 'flex' : 'none', flexDirection: 'column', gap: '32px' }}>
+            {rollDetail ? (
               <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>
                 <div><div className="roll-num">ROLL N° {rollDetail.roll.roll_num}</div><h1>{rollDetail.roll.date_str}</h1></div>
                 <div className="glass-panel" style={{ padding: '32px' }}>
@@ -315,11 +321,11 @@ export default function App() {
               <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%', color: 'var(--text-muted)' }}>
                 <p>Select a scroll from the sidebar to begin research.</p>
               </div>
-            )
-          )}
+            )}
+          </div>
 
-          {activeTab === 'verification' && rollDetail && (
-            <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', height: '100%' }}>
+          <div style={{ display: activeTab === 'verification' ? 'flex' : 'none', flexDirection: 'column', gap: '24px', height: '100%' }}>
+            {rollDetail && (
               <div style={{ display: 'grid', gridTemplateColumns: '1.2fr 1fr', gap: '20px', flex: 1, overflow: 'hidden' }}>
                 <div className="glass-panel" style={{ overflow: 'auto', background: '#000' }}>
                    {(() => {
@@ -337,73 +343,66 @@ export default function App() {
                   </button>
                 </div>
               </div>
-            </div>
-          )}
+            )}
+          </div>
 
-          {activeTab === 'map' && (
-            <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                <h1>Historical Itineraries</h1>
-                <select className="search-input" style={{ width: '300px' }} value={mapRollId || ''} onChange={e => setMapRollId(e.target.value === 'all' ? 'all' : Number(e.target.value))}>
-                  <option value="all">View All Travels</option>
-                  {rolls.map(r => <option key={r.id} value={r.id}>N° {r.roll_num} ({r.date_str})</option>)}
-                </select>
+          <div style={{ display: activeTab === 'map' ? 'flex' : 'none', flexDirection: 'column', gap: '24px' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+              <h1>Historical Itineraries</h1>
+              <select className="search-input" style={{ width: '300px' }} value={mapRollId || ''} onChange={e => setMapRollId(e.target.value === 'all' ? 'all' : Number(e.target.value))}>
+                <option value="all">View All Travels</option>
+                {rolls.map(r => <option key={r.id} value={r.id}>N° {r.roll_num} ({r.date_str})</option>)}
+              </select>
+            </div>
+
+            {mapRollId === 'all' && (
+              <div style={{ display: 'flex', gap: '24px', flexWrap: 'wrap' }}>
+                <div className="glass-panel" style={{ padding: '16px 24px', flex: 1, minWidth: '300px' }}>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px' }}>
+                    <span style={{ fontFamily: 'Cinzel', fontWeight: 'bold' }}>Time Range: {yearFilter[0]} – {yearFilter[1]}</span>
+                    <button className="tab-btn" style={{ padding: '2px 8px' }} onClick={() => setYearFilter(availableYearRange)}>Reset</button>
+                  </div>
+                  <RangeSlider min={availableYearRange[0]} max={availableYearRange[1]} value={yearFilter} onChange={setYearFilter} />
+                </div>
+                <div className="glass-panel" style={{ padding: '16px 24px', width: '250px' }}>
+                  <div style={{ display: 'flex', justifyContent: 'space-between' }}><span>Min. Stops</span><span className="rubric">{stopsFilter}+</span></div>
+                  <input type="range" min="0" max="20" value={stopsFilter} onChange={e => setStopsFilter(Number(e.target.value))} style={{ width: '100%', accentColor: 'var(--accent)' }} />
+                </div>
               </div>
+            )}
+            <div className="glass-panel" style={{ padding: '12px', height: '700px' }}><div id="map-container" style={{ width: '100%', height: '100%', borderRadius: '4px' }}></div></div>
 
-              {mapRollId === 'all' && (
-                <div style={{ display: 'flex', gap: '24px', flexWrap: 'wrap' }}>
-                  <div className="glass-panel" style={{ padding: '16px 24px', flex: 1, minWidth: '300px' }}>
-                    <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px' }}>
-                      <span style={{ fontFamily: 'Cinzel', fontWeight: 'bold' }}>Time Range: {yearFilter[0]} – {yearFilter[1]}</span>
-                      <button className="tab-btn" style={{ padding: '2px 8px' }} onClick={() => setYearFilter(availableYearRange)}>Reset</button>
-                    </div>
-                    <RangeSlider min={availableYearRange[0]} max={availableYearRange[1]} value={yearFilter} onChange={setYearFilter} />
-                  </div>
-                  <div className="glass-panel" style={{ padding: '16px 24px', width: '250px' }}>
-                    <div style={{ display: 'flex', justifyContent: 'space-between' }}><span>Min. Stops</span><span className="rubric">{stopsFilter}+</span></div>
-                    <input type="range" min="0" max="20" value={stopsFilter} onChange={e => setStopsFilter(Number(e.target.value))} style={{ width: '100%', accentColor: 'var(--accent)' }} />
-                  </div>
-                </div>
-              )}
-              <div className="glass-panel" style={{ padding: '12px', height: '700px' }}><div id="map-container" style={{ width: '100%', height: '100%', borderRadius: '4px' }}></div></div>
-
-              {mapRollId === 'all' && (
-                <div className="glass-panel" style={{ padding: '24px' }}>
-                  <h3 style={{ marginBottom: '16px', fontFamily: 'Cinzel', fontSize: '18px' }}>Filtered Catalogue</h3>
-                  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '12px' }}>
-                    {Object.entries(allTravelsData)
-                      .filter(([id, r]) => {
-                        if (r.year && (r.year < yearFilter[0] || r.year > yearFilter[1])) return false;
-                        if (r.num_stops < stopsFilter) return false;
-                        return true;
-                      })
-                      .sort((a, b) => Number(a[1].roll_num) - Number(b[1].roll_num))
-                      .map(([id, r]) => (
-                        <div 
-                          key={id} 
-                          className="roll-item active" 
-                          style={{ cursor: 'pointer', padding: '12px' }}
-                          onClick={() => window.gotoRoll(id)}
-                        >
-                          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                            <div>
-                              <div className="roll-num" style={{ fontSize: '14px' }}>N° {r.roll_num}</div>
-                              <div style={{ fontWeight: 'bold', fontSize: '13px' }}>{r.year} AD</div>
-                            </div>
-                            <ChevronRight size={16} color="var(--accent)" />
+            {mapRollId === 'all' && (
+              <div className="glass-panel" style={{ padding: '24px' }}>
+                <h3 style={{ marginBottom: '16px', fontFamily: 'Cinzel', fontSize: '18px' }}>Filtered Catalogue</h3>
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '12px' }}>
+                  {Object.entries(allTravelsData)
+                    .filter(([id, r]) => {
+                      if (r.year && (r.year < yearFilter[0] || r.year > yearFilter[1])) return false;
+                      if (r.num_stops < stopsFilter) return false;
+                      return true;
+                    })
+                    .sort((a, b) => Number(a[1].roll_num) - Number(b[1].roll_num))
+                    .map(([id, r]) => (
+                      <div 
+                        key={id} 
+                        className="roll-item active" 
+                        style={{ cursor: 'pointer', padding: '12px' }}
+                        onClick={() => window.gotoRoll(id)}
+                      >
+                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                          <div>
+                            <div className="roll-num" style={{ fontSize: '14px' }}>N° {r.roll_num}</div>
+                            <div style={{ fontWeight: 'bold', fontSize: '13px' }}>{r.year} AD</div>
                           </div>
+                          <ChevronRight size={16} color="var(--accent)" />
                         </div>
-                      ))}
-                  </div>
-                  {Object.keys(allTravelsData).length === 0 && (
-                    <div style={{ textAlign: 'center', padding: '40px', color: 'var(--text-muted)' }}>
-                      Adjust filters to see matching documents.
-                    </div>
-                  )}
+                      </div>
+                    ))}
                 </div>
-              )}
-            </div>
-          )}
+              </div>
+            )}
+          </div>
         </div>
       </div>
     </div>
