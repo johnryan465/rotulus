@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1120,
+    "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
+    "description": "Origin: Echange de brefs annuels institu\u00e9 entre S. Aubin d..."
+  }
+]

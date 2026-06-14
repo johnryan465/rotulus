@@ -80,8 +80,8 @@ def is_valid_roll_number_line(line):
     if re.match(r'^\d+(\s*[\-\/\&\.\/\s]\s*\d+)?(\s*\[\d+\])?$', s):
         return True
         
-    # Pattern 2: starts with a common roll prefix (like No, Nos, N°, N*, N>, Ne, N) followed by a number
-    if re.match(r'^[nN][oOsS]?s?[\*°>\.>e\"\'P]?\s*\d+(\s*[\-\/\&\.\/\s]\s*\d+)?(\s*\[\d+\])?', s):
+    # Pattern 2: starts with a common roll prefix (like No, Nos, N°, N*, N>, Ne, N, N", N's) followed by a number
+    if re.match(r'^[nN][oOsS]?[\*°>\.>e\"\'P]?s?\s*\d+(\s*[\-\/\&\.\/\s]\s*\d+)?(\s*\[\d+\])?', s):
         return True
         
     return False
@@ -132,12 +132,13 @@ def parse_roll_header(lines, expected_next, pdf_max_roll=145):
         if nums and (len(cleaned) < 15 or has_n_prefix):
             # Rule 1 & 2: Allow the roll number if it is within the expected sequence.
             # If it has an N prefix, we allow a larger window (+20) to recover from OCR misses.
-            # If it's a pure number, we keep a very tight window (+2) to avoid margin line numbers (10, 15, 20).
-            forward_window = 20 if has_n_prefix else 2
+            # If it's a pure number, we keep it VERY strict (0 or +1) to avoid margin numbers (10, 15, 20).
+            forward_window = 20 if has_n_prefix else 1
+            backward_window = 2 if has_n_prefix else 0
             
             matched_num = None
             for n in nums:
-                if (expected_next - 2 <= n <= min(pdf_max_roll, expected_next + forward_window)):
+                if (expected_next - backward_window <= n <= min(pdf_max_roll, expected_next + forward_window)):
                     matched_num = n
                     break
                     
@@ -194,9 +195,8 @@ def parse_roll_header(lines, expected_next, pdf_max_roll=145):
                     date_idx = i  # Treat current line as date line index for title parsing
                     
                 if is_valid:
-                    # Always trust the actual number found in the text.
-                    # Handle grouped roll headers like "Nos 8-10" or "Nos 11-14"
-                    valid_nums = [n for n in nums if expected_next - 2 <= n <= min(pdf_max_roll, expected_next + 20)]
+                    # Use the tight window rules to determine the range
+                    valid_nums = [n for n in nums if expected_next - backward_window <= n <= min(pdf_max_roll, expected_next + forward_window)]
                     if len(valid_nums) >= 2:
                         roll_num = f"{min(valid_nums)}-{max(valid_nums)}"
                     else:
@@ -215,22 +215,25 @@ def parse_roll_header(lines, expected_next, pdf_max_roll=145):
                         # Stop if we see another number line followed by a date (new roll)
                         sub_cleaned = clean_roll_num_string(l)
                         sub_nums = extract_numbers_from_cleaned(sub_cleaned)
+                        next_is_date = False
                         if sub_nums and (len(sub_cleaned) < 15 or re.match(r'^[nN]', sub_cleaned)):
-                            # check if it is followed by a date
-                            next_is_date = False
-                            sub_count = 0
-                            sub_j = k + 1
-                            while sub_j < len(lines) and sub_count < 3:
-                                sub_l = lines[sub_j].strip()
-                                if not sub_l:
+                            # Strict break: only if it looks like the NEXT logical roll
+                            # and is NOT a margin number (usually 5, 10, 15, 20)
+                            if any(n == expected_next or (re.match(r'^[nN]', sub_cleaned) and n > expected_next) for n in sub_nums):
+                                # check if it is followed by a date
+                                sub_count = 0
+                                sub_j = k + 1
+                                while sub_j < len(lines) and sub_count < 3:
+                                    sub_l = lines[sub_j].strip()
+                                    if not sub_l:
+                                        sub_j += 1
+                                        continue
+                                    sub_count += 1
+                                    if re.match(r'^\s*([sS58\$]\.?\s*[d4]\b|[vV]ers\b|\[?\d{3,4}\b)', sub_l):
+                                        if not any(w in sub_l.lower() for w in ["rouleaux", "morts", "ouleanx", "jouleaux", "lat.", "clm", "fol.", "bibl.", "cod."]):
+                                            next_is_date = True
+                                            break
                                     sub_j += 1
-                                    continue
-                                sub_count += 1
-                                if re.match(r'^\s*([sS58\$]\.?\s*[d4]\b|[vV]ers\b|\[?\d{3,4}\b)', sub_l):
-                                    if not any(w in sub_l.lower() for w in ["rouleaux", "morts", "ouleanx", "jouleaux", "lat.", "clm", "fol.", "bibl.", "cod."]):
-                                        next_is_date = True
-                                        break
-                                sub_j += 1
                             if next_is_date:
                                 break
                                 

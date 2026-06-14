@@ -1,0 +1,25 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Saint-Maurice Abbey, Switzerland",
+    "coords": [
+      46.2163,
+      7.0033
+    ],
+    "year": 1115,
+    "date_str": "S.d. [1115, apr\u00e8s , ao\u00fbt]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire ( fragmentaire ) de Turgol,  \u00e9v\u00ea..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "~ York",
+    "coords": null,
+    "year": 1115,
+    "date_str": "S.d. [1115, apr\u00e8s , ao\u00fbt]",
+    "is_approximate": true,
+    "description": "Titulus Header: ~ York"
+  }
+]
