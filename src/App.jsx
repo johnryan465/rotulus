@@ -52,9 +52,9 @@ export default function App() {
   const [stats, setStats] = useState({ total: 0, verified: 0, unverified: 0, percent: 0 });
 
   // Hoisted Functions
-  const fetchRollDetail = async (id) => {
+  const fetchRollDetail = async (rollNum) => {
     try {
-      const res = await fetch(getApiUrl(`/api/rolls/${id}`));
+      const res = await fetch(getApiUrl(`/api/rolls/${rollNum}`));
       const data = await res.json();
       setRollDetail(data);
     } catch (e) { console.error("Failed to fetch roll detail:", e); }
@@ -66,14 +66,14 @@ export default function App() {
       const hash = window.location.hash.replace('#/', '');
       const parts = hash.split('/');
       const tab = parts[0] || 'map';
-      const id = parts[1] ? Number(parts[1]) : null;
+      const rNum = parts[1] || null;
 
       if (['dashboard', 'explorer', 'map', 'verification'].includes(tab)) {
         setActiveTab(tab);
-        if (id && id !== selectedRollId) {
-          setSelectedRollId(id);
+        if (rNum && rNum !== selectedRollId) {
+          setSelectedRollId(rNum);
           setRollDetail(null);
-          fetchRollDetail(id);
+          fetchRollDetail(rNum);
         }
       }
     };
@@ -84,27 +84,28 @@ export default function App() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [rolls, selectedRollId]);
 
-  const syncHash = (tab, id = null) => {
-    const newHash = id ? `#/${tab}/${id}` : `#/${tab}`;
+  const syncHash = (tab, rNum = null) => {
+    const newHash = rNum ? `#/${tab}/${rNum}` : `#/${tab}`;
     if (window.location.hash !== newHash) {
       window.location.hash = newHash;
     }
   };
 
-  const handleTabChange = (tab, id = null) => {
+  const handleTabChange = (tab, rNum = null) => {
     setActiveTab(tab);
-    // Use the passed ID if provided, otherwise fallback to selectedRollId
-    const targetId = id || (tab === 'explorer' || tab === 'verification' ? selectedRollId : null);
-    syncHash(tab, targetId);
+    // Prioritize passed roll number
+    const targetNum = rNum || (tab === 'explorer' || tab === 'verification' ? selectedRollId : null);
+    syncHash(tab, targetNum);
   };
 
-  const handleSelectRoll = (id) => {
-    setSelectedRollId(id);
+  const handleSelectRoll = (rNum) => {
+    if (!rNum) return;
+    setSelectedRollId(rNum);
     setRollDetail(null);
-    fetchRollDetail(id);
-    // Update hash if we are in a detail-supporting tab
+    fetchRollDetail(rNum);
+    // Sync hash if in detail-supporting tab
     if (activeTab === 'explorer' || activeTab === 'verification') {
-      syncHash(activeTab, id);
+      syncHash(activeTab, rNum);
     }
   };
 
@@ -152,14 +153,14 @@ export default function App() {
   }, [activeTab, rolls, mapRollId]);
 
   useEffect(() => {
-    window.gotoRoll = (id) => {
-      if (!id) return;
-      handleSelectRoll(Number(id));
-      handleTabChange('explorer', Number(id)); // Pass ID explicitly to avoid race
+    window.gotoRoll = (rNum) => {
+      if (!rNum) return;
+      handleSelectRoll(rNum);
+      handleTabChange('explorer', rNum);
     };
     return () => { delete window.gotoRoll; };
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [rolls, activeTab]);
+  }, [rolls, activeTab, selectedRollId]);
 
   // Initialize Map Once
   useEffect(() => {
@@ -362,7 +363,7 @@ export default function App() {
             <div className="glass-panel" style={{ padding: '32px' }}>
               <h3>Catalogue of Rolls</h3>
               {rolls.slice(0, 8).map(r => (
-                <div key={r.id} className="roll-item active" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }} onClick={() => handleSelectRoll(r.id)}>
+                <div key={r.roll_num} className="roll-item active" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }} onClick={() => handleSelectRoll(r.roll_num)}>
                   <div style={{ display: 'flex', gap: '20px' }}>
                     <span className="roll-num">N° {r.roll_num}</span>
                     <div><h4 style={{ margin: 0 }}>{r.title.slice(0, 60)}...</h4><span>{r.date_str}</span></div>
@@ -447,9 +448,9 @@ export default function App() {
           <div style={{ display: activeTab === 'map' ? 'flex' : 'none', flexDirection: 'column', gap: '24px' }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               <h1>Historical Itineraries</h1>
-              <select className="search-input" style={{ width: '300px' }} value={mapRollId || ''} onChange={e => setMapRollId(e.target.value === 'all' ? 'all' : Number(e.target.value))}>
+              <select className="search-input" style={{ width: '300px' }} value={mapRollId || ''} onChange={e => setMapRollId(e.target.value)}>
                 <option value="all">View All Travels</option>
-                {rolls.map(r => <option key={r.id} value={r.id}>N° {r.roll_num} ({r.date_str})</option>)}
+                {rolls.map(r => <option key={r.roll_num} value={r.roll_num}>N° {r.roll_num} ({r.date_str})</option>)}
               </select>
             </div>
 
@@ -487,10 +488,10 @@ export default function App() {
                     })
                     .map((r) => (
                       <div 
-                        key={r.id} 
+                        key={r.roll_num} 
                         className="roll-item active" 
                         style={{ cursor: 'pointer', padding: '12px' }}
-                        onClick={() => window.gotoRoll(r.id)}
+                        onClick={() => window.gotoRoll(r.roll_num)}
                       >
                         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                           <div>

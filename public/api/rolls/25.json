@@ -1,35 +1,151 @@
 {
   "roll": {
-    "id": 25,
-    "roll_num": 81,
+    "id": 11,
+    "roll_num": "25",
     "date_str": "S.d.",
-    "title": "S.d. [1096, apr\u00e8s _ le 21 janvier] Titres compos\u00e9s par Baudri de Bourgueil pour le rouleau mortuaire de Renaud [ Ier du Bellay ] , archev\u00eaque de Reims. 20 A. Original perdu. B. Vaticano; Reg lat. 1351,fol. 27 et 37v (deux mains diff\u00e9rentes du XII' &) a. A. Duchesne, Historiae Francorum scriptores, Paris, t. IV, 1641, P. 252 et 267, \u20ac ex veteri codice Gallia christiana, t.IX, col. 77, dapr\u00e8s a (\u00e9d. partielle) . =C. PL, ms. Alexandri Petavii 6 CLXVI, col. 1183 et 1197. d. P. Abrahams, Les \u00e6uvres po\u00e9tiques de Baudri de Bourgueil t.. le ms. du Vatican.. Paris, 1926, P. 59, n' LII et P. 253 ( 1046-1130 ). \u00c9dition critique publi\u00e9e lbepr \u00e8Baldnisus Bwguciamnus . Carmina; Heidelberg 1979 % 105, n CXXXIII, dapr\u00e8s B. =e. K.Hilbert, B.-f J-Y. Tilliette; Baudri de Bourgueil. Po\u00e8mes; Pariss t. L, 1998, 46,n' 17 et p 73, n? 71, dapr\u00e8s P. 40, n? 17 et p. 66, n9 71. sonne et le r\u00f4le de Lanfranc,  cf. notamment (1) Canterbury; P. 110. [abbaye de Saint-\u00c9tienne   de (2) Historia ecclesiastica, \u00e9d. M. Chibnall, C.  Hippeau, Caen 1066-1790 ) , Caen, 1855, P. 17 M. Cib: Oxford, t. II, 1969, p. 146. Bec, Oxford, 1978 V. \u20ac\u00e0 () Il est difficile davancer que ce rouleau son, Lanfranc of Abb\u00e9s   b\u00e9nedictins, P 33-35 ; I E 1 mortuaire a servi \u00e0 [auteur anonyme . dun autre zeau, Cowdrey; Lanfranc, scholar; monk, archbishons portrait de Lanfranc (London; British Library, Claudius C. VI, fol. 173). Sur la per- Oxford , 2003. Cotton,",
+    "title": "Reverentissime matri familie illi, Sindbertus; adque abba de monasterio Morbac;  donum Dei vocatus episcopus pereat melliflua karitas= in Domino eternam salutem. De cetero com vestra eo quod frater vestex; nomine ille, kalendas illas, de 538) . Ces dates sont celles de Pabbatiat de Sindbert_ \u00e0 Murbach (cf:. Gallia christiana; t XV, col. [786]",
     "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "37,38",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "9,10,11,12,13,14,15",
     "is_verified": 0
   },
-  "tituli": [
+  "tituli": [],
+  "footnotes": [
     {
-      "id": 44862,
-      "roll_id": 25,
-      "title": "20 Debueram mea musa musam juvare",
-      "location_name": "are",
-      "latin_text": "; Sed re vera pro defunctis continuare. Usus potius duo que nobis sunt ct jus facienda; Nam designat  pro defunctis agenda. Et pro jus et salvandis compassio animabus  plorat 25 Ergo; brevem proximus _ musam orat. Resque ' ponamus procul nostro pro sit inutilis monimento Flentes Rainaldo Remensi a documento. Orantes autem compatiamur; Pro te nostrempatriarche = madent, ~ subveniamus.",
-      "pdf_page": 38,
-      "pdf_half": "left",
-      "entities": []
+      "id": 35549,
+      "roll_id": 11,
+      "pdf_page": 9,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "799). = c. Pertz; M. G.H. Leges; Hannovel \u20ac 429"
     },
     {
-      "id": 44863,
-      "roll_id": 25,
-      "title": "30 Oramus pater pro te optime",
-      "location_name": "ime",
-      "latin_text": ", pro nobis, ' fetibus , Colligit ultra quesumus, ora. fas rotularis ora. 'epistola multa, \u00c9d. Callia , 1 XXV christiana, ;c Jaffe, L X, {2) n '5415 inste , (4042) . col. CL 0 29, Pontal, Les Cf. capetienne conciles de la Chaise-L P,R. 'jusqu' 'en 1215, Paris; France Dieu  ( Gaussin; A ce 'sujet, cf 4. 1995, Fliche, _ P 219. Sur (1043-1518), ' Labbaye lippe F Le r\u00e8gne de_ B. celte Paris; ` de (1060-1108). Phi- Delmaire, restauration, 1962, La passim. Paris, 1912, milieu , Le cf, p. p. 47, 52 du _ dioc\u00e8se 137 . et (6) XIVE 8,, d Cf. Arras notamment Gallia , Arras; ,1994, > de Op. P 1093 cit., christiana, ' 41-53. au tI, p. XXIX. t. IX, col 77,",
-      "pdf_page": 38,
-      "pdf_half": "left",
-      "entities": []
+      "id": 35550,
+      "roll_id": 11,
+      "pdf_page": 9,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "cette datc, cf. supra; P. 16,n.1."
+    },
+    {
+      "id": 35551,
+      "roll_id": 11,
+      "pdf_page": 10,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "CDileLCS, DlDI: [oydie; 19: c"
+    },
+    {
+      "id": 35552,
+      "roll_id": 11,
+      "pdf_page": 10,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "r"
+    },
+    {
+      "id": 35553,
+      "roll_id": 11,
+      "pdf_page": 11,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Vu UlulU 000s nos qui hec loquimur ejusdem tytuli scriptor mus quibusque sepulcri violatoribus quedan furtim translata non ignoravimus, semetipsi:"
+    },
+    {
+      "id": 35554,
+      "roll_id": 11,
+      "pdf_page": 11,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "B. (b) Wilfrudo abbati, Eilfrido abbati_ omis B. (d) Scald ab. (e) qui omis B."
+    },
+    {
+      "id": 35555,
+      "roll_id": 11,
+      "pdf_page": 11,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "semetipsum prodentem agnovi- sunt ossa de atrio in monasterium accusantibus duabus qui (e) inter- 35"
+    },
+    {
+      "id": 35556,
+      "roll_id": 11,
+      "pdf_page": 11,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "abbati omis B."
+    },
+    {
+      "id": 35557,
+      "roll_id": 11,
+      "pdf_page": 11,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "Bavonis"
+    },
+    {
+      "id": 35559,
+      "roll_id": 11,
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "\u00e9v\u00eaque de Noyon fut en charge de 8A1 \u00e0 860 environ; car il assista encore au concile de Tuscy (Mcuse; arr; Commercy, \u20ac O0 ctc\" Vaucouleura 22 octobre 860). Au contraire, sclon FLot ( La"
+    },
+    {
+      "id": 35558,
+      "roll_id": 11,
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "30n sujel, CL: Holaiiiiiei V NuGlcolo op. cit., t. III, p.88 J Devisse, Hincmar arche- v\u00eaque de Reims, 845-882, Gen\u00e8ve; 1976,3 vol Archev\u00eaque de Besan\u00e7on  (843-870) ; cf. L. Duchesne, op. cit., t. III, P. 215."
+    },
+    {
+      "id": 35560,
+      "roll_id": 11,
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Lveque"
+    },
+    {
+      "id": 35561,
+      "roll_id": 11,
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "(ouy-Ouli G1 L. Duchesne; op cil., L II, p. 225. ((11) \u00c9v\u00eaque de Chalon-sur-Sa\u00f4ne (843-862)"
+    },
+    {
+      "id": 35562,
+      "roll_id": 11,
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Oe"
+    },
+    {
+      "id": 35563,
+      "roll_id": 11,
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "1943, P. 469, n? 178) ."
+    },
+    {
+      "id": 35564,
+      "roll_id": 11,
+      "pdf_page": 14,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "r"
+    },
+    {
+      "id": 35565,
+      "roll_id": 11,
+      "pdf_page": 14,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "perveniat ."
     }
-  ],
-  "footnotes": []
+  ]
 }

@@ -1,0 +1,110 @@
+{
+  "roll": {
+    "id": 84,
+    "roll_num": "141",
+    "date_str": "S.d.",
+    "title": "S.d. [1157, apr\u00e8s _ le 30 mars] Imars 25 de Dijon (+ 30  abb\u00e9 = de S. \u00c9tienne c Rouleau mortuaire (fragmentaire) de Herbert, 1157 ) _",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (4)",
+    "pdf_pages": "69,70,71",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 46983,
+      "roll_id": 84,
+      "title": "T. Sancti Salvatoris Figiacensis. Absolve; Domine; animam famuli tui Herberti et 0. f.d., per interc",
+      "location_name": "Sancti Salvatoris Figiacensis",
+      "latin_text": "S.d. Fons; N.-D. et S. Victor:",
+      "pdf_page": 71,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46984,
+      "roll_id": 84,
+      "title": "T. Sanctae Mariae Sanctique Victoris de Fontibus. Anima domni Herberti et 0 f. d., p. m. D., in Chri",
+      "location_name": "Sanctae Mariae Sanctique Victoris de Fontibus",
+      "latin_text": "10 S.d.- Carennac; S. Pierre. Anima domni Herberti et 0 f. d.. p. m. D. in Christi nomine r. i. p. Amen. Oravimus p: v orate p n. Concedimus ei unum officium; septem psalteria et beneficium loci nostri. 30 1l S.d.- T. Sancti Petri Belli Loci. Beanlica sus Dordogne] = S. Pierre. beneficium loci ejus et a. 0. f. d. r: i. P. Concedimus ei nostri. Oravimus P. Y.? orate p. n. (1) Abb\u00e9 de Figeac, DH.GE, t. cit\u00e9 en 1119 par le Gallia XVI, col. 1458 christiana (t. I, col. 174) (R. Prat) . cf. aussi Figeac \" dans",
+      "pdf_page": 71,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46985,
+      "roll_id": 84,
+      "title": "T. Sancti Michaelis Ducelio (). Tibi, Domine, commendamus animam famuli tui Herberti, ut saeculo tib",
+      "location_name": "Sancti Michaelis Ducelio ()",
+      "latin_text": "",
+      "pdf_page": 71,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 36154,
+      "roll_id": 84,
+      "pdf_page": 69,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "A. Original perdu. B. Dijon, A. D. C\u00f4te-dOr; G 168, fol. XI seu rotuli antiqui Sancti Stephani Di (copie du 5 novembre   1662, par A duobus rotulis in pergameno scriptis]"
+    },
+    {
+      "id": 36155,
+      "roll_id": 84,
+      "pdf_page": 69,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Fragmentum  le titre ' conscriptum ' XLVIv; sous | sexcentos , er 20 IIIII (sic) - minus _ plus transcriptum ante annos dapr\u00e8s _ A, vionensis; notaire apostolique; rvisel, \")"
+    },
+    {
+      "id": 36156,
+      "roll_id": 84,
+      "pdf_page": 70,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "ce personnage; cf. CL che, cit., Fyot de La op. p 108-114 = Mar- 6 Gallia t. IV; col. 755-756. christiana, (2) \u00c9d. P L L CLXXIX, col 117 ,"
+    },
+    {
+      "id": 36157,
+      "roll_id": 84,
+      "pdf_page": 70,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "LXXV cf. Jaff\u00e9, n (3) 7522 (5391) . \u00c9d. P L., t. CLXXXVIII,  col.  1456, n XCIII ; cf: Jaff\u00e9, n\" 10167 (6930) ."
+    },
+    {
+      "id": 36158,
+      "roll_id": 84,
+      "pdf_page": 70,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "iiluiqus, preMer auuC blissement religieux   fond\u00e9 en 1134), cit\u00e9 en 1136 par le Gallia christiana (t. XIV; col. 694). (2) Sur ce 567,n. 2 personnage, cf. supra, P P\u00e9tronille de Chemill\u00e9, abbesse de Fonte- vraud, pour laquelle circula un rouleau mor- tuaire, dont Tencyclique (cf: seule subsiste"
+    },
+    {
+      "id": 36159,
+      "roll_id": 84,
+      "pdf_page": 70,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "de Fontevee c ronte abbesse , mort , 6 d'Anjou, de &1 c 969 1155, jour XVII 31 mai DHGE L au 8 dans vrault ( Daoust)"
+    },
+    {
+      "id": 36160,
+      "roll_id": 84,
+      "pdf_page": 71,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "de Celio Gallia Gallia christiana, loc, christiana, loc. cit."
+    },
+    {
+      "id": 36161,
+      "roll_id": 84,
+      "pdf_page": 71,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Cluniacensis \u20ac 0; c) mol B. (b) nc apr\u00e8s _ Ce Cil."
+    }
+  ]
+}

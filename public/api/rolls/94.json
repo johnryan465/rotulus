@@ -1,14 +1,39 @@
 {
   "roll": {
-    "id": 94,
-    "roll_num": 118,
+    "id": 54,
+    "roll_num": "94",
     "date_str": "S.d.",
-    "title": "S.d. [vers 1120]] Echange de brefs annuels institu\u00e9 entre S. Aubin d' , pr\u00e9cises Angers  (respectivement \u00e0 la Chandeleur [2 f\u00e9vrier] et N-D.de D\u00e9ols \u00e0 des dates lembre] ) ~ et \u00e0 la Nativit\u00e9 de la Vierge [8 sep: 5 A. Original perdu: B. Angers; B. M , ms. 831 (747 n\u00e9crologe de S. Aubin &d 'Angers), P 55. 0 . Bertrand de Broussillon; Cartulaire de S. Aubin d Angers, Angers; L. IL, 1903, p. 42, n\" CCC- CXXXIV, dapr\u00e8s B.",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (3)",
-    "pdf_pages": "81",
+    "title": "S.d. [XIF ,.] Rouleau mortuaire ( fragmentaire ) anonyme. Comme le ms. Paris, B. N. E. Jat. 5605 provient de la biblioth\u00e8que du chapitre de Ch\u00e2lons-en- Champagne ( on peut penser que ce rouleau mortuaire circula \u00e0 [occasion de la mort dun \u00e9v\u00eaque de cette cit\u00e9- Le fragment, fort endommag\u00e9, contient trois titres, un en prose sur le \u20ac. \u20ac., deux en vers; appos\u00e9s 10 c\u00f4te \u00e0 c\u00f4te sur le \u20ac. p. (seul [un deux peut \u00eatre publi\u00e9, et seulement en partie, en raison du tr\u00e8s mauvais \u00e9tat de conservation du document) .",
+    "manuscripts": "A. Paris, B. N. F., lat. 5605, fol. 1. Parchemin (c. c. [= verso], gris\u00e2tre c. P. [= recto], jaun\u00e2tre) . Un fragment opisthographe. Longueur, 16 cm ; Jargeur (incompl\u00e8te), 20,5 cm. 5 INDIQU\u00c9 L. Delisle; Rouleaux des morts du IX' au XVF s., P. 147, n? XXVIL.",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "47",
     "is_verified": 0
   },
   "tituli": [],
-  "footnotes": []
+  "footnotes": [
+    {
+      "id": 35811,
+      "roll_id": 54,
+      "pdf_page": 47,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "UMMLPULCIS 011A23Ce 0 Quas revocat, superis sedibus ipse locat, Corporeis que forte graves per tempora menbris Sunt virtute leves ac meritis celeres, Quas Domini pietas perlustrat lumine claro Post obitum sanctis cum reliquis nimium Interitus quorum non est deflendus morbe."
+    },
+    {
+      "id": 35812,
+      "roll_id": 54,
+      "pdf_page": 47,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Cf: L. Delisle, loc. cit."
+    },
+    {
+      "id": 35813,
+      "roll_id": 54,
+      "pdf_page": 47,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "25"
+    }
+  ]
 }

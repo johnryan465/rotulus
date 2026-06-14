@@ -1,25 +1,39 @@
 {
   "roll": {
-    "id": 38,
-    "roll_num": 95,
+    "id": 24,
+    "roll_num": "38",
     "date_str": "S.d.",
-    "title": "S.d. [XIS s] Rouleau mortuaire ( fragmentaire) de Renaud, abb\u00e9 de Fleury: 4 Original perdu  5 B. Vaticano; Reg lat. 596, fol. JOv (XIIS 5.) . @.E Duemmler; Carmen in obitu dapr\u00e8s B.= 6L. Rainaldi Floriacensis m, dans Delisle; Vital de Neues Savigny, Archiv; p. 26, n? 2, dapr\u00e8s t. V, 1880, a (\u00e9d. partielle) . P 635, Ip\u0131ov\u00c9 : L. Delisle, Vital de E Savigny; p. 26, n\" 2. Pellegrin; Membra Obituaires disjecta Floriacensia de la province de 10 4 Vidier; D, dans B.\u00c9 Sens, t. Ch., t. III, P Lhistoriographie = CXVII, 146. p 65 \u00e0 Saint-Beno\u00eet-sur-Loire . 1959, ;P 120et n. 48. p. 16, n. 5. et les miracles de saint_ Beno\u00eet, Paris, 1965, Un po\u00e8me de Renaud quatre-vingt-quatre Les derniers  vers adoniques; auteur vers indiquent qu'il fut s\u00e9partis en strophes de six verss c\u00e9l\u00e8bre \u00e9tait \u00e9tranger a compos\u00e9 pour un rouleau Tabb\u00e9 15 anponc\u00e9e. Fleury = E. en effet, Duemmler une liste des mortuaire et aussi que son de Reims (loc: cit.) rapproche; \u00e0 juste propres d\u00e9funts de l\u00e9tablissement vigit\u00e9 = titre; est On ne sait rien cette pi\u00e8ce dun autre po\u00e8me d\u00fb \u00e0 S. Revsi 5 de Renaud Beno\u00eet-sur-Loire sa comm\u00e9moraison est plac\u00e9e au 7 d\u00e9cembre par deux obituaires de Texte 20 \u00e9tabli dapr\u00e8s a. Floriacensis Contio; mestis Pro Rainaldi Funere= patris Fulgida = 25 summi Gaudia regni - Desine  Flere , questus diurnos; C, supta, P 41, n9 39 , des abb\u00e9s , pereonnage de ni Fleury < appara\u00eet - donn\u00e9e 5 pas dans  la tiana (t. liste VIII, (3) col. par le 1541). Gallia chris- Obituaires P 151, 161 de la province de cf. A. Sens, Vidier; t. III, op. cit., P. 120, n. 48.",
+    "title": "S.d. [epr\u00e8s le 18 juin 956] Bref mortuaire envoy\u00e9 par labbaye - Purchard . de $. Callen \u00e0 Voccasion du d\u00e9c\u00e8s du sous-diacre 20 A. Original perdu. B.Sankt Gallen; Stiftsbibl, 915, p 18 (X? XI' s). a.B. Haeftenus, Commemoratio tatum Sancs Gammemoralo dsfatatoenss P 798 (\u00e9d; partielle) . 6.P Fabariensis (M.G.I, Piper; Libri confraterni- Necro ) * P 143. CE. E. D\u00fcmmler; H. ler Wartmann; Todtenbuch  und St. Gal- Verbr\u00fcderungen t.XI, 1869, P 29. Mittheilungen  8 dans (2) 'zurvaterl\u00e4ndischen ( Geschichte, Ibid., P. 89. [956]",
     "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "48,49",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "22,23,24",
     "is_verified": 0
   },
-  "tituli": [
+  "tituli": [],
+  "footnotes": [
     {
-      "id": 44873,
-      "roll_id": 38,
-      "title": "25 Reddite - functis",
-      "location_name": "functis",
-      "latin_text": "; Solvite vivis Debita nostris Talia nobis Poscimus 30 omnes Munia pendi . Sic 'requiescent Funere ' tacti, Deque  piaclis Prodiat 35 almo Auspice Christo Cessio nobis. [XI\" 8]",
-      "pdf_page": 49,
-      "pdf_half": "left",
-      "entities": []
+      "id": 35582,
+      "roll_id": 24,
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "PICCC CSlnnilallon ien CuMUC Uu OcPcae rythme; soit huit syllabes (avec comme dernier mot un paroxyton, Chr\u00edst\u00ed) suivies de sept syllabes (avec comme dernier mot un proparoxyton; Remtgii) '"
+    },
+    {
+      "id": 35583,
+      "roll_id": 24,
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Ibid , P.44. Ibid.,  p. 91. Cf. infra; P. 51,n? 46 ; p.54,n? 47 ; p.69, n\" 57 ; P 72, n\" 58."
+    },
+    {
+      "id": 35584,
+      "roll_id": 24,
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "ce sujel, cf. D. Norberg Introduction \u00e0 la versification latine m\u00e9di\u00e9vale; Stockholm; 1958, P. 113 et suiv."
     }
-  ],
-  "footnotes": []
+  ]
 }

@@ -1,45 +1,39 @@
 {
   "roll": {
-    "id": 97,
-    "roll_num": 121,
+    "id": 57,
+    "roll_num": "97",
     "date_str": "S.d.",
-    "title": "S.d. [1123, apr\u00e8s le 4 novembre] Marbode, \u00e9v\u00eaque de Rennes (t 11 septembre 1123). Encyclique sollicitant de prier pour",
-    "manuscripts": "A. Original perdu. partielle . du XVIII s) B. Angers, B. M, ms. 327 (318), fol: 13,sans doute dapr\u00e8s a (copie  Renness 1524, P A II, quondam nominatissimi presulis 6. Incipit liber Marbodi, DRedomenaiilis Hilaaherti opera Puss (\u00e9d. partielle) 6.D. Beaugendre; sans indication de source anni 1524, Redonis excuso; ecehivo BarAlbini Andegar: et ex exemplor Collegii Mazarinaei , 1708, col. 1383, ex asservatur in Bibliotheca jussu   Yvonis;   Redonensis   episcopi, quod S. Albini Andegarensis ' t. I, col. 355, ex ms. et civile _ de Bretagne, C. Ed. Mart\u00e8ne et U. Durand, Thesaurus, (Chistoire eccl\u00e9siastique = \u00e0.H. Morice; M\u00e9moires pour servir de preuves \u00e0",
-    "pdf_source": "Dufour T1 (3)",
-    "pdf_pages": "82,83",
+    "title": "S.d. [fin XI &.-d\u00e9but XIIS &.] Rouleau mortuaire ( fragmentaire) anonyme. a.L. Delisle, Vital de Savigny, P. 26, n? 3, dapr\u00e8s (\u00e9d. partielle) . INDIQU\u00c9 G. Nicolaj, Cultura e 'prassi di notai preirneriani, Milano; 1991, P. 104. Les divers titres furent appos\u00e9s par des \u00e9tablissements religieux du P\u00e9rigord (Tourtoirac; S. Front 10 de P\u00e9rigueux), du Berry (S. Ursin de Bourges), dAnjou (Bourgueil), du Poitou (Charroux) et du Limousin (Lesterps) . Trois dentre eux font part du nom de leurs d\u00e9funts Tourtoirac; de ses abb\u00e9s Inguilinus, Causfredus et Stephanus Bourgueil, de labb\u00e9 Raimundus (1060-1079) Charroux; de labb\u00e9 Fulcradus (1077-1088) 15 Autant qu'on peut en juger dapr\u00e8s ce fragment; le pr\u00e9sent rouleau mortuaire circula donc apr\u00e8s 1088. Il n'est gu\u00e8re possible de d\u00e9terminer son itin\u00e9raire.",
+    "manuscripts": "A. Milano; Biblioteca Ambrosiana; C 51 sup. Sententiae diversorum Patrum de primatu Romanae Ecclesiae w, XI' &.), fol. II (reli\u00e9 haut en bas)  Parchemin (tr\u00e8s \u00e9pais ; c. c. [= verso] blanc ; c. P. 5 [= recto] jaune). Un fragment  opisthographe. Longueur; 22,5 cm largeur (rogn\u00e9e), 13 cm. Mauvais \u00e9tat de conservation",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "50,51",
     "is_verified": 0
   },
-  "tituli": [
+  "tituli": [],
+  "footnotes": [
     {
-      "id": 45437,
-      "roll_id": 97,
-      "title": "13 et n",
-      "location_name": "t n",
-      "latin_text": ".",
-      "pdf_page": 83,
-      "pdf_half": "left",
-      "entities": []
+      "id": 35816,
+      "roll_id": 57,
+      "pdf_page": 50,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "rtcrences QuC _ 74or"
     },
     {
-      "id": 45438,
-      "roll_id": 97,
-      "title": "2 Verbr\u00fcderungensb\u00fccher II p",
-      "location_name": "I p",
-      "latin_text": ". 27, n. Br\u00e9quigny; Table chronologique, t II, [NDIQU\u00c9 G. Zappert, 521. Catalogue g\u00e9n\u00e9ral des mss. des Biblioth\u00e8ques publiques de France, Paris + XXXI P 310.-\u00c9. Lesne; Iistoire de la propri\u00e9t\u00e9 eccl\u00e9siastique en France, Lille; t. V, 1940, p. 125 10 1898. p 5 J-I. Foulon; La r\u00e9forme de l\u00c9glise dans la France de Fouest, t. I, P. 239, n, 141. et n. JH. Foulon; Les ermites dans louest de la France. Les sources, bilan et perspectives % dans A. Vauchez; dir: Ermites de France et dItalie ( XI_ = XVO s. ) . Rome; 2003, P.",
-      "pdf_page": 83,
-      "pdf_half": "left",
-      "entities": []
+      "id": 35817,
+      "roll_id": 57,
+      "pdf_page": 50,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "explicitement, m'a \u00e9t\u00e9 aimablement com- muniqu\u00e9e par Mme Mirella Ferrari. (2) Cf. Gallia christiana, t. XIV; col. 657. Cf. Gallia christiana, t. II, col. 1280 ; son nom appara\u00eet notamment en 1079 dans la date dun acte de Philippe IFr (\u00e9d. M. Prou, Recueil des actes de Philippe I' , Paris, 1908, P. 221,"
     },
     {
-      "id": 45439,
-      "roll_id": 97,
-      "title": "87 et n",
-      "location_name": "t n",
-      "latin_text": ". 14. Marbode; personnage et auteur bien connu @ se retira \u00e0 la fin de sa vie \u00e0 S. Aubin d Angers. La 15 pr\u00e9sente encyclique; r\u00e9dig\u00e9e \u00e0 son intention par cette communaut\u00e9 religieuse; sollicite \u00e9galement des pri\u00e8res pour Girardus; d\u00e9c\u00e9d\u00e9 le 4 novembre [1123] Texte \u00e9tabli dapr\u00e8s a et h. Universis unius Sacrosancte Ecclesie filiis, humilis congregatio beati Albini, Andegavorum episcopi, plenam de Hoste victoriam et de victoria coronam. Apos- 20 tolica nos informat authoritas ut, pro invicem orantes (3) alter alterius onera portemus et sic adimplebimus legem Christi (4) Legem igitur Christi nos, servi Christi; pia sollicitudine adimplere satagentes; denunciamus vobis obitum domini Marbodi; venerabilis episcopi, semper cum laude memorandi, lingua facundi, religione precipui; morum honestate preclari, litterarum eruditione doctissimi; 25 cujus sermo sale semper conditus erat; et ex ore illius omni dulcior melle fluebat oratio ; et quamvis eodem tempore variis studiis tota Gallia oratorum rex, Gallicane resonaret, ipse tamen, arcem idus eloquentie specialiter obtinebat. Tertio siquidem septembris; anno Domini millesimo centesimo vigesimo tertio; infirmatus carne; sed spiritu fortior; excedens \u00e0 seculo; vivens in Christo; sua 30 presentia et amoris sui nos viduavit ((b) jaculo vulneratos intolerabili longa liberalium studiorum dolore confecit. Qui post longe lateque vernantium   exercitia,   quibus in intollerabili @. (b) longua 0 . 0) A son sujet, cf. notamment Marbode % dans DLE p. 982-983 (J-Y Tilliette) . P 93-126 ; cf. (2) BILL, n? 3548) . A noter que ce personnage est aussi Cf. Jac., connu V, 16 orate par une Vita (\u00e9d. P. pro invicem Cf. Gal. VI, 2 P . Marchegay et \u00c9. Mabille, tate Alter Chroniques des \u00e9glises & , alterius onera et sic por - Anjou, Paris; 1869, 'adimplebitis legem Christi v",
-      "pdf_page": 83,
-      "pdf_half": "left",
-      "entities": []
+      "id": 35818,
+      "roll_id": 57,
+      "pdf_page": 50,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "P. CXCIX, n.)  (4) Inguilinus et Gausfredus n 'apparaissent pas dans la liste incompl\u00e8te des abb\u00e9s de Tour- toirac   fournie pour es XI' et XII\" $ par Ic Gallia christiana (t. II, col. 1496) . (5) Peut-\u00eatre premier abb\u00e9 de Tourtoirac, cit\u00e9 en 1020 par le Gallia christiana (loc. cit:)."
     }
-  ],
-  "footnotes": []
+  ]
 }

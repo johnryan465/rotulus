@@ -1,85 +1,14 @@
 {
   "roll": {
-    "id": 119,
-    "roll_num": 126,
+    "id": 74,
+    "roll_num": "119",
     "date_str": "S.d.",
-    "title": "S.d. [1129, apr\u00e8s le 23 janvier] Rouleau   mortuaire (fragmentaire) de William  Giffard, \u00e9v\u00eaque de Winchester (t 23 janvier 1129) _",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (4)",
-    "pdf_pages": "34,35",
+    "title": "15 S.d. [vers 1120]] Echange de brefs annuels institu\u00e9 entre S. Pierre-de-la-Couture [du Mans] et S Aubin d , Angers \u00e0 des dates pr\u00e9cises ( 'respectivement . \u00e0 la S. Julien [27 janvier] et \u00e0 la S. Aubin [30 juin] )- societas inter monachos S, Albini 2 B. Paris, B. N. E, lat. 17126, P. 531, sous le titre Dudum inita martyrologio monasterii S. Petri de Andegavensis et monachos dicti S. Petri de Cultura > ex Cultura Cenomanensis (XVII' s) 1 IL, 1903, P 101, 0. Bertrand de Broussillon; Cartulaire de S. Aubin d'Angers, Angers, n DLXXVI (vers 1200). mais dc 1120 2 ann\u00e9es 1200 (comme F'indique a) avis; cette confraternit\u00e9 n'est pas des pri\u00e8res [ publi\u00e9cs mon 'associations de environ, car ellecester\u00e9dig\u00e9e selon le m\u00e8me formulaire que les deux = ci-dessus (n\" 09 1l7 et 118) . [1120]",
+    "manuscripts": "A. Original perdu.",
+    "pdf_source": "Dufour T1 (3)",
+    "pdf_pages": "81,82",
     "is_verified": 0
   },
-  "tituli": [
-    {
-      "id": 45679,
-      "roll_id": 119,
-      "title": "1 S.d.- Whitby",
-      "location_name": "Whitby",
-      "latin_text": ". Gallia (a) flet prolem; Wyntonia filia patrem 6 Qui venit magni de semine Karolomagni . Nobilitando genus clarum de sydere sydus; suivante Iste Wilhelmus Gyfjfard ex cancellario Ce titre est introduit en B par la phrase qui, qualis; quantus fuerit in Ecclesia Henrici et regni_ rougliae factus est episcopus Wontoojas ! regis monasterii Sancti Benedicti et Sanctae Hildae sanguinis _ extiterat, ostendit titulus = Dei et quod vir alti laudem sic compositus Wytebiensis ecclesiae, metrice in ejus (2) Ason sujet, cf Handbook of British chro- Cette   r\u00e9f\u00e9rence In'a \u00e9t\u00e9   aimablement nology; P 276. communiqu\u00e9e par M. Julian Harrison:",
-      "pdf_page": 34,
-      "pdf_half": "right",
-      "entities": []
-    },
-    {
-      "id": 45680,
-      "roll_id": 119,
-      "title": "5 Qui te noverunt",
-      "location_name": "unt",
-      "latin_text": "; notum fieri voluerunt, \u00c0c descripserunt quicquid potius potuerunt . An placeat Christo laus tanta revolvere sisto. Qui novit pure meritis; qui sunt sibi curae; Quicquid sit scriptum verum vel carmine fictum ; 10 Judicio totum Jesu discerno relictum: Ergo precamina fundite concina concio cleri; Ut super aethera coelicus incola haberi: Nos quoque vobiscum pastus coelestis ibiscum; Post hoc naufragium maris accipiamus in aevum.",
-      "pdf_page": 35,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 45681,
-      "roll_id": 119,
-      "title": "15 Dulce fit examen apud hunc",
-      "location_name": "unc",
-      "latin_text": ", quod firmet et Amen.",
-      "pdf_page": 35,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 45682,
-      "roll_id": 119,
-      "title": "2 S.d.- Reading",
-      "location_name": "Reading",
-      "latin_text": ": Dum misero mundo mortem dedit Adae Mordentem potuit sub iniqua ponere clade Unius morsus communem fundere mortem, 20 Innotuit natis et in unam ducere sortem. Omnes inde rei sumus, ut pariter moriamur; Peccantisque patris vestigia dura sequamur: Quid juvat ergo reos factos pro sorte parentis Divitiae; census et abyssus plurima mentis ? 25 Quid juvat immensas ventris protendere pestes ? Quid juvat intextas auro perquirere vestes ? Si sensus, si divitiae; si splendida coena Propagare necis possent restringere fraena . Nestoreos pluresque dies hic continuasset, 30 Et formare dies per saecula multa parasset . Sed valet hiis minime spatiosum tempus haberi. Nil igitur prodest per praedia longa teneri . Non potuit per divitias confundere mortem; Dives enim pariter subit hanc . cum paupere sortem. Ce titre est introduit en B praesulis Wyntoniensis, Wilhelma Ga phrase suivante Item lachrymando de morte istius nobilis data Gyfard; metrice sic seribit ecclesia Radyngensrite det mnovo fun- [1129]",
-      "pdf_page": 35,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 45683,
-      "roll_id": 119,
-      "title": "10 Stantibus auxilium",
-      "location_name": "ium",
-      "latin_text": "; fuit et relevatio lapsis; Ecclesiae decus et gloria pontificum. Haec bene firma fuit tali suffulta columpna Illos consilio juvit et auxilio. Religione Deum plebemque colebat amore.",
-      "pdf_page": 36,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 45684,
-      "roll_id": 119,
-      "title": "15 Sic fuit eximii nominis et meriti",
-      "location_name": "iti",
-      "latin_text": ". Jam prope jam clerus jam paene monasticus ordo Hoc defecerunt deficiente patre. Plebs commissa sibi tali viduata parente; Nunquam se similem sperat habere virum.",
-      "pdf_page": 36,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 45685,
-      "roll_id": 119,
-      "title": "20 Anglia gaudebat vivo",
-      "location_name": "ivo",
-      "latin_text": "; nunc plorat ademptum Nam multum patriae proderat illa suae. Aaglia pontificem; Normannia deflet alumpnum Nam praesul fuit hic, traxit at inde ; Sed genus. quia post mortem jam nemo potest = 25 revocari Ad nos nec fletu; nec prece nec pretio Jam Dominum fratres; jam toto corde Ut regni coeli gaudia dentur ei. precemur; Amen.",
-      "pdf_page": 36,
-      "pdf_half": "left",
-      "entities": []
-    }
-  ],
+  "tituli": [],
   "footnotes": []
 }

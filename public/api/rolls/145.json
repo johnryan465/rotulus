@@ -1,58 +1,47 @@
 {
   "roll": {
-    "id": 145,
-    "roll_num": 144,
+    "id": 88,
+    "roll_num": "145",
     "date_str": "S.d.",
-    "title": "S.d. [1160, apr\u00e8s le 23 novembre] Chonneur  de German, abb\u00e9 de Selby (t 23 novembre 1160 ) . Vers en",
+    "title": "Vir vite speculum; pietatis formula, morum Exemplar; tumulum sortitur sorte reorum. Laude virum cupiens attolere tam specialem Deficio nequiens hominem describere talem . Quem scio; quem video; majorem laudis honore; Quam volo; quam valeo perstringere mente; vel ore Hoc precor ergo sibi pro laudis honore dicetur; Quod nequit ascribi sua quod pia vita meretur: Dicere me liceat quod non retinere licebit. Sic licet intereat caro, spiritus astra tenebit . Vermibus esca datur hec, hic collega supernis; Jure coaptatur; hic celis; ista cavernis. 679 10",
     "manuscripts": "",
     "pdf_source": "Dufour T1 (4)",
-    "pdf_pages": "75",
+    "pdf_pages": "75,76,77,78",
     "is_verified": 0
   },
-  "tituli": [
-    {
-      "id": 45799,
-      "roll_id": 145,
-      "title": "5 Labbe",
-      "location_name": "bbe",
-      "latin_text": "; Nova bibliotheca manuscriptorum, Paris; t I, 1617, P 621, Ph. dapr\u00e8s B. 0. D'abord moine de S. Albans; German fut prieur de Tynemouth jusqu'en 1152, enfin (1) abb\u00e9 de Selby de 1152 jusqu 'au 23 novembre 1l60, jour de sa mort La m\u00e8me remarque peut \u00eatre faite pour ce po\u00e8me el ceux pr\u00e9c\u00e9demment compos\u00e9s en Thonneur 10 des abb\u00e9s Hugh et Walter bien que rien n'indique que ce_po\u00e8me ait \u00e9t\u00e9 appos\u00e9 sur un rouleau mortuaire; on peut remarquer que son style est proche de tclles pi\u00e8ces. Tristis Ade vicio () viciis corrumpitur orbis () Qui ruit exicio; lapsu, discrimine morbis. Mundus abit, nec habet, quod non abeundo moretur; 15 Quod tenet, aut quod habet , nec stat, nec stare meretur Sic viget, ut pereat; sic est ut desinat esse () Sic stat, ut intereat, suhit hoc caro queque necesse Sic hominum generi constat generale perire. Sic nostro cineri, cinerem commune suhire 20 Omnia pretereunt celeri mortalia fine; Et subito pereunt misera data sorte ruine. Hec sors letalis; sors aspera conditionis, Sors mala plena malis decus aufert religionis. Occidit et periit dccus et decor omnis 25 honoris. Cum pius interiit Germanus gemma decoris:. (a) Les deux ou trois. demiers Jettres des deur [1160]",
-      "pdf_page": 75,
-      "pdf_half": "left",
-      "entities": []
-    }
-  ],
+  "tituli": [],
   "footnotes": [
     {
-      "id": 34227,
-      "roll_id": 145,
+      "id": 36176,
+      "roll_id": 88,
       "pdf_page": 75,
-      "pdf_half": "left",
+      "pdf_half": "right",
       "footnote_num": "1",
-      "text": "VCrs, oc 76) puis des deux suivants;  @-orhis B. puis des denx suivants () c-cssc R. (a) Notc interlincaire vel orbis B."
+      "text": "Dyonisii conventus salutem et ga opem implorat. Justum etenim   valde"
     },
     {
-      "id": 34228,
-      "roll_id": 145,
+      "id": 36177,
+      "roll_id": 88,
       "pdf_page": 75,
-      "pdf_half": "left",
+      "pdf_half": "right",
       "footnote_num": "2",
-      "text": "sujet, cf, of Knowles/ Teligious / 'Brookr; Hvads 96, houses England and Wales; 109"
+      "text": "A son sujet, cf. Gallia christiana; t. VII, col. 379-380. (2) Cf. notamment Obituaires de la province"
     },
     {
-      "id": 34229,
-      "roll_id": 145,
+      "id": 36178,
+      "roll_id": 88,
       "pdf_page": 75,
-      "pdf_half": "left",
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Vcius Deali99ini Mnac udium exoptat atque ab his mutuo solatii csl ut qui unius   domini aumus famuli,"
+    },
+    {
+      "id": 36179,
+      "roll_id": 88,
+      "pdf_page": 75,
+      "pdf_half": "right",
       "footnote_num": "4",
-      "text": "B. en commun, sont (crites"
-    },
-    {
-      "id": 34230,
-      "roll_id": 145,
-      "pdf_page": 75,
-      "pdf_half": "left",
-      "footnote_num": "5",
-      "text": "132. 638 A 580. n' 123 et p"
+      "text": "Sens, t. I, 1,p 310 :a XVIkal mart, Obut domnus Yvo, pic mrmoric abha. Brati Dypnn sii"
     }
   ]
 }

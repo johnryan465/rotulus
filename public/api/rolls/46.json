@@ -1,25 +1,79 @@
 {
   "roll": {
-    "id": 46,
-    "roll_num": 103,
+    "id": 28,
+    "roll_num": "46",
     "date_str": "S.d.",
-    "title": "S.d. [d\u00e9but XII s.] relative \u00e0 la mort jun certain Foulques, appos\u00e9e sans doute sur un Pi\u00e8ce versifi\u00e9e rouleau mortuaire par Un moine de F\u00e9camp. 25 A. Original perdu. B. Paris, B. N. E, lat. 1928 fol. 172v (XIIS s) manuscripta, Rouen, 1877, P. 13, dapr\u00e8s B. 6. L. Delisle, a. L. Delisle; Bibliotheca Bigotiana Vital de Savigny, P. 29,n8 6, dapr\u00e8s B (\u00e9d. partielle)  de ce po\u00e8me; s'adresse \u00e0 une \u00e9glise d\u00e9di\u00e9e \u00e0 s Germain et qualifie Le moine de F\u00e9camps auteur 30 Foulques, le d\u00e9funt, de martyr. de F\u00e9camp ; cf: L. Delisle, Cabinet des manuscrits, Paris, t. I, 1868, p. 322. Ce ms. provient",
+    "title": "S.d. [apr\u00e8s fevricr 979] Titre versifi\u00e9 \u00e9crit \u00e0 Fleury: A. Original perdu. B. Paris, B.N. F.,lat. 8674, fol. 112 (fin X'-d\u00e9but XI 6) a. L. Delisle; Rouleaux des morts du [X' au XV & , P 19,n\" X(2), dapres B. 25",
     "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "55",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "27,28",
     "is_verified": 0
   },
-  "tituli": [
+  "tituli": [],
+  "footnotes": [
     {
-      "id": 44889,
-      "roll_id": 46,
-      "title": "5 Non tamen est flendus",
-      "location_name": "dus",
-      "latin_text": "; digna sed laude colendus; Martirio celsus; dum constat et ense peremptus. Pro vero verum meruit contingere Jhesum, Pro vero passos qui laude beavit alumnos. Si gemitis; gemimus nostro quia fratre caremus 10 3 Si mage gaudetis et vos gaudere fatemur: Omnia communi famulantur pondere nobis In nostris unum servemus amore tenorem, Ut prius et sistat dilectio nostra vicissim. Dicat Amen fratrum communis contio gratum [d\u00e9but = XIIS 8,] 15",
-      "pdf_page": 56,
-      "pdf_half": "left",
-      "entities": []
+      "id": 35589,
+      "roll_id": 28,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "passage necnonque Cngisll, Ouulllulllol haute duS de Sole. (b) Diverses variantes, abtegees et plac\u00e9cs en interlignc parenth\u00e8ses."
+    },
+    {
+      "id": 35590,
+      "roll_id": 28,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "CE. GaL, VI, 2: Alter alterius oncra por- late ."
+    },
+    {
+      "id": 35591,
+      "roll_id": 28,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Sens Inc tiana, t XIL eol 109<"
+    },
+    {
+      "id": 35592,
+      "roll_id": 28,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "ulecs eu enure"
+    },
+    {
+      "id": 35593,
+      "roll_id": 28,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "du Callla chris'"
+    },
+    {
+      "id": 35594,
+      "roll_id": 28,
+      "pdf_page": 28,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "D ; Coinbez lraliscchucio; B ; corrigez patrono. (d) Dapr\u00e8s a,il faut peut-\u00eatre"
+    },
+    {
+      "id": 35595,
+      "roll_id": 28,
+      "pdf_page": 28,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "lire exanimus."
+    },
+    {
+      "id": 35596,
+      "roll_id": 28,
+      "pdf_page": 28,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "B ;corrigez amnis,"
     }
-  ],
-  "footnotes": []
+  ]
 }

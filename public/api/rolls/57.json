@@ -1,0 +1,39 @@
+{
+  "roll": {
+    "id": 32,
+    "roll_num": "57",
+    "date_str": "S.d.",
+    "title": "S.d. [X' s] Titre compos\u00e9 \u00e0 Fleury:",
+    "manuscripts": "A. Original perdu . B. Paris, B. N. E., lat. 8674, fol. Il2v (X' s.) . 0. L. Delisle, Rouleaux des morts du IX' au XV 8., P. 21, n\" X (3), dapr\u00e8s , B. Ce titre;, constitu\u00e9 de 98 vers, \u00e9crit \u00e0 Fleury; un 20 furent abb\u00e9s de cette \u00e9glise:. Cependant comue iln2\u00dfguienindiquengue Rainardus pas dans les et listes Ramnulfus on ne peut d\u00e9terminer avec exactitude \u00e0 quel moment ils v\u00e9curent. 'abbatiales de ] Fleury, 20 juin Fleury Tristia corda solent mestum quia promere carmen; 10 Spargere nec radios nube tegente suos Furva, sydereis quanquam clarescat in oris Phebus; quadrigis qui micat ignivomis; Nec crescat condigna dolor sub corde latendo; Cudimus abstracti () carmina nos elegi; 15 Quos sors exilii tenet, cheu; mesta vetusti; Que veram requiem denegat adque  diem Non inlustratum; semper sed lumine plenum; Cernere, quem superus occupat ecce chorus 20 Angelorum; quamvis hac perpete luce fruatur; Quam quicumque videt, ambit habere semel, Est quia summa quies; simul est et gloria perpes; Nullus cecatur; nemoque quo moritur, Noscere (uam (nc6o]",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "36,37,38",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 35627,
+      "roll_id": 32,
+      "pdf_page": 36,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "B ; corrigez abstracti"
+    },
+    {
+      "id": 35628,
+      "roll_id": 32,
+      "pdf_page": 36,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "30"
+    },
+    {
+      "id": 35626,
+      "roll_id": 32,
+      "pdf_page": 36,
+      "pdf_half": "right",
+      "footnote_num": "44794479",
+      "text": "Piciu Hluldiiiiic 83C19, Perlege divinos corde tenace libros; In quis perpetuae quanquam sint dogmata vitac, Et mentem supera quamvis ad astra ve[h]ant, Quam sit amoena pie non pandunt gloria vite, A qua culpati pellimur heu miseri. Pervigil et quoniam non mansit vivere cura"
+    }
+  ]
+}

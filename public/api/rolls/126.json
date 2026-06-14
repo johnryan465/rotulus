@@ -1,84 +1,14 @@
 {
   "roll": {
-    "id": 126,
-    "roll_num": 129,
+    "id": 77,
+    "roll_num": "126",
     "date_str": "S.d.",
-    "title": "",
-    "manuscripts": "",
+    "title": "S.d. [1129, apr\u00e8s le 23 janvier] Rouleau   mortuaire (fragmentaire) de William  Giffard, \u00e9v\u00eaque de Winchester (t 23 janvier 1129) _",
+    "manuscripts": "A. Original original. B. London; Lambeth Palace; ms.  183 (Th. Rudburn; Historia major Wintoniensis) , fol. 193 (fin XVF s.) (1) . a. H. Wharton; Anglia sacra, sive collectio historiarum de archiepiscopis et episcopis Angliae, London; t. I, 1691, P. 279, dapr\u00e8s B. [NDIQU\u00c9 L. Delisle, Rouleaux des morts du IX' au XV\" s, P. 347,n? XL William Giffard, nomm\u00e9 \u00e9v\u00eaque de Winchester en ao\u00fbt 1100, fut consacr\u00e9 seulement le 1l ao\u00fbt 1107 il mourut le 23 janvier 1129 (2) . 1 S.d.- Whitby. Gallia (a) flet prolem; Wyntonia filia patrem 6 Qui venit magni de semine Karolomagni . Nobilitando genus clarum de sydere sydus; suivante Iste Wilhelmus Gyfjfard ex cancellario Ce titre est introduit en B par la phrase qui, qualis; quantus fuerit in Ecclesia Henrici et regni_ rougliae factus est episcopus Wontoojas ! regis monasterii Sancti Benedicti et Sanctae Hildae sanguinis _ extiterat, ostendit titulus = Dei et quod vir alti laudem sic compositus Wytebiensis ecclesiae, metrice in ejus (2) Ason sujet, cf Handbook of British chro- Cette   r\u00e9f\u00e9rence In'a \u00e9t\u00e9   aimablement nology; P 276. communiqu\u00e9e par M. Julian Harrison:",
     "pdf_source": "Dufour T1 (4)",
-    "pdf_pages": "52,53",
+    "pdf_pages": "34,35",
     "is_verified": 0
   },
-  "tituli": [
-    {
-      "id": 45747,
-      "roll_id": 126,
-      "title": "35 des mss",
-      "location_name": "mss",
-      "latin_text": ". de la dapr\u00e8s A.",
-      "pdf_page": 52,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 45748,
-      "roll_id": 126,
-      "title": "6 Biblioth\u00e8que ' Catalogue dOrl\u00e9ans",
-      "location_name": "' Catalogue dOrl\u00e9ans",
-      "latin_text": ". Fonds de L XII, 1889, P. 35, g\u00e9n\u00e9ral des mnSS: Fleury; des Orl\u00e9ans; 1885, dapr\u00e8s A. Biblioth\u00e8ques publiques de France, Paris; InDrpe\u00c9 : Obituaires de la province de _ Beno\u00eet-sur-Loire et Sens, les L IIL, miracles   P 147. de saint A Beno\u00eet, Vidier; L Paris; 1965, 'historiographie \u00e0 Saint- P. 121-122. G\u00e9rard, \u00e9v\u00eaque tifical dAnaclet II= dAngoul\u00eame, \u00e0 son l\u00e9gat pon- sujet, cf. notamment chartes W. Janssen, Die de 1900, Saint-Beno\u00eet-sur-Loire; Paris; P. 59e p\u00e4pstlichen_ P. 255, t. 1, kreich Legaten in Fran- n \u00eatre 1), ce mort le 21 ao\u00fbt personnage serait peut - D 'apr\u00e8s M. Prou  etA. ce jour 1137 , Vidier ' dans car son nom (Recueil figure \u00e0 des Tobituaire de Tabbaye",
-      "pdf_page": 52,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 45749,
-      "roll_id": 126,
-      "title": "2 Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es",
-      "location_name": "\u00e9es",
-      "latin_text": ". fratrum nomina defunctorum. 5 2",
-      "pdf_page": 52,
-      "pdf_half": "right",
-      "entities": []
-    },
-    {
-      "id": 45750,
-      "roll_id": 126,
-      "title": "T. SANCTAE MARIAE ATREBATENSIS ",
-      "location_name": "SANCTAE MARIAE ATREBATENSIS",
-      "latin_text": ", [A, col. 1] Utque Plato sophus scripsisse videtur (b) < . > vixit post pace fruetur; Judicio reprobus vixit qui meretur: [Hic vi]vit vivet; nec penis comminuetur; < >-sis scriptis in oribus nisi continuetur: 10 Boso pie sine fine vacans < . > Dei secreta patent ejus faci-<. Quanti sit < > hic latae pau-< >-tici perpetuum manet > sunt vera meae pectora 15",
-      "pdf_page": 52,
-      "pdf_half": "right",
-      "entities": []
-    },
-    {
-      "id": 45751,
-      "roll_id": 126,
-      "title": "20 Illius in sulco jacet en-<>-tus talia Ecce quasi bos",
-      "location_name": "<>-tus talia Ecce quasi bos",
-      "latin_text": ", Boso sive bono < Doctrina sibi subi-< .>-as < Aratrum Christi traxit bosque < > boum < vires a bove nomen habet .",
-      "pdf_page": 52,
-      "pdf_half": "right",
-      "entities": []
-    },
-    {
-      "id": 45752,
-      "roll_id": 126,
-      "title": "25 Versus Tetbaldi Garnestunensis",
-      "location_name": "sis",
-      "latin_text": ". > viris defunctis scribere scribat > soni qui < > atque libens > talia <- ()  Les ou onciales; hautes de 1,6 cm. enclav\u00e9es, capitales  commun pour ces (a) Cette mention est faite de lettres une seule fois; donc en po\u00e8me, sont \u00e9crites lettres etur; terminant les vers de ce diverses terminaisons. ces deux associa- 256, n C. Sur Ibid , P. cf. ibid , P LXXXIX \u00c9d. M. Prou et A. Vidier; op. cit , P. 255, tions de pri\u00e8res, n XCIX.",
-      "pdf_page": 52,
-      "pdf_half": "right",
-      "entities": []
-    }
-  ],
-  "footnotes": [
-    {
-      "id": 34190,
-      "roll_id": 126,
-      "pdf_page": 53,
-      "pdf_half": "left",
-      "footnote_num": "1",
-      "text": "mortu"
-    }
-  ]
+  "tituli": [],
+  "footnotes": []
 }

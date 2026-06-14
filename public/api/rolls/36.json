@@ -1,63 +1,79 @@
 {
   "roll": {
-    "id": 36,
-    "roll_num": 93,
+    "id": 21,
+    "roll_num": "36",
     "date_str": "S.d.",
-    "title": "S.d. [XI s.] 10 Formule anonyme dencyclique. INDIQU\u00c9 J Stiennon, Guifred, P. 307. Cette formule constitue le n? 71 du rouleau mortuaire de Guifr\u00e9, recueil factice compos\u00e9 \u00e0 5. Martin-du-\u20ac Canigou D\u00e9j\u00e0 pour L. Delisle (2), elle \u00e9tait peut-\u00eatre plac\u00e9e ind\u00fbment au milieu de ce document je suis daccord avec J Stiennon (loc. cit.) pour la traiter \u00e0 part. Comme Dom Guillaume de Costa a \u00e9tabli sa copie \u00e0 partir dun original conserv\u00e9 dans les archives de S. Martin-du-Canigou; on peut supposer que cette lettre fut utilis\u00e9e par les moines de cette abbaye. Son style me la fait placer au XI 5., sans qu'il soit possible de pr\u00e9ciser davantage.",
-    "manuscripts": "A. Original perdu. B. Paris; B. N. F, Coll. Baluze; vol. 108, fol. 318v-319, dapr\u00e8s A (< ex archivo S. Martini Canigonen- sis % copie de Dom Guillaume de Costa, XVIIS s). 0 . L. Delisle; Rouleaux des morts du IX* au XVE s , P.89,dapr\u00e8s B.-b.J Dufour; Catalogne; P. 39, 15' n\" V, dapr\u00e8s @.",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "46,47",
+    "title": "ROULEAUX DES MORTS [d\u00e9but Xs 8.] fratresque sanctissimi; committimus vestrarum precum assiduitatibus; ut quanto nobis ejus absens resolutio propensiorem  intulit cordis merorem; tanto vestri vestrorumque efficacia meritorum exhilaret de suorum obtenta divinitus remis. sione scelerum. Item etiam petimus 'pro quibusdam nostrae congregationis fratri- bus illis. Ne vero, uti assolet, nos geruli mendosa fraus deludat, rogamus diem kalendarum quo vos adierit primorumque loci vestri nomina subnotare idemque cursori; ut alacrius iter carpat; diarium largire. Valeat vestra generalitas felicibus in Domino successibus pollens. 34 10 S.d. [premier quart du X' s] Formule de bref mortuaire envoy\u00e9 \u00e0 un monast\u00e8re plac\u00e9 sous les vocables de S. Pierre 5. Paul. et 15 0 . E. de Rozi\u00e8re; Formules, 2 partie, p 958, n\" 689. 6. K. Zeumer; Formulae karolini aevi ( M. G. H, Leges), p. 516,n? &. merowingici et InDIQU\u00c9 : J J Contreni, du X' s % dans Le formulaire de Laon Source pour [histoire de l\u00e9cole de Laon Scriptorium, LXXVII, 1973,_ 22 . au d\u00e9but p Pour I J Contreni (loc. cit), Tabbayc 20 Hautvillers; avec d\u00e9di\u00e9e \u00e0 5 Pierre et a s. Paul serait soit Corbie; soit 'lesquelles Y\u00e9cole de Laon aait des liens tr\u00e8s \u00e9troits. Saacdissoteis_patribus et fratribus; circumquaque Deo sub norma devote famulantibus, humilis sacrae institutionis Petri et Pauli debitae dilectionis congregatio coenobio beatorum apostolorum obsequium et augmentum. Primi in posteros utriusque vitae pacis ac salutis 25 superfluo; meritis terrigenae acerbae sortes decurrere sententia ex Sbpere crmneritis in\u00e9ognloodn eexigentibus multimoda inund\u00e6nrie [se ntemlin e pressura, tabescentis mundi ret juxta veritatis oraculum imminens terris rerum terminum maxima ex parte detrita instare; corporae mortis jam aperte demonstrat. Unde jam devenerunt, lento quidem semita, successu, ad nos, in quos fines seculorum 30 sitam prae oculis mortem occasum tamen cotidie properantes; nobis pensare Pavescimus et, velut in fictilibus _ propo- audemus.  Verum spe in positi, nihil solidum de Auctorem erigimur et mutuis fraternae",
+    "manuscripts": "A. Original perdu. B. Paris, B N.F, lat. 11379,fol. 19 (addition du X' s).",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "19,20,21",
     "is_verified": 0
   },
   "tituli": [],
   "footnotes": [
     {
-      "id": 33962,
-      "roll_id": 36,
-      "pdf_page": 46,
+      "id": 35574,
+      "roll_id": 21,
+      "pdf_page": 19,
       "pdf_half": "right",
       "footnote_num": "1",
-      "text": "ILLUS CulI8ICgauiu CuiIUA incremento virtutum. Cum nos"
+      "text": "UCo mnillanliDUS, nuIIna Christi Remigii, Francorum primi apos\u0131 que patrie exoptabile in Salvatore mund conditi hominis et Conditoris Dei exigen cunctis mortalibus mortis exactori, imm"
     },
     {
-      "id": 33964,
-      "roll_id": 36,
-      "pdf_page": 46,
+      "id": 35575,
+      "roll_id": 21,
+      "pdf_page": 19,
       "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "trorum conscientia deterreamur peccami-"
+      "footnote_num": "2",
+      "text": "Cf. Rom , XV, 14 : * ita ut possitis alterutr\u0131"
     },
     {
-      "id": 33963,
-      "roll_id": 36,
-      "pdf_page": 46,
+      "id": 35576,
+      "roll_id": 21,
+      "pdf_page": 19,
       "pdf_half": "right",
       "footnote_num": "3",
-      "text": "ce document, cf. supra; P. 138,"
+      "text": "CucnoVILOAUL 1n9164413   olici; instantis vitae tripudium caclestis- participium. Conditione ac convent\u00edone te; pro fracto 'cyrographi pacto necesse est 0 boni Creatoris, debitum corpor\u00eds [ persol:"
     },
     {
-      "id": 33965,
-      "roll_id": 36,
-      "pdf_page": 46,
+      "id": 35577,
+      "roll_id": 21,
+      "pdf_page": 19,
       "pdf_half": "right",
-      "footnote_num": "7",
-      "text": "le propose J Coquet, Comtesse Aumode, p. 162. rattage du t final B."
+      "footnote_num": "4",
+      "text": "mnonerc ,"
     },
     {
-      "id": 33966,
-      "roll_id": 36,
-      "pdf_page": 47,
+      "id": 35578,
+      "roll_id": 21,
+      "pdf_page": 20,
       "pdf_half": "left",
       "footnote_num": "1",
-      "text": "Jac , V,16."
+      "text": "CL Phil., 1,23 : \u20ac desiderium habens 'dissolri, et esse cum Christo"
     },
     {
-      "id": 33967,
-      "roll_id": 36,
-      "pdf_page": 47,
+      "id": 35579,
+      "roll_id": 21,
+      "pdf_page": 20,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Ul, VeSliiS Sanclis PICCIDUS dujulu9;  UU propitio Domini expietur:"
+    },
+    {
+      "id": 35580,
+      "roll_id": 21,
+      "pdf_page": 21,
       "pdf_half": "left",
-      "footnote_num": "2",
-      "text": "Mach.,~ XII, 46 ."
+      "footnote_num": "1",
+      "text": "Phil, 5 1,23: desiderium [ habens , dissolvi, et esse cum Christo"
+    },
+    {
+      "id": 35581,
+      "roll_id": 21,
+      "pdf_page": 21,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Ul, veStrISSanclis PICUIVUS 4uulur; propitio Domini expietur:"
     }
   ]
 }

@@ -1,35 +1,55 @@
 {
   "roll": {
-    "id": 29,
-    "roll_num": 85,
+    "id": 14,
+    "roll_num": "29",
     "date_str": "S.d.",
-    "title": "S.d. [vers 1096] Titre compose par Baudri de Bourgueil pour le rouleau mortuaire dun abb\u00e9 nomm\u00e9 Adam .",
+    "title": "preopto salutem. Noverit quidem prona bencvolentia vires parvitatis meae suppetunt, in missarum vestra quia ego, in quantum cererigasupplicacionibus [Pro rvobns vaissatam deleosccionibus et psalmoduuaseum\u0131  deposco eadem clementia hic ad meam et ad multorum clemenciarn, quatenus vos temporibus; novissime   ad   gaudia   paradisi consolacionem longevis conserves nomina, que sparsim actenus haberem, perducat.  Vestrum   enim  fratrum (sic)   merear; quia nostrorum  fracrem, petoina pleniter unacum fratribus abere deprecor scilicet et nomina jam multo tempore' habuistes vos omnes  patres et abbatem; ut commendetis sanctae congregacioni et, ut me familiariter habeat, me vestrae oracionibus et, quando dies obitus mei vobis notus perficite; maxime in sacris facere fuerit, misericordissime de me dignemini,  sicut Jacobus apostolus ammonet 10 salvemini (1) Orate  pro invicem; ut quia, sicut optime nostis; omni humane preter vos et tales pro Dei amore aliquid consilio destitutus sum Quicquid enim mihi indigno nojeraliqaid , pfrigeri uu n advsiliun mihi {acinnn paratus sum ad exequenda; quantum vires divina gratia mihi attribuit et utinam tam utiliter quam libenter ! Nomina   15 fratrum defunctorum libenti animo suscipite et preces consuetudinarias facite ' et ad vicina monasteria dirigite. Sancta Trinitas vos custodiat in evum.",
     "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "41",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "15,16",
     "is_verified": 0
   },
-  "tituli": [
+  "tituli": [],
+  "footnotes": [
     {
-      "id": 44867,
-      "roll_id": 29,
-      "title": "2 L Delisle",
-      "location_name": "sle",
-      "latin_text": ", au XV s, p. 144, n? Romania , Notes  Sur XXVL 1.1 1872, les po\u00e9sies de L Delisle; Vital de p.34,0 'CXXX\" Baudri, abb\u00e9 de Bourgueil w, dans Cest prohablement vers Baudri de _ 1096 = (date , Bourgueil , de la [r\u00e9digra \u20ac 'cetie plupart , Adam. picce de ses Aucun (entierement titres \u00e9l\u00e9ment pour les ne permet rim\u00e9e _ rouleaux 20 s'agit peut (\u00eatre &; didentifier = en fin de = mortuaires) que 'Adam, abb\u00e9 , \u00e0 coup ;verS deS. Maixent s\u00fbr ce en Phonneur 4 personnage. dun abb\u00e9 compter du 28 Pour f\u00e9vrier ~ JY Tilliette (2) 1087 (3) il Texte  mort en 1091 (4) \u00e9tabli d 'apr\u00e8s B. Hec desolatis solatia In rotula dc _ Profuit Burguliani Adam ex Adam abbate.",
-      "pdf_page": 41,
-      "pdf_half": "left",
-      "entities": []
+      "id": 35566,
+      "roll_id": 14,
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "OqunIS orallOIUS VOMI scnCOnUla PLUPaiU?  sicut inter nos et vos consuetudo est bona."
     },
     {
-      "id": 44868,
-      "roll_id": 29,
-      "title": "25 Sed quod vester quasi pro nichilo pertulit _ fieret de Adam",
-      "location_name": "dam",
-      "latin_text": ". Presertim cum sit mors morte , Nec deerit Christi querela; medicus; nisi nostra 0 felix desit mnedela morbus; mors cui Vos Christi medeatur; quoque luxistis;  cui medicatur~ quia patre_ bono caruistis ' CLLY Tilliette; Op. cil , op. cit , LI, p 188. LI,p XXIX. Ce ] Verdon; La Maixent, ) chronique de ,Paris; ' Saint- Ce ,1979, Gallia , p 146. 'christiana, L IL, col 1253 . [1096]",
-      "pdf_page": 41,
-      "pdf_half": "left",
-      "entities": []
+      "id": 35567,
+      "roll_id": 14,
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Jac., V, 16."
+    },
+    {
+      "id": 35568,
+      "roll_id": 14,
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Doavu"
+    },
+    {
+      "id": 35569,
+      "roll_id": 14,
+      "pdf_page": 16,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "atui, a04 UbC Uicel D his, qui a dexteris ejus erunt Venite; benedicti Patris mei, possidete paratum vobis regnum a constitutione mundi Un document comptable du IX' & pro:"
+    },
+    {
+      "id": 35570,
+      "roll_id": 14,
+      "pdf_page": 16,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "BSNAE, 1970, P 310-318, C\u00ed. P. Gasnault, op cit , P 317. Ibid, P 312 n. 2"
     }
-  ],
-  "footnotes": []
+  ]
 }

@@ -1,0 +1,90 @@
+{
+  "roll": {
+    "id": 41,
+    "roll_num": "76",
+    "date_str": "S.d.",
+    "title": "S.d. [avant 7056] 25 Encycique sollicitant de prier ] pour Andr\u00e9, prieur de A Original _ Fleury perdu. B. Paris, B N.F, lat. 6365, fol. 2 '(d\u00e9but du XIIF &)  a.L. Delisle, Rouleaur et G. Laborys des morts du IX* au XV 30 Andr\u00e9 de _ Fleury. Vie de s., P. 147,n\" (ed. partielle) . Gauzlin, XXVIII, ' abb\u00e9 de dapr\u00e8s = Fleury , B.- 6. Paris; R.H. 1969, Bautier p 8 n. 4, dapr\u00e8s a",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "27,28,29,30",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 46696,
+      "roll_id": 41,
+      "title": "T. ecclesiae Atrebatensis. Flens Atrebatum Warneri flebile fatum Orat ut aeternum gaudens ignoret av",
+      "location_name": "ecclesiae Atrebatensis",
+      "latin_text": "Tournai de 950 \u00e0 1044 cf. Gams, loc. cit. \u00c9v\u00eaque de Noyon et Le Gallia christiana (ibid , col 1031) ne janvier 952/953 ; c\u00ca: Gams; P. 589. mentionne que le deuxi\u00e8me de ces doyens de (2) Harduinus de Croy; \u00e9v\u00eaque de Noyon et Noyon et cela pour Tan 1000. Tournai de 1015 \u00e0 1030 ; cf. Gams, loc: cit. (3) \u00c9v\u00eaque de Noyon et Tournai de 1030 \u00e0",
+      "pdf_page": 30,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 35765,
+      "roll_id": 41,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Ilnl DaUlcr Ul Da A P. 9), il faut   noter cependant que le nom dAndr\u00e9 se rencontre \u00e0 mainte reprise dans le n\u00e9crologe de Fleury du XVe s \" (2) R.-H. Bautier et G. Labory; op. cil., p. 8 Ibid.  Toutefois; je ne crois   pas   fond\u00e9e Fhypoth\u00e8se de R-H. Bautier et G, Labory (op. cil., P. 9), selon laquelle  Andr\u00e9,   monachus; mentionn\u00e9 parmi les d\u00e9funts de Fleury sur le"
+    },
+    {
+      "id": 35766,
+      "roll_id": 41,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "P. 187), ne serait autre que ce 'pricur Andr\u00e9 , cC type de documents [les rouleaux des morts] au moins \u00e0 Fleury; donnant la qualit\u00e9 de monachus m\u00eame aux officiers de labbaye, exception faite du seul abb\u00e9 w Cf. Gen., III, 19 quia pulvis 0 ct {n pulverem reverteris 9 ,"
+    },
+    {
+      "id": 35767,
+      "roll_id": 41,
+      "pdf_page": 28,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Anne de somnDeTIOL, CiCYC & V 1aa"
+    },
+    {
+      "id": 35768,
+      "roll_id": 41,
+      "pdf_page": 28,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Vidier (op. cit., P. 121) remarque que liste dautres fr\u00e8res d\u00e9c\u00e9d\u00e9s 229 annonc\u00e9e cette comme \u00e9tant jointe \u00e0 lencyclique; n'a pas \u00e9t\u00e9"
+    },
+    {
+      "id": 35769,
+      "roll_id": 41,
+      "pdf_page": 28,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "lors de la transcription du faire-part dans le ms. qui nous en a conserve ]e textc (2) \u00c9d. partielle R. H.F,L X, P 382"
+    },
+    {
+      "id": 35770,
+      "roll_id": 41,
+      "pdf_page": 29,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "B ; corrigez Sumite."
+    },
+    {
+      "id": 35771,
+      "roll_id": 41,
+      "pdf_page": 29,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "ce personnage; cf: supra, P. 195,n.1. Abb\u00e9 de S. B\u00e9nigne de Dijon et archev\u00ea- que de Lyon; mort \u00e0 Rome le 29 ou 30 juillet 1052 cf. Gallia christiana, t. IV, col. 84-87 et"
+    },
+    {
+      "id": 35772,
+      "roll_id": 41,
+      "pdf_page": 29,
+      "pdf_half": "right",
+      "footnote_num": "678",
+      "text": "N. Bulst,   Untersuchungen Zu den Klosterreformen Wilhelms von Dijon   (962 1031 ) , Bonn; 1973, passim."
+    }
+  ]
+}

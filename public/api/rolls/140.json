@@ -1,124 +1,128 @@
 {
   "roll": {
-    "id": 140,
-    "roll_num": 141,
+    "id": 83,
+    "roll_num": "140",
     "date_str": "S.d.",
-    "title": "S.d. [1157, apr\u00e8s _ le 30 mars] Imars 25 de Dijon (+ 30  abb\u00e9 = de S. \u00c9tienne c Rouleau mortuaire (fragmentaire) de Herbert, 1157 ) _",
+    "title": ", premier = semestre] S. d. [1154, apr\u00e8s le 27 avril Aubin 10 abb\u00e9_ de S Rohert [de La Tour-Landry] , Rov]",
     "manuscripts": "",
     "pdf_source": "Dufour T1 (4)",
-    "pdf_pages": "69,70,71",
+    "pdf_pages": "65,66,67,68,69",
     "is_verified": 0
   },
   "tituli": [
     {
-      "id": 45789,
-      "roll_id": 140,
-      "title": "T. Sanctae Mariae de Asneriis",
-      "location_name": "Sanctae Mariae de Asneriis",
-      "latin_text": ". Anima domni Herberti abbatis . Oravimus p. V.; eta.0.f.& , Amen. orate p n., pro domno Pm D., I. i. p. Bernardo ' abbate pro Garardo monacho; pro Gosleno monacho; pro nostro, Giraudo Berbis _ n. et pro caeteris familiaribus 3 S.d.- ~ Fontevraud, S. Marie-Madeleine. 1o T. Sanctae Mariae Magdalenae Fontis Ebraldi. Anima ejus et a. 0 E d.ri p Concedimus huic abbati septem psalmos et participationem omnium nostrorum beneficiorum.",
-      "pdf_page": 70,
-      "pdf_half": "right",
-      "entities": []
-    },
-    {
-      "id": 45790,
-      "roll_id": 140,
-      "title": "4 S.d.- Fontevraud",
-      "location_name": "Fontevraud",
-      "latin_text": ", N-D. Fontis Ebraldi. Anima domni Herberti abbatis eta 0 f. d,P 15 T. Sanctae Mariae Amen. Concessimus domno Herberto abbati omnium beneficiorum m. D. 1. i. p. integro participationem, unum plenarium officium in conventu: nostrorum ex charissimo magistro_ nostro Roberto et pro Oravimus p. V., orate p. n. primo pro (3) et Matilde' inperpetspm memorandis abatissis (sic) nostris Petronilla\" 2 5 S.d. ~ Cunault, N.-D. D., < i p Amen. ejus et a. 0 f. d, p m T. Sanctae Mariae Cunaldi. Anima Oravimus P. V., orate p. n. S.d.-S. Maur[-sur-Loire] ; Animae ejus et a 0 [ d, coenobii. omnibus 25 T. sancti Mauri, abbatis Glamnafoliensis Y; orate p n., pro i Amen. Oravimus p p. m D in Christi nomine r. p. fratribus n. V n 133). Foulques ` p 639, fille de supra, hslde [rc d'Anjou; 1149/1150 de l i\u00e8res (\u00e9ta-",
-      "pdf_page": 70,
-      "pdf_half": "right",
-      "entities": []
-    },
-    {
-      "id": 45791,
-      "roll_id": 140,
-      "title": "5 Hinc Et conjux laedit qui",
-      "location_name": "qui",
-      "latin_text": ", te suadente; comedit . De vetito ligno praedone monente maligno Per pommi morsum depellitur ille deorsum. Sic duo decepti pretium sunt mortis adempti 10 Hujus peccati sumus omnes mole gravati. Hac culpa prima descendit mundus ad yma. Lex constat dura, quae vivum finit moritura. Non igitur fere invitat aut de morte dolere Ergo non plores qui plorat quisque fer ore. 15 S.d.-Figeac; S. Sauveur:",
-      "pdf_page": 71,
+      "id": 46979,
+      "roll_id": 83,
+      "title": "662 [1155] !Ve cui mundus placet, ad nihilum redeundus Ve cui plus nox atque cathena Ve cui plus pen",
+      "location_name": "!Ve cui mundus placet",
+      "latin_text": "Pisus (b) gaudete; sevra p- > m-<. >-ti Plaudant anguillae, letentur et hostrea mille. Nam cessit vere nec scivit morte [carere] 15 Milia qui mille de vestris perdidit. Responsio. Unus si monachus moritur; quicumque Non ideo par est nobis ? Nam mille supersunt; Artifices gulae; qui retia tendere norunt. 20 Ergo; crede mihi, duo vel tres cum moriuntur; Unus post alium moriendo veniret ad i-< Versus Renaudi, cum vertuntur (c) Non causa abbatis hos me cogit versus faciendis Sed rotuligerolae () qui rotulum vult 25 replendi. Nam fessus diuturno est hic Et cupit multum itinere; praeterea laudem a monachis habere. Il faut peut-\u00eatre supprimer ce mot sont ray\u00e9es de deux traits (a,p. 367 , n. 1) . (b) de plume. Il est [En B], les pi\u00e8ces [suivantes] original et que; d\u00e8s le XII s,on ait possible qu'elles aient \u00e9t\u00e9 cancell\u00e9es sur le rouleau rencontrer sur un rouleau fun\u00e9aae essay\u00e9 de supprimer ces vers plaisants sans qu 'on est tout \u00e9tonn\u00e9 de doute  que les  (a,p. 367 , 1l. 4) . ((c) P. 368, (d) mots de la pi\u00e8ce doivent Lexpression cum vertuntur signifie 1. 1) . Mot \u00eatre douteux  dans mis dans un ordre diff\u00e9rent pour former des vers les (a, copies (a,P. 368, 7. 2) .",
+      "pdf_page": 67,
       "pdf_half": "left",
       "entities": []
     },
     {
-      "id": 45792,
-      "roll_id": 140,
-      "title": "T. Sancti Salvatoris Figiacensis",
-      "location_name": "Sancti Salvatoris Figiacensis",
-      "latin_text": ". Absolve; Domine; animam famuli tui Herberti et 0. f.d., per intercessionem beatae Mariae et beati Viviani et omnium sanctorum. Amen. Oravimus p. 1., orate p. n., videlicet pro domino Deodato (1) abbate et Geraldo et Bertrando et Geraldo et Deodato et Raimundo et Arnaldo et Guillermo 20 et Guillermo et Benedicto et Stephano et Deodato et Agnes (sic). Concedimus ei partem beneficiorum loci nostri. S.d. Fons; N.-D. et S. Victor:",
-      "pdf_page": 71,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 45793,
-      "roll_id": 140,
-      "title": "T. Sanctae Mariae Sanctique Victo",
-      "location_name": "Sanctae Mariae Sanctique Victo",
-      "latin_text": "ris de Fontibus. Anima domni Herberti et 0 f. d., p. m. D., in Christi nomine z i. p. Amen. Oravimus P V., orate p. n., pro domno 25 Geraldo priore et Guillermo et pro omnibus fratribus n. Amen. 10 S.d.- Carennac; S. Pierre. Anima domni Herberti et 0 f. d.. p. m. D. in Christi nomine r. i. p. Amen. Oravimus p: v orate p n. Concedimus ei unum officium; septem psalteria et beneficium loci nostri. 30 1l S.d.- T. Sancti Petri Belli Loci. Beanlica sus Dordogne] = S. Pierre. beneficium loci ejus et a. 0. f. d. r: i. P. Concedimus ei nostri. Oravimus P. Y.? orate p. n. (1) Abb\u00e9 de Figeac, DH.GE, t. cit\u00e9 en 1119 par le Gallia XVI, col. 1458 christiana (t. I, col. 174) (R. Prat) . cf. aussi Figeac \" dans",
-      "pdf_page": 71,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 45794,
-      "roll_id": 140,
-      "title": "10 [Titulus] Sancti Eligii Noviomensis__",
-      "location_name": "Sancti Eligii Noviomensis__",
+      "id": 46980,
+      "roll_id": 83,
+      "title": "T. (d) SANCTI PETRI JUNCELLIS MONASTERII () . Anima domni Rotberti et abbatis et a. 0. f.d. r i. P. ",
+      "location_name": "(d) SANCTI PETRI JUNCELLIS MONASTERII ()",
       "latin_text": "",
-      "pdf_page": 72,
+      "pdf_page": 67,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46981,
+      "roll_id": 83,
+      "title": "T. Sancte Marie Columbis. Anima domni Roberti abbatis et a. 0. f. d. 1. i. p (c) Amen. Oramus p. [ve",
+      "location_name": "Sancte Marie Columbis",
+      "latin_text": "15 [B] 21 S.d.- Josaphat . T. Sanctae Mariae JOSAPHAT. Anima domni Roberti abbatis et a. 0 f. d. r.i. P Oravimus p. v, orate p. n. 22 S.d.- [Chartres,] S. Jean[-en-Vall\u00e9e] .",
+      "pdf_page": 69,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46982,
+      "roll_id": 83,
+      "title": "T. Sancti Johlannis Carnotensis]  Anima domni Roberti abbatis et a. 0. f. d. r.i. 20 p. Oravimus p. ",
+      "location_name": "Sancti Johlannis Carnotensis]  Anima domni Roberti abbatis et a",
+      "latin_text": "23 S.d. Chartres; S. P\u00e8re[-en-Vall\u00e9e] . T.Sancti PETRI CARNOTENSIS. Anima domni Roberti abbatis et a. 0 \u00ca.d. r i.p. Oravimus p. Y.s orate p. n. Ce mot est rubrique, A. (b)   voestris du titre est corrig\u00e9 en vestris par exponctuation du 0 A. (c) La fin presque enti\u00e8rement rogn\u00e9e, A; le formulaire habituel permet pourtant de la compl\u00e9ter. Sur ce roi, cf_supra, p 162,n. 1. Sur ce roi; cf. supra; 188, Abb\u00e9 de S. Denis; cit\u00e9 par le Gallia chris- n. 2 Peut-\u00eatre Louis le Pieux \u20ac tiana (. VII, col. 366-368) de 1099 \u00e0 1122 \u00e0 Sur ce roi, cf. ou Louis VL son sujet, cf. notamment R. Grosse; Labb\u00e9 Sur supra; p. 188, n. 3. cet abb\u00e9 de $. Denis; Adam, mort en pr\u00e9d\u00e9cesseur de Suger \", dans R. Grosse 842, cf: notamment octobre Gallia dir , christiana, Suger en question.  Regards   crois\u00e9s SuT col 351-356. t VII, Saint-Denis;  Sur ce M\u00fcnchen; 2004, P. 31-43. personnage, cf. (8) supra, Abb\u00e9 de S. Denis, mort le 13 janvier 1151. p 8, n. 18.",
+      "pdf_page": 69,
       "pdf_half": "left",
       "entities": []
     }
   ],
   "footnotes": [
     {
-      "id": 34213,
-      "roll_id": 140,
-      "pdf_page": 69,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "Fragmentum  le titre ' conscriptum ' XLVIv; sous | sexcentos , er 20 IIIII (sic) - minus _ plus transcriptum ante annos dapr\u00e8s _ A, vionensis; notaire apostolique; rvisel, \")"
-    },
-    {
-      "id": 34214,
-      "roll_id": 140,
-      "pdf_page": 70,
-      "pdf_half": "left",
-      "footnote_num": "1",
-      "text": "ce personnage; cf. CL che, cit., Fyot de La op. p 108-114 = Mar- 6 Gallia t. IV; col. 755-756. christiana, (2) \u00c9d. P L L CLXXIX, col 117 ,"
-    },
-    {
-      "id": 34215,
-      "roll_id": 140,
-      "pdf_page": 70,
-      "pdf_half": "left",
-      "footnote_num": "2",
-      "text": "LXXV cf. Jaff\u00e9, n (3) 7522 (5391) . \u00c9d. P L., t. CLXXXVIII,  col.  1456, n XCIII ; cf: Jaff\u00e9, n\" 10167 (6930) ."
-    },
-    {
-      "id": 34216,
-      "roll_id": 140,
-      "pdf_page": 70,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "de Fontevee c ronte abbesse , mort , 6 d'Anjou, de &1 c 969 1155, jour XVII 31 mai DHGE L au 8 dans vrault ( Daoust)"
-    },
-    {
-      "id": 34217,
-      "roll_id": 140,
-      "pdf_page": 71,
+      "id": 36145,
+      "roll_id": 83,
+      "pdf_page": 65,
       "pdf_half": "right",
       "footnote_num": "1",
-      "text": "de Celio Gallia Gallia christiana, loc, christiana, loc. cit."
+      "text": "iloiuucuie Utaghleiluuic ) U d Angers (t 27 avril 1154 )"
     },
     {
-      "id": 34218,
-      "roll_id": 140,
-      "pdf_page": 71,
+      "id": 36146,
+      "roll_id": 83,
+      "pdf_page": 65,
       "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Ps., XVIII, 5 Cf. Ps., LXVI, 7 : ( terra dedit fructum suum >"
+    },
+    {
+      "id": 36147,
+      "roll_id": 83,
+      "pdf_page": 65,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "in elegi eum Reg II, 28 :  Cf. [ sacerdotem 0 CXVIIL= 46. Ps ,"
+    },
+    {
+      "id": 36148,
+      "roll_id": 83,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "son sujet, cf. Gallia christiana, - col. 615-616 ; t.XIV Angers 1 DHGE, t. IIL, 88 (F. Uzureau) C. col. Port, Dictionnaire histori- que, g\u00e9ographique et biographique de Maine-"
+    },
+    {
+      "id": 36149,
+      "roll_id": 83,
+      "pdf_page": 66,
+      "pdf_half": "left",
       "footnote_num": "2",
-      "text": "Cluniacensis \u20ac 0; c) mol B. (b) nc apr\u00e8s _ Ce Cil."
+      "text": "(2) Angers; t.I, P. 84. \u00c9d. Bertrand de Broussillon; Cartulaire de labbaye  de Saint-Aubin & Angers, passim ."
+    },
+    {
+      "id": 36152,
+      "roll_id": 83,
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Ph\u0131pp` mort Je Lv Maurienne; - la\u00efde ' de"
+    },
+    {
+      "id": 36153,
+      "roll_id": 83,
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "1154,est"
+    },
+    {
+      "id": 36150,
+      "roll_id": 83,
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "footnote_num": "719",
+      "text": "TOLac rrance. IlOl [ 1"
+    },
+    {
+      "id": 36151,
+      "roll_id": 83,
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "footnote_num": "1137",
+      "text": ". ((6) Ad\u00e9la\u00efde de Maurienne, morte en"
     }
   ]
 }
