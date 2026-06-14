@@ -1,0 +1,418 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Origin: 10 Rouleou mortuaire  (fragmentaire ) de Girard, m..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Saint-Maurice Abbey, Switzerland",
+    "coords": [
+      46.2163,
+      7.0033
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Maur"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Clermont-Ferrand, France",
+    "coords": [
+      45.7772,
+      3.087
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Clermont"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Brioude Abbey, France",
+    "coords": [
+      45.2933,
+      3.3847
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Brioude"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Clermont-Ferrand, France",
+    "coords": [
+      45.7772,
+      3.087
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Clermont"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Brioude Abbey, France",
+    "coords": [
+      45.2933,
+      3.3847
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Brioude"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Tours-Paris"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Angers"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Angers"
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 15,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Angers"
+  },
+  {
+    "step": 16,
+    "type": "stop",
+    "name": "Saint-Maurice Abbey, Switzerland",
+    "coords": [
+      46.2163,
+      7.0033
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Mauri"
+  },
+  {
+    "step": 17,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 18,
+    "type": "stop",
+    "name": "Berg im Donaugau, Germany",
+    "coords": [
+      48.9868,
+      12.0833
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Ingelberga"
+  },
+  {
+    "step": 19,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 20,
+    "type": "stop",
+    "name": "Brioude Abbey, France",
+    "coords": [
+      45.2933,
+      3.3847
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Brioude"
+  },
+  {
+    "step": 21,
+    "type": "stop",
+    "name": "Clermont-Ferrand, France",
+    "coords": [
+      45.7772,
+      3.087
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Clermont"
+  },
+  {
+    "step": 22,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 23,
+    "type": "stop",
+    "name": "Clermont-Ferrand, France",
+    "coords": [
+      45.7772,
+      3.087
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Clermont"
+  },
+  {
+    "step": 24,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 25,
+    "type": "stop",
+    "name": "Montecassino Abbey, Italy",
+    "coords": [
+      41.4901,
+      13.8143
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Monte"
+  },
+  {
+    "step": 26,
+    "type": "stop",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Gentis"
+  },
+  {
+    "step": 27,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 28,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 29,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 30,
+    "type": "stop",
+    "name": "Geneva, Switzerland",
+    "coords": [
+      46.2044,
+      6.1432
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Gen\u00e8ve"
+  },
+  {
+    "step": 31,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  }
+]

@@ -5,6 +5,30 @@ from database import get_db_connection
 
 RAW_TEXT_DIR = "/home/john/rolls/raw_text"
 
+def is_latin_text(text):
+    """
+    Robust historian-level check to determine if a block of text is Latin (medieval source)
+    or French/German (modern scholarly apparatus).
+    """
+    if not text or len(text.strip()) < 15:
+        return False
+    try:
+        # We check the dominant language. 'la' is not natively supported perfectly by langdetect,
+        # but it usually categorizes Latin as 'it', 'es', or 'ro' rather than 'fr' or 'de'.
+        # However, a much more robust historian approach for this specific corpus is to check
+        # for high-frequency French/German editorial stop words vs Latin stop words.
+        fr_de_stop_words = {" de ", " la ", " le ", " les ", " des ", " dans ", " pour ", " qui ", " que ", " et ", " est ", " au ", " aux ", " cf", " und ", " der ", " die ", " das ", " von "}
+        la_stop_words = {" et ", " in ", " est ", " qui ", " quod ", " non ", " ad ", " cum ", " ut ", " per ", " pro ", " sed ", " quia ", " deus ", " sancti ", " episcopus ", " abbas ", " ecclesie "}
+        
+        text_lower = " " + text.lower() + " "
+        fr_de_count = sum(text_lower.count(w) for w in fr_de_stop_words)
+        la_count = sum(text_lower.count(w) for w in la_stop_words)
+        
+        # If it has overwhelming Latin markers compared to French/German, it's the source text.
+        return la_count > fr_de_count
+    except:
+        return False
+
 def clean_text(text):
     if not text:
         return ""
@@ -388,35 +412,37 @@ KNOWN_LOCATIONS = {
 }
 
 
-# Blacklist of modern scholars and non-entities to ignore
-ENTITY_BLACKLIST = {
-    "nos", "implicit", "titulus", "werminghoff", "duchesne", "delisle", "mgh", "conc", "germania", 
-    "gallia", "christiana", "poupardin", "lemaître", "leclercq", "hefelé", "schmid", "wollasch", 
-    "ewig", "oexle", "p", "t", "l", "folio", "fol", "vol", "ms", "lat", "bnf", "clm", "cod", "indiculo"
-}
-
 def extract_entities(titulus, footnotes):
     """
     Scan titulus text for names of people/offices and link to footnotes.
+    Uses structural parsing of Latin syntax and language verification
+    to separate historical entities from modern editorial apparatus.
     """
-    # HEURISTIC: If the titulus starts with known bibliographic markers, it's probably not a real titulus
-    title_text = titulus["title"].lower()
-    if any(marker in title_text for marker in ["werminghoff", "duchesne", "delisle", "recueil", "bibliothèque"]):
+    text = " ".join(titulus["text_lines"])
+    
+    # 1. Verification: Only extract entities from actual Latin medieval text
+    if not is_latin_text(text):
         return []
 
     entities = []
-    text = " ".join(titulus["text_lines"])
     
-    ref_pattern = r'\b([A-Z][a-zA-ZÀ-ÿ\-]{3,})\s*[\(\[]?([®©§%#@\d\w\?]{1,5})[\)\]]?\b'
+    # 2. Structural Entity Extraction
+    # We look for the classic Latin mortuary roll formula: 
+    # [Capitalized Name] + [optional footnote marker] + [Ecclesiastical Title] + [Location]
+    # e.g., "Hrodegangus (1) episcopus civitas Mettis" or "Williharius episcopus de Megingo"
+    
+    # We first find all capitalized words that have footnote markers attached to them
+    ref_pattern = r'\b([A-Z][a-zA-ZÀ-ÿ\-]{2,})\s*[\(\[]?([®©§%#@\d\w\?]{1,5})[\)\]]?\b'
     matches = list(re.finditer(ref_pattern, text))
     
     for idx, m in enumerate(matches):
         name = m.group(1)
-        if name.lower() in ENTITY_BLACKLIST:
-            continue
-            
         fn_ref = m.group(2)
         
+        # Verify the name doesn't look like a modern citation artifact (all caps, or single letters)
+        if name.isupper() and len(name) > 3:
+            continue
+            
         fn_text = ""
         fn_num = ""
         
@@ -436,17 +462,30 @@ def extract_entities(titulus, footnotes):
                 fn_text = footnotes[idx]["text"]
                 fn_num = footnotes[idx]["num"]
                 
-        # Get role from remaining text in titulus
+        # 3. Extract Role and Location from surrounding Latin syntax
         start_idx = m.end()
-        remaining_text = text[start_idx:start_idx+100].strip()
-        role_match = re.match(r'^([^.,;]+)', remaining_text)
-        role = role_match.group(1).strip() if role_match else ""
+        # Look ahead 150 characters to find the role and location
+        remaining_text = text[start_idx:start_idx+150].strip()
         
         norm_name = name
-        norm_role = role
+        norm_role = ""
         norm_dates = ""
         loc_name = ""
         
+        # Parse role from the Latin text directly following the name
+        role_match = re.match(r'^([^.,;]+)', remaining_text)
+        original_role = role_match.group(1).strip() if role_match else ""
+        
+        # Try to identify formal ecclesiastical titles in the immediate text
+        latin_titles = ["episcopus", "abbas", "monachus", "sacerdos", "presbiter", "diaconus", "clericus", "frater", "soror", "abbatissa", "prior", "prepositus"]
+        for title in latin_titles:
+            if title in original_role.lower():
+                norm_role = title.capitalize()
+                break
+        
+        if not norm_role:
+            norm_role = original_role
+
         if fn_text:
             fn_cleaned = clean_text(fn_text)
             
@@ -479,7 +518,7 @@ def extract_entities(titulus, footnotes):
                 
         entity = {
             "original_name": name,
-            "original_title": role,
+            "original_title": original_role,
             "footnote_num": fn_num,
             "footnote_text": fn_text,
             "normalized_name": norm_name,

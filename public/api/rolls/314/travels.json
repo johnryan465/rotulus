@@ -1,0 +1,1068 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Novalesa Abbey, Italy",
+    "coords": [
+      45.1897,
+      7.0142
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Origin: Statuts dune association de pri\u00e8res pour les d\u00e9fun..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Novionis"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Suaseonis"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Tongeren, Belgium",
+    "coords": [
+      50.7833,
+      5.4667
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Tungris"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Autun, France",
+    "coords": [
+      46.95,
+      4.3
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Augustoduno"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Lobbes Abbey, Belgium",
+    "coords": [
+      50.3481,
+      4.2611
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Laubicis"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Eichst\u00e4tt, Germany",
+    "coords": [
+      48.892,
+      11.183
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Achistadi"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Verdun, France",
+    "coords": [
+      49.1599,
+      5.3855
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Wirdunis"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Besan\u00e7on, France",
+    "coords": [
+      47.2378,
+      6.0241
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Bisentionis"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Toro"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Dionisio"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Andecavis"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Saint-Cloud Abbey, France",
+    "coords": [
+      48.8413,
+      2.2185
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Clodoaldo"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "Verdun, France",
+    "coords": [
+      49.1599,
+      5.3855
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Verdun"
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "Besan\u00e7on, France",
+    "coords": [
+      47.2378,
+      6.0241
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Besan\u00e7on"
+  },
+  {
+    "step": 15,
+    "type": "stop",
+    "name": "Saint-Maurice Abbey, Switzerland",
+    "coords": [
+      46.2163,
+      7.0033
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Agaune"
+  },
+  {
+    "step": 16,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Saint"
+  },
+  {
+    "step": 17,
+    "type": "stop",
+    "name": "Bayeux, France",
+    "coords": [
+      49.2794,
+      -0.7028
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Bayeux"
+  },
+  {
+    "step": 18,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 19,
+    "type": "stop",
+    "name": "Chur, Switzerland",
+    "coords": [
+      46.8508,
+      9.532
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Chur"
+  },
+  {
+    "step": 20,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Angers"
+  },
+  {
+    "step": 21,
+    "type": "stop",
+    "name": "Autun, France",
+    "coords": [
+      46.95,
+      4.3
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: YAutun"
+  },
+  {
+    "step": 22,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Denis"
+  },
+  {
+    "step": 23,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Saint"
+  },
+  {
+    "step": 24,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Denis"
+  },
+  {
+    "step": 25,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Gen\u00e8ve-Paris"
+  },
+  {
+    "step": 26,
+    "type": "stop",
+    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "coords": [
+      48.8542,
+      2.3332
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Germa"
+  },
+  {
+    "step": 27,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 28,
+    "type": "stop",
+    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "coords": [
+      48.8542,
+      2.3332
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Saint-Germain-des-Pr\u00e9s"
+  },
+  {
+    "step": 29,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 30,
+    "type": "stop",
+    "name": "Saint-Cloud Abbey, France",
+    "coords": [
+      48.8413,
+      2.2185
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Cloud"
+  },
+  {
+    "step": 31,
+    "type": "stop",
+    "name": "Jumi\u00e8ges Abbey, France",
+    "coords": [
+      49.4326,
+      0.8211
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Gemedico"
+  },
+  {
+    "step": 32,
+    "type": "stop",
+    "name": "Saint-Riquier Abbey, France",
+    "coords": [
+      50.1347,
+      1.9472
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Centula"
+  },
+  {
+    "step": 33,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Funtanellas"
+  },
+  {
+    "step": 34,
+    "type": "stop",
+    "name": "Corbie Abbey, France",
+    "coords": [
+      49.9085,
+      2.5089
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Corbeia"
+  },
+  {
+    "step": 35,
+    "type": "stop",
+    "name": "Novalesa Abbey, Italy",
+    "coords": [
+      45.1897,
+      7.0142
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Novalicio"
+  },
+  {
+    "step": 36,
+    "type": "stop",
+    "name": "Buxbrunn, Germany",
+    "coords": [
+      49.4444,
+      10.7419
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Busbrunno"
+  },
+  {
+    "step": 37,
+    "type": "stop",
+    "name": "Pf\u00e4fers Abbey, Switzerland",
+    "coords": [
+      46.9934,
+      9.5028
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Fabarias"
+  },
+  {
+    "step": 38,
+    "type": "stop",
+    "name": "Rebais Abbey, France",
+    "coords": [
+      48.8471,
+      3.2323
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Rasbacis"
+  },
+  {
+    "step": 39,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Aldaha"
+  },
+  {
+    "step": 40,
+    "type": "stop",
+    "name": "Dingolfing, Germany",
+    "coords": [
+      48.6293,
+      12.4984
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Dingolfing"
+  },
+  {
+    "step": 41,
+    "type": "stop",
+    "name": "Jumi\u00e8ges Abbey, France",
+    "coords": [
+      49.4326,
+      0.8211
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Jumi\u00e8ges"
+  },
+  {
+    "step": 42,
+    "type": "stop",
+    "name": "Flavigny Abbey, France",
+    "coords": [
+      47.5126,
+      4.5312
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Flavigny"
+  },
+  {
+    "step": 43,
+    "type": "stop",
+    "name": "Jumi\u00e8ges Abbey, France",
+    "coords": [
+      49.4326,
+      0.8211
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Jumi\u00e8ges"
+  },
+  {
+    "step": 44,
+    "type": "stop",
+    "name": "Flavigny Abbey, France",
+    "coords": [
+      47.5126,
+      4.5312
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Flavigny"
+  },
+  {
+    "step": 45,
+    "type": "stop",
+    "name": "Jumi\u00e8ges Abbey, France",
+    "coords": [
+      49.4326,
+      0.8211
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Jumi\u00e8ges"
+  },
+  {
+    "step": 46,
+    "type": "stop",
+    "name": "Rouen, France",
+    "coords": [
+      49.4431,
+      1.0992
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Rouen"
+  },
+  {
+    "step": 47,
+    "type": "stop",
+    "name": "Novalesa Abbey, Italy",
+    "coords": [
+      45.1897,
+      7.0142
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Novalesa"
+  },
+  {
+    "step": 48,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Wandrille"
+  },
+  {
+    "step": 49,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 50,
+    "type": "stop",
+    "name": "Buxbrunn, Germany",
+    "coords": [
+      49.4444,
+      10.7419
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Buxbrunn"
+  },
+  {
+    "step": 51,
+    "type": "stop",
+    "name": "Saint-Riquier Abbey, France",
+    "coords": [
+      50.1347,
+      1.9472
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Riquier"
+  },
+  {
+    "step": 52,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Parisse"
+  },
+  {
+    "step": 53,
+    "type": "stop",
+    "name": "Saint-Riquier Abbey, France",
+    "coords": [
+      50.1347,
+      1.9472
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Riquier"
+  },
+  {
+    "step": 54,
+    "type": "stop",
+    "name": "Rebais Abbey, France",
+    "coords": [
+      48.8471,
+      3.2323
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Rebais"
+  },
+  {
+    "step": 55,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 56,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 57,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Sens"
+  },
+  {
+    "step": 58,
+    "type": "stop",
+    "name": "Corbie Abbey, France",
+    "coords": [
+      49.9085,
+      2.5089
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Corbie"
+  },
+  {
+    "step": 59,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 60,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Niederaltaich"
+  },
+  {
+    "step": 61,
+    "type": "stop",
+    "name": "Corbie Abbey, France",
+    "coords": [
+      49.9085,
+      2.5089
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Corbie"
+  },
+  {
+    "step": 62,
+    "type": "stop",
+    "name": "Nesle-la-Reposte, France",
+    "coords": [
+      48.7619,
+      3.5683
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Nesle"
+  },
+  {
+    "step": 63,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 64,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 65,
+    "type": "stop",
+    "name": "Corbie Abbey, France",
+    "coords": [
+      49.9085,
+      2.5089
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Corbie"
+  },
+  {
+    "step": 66,
+    "type": "stop",
+    "name": "Dingolfing, Germany",
+    "coords": [
+      48.6293,
+      12.4984
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Dingolfing"
+  },
+  {
+    "step": 67,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Reims"
+  },
+  {
+    "step": 68,
+    "type": "stop",
+    "name": "Benediktbeuern Abbey, Germany",
+    "coords": [
+      47.7082,
+      11.4116
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Benediktbeuern"
+  },
+  {
+    "step": 69,
+    "type": "stop",
+    "name": "Isen Abbey, Germany",
+    "coords": [
+      48.2124,
+      12.0628
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Isen"
+  },
+  {
+    "step": 70,
+    "type": "stop",
+    "name": "Salzburg, Austria",
+    "coords": [
+      47.8095,
+      13.055
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Salzburg"
+  },
+  {
+    "step": 71,
+    "type": "stop",
+    "name": "Oberaltaich Abbey, Germany",
+    "coords": [
+      48.9132,
+      12.6775
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Oberaltaich"
+  },
+  {
+    "step": 72,
+    "type": "stop",
+    "name": "Mondsee Abbey, Austria",
+    "coords": [
+      47.8566,
+      13.3516
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Mondsee"
+  },
+  {
+    "step": 73,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Niederaltaich"
+  },
+  {
+    "step": 74,
+    "type": "stop",
+    "name": "Moosburg, Germany",
+    "coords": [
+      48.4682,
+      11.936
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Moosburg"
+  },
+  {
+    "step": 75,
+    "type": "stop",
+    "name": "Tegernsee Abbey, Germany",
+    "coords": [
+      47.7081,
+      11.7584
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Tegernsee"
+  },
+  {
+    "step": 76,
+    "type": "stop",
+    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "coords": [
+      48.8542,
+      2.3332
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Germa"
+  },
+  {
+    "step": 77,
+    "type": "stop",
+    "name": "Scharnitz Abbey, Austria",
+    "coords": [
+      47.3889,
+      11.2642
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Scharnitz"
+  },
+  {
+    "step": 78,
+    "type": "stop",
+    "name": "Schliersee, Germany",
+    "coords": [
+      47.7247,
+      11.8615
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Schliersee"
+  },
+  {
+    "step": 79,
+    "type": "stop",
+    "name": "Metten Abbey, Germany",
+    "coords": [
+      48.8576,
+      12.9133
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Metten"
+  },
+  {
+    "step": 80,
+    "type": "stop",
+    "name": "Weltenburg Abbey, Germany",
+    "coords": [
+      48.8967,
+      11.8203
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Weltenburg"
+  },
+  {
+    "step": 81,
+    "type": "stop",
+    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "coords": [
+      48.8542,
+      2.3332
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769.770]",
+    "is_approximate": false,
+    "description": "Found in text: Germa"
+  }
+]

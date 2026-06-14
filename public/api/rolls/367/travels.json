@@ -1,0 +1,132 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 1097,
+    "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": false,
+    "description": "Origin: Ede Bompos\u00e9pat Baudri de Bourgueil pour le rouleau..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Montierneuf Abbey, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1097,
+    "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": false,
+    "description": "Found in text: Montierneuf"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1097,
+    "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1097,
+    "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1097,
+    "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Chartres, France",
+    "coords": [
+      48.4472,
+      1.4877
+    ],
+    "year": 1097,
+    "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": false,
+    "description": "Found in text: Chartres"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "France (General)",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1097,
+    "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": true,
+    "description": "Found in text: France"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1097,
+    "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1097,
+    "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Chartres, France",
+    "coords": [
+      48.4472,
+      1.4877
+    ],
+    "year": 1097,
+    "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": false,
+    "description": "Found in text: Chartres"
+  }
+]
