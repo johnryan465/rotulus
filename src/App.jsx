@@ -4,6 +4,7 @@ import {
   BookOpen, UserCheck, ChevronRight, 
   Calendar, MapPin, Edit3, Save, Check, X, AlertCircle, Menu
 } from 'lucide-react';
+import RangeSlider from './RangeSlider';
 
 // Helper to determine API base path
 const getApiUrl = (path) => {
@@ -32,56 +33,10 @@ const getApiUrl = (path) => {
   return path;
 };
 
-// Custom Dual-Handle Range Slider Component
-const RangeSlider = ({ min, max, value, onChange }) => {
-  const [lower, upper] = value;
-  
-  const handleLowerChange = (e) => {
-    const val = Math.min(Number(e.target.value), upper - 1);
-    onChange([val, upper]);
-  };
-  
-  const handleUpperChange = (e) => {
-    const val = Math.max(Number(e.target.value), lower + 1);
-    onChange([lower, val]);
-  };
-
-  const minPos = ((lower - min) / (max - min)) * 100;
-  const maxPos = ((upper - min) / (max - min)) * 100;
-
-  return (
-    <div className="range-container">
-      <div className="range-track" />
-      <div 
-        className="range-highlight" 
-        style={{ left: `${minPos}%`, width: `${maxPos - minPos}%` }} 
-      />
-      <input
-        type="range"
-        min={min}
-        max={max}
-        value={lower}
-        onChange={handleLowerChange}
-        className="range-input"
-        style={{ zIndex: lower > max - (max - min) / 10 ? 5 : 4 }}
-      />
-      <input
-        type="range"
-        min={min}
-        max={max}
-        value={upper}
-        onChange={handleUpperChange}
-        className="range-input"
-        style={{ zIndex: upper < min + (max - min) / 10 ? 5 : 3 }}
-      />
-    </div>
-  );
-};
-
 export default function App() {
   const [activeTab, setActiveTab] = useState('dashboard'); // dashboard, explorer, verification, export
-  const [yearFilter, setYearFilter] = useState([600, 1600]);
-  const [availableYearRange, setAvailableYearRange] = useState([600, 1600]);
+  const [yearFilter, setYearFilter] = useState([700, 1500]);
+  const [availableYearRange, setAvailableYearRange] = useState([700, 1500]);
   const [rolls, setRolls] = useState([]);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
@@ -187,6 +142,14 @@ export default function App() {
             const minYear = Math.min(...allYears);
             const maxYear = Math.max(...allYears);
             setAvailableYearRange([minYear, maxYear]);
+            
+            // Sync filter if it was at default or out of bounds
+            setYearFilter(prev => {
+              const newLower = Math.max(minYear, Math.min(maxYear, prev[0]));
+              const newUpper = Math.max(minYear, Math.min(maxYear, prev[1]));
+              if (newLower === 700 && newUpper === 1500) return [minYear, maxYear];
+              return [newLower, newUpper];
+            });
           }
 
           setTimeout(() => {

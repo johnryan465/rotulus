@@ -1,0 +1,31 @@
+{
+  "roll": {
+    "id": 2749,
+    "roll_num": "133",
+    "date_str": "S.d. [1149, apr\u00e8s_ le 25 avril]",
+    "title": "prier P\u00e9tronille de Chemill\u00e9; abbesse de Fontevraud Encyclique sollicitant de pour (t 25 avril 1149) A Original perdu. 'suivantss_ puis \u20ac des deux premiers vers, puis . des deux = Les deux ou trois derni\u00e8res lettres des deux _ ((c) ge-enis | (sic) B. suivants sont \u00e9crites en commun B. ((b) proba-atus (sic) B. () \u00c9d. supra, P. 586, n' 123.",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (4)",
+    "pdf_pages": "55,56",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 14864,
+      "roll_id": 2749,
+      "pdf_page": 56,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "IenioruIn, comnpanuntur Olnla  (2) Cf. Joh., XI, 35-36 Et lacrymatus est Jesus.   Dixerunt   ergo Judaei ecce quomodo amabat eum 1 2"
+    },
+    {
+      "id": 14865,
+      "roll_id": 2749,
+      "pdf_page": 56,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "C\u00ed. Job, XXX, 02 . in vocem flen- organum mcum cithara mea, et Lium %"
+    }
+  ]
+}

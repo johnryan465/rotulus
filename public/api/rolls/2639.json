@@ -1,0 +1,31 @@
+{
+  "roll": {
+    "id": 2639,
+    "roll_num": "16",
+    "date_str": "S.d.",
+    "title": "ROULEAUX DES MORTS 4. Original perdu. B. Wien, \u00dcsterreichische Nationalbibl , lat. 751,fol. 54v (milieu du IX\" s) 0, M. Tangl, Bonifatius, p. 270,n\" 133. IxDIQu\u00c9 B. Haeftenus; Commemoratio defunctorum; P: 793.~J Mabillon; Acta sanctorum ordinis sancti Benedicti, L.IIL, 1 p LXXVIZ -1 Mabillon; Vetera analecta; in-fol , P. 160. G. Zappert, Veror\u00fcderungensb\u00fccher IL, p 23,n.99,~L. Delisle, Vital de Savignys p & (Chrismon) Domino sancto sanctorum quia _ meritis quoequando et a nobis _ cumn summna veneratione diligendo in Christo patre Lullono  episcopo Doto, servus servorum Dei, etiam et omnes sancti Petri, apostolorum principi degentium sub 10 norma sanclae regulae aeternam in Domino nostro Jesu Christo salutem  Similiter vobis deprecamur; ut omnium amicorum vestrorum nomina tam vivo- rum quam defunctorum per praesente fratre nostro Saganaldo per breve ad nos diregere faciatis   ut ipsos, sicut de alios fratres nostros facimus, ita in nostris assiduis orationibus ipsos memorare debeamus.",
+    "manuscripts": "15 15 S.d. [789-792 (1] Troisi\u00e8me formule de bref mortuaire \u00e0 Vusage de Murbach . A. Original perdu. B.Sankt Gallen, Stiftsbibl, 550, p 15l,sous le titre ; < Ad abbatissam w (IX' s.). 20 a. E. Mart\u00e8ne; De antiquis monachorum ritibus, Lyon, 1690, analecta , P 847. in-fol, 1723, p 418. b. J Mabillon;  Vetera c E: dc Rozi\u00e8re, Formules; 2 partie, P. 951, n\" 678. d. L Delisle ) Rouleaux des morts du IX\" au XV , P 2,281 (2) e. K. Zeumer; Formulae merowingici et karolini aevi (M. G.H, Leges) Leclercq, Rouleaux des morts, col. 48. P. 332, Formulae Morbacenses; n' 1l. = f H 25 Reverentissime matri familie illi, Sindbertus; adque abba de monasterio Morbac;  donum Dei vocatus episcopus pereat melliflua karitas= in Domino eternam salutem. De cetero com vestra eo quod frater vestex; nomine ille, kalendas illas, de 538) . Ces dates sont celles de Pabbatiat de Sindbert_ \u00e0 Murbach (cf:. Gallia christiana; t XV, col. [786]",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "9",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 14290,
+      "roll_id": 2639,
+      "pdf_page": 9,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "799). = c. Pertz; M. G.H. Leges; Hannovel \u20ac 429"
+    },
+    {
+      "id": 14291,
+      "roll_id": 2639,
+      "pdf_page": 9,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "cette datc, cf. supra; P. 16,n.1."
+    }
+  ]
+}

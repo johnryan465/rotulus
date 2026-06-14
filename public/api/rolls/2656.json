@@ -1,0 +1,31 @@
+{
+  "roll": {
+    "id": 2656,
+    "roll_num": "36",
+    "date_str": "Sd: [prcmier quart du X? s]",
+    "title": "Formule de bref mortuaire \u00e0 Fusage de S. Germain d - 'Auxerre. A . Original perdu . B. Paris; B. N. E.,lat. 11379, fol. 27 (endommag\u00e9 ; addition du X' = 8) ( E. de Rozi\u00e8re, Formules, 2 partie; P. 955, n\" 686. 6. K. Zeumer; karolini aevi ( M. G. H , Leges) P. 517,n\" 10. Formulae merowingici et [NDIQU\u00c9 JJ Contreni, Le formulaire de Laon. Source pour lhistoire du X\" s. \" dans Scriptorium; L. XXVII, 1973, 1 de T\u00e9cole de Laon au d\u00e9but p 23 . Pour J J. Contreni (loc. cit.), cette formule est un t\u00e9moignage existant depuis la seconde moiti\u00e9 du IX%entre S Geromoignag eurepl\u00e9mecoaree dcaoliens \u00e9trois 10 el l\u00e9cole de Laon. Sanctissimis patribus sincera dilectione ven[erandis] < 2 diligendis fratribus quocumque locorum Deo pie [famulantibus], humilis contio domni ac beatissimi Germa[ni AutissiodoJrensis, optatam in Deo et seculo pacem et prosperitfatem] < > ordine simili et pari religione Christo militan[tes] < > aequum est, ut 15 mutuis foveantur praesidiis; et quod [unusquisque] vult fratri impendere, non deneget, quatinus quod sing[uli] per se obtinere non valent; multorum precibus assequantur; ut sic invicem dilectionis et precum suffragia conferentes; post hujus procellosi maris discrimina valida ad optatum caeli portum prospero tractu perve- nire queamus. Tunc enim vere legis praecepta implebimus; si, Deum cum amore et  20 timore colentes;, etiam proximis solatia orationis impendere non neglexerimus  Proinde de praecedentium patrum more admonitis sanctissimam  vestram  per litteras adimus religiositatem, innotescentes obitum cujusdam fratris nostri et Deo, ut credimus; satis amabili, nomine [illo],  V kalendas ill. seculo moriens, Christo vivere coepit > ejus animae absolutione Domini clementiam exorare 25",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "20,21",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 14320,
+      "roll_id": 2656,
+      "pdf_page": 20,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Ul, VeSliiS Sanclis PICCIDUS dujulu9;  UU propitio Domini expietur:"
+    },
+    {
+      "id": 14321,
+      "roll_id": 2656,
+      "pdf_page": 21,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Phil, 5 1,23: desiderium [ habens , dissolvi, et esse cum Christo"
+    }
+  ]
+}
