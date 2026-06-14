@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Dingolfing, Germany",
+    "coords": [
+      48.6293,
+      12.4984
+    ],
+    "year": 972,
+    "date_str": "S.d [vcrs 972]",
+    "is_approximate": false,
+    "description": "Origin: Troisi\u00e8me variante de la formule de . d\u00eda de Dunst..."
+  }
+]

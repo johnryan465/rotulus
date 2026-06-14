@@ -1,0 +1,123 @@
+{
+  "roll": {
+    "id": 248,
+    "roll_num": "26",
+    "date_str": "S.d. [IX? s ]",
+    "title": "Formule de bref mortuaire. 20",
+    "manuscripts": "A. Original perdu. B. Vaticano; Reg lat. 612, fol. 32v (IX-X' s) a. E. de Rozi\u00e8re, Formules; 2 partie; p. 952, n\" 681. 6. K. Zeumer; Formulae merowingici et karolini aevi (M. G.H, Leges), P. 261, n\" 60.",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "15",
+    "is_verified": 0,
+    "year": null
+  },
+  "tituli": [
+    {
+      "id": 2205,
+      "roll_id": 248,
+      "title": "Implicit Titulus",
+      "latin_text": "Indiculum de consortio 25 Dilectissimis cumfratribus nostris de cenubio illo; in Dei nomen, fratres de congregatione Sancti illius, illo cenubio; distinamus vobis salutem perennem in Domino: De cetero cognoscatis quia unus ex fratribus nostris, nomen ille, IIII' non. julii de hac luce migravit. Proinde 'supplicamus vobis ut missas et psalmod\u00eda Pni@ Cacfag",
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 114543,
+          "titulus_id": 2205,
+          "original_name": "Indiculum",
+          "original_title": "consortio 25 Dilectissimis cumfratribus nostris de cenubio illo",
+          "footnote_num": "1",
+          "footnote_text": "OqunIS orallOIUS VOMI scnCOnUla PLUPaiU?  sicut inter nos et vos consuetudo est bona.",
+          "normalized_name": "Indiculum",
+          "normalized_role": "OqunIS orallOIUS VOMI scnCOnUla PLUPaiU? sicut inter nos et vos consuetudo est bona.",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 114544,
+          "titulus_id": 2205,
+          "original_name": "Dilectissimi",
+          "original_title": "cumfratribus nostris de cenubio illo",
+          "footnote_num": "1",
+          "footnote_text": "Jac., V, 16.",
+          "normalized_name": "Dilectissimi",
+          "normalized_role": "Jac.",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 114545,
+          "titulus_id": 2205,
+          "original_name": "Sanct",
+          "original_title": "illius",
+          "footnote_num": "3",
+          "footnote_text": "Doavu",
+          "normalized_name": "Sanct",
+          "normalized_role": "Doavu",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 114546,
+          "titulus_id": 2205,
+          "original_name": "Domin",
+          "original_title": ": De cetero cognoscatis quia unus ex fratribus nostris",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Domin",
+          "normalized_role": ": De cetero cognoscatis quia unus ex fratribus nostris",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 114547,
+          "titulus_id": 2205,
+          "original_name": "Proind",
+          "original_title": "'supplicamus vobis ut missas et psalmod\u00eda Pni@ Cacfag",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Proind",
+          "normalized_role": "'supplicamus vobis ut missas et psalmod\u00eda Pni@ Cacfag",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 114548,
+          "titulus_id": 2205,
+          "original_name": "Cacfa",
+          "original_title": "",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Cacfa",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 1975,
+      "roll_id": 248,
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "OqunIS orallOIUS VOMI scnCOnUla PLUPaiU?  sicut inter nos et vos consuetudo est bona."
+    },
+    {
+      "id": 1976,
+      "roll_id": 248,
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Jac., V, 16."
+    },
+    {
+      "id": 1977,
+      "roll_id": 248,
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Doavu"
+    }
+  ]
+}

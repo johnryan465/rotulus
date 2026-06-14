@@ -1,0 +1,4422 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) de Hugues; abb\u00e9 d..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Laon, France",
+    "coords": [
+      49.5642,
+      3.6199
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Laon"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Soissons"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: Jean (A son sujet)"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Sensu"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Dera"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: VERSUS (A son sujet)"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Visited: Sensu (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Soissons"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Suessionis"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Soissons"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Soissons"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: Suessionis (A son sujet)"
+  },
+  {
+    "step": 15,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Visited: Anim (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 16,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Soissons"
+  },
+  {
+    "step": 17,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Suessionis"
+  },
+  {
+    "step": 18,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Soissons"
+  },
+  {
+    "step": 19,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Suessionis"
+  },
+  {
+    "step": 20,
+    "type": "stop",
+    "name": "Laon, France",
+    "coords": [
+      49.5642,
+      3.6199
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Laon"
+  },
+  {
+    "step": 21,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: Versibu (A son sujet)"
+  },
+  {
+    "step": 22,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Visited: Ambiat (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 23,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Poitiers"
+  },
+  {
+    "step": 24,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 25,
+    "type": "stop",
+    "name": "Clermont-Ferrand, France",
+    "coords": [
+      45.7772,
+      3.087
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Clermont"
+  },
+  {
+    "step": 26,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 27,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Poitiers"
+  },
+  {
+    "step": 28,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: Poitiers (A son sujet)"
+  },
+  {
+    "step": 29,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Visited: Cilbert (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 30,
+    "type": "stop",
+    "name": "Germany (General)",
+    "coords": [
+      51.1657,
+      10.4515
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Found in text: German"
+  },
+  {
+    "step": 31,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 32,
+    "type": "stop",
+    "name": "Novalesa Abbey, Italy",
+    "coords": [
+      45.1897,
+      7.0142
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Nova"
+  },
+  {
+    "step": 33,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 34,
+    "type": "stop",
+    "name": "Germany (General)",
+    "coords": [
+      51.1657,
+      10.4515
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Found in text: German"
+  },
+  {
+    "step": 35,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: Selby (A son sujet)"
+  },
+  {
+    "step": 36,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Visited: Paris (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 37,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Denis"
+  },
+  {
+    "step": 38,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 39,
+    "type": "stop",
+    "name": "France (General)",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Found in text: France"
+  },
+  {
+    "step": 40,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Denis"
+  },
+  {
+    "step": 41,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: Defici (A son sujet)"
+  },
+  {
+    "step": 42,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Visited: Dicere (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 43,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: Rouleaux (Sens)"
+  },
+  {
+    "step": 44,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: Ivoni (A son sujet)"
+  },
+  {
+    "step": 45,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Visited: Fuit (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 46,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 47,
+    "type": "stop",
+    "name": "Lombardy, Italy",
+    "coords": [
+      45.4791,
+      9.8452
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Found in text: Lombard"
+  },
+  {
+    "step": 48,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Cluny"
+  },
+  {
+    "step": 49,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: Eudes (A son sujet)"
+  },
+  {
+    "step": 50,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Visited: Original (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 51,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: Elle (Sens)"
+  },
+  {
+    "step": 52,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 53,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Found in text: Galliachristiana"
+  },
+  {
+    "step": 54,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 55,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: Marmoutie (A son sujet)"
+  },
+  {
+    "step": 56,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Visited: Epistola (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 57,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: Blois (Sens)"
+  },
+  {
+    "step": 58,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Allusion"
+  },
+  {
+    "step": 59,
+    "type": "stop",
+    "name": "Provence, France",
+    "coords": [
+      43.9352,
+      6.0679
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Found in text: Prov"
+  },
+  {
+    "step": 60,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: Inde (A son sujet)"
+  },
+  {
+    "step": 61,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Visited: XXXV (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 62,
+    "type": "stop",
+    "name": "Eichst\u00e4tt, Germany",
+    "coords": [
+      48.892,
+      11.183
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Ista"
+  },
+  {
+    "step": 63,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: Jege (A son sujet)"
+  },
+  {
+    "step": 64,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Visited: Robertu (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 65,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: Leclerc (Sens)"
+  },
+  {
+    "step": 66,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Angers"
+  },
+  {
+    "step": 67,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Visited: Judicem (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 68,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Angers"
+  },
+  {
+    "step": 69,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Cartulaire (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 70,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Maxenti (Sens)"
+  },
+  {
+    "step": 71,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Albin (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 72,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Sanct (Angers de S. Aubin)"
+  },
+  {
+    "step": 73,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 74,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Found in text: Texpression"
+  },
+  {
+    "step": 75,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: VISIT\u00c9ES (A son sujet)"
+  },
+  {
+    "step": 76,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Visited: Arrouais (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 77,
+    "type": "stop",
+    "name": "Toulouse, France",
+    "coords": [
+      43.6047,
+      1.4442
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Toulouse"
+  },
+  {
+    "step": 78,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: B\u00e9n\u00e9dictin (Broussillon Bertrand de 1903)"
+  },
+  {
+    "step": 79,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Figea (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 80,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Ben\u00e9dictin (Sens)"
+  },
+  {
+    "step": 81,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Exuperius (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 82,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Mauri (Angers de S. Aubin)"
+  },
+  {
+    "step": 83,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Ripoll"
+  },
+  {
+    "step": 84,
+    "type": "stop",
+    "name": "Toulouse, France",
+    "coords": [
+      43.6047,
+      1.4442
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Toulouse"
+  },
+  {
+    "step": 85,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Seniofredu (A son sujet)"
+  },
+  {
+    "step": 86,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Collan (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 87,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Pauna (Sens)"
+  },
+  {
+    "step": 88,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Dordogre (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 89,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Conques (Angers de S. Aubin)"
+  },
+  {
+    "step": 90,
+    "type": "stop",
+    "name": "Bourges, France",
+    "coords": [
+      47.081,
+      2.398
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Bourges"
+  },
+  {
+    "step": 91,
+    "type": "stop",
+    "name": "Brioude Abbey, France",
+    "coords": [
+      45.2933,
+      3.3847
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Brioude"
+  },
+  {
+    "step": 92,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Cluny"
+  },
+  {
+    "step": 93,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: CARTE (D\u00c9TAIL 97 Charlieu S)"
+  },
+  {
+    "step": 94,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: D\u00c9TAIL (A son sujet)"
+  },
+  {
+    "step": 95,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Besal\u00e9 (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 96,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Clunisien (Sens)"
+  },
+  {
+    "step": 97,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Cahor (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 98,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: B\u00e9n\u00e9dictin (Angers de S. Aubin)"
+  },
+  {
+    "step": 99,
+    "type": "stop",
+    "name": "Bourges, France",
+    "coords": [
+      47.081,
+      2.398
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Bourges"
+  },
+  {
+    "step": 100,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Poitiers"
+  },
+  {
+    "step": 101,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Ripoll"
+  },
+  {
+    "step": 102,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Villeloi (A son sujet)"
+  },
+  {
+    "step": 103,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Poitiers (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 104,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Uzerch (Sens)"
+  },
+  {
+    "step": 105,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Amand- (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 106,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Cordore (Angers de S. Aubin)"
+  },
+  {
+    "step": 107,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Besal (Broussillon Bertrand de 1903)"
+  },
+  {
+    "step": 108,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Lioren\u00e7 ()"
+  },
+  {
+    "step": 109,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Poitiers"
+  },
+  {
+    "step": 110,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: CARTE (D\u00c9TAIL DES S)"
+  },
+  {
+    "step": 111,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: D\u00c9TAIL (A son sujet)"
+  },
+  {
+    "step": 112,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Montserra (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 113,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Cugat (Sens)"
+  },
+  {
+    "step": 114,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: B\u00e9n\u00e9dictin (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 115,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: B\u00e9n\u00e9dictin (Angers de S. Aubin)"
+  },
+  {
+    "step": 116,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: CARTE (S)"
+  },
+  {
+    "step": 117,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Munt (Broussillon Bertrand de 1903)"
+  },
+  {
+    "step": 118,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Serrateix (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 119,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Solignac (Sens)"
+  },
+  {
+    "step": 120,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: B\u00e9n\u00e9dictin (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 121,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Sor\u00e8d (Angers de S. Aubin)"
+  },
+  {
+    "step": 122,
+    "type": "stop",
+    "name": "Brioude Abbey, France",
+    "coords": [
+      45.2933,
+      3.3847
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Brioude"
+  },
+  {
+    "step": 123,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Martin-devant-Metz"
+  },
+  {
+    "step": 124,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Cluny"
+  },
+  {
+    "step": 125,
+    "type": "stop",
+    "name": "Li\u00e8ge, Belgium",
+    "coords": [
+      50.633,
+      5.567
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Li\u00e8ge"
+  },
+  {
+    "step": 126,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Denis"
+  },
+  {
+    "step": 127,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 128,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: D\u00c9TAI (A son sujet)"
+  },
+  {
+    "step": 129,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Jcan-Baptist (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 130,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Auian (Sens)"
+  },
+  {
+    "step": 131,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Miche (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 132,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Johanne (Angers de S. Aubin)"
+  },
+  {
+    "step": 133,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Poitiers"
+  },
+  {
+    "step": 134,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Ripol"
+  },
+  {
+    "step": 135,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Fhnnr (A son sujet)"
+  },
+  {
+    "step": 136,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Rerer (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 137,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Charrou (Sens)"
+  },
+  {
+    "step": 138,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Amant-de (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 139,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Sauila (Angers de S. Aubin)"
+  },
+  {
+    "step": 140,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Poitiers"
+  },
+  {
+    "step": 141,
+    "type": "stop",
+    "name": "Nanteuil-en-Vall\u00e9e Abbey, France",
+    "coords": [
+      46.0022,
+      0.2818
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Nantcuil-en-Vall\u00e9c"
+  },
+  {
+    "step": 142,
+    "type": "stop",
+    "name": "Rebais Abbey, France",
+    "coords": [
+      48.8471,
+      3.2323
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Rebais"
+  },
+  {
+    "step": 143,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Metz"
+  },
+  {
+    "step": 144,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 145,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Reims"
+  },
+  {
+    "step": 146,
+    "type": "stop",
+    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "coords": [
+      48.8542,
+      2.3332
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Germain-des-Pr\u00e9s"
+  },
+  {
+    "step": 147,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: D\u00c9TAIL (A son sujet)"
+  },
+  {
+    "step": 148,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Chaffr (: B\u00e9n\u00e9dictins cath\u00e9drale B\u00e9n\u00e9dictins S)"
+  },
+  {
+    "step": 149,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: B\u00e9n\u00e9dic- (Sens)"
+  },
+  {
+    "step": 150,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Psalmod (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 151,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Pierr (Angers de S. Aubin)"
+  },
+  {
+    "step": 152,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Ripoll"
+  },
+  {
+    "step": 153,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Toul"
+  },
+  {
+    "step": 154,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 155,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Denis"
+  },
+  {
+    "step": 156,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: B\u00e9n\u00e9dictins (Broussillon Bertrand de 1903)"
+  },
+  {
+    "step": 157,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Lloren\u00e7 (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 158,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Sadurn (Sens)"
+  },
+  {
+    "step": 159,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Miquel (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 160,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: B\u00e9n\u00e9dictins (Angers de S. Aubin)"
+  },
+  {
+    "step": 161,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Poitiers"
+  },
+  {
+    "step": 162,
+    "type": "stop",
+    "name": "Orl\u00e9ans, France",
+    "coords": [
+      47.903,
+      1.909
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Orl\u00e9ans"
+  },
+  {
+    "step": 163,
+    "type": "stop",
+    "name": "Rebais Abbey, France",
+    "coords": [
+      48.8471,
+      3.2323
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Rebais"
+  },
+  {
+    "step": 164,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 165,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: D\u00c9TAI (A son sujet)"
+  },
+  {
+    "step": 166,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Jean-L (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 167,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Radegond (Sens)"
+  },
+  {
+    "step": 168,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Pierr (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 169,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: B\u00e9n\u00e9dictin (Angers de S. Aubin)"
+  },
+  {
+    "step": 170,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Toul"
+  },
+  {
+    "step": 171,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 172,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Soissons"
+  },
+  {
+    "step": 173,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Denis"
+  },
+  {
+    "step": 174,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: B\u00e9n\u00e9dictin (Broussillon Bertrand de 1903)"
+  },
+  {
+    "step": 175,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Sor\u00e8de (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 176,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: B\u00e9n\u00e9dictins (Sens)"
+  },
+  {
+    "step": 177,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Epvr (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 178,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: B\u00e9n\u00e9dictins (Angers de S. Aubin)"
+  },
+  {
+    "step": 179,
+    "type": "stop",
+    "name": "Toulouse, France",
+    "coords": [
+      43.6047,
+      1.4442
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Toulouse"
+  },
+  {
+    "step": 180,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: B\u00e9n\u00e9dictins (A son sujet)"
+  },
+  {
+    "step": 181,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Laluculaie (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 182,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: B\u00e9n\u00e9di (Sens)"
+  },
+  {
+    "step": 183,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Montolicu (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 184,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Abdo (Angers de S. Aubin)"
+  },
+  {
+    "step": 185,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Itin\u00e9rair (A son sujet)"
+  },
+  {
+    "step": 186,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Lieux (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 187,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Crnni (Sens)"
+  },
+  {
+    "step": 188,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Ooee (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 189,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: DfQin (Angers de S. Aubin)"
+  },
+  {
+    "step": 190,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: Wovibz (A son sujet)"
+  },
+  {
+    "step": 191,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Visited: Oorferv (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 192,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Visited: Adour (Sens)"
+  },
+  {
+    "step": 193,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Angers"
+  },
+  {
+    "step": 194,
+    "type": "stop",
+    "name": "Saint-Maurice Abbey, Switzerland",
+    "coords": [
+      46.2163,
+      7.0033
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Maurice"
+  },
+  {
+    "step": 195,
+    "type": "stop",
+    "name": "Chalon-sur-Sa\u00f4ne, France",
+    "coords": [
+      46.7833,
+      4.85
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Chalon-sur-Sa\u00f4ne"
+  },
+  {
+    "step": 196,
+    "type": "stop",
+    "name": "Chartres, France",
+    "coords": [
+      48.4472,
+      1.4877
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Chartres"
+  },
+  {
+    "step": 197,
+    "type": "stop",
+    "name": "Auxerre, France",
+    "coords": [
+      47.798,
+      3.573
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Auxerre"
+  },
+  {
+    "step": 198,
+    "type": "stop",
+    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "coords": [
+      48.8542,
+      2.3332
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Germain"
+  },
+  {
+    "step": 199,
+    "type": "stop",
+    "name": "Bayeux, France",
+    "coords": [
+      49.2794,
+      -0.7028
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Bayeux"
+  },
+  {
+    "step": 200,
+    "type": "stop",
+    "name": "Winchester, England",
+    "coords": [
+      51.0632,
+      -1.308
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Chester"
+  },
+  {
+    "step": 201,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Cluny"
+  },
+  {
+    "step": 202,
+    "type": "stop",
+    "name": "Glastonbury, England",
+    "coords": [
+      51.1473,
+      -2.7186
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Bury"
+  },
+  {
+    "step": 203,
+    "type": "stop",
+    "name": "Caen, France",
+    "coords": [
+      49.1829,
+      -0.3707
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Caen"
+  },
+  {
+    "step": 204,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: D\u00c9TAIL (A son sujet)"
+  },
+  {
+    "step": 205,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: B\u00e9nign (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 206,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Trinit (Sens)"
+  },
+  {
+    "step": 207,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Fucecchi (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 208,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: B\u00e9n\u00e9dictin (Angers de S. Aubin)"
+  },
+  {
+    "step": 209,
+    "type": "stop",
+    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "coords": [
+      48.8542,
+      2.3332
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Germain-des-Pr\u00e9s"
+  },
+  {
+    "step": 210,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Denis"
+  },
+  {
+    "step": 211,
+    "type": "stop",
+    "name": "Messina, Italy",
+    "coords": [
+      38.1939,
+      15.5552
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Messines"
+  },
+  {
+    "step": 212,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Poitiers"
+  },
+  {
+    "step": 213,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Soissons"
+  },
+  {
+    "step": 214,
+    "type": "stop",
+    "name": "Rebais Abbey, France",
+    "coords": [
+      48.8471,
+      3.2323
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Rebais"
+  },
+  {
+    "step": 215,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Denis"
+  },
+  {
+    "step": 216,
+    "type": "stop",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Nogent-gous-Coucy"
+  },
+  {
+    "step": 217,
+    "type": "stop",
+    "name": "Rouen, France",
+    "coords": [
+      49.4431,
+      1.0992
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Rouen"
+  },
+  {
+    "step": 218,
+    "type": "stop",
+    "name": "Orl\u00e9ans, France",
+    "coords": [
+      47.903,
+      1.909
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Orl\u00e9ans"
+  },
+  {
+    "step": 219,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 220,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Deni (Broussillon Bertrand de 1903)"
+  },
+  {
+    "step": 221,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Malmesbury (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 222,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Julien-du-Pr (Sens)"
+  },
+  {
+    "step": 223,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: B\u00e9n\u00e9dictins (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 224,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Martinu (Angers de S. Aubin)"
+  },
+  {
+    "step": 225,
+    "type": "stop",
+    "name": "Caen, France",
+    "coords": [
+      49.1829,
+      -0.3707
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Caen"
+  },
+  {
+    "step": 226,
+    "type": "stop",
+    "name": "Bayeux, France",
+    "coords": [
+      49.2794,
+      -0.7028
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Bayeux"
+  },
+  {
+    "step": 227,
+    "type": "stop",
+    "name": "Saint-Maurice Abbey, Switzerland",
+    "coords": [
+      46.2163,
+      7.0033
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Maurice"
+  },
+  {
+    "step": 228,
+    "type": "stop",
+    "name": "Chur, Switzerland",
+    "coords": [
+      46.8508,
+      9.532
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Christchurch"
+  },
+  {
+    "step": 229,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Beaumont-l\u00e8--Tours"
+  },
+  {
+    "step": 230,
+    "type": "stop",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Argentcuil"
+  },
+  {
+    "step": 231,
+    "type": "stop",
+    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "coords": [
+      48.8542,
+      2.3332
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Germain"
+  },
+  {
+    "step": 232,
+    "type": "stop",
+    "name": "Bourges, France",
+    "coords": [
+      47.081,
+      2.398
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Bourges"
+  },
+  {
+    "step": 233,
+    "type": "stop",
+    "name": "Chartres, France",
+    "coords": [
+      48.4472,
+      1.4877
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Chartres"
+  },
+  {
+    "step": 234,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Pierr (A son sujet)"
+  },
+  {
+    "step": 235,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: B\u00e9n\u00e9dictin (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 236,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Amesbury (Sens)"
+  },
+  {
+    "step": 237,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Fonte (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 238,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Melor (Angers de S. Aubin)"
+  },
+  {
+    "step": 239,
+    "type": "stop",
+    "name": "Caen, France",
+    "coords": [
+      49.1829,
+      -0.3707
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Caen"
+  },
+  {
+    "step": 240,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Mathild (A son sujet)"
+  },
+  {
+    "step": 241,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Tutbu (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 242,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Cbuest (Sens)"
+  },
+  {
+    "step": 243,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Mhebr (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 244,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Amuhu (Angers de S. Aubin)"
+  },
+  {
+    "step": 245,
+    "type": "stop",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Gent"
+  },
+  {
+    "step": 246,
+    "type": "stop",
+    "name": "Berg im Donaugau, Germany",
+    "coords": [
+      48.9868,
+      12.0833
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Blandijnberg"
+  },
+  {
+    "step": 247,
+    "type": "stop",
+    "name": "Glastonbury, England",
+    "coords": [
+      51.1473,
+      -2.7186
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Glastonbury"
+  },
+  {
+    "step": 248,
+    "type": "stop",
+    "name": "Abbey of Hautvillers, France",
+    "coords": [
+      49.0817,
+      3.9383
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Hautvillers"
+  },
+  {
+    "step": 249,
+    "type": "stop",
+    "name": "Jumi\u00e8ges Abbey, France",
+    "coords": [
+      49.4326,
+      0.8211
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Jumi\u00e8ges"
+  },
+  {
+    "step": 250,
+    "type": "stop",
+    "name": "Laon, France",
+    "coords": [
+      49.5642,
+      3.6199
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Laon"
+  },
+  {
+    "step": 251,
+    "type": "stop",
+    "name": "F\u00e9camp Abbey, France",
+    "coords": [
+      49.7589,
+      0.38
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: F\u00e9camp"
+  },
+  {
+    "step": 252,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: D\u00c9TAI (A son sujet)"
+  },
+  {
+    "step": 253,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Bartholome (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 254,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: B\u00e9n\u00e9dictin (Sens)"
+  },
+  {
+    "step": 255,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: B\u00e9n\u00e9dictins (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 256,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Ch\u00e9zy-sur-Marne (Angers de S. Aubin)"
+  },
+  {
+    "step": 257,
+    "type": "stop",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Nogent-Je-Rotzou"
+  },
+  {
+    "step": 258,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Denis"
+  },
+  {
+    "step": 259,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Limoges"
+  },
+  {
+    "step": 260,
+    "type": "stop",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Nogent-sous"
+  },
+  {
+    "step": 261,
+    "type": "stop",
+    "name": "Bec Abbey, France",
+    "coords": [
+      49.2294,
+      0.7208
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: M\u00e9obecq"
+  },
+  {
+    "step": 262,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 263,
+    "type": "stop",
+    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "coords": [
+      48.8542,
+      2.3332
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Germain-des-Pr\u00e9s"
+  },
+  {
+    "step": 264,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Poitiers"
+  },
+  {
+    "step": 265,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: CARTE (A son sujet)"
+  },
+  {
+    "step": 266,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Gautie (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 267,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Denis (Sens)"
+  },
+  {
+    "step": 268,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: R\u00e8gl (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 269,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: B\u00e9n\u00e9dicti- (Angers de S. Aubin)"
+  },
+  {
+    "step": 270,
+    "type": "stop",
+    "name": "Rouen, France",
+    "coords": [
+      49.4431,
+      1.0992
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Rouen"
+  },
+  {
+    "step": 271,
+    "type": "stop",
+    "name": "Rebais Abbey, France",
+    "coords": [
+      48.8471,
+      3.2323
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Rebais"
+  },
+  {
+    "step": 272,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Denis"
+  },
+  {
+    "step": 273,
+    "type": "stop",
+    "name": "Redon Abbey, France",
+    "coords": [
+      47.6534,
+      -2.085
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Redon"
+  },
+  {
+    "step": 274,
+    "type": "stop",
+    "name": "Saint-Evroult Abbey, France",
+    "coords": [
+      48.7903,
+      0.4627
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Evroult"
+  },
+  {
+    "step": 275,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Reims"
+  },
+  {
+    "step": 276,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Denis"
+  },
+  {
+    "step": 277,
+    "type": "stop",
+    "name": "Saint-Sever Abbey, France",
+    "coords": [
+      43.76,
+      -0.5739
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Sever"
+  },
+  {
+    "step": 278,
+    "type": "stop",
+    "name": "Rochester, England",
+    "coords": [
+      51.39,
+      0.505
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Rochester"
+  },
+  {
+    "step": 279,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: D\u00c9TAI (A son sujet)"
+  },
+  {
+    "step": 280,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Gyprie (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 281,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Trinit\u00e9-du-Mon (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 282,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: B\u00e9n\u00e9dic- (Angers de S. Aubin)"
+  },
+  {
+    "step": 283,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Wandrille"
+  },
+  {
+    "step": 284,
+    "type": "stop",
+    "name": "Germany (General)",
+    "coords": [
+      51.1657,
+      10.4515
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Found in text: German"
+  },
+  {
+    "step": 285,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Sens"
+  },
+  {
+    "step": 286,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 287,
+    "type": "stop",
+    "name": "Troyes, France",
+    "coords": [
+      48.297,
+      4.074
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Troyes"
+  },
+  {
+    "step": 288,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Soissons"
+  },
+  {
+    "step": 289,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: CARTE (A son sujet)"
+  },
+  {
+    "step": 290,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Y\u00e9zela (r\u00e9guliers S)"
+  },
+  {
+    "step": 291,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Tewkesbury (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 292,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: B\u00e9n\u00e9dictin (Angers de S. Aubin)"
+  },
+  {
+    "step": 293,
+    "type": "stop",
+    "name": "Chartres, France",
+    "coords": [
+      48.4472,
+      1.4877
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Chartres"
+  },
+  {
+    "step": 294,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Angersth\u00e9drale"
+  },
+  {
+    "step": 295,
+    "type": "stop",
+    "name": "Saint-Maurice Abbey, Switzerland",
+    "coords": [
+      46.2163,
+      7.0033
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Maurice"
+  },
+  {
+    "step": 296,
+    "type": "stop",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Argenteuil"
+  },
+  {
+    "step": 297,
+    "type": "stop",
+    "name": "Bourges, France",
+    "coords": [
+      47.081,
+      2.398
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Bourgesulpice"
+  },
+  {
+    "step": 298,
+    "type": "stop",
+    "name": "Auxerre, France",
+    "coords": [
+      47.798,
+      3.573
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Auxerre"
+  },
+  {
+    "step": 299,
+    "type": "stop",
+    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "coords": [
+      48.8542,
+      2.3332
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Germain"
+  },
+  {
+    "step": 300,
+    "type": "stop",
+    "name": "Glastonbury, England",
+    "coords": [
+      51.1473,
+      -2.7186
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Bury"
+  },
+  {
+    "step": 301,
+    "type": "stop",
+    "name": "Caen, France",
+    "coords": [
+      49.1829,
+      -0.3707
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Caen"
+  },
+  {
+    "step": 302,
+    "type": "stop",
+    "name": "Chur, Switzerland",
+    "coords": [
+      46.8508,
+      9.532
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Christchurch"
+  },
+  {
+    "step": 303,
+    "type": "stop",
+    "name": "Bayeux, France",
+    "coords": [
+      49.2794,
+      -0.7028
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Bayeux"
+  },
+  {
+    "step": 304,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: CARTE (A son sujet)"
+  },
+  {
+    "step": 305,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Abingdon (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 306,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Melo (Sens)"
+  },
+  {
+    "step": 307,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Jean-en-Vall\u00e9e (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 308,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Trinit (Angers de S. Aubin)"
+  },
+  {
+    "step": 309,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Uecha (A son sujet)"
+  },
+  {
+    "step": 310,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Burteo (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 311,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Cronrc (Broussillon Bertrand de 1903)"
+  },
+  {
+    "step": 312,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Wafrrtor (Sens)"
+  },
+  {
+    "step": 313,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Glestcnbuy (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 314,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: WItso (Angers de S. Aubin)"
+  },
+  {
+    "step": 315,
+    "type": "stop",
+    "name": "Chur, Switzerland",
+    "coords": [
+      46.8508,
+      9.532
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Christchurch"
+  },
+  {
+    "step": 316,
+    "type": "stop",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Nogent-sous-Coucy"
+  },
+  {
+    "step": 317,
+    "type": "stop",
+    "name": "F\u00e9camp Abbey, France",
+    "coords": [
+      49.7589,
+      0.38
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: F\u00e9camp"
+  },
+  {
+    "step": 318,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 319,
+    "type": "stop",
+    "name": "Orl\u00e9ans, France",
+    "coords": [
+      47.903,
+      1.909
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Orl\u00e9ans"
+  },
+  {
+    "step": 320,
+    "type": "stop",
+    "name": "Glastonbury, England",
+    "coords": [
+      51.1473,
+      -2.7186
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Glastonbury"
+  },
+  {
+    "step": 321,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 322,
+    "type": "stop",
+    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "coords": [
+      48.8542,
+      2.3332
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Germain-des-Pr\u00e9s"
+  },
+  {
+    "step": 323,
+    "type": "stop",
+    "name": "Abbey of Hautvillers, France",
+    "coords": [
+      49.0817,
+      3.9383
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Hautvillers"
+  },
+  {
+    "step": 324,
+    "type": "stop",
+    "name": "Jumi\u00e8ges Abbey, France",
+    "coords": [
+      49.4326,
+      0.8211
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Jumi\u00e8ges"
+  },
+  {
+    "step": 325,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: D\u00c9TAIL (A son sujet)"
+  },
+  {
+    "step": 326,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Evc-ham (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 327,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: B\u00e9n\u00e9dictins (Sens)"
+  },
+  {
+    "step": 328,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Trinit (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 329,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: B\u00e9n\u00e9dictin (Angers de S. Aubin)"
+  },
+  {
+    "step": 330,
+    "type": "stop",
+    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "coords": [
+      48.8542,
+      2.3332
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Germain"
+  },
+  {
+    "step": 331,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 332,
+    "type": "stop",
+    "name": "Saint-Sever Abbey, France",
+    "coords": [
+      43.76,
+      -0.5739
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Sever"
+  },
+  {
+    "step": 333,
+    "type": "stop",
+    "name": "Troyes, France",
+    "coords": [
+      48.297,
+      4.074
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Troyes"
+  },
+  {
+    "step": 334,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Reims"
+  },
+  {
+    "step": 335,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Denis"
+  },
+  {
+    "step": 336,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Wandrille"
+  },
+  {
+    "step": 337,
+    "type": "stop",
+    "name": "Rochester, England",
+    "coords": [
+      51.39,
+      0.505
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Rochester"
+  },
+  {
+    "step": 338,
+    "type": "stop",
+    "name": "Germany (General)",
+    "coords": [
+      51.1657,
+      10.4515
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Found in text: German"
+  },
+  {
+    "step": 339,
+    "type": "stop",
+    "name": "Rouen, France",
+    "coords": [
+      49.4431,
+      1.0992
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Rouen"
+  },
+  {
+    "step": 340,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Soissons"
+  },
+  {
+    "step": 341,
+    "type": "stop",
+    "name": "Winchester, England",
+    "coords": [
+      51.0632,
+      -1.308
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Winchester"
+  },
+  {
+    "step": 342,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Denis"
+  },
+  {
+    "step": 343,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: CARTE (A son sujet)"
+  },
+  {
+    "step": 344,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Germai (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 345,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Pierr (Sens)"
+  },
+  {
+    "step": 346,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Bepedi (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 347,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Ramerupt (Angers de S. Aubin)"
+  },
+  {
+    "step": 348,
+    "type": "stop",
+    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "coords": [
+      48.8542,
+      2.3332
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Germain-lHerm"
+  },
+  {
+    "step": 349,
+    "type": "stop",
+    "name": "Clermont-Ferrand, France",
+    "coords": [
+      45.7772,
+      3.087
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Clermont"
+  },
+  {
+    "step": 350,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Cluny"
+  },
+  {
+    "step": 351,
+    "type": "stop",
+    "name": "Toulouse, France",
+    "coords": [
+      43.6047,
+      1.4442
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Toulouse"
+  },
+  {
+    "step": 352,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Grande-Chartreuse (A son sujet)"
+  },
+  {
+    "step": 353,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Riom (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 354,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Gilles (Sens)"
+  },
+  {
+    "step": 355,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: P\u00e9-de-Bigorr (Angers de S. Aubin)"
+  },
+  {
+    "step": 356,
+    "type": "stop",
+    "name": "Toulouse, France",
+    "coords": [
+      43.6047,
+      1.4442
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Toulouse"
+  },
+  {
+    "step": 357,
+    "type": "stop",
+    "name": "Abbey of Hautvillers, France",
+    "coords": [
+      49.0817,
+      3.9383
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Ller"
+  },
+  {
+    "step": 358,
+    "type": "stop",
+    "name": "Clairvaux Abbey, France",
+    "coords": [
+      48.1469,
+      4.65
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Found in text: Clai"
+  },
+  {
+    "step": 359,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Susa (A son sujet)"
+  },
+  {
+    "step": 360,
+    "type": "stop",
+    "name": "Chezal",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Corbign (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
+  },
+  {
+    "step": 361,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": false,
+    "description": "Visited: Gemai (Sens)"
+  },
+  {
+    "step": 362,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: UPuy (Ils'agit S soit de Petrus Raimundi)"
+  },
+  {
+    "step": 363,
+    "type": "stop",
+    "name": "mortuaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "1157-1189",
+    "is_approximate": true,
+    "description": "Visited: Monesticr (Angers de S. Aubin)"
+  }
+]

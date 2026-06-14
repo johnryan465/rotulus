@@ -388,18 +388,33 @@ KNOWN_LOCATIONS = {
 }
 
 
+# Blacklist of modern scholars and non-entities to ignore
+ENTITY_BLACKLIST = {
+    "nos", "implicit", "titulus", "werminghoff", "duchesne", "delisle", "mgh", "conc", "germania", 
+    "gallia", "christiana", "poupardin", "lemaître", "leclercq", "hefelé", "schmid", "wollasch", 
+    "ewig", "oexle", "p", "t", "l", "folio", "fol", "vol", "ms", "lat", "bnf", "clm", "cod", "indiculo"
+}
+
 def extract_entities(titulus, footnotes):
     """
     Scan titulus text for names of people/offices and link to footnotes.
     """
+    # HEURISTIC: If the titulus starts with known bibliographic markers, it's probably not a real titulus
+    title_text = titulus["title"].lower()
+    if any(marker in title_text for marker in ["werminghoff", "duchesne", "delisle", "recueil", "bibliothèque"]):
+        return []
+
     entities = []
     text = " ".join(titulus["text_lines"])
     
-    ref_pattern = r'\b([A-Z][a-z\-]+)\s*[\(\[]?([®©§%#@\d\w\?]+)[\)\]]?\b'
+    ref_pattern = r'\b([A-Z][a-zA-ZÀ-ÿ\-]{3,})\s*[\(\[]?([®©§%#@\d\w\?]{1,5})[\)\]]?\b'
     matches = list(re.finditer(ref_pattern, text))
     
     for idx, m in enumerate(matches):
         name = m.group(1)
+        if name.lower() in ENTITY_BLACKLIST:
+            continue
+            
         fn_ref = m.group(2)
         
         fn_text = ""
@@ -537,6 +552,12 @@ def parse_page_content(lines, expected_next_roll, pdf_name, page_num, half_name,
             continue
             
         # Implicit titulus
+        # HEURISTIC: Only treat as titulus if it looks medieval (has capitalized names or Latin markers)
+        # and doesn't look bibliographic
+        if any(marker in line.lower() for marker in ["werminghoff", "duchesne", "delisle", "éd.", "vol.", "col."]):
+            i += 1
+            continue
+
         tit_lines = [line]
         j = i + 1
         while j < len(lines):

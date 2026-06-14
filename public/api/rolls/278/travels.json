@@ -1,0 +1,8561 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": false,
+    "description": "Origin: Rouleau d'Oliba; abb\u00e9 de Ripoll et de $ Michel de ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Ponsic (Coutumes lc)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Revu (Pul Oliva)"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Ripoll"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Limoges"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Poitiers"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Bourges, France",
+    "coords": [
+      47.081,
+      2.398
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Bourges"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Autun, France",
+    "coords": [
+      46.95,
+      4.3
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Autun"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Cluny"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Ripoll"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Autun, France",
+    "coords": [
+      46.95,
+      4.3
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Autun"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Limoges"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Chatojoles (Coutumes lc)"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Symphorie (Pul Oliva)"
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Cluny"
+  },
+  {
+    "step": 15,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Limoges"
+  },
+  {
+    "step": 16,
+    "type": "stop",
+    "name": "Brioude Abbey, France",
+    "coords": [
+      45.2933,
+      3.3847
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Brioude"
+  },
+  {
+    "step": 17,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 18,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Lloren\u00e7 (Pul Oliva)"
+  },
+  {
+    "step": 19,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Virgini (Coutumes lc)"
+  },
+  {
+    "step": 20,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Abbatibus (Pul Oliva)"
+  },
+  {
+    "step": 21,
+    "type": "stop",
+    "name": "Bourges, France",
+    "coords": [
+      47.081,
+      2.398
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Bourges"
+  },
+  {
+    "step": 22,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: ROULEAUX (Coutumes lc)"
+  },
+  {
+    "step": 23,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Olivae (Pul Oliva)"
+  },
+  {
+    "step": 24,
+    "type": "stop",
+    "name": "Abbey of Hautvillers, France",
+    "coords": [
+      49.0817,
+      3.9383
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Ville"
+  },
+  {
+    "step": 25,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Hilair (Coutumes lc)"
+  },
+  {
+    "step": 26,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Carcasson (Pul Oliva)"
+  },
+  {
+    "step": 27,
+    "type": "stop",
+    "name": "Autun, France",
+    "coords": [
+      46.95,
+      4.3
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Autun"
+  },
+  {
+    "step": 28,
+    "type": "stop",
+    "name": "Brioude Abbey, France",
+    "coords": [
+      45.2933,
+      3.3847
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Brioude"
+  },
+  {
+    "step": 29,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Allusion"
+  },
+  {
+    "step": 30,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: ROULEAUX (Coutumes lc)"
+  },
+  {
+    "step": 31,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Vielmur-sur-Agou (Pul Oliva)"
+  },
+  {
+    "step": 32,
+    "type": "stop",
+    "name": "Lucca, Italy",
+    "coords": [
+      43.8429,
+      10.5027
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Ques"
+  },
+  {
+    "step": 33,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Chanteuge (Coutumes lc)"
+  },
+  {
+    "step": 34,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Marcelin (Pul Oliva)"
+  },
+  {
+    "step": 35,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: ROULEAUX (Coutumes lc)"
+  },
+  {
+    "step": 36,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Durand (Pul Oliva)"
+  },
+  {
+    "step": 37,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Marseill (Coutumes lc)"
+  },
+  {
+    "step": 38,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Otra (Pul Oliva)"
+  },
+  {
+    "step": 39,
+    "type": "stop",
+    "name": "Montecassino Abbey, Italy",
+    "coords": [
+      41.4901,
+      13.8143
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Monte"
+  },
+  {
+    "step": 40,
+    "type": "stop",
+    "name": "France (General)",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: France"
+  },
+  {
+    "step": 41,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORTS (Coutumes lc)"
+  },
+  {
+    "step": 42,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Oliv (Pul Oliva)"
+  },
+  {
+    "step": 43,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Esta (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 44,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Cluny"
+  },
+  {
+    "step": 45,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Antoni (Pul Oliva)"
+  },
+  {
+    "step": 46,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Monasterium (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 47,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Cenolitico (Coutumes lc)"
+  },
+  {
+    "step": 48,
+    "type": "stop",
+    "name": "Brioude Abbey, France",
+    "coords": [
+      45.2933,
+      3.3847
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Brioude"
+  },
+  {
+    "step": 49,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 50,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: ROULEAUX (Coutumes lc)"
+  },
+  {
+    "step": 51,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Localit\u00e9 (Pul Oliva)"
+  },
+  {
+    "step": 52,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Charrou (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 53,
+    "type": "stop",
+    "name": "Autun, France",
+    "coords": [
+      46.95,
+      4.3
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Autun"
+  },
+  {
+    "step": 54,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Limoges"
+  },
+  {
+    "step": 55,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Fulcherius (Coutumes lc)"
+  },
+  {
+    "step": 56,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Quoru (Pul Oliva)"
+  },
+  {
+    "step": 57,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Architerio (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 58,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Limoge (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 59,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Marti (1 Gereslees)"
+  },
+  {
+    "step": 60,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Poitiers"
+  },
+  {
+    "step": 61,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: ROULEAUX (Coutumes lc)"
+  },
+  {
+    "step": 62,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Limoge (Pul Oliva)"
+  },
+  {
+    "step": 63,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Locu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 64,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Christ (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 65,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Distat (1 Gereslees)"
+  },
+  {
+    "step": 66,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Poitiers"
+  },
+  {
+    "step": 67,
+    "type": "stop",
+    "name": "Autun, France",
+    "coords": [
+      46.95,
+      4.3
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Autun"
+  },
+  {
+    "step": 68,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Quod (Coutumes lc)"
+  },
+  {
+    "step": 69,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Quanto (Pul Oliva)"
+  },
+  {
+    "step": 70,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Martin (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 71,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Junie (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 72,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Junian (1 Gereslees)"
+  },
+  {
+    "step": 73,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Poitiers"
+  },
+  {
+    "step": 74,
+    "type": "stop",
+    "name": "Spain (General)",
+    "coords": [
+      40.4637,
+      -3.7492
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Espagne"
+  },
+  {
+    "step": 75,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORTS (Coutumes lc)"
+  },
+  {
+    "step": 76,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Sancte (Pul Oliva)"
+  },
+  {
+    "step": 77,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Lorenzo (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 78,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Sadurn (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 79,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Saturnin (1 Gereslees)"
+  },
+  {
+    "step": 80,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 81,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Stephan (Coutumes lc)"
+  },
+  {
+    "step": 82,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Salvator (Pul Oliva)"
+  },
+  {
+    "step": 83,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Oliva (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 84,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Itaqu (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 85,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Orate (1 Gereslees)"
+  },
+  {
+    "step": 86,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Allusion"
+  },
+  {
+    "step": 87,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: ROULEAUX (Coutumes lc)"
+  },
+  {
+    "step": 88,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Petrus (Pul Oliva)"
+  },
+  {
+    "step": 89,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Petr (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 90,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Dominu (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 91,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Quod (1 Gereslees)"
+  },
+  {
+    "step": 92,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Expression"
+  },
+  {
+    "step": 93,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Quis (Coutumes lc)"
+  },
+  {
+    "step": 94,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Retributore (Pul Oliva)"
+  },
+  {
+    "step": 95,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Rivipoh (1 Gereslees)"
+  },
+  {
+    "step": 96,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Comno (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 97,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Serratax (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 98,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Thea (1 Gereslees)"
+  },
+  {
+    "step": 99,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORTS (Coutumes lc)"
+  },
+  {
+    "step": 100,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Patronis (Pul Oliva)"
+  },
+  {
+    "step": 101,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Catedral (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 102,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Christoguarissimis (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 103,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Rivispollenti (1 Gereslees)"
+  },
+  {
+    "step": 104,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Pari"
+  },
+  {
+    "step": 105,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Pervenit (Coutumes lc)"
+  },
+  {
+    "step": 106,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Illacrimaveruntque (Pul Oliva)"
+  },
+  {
+    "step": 107,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Chrinti (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 108,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Dtmaee (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 109,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Monasteri (1 Gereslees)"
+  },
+  {
+    "step": 110,
+    "type": "stop",
+    "name": "Autun, France",
+    "coords": [
+      46.95,
+      4.3
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Autun"
+  },
+  {
+    "step": 111,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Ripoll"
+  },
+  {
+    "step": 112,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORTS (Coutumes lc)"
+  },
+  {
+    "step": 113,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Camprodo (Pul Oliva)"
+  },
+  {
+    "step": 114,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Monasterio (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 115,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Catedral (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 116,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Hedu (1 Gereslees)"
+  },
+  {
+    "step": 117,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Undenis"
+  },
+  {
+    "step": 118,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 119,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Undenis (Coutumes lc)"
+  },
+  {
+    "step": 120,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Olib (Pul Oliva)"
+  },
+  {
+    "step": 121,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Gerona (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 122,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Chatojoles (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 123,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Cluniense (1 Gereslees)"
+  },
+  {
+    "step": 124,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 125,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 126,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Ille"
+  },
+  {
+    "step": 127,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 128,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Titre (Coutumes lc)"
+  },
+  {
+    "step": 129,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Paris (Pul Oliva)"
+  },
+  {
+    "step": 130,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Cujus (Coutumes lc)"
+  },
+  {
+    "step": 131,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Ymnoru (Pul Oliva)"
+  },
+  {
+    "step": 132,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Iemporis (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 133,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Gu\u00edft (1 Gereslees)"
+  },
+  {
+    "step": 134,
+    "type": "stop",
+    "name": "Berg im Donaugau, Germany",
+    "coords": [
+      48.9868,
+      12.0833
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Berg\u00e0"
+  },
+  {
+    "step": 135,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 136,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Comte (Coutumes lc)"
+  },
+  {
+    "step": 137,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Capci (Pul Oliva)"
+  },
+  {
+    "step": 138,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: OpcitP (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 139,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Vabbaye (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 140,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Grass (1 Gereslees)"
+  },
+  {
+    "step": 141,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Ripoll"
+  },
+  {
+    "step": 142,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Tarchev\u00each\u00e9 (Coutumes lc)"
+  },
+  {
+    "step": 143,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Guisl (Pul Oliva)"
+  },
+  {
+    "step": 144,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Martin-du-Canigo (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 145,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Terrass (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 146,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Munt (1 Gereslees)"
+  },
+  {
+    "step": 147,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Fleur"
+  },
+  {
+    "step": 148,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Reims"
+  },
+  {
+    "step": 149,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Soissons"
+  },
+  {
+    "step": 150,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Reims"
+  },
+  {
+    "step": 151,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Anger"
+  },
+  {
+    "step": 152,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Metz"
+  },
+  {
+    "step": 153,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Angers"
+  },
+  {
+    "step": 154,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Poccasion"
+  },
+  {
+    "step": 155,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORTS (Coutumes lc)"
+  },
+  {
+    "step": 156,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Jongnos (Pul Oliva)"
+  },
+  {
+    "step": 157,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Urbl (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 158,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Archivio (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 159,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Stat (1 Gereslees)"
+  },
+  {
+    "step": 160,
+    "type": "stop",
+    "name": "Brioude Abbey, France",
+    "coords": [
+      45.2933,
+      3.3847
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Brioude"
+  },
+  {
+    "step": 161,
+    "type": "stop",
+    "name": "Li\u00e8ge, Belgium",
+    "coords": [
+      50.633,
+      5.567
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Li\u00e8ge"
+  },
+  {
+    "step": 162,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Bperme (Coutumes lc)"
+  },
+  {
+    "step": 163,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Servaas (Pul Oliva)"
+  },
+  {
+    "step": 164,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: ECCLESI (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 165,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: VENERI (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 166,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Kanigoni (1 Gereslees)"
+  },
+  {
+    "step": 167,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 168,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 169,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Domini (Pul Oliva)"
+  },
+  {
+    "step": 170,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Languardu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 171,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Isarnu (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 172,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Signulius (1 Gereslees)"
+  },
+  {
+    "step": 173,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Ille"
+  },
+  {
+    "step": 174,
+    "type": "stop",
+    "name": "Oberaltaich Abbey, Germany",
+    "coords": [
+      48.9132,
+      12.6775
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Bera"
+  },
+  {
+    "step": 175,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Ripoll"
+  },
+  {
+    "step": 176,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Goltredu (Coutumes lc)"
+  },
+  {
+    "step": 177,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Wilelmu (Pul Oliva)"
+  },
+  {
+    "step": 178,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Aliquoru (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 179,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Radurphu (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 180,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Olib (1 Gereslees)"
+  },
+  {
+    "step": 181,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 182,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: ROULEAUX (Coutumes lc)"
+  },
+  {
+    "step": 183,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Guifred (Pul Oliva)"
+  },
+  {
+    "step": 184,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Arulensi (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 185,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Abba (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 186,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Gaucbertu (1 Gereslees)"
+  },
+  {
+    "step": 187,
+    "type": "stop",
+    "name": "Rebais Abbey, France",
+    "coords": [
+      48.8471,
+      3.2323
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Rebais"
+  },
+  {
+    "step": 188,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 189,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: ROULEAUX (Coutumes lc)"
+  },
+  {
+    "step": 190,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Datera (Pul Oliva)"
+  },
+  {
+    "step": 191,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Barnardus (Coutumes lc)"
+  },
+  {
+    "step": 192,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Benedictu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 193,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Valet (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 194,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Deus (1 Gereslees)"
+  },
+  {
+    "step": 195,
+    "type": "stop",
+    "name": "Besan\u00e7on, France",
+    "coords": [
+      47.2378,
+      6.0241
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Senti"
+  },
+  {
+    "step": 196,
+    "type": "stop",
+    "name": "Flanders",
+    "coords": [
+      51.05,
+      3.7333
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Andre"
+  },
+  {
+    "step": 197,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 198,
+    "type": "stop",
+    "name": "Rebais Abbey, France",
+    "coords": [
+      48.8471,
+      3.2323
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Rebais"
+  },
+  {
+    "step": 199,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 200,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Petimu (Coutumes lc)"
+  },
+  {
+    "step": 201,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Ingenlboldu (Pul Oliva)"
+  },
+  {
+    "step": 202,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Trasodrius (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 203,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Bedelfu (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 204,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Manoguisi (1 Gereslees)"
+  },
+  {
+    "step": 205,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 206,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Expression"
+  },
+  {
+    "step": 207,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: ROULEAUX (Coutumes lc)"
+  },
+  {
+    "step": 208,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Laurentius (Pul Oliva)"
+  },
+  {
+    "step": 209,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Quirz (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 210,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Wannalgaudus (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 211,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Domi- (1 Gereslees)"
+  },
+  {
+    "step": 212,
+    "type": "stop",
+    "name": "Provence, France",
+    "coords": [
+      43.9352,
+      6.0679
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Prov"
+  },
+  {
+    "step": 213,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Expression"
+  },
+  {
+    "step": 214,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Domin (Coutumes lc)"
+  },
+  {
+    "step": 215,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Nomina (Pul Oliva)"
+  },
+  {
+    "step": 216,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Expressio (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 217,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Allusion (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 218,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Matt (1 Gereslees)"
+  },
+  {
+    "step": 219,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Galliacensis"
+  },
+  {
+    "step": 220,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Poitiers"
+  },
+  {
+    "step": 221,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Carmin (Coutumes lc)"
+  },
+  {
+    "step": 222,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Estev (Pul Oliva)"
+  },
+  {
+    "step": 223,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Sacerdote (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 224,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Domin (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 225,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Nouaill (1 Gereslees)"
+  },
+  {
+    "step": 226,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Benedict (Coutumes lc)"
+  },
+  {
+    "step": 227,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Glorifican (Pul Oliva)"
+  },
+  {
+    "step": 228,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Teudgario (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 229,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Raimund (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 230,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Nectari (1 Gereslees)"
+  },
+  {
+    "step": 231,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Feria (Coutumes lc)"
+  },
+  {
+    "step": 232,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Consor (Pul Oliva)"
+  },
+  {
+    "step": 233,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Cunct (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 234,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Conci (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 235,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Benedict (1 Gereslees)"
+  },
+  {
+    "step": 236,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Popliibus (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 237,
+    "type": "stop",
+    "name": "Scharnitz Abbey, Austria",
+    "coords": [
+      47.3889,
+      11.2642
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Char"
+  },
+  {
+    "step": 238,
+    "type": "stop",
+    "name": "Laon, France",
+    "coords": [
+      49.5642,
+      3.6199
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Cullaonn"
+  },
+  {
+    "step": 239,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Clun"
+  },
+  {
+    "step": 240,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Bernardu (Pul Oliva)"
+  },
+  {
+    "step": 241,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Odolrieu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 242,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Casfredes (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 243,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Fotru (1 Gereslees)"
+  },
+  {
+    "step": 244,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Kaudl (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 245,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 246,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 247,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Aymericus (Pul Oliva)"
+  },
+  {
+    "step": 248,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Benedictu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 249,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Mabo (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 250,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Besal (1 Gereslees)"
+  },
+  {
+    "step": 251,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Marinus (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 252,
+    "type": "stop",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Clangentis"
+  },
+  {
+    "step": 253,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Guisdenis"
+  },
+  {
+    "step": 254,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORTS (Coutumes lc)"
+  },
+  {
+    "step": 255,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Ysarnu (Pul Oliva)"
+  },
+  {
+    "step": 256,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Credimus (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 257,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Liban (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 258,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Stoli (1 Gereslees)"
+  },
+  {
+    "step": 259,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Guisdeni (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 260,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Christ (Coutumes lc)"
+  },
+  {
+    "step": 261,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Quod (Pul Oliva)"
+  },
+  {
+    "step": 262,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Hamo (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 263,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Alhricu (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 264,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Vall (1 Gereslees)"
+  },
+  {
+    "step": 265,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Frrolndu (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 266,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Ille"
+  },
+  {
+    "step": 267,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORTS (Coutumes lc)"
+  },
+  {
+    "step": 268,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Obitu (Pul Oliva)"
+  },
+  {
+    "step": 269,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Sanct (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 270,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Sanct (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 271,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Laurenti (1 Gereslees)"
+  },
+  {
+    "step": 272,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Perlectis (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 273,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Poitiers"
+  },
+  {
+    "step": 274,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Tav\u00e8rnole (Coutumes lc)"
+  },
+  {
+    "step": 275,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Orgellitanensi (Pul Oliva)"
+  },
+  {
+    "step": 276,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Ciprian (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 277,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Offitium (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 278,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Ingclhert (1 Gereslees)"
+  },
+  {
+    "step": 279,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Mefl (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 280,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Poitiers"
+  },
+  {
+    "step": 281,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Metz"
+  },
+  {
+    "step": 282,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 283,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Metz"
+  },
+  {
+    "step": 284,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 285,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Poitier (Pul Oliva)"
+  },
+  {
+    "step": 286,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Metensi (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 287,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Fratr (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 288,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Vuidfred (1 Gereslees)"
+  },
+  {
+    "step": 289,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Tartareus (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 290,
+    "type": "stop",
+    "name": "Orl\u00e9ans, France",
+    "coords": [
+      47.903,
+      1.909
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Orl\u00e9ans"
+  },
+  {
+    "step": 291,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Constantinu (Coutumes lc)"
+  },
+  {
+    "step": 292,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Berna (Pul Oliva)"
+  },
+  {
+    "step": 293,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Vestr (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 294,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Mulu (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 295,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Constablus (1 Gereslees)"
+  },
+  {
+    "step": 296,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Orl\u00e9an (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 297,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Sd-Poitiers"
+  },
+  {
+    "step": 298,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 299,
+    "type": "stop",
+    "name": "Saint-Maurice Abbey, Switzerland",
+    "coords": [
+      46.2163,
+      7.0033
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Mauricium"
+  },
+  {
+    "step": 300,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 301,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Sd-Poitier (Pul Oliva)"
+  },
+  {
+    "step": 302,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Mauriciu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 303,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Fecimu (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 304,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Nemp (1 Gereslees)"
+  },
+  {
+    "step": 305,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Opecii (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 306,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Metz"
+  },
+  {
+    "step": 307,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 308,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Summ (Coutumes lc)"
+  },
+  {
+    "step": 309,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Equa (Pul Oliva)"
+  },
+  {
+    "step": 310,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Blidu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 311,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Wido (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 312,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Raynardus (1 Gereslees)"
+  },
+  {
+    "step": 313,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Hildemannu (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 314,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Poitiers"
+  },
+  {
+    "step": 315,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 316,
+    "type": "stop",
+    "name": "Saint-Maurice Abbey, Switzerland",
+    "coords": [
+      46.2163,
+      7.0033
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Mauricium"
+  },
+  {
+    "step": 317,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Poitier (Coutumes lc)"
+  },
+  {
+    "step": 318,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Cursus (Pul Oliva)"
+  },
+  {
+    "step": 319,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Turonens (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 320,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Nemp (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 321,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Effuder (1 Gereslees)"
+  },
+  {
+    "step": 322,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Turonis (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 323,
+    "type": "stop",
+    "name": "Bec Abbey, France",
+    "coords": [
+      49.2294,
+      0.7208
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: BentaldalbeCodersinobertus"
+  },
+  {
+    "step": 324,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Summ (Coutumes lc)"
+  },
+  {
+    "step": 325,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Omni (Pul Oliva)"
+  },
+  {
+    "step": 326,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Constantinus (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 327,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: PBliqui (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 328,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Hlildemnannu (1 Gereslees)"
+  },
+  {
+    "step": 329,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Lanzelinu (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 330,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Berengariu (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 331,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Tourss"
+  },
+  {
+    "step": 332,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Toul"
+  },
+  {
+    "step": 333,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 334,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Tourss (Pul Oliva)"
+  },
+  {
+    "step": 335,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Iice (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 336,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Isuperis (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 337,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Dominu (1 Gereslees)"
+  },
+  {
+    "step": 338,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Erleverdu (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 339,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Everardu (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 340,
+    "type": "stop",
+    "name": "Metten Abbey, Germany",
+    "coords": [
+      48.8576,
+      12.9133
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Mettensis"
+  },
+  {
+    "step": 341,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Toul"
+  },
+  {
+    "step": 342,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Erlaudu (Coutumes lc)"
+  },
+  {
+    "step": 343,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Warneru (Pul Oliva)"
+  },
+  {
+    "step": 344,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Lancelinus (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 345,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Johanne (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 346,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Humbertu (1 Gereslees)"
+  },
+  {
+    "step": 347,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Ansteu (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 348,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: BerengerHlseienrien (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 349,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORTS (Coutumes lc)"
+  },
+  {
+    "step": 350,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Rotbertus (Pul Oliva)"
+  },
+  {
+    "step": 351,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Malgisu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 352,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Franc (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 353,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Haroardu (1 Gereslees)"
+  },
+  {
+    "step": 354,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Rainoaldu (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 355,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Badinu (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 356,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Sd-Marmoutie (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 357,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 358,
+    "type": "stop",
+    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "coords": [
+      48.8542,
+      2.3332
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Germain"
+  },
+  {
+    "step": 359,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Parisiorum"
+  },
+  {
+    "step": 360,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Toul"
+  },
+  {
+    "step": 361,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 362,
+    "type": "stop",
+    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "coords": [
+      48.8542,
+      2.3332
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Germain-des-"
+  },
+  {
+    "step": 363,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Pari (Coutumes lc)"
+  },
+  {
+    "step": 364,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Mortali (Pul Oliva)"
+  },
+  {
+    "step": 365,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Obdevaldu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 366,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Albericus (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 367,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Turoldu (1 Gereslees)"
+  },
+  {
+    "step": 368,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Hubertuss (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 369,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Mesmin (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 370,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Miciac (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 371,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 372,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": false,
+    "description": "Found in text: Toul"
+  },
+  {
+    "step": 373,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 374,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": false,
+    "description": "Found in text: Saint"
+  },
+  {
+    "step": 375,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 376,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": false,
+    "description": "Found in text: Toul"
+  },
+  {
+    "step": 377,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 378,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": false,
+    "description": "Found in text: Toul"
+  },
+  {
+    "step": 379,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 380,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": false,
+    "description": "Found in text: Saint"
+  },
+  {
+    "step": 381,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 382,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 383,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 384,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": true,
+    "description": "Visited: Fratru (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 385,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": false,
+    "description": "Visited: Harduinus (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 386,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": false,
+    "description": "Visited: Galbertus (1 Gereslees)"
+  },
+  {
+    "step": 387,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": false,
+    "description": "Visited: Christ (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 388,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": false,
+    "description": "Visited: Contio (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 389,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 1016,
+    "date_str": "1016, novembre 1047, juin",
+    "is_approximate": false,
+    "description": "Visited: Genovefa (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 390,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 391,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Christu (Coutumes lc)"
+  },
+  {
+    "step": 392,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Witfredu (Pul Oliva)"
+  },
+  {
+    "step": 393,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Durandus (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 394,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Manasse (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 395,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Faronk (1 Gereslees)"
+  },
+  {
+    "step": 396,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Abolieu (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 397,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Pate (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 398,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Soissons"
+  },
+  {
+    "step": 399,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 400,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 401,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 402,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: ROULEAUX (Coutumes lc)"
+  },
+  {
+    "step": 403,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Proficuu (Pul Oliva)"
+  },
+  {
+    "step": 404,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Barcinolenses (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 405,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Morite (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 406,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Munere (1 Gereslees)"
+  },
+  {
+    "step": 407,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Wibaldu (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 408,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Christ (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 409,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: C\u00e9lin (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 410,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Soissonss"
+  },
+  {
+    "step": 411,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Suessionensis"
+  },
+  {
+    "step": 412,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Oramu (Coutumes lc)"
+  },
+  {
+    "step": 413,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Abba (Pul Oliva)"
+  },
+  {
+    "step": 414,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Fulchoni (Coutumes lc)"
+  },
+  {
+    "step": 415,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Suessionensis (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 416,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Maria (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 417,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Christum (1 Gereslees)"
+  },
+  {
+    "step": 418,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Beringildi (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 419,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Fagr (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 420,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Hlntdsbucgihnld-bsgi (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 421,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Soissons"
+  },
+  {
+    "step": 422,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Reims"
+  },
+  {
+    "step": 423,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 424,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Cr\u00e9pinie (Pul Oliva)"
+  },
+  {
+    "step": 425,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Albricu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 426,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Guifred (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 427,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Pollen (1 Gereslees)"
+  },
+  {
+    "step": 428,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Gertrud (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 429,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Ledvid (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 430,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Adelid (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 431,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Rothild (abbesses ' christiana [ deS Pierre-le-Haut de Reims _)"
+  },
+  {
+    "step": 432,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Cluny"
+  },
+  {
+    "step": 433,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Reims"
+  },
+  {
+    "step": 434,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Clun (Coutumes lc)"
+  },
+  {
+    "step": 435,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Fratribus (Pul Oliva)"
+  },
+  {
+    "step": 436,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Remigii (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 437,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Tetbold (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 438,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Qual\u00ed (1 Gereslees)"
+  },
+  {
+    "step": 439,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Remu (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 440,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Veltofuu (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 441,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Gall\u00ed (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 442,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Rcim (abbesses ' christiana [ deS Pierre-le-Haut de Reims _)"
+  },
+  {
+    "step": 443,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Fossensis"
+  },
+  {
+    "step": 444,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 445,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Nomin (Pul Oliva)"
+  },
+  {
+    "step": 446,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Jugendu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 447,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Kanigon (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 448,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Namucensis (1 Gereslees)"
+  },
+  {
+    "step": 449,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Ben- (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 450,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Gerold (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 451,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Pierre-de-la-Tou (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 452,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Aniciensi (abbesses ' christiana [ deS Pierre-le-Haut de Reims _)"
+  },
+  {
+    "step": 453,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Servu (Coutumes lc)"
+  },
+  {
+    "step": 454,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Duxit (Pul Oliva)"
+  },
+  {
+    "step": 455,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Rotfredu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 456,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Petru (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 457,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Roeoentras (1 Gereslees)"
+  },
+  {
+    "step": 458,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Monastie (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 459,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Gazeill (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 460,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Calmiliacens (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 461,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Eximiu (abbesses ' christiana [ deS Pierre-le-Haut de Reims _)"
+  },
+  {
+    "step": 462,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Soissons"
+  },
+  {
+    "step": 463,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 464,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Recto (Pul Oliva)"
+  },
+  {
+    "step": 465,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: M\u00e9dar (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 466,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Versu (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 467,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Wifred (1 Gereslees)"
+  },
+  {
+    "step": 468,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Helisii (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 469,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Stole (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 470,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Soissons"
+  },
+  {
+    "step": 471,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Ambiend (Coutumes lc)"
+  },
+  {
+    "step": 472,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Domin (Pul Oliva)"
+  },
+  {
+    "step": 473,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Constantiu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 474,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Cplaazosa (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 475,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Eutrar- (1 Gereslees)"
+  },
+  {
+    "step": 476,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Raenoldus (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 477,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Maynardu (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 478,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Raymaru (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 479,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Hildurnu (abbesses ' christiana [ deS Pierre-le-Haut de Reims _)"
+  },
+  {
+    "step": 480,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Bovo (Wilelmus II)"
+  },
+  {
+    "step": 481,
+    "type": "stop",
+    "name": "Gland\u00e8ve",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Eycembaldu (abb\u00e9 de Gland\u00e8ve)"
+  },
+  {
+    "step": 482,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Tr\u00e9sors (Coutumes lc)"
+  },
+  {
+    "step": 483,
+    "type": "stop",
+    "name": "C\u00eeteaux Abbey, France",
+    "coords": [
+      47.1294,
+      5.0889
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: EAUX"
+  },
+  {
+    "step": 484,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORTS (Coutumes lc)"
+  },
+  {
+    "step": 485,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Guifred (Pul Oliva)"
+  },
+  {
+    "step": 486,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Bernardu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 487,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Kanigon (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 488,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Latiniacensi (1 Gereslees)"
+  },
+  {
+    "step": 489,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Henric (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 490,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Metz"
+  },
+  {
+    "step": 491,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Urbai (Coutumes lc)"
+  },
+  {
+    "step": 492,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Finibus (Pul Oliva)"
+  },
+  {
+    "step": 493,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Oddon (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 494,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Willem (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 495,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Alcuino (1 Gereslees)"
+  },
+  {
+    "step": 496,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Sans (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 497,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Arnoul (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 498,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Klosterrefor- (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 499,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Warinu (abbesses ' christiana [ deS Pierre-le-Haut de Reims _)"
+  },
+  {
+    "step": 500,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Abb\u00e9 (Wilelmus II)"
+  },
+  {
+    "step": 501,
+    "type": "stop",
+    "name": "Gland\u00e8ve",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Buls (abb\u00e9 de Gland\u00e8ve)"
+  },
+  {
+    "step": 502,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 503,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Maastrich (Pul Oliva)"
+  },
+  {
+    "step": 504,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Sicapu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 505,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Noxia (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 506,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Sedulitat (1 Gereslees)"
+  },
+  {
+    "step": 507,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Intsensisqsueama"
+  },
+  {
+    "step": 508,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Mutavit (Coutumes lc)"
+  },
+  {
+    "step": 509,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Viser (Pul Oliva)"
+  },
+  {
+    "step": 510,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Quod (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 511,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 512,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Quer (Pul Oliva)"
+  },
+  {
+    "step": 513,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Guifredu (Coutumes lc)"
+  },
+  {
+    "step": 514,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Addamus (Pul Oliva)"
+  },
+  {
+    "step": 515,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Hugo (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 516,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Guifredu (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 517,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Cujus (1 Gereslees)"
+  },
+  {
+    "step": 518,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Allusion"
+  },
+  {
+    "step": 519,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 520,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Fraterna (Pul Oliva)"
+  },
+  {
+    "step": 521,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Subtraxit (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 522,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Proptere (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 523,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Fratre (1 Gereslees)"
+  },
+  {
+    "step": 524,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Quare (Coutumes lc)"
+  },
+  {
+    "step": 525,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Exemplar (Pul Oliva)"
+  },
+  {
+    "step": 526,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Aache (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 527,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Atqu (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 528,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Corrigez (1 Gereslees)"
+  },
+  {
+    "step": 529,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Nobi (Coutumes lc)"
+  },
+  {
+    "step": 530,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Aquens (Pul Oliva)"
+  },
+  {
+    "step": 531,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Martynus (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 532,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Mile (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 533,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Armaqu (1 Gereslees)"
+  },
+  {
+    "step": 534,
+    "type": "stop",
+    "name": "Li\u00e8ge, Belgium",
+    "coords": [
+      50.633,
+      5.567
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Li\u00e8ge"
+  },
+  {
+    "step": 535,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Allusion"
+  },
+  {
+    "step": 536,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Morte (Coutumes lc)"
+  },
+  {
+    "step": 537,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Martham (Pul Oliva)"
+  },
+  {
+    "step": 538,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Saulum (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 539,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Alter (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 540,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Christi (1 Gereslees)"
+  },
+  {
+    "step": 541,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Allusion (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 542,
+    "type": "stop",
+    "name": "Brioude Abbey, France",
+    "coords": [
+      45.2933,
+      3.3847
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Brioude"
+  },
+  {
+    "step": 543,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 544,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Legia (Pul Oliva)"
+  },
+  {
+    "step": 545,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Ordine (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 546,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Orans (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 547,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Domin (1 Gereslees)"
+  },
+  {
+    "step": 548,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 549,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Pari"
+  },
+  {
+    "step": 550,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 551,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Fleur (Coutumes lc)"
+  },
+  {
+    "step": 552,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Floriacense (Pul Oliva)"
+  },
+  {
+    "step": 553,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Helgrudu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 554,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Oggeriu (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 555,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Hiilariu (1 Gereslees)"
+  },
+  {
+    "step": 556,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Gonteriu (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 557,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Bernardu (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 558,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Landricu (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 559,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Anuk (abbesses ' christiana [ deS Pierre-le-Haut de Reims _)"
+  },
+  {
+    "step": 560,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Vid\u00ede (Wilelmus II)"
+  },
+  {
+    "step": 561,
+    "type": "stop",
+    "name": "Gland\u00e8ve",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Cahnn (abb\u00e9 de Gland\u00e8ve)"
+  },
+  {
+    "step": 562,
+    "type": "stop",
+    "name": "Brioude Abbey, France",
+    "coords": [
+      45.2933,
+      3.3847
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: GuCCeaacuc (' cit\u00e9 pour Je milieu du XI s restitution)"
+  },
+  {
+    "step": 563,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Denis"
+  },
+  {
+    "step": 564,
+    "type": "stop",
+    "name": "Li\u00e8ge, Belgium",
+    "coords": [
+      50.633,
+      5.567
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Li\u00e8ge"
+  },
+  {
+    "step": 565,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORTS (Coutumes lc)"
+  },
+  {
+    "step": 566,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Deni (Pul Oliva)"
+  },
+  {
+    "step": 567,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Vivian (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 568,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Christus (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 569,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Ambierl (1 Gereslees)"
+  },
+  {
+    "step": 570,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Fratru (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 571,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Asteriu (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 572,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Valete (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 573,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Johanne (abbesses ' christiana [ deS Pierre-le-Haut de Reims _)"
+  },
+  {
+    "step": 574,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Hunc (Wilelmus II)"
+  },
+  {
+    "step": 575,
+    "type": "stop",
+    "name": "Gland\u00e8ve",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Ultima (abb\u00e9 de Gland\u00e8ve)"
+  },
+  {
+    "step": 576,
+    "type": "stop",
+    "name": "Li\u00e8ge, Belgium",
+    "coords": [
+      50.633,
+      5.567
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Li\u00e8ge"
+  },
+  {
+    "step": 577,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 578,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Hunc (Coutumes lc)"
+  },
+  {
+    "step": 579,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Brogn (Pul Oliva)"
+  },
+  {
+    "step": 580,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 581,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Debite (Pul Oliva)"
+  },
+  {
+    "step": 582,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Quod (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 583,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Ille"
+  },
+  {
+    "step": 584,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Terra (Coutumes lc)"
+  },
+  {
+    "step": 585,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Transiit (Pul Oliva)"
+  },
+  {
+    "step": 586,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 587,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Coclestis (Pul Oliva)"
+  },
+  {
+    "step": 588,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Juctu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 589,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Ecclesie (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 590,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Nostra (1 Gereslees)"
+  },
+  {
+    "step": 591,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Wifredi (Coutumes lc)"
+  },
+  {
+    "step": 592,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Presuli (Pul Oliva)"
+  },
+  {
+    "step": 593,
+    "type": "stop",
+    "name": "Li\u00e8ge, Belgium",
+    "coords": [
+      50.633,
+      5.567
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Li\u00e8ge"
+  },
+  {
+    "step": 594,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORTS (Coutumes lc)"
+  },
+  {
+    "step": 595,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Wifridu (Pul Oliva)"
+  },
+  {
+    "step": 596,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Solvimus (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 597,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Reimund (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 598,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Godefrid (1 Gereslees)"
+  },
+  {
+    "step": 599,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Boidtin (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 600,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Li\u00e8ge (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 601,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Jacques (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 602,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: FSerie (abbesses ' christiana [ deS Pierre-le-Haut de Reims _)"
+  },
+  {
+    "step": 603,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 604,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Civibus (Coutumes lc)"
+  },
+  {
+    "step": 605,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Christ (Pul Oliva)"
+  },
+  {
+    "step": 606,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Laurent-de-Cerdan (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 607,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Christ (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 608,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Kanigonensi (1 Gereslees)"
+  },
+  {
+    "step": 609,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Wifred (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 610,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Quem (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 611,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Dominu (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 612,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Galli (abbesses ' christiana [ deS Pierre-le-Haut de Reims _)"
+  },
+  {
+    "step": 613,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORTS (Coutumes lc)"
+  },
+  {
+    "step": 614,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Valete (Pul Oliva)"
+  },
+  {
+    "step": 615,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Domino (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 616,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Omni (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 617,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Ortus (1 Gereslees)"
+  },
+  {
+    "step": 618,
+    "type": "stop",
+    "name": "Li\u00e8ge, Belgium",
+    "coords": [
+      50.633,
+      5.567
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Li\u00e8ge"
+  },
+  {
+    "step": 619,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Li\u00e8g (Coutumes lc)"
+  },
+  {
+    "step": 620,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Item (Pul Oliva)"
+  },
+  {
+    "step": 621,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Ordin (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 622,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Eheu (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 623,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Invitan (1 Gereslees)"
+  },
+  {
+    "step": 624,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 625,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Cert (Pul Oliva)"
+  },
+  {
+    "step": 626,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Laetemu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 627,
+    "type": "stop",
+    "name": "Li\u00e8ge, Belgium",
+    "coords": [
+      50.633,
+      5.567
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Sd-Li\u00e8ge"
+  },
+  {
+    "step": 628,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Prudenter (Coutumes lc)"
+  },
+  {
+    "step": 629,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Orpheus (Pul Oliva)"
+  },
+  {
+    "step": 630,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Leodicensi (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 631,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Kanigon (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 632,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Ille"
+  },
+  {
+    "step": 633,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 634,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Auxil (Pul Oliva)"
+  },
+  {
+    "step": 635,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Conti (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 636,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Jtem (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 637,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Ochilitc (1 Gereslees)"
+  },
+  {
+    "step": 638,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Otia (Coutumes lc)"
+  },
+  {
+    "step": 639,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Leodicense (Pul Oliva)"
+  },
+  {
+    "step": 640,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Compatimu (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 641,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Terger (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 642,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Domin (1 Gereslees)"
+  },
+  {
+    "step": 643,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Walt (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 644,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Domnin (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 645,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Canent (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 646,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Weialis (abbesses ' christiana [ deS Pierre-le-Haut de Reims _)"
+  },
+  {
+    "step": 647,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Ille"
+  },
+  {
+    "step": 648,
+    "type": "stop",
+    "name": "Li\u00e8ge, Belgium",
+    "coords": [
+      50.633,
+      5.567
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Li\u00e8ge"
+  },
+  {
+    "step": 649,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Denis"
+  },
+  {
+    "step": 650,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORTS (Coutumes lc)"
+  },
+  {
+    "step": 651,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Dominu (Pul Oliva)"
+  },
+  {
+    "step": 652,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Willelm (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 653,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Maineri (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 654,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Walon (1 Gereslees)"
+  },
+  {
+    "step": 655,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: FRATRE (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 656,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: SOLAMIN (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 657,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Deficere (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 658,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Quod (abbesses ' christiana [ deS Pierre-le-Haut de Reims _)"
+  },
+  {
+    "step": 659,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Guifredu (Coutumes lc)"
+  },
+  {
+    "step": 660,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Possidet (Pul Oliva)"
+  },
+  {
+    "step": 661,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Inece (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 662,
+    "type": "stop",
+    "name": "Abbey of Hautvillers, France",
+    "coords": [
+      49.0817,
+      3.9383
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Found in text: Ville"
+  },
+  {
+    "step": 663,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: MORT (Coutumes lc)"
+  },
+  {
+    "step": 664,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Geraldu (Pul Oliva)"
+  },
+  {
+    "step": 665,
+    "type": "stop",
+    "name": "dAlbi",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Maja (del Munt sobre Terrassa)"
+  },
+  {
+    "step": 666,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Majan (Callia Juagiu P de christiana)"
+  },
+  {
+    "step": 667,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Titan (1 Gereslees)"
+  },
+  {
+    "step": 668,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Richeri (abb\u00e9 de S. 988)"
+  },
+  {
+    "step": 669,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Poncion (6u Abb\u00e9 de $. Martin-dav ant)"
+  },
+  {
+    "step": 670,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Guigrad (AiluIPICIC UCs quuCs UC % PpvIc de Toul donn\u00e9e par le Gallia christiana)"
+  },
+  {
+    "step": 671,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Wigon (abbesses ' christiana [ deS Pierre-le-Haut de Reims _)"
+  },
+  {
+    "step": 672,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Sijerio (Wilelmus II)"
+  },
+  {
+    "step": 673,
+    "type": "stop",
+    "name": "Gland\u00e8ve",
+    "coords": null,
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": true,
+    "description": "Visited: Ebrard (abb\u00e9 de Gland\u00e8ve)"
+  },
+  {
+    "step": 674,
+    "type": "stop",
+    "name": "Brioude Abbey, France",
+    "coords": [
+      45.2933,
+      3.3847
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Stefan (' cit\u00e9 pour Je milieu du XI s restitution)"
+  },
+  {
+    "step": 675,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Patrato ([\")"
+  },
+  {
+    "step": 676,
+    "type": "stop",
+    "name": "Li\u00e8ge, Belgium",
+    "coords": [
+      50.633,
+      5.567
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Virginei (Wazo)"
+  },
+  {
+    "step": 677,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 971,
+    "date_str": "971 [?]-1046",
+    "is_approximate": false,
+    "description": "Visited: Guilhem-l (Il s ag\u0131 sans doule Qu Coie 09 teur de cette abbaye en 936. Abb\u00e9 de 1025 \u00e0 janvier 1052)"
+  }
+]

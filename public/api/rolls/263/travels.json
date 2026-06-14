@@ -1,0 +1,28 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Dingolfing, Germany",
+    "coords": [
+      48.6293,
+      12.4984
+    ],
+    "year": 972,
+    "date_str": "S.d. [vers 972]",
+    "is_approximate": false,
+    "description": "Origin: Premi\u00e8re variante de la formule de bref mortuaire ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 972,
+    "date_str": "S.d. [vers 972]",
+    "is_approximate": false,
+    "description": "Visited: Gratia (Perse)"
+  }
+]

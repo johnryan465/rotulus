@@ -1,0 +1,3444 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Origin: Encyclique anonyme. A. Original perdu. B. \u00c9pinal, ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Luxeuil Abbey, France",
+    "coords": [
+      47.8178,
+      6.3117
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Luxeuil"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Visited: Psse (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Vatican City",
+    "coords": [
+      41.9022,
+      12.4539
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Vaticano"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Brittany, France",
+    "coords": [
+      48.202,
+      -2.9326
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": true,
+    "description": "Found in text: Bretagne"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "France (General)",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": true,
+    "description": "Found in text: France"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Texpression"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Visited: Precamu (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Metz"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Vatican City",
+    "coords": [
+      41.9022,
+      12.4539
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Vaticano"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Metz"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Visited: DostrI (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "Metten Abbey, Germany",
+    "coords": [
+      48.8576,
+      12.9133
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Mettensis"
+  },
+  {
+    "step": 15,
+    "type": "stop",
+    "name": "Berg im Donaugau, Germany",
+    "coords": [
+      48.9868,
+      12.0833
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Eremberga"
+  },
+  {
+    "step": 16,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Limoges"
+  },
+  {
+    "step": 17,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 18,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Limoges"
+  },
+  {
+    "step": 19,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 20,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 21,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Visited: Rilindi (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 22,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Visited: Albegundi (Gallia christiana)"
+  },
+  {
+    "step": 23,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 24,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Ille"
+  },
+  {
+    "step": 25,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 26,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Limoges"
+  },
+  {
+    "step": 27,
+    "type": "stop",
+    "name": "Clermont-Ferrand, France",
+    "coords": [
+      45.7772,
+      3.087
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Clermont-Ferrand"
+  },
+  {
+    "step": 28,
+    "type": "stop",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Limoges"
+  },
+  {
+    "step": 29,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 30,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 31,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Visited: Christ (Gallia christiana)"
+  },
+  {
+    "step": 32,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Visited: Pastor (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 33,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Visited: Conspectu (Gallia christiana)"
+  },
+  {
+    "step": 34,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 35,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 36,
+    "type": "stop",
+    "name": "Vatican City",
+    "coords": [
+      41.9022,
+      12.4539
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Vaticano"
+  },
+  {
+    "step": 37,
+    "type": "stop",
+    "name": "Orl\u00e9ans, France",
+    "coords": [
+      47.903,
+      1.909
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Orl\u00e9ans"
+  },
+  {
+    "step": 38,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 39,
+    "type": "stop",
+    "name": "Orl\u00e9ans, France",
+    "coords": [
+      47.903,
+      1.909
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Orl\u00e9ans"
+  },
+  {
+    "step": 40,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Fleury-sur-Loire"
+  },
+  {
+    "step": 41,
+    "type": "stop",
+    "name": "Vatican City",
+    "coords": [
+      41.9022,
+      12.4539
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Vatican"
+  },
+  {
+    "step": 42,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Fleury-sur-Loire"
+  },
+  {
+    "step": 43,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 44,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 45,
+    "type": "stop",
+    "name": "France (General)",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": true,
+    "description": "Found in text: France"
+  },
+  {
+    "step": 46,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 47,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 48,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Visited: Orl\u00e9an (Gallia christiana)"
+  },
+  {
+    "step": 49,
+    "type": "stop",
+    "name": "Orl\u00e9ans, France",
+    "coords": [
+      47.903,
+      1.909
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Orl\u00e9ans"
+  },
+  {
+    "step": 50,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 51,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 52,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 53,
+    "type": "stop",
+    "name": "Rome, Italy",
+    "coords": [
+      41.9028,
+      12.4964
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Rome"
+  },
+  {
+    "step": 54,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Reims"
+  },
+  {
+    "step": 55,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 56,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Passion"
+  },
+  {
+    "step": 57,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Nomm (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 58,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Angleterr (Gallia christiana)"
+  },
+  {
+    "step": 59,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Canterbur (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 60,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Fleury (Fleury)"
+  },
+  {
+    "step": 61,
+    "type": "stop",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Denis"
+  },
+  {
+    "step": 62,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Reims"
+  },
+  {
+    "step": 63,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.891
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Toul"
+  },
+  {
+    "step": 64,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 65,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Reims"
+  },
+  {
+    "step": 66,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Passion"
+  },
+  {
+    "step": 67,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Denis (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 68,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Bcaulicu-sur-Dordogn (Gallia christiana)"
+  },
+  {
+    "step": 69,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Tour (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 70,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Universi (Fleury)"
+  },
+  {
+    "step": 71,
+    "type": "stop",
+    "name": "France (General)",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Found in text: France"
+  },
+  {
+    "step": 72,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Reims"
+  },
+  {
+    "step": 73,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 74,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Reims"
+  },
+  {
+    "step": 75,
+    "type": "stop",
+    "name": "France (General)",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Found in text: Fran"
+  },
+  {
+    "step": 76,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Histoire (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 77,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Dufou (Gallia christiana)"
+  },
+  {
+    "step": 78,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Reim (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 79,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Pari (Fleury)"
+  },
+  {
+    "step": 80,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Iuund (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 81,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Sire (Gallia christiana)"
+  },
+  {
+    "step": 82,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Lice (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 83,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Laeviatha (Fleury)"
+  },
+  {
+    "step": 84,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Intervalla (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 85,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Gregoriu (Gallia christiana)"
+  },
+  {
+    "step": 86,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Vidimu (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 87,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 88,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 89,
+    "type": "stop",
+    "name": "France (General)",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Found in text: France"
+  },
+  {
+    "step": 90,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 91,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Arbod (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 92,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Deniqu (Gallia christiana)"
+  },
+  {
+    "step": 93,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Tire (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 94,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Tours (Fleury)"
+  },
+  {
+    "step": 95,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Marmou- (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 96,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 97,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 98,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Maillezai (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 99,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Fleur (Gallia christiana)"
+  },
+  {
+    "step": 100,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Praesu (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 101,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Praesu (Fleury)"
+  },
+  {
+    "step": 102,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Scilice (de Tours %)"
+  },
+  {
+    "step": 103,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Metz"
+  },
+  {
+    "step": 104,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 105,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Maltoranr (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 106,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Cerardi (Gallia christiana)"
+  },
+  {
+    "step": 107,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Sustuli (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 108,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Ante (Fleury)"
+  },
+  {
+    "step": 109,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Marmoutie (de Tours %)"
+  },
+  {
+    "step": 110,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 111,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 112,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Bourgueil (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 113,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Marmoutie (Gallia christiana)"
+  },
+  {
+    "step": 114,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Accessi (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 115,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Zesonis (Fleury)"
+  },
+  {
+    "step": 116,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Edocet (de Tours %)"
+  },
+  {
+    "step": 117,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Ripoll"
+  },
+  {
+    "step": 118,
+    "type": "stop",
+    "name": "Montierneuf Abbey, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Neuf"
+  },
+  {
+    "step": 119,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Vivati (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 120,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Calcibu (Gallia christiana)"
+  },
+  {
+    "step": 121,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Ripoll (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 122,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Longueur (Fleury)"
+  },
+  {
+    "step": 123,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Moine (de Tours %)"
+  },
+  {
+    "step": 124,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Ripoll"
+  },
+  {
+    "step": 125,
+    "type": "stop",
+    "name": "Toulouse, France",
+    "coords": [
+      43.6047,
+      1.4442
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Toulouse"
+  },
+  {
+    "step": 126,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Ripoll"
+  },
+  {
+    "step": 127,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Ripol (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 128,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Arxi (Gallia christiana)"
+  },
+  {
+    "step": 129,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Lencycliqu (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 130,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Eccl (Fleury)"
+  },
+  {
+    "step": 131,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Willadu (de Tours %)"
+  },
+  {
+    "step": 132,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Galic (la tradition manuscrite des docu- ments de 251 . Ripoll)"
+  },
+  {
+    "step": 133,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Paunat (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 134,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Amant-dc-Boixc (Gallia christiana)"
+  },
+  {
+    "step": 135,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Fulgenc (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 136,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Paunat (Fleury)"
+  },
+  {
+    "step": 137,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Felicien (de Tours %)"
+  },
+  {
+    "step": 138,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Audard (la tradition manuscrite des docu- ments de 251 . Ripoll)"
+  },
+  {
+    "step": 139,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Visited: Igitu (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 140,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 950,
+    "date_str": "S.d. [X' s]",
+    "is_approximate": false,
+    "description": "Visited: Apostol (Gallia christiana)"
+  },
+  {
+    "step": 141,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Accedit (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 142,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Accedit (Gallia christiana)"
+  },
+  {
+    "step": 143,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Domin (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 144,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Singfredus (Fleury)"
+  },
+  {
+    "step": 145,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Adjicimu (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 146,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Creator (Gallia christiana)"
+  },
+  {
+    "step": 147,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Christum (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 148,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Salomo (Fleury)"
+  },
+  {
+    "step": 149,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Yiver (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 150,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Creatori (Gallia christiana)"
+  },
+  {
+    "step": 151,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Wisad (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 152,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Columb (Fleury)"
+  },
+  {
+    "step": 153,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Monasteri (de Tours %)"
+  },
+  {
+    "step": 154,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Rosello (la tradition manuscrite des docu- ments de 251 . Ripoll)"
+  },
+  {
+    "step": 155,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Siccar (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 156,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Sor\u00e8z (Gallia christiana)"
+  },
+  {
+    "step": 157,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Mari (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 158,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Monasteri (Fleury)"
+  },
+  {
+    "step": 159,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Benedict (de Tours %)"
+  },
+  {
+    "step": 160,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Vincenci (la tradition manuscrite des docu- ments de 251 . Ripoll)"
+  },
+  {
+    "step": 161,
+    "type": "stop",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Fulgentius"
+  },
+  {
+    "step": 162,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 163,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Conque (Gallia christiana)"
+  },
+  {
+    "step": 164,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Pierr (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 165,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Pedr (Fleury)"
+  },
+  {
+    "step": 166,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Coler (de Tours %)"
+  },
+  {
+    "step": 167,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Ciric (la tradition manuscrite des docu- ments de 251 . Ripoll)"
+  },
+  {
+    "step": 168,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Adalbert (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 169,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Sesmund (Gallia christiana)"
+  },
+  {
+    "step": 170,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Aliorpro (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 171,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Vigea (Fleury)"
+  },
+  {
+    "step": 172,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Dors (de Tours %)"
+  },
+  {
+    "step": 173,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Mari (la tradition manuscrite des docu- ments de 251 . Ripoll)"
+  },
+  {
+    "step": 174,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Carcassense"
+  },
+  {
+    "step": 175,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Pierr (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 176,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Amantkra (Gallia christiana)"
+  },
+  {
+    "step": 177,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Cybar (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 178,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Eparqui (Fleury)"
+  },
+  {
+    "step": 179,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Hilair (de Tours %)"
+  },
+  {
+    "step": 180,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Carcassens (la tradition manuscrite des docu- ments de 251 . Ripoll)"
+  },
+  {
+    "step": 181,
+    "type": "stop",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Fassionis"
+  },
+  {
+    "step": 182,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Andre (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 183,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Tr\u00e9mola (Gallia christiana)"
+  },
+  {
+    "step": 184,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Gervai (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 185,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Exins (Fleury)"
+  },
+  {
+    "step": 186,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Pablo (de Tours %)"
+  },
+  {
+    "step": 187,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Cornelius (la tradition manuscrite des docu- ments de 251 . Ripoll)"
+  },
+  {
+    "step": 188,
+    "type": "stop",
+    "name": "Toulouse, France",
+    "coords": [
+      43.6047,
+      1.4442
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Toulouse"
+  },
+  {
+    "step": 189,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Roda (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 190,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Agatharxius (Gallia christiana)"
+  },
+  {
+    "step": 191,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Rose (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 192,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Maria (Fleury)"
+  },
+  {
+    "step": 193,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Raimundus (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 194,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Gaudi (de Tours %)"
+  },
+  {
+    "step": 195,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Pedro (la tradition manuscrite des docu- ments de 251 . Ripoll)"
+  },
+  {
+    "step": 196,
+    "type": "stop",
+    "name": "Toulouse, France",
+    "coords": [
+      43.6047,
+      1.4442
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Prbablement (CSl connu que Par CC Iouicau Dunudi Gor J Villanueva)"
+  },
+  {
+    "step": 197,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Ille"
+  },
+  {
+    "step": 198,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 199,
+    "type": "stop",
+    "name": "Orl\u00e9ans, France",
+    "coords": [
+      47.903,
+      1.909
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Orl\u00e9ans"
+  },
+  {
+    "step": 200,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 201,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 202,
+    "type": "stop",
+    "name": "Montecassino Abbey, Italy",
+    "coords": [
+      41.4901,
+      13.8143
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Mont"
+  },
+  {
+    "step": 203,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 204,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.197,
+      3.284
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Sens"
+  },
+  {
+    "step": 205,
+    "type": "stop",
+    "name": "France (General)",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Found in text: France"
+  },
+  {
+    "step": 206,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 207,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 208,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Pari"
+  },
+  {
+    "step": 209,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Oliba (Gallia christiana)"
+  },
+  {
+    "step": 210,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Ennego (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 211,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Valea (Fleury)"
+  },
+  {
+    "step": 212,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Biblioth\u00e8que (de Tours %)"
+  },
+  {
+    "step": 213,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Fonds (la tradition manuscrite des docu- ments de 251 . Ripoll)"
+  },
+  {
+    "step": 214,
+    "type": "stop",
+    "name": "Toulouse, France",
+    "coords": [
+      43.6047,
+      1.4442
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Saint-Miche (CSl connu que Par CC Iouicau Dunudi Gor J Villanueva)"
+  },
+  {
+    "step": 215,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Pari (de _ Rodes)"
+  },
+  {
+    "step": 216,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  },
+  {
+    "step": 217,
+    "type": "stop",
+    "name": "Montecassino Abbey, Italy",
+    "coords": [
+      41.4901,
+      13.8143
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Mont"
+  },
+  {
+    "step": 218,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Saint"
+  },
+  {
+    "step": 219,
+    "type": "stop",
+    "name": "Montecassino Abbey, Italy",
+    "coords": [
+      41.4901,
+      13.8143
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Mont"
+  },
+  {
+    "step": 220,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Tapris (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 221,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Miche (Gallia christiana)"
+  },
+  {
+    "step": 222,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Miche (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 223,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Oerimaru (de Tours %)"
+  },
+  {
+    "step": 224,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Bona (la tradition manuscrite des docu- ments de 251 . Ripoll)"
+  },
+  {
+    "step": 225,
+    "type": "stop",
+    "name": "Toulouse, France",
+    "coords": [
+      43.6047,
+      1.4442
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Heldebertu (CSl connu que Par CC Iouicau Dunudi Gor J Villanueva)"
+  },
+  {
+    "step": 226,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Ansgeriu (de _ Rodes)"
+  },
+  {
+    "step": 227,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Otbertu (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 228,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: XIIII (Gallia christiana)"
+  },
+  {
+    "step": 229,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Watso (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 230,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Albuinu (Fleury)"
+  },
+  {
+    "step": 231,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: XVII (de Tours %)"
+  },
+  {
+    "step": 232,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: XIIII (la tradition manuscrite des docu- ments de 251 . Ripoll)"
+  },
+  {
+    "step": 233,
+    "type": "stop",
+    "name": "Montecassino Abbey, Italy",
+    "coords": [
+      41.4901,
+      13.8143
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Monte"
+  },
+  {
+    "step": 234,
+    "type": "stop",
+    "name": "Provence, France",
+    "coords": [
+      43.9352,
+      6.0679
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Found in text: Provence"
+  },
+  {
+    "step": 235,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Ermengard (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 236,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Besal (Gallia christiana)"
+  },
+  {
+    "step": 237,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Cassino (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 238,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Ileut (Fleury)"
+  },
+  {
+    "step": 239,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Ripoll"
+  },
+  {
+    "step": 240,
+    "type": "stop",
+    "name": "Bourges, France",
+    "coords": [
+      47.081,
+      2.398
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Bourgess"
+  },
+  {
+    "step": 241,
+    "type": "stop",
+    "name": "Besan\u00e7on, France",
+    "coords": [
+      47.2378,
+      6.0241
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Sent"
+  },
+  {
+    "step": 242,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Olib (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 243,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Albared (Gallia christiana)"
+  },
+  {
+    "step": 244,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Guillaumn (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 245,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Vita (Fleury)"
+  },
+  {
+    "step": 246,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Berna (de Tours %)"
+  },
+  {
+    "step": 247,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: XXVIIL (la tradition manuscrite des docu- ments de 251 . Ripoll)"
+  },
+  {
+    "step": 248,
+    "type": "stop",
+    "name": "Toulouse, France",
+    "coords": [
+      43.6047,
+      1.4442
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Intempesti (CSl connu que Par CC Iouicau Dunudi Gor J Villanueva)"
+  },
+  {
+    "step": 249,
+    "type": "stop",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Mora (de _ Rodes)"
+  },
+  {
+    "step": 250,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Masl (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 251,
+    "type": "stop",
+    "name": "Cluny Abbey, France",
+    "coords": [
+      46.435,
+      4.6583
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Hlin (monatir p\u00edr\u00ednenc)"
+  },
+  {
+    "step": 252,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Bernardus (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 253,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Tali (Gallia christiana)"
+  },
+  {
+    "step": 254,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Bernardus (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 255,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Ergo (Fleury)"
+  },
+  {
+    "step": 256,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 257,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Francu (Gallia christiana)"
+  },
+  {
+    "step": 258,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Ipso (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 259,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Cursorem (Fleury)"
+  },
+  {
+    "step": 260,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: LXXVI (de Tours %)"
+  },
+  {
+    "step": 261,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: EiVIL (la tradition manuscrite des docu- ments de 251 . Ripoll)"
+  },
+  {
+    "step": 262,
+    "type": "stop",
+    "name": "Abbey of Hautvillers, France",
+    "coords": [
+      49.0817,
+      3.9383
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Ville"
+  },
+  {
+    "step": 263,
+    "type": "stop",
+    "name": "Vatican City",
+    "coords": [
+      41.9022,
+      12.4539
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Found in text: Vaticano"
+  },
+  {
+    "step": 264,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 265,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Benedict (mss. des Biblioth\u00e8ques publiques de France)"
+  },
+  {
+    "step": 266,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Villeloi (Gallia christiana)"
+  },
+  {
+    "step": 267,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Certiola (\u00c9d. H. Zimmermann)"
+  },
+  {
+    "step": 268,
+    "type": "stop",
+    "name": "Orleans",
+    "coords": null,
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": true,
+    "description": "Visited: Mabillo (Fleury)"
+  },
+  {
+    "step": 269,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: Vestra (de Tours %)"
+  },
+  {
+    "step": 270,
+    "type": "stop",
+    "name": "Santa Maria de Ripoll, Spain",
+    "coords": [
+      42.2014,
+      2.1901
+    ],
+    "year": 896,
+    "date_str": "896- 1046",
+    "is_approximate": false,
+    "description": "Visited: IIII (la tradition manuscrite des docu- ments de 251 . Ripoll)"
+  }
+]
