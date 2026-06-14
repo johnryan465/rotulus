@@ -1,0 +1,197 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Verdun, France",
+    "coords": [
+      49.1599,
+      5.3855
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Origin: 20 Rouleau mortuaire (fragmentaire) dun abb\u00e9 nomm\u00e9..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Biblioth (sujet)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Sainte- (ce au sujet)"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Noyon (sujet)"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Tourna (ce au sujet)"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Mandasti (sujet)"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Omnipotente (ce au sujet)"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Localit (sujet)"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Villemagn (ce au sujet)"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Amand (sujet)"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Bernard (ce au sujet)"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Nomina (sujet)"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Bernard (ce au sujet)"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Franc (sujet)"
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Pari (ce au sujet)"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Origin: 10 Rouleou mortuaire  (fragmentaire ) de Girard, m..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": 1070,
+    "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
+    "description": "Visited: T. Culnaldensis cenobii . Geraldus (1) abbas, Guillelmus abbas, Bernardus, Durannus, Bertardus; Landri- 5 cuS, Guichardus; Hemeno, Bladinus, Radulfus; Guilelmus."
+  }
+]

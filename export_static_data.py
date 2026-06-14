@@ -8,15 +8,13 @@ import sys
 DB_PATH = "rolls.db"
 OUTPUT_DIR = "public/api"
 
-# Location database with coordinates and uncertainty flag
 # Format: "key": [lat, lon, "Display Name", is_approximate]
 GEOLOCATIONS = {
+    # Existing Precise
     "gent": [51.0543, 3.7174, "Ghent, Belgium", False],
     "ghent": [51.0543, 3.7174, "Ghent, Belgium", False],
     "vatican": [41.9022, 12.4539, "Vatican City", False],
     "vaticano": [41.9022, 12.4539, "Vatican City", False],
-    "anglia": [52.5000, 1.0000, "East Anglia, England", True],
-    "angha": [52.5000, 1.0000, "East Anglia, England", True],
     "wimborne": [50.8010, -1.9830, "Wimborne Minster, England", False],
     "fulda": [50.5528, 9.6775, "Fulda Abbey, Germany", False],
     "luxeuil": [47.8178, 6.3117, "Luxeuil Abbey, France", False],
@@ -31,6 +29,7 @@ GEOLOCATIONS = {
     "montecassino": [41.4901, 13.8143, "Montecassino Abbey, Italy", False],
     "mont cassin": [41.4901, 13.8143, "Montecassino Abbey, Italy", False],
     "mainz": [49.9929, 8.2473, "Mainz, Germany", False],
+    "mayence": [49.9929, 8.2473, "Mainz, Germany", False],
     "glastonbury": [51.1473, -2.7186, "Glastonbury, England", False],
     "jumièges": [49.4326, 0.8211, "Jumièges Abbey, France", False],
     "jumieges": [49.4326, 0.8211, "Jumièges Abbey, France", False],
@@ -88,8 +87,6 @@ GEOLOCATIONS = {
     "oberaltaich": [48.9132, 12.6775, "Oberaltaich Abbey, Germany", False],
     "berg": [48.9868, 12.0833, "Berg im Donaugau, Germany", False],
     "schliersee": [47.7247, 11.8615, "Schliersee, Germany", False],
-    "northumbrie": [55.1000, -2.0000, "Northumbria, England", True],
-    "northumbria": [55.1000, -2.0000, "Northumbria, England", True],
     "hautvillers": [49.0817, 3.9383, "Abbey of Hautvillers, France", False],
     "rochester": [51.3900, 0.5050, "Rochester, England", False],
     "anchinl": [50.3854, 3.2323, "Anchin Abbey, France", False],
@@ -106,15 +103,73 @@ GEOLOCATIONS = {
     "laon": [49.5642, 3.6199, "Laon, France", False],
     "poitiers": [46.5802, 0.3404, "Poitiers, France", False],
     "montierneuf": [46.5802, 0.3404, "Montierneuf Abbey, France", False],
+    "reims": [49.2583, 4.0317, "Reims, France", False],
+    "paris": [48.8566, 2.3522, "Paris, France", False],
+    "limoges": [45.8336, 1.2611, "Limoges, France", False],
+    "ripoll": [42.2014, 2.1901, "Santa Maria de Ripoll, Spain", False],
+    "lobbes": [50.3481, 4.2611, "Lobbes Abbey, Belgium", False],
+    "cluny": [46.4350, 4.6583, "Cluny Abbey, France", False],
+    "cîteaux": [47.1294, 5.0889, "Cîteaux Abbey, France", False],
+    "clairvaux": [48.1469, 4.6500, "Clairvaux Abbey, France", False],
+    "bec": [49.2294, 0.7208, "Bec Abbey, France", False],
+    "fécamp": [49.7589, 0.3800, "Fécamp Abbey, France", False],
+    "caen": [49.1829, -0.3707, "Caen, France", False],
+    "rouen": [49.4431, 1.0992, "Rouen, France", False],
+    "chartres": [48.4472, 1.4877, "Chartres, France", False],
+    "orléans": [47.9030, 1.9090, "Orléans, France", False],
+    "bourges": [47.0810, 2.3980, "Bourges, France", False],
+    "sens": [48.1970, 3.2840, "Sens, France", False],
+    "auxerre": [47.7980, 3.5730, "Auxerre, France", False],
+    "troyes": [48.2970, 4.0740, "Troyes, France", False],
+    "langres": [47.8630, 5.3330, "Langres, France", False],
+    "metz": [49.1190, 6.1750, "Metz, France", False],
+    "toul": [48.6750, 5.8910, "Toul, France", False],
+    "liège": [50.6330, 5.5670, "Liège, Belgium", False],
+    "utrecht": [52.0907, 5.1214, "Utrecht, Netherlands", False],
+    "cologne": [50.9375, 6.9603, "Cologne, Germany", False],
+    "trèves": [49.7590, 6.6440, "Trier, Germany", False],
+    "worms": [49.6340, 8.3580, "Worms, Germany", False],
+    "spire": [49.3170, 8.4390, "Speyer, Germany", False],
+    "strasbourg": [48.5730, 7.7520, "Strasbourg, France", False],
+    "bâle": [47.5596, 7.5886, "Basel, Switzerland", False],
+    "genève": [46.2044, 6.1432, "Geneva, Switzerland", False],
+    "lausanne": [46.5197, 6.6323, "Lausanne, Switzerland", False],
+    "sion": [46.2330, 7.3600, "Sion, Switzerland", False],
+    "aoste": [45.7370, 7.3200, "Aosta, Italy", False],
+    "turin": [45.0703, 7.6869, "Turin, Italy", False],
+    "milan": [45.4642, 9.1900, "Milan, Italy", False],
+    "pavie": [45.1850, 9.1550, "Pavia, Italy", False],
+    "gênes": [44.4056, 8.9463, "Genoa, Italy", False],
+    "lucques": [43.8429, 10.5027, "Lucca, Italy", False],
+    "pise": [43.7228, 10.4017, "Pisa, Italy", False],
+    "florence": [43.7696, 11.2558, "Florence, Italy", False],
+    "rome": [41.9028, 12.4964, "Rome, Italy", False],
+    "naples": [40.8518, 14.2681, "Naples, Italy", False],
+    "messine": [38.1939, 15.5552, "Messina, Italy", False],
+    "palerme": [38.1157, 13.3615, "Palermo, Italy", False],
+
+    # Regional / Approximate
+    "anglia": [52.5000, 1.0000, "East Anglia, England", True],
+    "northumbrie": [55.1000, -2.0000, "Northumbria, England", True],
+    "northumbria": [55.1000, -2.0000, "Northumbria, England", True],
     "bavaria": [48.7904, 11.4979, "Bavaria, Germany", True],
     "normandy": [49.1829, -0.3707, "Normandy, France", True],
     "normandie": [49.1829, -0.3707, "Normandy, France", True],
     "aquitaine": [44.8378, -0.5792, "Aquitaine, France", True],
-    "reims": [49.2583, 4.0317, "Reims, France", False],
-    "paris": [48.8566, 2.3522, "Paris, France", False],
     "france": [46.2276, 2.2137, "France (General)", True],
     "germany": [51.1657, 10.4515, "Germany (General)", True],
     "italy": [41.8719, 12.5674, "Italy (General)", True],
+    "gallia": [46.2276, 2.2137, "Gaul / France", True],
+    "bretagne": [48.2020, -2.9326, "Brittany, France", True],
+    "bourgogne": [47.2805, 4.4126, "Burgundy, France", True],
+    "provence": [43.9352, 6.0679, "Provence, France", True],
+    "lombardie": [45.4791, 9.8452, "Lombardy, Italy", True],
+    "toscane": [43.7711, 11.2486, "Tuscany, Italy", True],
+    "sicile": [37.5990, 14.0154, "Sicily, Italy", True],
+    "espagne": [40.4637, -3.7492, "Spain (General)", True],
+    "hispania": [40.4637, -3.7492, "Hispania", True],
+    "belgium": [50.5039, 4.4699, "Belgium (General)", True],
+    "flandre": [51.0500, 3.7333, "Flanders", True],
 }
 
 ROMAN_CENTURIES = {
@@ -137,8 +192,9 @@ def geocode_location(name):
     if not name: return None
     s = name.strip().lower()
     if s in GEOLOCATIONS: return GEOLOCATIONS[s]
+    # Partial match
     for key, val in GEOLOCATIONS.items():
-        if key in s: return val
+        if key in s or s in key: return val
     return None
 
 def get_roll_travels(conn, roll_id):
@@ -149,7 +205,7 @@ def get_roll_travels(conn, roll_id):
     roll = dict(row); roll_year = extract_year(roll["date_str"])
     
     origin_geo = None; origin_name = "Origin"
-    for word in re.findall(r'\b[A-Za-zÀ-ÿ\-]+\b', roll["title"] + " " + roll["manuscripts"]):
+    for word in re.findall(r'\b[A-Za-zÀ-ÿ\-]{3,}\b', roll["title"] + " " + roll["manuscripts"]):
         geo = geocode_location(word)
         if geo: origin_geo = geo; origin_name = geo[2]; break
             

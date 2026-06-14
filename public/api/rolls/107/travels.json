@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 956,
+    "date_str": "S.d. [epr\u00e8s le 18 juin 956]",
+    "is_approximate": false,
+    "description": "Origin: Bref mortuaire envoy\u00e9 par labbaye - Purchard . de ..."
+  }
+]

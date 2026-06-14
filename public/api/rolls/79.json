@@ -1,0 +1,38 @@
+{
+  "roll": {
+    "id": 79,
+    "roll_num": "2",
+    "date_str": "Sd. [747-749]",
+    "title": "L\u0131r\u00ea Pd'Aelfiald, roi d'East Anglia, \u00e0 Boniface lui indiquant qu'il accepte Fassocia- tion de pi\u00e8tes atec lui-m\u00eame et ses compagnons; qu'il fait prier pour eux dans aussi de lenvoi des noms des d\u00e9funts. sept Ronast\u00e8tes c\u0142 qu '\u00eflse \"pr\u00eaoccupe _ 1 4 OniginalF [penlu. B Micchea Bsjez StaatsbibL, Clm 8112,fol 116.~ C. Karlsruhe; Badische Landesbibl , Rastatt 22, W9l-D Mien Ostenreichische Nationalbibl , lat. 751, fol. 49 (milieu du IX\" s.) . JL Tenc Bonifatius; p 181, nP 81. 6R. Rau, Briefe des Bonifatius. Binifatius . Darmstedt, 1968, p 270,n\" 81. Willibalds Leben des Ixurcros '(ellerznde)  R. Rau;  op. cit , P 271. Ivie: 1 Ebncz _ Kl\u00e4sterlichen ,  Gebets-Verbr\u00fcderungen, E p. 77, n. 1. Crie oafralernii\u00e9 v institution p Imile C chronologiques ( Ktuliona typignement anglo-saxonne = selon r\u00e8gne d'Aelfwald (2) . Fexpression &E. Ewig (, a (Chrismon)  3",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "2",
+    "is_verified": 0,
+    "year": 747
+  },
+  "tituli": [
+    {
+      "id": 731,
+      "roll_id": 79,
+      "title": "T. Domino  Bonifacio = 'gloriosissimo et cum omni achiepiscopo fretus Aelbwaldus; honoris affectu venerantissimo imul et tota abbatia Aestanglorum Deo prorinciz cum donante regia potestate salutem omni In primis congregationi  servorum Dei in nostra itaque scire te Si volumus; 0 dilectissime; quod \u00c9s Chrodegang franqpe ' et la \" dans r\u00e9forme Gsarakolion E Saint de Chrodegang sa mort, Jle: ` 'p\u00e9sent\u00e9es \u20ac Metz. 0 1967, p 32. [occasion Q du Qu icolloque ! tenu C R. \u00e0 Rau. douzi\u00e8me \u20ac op. cit.. p 271, n. 1 ; Hand- centenaire , book de 0f British chronology. p 9",
+      "latin_text": "",
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 37901,
+          "titulus_id": 731,
+          "original_name": "Bonifacio",
+          "original_title": "archiepiscopo",
+          "footnote_num": "3",
+          "footnote_text": "Boniface, archev\u00eaque de Mainz",
+          "normalized_name": "Boniface",
+          "normalized_role": "archbishop",
+          "normalized_dates": "747-749",
+          "location_name": "Mainz"
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

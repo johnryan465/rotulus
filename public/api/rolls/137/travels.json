@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Mainz, Germany",
+    "coords": [
+      49.9929,
+      8.2473
+    ],
+    "year": 1100,
+    "date_str": "S.d. [vers 1100]",
+    "is_approximate": false,
+    "description": "Origin: Formules , de  titres , 25 4 Cusage ' de S. Ongina..."
+  }
+]
