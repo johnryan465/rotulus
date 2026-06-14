@@ -23,7 +23,10 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Build
-        run: npm run build
+        run: |
+          pwd
+          ls -lh
+          npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

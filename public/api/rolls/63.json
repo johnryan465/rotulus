@@ -1,1 +1,564 @@
-{"roll": {"id": 63, "roll_num": "93", "date_str": "S.d. [XI s.]", "title": "10 Formule anonyme dencyclique.", "manuscripts": "A. Original perdu. B. Paris; B. N. F, Coll. Baluze; vol. 108, fol. 318v-319, dapr\u00e8s A (< ex archivo S. Martini Canigonen- sis % copie de Dom Guillaume de Costa, XVIIS s). 0 . L. Delisle; Rouleaux des morts du IX* au XVE s , P.89,dapr\u00e8s B.-b.J Dufour; Catalogne; P. 39, 15' n\" V, dapr\u00e8s @.", "pdf_source": "Dufour T1 (2)", "pdf_pages": "46,47", "is_verified": 0}, "tituli": [{"id": 204, "roll_id": 63, "title": "Implicit Titulus", "latin_text": "INDIQU\u00c9 J Stiennon, Guifred, P. 307. Cette formule constitue le n? 71 du rouleau mortuaire de Guifr\u00e9, recueil factice compos\u00e9 \u00e0 5. Martin-du-\u20ac Canigou D\u00e9j\u00e0 pour L. Delisle (2), elle \u00e9tait peut-\u00eatre plac\u00e9e ind\u00fbment au milieu de ce document je suis daccord avec J Stiennon (loc. cit.) pour la traiter \u00e0 part. Comme Dom Guillaume de Costa a \u00e9tabli sa copie \u00e0 partir dun original conserv\u00e9 dans les archives de S. Martin-du-Canigou; on peut supposer que cette lettre fut utilis\u00e9e par les moines de cette abbaye. Son style me la fait placer au XI 5., sans qu'il soit possible de pr\u00e9ciser davantage. Cuncte sancte Dei Ecclesie circumquaque per orbem difuse, humilis sancti Ko L;;alline trananillae nacis temnora cum spiritualium", "pdf_page": 46, "pdf_half": "right", "entities": [{"id": 10655, "titulus_id": 204, "original_name": "Stienno", "original_title": "", "footnote_num": "1", "footnote_text": "ILLUS CulI8ICgauiu CuiIUA incremento virtutum. Cum nos", "normalized_name": "Stienno", "normalized_role": "ILLUS CulI8ICgauiu CuiIUA incremento virtutum. Cum nos", "normalized_dates": "", "location_name": ""}, {"id": 10656, "titulus_id": 204, "original_name": "Guifre", "original_title": "", "footnote_num": "2", "footnote_text": "(\") In albacens B corrigez Malliacens; (b) transcripsit corrig\u00e9 en transcripsi par g", "normalized_name": "Guifre", "normalized_role": "", "normalized_dates": "", "location_name": ""}, {"id": 10657, "titulus_id": 204, "original_name": "Cette", "original_title": "constitue le n? 71 du rouleau mortuaire de Guifr\u00e9", "footnote_num": "3", "footnote_text": "ce document, cf. supra; P. 138,", "normalized_name": "Cette", "normalized_role": "ce document", "normalized_dates": "", "location_name": ""}, {"id": 10658, "titulus_id": 204, "original_name": "Guifr", "original_title": "", "footnote_num": "5", "footnote_text": "I", "normalized_name": "Guifr", "normalized_role": "I", "normalized_dates": "", "location_name": ""}, {"id": 10659, "titulus_id": 204, "original_name": "Martin-d", "original_title": "-\u20ac Canigou D\u00e9j\u00e0 pour L", "footnote_num": "1", "footnote_text": "trorum conscientia deterreamur peccami-", "normalized_name": "Martin-d", "normalized_role": "trorum conscientia deterreamur peccami-", "normalized_dates": "", "location_name": ""}, {"id": 10660, "titulus_id": 204, "original_name": "Canigou", "original_title": "pour L", "footnote_num": "7", "footnote_text": "le propose J Coquet, Comtesse Aumode, p. 162. rattage du t final B.", "normalized_name": "Canigou", "normalized_role": "le propose J Coquet", "normalized_dates": "", "location_name": ""}, {"id": 10661, "titulus_id": 204, "original_name": "Delisle", "original_title": ")", "footnote_num": "2", "footnote_text": "(\") In albacens B corrigez Malliacens; (b) transcripsit corrig\u00e9 en transcripsi par g", "normalized_name": "Delisle", "normalized_role": ")", "normalized_dates": "", "location_name": ""}, {"id": 10662, "titulus_id": 204, "original_name": "Stiennon", "original_title": "", "footnote_num": "", "footnote_text": "", "normalized_name": "Stiennon", "normalized_role": "", "normalized_dates": "", "location_name": ""}, {"id": 10663, "titulus_id": 204, "original_name": "Comme", "original_title": "Guillaume de Costa a \u00e9tabli sa copie \u00e0 partir dun original conserv\u00e9 dans les archives de S", "footnote_num": "", "footnote_text": "", "normalized_name": "Comme", "normalized_role": "Guillaume de Costa a \u00e9tabli sa copie \u00e0 partir dun original conserv\u00e9 dans les archives de S", "normalized_dates": "", "location_name": ""}, {"id": 10664, "titulus_id": 204, "original_name": "Guillaume", "original_title": "Costa a \u00e9tabli sa copie \u00e0 partir dun original conserv\u00e9 dans les archives de S", "footnote_num": "", "footnote_text": "", "normalized_name": "Guillaume", "normalized_role": "Costa a \u00e9tabli sa copie \u00e0 partir dun original conserv\u00e9 dans les archives de S", "normalized_dates": "", "location_name": ""}, {"id": 10665, "titulus_id": 204, "original_name": "Costa", "original_title": "\u00e9tabli sa copie \u00e0 partir dun original conserv\u00e9 dans les archives de S", "footnote_num": "", "footnote_text": "", "normalized_name": "Costa", "normalized_role": "\u00e9tabli sa copie \u00e0 partir dun original conserv\u00e9 dans les archives de S", "normalized_dates": "", "location_name": ""}, {"id": 10666, "titulus_id": 204, "original_name": "Martin-du-", "original_title": "", "footnote_num": "", "footnote_text": "", "normalized_name": "Martin-du-", "normalized_role": "", "normalized_dates": "", "location_name": ""}, {"id": 10667, "titulus_id": 204, "original_name": "Son", "original_title": "me la fait placer au XI 5", "footnote_num": "", "footnote_text": "", "normalized_name": "Son", "normalized_role": "me la fait placer au XI 5", "normalized_dates": "", "location_name": ""}, {"id": 10668, "titulus_id": 204, "original_name": "Cuncte", "original_title": "Dei Ecclesie circumquaque per orbem difuse", "footnote_num": "", "footnote_text": "", "normalized_name": "Cuncte", "normalized_role": "Dei Ecclesie circumquaque per orbem difuse", "normalized_dates": "", "location_name": ""}, {"id": 10669, "titulus_id": 204, "original_name": "Dei", "original_title": "circumquaque per orbem difuse", "footnote_num": "", "footnote_text": "", "normalized_name": "Dei", "normalized_role": "circumquaque per orbem difuse", "normalized_dates": "", "location_name": ""}, {"id": 10670, "titulus_id": 204, "original_name": "Ko", "original_title": "", "footnote_num": "", "footnote_text": "", "normalized_name": "Ko", "normalized_role": "", "normalized_dates": "", "location_name": ""}]}, {"id": 205, "roll_id": 63, "title": "Implicit Titulus", "latin_text": "ROULEAUX  DES MORTS [XIS num; quorum enormitate nimium gravamur cotidie, quam 87 minima benefacta; nisi vestrorum sublevemur auxilio orationum, nobis que sufficere. Si enim ipsi celi non agimus non sunt mundi Dei tremendo posse scimus magis nos, qui, in iniquitatibus concepti, post sacri conspectui; emundationem quanto 5 mali rursus contagiis implicamur multimodis ? Quamobrem obnixi baptismatis; tenus acceptabilia vestrarum munera intercessionum nobis rogamus pro voto qua- ne debitis  secundum actuum merita   subjiciamur suffragentur; rerum, nostre compatiendo fragilitati; poenis.   Pius  enim petenda non abnuit petituris,   conditor apostoli ore precipiat dicens Orate pro invicem ut salvemini (1) cum ipse 10 dum quod qui caritativa animi dilectione 9) Unde scien - rant pro proximorum absolutione; clementiam superne majestatis utrisque implo- Humilium igitur aspernantes famulorum eeemium largitur salvationis etepo. in hujus vite stadio adhuc preces; non tam nobis petimus; consistentibus spatium non quibus tinus nobis denegatur fraternitatis caritatem inpendatiss orando sciliceg penitentie; qua- 15 Jutione reatuum; quam his qui ingressi viam pro nostrorum abso- nostrum hujus diurne luci[s] universe carnis sortiti sunt in medo pro peccatis mortuorum ocasum (sic) . Nostis quam sanctum sit et salubre quemdam  fratrem exorare; ut ab eorum solvantur nexibus (2) oserum egregie_probitatis monachum, Ex his officio functum; nomine illum, sacerdotali   quoque 20 orationibus; quo propitietur vestris precipue Dominus comitimus (sic) indesinenti prece bus vestris sjus; et redimat de interitu inferi intercessionibus cunctis iniquitati- miaenicordia et miserationer Quin\u00ede' animam ejus; qui xitam ac coronat in se sperantes in ducere, spretis (sic) cupiens hujus luce laudabilem in Domino per multos in Christi Seculi pompis, sumpsit habitum 25 carnis; famulatu degens nostre professionis; die illo, non sine multo annos; quousque terrea mole deposita vocante Deo, excessit. merore Fuerunt fratrum ergastulo et alii coram astantium; hominem; carnis educti, nostre Iis vite diversis congregationis fratres; qui mansiones; ex hujus cum quorumcrosina poribuss preordinatis . sibi, supramemorati petierunt inmorta- 30 sancte nomine fratris; qubtust ennotata vobis censuiruus dingcoda; memorie, Si pro quibus; videlicequllis aterum atque iterum vestre inculgemuas inscriberentur; fastidium illis atque mina illis, fundatis preberent et pro aliis, Altissimo nomina quorum, tis contraxerunt omnium, eentilegsntiquas Petimus \" graoinprec quo Ti\u0142a: corruptibilis' maculas si quas ex primi 35 homo 'peccatorum; quod omnino . transgressione paren- beatitudinis qui non peccet) , sua pietate certissimum faciat est (non est enim esse consortes. Amen. abstergendo emundet perpetueque", "pdf_page": 47, "pdf_half": "left", "entities": [{"id": 10671, "titulus_id": 205, "original_name": "Si", "original_title": "ipsi celi non agimus non sunt mundi Dei tremendo posse scimus magis nos", "footnote_num": "1", "footnote_text": "ILLUS CulI8ICgauiu CuiIUA incremento virtutum. Cum nos", "normalized_name": "Si", "normalized_role": "ILLUS CulI8ICgauiu CuiIUA incremento virtutum. Cum nos", "normalized_dates": "", "location_name": ""}, {"id": 10672, "titulus_id": 205, "original_name": "Dei", "original_title": "posse scimus magis nos", "footnote_num": "2", "footnote_text": "(\") In albacens B corrigez Malliacens; (b) transcripsit corrig\u00e9 en transcripsi par g", "normalized_name": "Dei", "normalized_role": "posse scimus magis nos", "normalized_dates": "", "location_name": ""}, {"id": 10673, "titulus_id": 205, "original_name": "Quamobrem", "original_title": "baptismatis", "footnote_num": "3", "footnote_text": "ce document, cf. supra; P. 138,", "normalized_name": "Quamobrem", "normalized_role": "ce document", "normalized_dates": "", "location_name": ""}, {"id": 10674, "titulus_id": 205, "original_name": "Pius", "original_title": "petenda non abnuit petituris", "footnote_num": "5", "footnote_text": "I", "normalized_name": "Pius", "normalized_role": "I", "normalized_dates": "", "location_name": ""}, {"id": 10675, "titulus_id": 205, "original_name": "Orate", "original_title": "invicem ut salvemini (1) cum ipse 10 dum quod qui caritativa animi dilectione 9) Unde scien - rant", "footnote_num": "1", "footnote_text": "trorum conscientia deterreamur peccami-", "normalized_name": "Orate", "normalized_role": "trorum conscientia deterreamur peccami-", "normalized_dates": "", "location_name": ""}, {"id": 10676, "titulus_id": 205, "original_name": "Unde", "original_title": "- rant pro proximorum absolutione", "footnote_num": "7", "footnote_text": "le propose J Coquet, Comtesse Aumode, p. 162. rattage du t final B.", "normalized_name": "Unde", "normalized_role": "le propose J Coquet", "normalized_dates": "", "location_name": ""}, {"id": 10677, "titulus_id": 205, "original_name": "Humilium", "original_title": "aspernantes famulorum eeemium largitur salvationis etepo", "footnote_num": "8", "footnote_text": "Op. cit., P. 91,n. 1.", "normalized_name": "Humilium", "normalized_role": "Op. cit.", "normalized_dates": "", "location_name": ""}, {"id": 10678, "titulus_id": 205, "original_name": "Jutione", "original_title": "", "footnote_num": "1", "footnote_text": "Jac , V,16.", "normalized_name": "Jutione", "normalized_role": "Jac", "normalized_dates": "", "location_name": ""}, {"id": 10679, "titulus_id": 205, "original_name": "Nostis", "original_title": "sanctum sit et salubre quemdam  fratrem exorare", "footnote_num": "2", "footnote_text": "Mach.,~ XII, 46 .", "normalized_name": "Nostis", "normalized_role": "Mach.", "normalized_dates": "", "location_name": ""}, {"id": 10680, "titulus_id": 205, "original_name": "Ex", "original_title": "officio functum", "footnote_num": "", "footnote_text": "", "normalized_name": "Ex", "normalized_role": "officio functum", "normalized_dates": "", "location_name": ""}, {"id": 10681, "titulus_id": 205, "original_name": "Dominus", "original_title": "(sic) indesinenti prece bus vestris sjus", "footnote_num": "", "footnote_text": "", "normalized_name": "Dominus", "normalized_role": "(sic) indesinenti prece bus vestris sjus", "normalized_dates": "", "location_name": ""}, {"id": 10682, "titulus_id": 205, "original_name": "Quin", "original_title": "' animam ejus", "footnote_num": "", "footnote_text": "", "normalized_name": "Quin", "normalized_role": "' animam ejus", "normalized_dates": "", "location_name": ""}, {"id": 10683, "titulus_id": 205, "original_name": "Domino", "original_title": "multos in Christi Seculi pompis", "footnote_num": "", "footnote_text": "", "normalized_name": "Domino", "normalized_role": "multos in Christi Seculi pompis", "normalized_dates": "", "location_name": ""}, {"id": 10684, "titulus_id": 205, "original_name": "Christi", "original_title": "pompis", "footnote_num": "", "footnote_text": "", "normalized_name": "Christi", "normalized_role": "pompis", "normalized_dates": "", "location_name": ""}, {"id": 10685, "titulus_id": 205, "original_name": "De", "original_title": "", "footnote_num": "", "footnote_text": "", "normalized_name": "De", "normalized_role": "", "normalized_dates": "", "location_name": ""}, {"id": 10686, "titulus_id": 205, "original_name": "Fuerunt", "original_title": "ergastulo et alii coram astantium", "footnote_num": "", "footnote_text": "", "normalized_name": "Fuerunt", "normalized_role": "ergastulo et alii coram astantium", "normalized_dates": "", "location_name": ""}, {"id": 10687, "titulus_id": 205, "original_name": "Iis", "original_title": "diversis congregationis fratres", "footnote_num": "", "footnote_text": "", "normalized_name": "Iis", "normalized_role": "diversis congregationis fratres", "normalized_dates": "", "location_name": ""}, {"id": 10688, "titulus_id": 205, "original_name": "Si", "original_title": "quibus", "footnote_num": "", "footnote_text": "", "normalized_name": "Si", "normalized_role": "quibus", "normalized_dates": "", "location_name": ""}, {"id": 10689, "titulus_id": 205, "original_name": "Altissimo", "original_title": "quorum", "footnote_num": "", "footnote_text": "", "normalized_name": "Altissimo", "normalized_role": "quorum", "normalized_dates": "", "location_name": ""}, {"id": 10690, "titulus_id": 205, "original_name": "Petimu", "original_title": "\" graoinprec quo Ti\u0142a: corruptibilis' maculas si quas ex primi 35 homo 'peccatorum", "footnote_num": "", "footnote_text": "", "normalized_name": "Petimu", "normalized_role": "\" graoinprec quo Ti\u0142a: corruptibilis' maculas si quas ex primi 35 homo 'peccatorum", "normalized_dates": "", "location_name": ""}, {"id": 10691, "titulus_id": 205, "original_name": "Ti", "original_title": ": corruptibilis' maculas si quas ex primi 35 homo 'peccatorum", "footnote_num": "", "footnote_text": "", "normalized_name": "Ti", "normalized_role": ": corruptibilis' maculas si quas ex primi 35 homo 'peccatorum", "normalized_dates": "", "location_name": ""}, {"id": 10692, "titulus_id": 205, "original_name": "Ame", "original_title": "", "footnote_num": "", "footnote_text": "", "normalized_name": "Ame", "normalized_role": "", "normalized_dates": "", "location_name": ""}]}], "footnotes": [{"id": 264, "roll_id": 63, "pdf_page": 46, "pdf_half": "right", "footnote_num": "1", "text": "ILLUS CulI8ICgauiu CuiIUA incremento virtutum. Cum nos"}, {"id": 268, "roll_id": 63, "pdf_page": 46, "pdf_half": "right", "footnote_num": "1", "text": "trorum conscientia deterreamur peccami-"}, {"id": 265, "roll_id": 63, "pdf_page": 46, "pdf_half": "right", "footnote_num": "2", "text": "(\") In albacens B corrigez Malliacens; (b) transcripsit corrig\u00e9 en transcripsi par g"}, {"id": 266, "roll_id": 63, "pdf_page": 46, "pdf_half": "right", "footnote_num": "3", "text": "ce document, cf. supra; P. 138,"}, {"id": 267, "roll_id": 63, "pdf_page": 46, "pdf_half": "right", "footnote_num": "5", "text": "I"}, {"id": 269, "roll_id": 63, "pdf_page": 46, "pdf_half": "right", "footnote_num": "7", "text": "le propose J Coquet, Comtesse Aumode, p. 162. rattage du t final B."}, {"id": 270, "roll_id": 63, "pdf_page": 46, "pdf_half": "right", "footnote_num": "8", "text": "Op. cit., P. 91,n. 1."}, {"id": 271, "roll_id": 63, "pdf_page": 47, "pdf_half": "left", "footnote_num": "1", "text": "Jac , V,16."}, {"id": 272, "roll_id": 63, "pdf_page": 47, "pdf_half": "left", "footnote_num": "2", "text": "Mach.,~ XII, 46 ."}]}
+{
+  "roll": {
+    "id": 63,
+    "roll_num": "93",
+    "date_str": "S.d. [XI s.]",
+    "title": "10 Formule anonyme dencyclique.",
+    "manuscripts": "A. Original perdu. B. Paris; B. N. F, Coll. Baluze; vol. 108, fol. 318v-319, dapr\u00e8s A (< ex archivo S. Martini Canigonen- sis % copie de Dom Guillaume de Costa, XVIIS s). 0 . L. Delisle; Rouleaux des morts du IX* au XVE s , P.89,dapr\u00e8s B.-b.J Dufour; Catalogne; P. 39, 15' n\" V, dapr\u00e8s @.",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "46,47",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 204,
+      "roll_id": 63,
+      "title": "Implicit Titulus",
+      "latin_text": "INDIQU\u00c9 J Stiennon, Guifred, P. 307. Cette formule constitue le n? 71 du rouleau mortuaire de Guifr\u00e9, recueil factice compos\u00e9 \u00e0 5. Martin-du-\u20ac Canigou D\u00e9j\u00e0 pour L. Delisle (2), elle \u00e9tait peut-\u00eatre plac\u00e9e ind\u00fbment au milieu de ce document je suis daccord avec J Stiennon (loc. cit.) pour la traiter \u00e0 part. Comme Dom Guillaume de Costa a \u00e9tabli sa copie \u00e0 partir dun original conserv\u00e9 dans les archives de S. Martin-du-Canigou; on peut supposer que cette lettre fut utilis\u00e9e par les moines de cette abbaye. Son style me la fait placer au XI 5., sans qu'il soit possible de pr\u00e9ciser davantage. Cuncte sancte Dei Ecclesie circumquaque per orbem difuse, humilis sancti Ko L;;alline trananillae nacis temnora cum spiritualium",
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 10655,
+          "titulus_id": 204,
+          "original_name": "Stienno",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "ILLUS CulI8ICgauiu CuiIUA incremento virtutum. Cum nos",
+          "normalized_name": "Stienno",
+          "normalized_role": "ILLUS CulI8ICgauiu CuiIUA incremento virtutum. Cum nos",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10656,
+          "titulus_id": 204,
+          "original_name": "Guifre",
+          "original_title": "",
+          "footnote_num": "2",
+          "footnote_text": "(\") In albacens B corrigez Malliacens; (b) transcripsit corrig\u00e9 en transcripsi par g",
+          "normalized_name": "Guifre",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10657,
+          "titulus_id": 204,
+          "original_name": "Cette",
+          "original_title": "constitue le n? 71 du rouleau mortuaire de Guifr\u00e9",
+          "footnote_num": "3",
+          "footnote_text": "ce document, cf. supra; P. 138,",
+          "normalized_name": "Cette",
+          "normalized_role": "ce document",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10658,
+          "titulus_id": 204,
+          "original_name": "Guifr",
+          "original_title": "",
+          "footnote_num": "5",
+          "footnote_text": "I",
+          "normalized_name": "Guifr",
+          "normalized_role": "I",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10659,
+          "titulus_id": 204,
+          "original_name": "Martin-d",
+          "original_title": "-\u20ac Canigou D\u00e9j\u00e0 pour L",
+          "footnote_num": "1",
+          "footnote_text": "trorum conscientia deterreamur peccami-",
+          "normalized_name": "Martin-d",
+          "normalized_role": "trorum conscientia deterreamur peccami-",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10660,
+          "titulus_id": 204,
+          "original_name": "Canigou",
+          "original_title": "pour L",
+          "footnote_num": "7",
+          "footnote_text": "le propose J Coquet, Comtesse Aumode, p. 162. rattage du t final B.",
+          "normalized_name": "Canigou",
+          "normalized_role": "le propose J Coquet",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10661,
+          "titulus_id": 204,
+          "original_name": "Delisle",
+          "original_title": ")",
+          "footnote_num": "2",
+          "footnote_text": "(\") In albacens B corrigez Malliacens; (b) transcripsit corrig\u00e9 en transcripsi par g",
+          "normalized_name": "Delisle",
+          "normalized_role": ")",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10662,
+          "titulus_id": 204,
+          "original_name": "Stiennon",
+          "original_title": "",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Stiennon",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10663,
+          "titulus_id": 204,
+          "original_name": "Comme",
+          "original_title": "Guillaume de Costa a \u00e9tabli sa copie \u00e0 partir dun original conserv\u00e9 dans les archives de S",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Comme",
+          "normalized_role": "Guillaume de Costa a \u00e9tabli sa copie \u00e0 partir dun original conserv\u00e9 dans les archives de S",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10664,
+          "titulus_id": 204,
+          "original_name": "Guillaume",
+          "original_title": "Costa a \u00e9tabli sa copie \u00e0 partir dun original conserv\u00e9 dans les archives de S",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Guillaume",
+          "normalized_role": "Costa a \u00e9tabli sa copie \u00e0 partir dun original conserv\u00e9 dans les archives de S",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10665,
+          "titulus_id": 204,
+          "original_name": "Costa",
+          "original_title": "\u00e9tabli sa copie \u00e0 partir dun original conserv\u00e9 dans les archives de S",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Costa",
+          "normalized_role": "\u00e9tabli sa copie \u00e0 partir dun original conserv\u00e9 dans les archives de S",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10666,
+          "titulus_id": 204,
+          "original_name": "Martin-du-",
+          "original_title": "",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Martin-du-",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10667,
+          "titulus_id": 204,
+          "original_name": "Son",
+          "original_title": "me la fait placer au XI 5",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Son",
+          "normalized_role": "me la fait placer au XI 5",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10668,
+          "titulus_id": 204,
+          "original_name": "Cuncte",
+          "original_title": "Dei Ecclesie circumquaque per orbem difuse",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Cuncte",
+          "normalized_role": "Dei Ecclesie circumquaque per orbem difuse",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10669,
+          "titulus_id": 204,
+          "original_name": "Dei",
+          "original_title": "circumquaque per orbem difuse",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Dei",
+          "normalized_role": "circumquaque per orbem difuse",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10670,
+          "titulus_id": 204,
+          "original_name": "Ko",
+          "original_title": "",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Ko",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "roll_id": 63,
+      "title": "Implicit Titulus",
+      "latin_text": "ROULEAUX  DES MORTS [XIS num; quorum enormitate nimium gravamur cotidie, quam 87 minima benefacta; nisi vestrorum sublevemur auxilio orationum, nobis que sufficere. Si enim ipsi celi non agimus non sunt mundi Dei tremendo posse scimus magis nos, qui, in iniquitatibus concepti, post sacri conspectui; emundationem quanto 5 mali rursus contagiis implicamur multimodis ? Quamobrem obnixi baptismatis; tenus acceptabilia vestrarum munera intercessionum nobis rogamus pro voto qua- ne debitis  secundum actuum merita   subjiciamur suffragentur; rerum, nostre compatiendo fragilitati; poenis.   Pius  enim petenda non abnuit petituris,   conditor apostoli ore precipiat dicens Orate pro invicem ut salvemini (1) cum ipse 10 dum quod qui caritativa animi dilectione 9) Unde scien - rant pro proximorum absolutione; clementiam superne majestatis utrisque implo- Humilium igitur aspernantes famulorum eeemium largitur salvationis etepo. in hujus vite stadio adhuc preces; non tam nobis petimus; consistentibus spatium non quibus tinus nobis denegatur fraternitatis caritatem inpendatiss orando sciliceg penitentie; qua- 15 Jutione reatuum; quam his qui ingressi viam pro nostrorum abso- nostrum hujus diurne luci[s] universe carnis sortiti sunt in medo pro peccatis mortuorum ocasum (sic) . Nostis quam sanctum sit et salubre quemdam  fratrem exorare; ut ab eorum solvantur nexibus (2) oserum egregie_probitatis monachum, Ex his officio functum; nomine illum, sacerdotali   quoque 20 orationibus; quo propitietur vestris precipue Dominus comitimus (sic) indesinenti prece bus vestris sjus; et redimat de interitu inferi intercessionibus cunctis iniquitati- miaenicordia et miserationer Quin\u00ede' animam ejus; qui xitam ac coronat in se sperantes in ducere, spretis (sic) cupiens hujus luce laudabilem in Domino per multos in Christi Seculi pompis, sumpsit habitum 25 carnis; famulatu degens nostre professionis; die illo, non sine multo annos; quousque terrea mole deposita vocante Deo, excessit. merore Fuerunt fratrum ergastulo et alii coram astantium; hominem; carnis educti, nostre Iis vite diversis congregationis fratres; qui mansiones; ex hujus cum quorumcrosina poribuss preordinatis . sibi, supramemorati petierunt inmorta- 30 sancte nomine fratris; qubtust ennotata vobis censuiruus dingcoda; memorie, Si pro quibus; videlicequllis aterum atque iterum vestre inculgemuas inscriberentur; fastidium illis atque mina illis, fundatis preberent et pro aliis, Altissimo nomina quorum, tis contraxerunt omnium, eentilegsntiquas Petimus \" graoinprec quo Ti\u0142a: corruptibilis' maculas si quas ex primi 35 homo 'peccatorum; quod omnino . transgressione paren- beatitudinis qui non peccet) , sua pietate certissimum faciat est (non est enim esse consortes. Amen. abstergendo emundet perpetueque",
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 10671,
+          "titulus_id": 205,
+          "original_name": "Si",
+          "original_title": "ipsi celi non agimus non sunt mundi Dei tremendo posse scimus magis nos",
+          "footnote_num": "1",
+          "footnote_text": "ILLUS CulI8ICgauiu CuiIUA incremento virtutum. Cum nos",
+          "normalized_name": "Si",
+          "normalized_role": "ILLUS CulI8ICgauiu CuiIUA incremento virtutum. Cum nos",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10672,
+          "titulus_id": 205,
+          "original_name": "Dei",
+          "original_title": "posse scimus magis nos",
+          "footnote_num": "2",
+          "footnote_text": "(\") In albacens B corrigez Malliacens; (b) transcripsit corrig\u00e9 en transcripsi par g",
+          "normalized_name": "Dei",
+          "normalized_role": "posse scimus magis nos",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10673,
+          "titulus_id": 205,
+          "original_name": "Quamobrem",
+          "original_title": "baptismatis",
+          "footnote_num": "3",
+          "footnote_text": "ce document, cf. supra; P. 138,",
+          "normalized_name": "Quamobrem",
+          "normalized_role": "ce document",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10674,
+          "titulus_id": 205,
+          "original_name": "Pius",
+          "original_title": "petenda non abnuit petituris",
+          "footnote_num": "5",
+          "footnote_text": "I",
+          "normalized_name": "Pius",
+          "normalized_role": "I",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10675,
+          "titulus_id": 205,
+          "original_name": "Orate",
+          "original_title": "invicem ut salvemini (1) cum ipse 10 dum quod qui caritativa animi dilectione 9) Unde scien - rant",
+          "footnote_num": "1",
+          "footnote_text": "trorum conscientia deterreamur peccami-",
+          "normalized_name": "Orate",
+          "normalized_role": "trorum conscientia deterreamur peccami-",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10676,
+          "titulus_id": 205,
+          "original_name": "Unde",
+          "original_title": "- rant pro proximorum absolutione",
+          "footnote_num": "7",
+          "footnote_text": "le propose J Coquet, Comtesse Aumode, p. 162. rattage du t final B.",
+          "normalized_name": "Unde",
+          "normalized_role": "le propose J Coquet",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10677,
+          "titulus_id": 205,
+          "original_name": "Humilium",
+          "original_title": "aspernantes famulorum eeemium largitur salvationis etepo",
+          "footnote_num": "8",
+          "footnote_text": "Op. cit., P. 91,n. 1.",
+          "normalized_name": "Humilium",
+          "normalized_role": "Op. cit.",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10678,
+          "titulus_id": 205,
+          "original_name": "Jutione",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "Jac , V,16.",
+          "normalized_name": "Jutione",
+          "normalized_role": "Jac",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10679,
+          "titulus_id": 205,
+          "original_name": "Nostis",
+          "original_title": "sanctum sit et salubre quemdam  fratrem exorare",
+          "footnote_num": "2",
+          "footnote_text": "Mach.,~ XII, 46 .",
+          "normalized_name": "Nostis",
+          "normalized_role": "Mach.",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10680,
+          "titulus_id": 205,
+          "original_name": "Ex",
+          "original_title": "officio functum",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Ex",
+          "normalized_role": "officio functum",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10681,
+          "titulus_id": 205,
+          "original_name": "Dominus",
+          "original_title": "(sic) indesinenti prece bus vestris sjus",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Dominus",
+          "normalized_role": "(sic) indesinenti prece bus vestris sjus",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10682,
+          "titulus_id": 205,
+          "original_name": "Quin",
+          "original_title": "' animam ejus",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Quin",
+          "normalized_role": "' animam ejus",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10683,
+          "titulus_id": 205,
+          "original_name": "Domino",
+          "original_title": "multos in Christi Seculi pompis",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Domino",
+          "normalized_role": "multos in Christi Seculi pompis",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10684,
+          "titulus_id": 205,
+          "original_name": "Christi",
+          "original_title": "pompis",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Christi",
+          "normalized_role": "pompis",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10685,
+          "titulus_id": 205,
+          "original_name": "De",
+          "original_title": "",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "De",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10686,
+          "titulus_id": 205,
+          "original_name": "Fuerunt",
+          "original_title": "ergastulo et alii coram astantium",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Fuerunt",
+          "normalized_role": "ergastulo et alii coram astantium",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10687,
+          "titulus_id": 205,
+          "original_name": "Iis",
+          "original_title": "diversis congregationis fratres",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Iis",
+          "normalized_role": "diversis congregationis fratres",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10688,
+          "titulus_id": 205,
+          "original_name": "Si",
+          "original_title": "quibus",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Si",
+          "normalized_role": "quibus",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10689,
+          "titulus_id": 205,
+          "original_name": "Altissimo",
+          "original_title": "quorum",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Altissimo",
+          "normalized_role": "quorum",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10690,
+          "titulus_id": 205,
+          "original_name": "Petimu",
+          "original_title": "\" graoinprec quo Ti\u0142a: corruptibilis' maculas si quas ex primi 35 homo 'peccatorum",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Petimu",
+          "normalized_role": "\" graoinprec quo Ti\u0142a: corruptibilis' maculas si quas ex primi 35 homo 'peccatorum",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10691,
+          "titulus_id": 205,
+          "original_name": "Ti",
+          "original_title": ": corruptibilis' maculas si quas ex primi 35 homo 'peccatorum",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Ti",
+          "normalized_role": ": corruptibilis' maculas si quas ex primi 35 homo 'peccatorum",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 10692,
+          "titulus_id": 205,
+          "original_name": "Ame",
+          "original_title": "",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Ame",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 264,
+      "roll_id": 63,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "ILLUS CulI8ICgauiu CuiIUA incremento virtutum. Cum nos"
+    },
+    {
+      "id": 268,
+      "roll_id": 63,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "trorum conscientia deterreamur peccami-"
+    },
+    {
+      "id": 265,
+      "roll_id": 63,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "(\") In albacens B corrigez Malliacens; (b) transcripsit corrig\u00e9 en transcripsi par g"
+    },
+    {
+      "id": 266,
+      "roll_id": 63,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "ce document, cf. supra; P. 138,"
+    },
+    {
+      "id": 267,
+      "roll_id": 63,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "I"
+    },
+    {
+      "id": 269,
+      "roll_id": 63,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "7",
+      "text": "le propose J Coquet, Comtesse Aumode, p. 162. rattage du t final B."
+    },
+    {
+      "id": 270,
+      "roll_id": 63,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "8",
+      "text": "Op. cit., P. 91,n. 1."
+    },
+    {
+      "id": 271,
+      "roll_id": 63,
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Jac , V,16."
+    },
+    {
+      "id": 272,
+      "roll_id": 63,
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Mach.,~ XII, 46 ."
+    }
+  ]
+}

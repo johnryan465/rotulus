@@ -1,1 +1,150 @@
-{"roll": {"id": 15, "roll_num": "23", "date_str": "S.d. [seconde moiti\u00e9 du IX' &] Formule de bref mortuaire \u00e0 Fusage de S. Amand_", "title": "", "manuscripts": "A. Original perdu. B. Wolfenb\u00fcttel, Herz.-August.-Bibl. Aug 4\" 9.8, fol. 99v (seconde moiti\u00e9 du IXS s) 6. B. Bischoff, Salzburger Formelb\u00fccher, P. 63.", "pdf_source": "Dufour T1 (1)", "pdf_pages": "14", "is_verified": 0}, "tituli": [{"id": 17, "roll_id": 15, "title": "Implicit Titulus", "latin_text": "15 Le ms. cit\u00e9 de Wolfenb\u00fcttel, contenant des Commentarii notarum tironianarum; & pour origine S. Amand ; le faire-part de d\u00e9c\u00e8s renferme lui-m\u00eame des notes tironiennes Reverentissimis in Christo fratribus in illo monasterio Deo famulantibus devoti   20 fratres vestri de alio monasterio; cujus vocabulum est ita et ita, in Deo patre salu- tem. Scitote igitur quod quidam frater presbyter aud monachus vel fidelis laicus anc flevilem finivit vitam die quo mensis illius; ut pro refrigerio hanime (sic) illius enixe divinam imploratis clementiam; quatenus penam evadat perpetuam et ad requiem den 2+0rnn0 hec nota inter vne ixta consuetudinem sine mora 25", "pdf_page": 14, "pdf_half": "right", "entities": [{"id": 1092, "titulus_id": 17, "original_name": "Le", "original_title": "", "footnote_num": "1", "footnote_text": "r", "normalized_name": "Le", "normalized_role": "r", "normalized_dates": "", "location_name": ""}, {"id": 1093, "titulus_id": 17, "original_name": "Wolfenb", "original_title": "", "footnote_num": "2", "footnote_text": "perveniat .", "normalized_name": "Wolfenb", "normalized_role": "perveniat .", "normalized_dates": "", "location_name": ""}, {"id": 1094, "titulus_id": 17, "original_name": "Commentarii", "original_title": "tironianarum", "footnote_num": "", "footnote_text": "", "normalized_name": "Commentarii", "normalized_role": "tironianarum", "normalized_dates": "", "location_name": ""}, {"id": 1095, "titulus_id": 17, "original_name": "Aman", "original_title": "", "footnote_num": "", "footnote_text": "", "normalized_name": "Aman", "normalized_role": "", "normalized_dates": "", "location_name": ""}, {"id": 1096, "titulus_id": 17, "original_name": "Reverentissimis", "original_title": "Christo fratribus in illo monasterio Deo famulantibus devoti   20 fratres vestri de alio monasterio", "footnote_num": "", "footnote_text": "", "normalized_name": "Reverentissimis", "normalized_role": "Christo fratribus in illo monasterio Deo famulantibus devoti   20 fratres vestri de alio monasterio", "normalized_dates": "", "location_name": ""}, {"id": 1097, "titulus_id": 17, "original_name": "Christo", "original_title": "in illo monasterio Deo famulantibus devoti   20 fratres vestri de alio monasterio", "footnote_num": "", "footnote_text": "", "normalized_name": "Christo", "normalized_role": "in illo monasterio Deo famulantibus devoti   20 fratres vestri de alio monasterio", "normalized_dates": "", "location_name": ""}, {"id": 1098, "titulus_id": 17, "original_name": "Deo", "original_title": "devoti   20 fratres vestri de alio monasterio", "footnote_num": "", "footnote_text": "", "normalized_name": "Deo", "normalized_role": "devoti   20 fratres vestri de alio monasterio", "normalized_dates": "", "location_name": ""}, {"id": 1099, "titulus_id": 17, "original_name": "Deo", "original_title": "salu- tem", "footnote_num": "", "footnote_text": "", "normalized_name": "Deo", "normalized_role": "salu- tem", "normalized_dates": "", "location_name": ""}, {"id": 1100, "titulus_id": 17, "original_name": "Scitote", "original_title": "quod quidam frater presbyter aud monachus vel fidelis laicus anc flevilem finivit vitam die quo men", "footnote_num": "", "footnote_text": "", "normalized_name": "Scitote", "normalized_role": "quod quidam frater presbyter aud monachus vel fidelis laicus anc flevilem finivit vitam die quo men", "normalized_dates": "", "location_name": ""}]}], "footnotes": [{"id": 26, "roll_id": 15, "pdf_page": 14, "pdf_half": "right", "footnote_num": "1", "text": "r"}, {"id": 27, "roll_id": 15, "pdf_page": 14, "pdf_half": "right", "footnote_num": "2", "text": "perveniat ."}]}
+{
+  "roll": {
+    "id": 15,
+    "roll_num": "23",
+    "date_str": "S.d. [seconde moiti\u00e9 du IX' &] Formule de bref mortuaire \u00e0 Fusage de S. Amand_",
+    "title": "",
+    "manuscripts": "A. Original perdu. B. Wolfenb\u00fcttel, Herz.-August.-Bibl. Aug 4\" 9.8, fol. 99v (seconde moiti\u00e9 du IXS s) 6. B. Bischoff, Salzburger Formelb\u00fccher, P. 63.",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "14",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 17,
+      "roll_id": 15,
+      "title": "Implicit Titulus",
+      "latin_text": "15 Le ms. cit\u00e9 de Wolfenb\u00fcttel, contenant des Commentarii notarum tironianarum; & pour origine S. Amand ; le faire-part de d\u00e9c\u00e8s renferme lui-m\u00eame des notes tironiennes Reverentissimis in Christo fratribus in illo monasterio Deo famulantibus devoti   20 fratres vestri de alio monasterio; cujus vocabulum est ita et ita, in Deo patre salu- tem. Scitote igitur quod quidam frater presbyter aud monachus vel fidelis laicus anc flevilem finivit vitam die quo mensis illius; ut pro refrigerio hanime (sic) illius enixe divinam imploratis clementiam; quatenus penam evadat perpetuam et ad requiem den 2+0rnn0 hec nota inter vne ixta consuetudinem sine mora 25",
+      "pdf_page": 14,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 1092,
+          "titulus_id": 17,
+          "original_name": "Le",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "r",
+          "normalized_name": "Le",
+          "normalized_role": "r",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 1093,
+          "titulus_id": 17,
+          "original_name": "Wolfenb",
+          "original_title": "",
+          "footnote_num": "2",
+          "footnote_text": "perveniat .",
+          "normalized_name": "Wolfenb",
+          "normalized_role": "perveniat .",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 1094,
+          "titulus_id": 17,
+          "original_name": "Commentarii",
+          "original_title": "tironianarum",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Commentarii",
+          "normalized_role": "tironianarum",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 1095,
+          "titulus_id": 17,
+          "original_name": "Aman",
+          "original_title": "",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Aman",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 1096,
+          "titulus_id": 17,
+          "original_name": "Reverentissimis",
+          "original_title": "Christo fratribus in illo monasterio Deo famulantibus devoti   20 fratres vestri de alio monasterio",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Reverentissimis",
+          "normalized_role": "Christo fratribus in illo monasterio Deo famulantibus devoti   20 fratres vestri de alio monasterio",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 1097,
+          "titulus_id": 17,
+          "original_name": "Christo",
+          "original_title": "in illo monasterio Deo famulantibus devoti   20 fratres vestri de alio monasterio",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Christo",
+          "normalized_role": "in illo monasterio Deo famulantibus devoti   20 fratres vestri de alio monasterio",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 1098,
+          "titulus_id": 17,
+          "original_name": "Deo",
+          "original_title": "devoti   20 fratres vestri de alio monasterio",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Deo",
+          "normalized_role": "devoti   20 fratres vestri de alio monasterio",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 1099,
+          "titulus_id": 17,
+          "original_name": "Deo",
+          "original_title": "salu- tem",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Deo",
+          "normalized_role": "salu- tem",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 1100,
+          "titulus_id": 17,
+          "original_name": "Scitote",
+          "original_title": "quod quidam frater presbyter aud monachus vel fidelis laicus anc flevilem finivit vitam die quo men",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Scitote",
+          "normalized_role": "quod quidam frater presbyter aud monachus vel fidelis laicus anc flevilem finivit vitam die quo men",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 26,
+      "roll_id": 15,
+      "pdf_page": 14,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "r"
+    },
+    {
+      "id": 27,
+      "roll_id": 15,
+      "pdf_page": 14,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "perveniat ."
+    }
+  ]
+}

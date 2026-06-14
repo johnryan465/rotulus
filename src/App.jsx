@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { 
-  Database, Search, CheckCircle, Download, Image as ImageIcon, 
-  BookOpen, UserCheck, RefreshCw, Sliders, ChevronRight, 
-  Calendar, MapPin, Edit3, Save, Eye, Check, X, AlertCircle
+  Database, Search, Download, Image as ImageIcon, 
+  BookOpen, UserCheck, ChevronRight, 
+  Calendar, MapPin, Edit3, Save, Check, X, AlertCircle
 } from 'lucide-react';
 
 // Helper to determine API base path
@@ -142,7 +142,7 @@ export default function App() {
             let colorIdx = 0;
             const allCoords = [];
 
-            Object.entries(data).forEach(([rId, rInfo]) => {
+            Object.entries(data).forEach(([_, rInfo]) => {
               const rollTravels = rInfo.travels;
               if (rollTravels.length === 0) return;
 

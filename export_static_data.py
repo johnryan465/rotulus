@@ -15,18 +15,21 @@ def get_db_connection():
 def export_data():
     """Exports SQLite data to public/api/ for static hosting."""
     if not os.path.exists(DB_PATH):
-        print(f"⚠️ {DB_PATH} not found. Skipping static export.")
-        return
+        print(f"❌ Error: {DB_PATH} not found.")
+        exit(1)
 
     conn = get_db_connection()
     cursor = conn.cursor()
 
     # Check if rolls table exists
-    cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='rolls'")
-    if not cursor.fetchone():
-        print("⚠️ 'rolls' table not found in database. Skipping static export.")
-        conn.close()
-        return
+    try:
+        cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='rolls'")
+        if not cursor.fetchone():
+            print("❌ Error: 'rolls' table not found in database.")
+            exit(1)
+    except Exception as e:
+        print(f"❌ Database error: {e}")
+        exit(1)
 
     if os.path.exists(OUTPUT_DIR):
         shutil.rmtree(OUTPUT_DIR)
