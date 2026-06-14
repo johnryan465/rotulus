@@ -280,6 +280,10 @@ h1, h2, h3, h4 {
   flex: 1;
 }
 
+.mobile-header {
+  display: none;
+}
+
 /* Responsive Breakpoints */
 @media (max-width: 1024px) {
   .dashboard-stats {
@@ -301,11 +305,40 @@ h1, h2, h3, h4 {
     flex-direction: column;
   }
 
+  .mobile-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    margin: 16px 16px 0 16px;
+  }
+
   .sidebar {
     width: auto;
     height: auto;
     position: static;
     margin: 16px;
+    transition: max-height 0.3s ease, padding 0.3s ease, margin 0.3s ease, opacity 0.3s ease;
+    overflow: hidden;
+  }
+
+  .sidebar.mobile-closed {
+    max-height: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    opacity: 0;
+    border: none;
+  }
+
+  .sidebar.mobile-open {
+    max-height: 1000px;
+    opacity: 1;
+  }
+
+  .sidebar-header {
+    display: none !important; /* Hide sidebar header on mobile since we have mobile-header */
   }
 
   .main-content {

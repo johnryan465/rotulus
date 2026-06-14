@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { 
   Database, Search, Download, Image as ImageIcon, 
   BookOpen, UserCheck, ChevronRight, 
-  Calendar, MapPin, Edit3, Save, Check, X, AlertCircle
+  Calendar, MapPin, Edit3, Save, Check, X, AlertCircle, Menu
 } from 'lucide-react';
 
 // Helper to determine API base path
@@ -35,6 +35,7 @@ const getApiUrl = (path) => {
 export default function App() {
   const [activeTab, setActiveTab] = useState('dashboard'); // dashboard, explorer, verification, export
   const [rolls, setRolls] = useState([]);
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
   const [loading, setLoading] = useState(false);
   
@@ -417,9 +418,22 @@ export default function App() {
 
   return (
     <div className="app-container">
-      {/* Sidebar */}
-      <div className="glass-panel sidebar">
+      {/* MOBILE HEADER */}
+      <div className="glass-panel mobile-header">
         <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
+          <Database size={24} color="var(--primary)" />
+          <div>
+            <h2 style={{ margin: 0, fontSize: '18px', letterSpacing: '0.05em' }}>ANTIGRAVITY</h2>
+          </div>
+        </div>
+        <button className="btn-secondary" onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)} style={{ padding: '8px', border: 'none', background: 'transparent' }}>
+          {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
+        </button>
+      </div>
+
+      {/* Sidebar */}
+      <div className={`glass-panel sidebar ${isMobileMenuOpen ? 'mobile-open' : 'mobile-closed'}`}>
+        <div className="sidebar-header" style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
           <Database size={32} color="var(--primary)" />
           <div>
             <h2 style={{ margin: 0, fontSize: '20px', letterSpacing: '0.05em' }}>ANTIGRAVITY</h2>
@@ -432,7 +446,7 @@ export default function App() {
           <button 
             className={`btn-secondary ${activeTab === 'dashboard' ? 'glass-panel-interactive' : ''}`}
             style={{ justifyContent: 'flex-start', background: activeTab === 'dashboard' ? 'rgba(99, 102, 241, 0.15)' : 'transparent', borderColor: activeTab === 'dashboard' ? 'var(--primary)' : 'transparent' }}
-            onClick={() => setActiveTab('dashboard')}
+            onClick={() => { setActiveTab('dashboard'); setIsMobileMenuOpen(false); }}
           >
             <BookOpen size={18} /> Dashboard
           </button>
@@ -440,7 +454,7 @@ export default function App() {
           <button 
             className={`btn-secondary ${activeTab === 'explorer' ? 'glass-panel-interactive' : ''}`}
             style={{ justifyContent: 'flex-start', background: activeTab === 'explorer' ? 'rgba(99, 102, 241, 0.15)' : 'transparent', borderColor: activeTab === 'explorer' ? 'var(--primary)' : 'transparent' }}
-            onClick={() => setActiveTab('explorer')}
+            onClick={() => { setActiveTab('explorer'); setIsMobileMenuOpen(false); }}
           >
             <Search size={18} /> Search Explorer
           </button>
@@ -453,6 +467,7 @@ export default function App() {
               if (rolls.length > 0 && !selectedRollId) {
                 handleSelectRoll(rolls[0].id);
               }
+              setIsMobileMenuOpen(false);
             }}
           >
             <UserCheck size={18} /> Verification Hub
@@ -461,7 +476,7 @@ export default function App() {
           <button 
             className={`btn-secondary ${activeTab === 'export' ? 'glass-panel-interactive' : ''}`}
             style={{ justifyContent: 'flex-start', background: activeTab === 'export' ? 'rgba(99, 102, 241, 0.15)' : 'transparent', borderColor: activeTab === 'export' ? 'var(--primary)' : 'transparent' }}
-            onClick={() => setActiveTab('export')}
+            onClick={() => { setActiveTab('export'); setIsMobileMenuOpen(false); }}
           >
             <Download size={18} /> Export Data
           </button>
@@ -469,7 +484,7 @@ export default function App() {
           <button 
             className={`btn-secondary ${activeTab === 'map' ? 'glass-panel-interactive' : ''}`}
             style={{ justifyContent: 'flex-start', background: activeTab === 'map' ? 'rgba(99, 102, 241, 0.15)' : 'transparent', borderColor: activeTab === 'map' ? 'var(--primary)' : 'transparent' }}
-            onClick={() => setActiveTab('map')}
+            onClick={() => { setActiveTab('map'); setIsMobileMenuOpen(false); }}
           >
             <MapPin size={18} /> Travel Map
           </button>
