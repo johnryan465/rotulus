@@ -143,7 +143,8 @@ export default function App() {
             }).addTo(mapLayersRef.current);
 
             // Directly clickable markers
-            marker.on('click', () => {
+            marker.on('click', (e) => {
+              window.L.DomEvent.stopPropagation(e);
               window.gotoRoll(rId);
             });
 
@@ -204,9 +205,9 @@ export default function App() {
 
   const handleSelectRoll = (id) => {
     setSelectedRollId(id);
+    setRollDetail(null); // Clear previous detail to show loading state
     fetchRollDetail(id);
     setIsEditing(false);
-    if (activeTab === 'explorer') setActiveTab('verification');
   };
 
   const fetchRollDetail = async (id) => {
@@ -291,20 +292,30 @@ export default function App() {
             </div>
           )}
 
-          {activeTab === 'explorer' && rollDetail && (
-            <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>
-              <div><div className="roll-num">ROLL N° {rollDetail.roll.roll_num}</div><h1>{rollDetail.roll.date_str}</h1></div>
-              <div className="glass-panel" style={{ padding: '32px' }}>
-                <h3>Scholarly Description</h3><p>{rollDetail.roll.title}</p>
-                <div style={{ marginTop: '24px', background: 'rgba(0,0,0,0.03)', padding: '16px' }}>Manuscripts: {rollDetail.roll.manuscripts}</div>
-              </div>
-              {rollDetail.tituli.map(t => (
-                <div key={t.id} className="glass-panel" style={{ padding: '32px' }}>
-                  <h3 className="gold-leaf">{t.location_name || t.title}</h3>
-                  <div className="latin-text">{t.latin_text}</div>
+          {activeTab === 'explorer' && (
+            rollDetail ? (
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>
+                <div><div className="roll-num">ROLL N° {rollDetail.roll.roll_num}</div><h1>{rollDetail.roll.date_str}</h1></div>
+                <div className="glass-panel" style={{ padding: '32px' }}>
+                  <h3>Scholarly Description</h3><p>{rollDetail.roll.title}</p>
+                  <div style={{ marginTop: '24px', background: 'rgba(0,0,0,0.03)', padding: '16px' }}>Manuscripts: {rollDetail.roll.manuscripts}</div>
                 </div>
-              ))}
-            </div>
+                {rollDetail.tituli.map(t => (
+                  <div key={t.id} className="glass-panel" style={{ padding: '32px' }}>
+                    <h3 className="gold-leaf">{t.location_name || t.title}</h3>
+                    <div className="latin-text">{t.latin_text}</div>
+                  </div>
+                ))}
+              </div>
+            ) : selectedRollId ? (
+              <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%', color: 'var(--text-muted)' }}>
+                <p>Loading document details...</p>
+              </div>
+            ) : (
+              <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%', color: 'var(--text-muted)' }}>
+                <p>Select a scroll from the sidebar to begin research.</p>
+              </div>
+            )
           )}
 
           {activeTab === 'verification' && rollDetail && (
