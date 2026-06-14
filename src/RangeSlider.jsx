@@ -3,7 +3,7 @@ import React, { useState, useEffect, useRef, useCallback } from 'react';
 const RangeSlider = ({ min, max, value, onChange }) => {
   const [lower, upper] = value;
   const sliderRef = useRef(null);
-  const [activeHandle, setActiveHandle] = useState(null); // 'lower' or 'upper'
+  const [activeHandle, setActiveHandle] = useState(null);
 
   const getPercentage = useCallback((val) => {
     if (max === min) return 0;
@@ -16,7 +16,7 @@ const RangeSlider = ({ min, max, value, onChange }) => {
     const pos = (clientX - rect.left) / rect.width;
     let val = Math.round(pos * (max - min) + min);
     return Math.max(min, Math.min(max, val));
-  }, [min, max, sliderRef]);
+  }, [min, max]);
 
   useEffect(() => {
     const handleMove = (clientX) => {
@@ -51,7 +51,7 @@ const RangeSlider = ({ min, max, value, onChange }) => {
   const up = getPercentage(upper);
 
   return (
-    <div className="range-container" ref={sliderRef}>
+    <div className="range-container" ref={sliderRef} style={{ pointerEvents: 'auto' }}>
       <div className="range-track" />
       <div 
         className="range-highlight" 
@@ -61,13 +61,13 @@ const RangeSlider = ({ min, max, value, onChange }) => {
         className="range-thumb"
         style={{ left: `${lp}%`, zIndex: activeHandle === 'lower' ? 10 : 5 }}
         onMouseDown={(e) => { e.preventDefault(); setActiveHandle('lower'); }}
-        onTouchStart={() => setActiveHandle('lower')}
+        onTouchStart={(e) => { e.preventDefault(); setActiveHandle('lower'); }}
       />
       <div 
         className="range-thumb"
         style={{ left: `${up}%`, zIndex: activeHandle === 'upper' ? 10 : 4 }}
         onMouseDown={(e) => { e.preventDefault(); setActiveHandle('upper'); }}
-        onTouchStart={() => setActiveHandle('upper')}
+        onTouchStart={(e) => { e.preventDefault(); setActiveHandle('upper'); }}
       />
     </div>
   );

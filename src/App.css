@@ -4,10 +4,10 @@
   --ink: #1a1a1a;
   --paper: #f4ecd8;
   --paper-dark: #e8dfc4;
-  --primary: #8b0000;
+  --primary: #8b0000; /* Deep Blood Red / Rubric */
   --primary-hover: #a52a2a;
-  --accent: #b8860b;
-  --border: rgba(0, 0, 0, 0.15);
+  --accent: #b8860b; /* Dark Goldenrod / Gold leaf */
+  --border: rgba(0, 0, 0, 0.2);
   --text: #2c2c2c;
   --text-muted: #5a5a5a;
   --header-height: 70px;
@@ -32,54 +32,64 @@ h1, h2, h3, h4 {
   letter-spacing: 0.02em;
 }
 
-/* CUSTOM SINGLE-TRACK MULTI-RANGE SLIDER */
+/* CUSTOM SINGLE-TRACK MULTI-RANGE SLIDER (STRICT ABSOLUTE) */
 .range-container {
   position: relative;
   width: 100%;
-  height: 40px;
-  display: flex;
-  align-items: center;
+  height: 40px; /* Explicit height for centering */
   user-select: none;
+  margin: 8px 0;
 }
 
+/* Base track */
 .range-track {
   position: absolute;
   width: 100%;
   height: 6px;
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(0, 0, 0, 0.15);
   border-radius: 3px;
+  top: 17px; /* (40 - 6) / 2 */
+  left: 0;
   z-index: 1;
 }
 
+/* Active range highlight */
 .range-highlight {
   position: absolute;
   height: 6px;
   background: var(--primary);
   border-radius: 3px;
+  top: 17px;
   z-index: 2;
 }
 
+/* Draggable Thumbs */
 .range-thumb {
   position: absolute;
-  width: 20px;
-  height: 20px;
+  width: 24px;
+  height: 24px;
   background: var(--paper);
   border: 2px solid var(--primary);
   border-radius: 50%;
   cursor: grab;
-  z-index: 5;
-  top: 50%;
-  transform: translate(-50%, -50%); /* Center perfectly on handle position */
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  transition: transform 0.1s ease;
+  z-index: 10;
+  top: 8px; /* (40 - 24) / 2 */
+  transform: translateX(-50%); /* Centered on percentage left */
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+  transition: transform 0.1s ease, box-shadow 0.1s ease;
+}
+
+.range-thumb:hover {
+  transform: translateX(-50%) scale(1.1);
+  box-shadow: 0 3px 8px rgba(0,0,0,0.4);
 }
 
 .range-thumb:active {
   cursor: grabbing;
-  transform: translate(-50%, -50%) scale(1.1);
+  transform: translateX(-50%) scale(1.2);
 }
 
-/* REST OF UI */
+/* General Layout Components */
 .main-container { display: flex; flex-direction: column; height: 100vh; width: 100%; overflow: hidden; }
 .top-nav {
   height: var(--header-height);
@@ -95,7 +105,7 @@ h1, h2, h3, h4 {
 }
 .logo-text { font-family: 'MedievalSharp', cursive; font-weight: 700; font-size: 1.6rem; color: var(--primary); }
 .content-area { display: flex; flex-grow: 1; overflow: hidden; position: relative; }
-.sidebar { width: 340px; border-right: 1px solid var(--border); display: flex; flex-direction: column; background: var(--paper-dark); background-image: var(--paper-texture); z-index: 40; }
+.sidebar { width: var(--sidebar-width); border-right: 1px solid var(--border); display: flex; flex-direction: column; background: var(--paper-dark); background-image: var(--paper-texture); z-index: 40; }
 .viewer-pane { flex-grow: 1; overflow-y: auto; padding: 32px; display: flex; flex-direction: column; gap: 32px; }
 .glass-panel { background: var(--paper); background-image: var(--paper-texture); border: 1px solid var(--border); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); border-radius: 4px; }
 .tab-btn { padding: 10px 24px; font-family: 'Cinzel', serif; font-size: 0.9rem; font-weight: 700; cursor: pointer; border: 1px solid transparent; background: transparent; color: var(--text-muted); transition: all 0.2s; }
@@ -106,8 +116,8 @@ h1, h2, h3, h4 {
 .search-input { width: 100%; background: #fff; border: 1px solid var(--accent); border-radius: 2px; padding: 10px 12px 10px 40px; color: var(--ink); font-family: 'EB Garamond', serif; font-size: 1.1rem; box-sizing: border-box; }
 #map-container { height: 700px; width: 100%; border: 1px solid var(--border); border-radius: 4px; background: #0f172a; }
 .latin-text { font-family: 'EB Garamond', serif; font-size: 1.25rem; line-height: 1.6; color: var(--ink); font-style: italic; padding: 24px; background: #fff; border-left: 4px solid var(--accent); box-shadow: inset 0 0 10px rgba(0,0,0,0.05); }
-.footnote-item { margin-bottom: 12px; color: var(--text-muted); }
 .footnote-num { font-weight: bold; color: var(--primary); margin-right: 8px; }
+.footnote-item { margin-bottom: 12px; color: var(--text-muted); }
 .rubric { color: var(--primary); font-weight: bold; }
 .gold-leaf { color: var(--accent); font-weight: bold; }
 ::-webkit-scrollbar { width: 10px; }
