@@ -1,0 +1,51 @@
+{
+  "roll": {
+    "id": 913,
+    "roll_num": "94",
+    "date_str": "S.d. [XIF ,.]",
+    "title": "Rouleau mortuaire ( fragmentaire ) anonyme. A. Paris, B. N. F., lat. 5605, fol. 1. Parchemin (c. c. [= verso], gris\u00e2tre c. P. [= recto], jaun\u00e2tre) . Un fragment opisthographe. Longueur, 16 cm ; Jargeur (incompl\u00e8te), 20,5 cm. 5 INDIQU\u00c9 L. Delisle; Rouleaux des morts du IX' au XVF s., P. 147, n? XXVIL. Comme le ms. Paris, B. N. E. Jat. 5605 provient de la biblioth\u00e8que du chapitre de Ch\u00e2lons-en- Champagne ( on peut penser que ce rouleau mortuaire circula \u00e0 [occasion de la mort dun \u00e9v\u00eaque de cette cit\u00e9- Le fragment, fort endommag\u00e9, contient trois titres, un en prose sur le \u20ac. \u20ac., deux en vers; appos\u00e9s 10 c\u00f4te \u00e0 c\u00f4te sur le \u20ac. p. (seul [un deux peut \u00eatre publi\u00e9, et seulement en partie, en raison du tr\u00e8s mauvais \u00e9tat de conservation du document) . (c c.) S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es (N.-D.)_ > Omni reverentie cultu Deo servientibus < clerus. Oraminis et amoris karitatissimum munus >-ellente infirmitate human\u00e7 fragilitatis ipso < > 15 sua. < >-tis omnes incole hujus sperice concavationis <- > unum inmunditus; ut nullius spiritus liber a < _ egrediatur corporis, oportet superstites mun-< semper indesinentium orationum hostias offerre > Quocirca nos sanctae Dei genitricis MARIF servuli < suscipientes rotulum ve[str]e legationis, domni 1> omnium inibi <.> Deo [servientium], nostre devotionis effectus.  Unde 20 nostre salutis spiritali fraternita[ti] (cp-)",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "47",
+    "is_verified": 0,
+    "year": null
+  },
+  "tituli": [
+    {
+      "id": 4168,
+      "roll_id": 913,
+      "title": "Implicit Titulus",
+      "location_name": "",
+      "latin_text": "2 S.d. = Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es. e 2 1 Cio00 dictione oubernans",
+      "pdf_page": 47,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 4167,
+      "roll_id": 913,
+      "pdf_page": 47,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "UMMLPULCIS 011A23Ce 0 Quas revocat, superis sedibus ipse locat, Corporeis que forte graves per tempora menbris Sunt virtute leves ac meritis celeres, Quas Domini pietas perlustrat lumine claro Post obitum sanctis cum reliquis nimium Interitus quorum non est deflendus morbe."
+    },
+    {
+      "id": 4168,
+      "roll_id": 913,
+      "pdf_page": 47,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Cf: L. Delisle, loc. cit."
+    },
+    {
+      "id": 4169,
+      "roll_id": 913,
+      "pdf_page": 47,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "25"
+    }
+  ]
+}

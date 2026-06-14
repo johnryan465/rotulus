@@ -855,13 +855,31 @@ def parse_and_load():
                 active_roll_title = data["title"]
                 active_roll_manuscripts = data["manuscripts"]
                 
-                cursor.execute("""
-                INSERT INTO rolls (roll_num, date_str, title, manuscripts, pdf_source, pdf_pages)
-                VALUES (?, ?, ?, ?, ?, ?)
-                """, (active_roll_num, active_roll_date, active_roll_title, active_roll_manuscripts, pdf_name, str(page_num)))
-                active_roll_id = cursor.lastrowid
+                # UPSERT: Check if this roll number already exists to avoid duplicates
+                cursor.execute("SELECT id, title, manuscripts, pdf_pages FROM rolls WHERE roll_num = ?", (active_roll_num,))
+                existing = cursor.fetchone()
+                
+                if existing:
+                    active_roll_id = existing[0]
+                    # Update metadata only if the new one is significantly longer (better OCR)
+                    if len(active_roll_title) > len(existing[1]):
+                        cursor.execute("UPDATE rolls SET title = ?, manuscripts = ?, date_str = ? WHERE id = ?", 
+                                     (active_roll_title, active_roll_manuscripts, active_roll_date, active_roll_id))
+                    
+                    # Append page to pages list
+                    pages_list = [p.strip() for p in existing[3].split(",") if p.strip()]
+                    if str(page_num) not in pages_list:
+                        pages_list.append(str(page_num))
+                        cursor.execute("UPDATE rolls SET pdf_pages = ? WHERE id = ?", (",".join(pages_list), active_roll_id))
+                else:
+                    cursor.execute("""
+                    INSERT INTO rolls (roll_num, date_str, title, manuscripts, pdf_source, pdf_pages)
+                    VALUES (?, ?, ?, ?, ?, ?)
+                    """, (active_roll_num, active_roll_date, active_roll_title, active_roll_manuscripts, pdf_name, str(page_num)))
+                    active_roll_id = cursor.lastrowid
+                    
                 roll_num_to_id[active_roll_num] = active_roll_id
-                print(f"Parsed Roll {active_roll_num}: {active_roll_title[:50]}...")
+                print(f"Aggregating Roll {active_roll_num}: {active_roll_title[:50]}...")
             elif item_type == 'titulus' and active_roll_id is not None:
                 text = " ".join(data["text_lines"])
                 ref_pattern = r'\b([A-Z][a-z\-]+)\s*[\(\[]?([®©§%#@\d\w]+)[\)\]]?\b'

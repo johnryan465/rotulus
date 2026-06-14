@@ -1,0 +1,28 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Saint-Maurice Abbey, Switzerland",
+    "coords": [
+      46.2163,
+      7.0033
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: v\u00e9ritablement digne dint\u00e9r\u00eat, car elle semble fid\u00e8..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: Reims"
+  }
+]
