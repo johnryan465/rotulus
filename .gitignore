@@ -30,3 +30,4 @@ raw_text/
 temp_ocr/
 __pycache__/
 .venv/
+.env

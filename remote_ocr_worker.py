@@ -1,41 +1,40 @@
-from fastapi import FastAPI, UploadFile, File
-import easyocr
+import os
+import io
 import numpy as np
 from PIL import Image
-import io
+from fastapi import FastAPI, UploadFile, File, BackgroundTasks
 import uvicorn
+from doctr.models import ocr_predictor
+import torch
 
-app = FastAPI()
+app = FastAPI(title="Remote DocTR OCR Worker")
 
-# Initialize EasyOCR with GPU
-# 'la' for Latin, 'fr' for French, 'en' for English
-reader = easyocr.Reader(['la', 'fr', 'en'], gpu=True)
+# Initialize DocTR with PyTorch backend and GPU
+# We use standard high-res models
+model = ocr_predictor(det_arch='db_resnet50', reco_arch='crnn_vgg16_bn', pretrained=True).cuda()
 
 @app.post("/ocr")
 async def perform_ocr(file: UploadFile = File(...)):
     contents = await file.read()
-    img = Image.open(io.BytesIO(contents))
+    img = Image.open(io.BytesIO(contents)).convert('RGB')
     
-    # Preprocessing: convert to grayscale if needed, but EasyOCR handles it
-    # We can also upscale here if the 3090 has enough VRAM
+    # Convert PIL to numpy for DocTR
     img_arr = np.array(img)
     
-    # Run EasyOCR
-    # paragraph=True helps grouping text lines
-    results = reader.readtext(img_arr, paragraph=True)
+    # DocTR expects a list of images
+    result = model([img_arr])
     
-    # Format results: [([[x,y], ...], text), ...]
-    # We convert numpy types to native python types for JSON serialization
-    formatted_results = []
-    for bbox, text in results:
-        # bbox is a list of 4 lists [x,y]
-        clean_bbox = [[int(coord[0]), int(coord[1])] for coord in bbox]
-        formatted_results.append({
-            "bbox": clean_bbox,
-            "text": text
-        })
-        
-    return {"results": formatted_results}
+    # Export to JSON-like structure
+    # result.export() returns a dict with pages, blocks, lines, words
+    return result.export()
+
+@app.get("/status")
+async def get_status():
+    return {
+        "status": "ready",
+        "gpu": torch.cuda.get_device_name(0),
+        "cuda_available": torch.cuda.is_available()
+    }
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
