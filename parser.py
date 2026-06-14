@@ -850,36 +850,53 @@ def parse_and_load():
         # First pass over items to insert rolls and map referenced footnote numbers to roll IDs
         for item_type, data in items:
             if item_type == 'roll':
-                active_roll_num = data["roll_num"]
+                raw_roll_num = data["roll_num"]
                 active_roll_date = data["date_str"]
                 active_roll_title = data["title"]
                 active_roll_manuscripts = data["manuscripts"]
                 
-                # UPSERT: Check if this roll number already exists to avoid duplicates
-                cursor.execute("SELECT id, title, manuscripts, pdf_pages FROM rolls WHERE roll_num = ?", (active_roll_num,))
-                existing = cursor.fetchone()
-                
-                if existing:
-                    active_roll_id = existing[0]
-                    # Update metadata only if the new one is significantly longer (better OCR)
-                    if len(active_roll_title) > len(existing[1]):
-                        cursor.execute("UPDATE rolls SET title = ?, manuscripts = ?, date_str = ? WHERE id = ?", 
-                                     (active_roll_title, active_roll_manuscripts, active_roll_date, active_roll_id))
-                    
-                    # Append page to pages list
-                    pages_list = [p.strip() for p in existing[3].split(",") if p.strip()]
-                    if str(page_num) not in pages_list:
-                        pages_list.append(str(page_num))
-                        cursor.execute("UPDATE rolls SET pdf_pages = ? WHERE id = ?", (",".join(pages_list), active_roll_id))
+                # RANGE EXPANSION: Convert "8-10" to ["8", "9", "10"]
+                nums_to_process = []
+                if "-" in str(raw_roll_num):
+                    try:
+                        start_n, end_n = map(int, str(raw_roll_num).split("-"))
+                        nums_to_process = [str(n) for n in range(start_n, end_n + 1)]
+                    except:
+                        nums_to_process = [str(raw_roll_num)]
                 else:
-                    cursor.execute("""
-                    INSERT INTO rolls (roll_num, date_str, title, manuscripts, pdf_source, pdf_pages)
-                    VALUES (?, ?, ?, ?, ?, ?)
-                    """, (active_roll_num, active_roll_date, active_roll_title, active_roll_manuscripts, pdf_name, str(page_num)))
-                    active_roll_id = cursor.lastrowid
+                    nums_to_process = [str(raw_roll_num)]
+
+                for active_roll_num in nums_to_process:
+                    # UPSERT: Check if this roll number already exists to avoid duplicates
+                    cursor.execute("SELECT id, title, manuscripts, pdf_pages FROM rolls WHERE roll_num = ?", (active_roll_num,))
+                    existing = cursor.fetchone()
                     
-                roll_num_to_id[active_roll_num] = active_roll_id
-                print(f"Aggregating Roll {active_roll_num}: {active_roll_title[:50]}...")
+                    if existing:
+                        active_roll_id = existing[0]
+                        # Update metadata only if the new one is significantly longer (better OCR)
+                        if len(active_roll_title) > len(existing[1]):
+                            cursor.execute("UPDATE rolls SET title = ?, manuscripts = ?, date_str = ? WHERE id = ?", 
+                                         (active_roll_title, active_roll_manuscripts, active_roll_date, active_roll_id))
+                        
+                        # Append page to pages list
+                        pages_list = [p.strip() for p in existing[3].split(",") if p.strip()]
+                        if str(page_num) not in pages_list:
+                            pages_list.append(str(page_num))
+                            cursor.execute("UPDATE rolls SET pdf_pages = ? WHERE id = ?", (",".join(pages_list), active_roll_id))
+                    else:
+                        cursor.execute("""
+                        INSERT INTO rolls (roll_num, date_str, title, manuscripts, pdf_source, pdf_pages)
+                        VALUES (?, ?, ?, ?, ?, ?)
+                        """, (active_roll_num, active_roll_date, active_roll_title, active_roll_manuscripts, pdf_name, str(page_num)))
+                        active_roll_id = cursor.lastrowid
+                    
+                    roll_num_to_id[active_roll_num] = active_roll_id
+                    print(f"Expanding/Aggregating Roll {active_roll_num}: {active_roll_title[:50]}...")
+                
+                # For subsequent tituli, we link to the last roll in the range (the most recent one)
+                # This is a heuristic: tituli usually follow the last header of the group.
+                active_roll_id = roll_num_to_id[nums_to_process[-1]]
+                
             elif item_type == 'titulus' and active_roll_id is not None:
                 text = " ".join(data["text_lines"])
                 ref_pattern = r'\b([A-Z][a-z\-]+)\s*[\(\[]?([®©§%#@\d\w]+)[\)\]]?\b'
@@ -922,41 +939,63 @@ def parse_and_load():
         # Second pass over items to insert tituli and extract/insert entities
         for item_type, data in items:
             if item_type == 'roll':
-                active_roll_id = roll_num_to_id[data["roll_num"]]
+                raw_roll_num = data["roll_num"]
+                nums_to_process = []
+                if "-" in str(raw_roll_num):
+                    try:
+                        start_n, end_n = map(int, str(raw_roll_num).split("-"))
+                        nums_to_process = [str(n) for n in range(start_n, end_n + 1)]
+                    except:
+                        nums_to_process = [str(raw_roll_num)]
+                else:
+                    nums_to_process = [str(raw_roll_num)]
+                
+                # Use the last one in range as the active ID for tituli follow-up
+                active_roll_ids = [roll_num_to_id[n] for n in nums_to_process]
+                active_roll_id = active_roll_ids[-1]
+                
             elif item_type == 'titulus':
                 latin_text = " ".join(data["text_lines"])
                 loc_name = data.get("location_name", "")
-                cursor.execute("""
-                INSERT INTO tituli (roll_id, title, location_name, latin_text, pdf_page, pdf_half)
-                VALUES (?, ?, ?, ?, ?, ?)
-                """, (active_roll_id, data["title"], loc_name, latin_text, page_num, half))
-                titulus_id = cursor.lastrowid
                 
-                cursor.execute("SELECT footnote_num, text FROM footnotes WHERE roll_id = ?", (active_roll_id,))
-                roll_fns = [{"num": r["footnote_num"], "text": r["text"]} for r in cursor.fetchall()]
+                # If we have a range (e.g. 8-10), we insert the titulus for EVERY roll in that range
+                # to ensure each scroll entry has the full data.
+                target_ids = active_roll_ids if 'active_roll_ids' in locals() else [active_roll_id]
                 
-                entities = extract_entities(data, roll_fns)
-                if re.search(r'Domino\s+Bonifacio', data["title"]):
-                    entities.append({
-                        "original_name": "Bonifacio",
-                        "original_title": "archiepiscopo",
-                        "footnote_num": "3",
-                        "footnote_text": "Boniface, archevêque de Mainz",
-                        "normalized_name": "Boniface",
-                        "normalized_role": "archbishop",
-                        "normalized_dates": "747-749",
-                        "location_name": "Mainz"
-                    })
-                for ent in entities:
+                for r_id in target_ids:
                     cursor.execute("""
-                    INSERT INTO entities (
-                        titulus_id, original_name, original_title, footnote_num, footnote_text,
-                        normalized_name, normalized_role, normalized_dates, location_name
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
-                    """, (
-                        titulus_id, ent["original_name"], ent["original_title"], ent["footnote_num"], ent["footnote_text"],
-                        ent["normalized_name"], ent["normalized_role"], ent["normalized_dates"], ent["location_name"]
-                    ))
+                    INSERT INTO tituli (roll_id, title, location_name, latin_text, pdf_page, pdf_half)
+                    VALUES (?, ?, ?, ?, ?, ?)
+                    """, (r_id, data["title"], loc_name, latin_text, page_num, half))
+                    titulus_id = cursor.lastrowid
+                    
+                    # Fetch footnotes for this specific roll
+                    cursor.execute("SELECT footnote_num, text FROM footnotes WHERE roll_id = ?", (r_id,))
+                    roll_fns = [{"num": r["footnote_num"], "text": r["text"]} for r in cursor.fetchall()]
+                    
+                    entities = extract_entities(data, roll_fns)
+                    # ... (keep specialized Bonifacio logic) ...
+                    if re.search(r'Domino\s+Bonifacio', data["title"]):
+                        entities.append({
+                            "original_name": "Bonifacio",
+                            "original_title": "archiepiscopo",
+                            "footnote_num": "3",
+                            "footnote_text": "Boniface, archevêque de Mainz",
+                            "normalized_name": "Boniface",
+                            "normalized_role": "archbishop",
+                            "normalized_dates": "747-749",
+                            "location_name": "Mainz"
+                        })
+                    for ent in entities:
+                        cursor.execute("""
+                        INSERT INTO entities (
+                            titulus_id, original_name, original_title, footnote_num, footnote_text,
+                            normalized_name, normalized_role, normalized_dates, location_name
+                        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                        """, (
+                            titulus_id, ent["original_name"], ent["original_title"], ent["footnote_num"], ent["footnote_text"],
+                            ent["normalized_name"], ent["normalized_role"], ent["normalized_dates"], ent["location_name"]
+                        ))
                 
     conn.commit()
     conn.close()

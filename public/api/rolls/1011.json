@@ -1,0 +1,56 @@
+{
+  "roll": {
+    "id": 1011,
+    "roll_num": "83",
+    "date_str": "S.d. [1096, apr\u00e8s le 29 juillet]",
+    "title": "Titre compos\u00e9 par Baudri de Bourgueil pour le rouleau mortuaire de Jo\u00ebl [d Antins] , abb\u00e9 de la Couture du Mans, et de Ho\u00ebl, \u00e9v\u00eaque du Mans (t 29 juillet 1096) A. Original perdu. B. Vaticano; Reg lat. 1351, fol. 27 (XIIS s.) . 10 a. A. Duchesne, Historiae Francorum scriptores; Paris; t. IV, 1641, P. 252, * ex veteri codice ms. Alexandri Petavii 0 6. Annales ordinis sancti Benedicti, L. V, p.377 (\u00e9d. partielle) . c.PL.,t. CLXVI, col. 1183. d. P. Abrahams, Les \u0153uvres po\u00e9tiques de Baudri de Bourgueil 1046-1130) _ \u00c9dition critique publi\u00e9e dapr\u00e8s le ms. du Vatican  , Paris, 1926, p. 60,n LIII, dapr\u00e8s B.-eK. Hilbert, Baldricus Burgulianus.  Carmina, Heidelberg, 1979, p. 47, n 18, dapr\u00e8s B. - f J-Y 15 Tilliette, Baudri de Bourgueil. Po\u00e8mes, Paris, t. I, 1998, p. 41, n' 18. TRADUCTION J-Y. Tilliette, loc. cit. INDIQU\u00c9 J Raine, William Ebchester and John Burnby P. VIL. ~L. Delisle, Rouleaux des morts du IX au XV* s, P. 144, n\" XXVI L. Delisle; Notes   sur les po\u00e9sies de Baudri, abb\u00e9 de Bourgueil %, dans Romania, t. 1, 1872, p. 31,n? LIIL. ~J-H. Foulon, La r\u00e9forme de V\u00c9glise dans   20 la France de Vouest, t. I, p. 239. Jo\u00ebl d'Antins, abb\u00e9 de la Couture, d\u00e9dia ses Miracula s. Nicolai \u00e0 Ho\u00ebl, \u00e9v\u00eaque du Mans ; il serait mort le 2juin 1096 (1)- pauper clericus; sed nobilis et bene morigeratus dabord doyen Ho\u00ebl (2) , dorigine bretonne; 1001 /1009 maic nar euite dePonnosition du comte &Aniou, 25",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "39,40",
+    "is_verified": 0,
+    "year": 1096
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 4780,
+      "roll_id": 1011,
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Mans; est elu eveque UC Celle CilC U1 v"
+    },
+    {
+      "id": 4781,
+      "roll_id": 1011,
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "sit ei celestis remplac\u00e9 , par vivat mens ejus, ajo"
+    },
+    {
+      "id": 4782,
+      "roll_id": 1011,
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Cf. Annales   ordinis   sancti Benedicti, t. V, p. 377. (2) A son sujet, cf. < Ho\u00ebl, \u00e9v\u00eaque du Mans % DHGE , t. XXIV, coL 738-739 dans"
+    },
+    {
+      "id": 4783,
+      "roll_id": 1011,
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "en interligne B."
+    },
+    {
+      "id": 4784,
+      "roll_id": 1011,
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "footnote_num": "7",
+      "text": "(R. Aubert) . (3)   Orderic Vital, Historia ecclesiastica, ed. M. Chibnall, t. II, P. 300."
+    }
+  ]
+}
