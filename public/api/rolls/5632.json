@@ -1,0 +1,66 @@
+{
+  "roll": {
+    "id": 5632,
+    "roll_num": "87",
+    "date_str": "S.d.",
+    "title": "",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "41,42,43",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 36027,
+      "roll_id": 5632,
+      "title": "[Original Document / Letter]",
+      "location_name": "",
+      "latin_text": "Nimirum, patri plus quam vobis doluistis. Nec () mirum lacrimas extorsit viscus amoris. Sed cadat iste dolor Deus est medicina doloris. Patri consulite pia pro patre vota vovendo (b) Necnon et vobis jam de patre substituendo. Rouleau mortuaire de Durand, \u00e9v\u00eaque de Clermont. Document perdu mentionn\u00e9 dans le titre de Baudri de Bourgueil pour le rouleau mortuaire dAudebert; archev\u00eaque de Bourges (2) _ 10 Durand fut \u00e9v\u00eaque de Clermont entre 1077 et 1095 () _ Titre de Baudri de Bourgueil Durandi siquidem pallentes vidimus artus, Cum nos Arvernis Urbanus papa vocasset. \" Rouleau mortuaire de G\u00e9raud, abb\u00e9 de Montierneuf (t 17 janvier 1097,n. st.) _ Document perdu (4) mentionn\u00e9 dans le titre de Baudri de Bourgueil pour le rouleau mortuaire (5) &'Audebert, archev\u00eaque de Bourges (6) G\u00e9raud, abb\u00e9 de Montierneuf, mourut le 17 janvier 1097 (n. st.) 20",
+      "pdf_page": 41,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 29463,
+      "roll_id": 5632,
+      "pdf_page": 41,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "vers, oudlle, Q ele UuulC Cil 7ll6\" Pe"
+    },
+    {
+      "id": 29464,
+      "roll_id": 5632,
+      "pdf_page": 41,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "exponctuation du i et addition du 0 en interligr"
+    },
+    {
+      "id": 29465,
+      "roll_id": 5632,
+      "pdf_page": 41,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Cf.L. Delisle, Rouleaux des morts du IX: au XVe s, p. 144,n XXVI. (2) \u00c9d. infra, P. 236, n 88. Baudri de Bour- gueil composa en outre deux \u00e9pitaphes  pour Durand (\u00e9d. J-Y. Tilliette; op. cit., t. I, P. 57, n' 50 ; P. 58, n 51)."
+    },
+    {
+      "id": 29467,
+      "roll_id": 5632,
+      "pdf_page": 41,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Ce. Gallia   christiana, L, II, col. 263 Gams, P. 538. (4) Cf.L. Delisle, Rouleaux des morts [X' au XVe s , P. 144, n? XXVI (5) \u00c9d. infra, P. 236, n 88, (6)   Cf. Gallia christiana, t. IL, col 1265."
+    },
+    {
+      "id": 29466,
+      "roll_id": 5632,
+      "pdf_page": 41,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "B."
+    }
+  ]
+}

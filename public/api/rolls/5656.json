@@ -1,0 +1,31 @@
+{
+  "roll": {
+    "id": 5656,
+    "roll_num": "118",
+    "date_str": "S.d.",
+    "title": "118 [82] S.d.- Gent, S. Baafs. T. Sancti Bavonis in Candavo. In verbis quanquam nobis sit magna facultas;, Non pro posse tamen, sit prodere verba voluntas; Sed flentes breviter dicamus Summe magister; Brunoni charo tibi, Rex, in carne fideli, Cui sup",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "86,81,82,83",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 29574,
+      "roll_id": 5656,
+      "pdf_page": 86,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "n\" 148 '[115]."
+    },
+    {
+      "id": 29575,
+      "roll_id": 5656,
+      "pdf_page": 86,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "c [ auDajCUC DcucuicliucaUCLCe"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Montecassino Abbey, Italy",
+    "coords": [
+      41.4901,
+      13.8143
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: gratanter accepimus nostram parvitatem tam, ut sic..."
+  }
+]

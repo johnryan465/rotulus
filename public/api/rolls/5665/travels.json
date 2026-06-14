@@ -1,0 +1,22 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Spalding",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Origin: 131 [88] S.d.- Spalding, S. Mary et S. Nicholas T...."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "_ ~ Lincoln",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: _ ~ Lincoln"
+  }
+]

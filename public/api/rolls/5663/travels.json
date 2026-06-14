@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Glastonbury, England",
+    "coords": [
+      51.1473,
+      -2.7186
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: 129 [86] S.d. 8 [Bury] S. Edmunds. Isancti Edmundi..."
+  }
+]

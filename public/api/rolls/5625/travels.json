@@ -1,0 +1,62 @@
+[
+  {
+    "step": 0,
+    "type": "stop",
+    "name": "de Morembert)",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: de Morembert)"
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "ecclesiae Lugdunensis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: ecclesiae Lugdunensis"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "ecclesiae Sancti Iraenei et Sa",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: ecclesiae Sancti Iraenei et Sa"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "ecclesiae Noviomensis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: ecclesiae Noviomensis"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "monasterii Sancti Eligii Novio",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: monasterii Sancti Eligii Novio"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "ecclesiae Atrebatensis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: ecclesiae Atrebatensis"
+  }
+]

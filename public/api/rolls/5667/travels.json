@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Lucca, Italy",
+    "coords": [
+      43.8429,
+      10.5027
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: 135 [92] S.d.- York; cathedral (S. Peter) I.Sancti..."
+  }
+]

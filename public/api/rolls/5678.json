@@ -1,0 +1,106 @@
+{
+  "roll": {
+    "id": 5678,
+    "roll_num": "148",
+    "date_str": "S.d.",
+    "title": "148 [115] S.d,- [Pr\u00e9aux,] S. L\u00e9ger 'TSancti Lcodegarii. Hic Lcodegarii titulus describitur almi, facic mortis nequit ullus sistere fortis, Sed fumo similis vita viri sterilis, Labitur ut ventus pulcherrima nata juventus. Eque tolluntur pessimus atque",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "92,78,79,80",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 36586,
+      "roll_id": 5678,
+      "title": "[Original Document / Letter]",
+      "location_name": "",
+      "latin_text": "[1180] delicatis   delicias sustineret, ut omnia cum fieret et frugalitatis clavicula gutturis omnibus retur parcitatis ac irritationem sic hostili 1na hoc ipso; convivis licet subticentibus; satis consueverat tamen ut superque suffocare; fere tunc in prandendo sibi metam ponebat; cup molestiis quod necdum haberetur; Inquietis et vagis et his; in quibus agilitas plene crederetur. manuum; oculorum cepisse= mobilis inconstantiam   profitentur; clavus erat et clava 5 animi nutus; et omnis impatiens causam  querebat   effugii, ne vultui ejus astaret. Hanc quietis enim maturitatis suis sensibus maritarat et hanc munditie legem gravitatem membris quod et nobis, qui secretius ei astitimus;   protestatus est; indiderat, antequam exiret, quia ab ipso vite monachilis exordio usque ad diem, in qua dolore 10 hominem curvabatur ad exitum, nullam lubrice  voluptatis in carne vigilans sustinuerit corruptelam. Quia tamen humani cordis abyssum penitrare (sic) () supra homi- est, nec seipsum sufficit homo metiri; et nemo hominum inter hominum nem preter Filium hominis, invenitur; qui sic ad unguem filios; vitam gerat  vitiis aut ita jugiter faciat, quod decet, ut nichil unquam; quod dedeceat,  15 immunem; operetur; si quas de terreni pulveris attaminatione contraxit maculas, modis omni- bus supplicamus; ut orationum vestrarum nitrum diluendo deleat:. Rogamus etiam et obsecramus in Domino Jesu, ut a ludicris caveatis et inscriptio vestra sapiat non plausum, luctum, non lusum, nec preceps petulantia calamum planctum, moveat ad cachinnum, sed preces et postulationes flectant ad veniam Judicem et, 2 ut vestre largitas munificentie brevigeris necessaria subministret, ut vobis in ipsis gratiam pro gratia > (2) rependere teneamur: abb\u00e9 de 25 Echange de brefs institu\u00e9 entre Pierre, abb\u00e9 de S. Maixen'; et Guillaume; F S Aubin d Angers, ann\u00e9e avant la S. Maixent [26  juin]. chaque A. Original perdu . B. Angers; B. M 29 ms. 831 (747 n\u00e9crologe de S. Aubin d'Angers (), p. 58.",
+      "pdf_page": 78,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 29861,
+      "roll_id": 5678,
+      "pdf_page": 78,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "corrig\u00e9 en penetrare par a. Cf. I infirmus; Cor., IX, 22 ut Factus sum infirmis omnia infirmos factus lucri facerem. Omnibus sum 9 ."
+    },
+    {
+      "id": 29862,
+      "roll_id": 5678,
+      "pdf_page": 78,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "16. R\u00e9pertoire; Joh., I, JL Lema\u00eetre; _ Sur ce ms, cf: t. I, p. 372,n 674."
+    },
+    {
+      "id": 29863,
+      "roll_id": 5678,
+      "pdf_page": 79,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Ils'agit  S soit de Petrus Raimundi, abb\u00e9 de Maixent de 1134 \u00e0 1158/1163, soit de son successeur Petrus de Turre 1180) = cf. (vers 1175 ; Gallia  mars christiana, t. II, col. 1255."
+    },
+    {
+      "id": 29864,
+      "roll_id": 5678,
+      "pdf_page": 79,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Angers de S. Aubin (2) Guillelmus, abb\u00e9 mortuaire un rouleau (1157-1189), pour lequel II, n? 151). fut mis en circulation (\u00e9d. t."
+    },
+    {
+      "id": 29865,
+      "roll_id": 5678,
+      "pdf_page": 86,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "; 1"
+    },
+    {
+      "id": 29866,
+      "roll_id": 5678,
+      "pdf_page": 88,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Ducuicus"
+    },
+    {
+      "id": 29867,
+      "roll_id": 5678,
+      "pdf_page": 88,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "LCrie"
+    },
+    {
+      "id": 29868,
+      "roll_id": 5678,
+      "pdf_page": 88,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "Durc"
+    },
+    {
+      "id": 29869,
+      "roll_id": 5678,
+      "pdf_page": 89,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Odsr"
+    },
+    {
+      "id": 29589,
+      "roll_id": 5678,
+      "pdf_page": 92,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "8"
+    }
+  ]
+}

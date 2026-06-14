@@ -1,0 +1,25 @@
+{
+  "roll": {
+    "id": 5658,
+    "roll_num": "123",
+    "date_str": "S.d.",
+    "title": "123 [106] S.d. 2 Arras, cath\u00e9drale (N, ~D) T. Sancte Marie Attrebatensis sedis. Lux eterna Deus, preter quam nil valet esse, Qui nobis voluit pasci de semine Jesse; Participem faciat te, Bruno; sue bonitatis; Qui fons multifluus est mirifice pietatis",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "87",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 36161,
+      "roll_id": 5658,
+      "title": "[Original Document / Letter]",
+      "location_name": "",
+      "latin_text": "S.d. 2 S.1. [Arras, cath\u00e9drale (N.-D.)]. Alius titulus ejusdem. Recte, Bruno; vie dux et fons philosophie Non aliter docuit, vivere quam studuit . Dum bene vivendo fecit, quodcunque loquendo Vir bonus ostendit, celitus emicuit . Unde sibi merces donetur gloria perpes Ac diuturna quies et sine nocte dies.",
+      "pdf_page": 87,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": []
+}

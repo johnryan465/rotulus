@@ -1,0 +1,118 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Luxeuil Abbey, France",
+    "coords": [
+      47.8178,
+      6.3117
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: 140 [96] S.d. S.1 [York, cathedral (S. Peter)] . I..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Sancti Petri Psalmodiensis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancti Petri Psalmodiensis"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "!Ve cui mundus placet",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: !Ve cui mundus placet"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "SANCTI SALVATORIS MONASTERII L",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: SANCTI SALVATORIS MONASTERII L"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "(d) SANCTI PETRI JUNCELLIS MON",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: (d) SANCTI PETRI JUNCELLIS MON"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: Sancti Germani Parisiensis"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Sancti  Dionisii Montis Martir",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancti  Dionisii Montis Martir"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "() Sancti Dionisii Ariopagisti",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: () Sancti Dionisii Ariopagisti"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Sancte Marie Columbis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancte Marie Columbis"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Sanctae Mariae JOSAPHAT",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sanctae Mariae JOSAPHAT"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Sancti Johlannis Carnotensis]",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancti Johlannis Carnotensis]"
+  }
+]

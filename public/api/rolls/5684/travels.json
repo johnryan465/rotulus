@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: 115 [120] S.d.- [Angers] S. Serge; S. Bacchus. T s..."
+  }
+]

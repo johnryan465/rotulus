@@ -1,0 +1,62 @@
+[
+  {
+    "step": 0,
+    "type": "stop",
+    "name": "SANCTI BERTINI",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: SANCTI BERTINI"
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "(d) sancte 'ind\u00e9termin\u00e9e",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: (d) sancte 'ind\u00e9termin\u00e9e"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "SANCTI PETRI CATALAUNENSIS Qui",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: SANCTI PETRI CATALAUNENSIS Qui"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "SANCTE CRUCIS SANCTIQUE FARONI",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: SANCTE CRUCIS SANCTIQUE FARONI"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "one",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: one"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "() SANCTI SALVATORIS VIRTUENSI",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: () SANCTI SALVATORIS VIRTUENSI"
+  }
+]

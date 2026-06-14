@@ -1,0 +1,100 @@
+{
+  "roll": {
+    "id": 5676,
+    "roll_num": "145",
+    "date_str": "S.d.",
+    "title": "145 [103] S.d.- ~ Malmesbury; S. Mary; S. Aldhelm. T Sancte Ms",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "91,92,75,76,77",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 36166,
+      "roll_id": 5676,
+      "title": "20 146 [111] S.d. Rouen, 1 Sancte cath\u00e9drale (N._ Marie  D) Ecclesie sancte totius  Rothomagensis ec",
+      "location_name": "Rouen",
+      "latin_text": "20 146 [111] S.d. Rouen, 1 Sancte cath\u00e9drale (N._ Marie  D) Ecclesie sancte totius  Rothomagensis ecclesie. Humani lugeat ordo; generis fens Mundo irreparabile . decessit damnum Bruno mundani Pater; victor honoris 25 Cujus ' sancte fundator 'tanta piam vitam 'relligionis '(sic) Ut sit eum commendat cuiquam non honestas; Ipse fuit sapiens; vir equiparare potestas . Imbutus  nobilis; fonte totius indole fulgens, In quo cum philosophie 30 virtus Glorificos probitatis fasces, viva qua niteret, Proculcator , promeruisse opum; valeret, Et mundi cunctorum stultam 'pede spretor Et studio contulit honorum, sanctam fundavit - ambitionem Mundum 35 declinans; relligionem Elegit  mundi (sic). 'potius privata . sublimia Sed degere vitans quamvis. humilis vita. Cf clarus Ps , L. meritis eremita, [1103]",
+      "pdf_page": 92,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 36585,
+      "roll_id": 5676,
+      "title": "[Original Document / Letter]",
+      "location_name": "",
+      "latin_text": "Encyclique sollicitant de prier pour Yves [II] , abb\u00e9 de S. Denis (t 14 f\u00e9vrier 1173, 15 7l . st.) A. Original perdu. B. Paris, B N. F., lat. 14192, fol. 15v (XII\" s.). \u0152. Ed: Mart\u00e8ne et U. Durand, Thesaurus; + I; col. 571, dapr\u00e8s B ex mnS. Cosliniano *) 6 L Delisle, Rouleaux des morts du IX\" au XV\" s, P. 372,n\" LIV;, dapr\u00e8s B. INDIQu\u00c9 Histoire liu\u00e9raire de la France; t. XIII, 1869, P. 605. Yves II abb\u00e9 de S. Denis, fut en charge peu de temps, de 1169 \u00e0 sa mort, que divers obituaires de S. Denis placent le 14 f\u00e9vricr (2) sans doute en 1173 (n. at.) . [Ulniversis Matris Fcclesie Gliis et Gudlelibue hum",
+      "pdf_page": 75,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 29857,
+      "roll_id": 5676,
+      "pdf_page": 75,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Dyonisii conventus salutem et ga opem implorat. Justum etenim   valde"
+    },
+    {
+      "id": 29858,
+      "roll_id": 5676,
+      "pdf_page": 75,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "A son sujet, cf. Gallia christiana; t. VII, col. 379-380. (2) Cf. notamment Obituaires de la province"
+    },
+    {
+      "id": 29859,
+      "roll_id": 5676,
+      "pdf_page": 75,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Vcius Deali99ini Mnac udium exoptat atque ab his mutuo solatii csl ut qui unius   domini aumus famuli,"
+    },
+    {
+      "id": 29860,
+      "roll_id": 5676,
+      "pdf_page": 75,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Sens, t. I, 1,p 310 :a XVIkal mart, Obut domnus Yvo, pic mrmoric abha. Brati Dypnn sii"
+    },
+    {
+      "id": 29585,
+      "roll_id": 5676,
+      "pdf_page": 91,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "CQLIC Mlalmesbenensis Sanlclique fLlQ Hic~ (sic) ecclesie. bonus athleta, Istic cujus celeberrima vi narratur; laudabilis esse probatur"
+    },
+    {
+      "id": 29586,
+      "roll_id": 5676,
+      "pdf_page": 91,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "elinll, cpISCOPI Cl Cuilicooure"
+    },
+    {
+      "id": 29587,
+      "roll_id": 5676,
+      "pdf_page": 91,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "ta"
+    },
+    {
+      "id": 29588,
+      "roll_id": 5676,
+      "pdf_page": 91,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "26"
+    }
+  ]
+}

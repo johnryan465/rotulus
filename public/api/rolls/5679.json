@@ -1,0 +1,31 @@
+{
+  "roll": {
+    "id": 5679,
+    "roll_num": "149",
+    "date_str": "S.d.",
+    "title": "149 [153] S.d - [Pontlevoy; N-D. (1]: [T. Sancte Marie Pontileviensis () ecclesie] . Exiit e mundo vir; mundi spretor; ad illum Qui mundum fecit, quem sine fine videt ; Et licet hic, tanquam tenebrosus; Bruno vocetur; Est tamen et fama lucidus et mer",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "93",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 29590,
+      "roll_id": 5679,
+      "pdf_page": 93,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": ", corrigez Pontilcvicnsie, contrcclor 0 orrige: D'apr\u00e8s corclor 0, topographique. Teelisc 5 Marie Ponuileriensis erril euicu dc oc Guo depounu"
+    },
+    {
+      "id": 29591,
+      "roll_id": 5679,
+      "pdf_page": 93,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "dindication"
+    }
+  ]
+}

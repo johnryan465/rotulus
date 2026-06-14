@@ -1,0 +1,55 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Saint-Riquier Abbey, France",
+    "coords": [
+      50.1347,
+      1.9472
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: 108 [172] S.d.-S.L. [Micy; S. Mesmin] Alius titulu..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "San Oras maro",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: San Oras maro"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Sanctae Mariae Formosellensis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sanctae Mariae Formosellensis"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Sancti Audomari",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancti Audomari"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Sancti Quintini Belvacensis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancti Quintini Belvacensis"
+  }
+]

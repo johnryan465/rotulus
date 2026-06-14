@@ -1,0 +1,170 @@
+{
+  "roll": {
+    "id": 5605,
+    "roll_num": "53",
+    "date_str": "S.d.",
+    "title": "",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "33,34,35",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 35836,
+      "roll_id": 5605,
+      "title": "[Original Document / Letter]",
+      "location_name": "",
+      "latin_text": "Rouleau mortuaire (fragmentaire) anonyme, probablement de S. Martial , de Limoges. A Paris, B. N. F, lat. 2328, fol; 1. Parchemin (\u00e9pais, rigide = Un ;c.c [= verso] jaune jaune plus soutenu) {ragment (rogn\u00e9) opisthographe (diffic\u0161ng  clair ; c p [ = recto] ultraviolets) . Longueur; 34,5 cm largeur; 27,5 cm. Mauvais \u00e0 lire m\u00eame \u00e9tat de conservation . aux rayons 5 0. L. Delisle; Rouleaux des morts du IX' au XV\" s, P. 33,n XIII, - dapr\u00e8s A INDIQU\u00c9 A. Leroux, Les sources de Bhistoire du Limousin; Limoges; Mourir \u00e0 S. Martial, p. 132, 332. 1895, P. 174,-LL Lema\u00eetre; Le ms. Paris; B. N. F., lat. 2328 provient de S. Martial de Limoges ' et le utilis\u00e9 comme feuille de garde; a vraisemblablement la m\u00eame fragment de rouleau, origine 10 au recto (c. P), titre d'Orbais, dirig\u00e9 alors par Drogo   (2) au verso (c. c.), titres de N.-D. de Paris et de S. Denis. [c c] S.d. Paris; cath\u00e9drale (N,-D:). Christicolis cunctis terrarum in orbe dimensis pax >-etur divine  P-< 2 15 id <- > astriferas, dum esperus noctis reduceret umbras < solis supercilio clauderetur oceano rogat >-ur < qua < _ 2 afferentem rumigeru- lum totius co[mmuni]tatis sortem vestris ex partibus nobis denunciantem Sancte Marie  Parisius obvium suscepimus solito ex consuetudine hujusmodi ga-<. > benigne suscipientes; illataque vestri < >-amenta legentes salutaris 20 vice religionis tullianas quasdam objectiones et > Minerve interpretationes tantum collegimus. Que res non parum vitio datur: Quod vero diversorum orum delectati quoniam presentialiter attingere nequitis, psaltem rumigerulis; ut ita dicam, apiculis explorare temptatis etiam super hoc importunitatem morum vestrorum; que vobis semper compotrix est, pro insita consuetudine vel natura 25 0",
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 29289,
+      "roll_id": 5605,
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "~~gn1e speclamus. oingularller aulein scripsistis, neque nos neque ceteros qui S("
+    },
+    {
+      "id": 29290,
+      "roll_id": 5605,
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Cf. B. N Catalogue g\u00e9n\u00e9ral des manus- crits latins; t.II, P. 407 D.Gaborit-Chopin, La d\u00e9coration des manuscrits_ , P. 198."
+    },
+    {
+      "id": 29291,
+      "roll_id": 5605,
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "u PiU   e riptitant se fecisse aliquatenus fecisse"
+    },
+    {
+      "id": 29292,
+      "roll_id": 5605,
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "absent de Ja I\u00edste abhatiale (incompl\u00e8te)  4'Orbais donn\u00e9e par Ie Call\u00eda christiana (L. IX, col, 424) ,"
+    },
+    {
+      "id": 29293,
+      "roll_id": 5605,
+      "pdf_page": 34,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Cf II Cor, IV, 17 :  aeternum gloriae pondus operatur in nobis -"
+    },
+    {
+      "id": 29294,
+      "roll_id": 5605,
+      "pdf_page": 34,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "de"
+    },
+    {
+      "id": 29295,
+      "roll_id": 5605,
+      "pdf_page": 34,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Cuncla quC Vuul"
+    },
+    {
+      "id": 29296,
+      "roll_id": 5605,
+      "pdf_page": 34,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "partie sup\u00e9ricure du {6L Iv cat occuz p\u00e9e par des textes sans rapport aec Ieu roulcuux des morts : isagt dantienncv pout |ea [Ftcs de Jean [\u00c9vangeliste Gl dcsEminl; Innocrnt: (\u00e9criture du XI *) Sur le ms Panis, B, NE,"
+    },
+    {
+      "id": 29298,
+      "roll_id": 5605,
+      "pdf_page": 34,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Znl( :p74 @ W Cbl \u20ac;: liomn AAsrMnf u} Jalo (fu Flayl Ma solalan cO Erclrs, VIL 2;+ d\u0131ra nrtin [achnr catlala Hativilagi"
+    },
+    {
+      "id": 29297,
+      "roll_id": 5605,
+      "pdf_page": 34,
+      "pdf_half": "right",
+      "footnote_num": "90",
+      "text": "SoiCPrhuurns a"
+    },
+    {
+      "id": 29299,
+      "roll_id": 5605,
+      "pdf_page": 35,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "En in que celle du texte, quid , maneal"
+    },
+    {
+      "id": 29300,
+      "roll_id": 5605,
+      "pdf_page": 35,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": ", XLI, 1."
+    },
+    {
+      "id": 29301,
+      "roll_id": 5605,
+      "pdf_page": 35,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "terligne, au-dessus des = ruooccit mots eadem vite &unc autte ecriture"
+    },
+    {
+      "id": 29302,
+      "roll_id": 5605,
+      "pdf_page": 35,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": "Ps. XCL 15 6 Adhuc multiplicantur in scnecla ubcri"
+    },
+    {
+      "id": 29303,
+      "roll_id": 5605,
+      "pdf_page": 35,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "ae"
+    },
+    {
+      "id": 29304,
+      "roll_id": 5605,
+      "pdf_page": 35,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "S"
+    },
+    {
+      "id": 29305,
+      "roll_id": 5605,
+      "pdf_page": 35,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "d\u0131ns L\u0131 srrnnude manntir du % \u20ac 8 0f L Holpten + 5, Lot, Rerulell (Laf (las (u Lathoifw rE de Lotis V 6eo3 F9 CE Clsla4u: (hluwin  hasgtagfuphmu"
+    },
+    {
+      "id": 29306,
+      "roll_id": 5605,
+      "pdf_page": 35,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Busellae Eue cr Viliee & >  Bonlwn L/n 8e\"uf Ewe Nk;"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "roll": {
+    "id": 5674,
+    "roll_num": "143",
+    "date_str": "S.d.",
+    "title": "143 [100] S.d.- ~ Chester; S. Peter: Ad titulum Sancti Petri Castrensis ecclesie. Gloria justorum, solatia sola reorum Bruno fuit vivens parque dolor moriens. Totius cleri decus; exemplar quoque veri; Mors dolor eripuit, dum Pater occubuit . Effectus",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "91,74,75",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 36584,
+      "roll_id": 5674,
+      "title": "[Original Document / Letter]",
+      "location_name": "",
+      "latin_text": "Rouleau mortuaire de Calon, \u00e9v\u00eaque de Poitiers (t novembre 1157) . [Calon; archidiacre de Thouars, a succ\u00e8d\u00e9 \u00e0 Cilbert de La Porr\u00e9e comme \u00e9v\u00eaque de Poitiers de 1155 \u00e0 1157 il est fort mal connu 5 Gr\u00e2ce \u00e0 deux mentions du Gallia christiana (. II, col. 1179 et 143), on sait que le rouleau mortuaire mis en circulation pour Calon, aujourd hui perdu \u20ac , \u00e9tait encore conserv\u00e9 au XVIII & Elles font \u00e9tat de [origine noble de ce personnage, ainsi que de divers membres de sa famille, de sa s\u0153ur Belota; prieure de N.D.de Rives et de ses neveux, Hugues, moine d Uzerche; et Guillaume, clerc de l\u00e9glise de Nantes. De plus, elles semblent indiquer que des titres furent appos\u00e9s, entre 10 autres; par [hospice de Loudun; par P\u00e9glise de Bordeaux; par Fabbaye de Massay et, sans doute, par P\u00e9glise de Clermont 19 Ex ejus [Calonis] rotulo; qui adhuc servatur in ecclesia Pictaviensi, multa de ipso didicimus aliunde minime nota quod nobilis genere esset ac nobilior fide quod sororem habuerit   Belotam, sanctimonialem et priorissam in monasterio 15 Sanctae Mariae de Rivis; quae ipsi superstes ejus obitum amarissimis flevit lacry - mis. Ex duobus ipsius nepotibus; unus; Hugo= nomine; fuit monachus Userchiensis, alter; Guillelmus dictus, clericus; ut videtur; ecclesie Nannetensis. Calonem clericali militiae addictum in ecclesia Burdigalensi putamus quae videlicet ipsum filium specialem vocat. In citato rotulo fratris eleemosynariae domus Losdunensis; inter 20 alia haec habentur in ejus commendationem non spernenda 'Ipso die sui obitus triginta pauperes pavimus; necnon unum pauperem assidue pascemus; quod ipse adhuc vivens a nobis inter plura poposcit' In vetusto Claromontensis   ecclesiae   calendario;   ejus  anniversarium notatur nonis novembris 25 20 Rainaudus; Bartholomaeus et Petrus; abbates Masciaci ante annum 1157, quippe qui commemorantur in rotulo Calonis, episcopi Pictavensis. cf: Gallia christiana; t II, des Mittelalters, t. 21, 1965, P. sujet, 153, son 170. (2) N. M. H\u00e4ring; Bischof Gilbert IL CE L. Delisle, Rouleaux des morts du IX\" col. 1179 und seine Erzdia- au XV s., P. 370, n' LI ; G. von Poitiers   (1142-1154) Zappert, Verbr\u00fcde- Erforschung rungensb\u00fccher II, P. 25,n. 102. kone % dans Deutsches Archiv f\u00fcr",
+      "pdf_page": 74,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 29852,
+      "roll_id": 5674,
+      "pdf_page": 75,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "VCrs, oc 76) puis des deux suivants;  @-orhis B. puis des denx suivants () c-cssc R. (a) Notc interlincaire vel orbis B."
+    },
+    {
+      "id": 29853,
+      "roll_id": 5674,
+      "pdf_page": 75,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "sujet, cf, of Knowles/ Teligious / 'Brookr; Hvads 96, houses England and Wales; 109"
+    },
+    {
+      "id": 29854,
+      "roll_id": 5674,
+      "pdf_page": 75,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "\u00c9d. supra"
+    },
+    {
+      "id": 29855,
+      "roll_id": 5674,
+      "pdf_page": 75,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": "B. en commun, sont (crites"
+    },
+    {
+      "id": 29856,
+      "roll_id": 5674,
+      "pdf_page": 75,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": "132. 638 A 580. n' 123 et p"
+    }
+  ]
+}

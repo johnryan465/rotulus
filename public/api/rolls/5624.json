@@ -1,0 +1,42 @@
+{
+  "roll": {
+    "id": 5624,
+    "roll_num": "76",
+    "date_str": "S.d.",
+    "title": "",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "27,28,29",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 35995,
+      "roll_id": 5624,
+      "title": "[Original Document / Letter]",
+      "location_name": "",
+      "latin_text": "IND\u0131Qu\u00c9 A. Dupr\u00e9, Orl\u00e9anais, P. 140. Obituaires de la province de Sens, t. III, P. 147.- A. Vidier; Lhistoriographie \u00e0 Saint-Beno\u00eet-sur-Loire et les miracles de saint Beno\u00eet, Paris; 1965, P. 52, n. 163 P. 121. Les termes employ\u00e9s par le r\u00e9dacteur de cette encyclique pour vanter les qualit\u00e9s d Andr\u00e9, prieur de Fleury in cunctis sanctae religionis institutionibus liberalibusque ferme nostris temporibus 5 adprimac eruditissimum artibus permettent, comme lont d\u00e9j\u00e0 not\u00e9 L. Delisle (loc. cit:), puis R-H. Bautier et G. Labory (loc. cit.), didentifier sans doute ce personnage avec lauteur de la Vie de Gauzlin et des livres IV-VII des Miracles de s Beno\u00eet ( _ Sur la personne dAndr\u00e9, nous sommes tr\u00e8s mal renseign\u00e9s. De famille seigneuriale; Andr\u00e9, originaire de ]Orl\u00e9anais; re\u00e7ut son \u00e9ducation religieuse tout dabord dans la maison de son p\u00e8re; puis 10 vint \u00e0 Fleury; pour y faire profession sous Tabb\u00e9 Gauzlin (1004-1030), et y fut moine sous labb\u00e9 Hugues (1036 apr\u00e8s 1043), lequel avait \u00e9t\u00e9 son condisciple Il termina sa carri\u00e8re comme prieur ou doyen de Fleury (2) dapr\u00e8s la pr\u00e9sente encyclique. Il mourut un 31 mars, probablement avant 1056, date \u00e0 laquelle * on ajouta \u00e0 sa propre r\u00e9daction des miraclcs quclques chapitres compl\u00e9mentaires 15 Cette encyclique recommande \u00e9galement aux pri\u00e8res des clercs visit\u00e9s deux autres moines de Fleury; \u00c9tienne (mort le 9 mars) et Eudes (d\u00e9c\u00e9d\u00e9 le 29 mars) elle annonce en outre une liste dautres d\u00e9funts qui n'a pas \u00e9t\u00e9 reproduite par B. Cunctis per quadrifidi orbis climata passim diffusis fidelibus, quos purior unda sacri babtismatis sub christianae religionis titulo univit Domino Jhesu Christo 20 consotia spe ac fide; humilis cohors sanctissimi monachorum legislatoris Benedicti; commoda presentis vitae cumque bonarum perfectione virtutum aeter- norum gaudia premiorum. Postquam a paradisi felicitate illud supernae divinitatis plasma   nobilissimum, quod sibi condiderat Deus mente simillimum; error abduxit devius; succubuit terrenae maledictionis notamini, sicut delinquens proti- 25 nus audivit Terra es et in terram reverteris > (4) _ Hinc igitur humanitatis sump- sit aerumpnosus defectus exordium, dum priscae maledictionis tenor; velut quod- dam hereditarium, adeo convaluit diductus in posteritatem hominum, ut mors suprema, auferendo universos; aevum hactenus indiscretum et indiscretam ictu eodem percellat conditionem. Porro singulare illud humanatum verbum; quod ad",
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 29446,
+      "roll_id": 5624,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Ilnl DaUlcr Ul Da A P. 9), il faut   noter cependant que le nom dAndr\u00e9 se rencontre \u00e0 mainte reprise dans le n\u00e9crologe de Fleury du XVe s \" (2) R.-H. Bautier et G. Labory; op. cil., p. 8 Ibid.  Toutefois; je ne crois   pas   fond\u00e9e Fhypoth\u00e8se de R-H. Bautier et G, Labory (op. cil., P. 9), selon laquelle  Andr\u00e9,   monachus; mentionn\u00e9 parmi les d\u00e9funts de Fleury sur le"
+    },
+    {
+      "id": 29447,
+      "roll_id": 5624,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "P. 187), ne serait autre que ce 'pricur Andr\u00e9 , cC type de documents [les rouleaux des morts] au moins \u00e0 Fleury; donnant la qualit\u00e9 de monachus m\u00eame aux officiers de labbaye, exception faite du seul abb\u00e9 w Cf. Gen., III, 19 quia pulvis 0 ct {n pulverem reverteris 9 ,"
+    }
+  ]
+}
