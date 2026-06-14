@@ -220,6 +220,7 @@ export default function App() {
             <div style="font-family: 'Calibri', 'Candara', 'Segoe UI', 'Optima', 'Arial', sans-serif; padding: 4px; min-width: 150px;">
               <h4 style="margin: 0; color: ${color}; font-weight: bold;">Roll N° ${rInfo.roll_num}</h4>
               <div style="font-size: 13px; margin: 4px 0;">${isOrigin ? '🚩 Origin' : `📍 Stop ${index}`}: <b>${loc.name}</b></div>
+              <div style="font-size: 12px; color: #666; margin-bottom: 8px;">Total Journey: ${rInfo.num_stops} monasteries</div>
               <button onclick="window.gotoRoll('${rId}')" style="background: var(--primary); color: white; border: none; padding: 6px; cursor: pointer; width: 100%; border-radius: 2px;">View Scroll Details</button>
             </div>
           `);
@@ -422,11 +423,12 @@ export default function App() {
                         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                           <div>
                             <div className="roll-num" style={{ fontSize: '14px' }}>N° {r.roll_num}</div>
-                            <div style={{ fontWeight: 'bold', fontSize: '13px' }}>{r.year} AD</div>
+                            <div style={{ fontWeight: 'bold', fontSize: '13px' }}>{r.year} AD — {r.num_stops} Stops</div>
                           </div>
                           <ChevronRight size={16} color="var(--accent)" />
                         </div>
                       </div>
+
                     ))}
                 </div>
               </div>
