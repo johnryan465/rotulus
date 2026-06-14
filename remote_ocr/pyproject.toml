@@ -1,0 +1,18 @@
+[project]
+name = "rotulus-remote-ocr"
+version = "0.1.0"
+description = "Remote GPU-accelerated OCR worker for Rotulus"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.100.0",
+    "uvicorn>=0.20.0",
+    "python-multipart>=0.0.6",
+    "pillow>=10.0.0",
+    "numpy>=1.24.0",
+    "python-doctr>=1.0.0",
+    "torch>=2.0.0",
+    "torchvision>=0.15.0",
+]
+
+[tool.uv]
+managed = true

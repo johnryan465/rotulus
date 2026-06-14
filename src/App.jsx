@@ -34,6 +34,8 @@ const getApiUrl = (path) => {
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('dashboard'); // dashboard, explorer, verification, export
+  const [yearFilter, setYearFilter] = useState([600, 1600]);
+  const [availableYearRange, setAvailableYearRange] = useState([600, 1600]);
   const [rolls, setRolls] = useState([]);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
@@ -124,6 +126,14 @@ export default function App() {
           const data = await res.json();
           setAllTravelsData(data);
 
+          // Update available year range
+          const allYears = Object.values(data).map(r => r.year).filter(y => y !== null && y !== undefined);
+          if (allYears.length > 0) {
+            const minYear = Math.min(...allYears);
+            const maxYear = Math.max(...allYears);
+            setAvailableYearRange([minYear, maxYear]);
+          }
+
           setTimeout(() => {
             const container = document.getElementById('map-container');
             if (!container) return;
@@ -154,7 +164,9 @@ export default function App() {
             let colorIdx = 0;
             const allCoords = [];
 
-            Object.values(data).forEach((rInfo) => {
+            Object.entries(data).forEach(([_, rInfo]) => {
+              // Time Filter
+              if (rInfo.year && (rInfo.year < yearFilter[0] || rInfo.year > yearFilter[1])) return;
               const rollTravels = rInfo.travels;
               if (rollTravels.length === 0) return;
 
@@ -167,33 +179,55 @@ export default function App() {
                 window.L.polyline(coords, {
                   color: color,
                   weight: 2,
-                  opacity: 0.6,
+                  opacity: 0.4,
                   dashArray: '3, 6'
                 }).addTo(map);
               }
 
               rollTravels.forEach((loc, index) => {
-                if (!loc.coords) return; // Skip marker if no coordinates
+                if (!loc.coords) return; 
                 const isOrigin = loc.type === 'origin';
-                const marker = window.L.circleMarker(loc.coords, {
-                  radius: isOrigin ? 6 : 4,
-                  fillColor: color,
-                  color: '#ffffff',
-                  weight: 1,
-                  opacity: 0.8,
-                  fillOpacity: 0.8
-                }).addTo(map);
+                
+                if (loc.is_approximate) {
+                  // Render as Uncertainty Circle
+                  window.L.circle(loc.coords, {
+                    radius: 30000, // 30km radius for uncertainty
+                    fillColor: color,
+                    fillOpacity: 0.1,
+                    color: color,
+                    weight: 1,
+                    dashArray: '5, 5'
+                  }).addTo(map).bindPopup(`
+                    <div style="color: #0f172a; font-family: sans-serif; padding: 4px;">
+                      <h4 style="margin: 0 0 4px 0; font-size: 13px; color: ${color};">
+                        Roll ${rInfo.roll_num} [Approximate]
+                      </h4>
+                      <p style="margin: 0; font-size: 12px; font-weight: 500;">${loc.name}</p>
+                    </div>
+                  `);
+                } else {
+                  // Render as Point Marker
+                  const marker = window.L.circleMarker(loc.coords, {
+                    radius: isOrigin ? 6 : 4,
+                    fillColor: color,
+                    color: '#ffffff',
+                    weight: 1,
+                    opacity: 0.8,
+                    fillOpacity: 0.8
+                  }).addTo(map);
 
-                const popupContent = `
-                  <div style="color: #0f172a; font-family: sans-serif; padding: 4px; min-width: 150px;">
-                    <h4 style="margin: 0 0 4px 0; font-size: 13px; font-weight: bold; color: ${color};">
-                      Roll ${rInfo.roll_num} (${isOrigin ? '🚩 Origin' : `📍 Stop ${index}`})
-                    </h4>
-                    <p style="margin: 0 0 4px 0; font-size: 12px; font-weight: 500;">${loc.name}</p>
-                    <p style="margin: 0; font-size: 10px; color: #64748b;">${loc.description}</p>
-                  </div>
-                `;
-                marker.bindPopup(popupContent);
+                  const popupContent = `
+                    <div style="color: #0f172a; font-family: sans-serif; padding: 4px; min-width: 150px;">
+                      <h4 style="margin: 0 0 4px 0; font-size: 13px; font-weight: bold; color: ${color};">
+                        Roll ${rInfo.roll_num} (${isOrigin ? '🚩 Origin' : `📍 Stop ${index}`})
+                      </h4>
+                      <p style="margin: 0 0 4px 0; font-size: 12px; font-weight: 500;">${loc.name}</p>
+                      <p style="margin: 0 0 4px 0; font-size: 11px; color: #64748b;">${loc.date_str || ''}</p>
+                      <p style="margin: 0; font-size: 10px; color: #94a3b8;">${loc.description}</p>
+                    </div>
+                  `;
+                  marker.bindPopup(popupContent);
+                }
               });
             });
 
@@ -262,7 +296,8 @@ export default function App() {
                       ${isOrigin ? '🚩 Origin' : `📍 Stop ${index}`}
                     </h4>
                     <p style="margin: 0 0 4px 0; font-size: 12px; font-weight: 500;">${loc.name}</p>
-                    <p style="margin: 0; font-size: 10px; color: #64748b;">${loc.description}</p>
+                    <p style="margin: 0 0 4px 0; font-size: 11px; color: #64748b;">${loc.date_str || ''}</p>
+                    <p style="margin: 0; font-size: 10px; color: #94a3b8;">${loc.description}</p>
                   </div>
                 `;
 
@@ -289,7 +324,7 @@ export default function App() {
         mapInstanceRef.current = null;
       }
     };
-  }, [activeTab, mapRollId]);
+  }, [activeTab, mapRollId, yearFilter]);
 
   // Fetch page bounds for overlay
   useEffect(() => {
@@ -1080,7 +1115,35 @@ export default function App() {
                 <h1 style={{ fontSize: '32px', marginBottom: '8px' }}>Travel Map</h1>
                 <p style={{ color: 'var(--text-secondary)', margin: 0 }}>Visualize the historical itinerary and visiting stops of each mortuary roll.</p>
               </div>
-                    {/* Roll Selector */}
+
+              {/* Time Filter Slider */}
+              {mapRollId === 'all' && (
+                <div style={{ flex: 1, maxWidth: '400px', padding: '0 24px' }}>
+                  <div className="flex-between" style={{ marginBottom: '8px' }}>
+                    <span style={{ fontSize: '12px', fontWeight: 'bold' }}>Time Filter: {yearFilter[0]} – {yearFilter[1]}</span>
+                    <button 
+                      onClick={() => setYearFilter([availableYearRange[0], availableYearRange[1]])}
+                      style={{ fontSize: '10px', background: 'transparent', border: 'none', color: 'var(--primary)', cursor: 'pointer' }}
+                    >
+                      Reset
+                    </button>
+                  </div>
+                  <input 
+                    type="range" 
+                    min={availableYearRange[0]} 
+                    max={availableYearRange[1]} 
+                    value={yearFilter[1]} 
+                    onChange={e => setYearFilter([yearFilter[0], Number(e.target.value)])}
+                    style={{ width: '100%', accentColor: 'var(--primary)' }}
+                  />
+                  <div className="flex-between" style={{ fontSize: '10px', color: 'var(--text-muted)', marginTop: '4px' }}>
+                    <span>{availableYearRange[0]}</span>
+                    <span>{availableYearRange[1]}</span>
+                  </div>
+                </div>
+              )}
+
+              {/* Roll Selector */}
               <div style={{ display: 'flex', gap: '12px', alignItems: 'center' }}>
                 <span style={{ fontSize: '14px', color: 'var(--text-muted)' }}>Select Roll:</span>
                 <select 
@@ -1111,9 +1174,11 @@ export default function App() {
                       All Mortuary Rolls
                     </h3>
                     <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
-                      {Object.entries(allTravelsData).map(([rId, rInfo]) => {
-                        const origin = rInfo.travels.find(t => t.type === 'origin');
-                        const stops = rInfo.travels.filter(t => t.type === 'stop');
+                      {Object.entries(allTravelsData)
+                        .filter(([_, rInfo]) => !rInfo.year || (rInfo.year >= yearFilter[0] && rInfo.year <= yearFilter[1]))
+                        .map(([rId, rInfo]) => {
+                          const origin = rInfo.travels.find(t => t.type === 'origin');
+                          const stops = rInfo.travels.filter(t => t.type === 'stop');
                         return (
                           <div 
                             key={rId} 

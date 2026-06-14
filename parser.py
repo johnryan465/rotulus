@@ -363,8 +363,30 @@ KNOWN_LOCATIONS = {
     "benediktbeuern", "weltenburg", "saint-cloud", "cloud", "eichstätt", "eichstatt", "würzburg", "wurzburg",
     "noyon", "murbach", "bayeux", "tours", "chur", "coire", "angers", "winchester", "saint-riquier", "centula",
     "riquier", "pfifers", "pfäfers", "nesle", "saint-evroult", "evroult", "scharnitz", "isen", "oberaltaich",
-    "berg", "schliersee", "northumbrie", "northumbria"
+    "berg", "schliersee", "northumbrie", "northumbria", "ripoll", "limoges", "lobbes", "reims", "paris",
+    "cluny", "cîteaux", "clairvaux", "bec", "fécamp", "fecamp", "caen", "rouen", "chartres", "orléans", "orleans",
+    "bourges", "sens", "auxerre", "troyes", "langres", "metz", "toul", "liège", "liege", "utrecht", "cologne",
+    "mayence", "trèves", "treves", "worms", "spire", "strasbourg", "basle", "bâle", "genève", "geneve",
+    "lausanne", "sion", "aoste", "turin", "milan", "pavie", "gênes", "genes", "lucques", "pise", "florence",
+    "sienne", "orvieto", "rome", "naples", "amalfi", "salerne", "bari", "brindisi", "otrante", "palerme",
+    "messine", "catane", "syracuse", "girgenti", "agrigente", "mazara", "marsala", "trapani", "lipari",
+    "cerami", "troina", "paternò", "paterno", "adranò", "adrano", "centuripe", "agirò", "agira", "leonforte",
+    "enna", "calascibetta", "nicastro", "squillace", "mileto", "regio", "reggio", "gerace", "stilo",
+    "rossano", "corigliano", "sibari", "cassano", "castrovillari", "morano", "laino", "rotonda", "viggianello",
+    "fardella", "chiaromonte", "senise", "noepoli", "san giorgio", "san chirico", "tursi", "angona", "tricarico",
+    "matera", "altamura", "gravina", "venosa", "acerenza", "melfi", "lavello", "canosa", "barletta", "trani",
+    "bisceglie", "molfetta", "giovinazzo", "bitonto", "ruvo", "terlizzi", "corato", "andria", "minervino",
+    "spinazzola", "montemilone", "palazzo", "genzano", "banzi", "oppido", "tolve", "potenza", "avigliano",
+    "bella", "muro lucano", "atella", "rionero", "rapolla", "ripacandida", "maschito", "forenza", "acerenza",
+    "ghent", "gent", "bruges", "bruxelles", "louvain", "anvers", "malines", "tournai", "mons", "namur",
+    "dinant", "huy", "stavelot", "malmedy", "nivelles", "gembloux", "lobbes", "hautmont", "maubeuge",
+    "valenciennes", "arras", "cambrai", "douai", "saint-omer", "saint-bertin", "saint-vaast", "saint-amand",
+    "saint-ghislain", "saint-quentin", "saint-valery", "corbie", "saint-riquier", "amiens", "beauvais",
+    "senlis", "soissons", "laon", "reims", "chalons", "troyes", "sens", "auxerre", "nevers", "bourges",
+    "limoges", "poitiers", "angers", "tours", "nantes", "rennes", "vannes", "quimper", "saint-brieuc",
+    "saint-malo", "dol", "avranches", "coutances", "bayeux", "lisieux", "evreux", "sées", "sees", "le mans"
 }
+
 
 def extract_entities(titulus, footnotes):
     """
@@ -413,20 +435,20 @@ def extract_entities(titulus, footnotes):
         if fn_text:
             fn_cleaned = clean_text(fn_text)
             
-            # Robust location extraction pattern
-            loc_match = re.search(
-                r'\b(?:[eéEÉ]v[eêê]?que|[aA]bb[eéE]|episcopus|episcopo|monasterio|monasterii)\s+(?:de\s+|d\')([A-Z][a-zA-Z\-\s]+?)(?:\b|\s*\(|\s*;|\s*,|\s*$)',
-                fn_cleaned,
-                re.IGNORECASE
-            )
+            # Robust location extraction patterns
+            # Titles: Évêque, Abbé, Comte, Prieur, Doyen, Monastère, Église, Diocèse, etc.
+            titles_pattern = r'\b(?:[eéEÉ]v[eêê]?que|[aA]bb[eéE]|episcopus|episcopo|monasterio|monasterii|ecclesia|ecclesie|prior|comte|dux|duch[eé]|diocese|dioc[eè]se|archiepiscopus|archidiaconus|decanus|canonicus)\s+(?:de\s+|d\'|in\s+)?([A-Z][a-zA-ZÀ-ÿ\-\s]{2,30}?)(?:\b|\s*\(|\s*;|\s*,|\s*$)'
+            loc_match = re.search(titles_pattern, fn_cleaned, re.IGNORECASE)
+            
             if loc_match:
                 extracted = loc_match.group(1).strip()
-                # Remove trailing words/junk
-                extracted = re.split(r'\b(?:cité|dans|qui|selon|ou|et|cf)\b', extracted, flags=re.IGNORECASE)[0].strip()
+                # Remove common trailing noise/phrases
+                extracted = re.split(r'\b(?:cité|dans|qui|selon|ou|et|cf|au|du|en|le|la|les|un|une)\b', extracted, flags=re.IGNORECASE)[0].strip()
                 loc_name = extracted.strip(".,;()- ")
-            else:
-                # Fallback: scan for any known location name in footnote text
-                for word in re.findall(r'\b[A-Za-zÀ-ÿ\-]+\b', fn_cleaned):
+            
+            # Fallback/Validation: If no match or match is noise, check for direct mention of KNOWN_LOCATIONS
+            if not loc_name or loc_name.lower() in {"la", "par", "le", "de"}:
+                for word in re.findall(r'\b[A-Za-zÀ-ÿ\-]{3,}\b', fn_cleaned):
                     wl = word.lower()
                     if wl in KNOWN_LOCATIONS:
                         loc_name = word

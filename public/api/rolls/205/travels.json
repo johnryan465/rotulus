@@ -1,0 +1,184 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1076,
+    "date_str": "S.d. [1076]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (fragmentaire ) de Foucard-Lambe..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Flanders",
+    "coords": [
+      51.05,
+      3.7333
+    ],
+    "year": 1076,
+    "date_str": "S.d. [1076]",
+    "is_approximate": true,
+    "description": "Found in text: Flandre"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "France (General)",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1076,
+    "date_str": "S.d. [1076]",
+    "is_approximate": true,
+    "description": "Found in text: France"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Laon, France",
+    "coords": [
+      49.5642,
+      3.6199
+    ],
+    "year": 1076,
+    "date_str": "S.d. [1076]",
+    "is_approximate": false,
+    "description": "Found in text: Laon"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 1076,
+    "date_str": "S.d. [1076]",
+    "is_approximate": false,
+    "description": "Found in text: Noyon"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 1076,
+    "date_str": "S.d. [1076]",
+    "is_approximate": false,
+    "description": "Found in text: Metz"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Vienna, Austria",
+    "coords": [
+      48.2082,
+      16.3738
+    ],
+    "year": 1076,
+    "date_str": "S.d. [1076]",
+    "is_approximate": false,
+    "description": "Found in text: Enna"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 1076,
+    "date_str": "S.d. [1076]",
+    "is_approximate": false,
+    "description": "Found in text: Metz"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1076,
+    "date_str": "S.d. [1076]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Laon, France",
+    "coords": [
+      49.5642,
+      3.6199
+    ],
+    "year": 1076,
+    "date_str": "S.d. [1076]",
+    "is_approximate": false,
+    "description": "Found in text: Laon"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Bec Abbey, France",
+    "coords": [
+      49.2294,
+      0.7208
+    ],
+    "year": 1076,
+    "date_str": "S.d. [1076]",
+    "is_approximate": false,
+    "description": "Found in text: Beccensis"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "Montecassino Abbey, Italy",
+    "coords": [
+      41.4901,
+      13.8143
+    ],
+    "year": 1076,
+    "date_str": "S.d. [1076]",
+    "is_approximate": false,
+    "description": "Found in text: Mont"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Rouen, France",
+    "coords": [
+      49.4431,
+      1.0992
+    ],
+    "year": 1076,
+    "date_str": "S.d. [1076]",
+    "is_approximate": false,
+    "description": "Found in text: Rouen"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1076,
+    "date_str": "S.d. [1076]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  }
+]
