@@ -1,0 +1,42 @@
+{
+  "roll": {
+    "id": 39,
+    "roll_num": 96,
+    "date_str": "S.d.",
+    "title": "S.d. [XI s.] Titres appos\u00e9s par les moines de Fleury sur des rouleaux mortuaires. 10 Selon A. Vidier (loc. cit.), les deux titres \u00e9dit\u00e9s ci-apr\u00e8s auraient fait partie du rouleau mortuaire dAbbon (1) _ Il n'en est rien de style identique; ces pi\u00e8ces furent en fait compos\u00e9es \u00e0 Fleury \u00e0 loccasion du passage de rouleaux mortuaires ind\u00e9termin\u00e9s. Texte \u00e9tabli dapr\u00e8s @. 20",
+    "manuscripts": "A. Original perdu . B. Orl\u00e9ans; B. M., ms. 259 (215), P. 30-31 (XI s) . (. L. Delisle, Notice sur plusieurs manuscrits de la Biblioth\u00e8que d'Orl\u00e9ans \" dans Notices et extraits des manuscrits de la Biblioth\u00e8que nationale et autres Biblioth\u00e8ques, t. XXXI, 1, 1883, P. 389, dapr\u00e8s B. A. Vidier; L'historiographie \u00e0 Saint-Beno\u00eet-sur-Loire et les miracles de saint Beno\u00eet, 15 INDIQU\u00c9 Paris, 1965, p. 121. - J Dufour; Abbon, p. 30.",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "49,50",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 44874,
+      "roll_id": 39,
+      "title": "5 Februus optatas stringebat frigore mensas",
+      "location_name": "sas",
+      "latin_text": ", Pellifer ut nostrum limen anhelus adit Floriacos 6 fratres prompto clemore (sic) salutat, Et vestem relevans; signat adesse thomum, In quo nostrorum memores 10 Nomina vos esse petentes signavimus; 0 lacrimosa nimis. Vita berevis hominum casus sortita caducos Semper ad occasum cursu Perpetuumque properat fugitivo; nichil mundus servare Omne quod est sub sole probatur: 15 Purpureo viret, novum seu flore venustum Quod quis = tamen inrevocabile transit. sollicitus Terrea sana dum mente despiciens animo revolvit, Fletibus assiduis = caelestia quaerit. Liber ut alta mundat contagia cordis petat, Letus et laxatus aetheream carcere carnis; Quod sibi quis possit metuit. comprendere vitam. Alternis pateant precibgsatisccompenset egenti; Hoc nos quo celica pro vestris studio  regna Simplicibus votis facimus 5 Domino vigilanti, Pro vestris humiles lacrimisque Reddite Dominum profusis. VOS nostris vestris placamus ad Pellifer aram, adveniens quae poscitis Floriacos vestris de ipsi. fratres adiit partibus cum iste Zodiacum,  media lustrat Nomina Librae Apollo nostrorum jam parte Vosque fratrum peracta. valere Deo lacrimanda 'patres optamus  notamus ovantes: [XI s]",
+      "pdf_page": 50,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 33970,
+      "roll_id": 39,
+      "pdf_page": 49,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "IlldillVUS ICLILID YCP Et quod quisque cupit compaciendo ferat"
+    },
+    {
+      "id": 33971,
+      "roll_id": 39,
+      "pdf_page": 49,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Cf. supra, P. 80, n? 64."
+    }
+  ]
+}

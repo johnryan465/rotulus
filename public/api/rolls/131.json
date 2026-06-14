@@ -1,0 +1,31 @@
+{
+  "roll": {
+    "id": 131,
+    "roll_num": 134,
+    "date_str": "S.d.",
+    "title": "S.d. [premi\u00e8re moiti\u00e9 du XIIS s.] Rouleau mortuaire de Tabbaye [de S. Pierre] de Pr\u00e9aux. L. Delisle (Rouleaux des morts du IX* au XVe s, P. 360, n XLVI) suppose que lc Gallia 5 christiana (t. VII, col. 561) fait allusion \u00e0 un rouleau mortuaire de Tabbaye de Pr\u00e9aux, quand, Toccasion du d\u00e9c\u00e8s de Mathilde T\u00e8re , abbesse de Chelles; morte en 1112, il \u00e9crit Eadem haud dubie quae in titulis multarum ecclesiarum quibuscum Pratellensis societatem habebat, in titulo Calensis abbatiae commendatur Ce  rouleau   mortuaire  est le m\u00eame que celui   d\u00e9crit   par Mabillon ( Annales   ordinis sancti 10 Benedicti, t. VI, p. 191) () de la mani\u00e8re suivante",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (4)",
+    "pdf_pages": "57",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 34192,
+      "roll_id": 131,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "son sujet, cf. D. de Rouet, Saint-Pierre de Le Pr\u00e9aux cartulaire.. ( 2005, p. XLII et n. 181. 1034-1227 L ), Paris; Mathildis de Coucy, abbesse de Jouarre,"
+    },
+    {
+      "id": 34193,
+      "roll_id": 131,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "en 1103 XII\"   et cf. J au XIII Qu\u00e9guiner; Jouarre au Notre-1 Dame  s. % dans de Labbaye royale \u00c9d. D. Jouarre, Paris; Rouet, 1961, t. I, P. 89. op. cit., P. 153, n? A 167."
+    }
+  ]
+}

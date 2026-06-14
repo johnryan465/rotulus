@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Clermont-Ferrand, France",
+    "coords": [
+      45.7772,
+      3.087
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: S.d. [vers 1096] Rouleau mortuaire de Durand, \u00e9v\u00eaq..."
+  }
+]

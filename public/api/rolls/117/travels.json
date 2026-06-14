@@ -1,0 +1,91 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Winchester, England",
+    "coords": [
+      51.0632,
+      -1.308
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: S.d. [1113-1127] Rouleau mortuaire ( fragmentaire ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Nesle-la-Reposte, France",
+    "coords": [
+      48.7619,
+      3.5683
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: sle"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Leiden",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Leiden"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "ate",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: ate"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "SANCTI STEPHAVI DIVIONENSIS",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: SANCTI STEPHAVI DIVIONENSIS"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "sce",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: sce"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "SAYCTI VIVENTII VERZLACENSIS M",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: SAYCTI VIVENTII VERZLACENSIS M"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Tuscany, Italy",
+    "coords": [
+      43.7711,
+      11.2486
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: tos"
+  }
+]

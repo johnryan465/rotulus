@@ -1,0 +1,25 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Dingolfing, Germany",
+    "coords": [
+      48.6293,
+      12.4984
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: S.d. [fin XI &.-d\u00e9but XIIS &.] Rouleau mortuaire (..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "sanctorum apostolorum Petri et",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: sanctorum apostolorum Petri et"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "East Anglia, England",
+    "coords": [
+      52.5,
+      1.0
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Origin: J0 Sd. [747-749] L\u0131r\u00ea Pd'Aelfiald, roi d'East Angl..."
+  }
+]

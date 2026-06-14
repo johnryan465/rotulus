@@ -1,0 +1,124 @@
+{
+  "roll": {
+    "id": 140,
+    "roll_num": 141,
+    "date_str": "S.d.",
+    "title": "S.d. [1157, apr\u00e8s _ le 30 mars] Imars 25 de Dijon (+ 30  abb\u00e9 = de S. \u00c9tienne c Rouleau mortuaire (fragmentaire) de Herbert, 1157 ) _",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (4)",
+    "pdf_pages": "69,70,71",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 45789,
+      "roll_id": 140,
+      "title": "T. Sanctae Mariae de Asneriis",
+      "location_name": "Sanctae Mariae de Asneriis",
+      "latin_text": ". Anima domni Herberti abbatis . Oravimus p. V.; eta.0.f.& , Amen. orate p n., pro domno Pm D., I. i. p. Bernardo ' abbate pro Garardo monacho; pro Gosleno monacho; pro nostro, Giraudo Berbis _ n. et pro caeteris familiaribus 3 S.d.- ~ Fontevraud, S. Marie-Madeleine. 1o T. Sanctae Mariae Magdalenae Fontis Ebraldi. Anima ejus et a. 0 E d.ri p Concedimus huic abbati septem psalmos et participationem omnium nostrorum beneficiorum.",
+      "pdf_page": 70,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 45790,
+      "roll_id": 140,
+      "title": "4 S.d.- Fontevraud",
+      "location_name": "Fontevraud",
+      "latin_text": ", N-D. Fontis Ebraldi. Anima domni Herberti abbatis eta 0 f. d,P 15 T. Sanctae Mariae Amen. Concessimus domno Herberto abbati omnium beneficiorum m. D. 1. i. p. integro participationem, unum plenarium officium in conventu: nostrorum ex charissimo magistro_ nostro Roberto et pro Oravimus p. V., orate p. n. primo pro (3) et Matilde' inperpetspm memorandis abatissis (sic) nostris Petronilla\" 2 5 S.d. ~ Cunault, N.-D. D., < i p Amen. ejus et a. 0 f. d, p m T. Sanctae Mariae Cunaldi. Anima Oravimus P. V., orate p. n. S.d.-S. Maur[-sur-Loire] ; Animae ejus et a 0 [ d, coenobii. omnibus 25 T. sancti Mauri, abbatis Glamnafoliensis Y; orate p n., pro i Amen. Oravimus p p. m D in Christi nomine r. p. fratribus n. V n 133). Foulques ` p 639, fille de supra, hslde [rc d'Anjou; 1149/1150 de l i\u00e8res (\u00e9ta-",
+      "pdf_page": 70,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 45791,
+      "roll_id": 140,
+      "title": "5 Hinc Et conjux laedit qui",
+      "location_name": "qui",
+      "latin_text": ", te suadente; comedit . De vetito ligno praedone monente maligno Per pommi morsum depellitur ille deorsum. Sic duo decepti pretium sunt mortis adempti 10 Hujus peccati sumus omnes mole gravati. Hac culpa prima descendit mundus ad yma. Lex constat dura, quae vivum finit moritura. Non igitur fere invitat aut de morte dolere Ergo non plores qui plorat quisque fer ore. 15 S.d.-Figeac; S. Sauveur:",
+      "pdf_page": 71,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 45792,
+      "roll_id": 140,
+      "title": "T. Sancti Salvatoris Figiacensis",
+      "location_name": "Sancti Salvatoris Figiacensis",
+      "latin_text": ". Absolve; Domine; animam famuli tui Herberti et 0. f.d., per intercessionem beatae Mariae et beati Viviani et omnium sanctorum. Amen. Oravimus p. 1., orate p. n., videlicet pro domino Deodato (1) abbate et Geraldo et Bertrando et Geraldo et Deodato et Raimundo et Arnaldo et Guillermo 20 et Guillermo et Benedicto et Stephano et Deodato et Agnes (sic). Concedimus ei partem beneficiorum loci nostri. S.d. Fons; N.-D. et S. Victor:",
+      "pdf_page": 71,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 45793,
+      "roll_id": 140,
+      "title": "T. Sanctae Mariae Sanctique Victo",
+      "location_name": "Sanctae Mariae Sanctique Victo",
+      "latin_text": "ris de Fontibus. Anima domni Herberti et 0 f. d., p. m. D., in Christi nomine z i. p. Amen. Oravimus P V., orate p. n., pro domno 25 Geraldo priore et Guillermo et pro omnibus fratribus n. Amen. 10 S.d.- Carennac; S. Pierre. Anima domni Herberti et 0 f. d.. p. m. D. in Christi nomine r. i. p. Amen. Oravimus p: v orate p n. Concedimus ei unum officium; septem psalteria et beneficium loci nostri. 30 1l S.d.- T. Sancti Petri Belli Loci. Beanlica sus Dordogne] = S. Pierre. beneficium loci ejus et a. 0. f. d. r: i. P. Concedimus ei nostri. Oravimus P. Y.? orate p. n. (1) Abb\u00e9 de Figeac, DH.GE, t. cit\u00e9 en 1119 par le Gallia XVI, col. 1458 christiana (t. I, col. 174) (R. Prat) . cf. aussi Figeac \" dans",
+      "pdf_page": 71,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 45794,
+      "roll_id": 140,
+      "title": "10 [Titulus] Sancti Eligii Noviomensis__",
+      "location_name": "Sancti Eligii Noviomensis__",
+      "latin_text": "",
+      "pdf_page": 72,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 34213,
+      "roll_id": 140,
+      "pdf_page": 69,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Fragmentum  le titre ' conscriptum ' XLVIv; sous | sexcentos , er 20 IIIII (sic) - minus _ plus transcriptum ante annos dapr\u00e8s _ A, vionensis; notaire apostolique; rvisel, \")"
+    },
+    {
+      "id": 34214,
+      "roll_id": 140,
+      "pdf_page": 70,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "ce personnage; cf. CL che, cit., Fyot de La op. p 108-114 = Mar- 6 Gallia t. IV; col. 755-756. christiana, (2) \u00c9d. P L L CLXXIX, col 117 ,"
+    },
+    {
+      "id": 34215,
+      "roll_id": 140,
+      "pdf_page": 70,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "LXXV cf. Jaff\u00e9, n (3) 7522 (5391) . \u00c9d. P L., t. CLXXXVIII,  col.  1456, n XCIII ; cf: Jaff\u00e9, n\" 10167 (6930) ."
+    },
+    {
+      "id": 34216,
+      "roll_id": 140,
+      "pdf_page": 70,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "de Fontevee c ronte abbesse , mort , 6 d'Anjou, de &1 c 969 1155, jour XVII 31 mai DHGE L au 8 dans vrault ( Daoust)"
+    },
+    {
+      "id": 34217,
+      "roll_id": 140,
+      "pdf_page": 71,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "de Celio Gallia Gallia christiana, loc, christiana, loc. cit."
+    },
+    {
+      "id": 34218,
+      "roll_id": 140,
+      "pdf_page": 71,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Cluniacensis \u20ac 0; c) mol B. (b) nc apr\u00e8s _ Ce Cil."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: s.d. [vers 1124]- 15 Vers en Chonneur de Hugh, abb..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "ugh",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: ugh"
+  }
+]

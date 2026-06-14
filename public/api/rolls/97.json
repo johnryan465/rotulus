@@ -1,0 +1,45 @@
+{
+  "roll": {
+    "id": 97,
+    "roll_num": 121,
+    "date_str": "S.d.",
+    "title": "S.d. [1123, apr\u00e8s le 4 novembre] Marbode, \u00e9v\u00eaque de Rennes (t 11 septembre 1123). Encyclique sollicitant de prier pour",
+    "manuscripts": "A. Original perdu. partielle . du XVIII s) B. Angers, B. M, ms. 327 (318), fol: 13,sans doute dapr\u00e8s a (copie  Renness 1524, P A II, quondam nominatissimi presulis 6. Incipit liber Marbodi, DRedomenaiilis Hilaaherti opera Puss (\u00e9d. partielle) 6.D. Beaugendre; sans indication de source anni 1524, Redonis excuso; ecehivo BarAlbini Andegar: et ex exemplor Collegii Mazarinaei , 1708, col. 1383, ex asservatur in Bibliotheca jussu   Yvonis;   Redonensis   episcopi, quod S. Albini Andegarensis ' t. I, col. 355, ex ms. et civile _ de Bretagne, C. Ed. Mart\u00e8ne et U. Durand, Thesaurus, (Chistoire eccl\u00e9siastique = \u00e0.H. Morice; M\u00e9moires pour servir de preuves \u00e0",
+    "pdf_source": "Dufour T1 (3)",
+    "pdf_pages": "82,83",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 45437,
+      "roll_id": 97,
+      "title": "13 et n",
+      "location_name": "t n",
+      "latin_text": ".",
+      "pdf_page": 83,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 45438,
+      "roll_id": 97,
+      "title": "2 Verbr\u00fcderungensb\u00fccher II p",
+      "location_name": "I p",
+      "latin_text": ". 27, n. Br\u00e9quigny; Table chronologique, t II, [NDIQU\u00c9 G. Zappert, 521. Catalogue g\u00e9n\u00e9ral des mss. des Biblioth\u00e8ques publiques de France, Paris + XXXI P 310.-\u00c9. Lesne; Iistoire de la propri\u00e9t\u00e9 eccl\u00e9siastique en France, Lille; t. V, 1940, p. 125 10 1898. p 5 J-I. Foulon; La r\u00e9forme de l\u00c9glise dans la France de Fouest, t. I, P. 239, n, 141. et n. JH. Foulon; Les ermites dans louest de la France. Les sources, bilan et perspectives % dans A. Vauchez; dir: Ermites de France et dItalie ( XI_ = XVO s. ) . Rome; 2003, P.",
+      "pdf_page": 83,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 45439,
+      "roll_id": 97,
+      "title": "87 et n",
+      "location_name": "t n",
+      "latin_text": ". 14. Marbode; personnage et auteur bien connu @ se retira \u00e0 la fin de sa vie \u00e0 S. Aubin d Angers. La 15 pr\u00e9sente encyclique; r\u00e9dig\u00e9e \u00e0 son intention par cette communaut\u00e9 religieuse; sollicite \u00e9galement des pri\u00e8res pour Girardus; d\u00e9c\u00e9d\u00e9 le 4 novembre [1123] Texte \u00e9tabli dapr\u00e8s a et h. Universis unius Sacrosancte Ecclesie filiis, humilis congregatio beati Albini, Andegavorum episcopi, plenam de Hoste victoriam et de victoria coronam. Apos- 20 tolica nos informat authoritas ut, pro invicem orantes (3) alter alterius onera portemus et sic adimplebimus legem Christi (4) Legem igitur Christi nos, servi Christi; pia sollicitudine adimplere satagentes; denunciamus vobis obitum domini Marbodi; venerabilis episcopi, semper cum laude memorandi, lingua facundi, religione precipui; morum honestate preclari, litterarum eruditione doctissimi; 25 cujus sermo sale semper conditus erat; et ex ore illius omni dulcior melle fluebat oratio ; et quamvis eodem tempore variis studiis tota Gallia oratorum rex, Gallicane resonaret, ipse tamen, arcem idus eloquentie specialiter obtinebat. Tertio siquidem septembris; anno Domini millesimo centesimo vigesimo tertio; infirmatus carne; sed spiritu fortior; excedens \u00e0 seculo; vivens in Christo; sua 30 presentia et amoris sui nos viduavit ((b) jaculo vulneratos intolerabili longa liberalium studiorum dolore confecit. Qui post longe lateque vernantium   exercitia,   quibus in intollerabili @. (b) longua 0 . 0) A son sujet, cf. notamment Marbode % dans DLE p. 982-983 (J-Y Tilliette) . P 93-126 ; cf. (2) BILL, n? 3548) . A noter que ce personnage est aussi Cf. Jac., connu V, 16 orate par une Vita (\u00e9d. P. pro invicem Cf. Gal. VI, 2 P . Marchegay et \u00c9. Mabille, tate Alter Chroniques des \u00e9glises & , alterius onera et sic por - Anjou, Paris; 1869, 'adimplebitis legem Christi v",
+      "pdf_page": 83,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": []
+}

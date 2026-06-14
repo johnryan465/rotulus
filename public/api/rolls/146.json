@@ -1,0 +1,58 @@
+{
+  "roll": {
+    "id": 146,
+    "roll_num": 145,
+    "date_str": "S.d.",
+    "title": "S.d. [1173, apr\u00e8s le 14 f\u00e9vrier] Encyclique sollicitant de prier pour Yves [II] , abb\u00e9 de S. Denis (t 14 f\u00e9vrier 1173, 15 7l . st.) Yves II abb\u00e9 de S. Denis, fut en charge peu de temps, de 1169 \u00e0 sa mort, que divers obituaires de S. Denis placent le 14 f\u00e9vricr (2) sans doute en 1173 (n. at.) . Texte \u00e9tabli dapr\u00e8s B. [Ulniversis Matris Fcclesie Gliis et Gudlelibue hum",
+    "manuscripts": "A. Original perdu. B. Paris, B N. F., lat. 14192, fol. 15v (XII\" s.). \u0152. Ed: Mart\u00e8ne et U. Durand, Thesaurus; + I; col. 571, dapr\u00e8s B ex mnS. Cosliniano *) 6 L Delisle, Rouleaux des morts du IX\" au XV\" s, P. 372,n\" LIV;, dapr\u00e8s B. INDIQu\u00c9 Histoire liu\u00e9raire de la France; t. XIII, 1869, P. 605.",
+    "pdf_source": "Dufour T1 (4)",
+    "pdf_pages": "75,76",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 45800,
+      "roll_id": 146,
+      "title": "35 mortalitas finita potest utrum fleri debeat et mors vocari",
+      "location_name": "ari",
+      "latin_text": ", qua talis viri potius est quam respectus est vita. humanitatis Nunc igitur; omnes viri boni, in quibus diter pro tali et viro, ut pietas; condescendite dolori nostro orate misericor- nobis aliquod et ipsius anima ex vestris impertiatur precibus sentire possit remedium et caritatis impense solatium  vosque mercedem apud cordium inspectorem Deum et humanitatis , consequamini meritum.",
+      "pdf_page": 76,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 34231,
+      "roll_id": 146,
+      "pdf_page": 75,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Dyonisii conventus salutem et ga opem implorat. Justum etenim   valde"
+    },
+    {
+      "id": 34232,
+      "roll_id": 146,
+      "pdf_page": 75,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "A son sujet, cf. Gallia christiana; t. VII, col. 379-380. (2) Cf. notamment Obituaires de la province"
+    },
+    {
+      "id": 34233,
+      "roll_id": 146,
+      "pdf_page": 75,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Vcius Deali99ini Mnac udium exoptat atque ab his mutuo solatii csl ut qui unius   domini aumus famuli,"
+    },
+    {
+      "id": 34234,
+      "roll_id": 146,
+      "pdf_page": 75,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Sens, t. I, 1,p 310 :a XVIkal mart, Obut domnus Yvo, pic mrmoric abha. Brati Dypnn sii"
+    }
+  ]
+}

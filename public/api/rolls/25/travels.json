@@ -1,0 +1,35 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: S.d. [1096, apr\u00e8s _ le 21 janvier] Titres compos\u00e9s..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "are",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: are"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "ime",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: ime"
+  }
+]

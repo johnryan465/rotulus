@@ -1,0 +1,34 @@
+{
+  "roll": {
+    "id": 133,
+    "roll_num": 136,
+    "date_str": "S.d.",
+    "title": "S. d. [vers 1150] 5",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (4)",
+    "pdf_pages": "58,59",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 45762,
+      "roll_id": 133,
+      "title": "20 Tencyclique",
+      "location_name": "que",
+      "latin_text": "; ne s'en distinguant que par Bosone), le prieur exactement sous les m\u00eames traits que imprim\u00e9s ici en petit un 17 mars (et peint encycliques sont aux deux et divers moines de Susa. Les passages communs g\u00e9n\u00e9raur que celle de texte. emploie des termes plus et en Italie. Tadresse de cette encyclique circula \u00e0la fois en France Toutefois, comme mentionne 25 mortuaire de Selvo 1147 Bosone, on peut supposer que le rouleau d\u00e9livr\u00e9 \u00e0 Susa le 8 mars examen pal\u00e9ographique Sene ,on \u00e6ete' aupp\u00e9d\u00e9e IIL, comte de Mauriennevel\u00e9lilI50, date qu'un cet abb\u00e9 mourut Tabb\u00e9 Selvo.  On peut penser que assigne \u00e0 lencyclique. scedula fuerit per- ad quos] hec Dei [fJidellibus, Universis Sancte Fcclesie religiosissimis monasterii varie- 30 Mauri Secusiensis circumdata Justi] et lata, vestitu deaurato;] congregatio   [Sanctorum reg[ina_ in >-ram; a cujus dextris astitit dellIstituto Bulletino . 1, dans 18, 1896, Susa (1029-1212) il medio evo; 600, n' 127. italiano _ per \u00c9d. supra, P. carte storico \u00c9d . Le pi\u00f9 antiche VII C. Cipolla, di P. 94,n diplomatiche  del monasterio di S. Giusto",
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 34196,
+      "roll_id": 133,
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "> Cf. Ps., LXXXIII, 7 : < in valle lacryma- rumn > Cf. Ps., CII, 15 : homo; sicut   foenum dies ejus; tanquam flos agri sic efflorebit w. Cf. Job, VII, 1 : < et sicut dies mercenarii; dies ejus \""
+    }
+  ]
+}

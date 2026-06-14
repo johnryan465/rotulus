@@ -1,0 +1,25 @@
+{
+  "roll": {
+    "id": 144,
+    "roll_num": 143,
+    "date_str": "S.d.",
+    "title": "S.d. [1157, apr\u00e8s le 4 novembre] Rouleau mortuaire de Calon, \u00e9v\u00eaque de Poitiers (t novembre 1157) . [Calon; archidiacre de Thouars, a succ\u00e8d\u00e9 \u00e0 Cilbert de La Porr\u00e9e comme \u00e9v\u00eaque de Poitiers de 1155 \u00e0 1157 il est fort mal connu 5 Gr\u00e2ce \u00e0 deux mentions du Gallia christiana (. II, col. 1179 et 143), on sait que le rouleau mortuaire mis en circulation pour Calon, aujourd hui perdu \u20ac , \u00e9tait encore conserv\u00e9 au XVIII & Elles font \u00e9tat de [origine noble de ce personnage, ainsi que de divers membres de sa famille, de sa s\u0153ur Belota; prieure de N.D.de Rives et de ses neveux, Hugues, moine d Uzerche; et Guillaume, clerc de l\u00e9glise de Nantes. De plus, elles semblent indiquer que des titres furent appos\u00e9s, entre 10 autres; par [hospice de Loudun; par P\u00e9glise de Bordeaux; par Fabbaye de Massay et, sans doute, par P\u00e9glise de Clermont",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (4)",
+    "pdf_pages": "74",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 45798,
+      "roll_id": 144,
+      "title": "20 Rainaudus",
+      "location_name": "dus",
+      "latin_text": "; Bartholomaeus et Petrus; abbates Masciaci ante annum 1157, quippe qui commemorantur in rotulo Calonis, episcopi Pictavensis. cf: Gallia christiana; t II, des Mittelalters, t. 21, 1965, P. sujet, 153, son 170. (2) N. M. H\u00e4ring; Bischof Gilbert IL CE L. Delisle, Rouleaux des morts du IX\" col. 1179 und seine Erzdia- au XV s., P. 370, n' LI ; G. von Poitiers   (1142-1154) Zappert, Verbr\u00fcde- Erforschung rungensb\u00fccher II, P. 25,n. 102. kone % dans Deutsches Archiv f\u00fcr",
+      "pdf_page": 74,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": []
+}

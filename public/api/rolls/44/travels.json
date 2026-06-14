@@ -1,0 +1,25 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: [d\u00e9but XIIS 8] S.d. [XI-XII' s.] Titre versifi\u00e9 ap..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "sis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: sis"
+  }
+]

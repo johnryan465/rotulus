@@ -1,0 +1,48 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: S.d. [1157-1180] abb\u00e9 de 25 Echange de brefs insti..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Mainz, Germany",
+    "coords": [
+      49.9929,
+      8.2473
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: nce"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Baptiste B\u00e9n\u00e9dic- coll\u00e9giale S",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Baptiste B\u00e9n\u00e9dic- coll\u00e9giale S"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "onl",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: onl"
+  }
+]

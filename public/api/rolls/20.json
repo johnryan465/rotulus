@@ -1,0 +1,142 @@
+{
+  "roll": {
+    "id": 20,
+    "roll_num": 76,
+    "date_str": "S.d.",
+    "title": "S.d. [avant 7056] 25 Encycique sollicitant de prier ] pour Andr\u00e9, prieur de A Original _ Fleury perdu. B. Paris, B N.F, lat. 6365, fol. 2 '(d\u00e9but du XIIF &)  a.L. Delisle, Rouleaur et G. Laborys des morts du IX* au XV 30 Andr\u00e9 de _ Fleury. Vie de s., P. 147,n\" (ed. partielle) . Gauzlin, XXVIII, ' abb\u00e9 de dapr\u00e8s = Fleury , B.- 6. Paris; R.H. 1969, Bautier p 8 n. 4, dapr\u00e8s a",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "27,28,29,30",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 44824,
+      "roll_id": 20,
+      "title": "5 Lyon de Yautre ceux Le titre de B\u00e8ze",
+      "location_name": "\u00e8ze",
+      "latin_text": ", connu seulement par la biographie de Garnier; ne faisait pas partie de ce Il est malaise de pr\u00e9ciser Je moment du passage du rotulifer en cette abbaye; fragment_ en d\u00e9but ou en fin de parcours on peut toutefois supposer que Je biographe a pris pour exemple de Thommage rendu \u00e0 Garnier le premier titre  'appos\u00e9  sur le rouleau. De toute mani\u00e8re, Futilisation du titre de B\u00e8ze 10 par le biographe anonme de Garnier repr\u00e9sente /un des rares exemples d'emploi de tout ou partie dun rouleau mortuaire par un historien m\u00e9di\u00e9val . Texte \u00e9tabli d apr\u00e8s Bet b S.d.- B\u00e8ze. Dilectis  in   Christo   fratribus   protomartyzi   Stephano   digne 15 Besuenses famulantibus monastice degentes prosperos anxietate utriusque vitae successus.  Communis onoeroris una vobiscum nos quoque credatis constringi; solatium omnium nostrum rerum Potens & nobis  quia commune rium qui nos charitativa . sustulit, id est domnum Warne- perturbatione exdliat i\u00e0 cqngessione solabatur in hujus quam patimur; fuctivagi 20 suorum nacturus iquidears ille Jutea carnis mole relicta, felicia Haborag sura praemia; pracsentis seculi, nos tamen discessu suo & qua tribulabatur; ereptus est pres- continua, quibus consulens; ntenis contristat consilii et solatii sui omnibus afflictis indigentia beneficia et, sicut dicit Apostolus et oppressis indefesse fentibus pro posse suo et SGandendum cun gsudenddess  enpendebat 25 sibi omnimodis velle; omnia et semetipsum flendum cum onniomnimodisne jusg\u00e8res  parcus  al\u00fcis  profecno impendebat omnibus et ajugiter perseverans, quid vivebat omnibus sibi largus imitandum, aemulatorque quae \u20acx 'ecckis ashaerpossidel  intimabat, verbo et quid sequendum possidebat jure opere foret, semetipsum paterno fideliter ad sacerdotii gradum, affectu administrabat, 30 efficere. Ergo quod digne subjectos quia administrabat, studens pretiosa est in regere et una nobiscum vobis suademus conspectu Domini aptum et tristitiae mors idoneum interitus mors illius est credenda, et moeroris sanctorum sed Ejus % (4) transitus. deponere fetus, quia non Histoire litteraire Paris; de la 1814, P 598, France; L. XIII, Cf R. Grandlieu, ~ Poupardin; 'Tournus), loire des , Monuments de Rom., XII, Paris, abbayes  Chis- 15 . 1905,  de S. Philibert , Ps , P. 103, ~ ( Noirmoutier; CXY; n. 3. 15.",
+      "pdf_page": 29,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 44825,
+      "roll_id": 20,
+      "title": "2 S.d. Lyon",
+      "location_name": "Lyon",
+      "latin_text": "; cath\u00e9drale.",
+      "pdf_page": 29,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 44826,
+      "roll_id": 20,
+      "title": "T. ecclesiae Lugdunensis",
+      "location_name": "ecclesiae Lugdunensis",
+      "latin_text": ". Salvete, fratres in Christo Divionenses. Augustae sedis Lugduni turma fidelis Compatitur vobis nimium pro funere fratris.",
+      "pdf_page": 29,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 44827,
+      "roll_id": 20,
+      "title": "5 Quod nobis petitis",
+      "location_name": "tis",
+      "latin_text": ", nos exorasse sciatis. Debita sed vestro quae vultis solvere functo Qui jam luce caret clero concedite vestro. Odolrico (1) archiepiscopo;   Rolanno; Duranno;   Stephano; Arnaldo;   Girino; Wilenco, Dadoni, Rostagno, Guigoni caeterisque fratribus defunctis Frealdo, Pon- 10 tio. 3",
+      "pdf_page": 29,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 44828,
+      "roll_id": 20,
+      "title": "T. ecclesiae Sancti Iraenei et Sa",
+      "location_name": "ecclesiae Sancti Iraenei et Sa",
+      "latin_text": "ncti Justi Lugdunensis. Clerus Iraenei confessoris quoque Justi Warnerio solvit quod vestra precatio movit.",
+      "pdf_page": 29,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 44829,
+      "roll_id": 20,
+      "title": "15 Sprevit opus carnis",
+      "location_name": "nis",
+      "latin_text": "; dilexit gaudia mentis; Vivere quod Christus fuit atque mori sibi lucrum, Hinc est gaudendum vobis magis atque dolendum. Quod fieri vultis, pro nostris vos faciatis Alinardo (2) archiepiscopo, Aelia; Alcherio; Remundo; Duranno, Ardrado; Ber- 20 nardo; Ugone. S.d.- Tournus. T.monasterii Tornuciensis. Praeter quale bonum vos fratres sumite Christum est, nec nostro subditus est 25 Cui manet esse quod Ad quod vester heros distraxit ultima quem sors Sumite () nunc fratres et cuncti sumite; verum est, Fugite possibile nostrum variumque necesse Quid juvat, eu, varium; non est estque peremptum. Destruit hoc placitum; mox construit illud amatum.",
+      "pdf_page": 29,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 44830,
+      "roll_id": 20,
+      "title": "10 Vera Suessionicus pro Juctu gaudia clerus",
+      "location_name": "rus",
+      "latin_text": ". Mutentur lacrimae; ' quia crescunt praemia vitae. Agminibus niveis socientur semper in astris. At nos consimiles luctus quos saepius urget; Possimus ut nostros abstrarit quos eodem 15 Consociet ~ SorS sestris solamen sic demus illis Fulchoni () lopiscopo; Deodato % episcopo, secundo &t multis aliis quorum domno Beraldo nulli   pietate prestet Judex Altissimus. animabus vestris et nostris orationibus Amen. requiem S.d- 20 I Soissons, 5. monasterii Cr\u00e9pin[-le-( Sanctorum Grand, S. Crispini et Cr\u00e9pinien. Postquam ad limina Crispiniani beatorum martirum Suessionensis. Suessionensi sita, rotlifer vester Crispini pervenit et pro posse charitatis Crispiniani, officia vestrorumque in territorio simi his quos ex more persolvimus. obitum annotatos = nuntiavit, 25 aspicitis Cujus nostro nitimini, Ragenardus` (8) cum omnibus aliis ~ rei gratia, abbas; fratres vestris charis- Adulfus abbas, orationibus Gerardus succurrere abbas (a) Gerardus abbas r\u00e9p\u00e9t\u00e9 B. Adelelmus Sur ce 1 2 personnage; c\u00ca. supra, P. 210 et Pour le Gallia , Abbe christiana   de Ce (t.IV, col. cf.R. Tournus personnage ,967), Poupardin, ' de 989 fut abb\u00e9 dun autre op. ou ment cil., 990 que Sur \u00e0 Tournus: \u00e9tablisse- Ce p. 101,~ 1008 Sur personnage, n. 3- Abb\u00e9 de Tournus ce cf, en 870, puis personnage, supra, Langres en \u00e9v\u00eaque ' \u00c9v\u00eaque  cf. P. 169, 879-880, de supra, n. 2- R IDOIL Poupardin, le 28 juin 888 1052, = jourue d 5 Soissons , de P 169,~ OP. cil., cf. ga 1021 n. 3- L Duchesne, P. 89, 1 , 2 Ces mort cf, au 27 Fastes; et 3; cing - Gams, octobre L IL P. 190. Soissons abb\u00e9s ne de S. p. 633 . sont (t.IX, col. connus Cr\u00e9pin-le-\u20ac 396) du Grand Gallia de 'que gr\u00e2ce au pr\u00e9sent , christiana document.",
+      "pdf_page": 30,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 33936,
+      "roll_id": 20,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Ilnl DaUlcr Ul Da A P. 9), il faut   noter cependant que le nom dAndr\u00e9 se rencontre \u00e0 mainte reprise dans le n\u00e9crologe de Fleury du XVe s \" (2) R.-H. Bautier et G. Labory; op. cil., p. 8 Ibid.  Toutefois; je ne crois   pas   fond\u00e9e Fhypoth\u00e8se de R-H. Bautier et G, Labory (op. cil., P. 9), selon laquelle  Andr\u00e9,   monachus; mentionn\u00e9 parmi les d\u00e9funts de Fleury sur le"
+    },
+    {
+      "id": 33937,
+      "roll_id": 20,
+      "pdf_page": 28,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Anne de somnDeTIOL, CiCYC & V 1aa"
+    },
+    {
+      "id": 33938,
+      "roll_id": 20,
+      "pdf_page": 28,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Vidier (op. cit., P. 121) remarque que liste dautres fr\u00e8res d\u00e9c\u00e9d\u00e9s 229 annonc\u00e9e cette comme \u00e9tant jointe \u00e0 lencyclique; n'a pas \u00e9t\u00e9"
+    },
+    {
+      "id": 33939,
+      "roll_id": 20,
+      "pdf_page": 28,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "lors de la transcription du faire-part dans le ms. qui nous en a conserve ]e textc (2) \u00c9d. partielle R. H.F,L X, P 382"
+    },
+    {
+      "id": 33940,
+      "roll_id": 20,
+      "pdf_page": 29,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "B ; corrigez Sumite."
+    },
+    {
+      "id": 33941,
+      "roll_id": 20,
+      "pdf_page": 29,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "ce personnage; cf: supra, P. 195,n.1. Abb\u00e9 de S. B\u00e9nigne de Dijon et archev\u00ea- que de Lyon; mort \u00e0 Rome le 29 ou 30 juillet 1052 cf. Gallia christiana, t. IV, col. 84-87 et"
+    },
+    {
+      "id": 33942,
+      "roll_id": 20,
+      "pdf_page": 29,
+      "pdf_half": "right",
+      "footnote_num": "678",
+      "text": "N. Bulst,   Untersuchungen Zu den Klosterreformen Wilhelms von Dijon   (962 1031 ) , Bonn; 1973, passim."
+    }
+  ]
+}

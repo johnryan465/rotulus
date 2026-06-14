@@ -1,0 +1,38 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: S.d. [vers 1096] Titre compose par Baudri de Bourg..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Nesle-la-Reposte, France",
+    "coords": [
+      48.7619,
+      3.5683
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: sle"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "dam",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: dam"
+  }
+]

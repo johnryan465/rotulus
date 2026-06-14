@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Dingolfing, Germany",
+    "coords": [
+      48.6293,
+      12.4984
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: S. d. [1176] prier pour   Robert   [II de Blois] ,..."
+  }
+]

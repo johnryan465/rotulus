@@ -1,0 +1,48 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: S.d. [1157. apr\u00e8s le 6 avril] Rouleau mortuaire (f..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Sancte Marie de Pratea_ In mod",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancte Marie de Pratea_ In mod"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: Soissons"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "sanctorum martirum Crispini et",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: sanctorum martirum Crispini et"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "step": 0,
+    "type": "stop",
+    "name": "mps",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: mps"
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Sancti Dionysii Montis Martyru",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancti Dionysii Montis Martyru"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Tournus Abbey, France",
+    "coords": [
+      46.5647,
+      4.9111
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: nus"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Sancti Petri Fossatensis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancti Petri Fossatensis"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "one",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: one"
+  }
+]

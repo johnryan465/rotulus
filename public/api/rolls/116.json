@@ -1,0 +1,45 @@
+{
+  "roll": {
+    "id": 116,
+    "roll_num": 124,
+    "date_str": "S.d.",
+    "title": "S.d. [1117-1126]",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (4)",
+    "pdf_pages": "30",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 45669,
+      "roll_id": 116,
+      "title": "108 79 Ce bref mortuaire mence donne la par Anno",
+      "location_name": "nno",
+      "latin_text": ", liste des fondateur d\u00e9funts de de Reginhardus  ' Fabbaye; Siegburg; et class\u00e9s Comme se continue hi\u00e9rarchiquement ne sont elle com- 20 ni Tabb\u00e9 Kuno mentionn\u00e9s ni Tabb\u00e9 par les deux II, mort en Kuno 1, premiers abb\u00e9s Erpho et mentionn\u00e9 parmi les 1132, comme nomm\u00e9 d\u00e9funts; - Marcwardus, \u00e9v\u00eaque ce de Regensburg en 1126, document abb\u00e9 de peut \u00eatre dat\u00e9 de Deulz , attest\u00e9 en 1117, est ici Littere quas 1117.1126. audistis; perorarunt.",
+      "pdf_page": 30,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 45670,
+      "roll_id": 116,
+      "title": "0 Hec - patres et vero domini",
+      "location_name": "patres et vero domini",
+      "latin_text": ", conventionis defunctorum de componenda mutue nomina vobiscum fraternitate 25 ita apud reliquorum Vos pro descripsimus; fratrum testimonio ut ad presens in exordio sunt. memoriam nostrorum recitentur: agatis; hoc qui ab initio Quod, si vobis placuerit, impenditis, hec eadem ipsum nobis fundate II nos litteris eclesie non. vestris nostre declarate defuncti decembris, prompto animo et fundatoris depositio qugcumque nostris hujus  cenobii. sancti   patris rependemus. nostri Annonis (1) archiepiscopi, (1) Anno [I, 1074, archev\u00eaque mort le 4 de d\u00e9cembrc K\u00f6ln de 1075 ; cf. * 1056 \u00e0 Colonia dans 0 Series P. 25-27 (S. episcoporum, Weinfurter) . L. V, Germania, 1, [1126]",
+      "pdf_page": 30,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 45671,
+      "roll_id": 116,
+      "title": "20 sus et monachus",
+      "location_name": "hus",
+      "latin_text": ". XV k: julii, obiit Johanness conexsks. monacha et inclusa: XVIII kl: jannariio obiit Dirina, augusti, obiit Hildegardis; Walterus, laicus; pater domni Annonis septembris; obiit monacha et inclusa. VIid. Nonas februarii; obiit Engela, mater ejusdem. archiepiscopi. 6) Iid, omis, ajout\u00e9 \u00e0 la fn de la ligne suivantes abb\u00e9 de S. Paull Gerwicus (= Gerricus ) de date par la sans pr\u00e9cision abb\u00e9 de Siegburg (1064-1076) ; cl: dUtrecht; cit\u00e9 96) qui mentionne Erpho, VIII, p. 554. sacra nova (L.1, p Germania benedictina; t. Batavia en 1118. (1076- Willibrandus; successeur; cit\u00e9  en 1117 Reginhardus; abb\u00e9 de Sieghocgc son abb\u00e9 de Deutz Grecmania benedictina ( loc; citlo Marcwardus, (t. VIII; p 305)  1105) ; cf. cf. Monu- Germania benedictina  non identifi\u00e9 Personnage par Je menta Annonis; loc. cit.",
+      "pdf_page": 30,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": []
+}

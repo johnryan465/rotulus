@@ -1,0 +1,35 @@
+[
+  {
+    "step": 0,
+    "type": "stop",
+    "name": "Buxbrunn, Germany",
+    "coords": [
+      49.4444,
+      10.7419
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: nno"
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "patres et vero domini",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: patres et vero domini"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "hus",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: hus"
+  }
+]

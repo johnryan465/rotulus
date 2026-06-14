@@ -1,0 +1,62 @@
+{
+  "roll": {
+    "id": 132,
+    "roll_num": 135,
+    "date_str": "S.d.",
+    "title": "S.d. [vers 1150] Rouleau mortuaire ( fragmentaire) de Renaud, abb\u00e9 de [S. Maur-sur-Loire = 2]. A. Angers, B. M. ms: 149 (141) (1) , feuille de garde; non foliot\u00e9e ` Parchemin | (\u00e9pais ; rerso [= c.c] blanch\u00e2tre ; recto [= c p]jaun\u00e2tre) . Un fragment opisthographe; endommag\u00e9.1 Longueur; 26cm   5 largeur (rogn\u00e9e), 16,5 cm. [NDIQU\u00c9 Catalogue g\u00e9n\u00e9ral des mss. des Biblioth\u00e8ques publiques de France, Pariss L.XXXI, 1898, p. 234.",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (4)",
+    "pdf_pages": "57,58",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 45759,
+      "roll_id": 132,
+      "title": "15 [TJitulus Sancti Martini Troarni",
+      "location_name": "rni",
+      "latin_text": ". (5) [domno requie[scant in pace] Oravimus P; Y; orate p. 1., pro domno Durando \" comite (c (6) Ricardo <7 , abbatibus () , pro Rogerio pro Arnulfo domno] >-ma et pro aliis omnibus Mabilia (9) comitissa, pro Radulfo benefactoribus nostris.",
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 45760,
+      "roll_id": 132,
+      "title": "2 cf supra",
+      "location_name": "pra",
+      "latin_text": "; p 1974, passim. Sur ce personnage;  422,n. 1. cf. supra, P (4) son sujet; c\u00ca: Bertrand de Broussillon; Sur ce personnage;  Cartulaire de S. Aubin & Angers, Angers, 1903, [1150]",
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 45761,
+      "roll_id": 132,
+      "title": "0 [fidelium defunctorum requi]escant i",
+      "location_name": "escant i",
+      "latin_text": ". domni P. Amen. Rainaudi [pro nostris] Oravimus abba- p 4 orate 5 3 S.d.- [Caen,] S. \u00c9tienne. TITULUS SANCTI STE[PHANI CADOMENSIS]: abbatis et a. 0. f. Anima [defunctorum in] i. Amen. domni P. Oravimus P Rainaldi Guillelmo re[ge; fundatore] V: orate ecclesie nostre, pro Lanfranco 82  P. 1l., nostro et primo pro archiepiscopo Cant[uariensi] et abbate 10 et sororibus et omnibus benefactoribus monachis et nostris. fratribus (c.p.) S.d. ~ Castellum (3) [TIJTULUS [de] Castello: Animam famuli tui [Ut in Raginaudi; ab omni vinculo delicti, 15 tesufrectiJonis gloria inter sanctos et electos > berto, Osmundo; tuos resuscitati (4) fratre. Roberto (b Willermo; Roberto; monacho; Willelmo fratre (, Willermo re (d) Ema, Lescelina, Osmo, Maugerio, Wedelina; Alberada, Emma soro- Roberto monacho (e) Orengia, Mauricio; Petro, Willermo; Rogerio; 20 5 S.d. [TITJULUS 1 Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es . Versus Amonis Flos de cleri (f) carminibus pietatis labeuntis; honos (0) Mot speculum probitatis, Caen ,  rubriqu\u00e9. fut Ce titre, certainement aujourd \u00c9tienne 'hui el situ\u00e9e suenleappos\u00e9 par Vabbaye 'yeoaq on fratre, plac\u00e9 entre ceux de Troarn et de S. \u00c9tienne de abr\u00e9g\u00e9, \u00e9crit parcours du Fontenay-le- abr\u00e9g\u00e9, au-dessus porte-rouleau. Marmion, \u00e9cril , (b) plac\u00e9e sous le vocable de $ en en du interligne. nom Roberto corrig\u00e9 \u00e0 tort Robertus. (c) interligne. ((e) pr\u00e9c\u00e9dent, comme en recopier Entre les monacho, les lignes ' abr\u00e9g\u00e9, au-dessus du nom suivant. \u00e9crit , (d)   sorore; \u00e9t\u00e9  m\u00eames vers. de ce titre; Un en ajout\u00e9s= Dautres  scribe, interligne. (0 \u00e0 Lelde ce mot a \u00e9t\u00e9 ajout\u00e9 Cenvers  vers; soit par le \u00e9trangers ' \u00e0 cet tmployant une encre plus caerevot est amus\u00e9 \u00e0 m\u00eame 'copiste, soicpaaccus\u00e9 de r\u00e9ception, et des essais de plume ont Sur Ce quelqu un personnage, < dautre. Sur lean Lanfranc, cf. pour supra, morluaire, P lequel 397,7 cf. n, ] Diverses supra, circula un Cateau-( 296 ouE Cambr\u00e9sis",
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 34194,
+      "roll_id": 132,
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "rocalll\u00e9s fort  usn 80 avec diverses  Castellum pourraient comme Le"
+    },
+    {
+      "id": 34195,
+      "roll_id": 132,
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "onu, a Uaiora con (Sarthe; arr: La Fl\u00e8che; Pontvallain) cer dans rien ne permet de se pronon- le cas de ce Cf. fragment. supra, P. 605, n. 1."
+    }
+  ]
+}

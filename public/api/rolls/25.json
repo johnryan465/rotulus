@@ -1,0 +1,35 @@
+{
+  "roll": {
+    "id": 25,
+    "roll_num": 81,
+    "date_str": "S.d.",
+    "title": "S.d. [1096, apr\u00e8s _ le 21 janvier] Titres compos\u00e9s par Baudri de Bourgueil pour le rouleau mortuaire de Renaud [ Ier du Bellay ] , archev\u00eaque de Reims. 20 A. Original perdu. B. Vaticano; Reg lat. 1351,fol. 27 et 37v (deux mains diff\u00e9rentes du XII' &) a. A. Duchesne, Historiae Francorum scriptores, Paris, t. IV, 1641, P. 252 et 267, \u20ac ex veteri codice Gallia christiana, t.IX, col. 77, dapr\u00e8s a (\u00e9d. partielle) . =C. PL, ms. Alexandri Petavii 6 CLXVI, col. 1183 et 1197. d. P. Abrahams, Les \u00e6uvres po\u00e9tiques de Baudri de Bourgueil t.. le ms. du Vatican.. Paris, 1926, P. 59, n' LII et P. 253 ( 1046-1130 ). \u00c9dition critique publi\u00e9e lbepr \u00e8Baldnisus Bwguciamnus . Carmina; Heidelberg 1979 % 105, n CXXXIII, dapr\u00e8s B. =e. K.Hilbert, B.-f J-Y. Tilliette; Baudri de Bourgueil. Po\u00e8mes; Pariss t. L, 1998, 46,n' 17 et p 73, n? 71, dapr\u00e8s P. 40, n? 17 et p. 66, n9 71. sonne et le r\u00f4le de Lanfranc,  cf. notamment (1) Canterbury; P. 110. [abbaye de Saint-\u00c9tienne   de (2) Historia ecclesiastica, \u00e9d. M. Chibnall, C.  Hippeau, Caen 1066-1790 ) , Caen, 1855, P. 17 M. Cib: Oxford, t. II, 1969, p. 146. Bec, Oxford, 1978 V. \u20ac\u00e0 () Il est difficile davancer que ce rouleau son, Lanfranc of Abb\u00e9s   b\u00e9nedictins, P 33-35 ; I E 1 mortuaire a servi \u00e0 [auteur anonyme . dun autre zeau, Cowdrey; Lanfranc, scholar; monk, archbishons portrait de Lanfranc (London; British Library, Claudius C. VI, fol. 173). Sur la per- Oxford , 2003. Cotton,",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "37,38",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 44862,
+      "roll_id": 25,
+      "title": "20 Debueram mea musa musam juvare",
+      "location_name": "are",
+      "latin_text": "; Sed re vera pro defunctis continuare. Usus potius duo que nobis sunt ct jus facienda; Nam designat  pro defunctis agenda. Et pro jus et salvandis compassio animabus  plorat 25 Ergo; brevem proximus _ musam orat. Resque ' ponamus procul nostro pro sit inutilis monimento Flentes Rainaldo Remensi a documento. Orantes autem compatiamur; Pro te nostrempatriarche = madent, ~ subveniamus.",
+      "pdf_page": 38,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 44863,
+      "roll_id": 25,
+      "title": "30 Oramus pater pro te optime",
+      "location_name": "ime",
+      "latin_text": ", pro nobis, ' fetibus , Colligit ultra quesumus, ora. fas rotularis ora. 'epistola multa, \u00c9d. Callia , 1 XXV christiana, ;c Jaffe, L X, {2) n '5415 inste , (4042) . col. CL 0 29, Pontal, Les Cf. capetienne conciles de la Chaise-L P,R. 'jusqu' 'en 1215, Paris; France Dieu  ( Gaussin; A ce 'sujet, cf 4. 1995, Fliche, _ P 219. Sur (1043-1518), ' Labbaye lippe F Le r\u00e8gne de_ B. celte Paris; ` de (1060-1108). Phi- Delmaire, restauration, 1962, La passim. Paris, 1912, milieu , Le cf, p. p. 47, 52 du _ dioc\u00e8se 137 . et (6) XIVE 8,, d Cf. Arras notamment Gallia , Arras; ,1994, > de Op. P 1093 cit., christiana, ' 41-53. au tI, p. XXIX. t. IX, col 77,",
+      "pdf_page": 38,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": []
+}

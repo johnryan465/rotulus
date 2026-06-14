@@ -1,0 +1,25 @@
+{
+  "roll": {
+    "id": 45,
+    "roll_num": 102,
+    "date_str": "S.d.",
+    "title": "S.d. [XI-XIIF &]",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "55",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 44888,
+      "roll_id": 45,
+      "title": "2 [ancienne cote Notre-Dame ",
+      "location_name": "Dame",
+      "latin_text": "225 \" 10 >-nalia venit >-na Sancte >-ae lucion-< _ >-nus fratr-- piissimi d-< 15 >ramus denique >-nis quatinus subtractis >-orum nomina abbate 20 [dJecano",
+      "pdf_page": 55,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": []
+}

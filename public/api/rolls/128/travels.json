@@ -1,0 +1,35 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: S.d. [1143, apr\u00e8s le 28 f\u00e9vrier] Vers en Chonneur ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "dia",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: dia"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "oli",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: oli"
+  }
+]

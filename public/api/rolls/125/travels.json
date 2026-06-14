@@ -1,0 +1,25 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Redon Abbey, France",
+    "coords": [
+      47.6534,
+      -2.085
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: S. d. [vers 1133] Rouleau mortuaire de Herv\u00e9; abb\u00e9..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "! inconsutilem Christi scidunt",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: ! inconsutilem Christi scidunt"
+  }
+]

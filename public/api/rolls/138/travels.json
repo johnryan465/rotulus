@@ -1,0 +1,154 @@
+[
+  {
+    "step": 0,
+    "type": "stop",
+    "name": "rte",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: rte"
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Psalmody",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Psalmody"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Sancti Petri Psalmodiensis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancti Petri Psalmodiensis"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "one",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: one"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Sancti Petri Magalonensis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancti Petri Magalonensis"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "!Ve cui mundus placet",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: !Ve cui mundus placet"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "W\u00fcrzburg, Germany",
+    "coords": [
+      49.7913,
+      9.9534
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: rgo"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Trier, Germany",
+    "coords": [
+      49.759,
+      6.644
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: \u00e8ve"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "mus Christum",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: mus Christum"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Villemagne",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Villemagne"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: Sancti Germani Parisiensis"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "Sancte Marie Columbis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancte Marie Columbis"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Sanctae Mariae JOSAPHAT",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sanctae Mariae JOSAPHAT"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "Winchester, England",
+    "coords": [
+      51.0632,
+      -1.308
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: ter"
+  }
+]

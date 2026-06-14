@@ -1,0 +1,28 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: S.d. [1154, apr\u00e8s le 4 septembre] Rouleau mortuair..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Lucca, Italy",
+    "coords": [
+      43.8429,
+      10.5027
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: que"
+  }
+]

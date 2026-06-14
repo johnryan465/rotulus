@@ -1,0 +1,58 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Origin: 10 Sd. [1142 apr\u00e8s le 17 octobre] Encyclique solli..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "lge",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: lge"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Buxbrunn, Germany",
+    "coords": [
+      49.4444,
+      10.7419
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: bus"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "tes",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: tes"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "eri",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: eri"
+  }
+]

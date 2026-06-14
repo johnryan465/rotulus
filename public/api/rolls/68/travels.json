@@ -1,0 +1,369 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Mainz, Germany",
+    "coords": [
+      49.9929,
+      8.2473
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: S.d. [1107, mars ou avril] de aye [T') 1, abb\u00e9 de ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: tis"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "uyc",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: uyc"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "tus",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: tus"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: eur"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "' au XV",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: ' au XV"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Reichenau Abbey, Germany",
+    "coords": [
+      47.6994,
+      9.0601
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: che"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "mss",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: mss"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "cke",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: cke"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "t n",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: t n"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "sis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: sis"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "< > Hugo dolendus < mentis pat",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: < > Hugo dolendus < mentis pat"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "tum",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: tum"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: tis"
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "= S",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: = S"
+  },
+  {
+    "step": 15,
+    "type": "stop",
+    "name": "\u00e9 T",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: \u00e9 T"
+  },
+  {
+    "step": 16,
+    "type": "stop",
+    "name": "men",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: men"
+  },
+  {
+    "step": 17,
+    "type": "stop",
+    "name": "emo",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: emo"
+  },
+  {
+    "step": 18,
+    "type": "stop",
+    "name": "Rouen, France",
+    "coords": [
+      49.4431,
+      1.0992
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: Rouen"
+  },
+  {
+    "step": 19,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: unt"
+  },
+  {
+    "step": 20,
+    "type": "stop",
+    "name": "MARIE et Sanctorum Valeriani a",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: MARIE et Sanctorum Valeriani a"
+  },
+  {
+    "step": 21,
+    "type": "stop",
+    "name": "pra",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: pra"
+  },
+  {
+    "step": 22,
+    "type": "stop",
+    "name": "Jouarre",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Jouarre"
+  },
+  {
+    "step": 23,
+    "type": "stop",
+    "name": "Meaux",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Meaux"
+  },
+  {
+    "step": 24,
+    "type": "stop",
+    "name": "SANCTE CRUCIS SANCTIQUE FARONI",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: SANCTE CRUCIS SANCTIQUE FARONI"
+  },
+  {
+    "step": 25,
+    "type": "stop",
+    "name": "one",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: one"
+  },
+  {
+    "step": 26,
+    "type": "stop",
+    "name": "abbatibus Alveredo Hugone",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: abbatibus Alveredo Hugone"
+  },
+  {
+    "step": 27,
+    "type": "stop",
+    "name": "Sancti Petri Latiniacensis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancti Petri Latiniacensis"
+  },
+  {
+    "step": 28,
+    "type": "stop",
+    "name": "Montecassino Abbey, Italy",
+    "coords": [
+      41.4901,
+      13.8143
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: ont"
+  },
+  {
+    "step": 29,
+    "type": "stop",
+    "name": "lit",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: lit"
+  },
+  {
+    "step": 30,
+    "type": "stop",
+    "name": "mus",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: mus"
+  },
+  {
+    "step": 31,
+    "type": "stop",
+    "name": "ata",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: ata"
+  },
+  {
+    "step": 32,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: tor"
+  },
+  {
+    "step": 33,
+    "type": "stop",
+    "name": "gii",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: gii"
+  }
+]

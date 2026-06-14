@@ -1,0 +1,45 @@
+{
+  "roll": {
+    "id": 24,
+    "roll_num": 79,
+    "date_str": "S.d.",
+    "title": "S.d. [1076]",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "36,37",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 44859,
+      "roll_id": 24,
+      "title": "215 et Oliba",
+      "location_name": "iba",
+      "latin_text": ", n.4 abb\u00e9 de Ripoll et de $. Michel mentionn\u00e9  Cux\u00e0 \u00e9v\u00eaque de Vic, de des comme mort en 1046,~ mnanuscrits tel par le pour Iequel latins Catalogue  circula un rouleau mortuaire (loc. g\u00e9n\u00e9ral (\u00e9d. supra, p. 109, d\u00e9chiffrement 72) . des ' cit) . sible traces d Cependant, m\u00eame , le aux '\u00e9critures Le fol 140 du m\u00eame ms , dune IL rayons est ultraviolets. impos- de 13cm sur une longueur est largeur  (rogn\u00e9e) de 16. ment faisait indiqu\u00e9 cin; sem- \u00e0 ble\u00eatreunautre partie tort fragment . dum\u00eamerouleau , Hugues  F\" du que rouleau ce mor- frag; tuaire inconnu de L. Delisle D 111). abb\u00e9 de$. (loc: cit.), Amand  mortuaire il est (\u00e9d. de infra, p 366,",
+      "pdf_page": 36,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 44860,
+      "roll_id": 24,
+      "title": "2 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9",
+      "location_name": "Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9",
+      "latin_text": "es. [verso] precibus qua poscimus iste fruatur; Eufemia, Albu-<. > Errenburgis, Beatrix, Mathildis, Emma, Enna, Benedicta, Lescelina. perhennis. 30, Nostris et vestris requies et vita cit., Probablement Adelbero   III de Luxem- Sur ce personnage; cf. H. Platelle; op. bourg ` \u00e9v\u00eaque  de Metz, de 1047 au 12 novembre P 123-126 et passim. \u00e9v\u00ea- 1072 \u00e0 son sujet, cf. Adalb\u00e9ron III de Metz % (2) \u00c9d. A. Dufour-Malbezin, Actes des dans D.H.GE., t. I, col. 438-439 (J. Dalstein) . \u00e0 1151, Paris, 2001, ques de Laon des origines (5) Personnage cit\u00e9 en 1056/1057 par le Cal; P. 101, n? 27. miraculorum sancti lia christiana (t. XIII, col. 807) . (8)  Cf. Historia (6) Apoc , III, 5. Amandi, \u00e9d. Acta sanctorum. Februarius; t. L, p. 904.",
+      "pdf_page": 36,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 44861,
+      "roll_id": 24,
+      "title": "494 comte Cf 25 janvier",
+      "location_name": "ier",
+      "latin_text": "; soit le 18 L. dEu Gallia Cf,  Delisle, 6 christiana, V L. XI, ayril L Gazeau, col 125 au XV\" Delisle, I op. cit., Abb\u00e9s b\u00e9n\u00e9dictins, et 248 = 288. 823 P 137 , Rouleaux _ p 209 et 287 - \u00c9d, M. n? XXIV. des morts tory of Chibnall , du IX P Orderic 170. The Vitalis, ecclesiastical Oxford, t his- IV, 1973 [1076]",
+      "pdf_page": 37,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": []
+}

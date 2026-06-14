@@ -1,0 +1,25 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: S.d. [XIS s] Rouleau mortuaire ( fragmentaire) de ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "functis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: functis"
+  }
+]

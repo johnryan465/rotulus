@@ -1,0 +1,35 @@
+[
+  {
+    "step": 0,
+    "type": "stop",
+    "name": "iba",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: iba"
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Saint-Riquier Abbey, France",
+    "coords": [
+      50.1347,
+      1.9472
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: ier"
+  }
+]

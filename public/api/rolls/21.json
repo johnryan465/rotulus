@@ -1,0 +1,45 @@
+{
+  "roll": {
+    "id": 21,
+    "roll_num": 77,
+    "date_str": "S.d.",
+    "title": "213 abbas; Terboldus abbas, Milo decanus; Lambertus sacerdos et monachus, Gierne- magnus sacerdos et monachus; Evradus sacerdos et monachus; Landricus sacerdos et monachus, Hildulfus; Gaudefridus  sacerdos et monachus, Galterus levita et monacus, Rotdincus subdiaconus et monachus, Rotdulfus; Harcherus.",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "30",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 44831,
+      "roll_id": 21,
+      "title": "10 Nam non est unquam mors",
+      "location_name": "ors",
+      "latin_text": "; sed mutatio quaedam, Quare Warnerius non est de morte dolendus. Solvimus hoc vestris; a nobis quod petiistis; Poscimus hoc vobis nostrisve idem faciatis Ratdulfo (1) , Harduino (2) , Hugoni (3) episcopis, Sergio, Berengerio decanis () 15 8",
+      "pdf_page": 30,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 44832,
+      "roll_id": 21,
+      "title": "T. monasterii Sancti Eligii Novio",
+      "location_name": "monasterii Sancti Eligii Novio",
+      "latin_text": "mensis. Grex Noviomensis quos norma fovet monachalis Solamen mestis tristi de funere fratris. Non ergo stultis loquitur dix (sic) nostra peritis. Stultum naturae quemquam de sorte dolere. Nos ergo vobis damus, huic solatia fortis Ut quod vite facit patienti mente feratis Quin etiam nostris vita feliciter usis. Fraternis animis reddantur prestita vestris: 20 9 S.d.- Arras; \u00e9glise.",
+      "pdf_page": 30,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 44833,
+      "roll_id": 21,
+      "title": "T. ecclesiae Atrebatensis",
+      "location_name": "ecclesiae Atrebatensis",
+      "latin_text": ". Flens Atrebatum Warneri flebile fatum Orat ut aeternum gaudens ignoret avernum. Tournai de 950 \u00e0 1044 cf. Gams, loc. cit. \u00c9v\u00eaque de Noyon et Le Gallia christiana (ibid , col 1031) ne janvier 952/953 ; c\u00ca: Gams; P. 589. mentionne que le deuxi\u00e8me de ces doyens de (2) Harduinus de Croy; \u00e9v\u00eaque de Noyon et Noyon et cela pour Tan 1000. Tournai de 1015 \u00e0 1030 ; cf. Gams, loc: cit. (3) \u00c9v\u00eaque de Noyon et Tournai de 1030 \u00e0",
+      "pdf_page": 30,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": []
+}

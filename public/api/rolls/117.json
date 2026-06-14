@@ -1,0 +1,85 @@
+{
+  "roll": {
+    "id": 117,
+    "roll_num": 125,
+    "date_str": "S.d.",
+    "title": "S.d. [1113-1127] Rouleau mortuaire ( fragmentaire ) &'un abb\u00e9 Guillaume. Le rouleau mortuaire de Tabb\u00e9 Guillaume est connu par plusieurs sources deux fragments 5 originaux; un po\u00e8me de Baudri de Bourgueil. I : fragments originaux 4. Original . Deux fragments opisthographess  dune longueur totale de 66 cm et dune largeur comprise entre 21 cm et 26,5 cm 1) Leiden; Bibliotheek der Rijksuniversiteit, BPL. 2505 (1) (. Parchemin (c. c. blanch\u00e2tre cp jaun\u00e2tre) . Longueur; 33 cm : largeur; 26/26,5 cm. FAc-SIMIL\u00c9S G. I. Lieftinck,  Manuscrits dat\u00e9s conserv\u00e9s dans les Pays- Bas Leiden; t. II, Planches 1988, pl. 957-960. InDIQu\u00c9 L.Kern; Rouleaux des mortss p. 142, n. 19. G. I. Lieftinck, op. cit., t. II, Texte; p. 254, 928. 15",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (4)",
+    "pdf_pages": "31,32,33,34",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 45672,
+      "roll_id": 117,
+      "title": "20 IvDIQv\u00c9 L Delisle",
+      "location_name": "sle",
+      "latin_text": "; Vital de Savigny; P. 32, nP 11. ~ JJ H. Savage, The manuscripts of Seninus 78omnenossie w virgil ' dans Harvard studies in dassacage philologya p 177-178. t. 45, 1934, L Fossier; Documents . fran\u00e7ais; p. 69. reformen Wilhelms von N Bulst, Untersuchungen zu den Kloster- Dijon Vizeliacensia. (962-1031 ) . Bonn; 1973, p. 54. R.B. \u20ac. Textes relatifs \u00e0 lhistoire de Huygens; Monumenta 25 n. 79. Tabbaye de V\u00e9zelay , Turnhout, 1976, P. XXXIII,",
+      "pdf_page": 31,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 45673,
+      "roll_id": 117,
+      "title": "25 et Vati- Leiden",
+      "location_name": "Leiden",
+      "latin_text": ", Reg lat . 1947, P. 216), il est probable 1495 ne portent aucun ex-libris qu'ils ont une m\u00eame origine. [1127]",
+      "pdf_page": 31,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 45674,
+      "roll_id": 117,
+      "title": "20 Quant \u00e0 la date",
+      "location_name": "ate",
+      "latin_text": "; G. I. Lieftinck (op. cit., t. II, Texte; P. 254) remarque que le titre de la Trinit\u00e9 de Caen < mentionne comme d\u00e9funtes la reine Mathilde (t 1083) et ses filles Adilidis (+ ?) et Mathilde (premi\u00e8re abbesse de la Trinit\u00e9, + 1113), mais pas encore C\u00e9cile (deuxi\u00e8me abbesse; + 1127) ^ On peut ainsi conjecturer que c'est \u00e0 [occasion du passage du rotulus de cet abb\u00e9 Guillaume que 25 Baudri de Bourgueil composa la pi\u00e8ce de vers \u00e9dit\u00e9e ci-apr\u00e8s. Aucune \u00e9l\u00e9megtenecperpet didentifer \u00e0 coup s\u00fbr Tabb\u00e9 Cuillaume:.Cependanto Tidentifeationr de ce religieux avec Guillaume I\"\" de Dol abb\u00e9 de S. Florent-l\u00e8s-Saumur propos\u00e9e par F. Duine Baudri de Bourguei] (de 1070 \u00e0 mai 1118) ne me semble pas impossible; en admettant que J-Y. Tilliette (( ignorant Texis- tard la fin du XII & ()_ A noter que que composa des tituli plus 30 tence des fragments publi\u00e9s ici, refuse lhypoth\u00e8se de F. Duine. fort diff\u00e9rentes; Le rouleau mortuaire; tel qu'il est actuellement connu; circula dans des r\u00e9gions TAuvergne; la Bourgogne; le Limousin, la Normandie, [Anjou. 227, n\" 81 ; P 229, n\" 82 ; \u00c9d. supra, P 236, n 88. 231,n9 83 ; p. 234,n\" 85 ;P P Op. cit., L. I, p. 187. (1) Catalogue des sources hagiographiques de Chistoire de Bretagne, Paris, 1922,P. 10-11 A son sujet, cf. Gallia christiana; t. XIV, col. 629-631, ainsi que supra; P. 564 et n. 3.",
+      "pdf_page": 31,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 45675,
+      "roll_id": 117,
+      "title": "T. SANCTI STEPHAVI DIVIONENSIS ",
+      "location_name": "SANCTI STEPHAVI DIVIONENSIS",
+      "latin_text": ". Ecce tibi scriptum post scriptum victum Cumque satur fueris, quod clamas jure frueris, Securus pota reddentur premia tota.",
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 45676,
+      "roll_id": 117,
+      "title": "10 Ne parcas esce",
+      "location_name": "sce",
+      "latin_text": ", nummos tibi IIIIP ecce. Non est noster mos pro victu demere nummos. [VJotum Guilelmo dedimus sua premia servo. Solvite vos nostris; repetit   quod cartula vestris [II, C. P] Bernardo nostro Warnerio   preposito;   Waudierio; 15 Arardo; Goncelino, Bertranno; Fulconi. 12",
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 45677,
+      "roll_id": 117,
+      "title": "T. SAYCTI VIVENTII VERZLACENSIS M",
+      "location_name": "SAYCTI VIVENTII VERZLACENSIS M",
+      "latin_text": "ONASTERIL. Deus;  cujus bonitas hominem   fecit, misericordia redemit, veritas  judicabit, miserere anime famuli tui Willelmi, miserere eciam animabus famulorum famula- 21 rumque tuarum; fratrum; parentum; propinquorum; benefactorum familiarium- que nostrorum et omnibus christianis qui, zelo tuo ducti, contra paganos finitimos et transmarinos sub signis tuis () dimicant, > tue virtute vivis opitulare, pietatis tue munere mortuis moriturisve miserere; ut eorum atque 0 fd. anime Ingelbaldo (2) abbate; Rotberto (3) abbate, requiescant in pace. Amen; Orate P. n. Norberto; Gisleberto; Hunberto; Hugone; Hilduino; Acardo; Ingelberto; Remigio; Arnulfo; quibus et vestris, tam priscis quam modernis. Attone; Widrico; Heyrico; Luceat alma dies et benedicta qu[ies]: est rogn\u00e9e. ()   tuis ajout\u00e9 en interligne. La fin de la_ premi\u00e8re ligne du second fragment . IV; col. 442 N. Bulst; op. cit., P. 54-55) on Reinardus de Bar-sur-Seine; \u00e9v\u00ea- L. Hugo (cf: Gams, la date de sa mort. que de Langres de 1065 \u00e0 avril 1085 ignoreRotbeteuse n' 'appara\u00eet pas dans la liste des son nom permet de localiser ce titre: P 558) abb\u00e9s de Vergy ' donn\u00e9e par le Gallia christiana de   Guillaume   de Ingelbaldus; _ disciple christiana, (loc. cit) Volpiano; abb\u00e9 de Vergy (cf. Gallia",
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 45678,
+      "roll_id": 117,
+      "title": "15 Ergo decet cunctos hac condicione quietos",
+      "location_name": "tos",
+      "latin_text": "; Ut rogitent Christum; tribuat sic sperare mundum; Ut Domini summum valeant conscendere regnum; Quo Dominum celi conlaudent tempore seculi. Quod petitis vestris; cunctis impendite nostris 20 BERNARDO, ROTGE[R\u0131]o; GERALDO, UGONI; AMELIO ATQUE RADULFO (1) Cum sanctis celo degat, Wilelmus in evo Impetret hoc precibus claviger ethereus. IN TE CONFISUM CONFER DEUS IN PARADISUM. I : po\u00e8me de Baudri de Bourgueil 25 Texte \u00e9tabli dapr\u00e8s B. In rotula de Guillelmo abbate Guillelmus; quoniam verum properavit ad essea (Ad non esse licet sit visus primitus isse) Les deux titres de S. Pierre d\u00c9vaux,  de Langres et de S. \u00c9tienne de Dijon. d\u00e9plac\u00e9ss sont appos\u00e9s \u00e0 droite des titres de la cath\u00e9drale Aucun de ces personnages n Yest tionn\u00e9 par P:. de Cessac; men- Liste des monast\u00e8re d\u00c9vaux (Creuseste Ordrpr\u00e9v\u00f4tsa du de saint Augustin % dans M\u00e9moires de la Soci\u00e9t\u00e9 des sciences   naturelles et arch\u00e9ologiques de la Creuse, t. VI, 1888, p. 101-120.",
+      "pdf_page": 34,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": []
+}

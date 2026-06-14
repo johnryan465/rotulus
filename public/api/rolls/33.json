@@ -1,0 +1,50 @@
+{
+  "roll": {
+    "id": 33,
+    "roll_num": 90,
+    "date_str": "S.d.",
+    "title": "S.d. [vers 1100]",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "44",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 44871,
+      "roll_id": 33,
+      "title": "2 Panis BXE",
+      "location_name": "BXE",
+      "latin_text": ", lat. 1691 QL Delisle 5 fol. II (XIIS Rouleaux , s.) . des IxDiqu\u00c9 : 5 morts 1 Yen du IX* au XVe_ Moolenbroek, 5.9 P. 151, n? XXIX, Vital  de dapr\u00e8s B. Jac ; Savigny,  V,16, P. 331, n. 49. Ls divers concordants. \u00e9l\u00e9ments , Sur chronologiques Cabinet Ce des Ins  sont manuscrits, c p. 410 ; B. N Paris; Catalogue L. II, 1874, notamment t.II, Paris, des L Delisle, 1940, P. 127. manuscrits latins,",
+      "pdf_page": 44,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 33959,
+      "roll_id": 33,
+      "pdf_page": 44,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "VCUlUrAI 12"
+    },
+    {
+      "id": 33960,
+      "roll_id": 33,
+      "pdf_page": 44,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "deux noms sont \u00e9crits en marge B. ajout\u00e9 en interligne B."
+    },
+    {
+      "id": 33961,
+      "roll_id": 33,
+      "pdf_page": 44,
+      "pdf_half": "right",
+      "footnote_num": "9",
+      "text": "(b) Ces deux noms sont \u00e9crits en marge B. mora"
+    }
+  ]
+}

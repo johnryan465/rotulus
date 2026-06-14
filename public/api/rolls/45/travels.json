@@ -1,0 +1,22 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "XI-XIIF",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Origin: S.d. [XI-XIIF &]..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Dame",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Dame"
+  }
+]

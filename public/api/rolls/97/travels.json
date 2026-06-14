@@ -1,0 +1,45 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: S.d. [1123, apr\u00e8s le 4 novembre] Marbode, \u00e9v\u00eaque d..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "t n",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: t n"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "I p",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: I p"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "t n",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: t n"
+  }
+]

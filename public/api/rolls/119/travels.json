@@ -1,0 +1,94 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Winchester, England",
+    "coords": [
+      51.0632,
+      -1.308
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: S.d. [1129, apr\u00e8s le 23 janvier] Rouleau   mortuai..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Whitby",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Whitby"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: unt"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "unc",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: unc"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Reading",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Reading"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Belgium (General)",
+    "coords": [
+      50.5039,
+      4.4699
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: ium"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: iti"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "ivo",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: ivo"
+  }
+]
