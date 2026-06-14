@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, useCallback } from 'react';
+import { useState, useEffect, useRef, useCallback } from 'react';
 
 const RangeSlider = ({ min, max, value, onChange }) => {
   const [lower, upper] = value;

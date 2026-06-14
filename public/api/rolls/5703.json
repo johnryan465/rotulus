@@ -1,0 +1,42 @@
+{
+  "roll": {
+    "id": 5703,
+    "roll_num": "17",
+    "date_str": "S.d.",
+    "title": "ac luce migravit, ut credimus; ad Christum. Qua ex re obnixe obsecramus almita - tem vestram, ut pro ipsius anima sic jubemini seu bonitas agere de psalmis ac missis adque vigiliis ingens vestra consuevit. Obtamus vos semper bene valere. 16 S.d.[789-792 (\"] Quatri\u00e8me formule de bref morluaire \u00e0 Vusage  de Murbach . A. Original perdu. B. Sankt Gallen; Stiftsbibl , 550, P. 151, sous le titre Indiculum ad cpiscopum $ (IX' &). a. E. de Rozi\u00e8re; Formules in\u00e9dites, publi\u00e9es dapr\u00e8s un ms. de S. Gall, Paris, 1853, P. 22, n\" 28. b.E. de Rozi\u00e8re, Formules, 2 partie, P. 950,n* 677.~ c. L. Delisle, Roulcauz des morts du IX' au 10 XVr s  P. 1, n\" [ (l). ~ e K. Zeumer; Formulae merowingici et karolini aevi ( M. G. H , Leges) , p. 332, Formulae Morbacenses; n\" 12.-f H. Leclercq, Rouleaux des morts, col. 48.",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "9,10,11",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 36594,
+      "roll_id": 5703,
+      "title": "[Original Document / Letter]",
+      "location_name": "",
+      "latin_text": "Quatri\u00e8me formule de bref morluaire \u00e0 Vusage  de Murbach . A. Original perdu. B. Sankt Gallen; Stiftsbibl , 550, P. 151, sous le titre Indiculum ad cpiscopum $ (IX' &). a. E. de Rozi\u00e8re; Formules in\u00e9dites, publi\u00e9es dapr\u00e8s un ms. de S. Gall, Paris, 1853, P. 22, n\" 28. b.E. de Rozi\u00e8re, Formules, 2 partie, P. 950,n* 677.~ c. L. Delisle, Roulcauz des morts du IX' au 10 XVr s  P. 1, n\" [ (l). ~ e K. Zeumer; Formulae merowingici et karolini aevi ( M. G. H , Leges) , p. 332, Formulae Morbacenses; n\" 12.-f H. Leclercq, Rouleaux des morts, col. 48. Domino reverentissimo illo episcopo; Sinbertus; gracia Dei vocatus episcopus atque abba de monasterio Morbac, unacum fratribus, eternam in Christo Jhesu Domino nostro salutem. De cetero compereat beatitudo vestra eo quod frater   15 vester; nomine ille, kalendas illas, de ac luce migravit, ut credimus; ad Christum. Qua de causa subplices exoramus   sanctitatem  vestram; ut pro ejus anima de psalmis seu missis vigiliisque taliter agatis ut optima continet consuetudo vestra; et ul as apices in antea remeare faciatis postulamus. Institution de * litterae mortuaires lors du concile de Salzburg A. Original perdu. 6. M. G. H , Leges; in-fol, Hannover; L. L, 1835, P.81 (ann. 799);~b,P;L, L XCVII; col: 209 (ann: 7 1o6o aE (Afonoc locie Raimariorm O5",
+      "pdf_page": 9,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 29880,
+      "roll_id": 5703,
+      "pdf_page": 9,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "799). = c. Pertz; M. G.H. Leges; Hannovel \u20ac 429"
+    },
+    {
+      "id": 29881,
+      "roll_id": 5703,
+      "pdf_page": 9,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "cette datc, cf. supra; P. 16,n.1."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "roll": {
+    "id": 5784,
+    "roll_num": "126",
+    "date_str": "S.d.",
+    "title": "126 [109] Sd-S1 [Arras; S. Vaast] Alius Lumen titulus ejusdem. et ordo vie ducentis = Occidit, ad alta sophie hinc cedens nature Par pecudis Bruno recedens brute. Tibi, 25 Viluit  Bruno hic fore magister mundus = acute; Flos= fuit sterilique ' in feno; decore. Dum viguit sub sole tua cantaret; studio sereno, Dummodo dum lactaret musa vacaret; Hinc Remos, tamen, modo pane abjectis opibus = cibaret. 30 Clausus in obscuro studiisque frueris = rejectis; Nilque = sequens libamine  Bruno duro; Sic Pater; ' 0 varium; Bruno; ' fundatus capis in unum uno, captus ab uno.",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "88",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 36938,
+      "roll_id": 5784,
+      "title": "[Original Document / Letter]",
+      "location_name": "",
+      "latin_text": "CE [ devoret Petr , V8: adversarius ` vester diabolus tanquam leo rugiens circuit, quaerens quem",
+      "pdf_page": 88,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": []
+}

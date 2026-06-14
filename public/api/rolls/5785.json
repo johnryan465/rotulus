@@ -1,0 +1,25 @@
+{
+  "roll": {
+    "id": 5785,
+    "roll_num": "127",
+    "date_str": "S.d.",
+    "title": "127 [110] S.d. Moreuil (?), N-D. () T. Sancte Marie Morlivensis ecclesie. Floruit in mundo vir prudens ore profundo. Utilis est forma, sors ejus et ultima norma. Scivit enim vere; mundum non posse manere. Calcavit flores ejus, contempsit honores. Nunc requies sibi sit, quoniam Sacra Pagina dixit Non est damnosa mors justi, sed preciosa (2) Bruno Hierusalem conscendit spiritualem.",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "88,18",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 37247,
+      "roll_id": 5785,
+      "title": "T. Sancti Johannis Carnotensis cenobii. Anima ejus et a. 0 f. d. r i. P Amen. 20 Orate et vos pro fr",
+      "location_name": "[Chartres",
+      "latin_text": "T. Sancti Johannis Carnotensis cenobii. Anima ejus et a. 0 f. d. r i. P Amen. 20 Orate et vos pro fratribus nostris, Herveo, Drogone; Alberto alio Alberto et ceteris perfruantur eterna . Albinus unum psalterium quidam omnibus; ut et ipsi vita Garnerius L psalmos Hernulfus XV Rualendus VII. sacerdos III missas 128 [104] S.d. [Chartres,] S. Martin-au-Val. 25 T. Sancti Martini de Valle. Cujus erat servus; succurre; Maria, Vitali. Ut scio; fecisti dubitem de funere tali Mortuus est, vivat. Bene vixit pace quiescat. Amen. mors superavit ad horam. Non timuit morten, quem mors timet et sibi cessit. 30 Non moriturus obit, quem filio ejus \u00e9crit en interligne. \u00e0 (1095-1152 ) , Paris, 1912, P. Il,n. 3. (1) Morigny de 1099/1100 Abb\u00e9 de gn2) Apoc , III, 5. cf. L. Mirot, Chronique de Mori- 1109/1110",
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": []
+}

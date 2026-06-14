@@ -1,0 +1,31 @@
+{
+  "roll": {
+    "id": 5803,
+    "roll_num": "149",
+    "date_str": "S.d.",
+    "title": "149 [153] S.d - [Pontlevoy; N-D. (1]: [T. Sancte Marie Pontileviensis () ecclesie] . Exiit e mundo vir; mundi spretor; ad illum Qui mundum fecit, quem sine fine videt ; Et licet hic, tanquam tenebrosus; Bruno vocetur; Est tamen et fama lucidus et meritis  Luce Dei fruitur; quia lucem respuit 10 istam, Et pro deserto celica regna colit. Vos igitur; fratres, pro leto ne doleatis; Esse suos letos letus et ipse cupit. Si quid ei minus est, Deus illi Et nostros vestris compleat illud ;jungat ei precibus. 15 150 [117] S.d. 1 Bayeux, Sancte cath\u00e9drale (N-D:). Strenuus et fortis, Marie Bajocensis ecclesie, Providus et conservator mortis; monachorun; Sanctorumque fundator cenobiorum 20 Solamen patrum pius et clemens fratrum, imitator; Morum sancte virtutis corrector () amator; Justicic 'justus; pia spes rector; custos et miserorum, Moribus   ubique ornatus, bonorum; Fortiter armatus Yas et plenum pietatis, 25 Humane clypeo Bruno vere probitatis; Cetibus  subiit jus conditionis;, Non tibs rngelice 'conjungendus raptores habitant, legionis. Nec pravi mores nec turba rebellis Quo nobis aditum nbi sunt scd quisque \u20ac 30 tribuat fidelis. Mortis post Rex obitum perpetualis  protcctio spiritualis",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "93",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 30240,
+      "roll_id": 5803,
+      "pdf_page": 93,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": ", corrigez Pontilcvicnsie, contrcclor 0 orrige: D'apr\u00e8s corclor 0, topographique. Teelisc 5 Marie Ponuileriensis erril euicu dc oc Guo depounu"
+    },
+    {
+      "id": 30241,
+      "roll_id": 5803,
+      "pdf_page": 93,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "dindication"
+    }
+  ]
+}

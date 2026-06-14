@@ -1,0 +1,66 @@
+{
+  "roll": {
+    "id": 5727,
+    "roll_num": "51",
+    "date_str": "S.d.",
+    "title": "",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "31,32",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 36609,
+      "roll_id": 5727,
+      "title": "[Original Document / Letter]",
+      "location_name": "",
+      "latin_text": "[994] Advenit . quidam gerulus ex pretiosae Aetheldrydae 59 fratris repentina morte nuntiaret. reginae cujusdam _ Praecepit ` monasterio,  fratres; quos precatus est humili prece, ut mox advenire ' qui eide loci eo facerent quod sollicite ct fecerunt. ter denis Ramesiensis vigilias pro diebus missas et Formule de titre; mentionnant Mayeul, abb\u00e9 de Cluny   (t 1l mai 994 ) . 1. Original perdu. B.Metz, B. M., ms. 377, fin du ms. (d\u00e9truit en septembre 1944). 0. E. Sackur; Majolus; P. 180-181, dapr\u00e8s B. b.H. Tribout de  de S. Avold (VIIIS -IX\" s.) dans Saint-E Morembert, \" Manuserits . Chrodegang de Pabbaye Communications pr\u00e9sent\u00e9es au 10 tenu \u00e0 Metz \u00e0 loccasion du douzi\u00e8me centenaire de sa mort, Metz, colloque 1967, p 196, dapr\u00e8s / B. TRADUCTION H. Tribout de Morembert; op. cil., p: 197. Pour E. Sackur (op: cit:), cet \u00e9crit aurait \u00e9t\u00e9 adress\u00e9 par un abb\u00e9 dun monast\u00e8re du dioc\u00e8se de Metz; peut-\u00eatre celui de S. Avold (>, \u00e0 un abb\u00e9 ind\u00e9termin\u00e9 (identifi\u00e9 avec Odilon, abb\u00e9 de ' H. Tribout de Morembert, loc. cit.), apr\u00e8s Clunys [ r\u00e9ception du breve , par   15 annon\u00e7ant le d\u00e9c\u00e8s de Mayeul (survenu le 11 mai 994). Amput\u00e9 de la liste des d\u00e9funts annonc\u00e9e in fine, il aurait \u00e9t\u00e9 _ servir de mod\u00e8le. recopi\u00e9 par la suite pour Domino illustrissimo summae venerationis abbati super gregem Christi labores %2 strenuissimos  desudanti   cunctisque curae illius mandatis illustrissimus abbas, servus servorum Christi, cum sibi creditis omnibus, quicquid usquam beatius  Cum totius sanctissimae ordines christianitatis hoc solae karitatis vinculo; scilicet teste Anoc+l",
+      "pdf_page": 31,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 29932,
+      "roll_id": 5727,
+      "pdf_page": 31,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Pooluru"
+    },
+    {
+      "id": 29933,
+      "roll_id": 5727,
+      "pdf_page": 31,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "neclanlur"
+    },
+    {
+      "id": 29934,
+      "roll_id": 5727,
+      "pdf_page": 31,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "de H. Tribout de Morembert (op: cil., P: 192-193), selon laquelle le ms. Metz, B M; 377 aurait pour origine non S. Avold, mais Fulda; me semble sans fondement."
+    },
+    {
+      "id": 29935,
+      "roll_id": 5727,
+      "pdf_page": 31,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "compagine; Ul, IicCt Iocorui Yastioshinla"
+    },
+    {
+      "id": 29936,
+      "roll_id": 5727,
+      "pdf_page": 31,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "CC. Col , IIL, 14 Super , omnia autem haec,  charitatem   habete; quod Cl vinculm pcrfectionis"
+    }
+  ]
+}

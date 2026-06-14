@@ -1,0 +1,752 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Saint-Maurice Abbey, Switzerland",
+    "coords": [
+      46.2163,
+      7.0033
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: 281 v\u00e9ritablement digne dint\u00e9r\u00eat, car elle semble ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "fratrum Case Dei subtus Curnil",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: fratrum Case Dei subtus Curnil"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Metten Abbey, Germany",
+    "coords": [
+      48.8576,
+      12.9133
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: et"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Rastatt, Germany",
+    "coords": [
+      48.8573,
+      8.203
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: ras"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Mainz, Germany",
+    "coords": [
+      49.9929,
+      8.2473
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: nce"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "fratrum Fisciclensis cenobii",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: fratrum Fisciclensis cenobii"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Sancti Frigiani Lucensis eccle",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancti Frigiani Lucensis eccle"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "ecclesie Placentine",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: ecclesie Placentine"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "monasterii Sancti Sepulchri",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: monasterii Sancti Sepulchri"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "ecclesie Sancti Martini de Pet",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: ecclesie Sancti Martini de Pet"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "ecclesie Gratianopolitane",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: ecclesie Gratianopolitane"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "eremi Cartusie",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: eremi Cartusie"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "fratrum Case Dei subtus Curnil",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: fratrum Case Dei subtus Curnil"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "Blois",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Blois"
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "Lyon",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Lyon"
+  },
+  {
+    "step": 15,
+    "type": "stop",
+    "name": "sancti Romani de ecclesia Lugd",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: sancti Romani de ecclesia Lugd"
+  },
+  {
+    "step": 16,
+    "type": "stop",
+    "name": "Chalon-sur-Sa\u00f4ne, France",
+    "coords": [
+      46.7833,
+      4.85
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: = Chalon-sur-Sa\u00f4ne"
+  },
+  {
+    "step": 17,
+    "type": "stop",
+    "name": "Sancte Marie Belnensis (a) ecc",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancte Marie Belnensis (a) ecc"
+  },
+  {
+    "step": 18,
+    "type": "stop",
+    "name": "Conty",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Conty"
+  },
+  {
+    "step": 19,
+    "type": "stop",
+    "name": "Chartres, France",
+    "coords": [
+      48.4472,
+      1.4877
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: Chartres"
+  },
+  {
+    "step": 20,
+    "type": "stop",
+    "name": "Sancti Dionysii areopagite",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancti Dionysii areopagite"
+  },
+  {
+    "step": 21,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: Paris"
+  },
+  {
+    "step": 22,
+    "type": "stop",
+    "name": "Ch\u00e9zy [-sur-Marne]",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Ch\u00e9zy [-sur-Marne]"
+  },
+  {
+    "step": 23,
+    "type": "stop",
+    "name": "Chartres, France",
+    "coords": [
+      48.4472,
+      1.4877
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: Chartres"
+  },
+  {
+    "step": 24,
+    "type": "stop",
+    "name": "Sancte Marie Novi Monasterii",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancte Marie Novi Monasterii"
+  },
+  {
+    "step": 25,
+    "type": "stop",
+    "name": "Dijon",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Dijon"
+  },
+  {
+    "step": 26,
+    "type": "stop",
+    "name": "[Dijon",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: [Dijon"
+  },
+  {
+    "step": 27,
+    "type": "stop",
+    "name": "B\u00e8ze",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: B\u00e8ze"
+  },
+  {
+    "step": 28,
+    "type": "stop",
+    "name": "sis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: sis"
+  },
+  {
+    "step": 29,
+    "type": "stop",
+    "name": "Burgundy, France",
+    "coords": [
+      47.2805,
+      4.4126
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Robert [Ie\" de Bourgogne]"
+  },
+  {
+    "step": 30,
+    "type": "stop",
+    "name": "Molesme",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Molesme"
+  },
+  {
+    "step": 31,
+    "type": "stop",
+    "name": "Tonnerre",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Tonnerre"
+  },
+  {
+    "step": 32,
+    "type": "stop",
+    "name": "sancti Michaelis archangeli To",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: sancti Michaelis archangeli To"
+  },
+  {
+    "step": 33,
+    "type": "stop",
+    "name": "Auxerre, France",
+    "coords": [
+      47.798,
+      3.573
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: = Auxerre"
+  },
+  {
+    "step": 34,
+    "type": "stop",
+    "name": "Sancte Marie et Sancti Johanni",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancte Marie et Sancti Johanni"
+  },
+  {
+    "step": 35,
+    "type": "stop",
+    "name": "rti",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: rti"
+  },
+  {
+    "step": 36,
+    "type": "stop",
+    "name": "Monti\u00e9ramey",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Monti\u00e9ramey"
+  },
+  {
+    "step": 37,
+    "type": "stop",
+    "name": "Troyes, France",
+    "coords": [
+      48.297,
+      4.074
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: Troyes"
+  },
+  {
+    "step": 38,
+    "type": "stop",
+    "name": "Ch\u00e2lons-en-\" Champagne",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Ch\u00e2lons-en-\" Champagne"
+  },
+  {
+    "step": 39,
+    "type": "stop",
+    "name": "Sancti Petri cenobii de Monte",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancti Petri cenobii de Monte"
+  },
+  {
+    "step": 40,
+    "type": "stop",
+    "name": "- S",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: - S"
+  },
+  {
+    "step": 41,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: Reims"
+  },
+  {
+    "step": 42,
+    "type": "stop",
+    "name": "alius ejusdem",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: alius ejusdem"
+  },
+  {
+    "step": 43,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: Angers"
+  },
+  {
+    "step": 44,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: Reims"
+  },
+  {
+    "step": 45,
+    "type": "stop",
+    "name": "Laon, France",
+    "coords": [
+      49.5642,
+      3.6199
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: ~ Laon"
+  },
+  {
+    "step": 46,
+    "type": "stop",
+    "name": "dem",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: dem"
+  },
+  {
+    "step": 47,
+    "type": "stop",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: Nogent [-sous-("
+  },
+  {
+    "step": 48,
+    "type": "stop",
+    "name": "Soissons, France",
+    "coords": [
+      49.3813,
+      3.3262
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: Soissons"
+  },
+  {
+    "step": 49,
+    "type": "stop",
+    "name": "Sanctorum Medardi et Sebastian",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sanctorum Medardi et Sebastian"
+  },
+  {
+    "step": 50,
+    "type": "stop",
+    "name": "Blois",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Blois"
+  },
+  {
+    "step": 51,
+    "type": "stop",
+    "name": "Bernay",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Bernay"
+  },
+  {
+    "step": 52,
+    "type": "stop",
+    "name": "Sancte Crucis Aurelianensis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancte Crucis Aurelianensis"
+  },
+  {
+    "step": 53,
+    "type": "stop",
+    "name": "Pierre",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Pierre"
+  },
+  {
+    "step": 54,
+    "type": "stop",
+    "name": "sis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: sis"
+  },
+  {
+    "step": 55,
+    "type": "stop",
+    "name": "Beauvais",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Beauvais"
+  },
+  {
+    "step": 56,
+    "type": "stop",
+    "name": "Corbie Abbey, France",
+    "coords": [
+      49.9085,
+      2.5089
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: Corbie"
+  },
+  {
+    "step": 57,
+    "type": "stop",
+    "name": "Lihons",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Lihons"
+  },
+  {
+    "step": 58,
+    "type": "stop",
+    "name": "P\u00e9ronne",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: P\u00e9ronne"
+  },
+  {
+    "step": 59,
+    "type": "stop",
+    "name": "Orgny[-S",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Orgny[-S"
+  },
+  {
+    "step": 60,
+    "type": "stop",
+    "name": "Aimery",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Aimery"
+  },
+  {
+    "step": 61,
+    "type": "stop",
+    "name": "Marchiennes",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Marchiennes"
+  },
+  {
+    "step": 62,
+    "type": "stop",
+    "name": "Sancti Amandi Elnonensis eccle",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancti Amandi Elnonensis eccle"
+  },
+  {
+    "step": 63,
+    "type": "stop",
+    "name": "Lille",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Lille"
+  },
+  {
+    "step": 64,
+    "type": "stop",
+    "name": "Messina, Italy",
+    "coords": [
+      38.1939,
+      15.5552
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: ~ Messines"
+  },
+  {
+    "step": 65,
+    "type": "stop",
+    "name": "Voormezele",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Voormezele"
+  },
+  {
+    "step": 66,
+    "type": "stop",
+    "name": "Brugge",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Brugge"
+  },
+  {
+    "step": 67,
+    "type": "stop",
+    "name": "Mileto [V\u00e8cchia]",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Mileto [V\u00e8cchia]"
+  },
+  {
+    "step": 68,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Titulus Header: Poitiers"
+  }
+]

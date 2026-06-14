@@ -1,0 +1,42 @@
+{
+  "roll": {
+    "id": 5721,
+    "roll_num": "40",
+    "date_str": "S.d.",
+    "title": "",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "24,25,26",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 36604,
+      "roll_id": 5721,
+      "title": "[Original Document / Letter]",
+      "location_name": "",
+      "latin_text": "Suo libro Persius Scire tuum nihil est, nisi te Scire hoc sciat alter ? (1) Re necesse fieri Quod non estimamus ista . Premi\u00e8re variante de la formule de bref mortuaire ins\u00e9r\u00e9e dans la \u20ac Regularis concor- dia de Dunstan. B. London; British Library; Cotton Faustina B 3, fol. 198v (fin X' &) 10 a. Th. Symons, Regularis concordia Anglicae nationis monachorum sanctimonialiumque; London; 1953, p 66, n. f, japr\u00e8s B. INDIQU\u00c9 Th. Symons; op. cit., P. LIIL La date indiqu\u00e9e est celle de la r\u00e9daction de la \u00f8 Regularis concordia ^ Gratia Dei archiepiscopus ill. humilisque Christi Ecclesiae monachorum coetus  15 cunctis in Christo salutem fidelibus. Quoniam quidem karissimi caritatis vinculo jubemur   uniri dilectioneque Dei fervere et proximi et, quia Apostolo   scimus obediendum ita monenti Orate pro invicem; ut salvemini ) (2) , vestrae fraternitati notum cupimus fieri unum e nostris fratribus ill., sacerdotem (vel levitam) et monachum; ill. (vel XIkal. febr) ergastulo carnis exemptum; vitam finisse tempo-  2 ralem pro quo petimus ut strenui ipsa compellente _ caritate interventores existatis Omnipotens; precibus complacatus vestris; animam ejus gaudiis inserat sine quo Deum postulat quo spiritus ejus requiescat in fine mansuris.  Vivat valeatque qui pace.",
+      "pdf_page": 24,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 29916,
+      "roll_id": 5721,
+      "pdf_page": 24,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Perse; Satires,  I, 27, \u00e9d. A. Cartault, Paris; 1920, P. 17."
+    },
+    {
+      "id": 29917,
+      "roll_id": 5721,
+      "pdf_page": 24,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": ", V, 16."
+    }
+  ]
+}

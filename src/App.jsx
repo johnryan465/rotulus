@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { 
   Download, BookOpen, ChevronRight
 } from 'lucide-react';
@@ -252,10 +252,8 @@ export default function App() {
             interactive: true
           }).addTo(mapLayersRef.current);
 
-          marker.on('click', (e) => {
-            window.L.DomEvent.stopPropagation(e);
-            window.gotoRoll(rId);
-          });
+          // Show name on hover
+          marker.bindTooltip(loc.name, { direction: 'top', offset: [0, -5] });
 
           marker.bindPopup(`
             <div style="font-family: 'Calibri', 'Candara', 'Segoe UI', 'Optima', 'Arial', sans-serif; padding: 4px; min-width: 150px;">
@@ -284,10 +282,8 @@ export default function App() {
             interactive: true
           }).addTo(mapLayersRef.current);
 
-          marker.on('click', (e) => {
-            window.L.DomEvent.stopPropagation(e);
-            window.gotoRoll(mapRollId);
-          });
+          // Show name on hover
+          marker.bindTooltip(loc.name, { direction: 'top', offset: [0, -5] });
 
           marker.bindPopup(`
             <div style="font-family: 'Calibri', 'Candara', 'Segoe UI', 'Optima', 'Arial', sans-serif; padding: 4px; min-width: 150px;">
@@ -381,10 +377,20 @@ export default function App() {
             {rollDetail ? (
               <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>
                 <div><div className="roll-num">ROLL N° {rollDetail.roll.roll_num}</div><h1>{rollDetail.roll.date_str}</h1></div>
-                <div className="glass-panel" style={{ padding: '32px' }}>
-                  <h3>Scholarly Description</h3><p>{rollDetail.roll.title}</p>
-                  <div style={{ marginTop: '24px', background: 'rgba(0,0,0,0.03)', padding: '16px' }}>Manuscripts: {rollDetail.roll.manuscripts}</div>
+                
+                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '24px' }}>
+                  <div className="glass-panel" style={{ padding: '32px' }}>
+                    <h3 style={{ borderBottom: '1px solid var(--primary)', paddingBottom: '8px', marginBottom: '16px' }}>Scholarly Description</h3>
+                    <p>{rollDetail.roll.title}</p>
+                  </div>
+                  <div className="glass-panel" style={{ padding: '32px' }}>
+                    <h3 style={{ borderBottom: '1px solid var(--primary)', paddingBottom: '8px', marginBottom: '16px' }}>Current Storage</h3>
+                    <p style={{ fontStyle: 'italic', color: 'var(--text-muted)' }}>
+                      {rollDetail.roll.manuscripts || "Original manuscript location not specified in catalogue."}
+                    </p>
+                  </div>
                 </div>
+
                 {rollDetail.tituli.map(t => (
                   <div key={t.id} className="glass-panel" style={{ padding: '32px' }}>
                     <h3 className="gold-leaf">{t.location_name || t.title}</h3>
@@ -490,6 +496,9 @@ export default function App() {
                           <div>
                             <div className="roll-num" style={{ fontSize: '14px' }}>N° {r.roll_num}</div>
                             <div style={{ fontWeight: 'bold', fontSize: '13px' }}>{r.date_str} — {r.num_stops} Stops</div>
+                            <div style={{ fontSize: '11px', color: 'var(--text-muted)', marginTop: '4px', maxWidth: '400px', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+                              Storage: {r.manuscripts || "Not specified"}
+                            </div>
                           </div>
                           <ChevronRight size={16} color="var(--accent)" />
                         </div>

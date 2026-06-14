@@ -1,0 +1,52 @@
+{
+  "roll": {
+    "id": 5699,
+    "roll_num": "13",
+    "date_str": "S.d.",
+    "title": "Domino dignissime venerando Lullae episcopo vereor; episcopus Wentanae civitatis Cineheardus indignus, salutem _ ut vestrorum Nomina quoque presbyterorum diaconorumque ac monachorum vel misistis; per monasteria et monacharum sive ceterorum, que per ecclesias nostrae diocesis direximus ad celebrane dum pro eis missarum sollemnia et orationum suffragia. Id ipsum facere vestram sanctitatem suppliciter exoramus 5 pro eis, quorum nomina vobis habemus diri- genda et nominatim cum personis suis 'scribenda, atque huic ecclesiae; cui servio; amicissimi eorum scilicet qui mihi proprie vel subditi fiebant vel prelati . 10 S.d. [774-vers 786] 10 Premi\u00e8re formule de bref mortuaire \u00e0 lusage de Murbach . A. Original perdu. B.Sankt Gallen, Stiftsbibl., 550, P. 149 (IX' &.). a,E. dc Rozi\u00e8re, Formules in\u00e9dites, publiees &apr\u00e8s un ms.de S.Gall, Paris, 1853, p. 22, n\" 30,~b. E. de Rozi\u00e8re, Formules, 2 partie, P. 952, 2\" 680. c. K. Zeumer; Formulae merowingici et 15 karolini aevi ( M. G. H, Leges), P. 331, Formulae Morbacenses, n? 7. IvDIQU\u00c9 M. Rothenh\u00e4user; K. Beyerle, Die Regel des hL. Benedikt, das Gesetz des Inselklosters und scine Veruncklichung % dans Die Kultur der Abtei Reichenau. Erinnerungsschrift zum zw\u00f6lfhundertsten Wiederkehr des Grundungsjahres des Inselklosters, 724-1924, Munchen, L. 1, 1925, P. 300. 20 Pour K. Zeumer (loc. cil) celte formule peut \u00eatre plac\u00e9e sous l'abbatiat d'Amico (774-vers 786) .",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "7,8,9",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 36592,
+      "roll_id": 5699,
+      "title": "[Original Document / Letter]",
+      "location_name": "",
+      "latin_text": "Premi\u00e8re formule de bref mortuaire \u00e0 lusage de Murbach . A. Original perdu. B.Sankt Gallen, Stiftsbibl., 550, P. 149 (IX' &.). a,E. dc Rozi\u00e8re, Formules in\u00e9dites, publiees &apr\u00e8s un ms.de S.Gall, Paris, 1853, p. 22, n\" 30,~b. E. de Rozi\u00e8re, Formules, 2 partie, P. 952, 2\" 680. c. K. Zeumer; Formulae merowingici et 15 karolini aevi ( M. G. H, Leges), P. 331, Formulae Morbacenses, n? 7. IvDIQU\u00c9 M. Rothenh\u00e4user; K. Beyerle, Die Regel des hL. Benedikt, das Gesetz des Inselklosters und scine Veruncklichung % dans Die Kultur der Abtei Reichenau. Erinnerungsschrift zum zw\u00f6lfhundertsten Wiederkehr des Grundungsjahres des Inselklosters, 724-1924, Munchen, L. 1, 1925, P. 300. 20 Pour K. Zeumer (loc. cil) celte formule peut \u00eatre plac\u00e9e sous l'abbatiat d'Amico (774-vers 786) . Pro defuncto fratre Domino reverentissimo illo abbati ille abbas in Domino salutem. De cetero innotescimus beatitudine vestre; eo quod frater noster nomine ille ill. kal. de ac luce migravit. Qua de causa exoramus sanctitatem vestram; ut pro ejus anime de 25 psalmis seu missis vigiliisque taliter agatis, quatenus obtime continet consuetudo vestra.",
+      "pdf_page": 7,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 36593,
+      "roll_id": 5699,
+      "title": "(1) Ces dates sont celles de l\u00e9piscopat  de 225) , Dapr\u00e8s M. Tangl (op cit  P 271, n. I),la latinit\u00e9",
+      "location_name": "Struve)",
+      "latin_text": "(1) Ces dates sont celles de l\u00e9piscopat  de 225) , Dapr\u00e8s M. Tangl (op cit  P 271, n. I),la latinit\u00e9   du document Cl la   presencc dun Lul ; cf. Lul \u00f8 dans Lexikon des Miltelalters, chrisme  font  penser Un abb\u00e9 franc plut\u00f4t VI, col. 12 (T. Struve) . Doto serait un abb\u00e9 de Luxeuil selon les qu'anglo-saxon. Annales ordinis sancti Benedicti (. II, P. 189,",
+      "pdf_page": 8,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 29878,
+      "roll_id": 5699,
+      "pdf_page": 7,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "CllciecCillr,chUCUC P 223."
+    },
+    {
+      "id": 29879,
+      "roll_id": 5699,
+      "pdf_page": 7,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "("
+    }
+  ]
+}

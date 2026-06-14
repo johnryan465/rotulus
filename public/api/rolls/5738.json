@@ -1,0 +1,68 @@
+{
+  "roll": {
+    "id": 5738,
+    "roll_num": "66",
+    "date_str": "S.d.",
+    "title": "87",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "45,46,47,48",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 36619,
+      "roll_id": 5738,
+      "title": "[Original Document / Letter]",
+      "location_name": "",
+      "latin_text": "[1007] dabord 5. Julien de Tours, puis, \u00e0 compter de dirigea nboporiantes r\u00e9foc mes danpuiss divor pteblssononMaxehoieties; 990, ` d Bourgucil 'religieux. Il re\u00e7ut d' ct engagca Maillezais  relative aux troubles survenus \u00e0 Marmoutier 'Abbon  [ une lettre de Fleury Proxima castra petens, vestrorum funera deflens; Accessit rotulus; non sine re querulus, Martini templum meritis et honore colendum; 5 sua gesta patent Quo et simul ossa jacent Praesul Turonis qui priscis deguit annis; Praesul pontificum, consul et auxilium. Nam veluti murus qui non timet arietis ictus; Nec quatitur jaculis quae volitant machinis 10 Haud aliter mundo deguit Martinus in isto, Virtutum clypeis dans pia claustra suis. Sed quo penna ruis ? an vis deprendere scriptis Quod nullus potuit nec penitus voluit ? Et si fortassis vellet mandare tabellis 15 Quidquid Martinus gesserit egregius, Non tamen optatum procede[re]t usque supremum; Nec medium fessus exposuisset opus. Quare propositum citius tibi collige cursum; Ocius et rotulum respice funereum. 20 Tomiferum fratres ut conspiciunt venientem, Qui vestros apices fert nimium lugubres Unde domo quaerunt, vel qui genus, unde rotellus, Unde vel errantes proferat unde pedes. 25 Edocet ille domum, gentem, funus quoque magnum Coenobii vestri sive monasterii, Scilicet abbatem meritis et stemmate clarum Gausbertum vita jam caruisse sua. Quae licet ex longo sit nobis cognita causa, 30 Nobis tristiciam detulit haud modicam. Et modo vici () fratres sapiatis amici;",
+      "pdf_page": 45,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 36620,
+      "roll_id": 5738,
+      "title": "[Original Document / Letter]",
+      "location_name": "",
+      "latin_text": "[1007] 87 dabord S. Julien de Tours; puis, \u00e0 compter de 990, Marmoutier; Bourgueil et Maillezais E dirigea IL d simportantes r\u00e9formes dans ces divers \u00e9tablissements religieux. Ilre\u00e7ut dAbbon de engagea , aux troubles survenus \u00e0 Marmoutier Fleury Jettre relative une castra petens; vestrorum funera deflens; Proxima Accessit rotulus; non sine re querulus; meritis et honore colendum, 5 Martini templum gesta patent et simul ossa jacent ; Quo sua Zesonis qui priscis deguit annis, Praesul Praesul pontificum; consul et auxilium. veluti murus qui non timet arietis ictus; Nam 10 quatitur jaculis quae volitant machinis Nec aliter mundo deguit Martinus in isto; Haud Virtutum clypeis dans pia claustra suis. Sed quo penna ruis ? an vis deprendere scriptis Quod nullus potuit nec penitus voluit ? 15 Et si fortassis vellet mandare tabellis Quidquid Martinus gesserit egregius; Non tamen optatum procede[re]t usque supremum, Nec medium fessus exposuisset opus. Quare propositum citius tibi collige cursum; 20 Ocius et rotulum respice funereum. 'Tomiferum fratres ut conspiciunt venientem; Qui vestros apices fert nimium lugubres Unde domo quaerunt, vel qui genus; unde rotellus; Unde vel errantes proferat unde pedes. 25 Edocet ille domum, gentem, funus quoque magnum Coenobii vestri sive monasterii, Scilicet abbatem meritis et stemmate clarum Gausbertum vita jam caruisse sua. Quae licet ex 30 longo sit nobis cognita causa, Nobis tristiciam detulit haud modicam. Et modo vici (a) fratres sapiatis amici, Pour a (p. 43,n. 1) < le commencement de ce vers est certainement alt\u00e9re > dictin ' en Touraine = Saint-Julien de Tours % dans Revue Mabillon; \" dans D.HGE,t. XX, col. 69 (G. Oury) G. Oury, La   reconstruction 1LIV, 1964, P. 69-124 col 425, n' VIIL monastique Ed. PLL CXXXIX, ' dans FOuest. Labb\u00e9 Gauzbert de",
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 29981,
+      "roll_id": 5738,
+      "pdf_page": 45,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "eclecilCelUcicaou("
+    },
+    {
+      "id": 29982,
+      "roll_id": 5738,
+      "pdf_page": 45,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": ", en 69 Touraine \" dans DHGE,L XX;col. (G. Suint ] Oury) G. Ouri, monastique La reconstruction LIY; dans [Ouest. Cabb\u00e9 Cauzbeet de"
+    },
+    {
+      "id": 29983,
+      "roll_id": 5738,
+      "pdf_page": 45,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Uogcee"
+    },
+    {
+      "id": 29984,
+      "roll_id": 5738,
+      "pdf_page": 45,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "de Tours %, dans Revue Mabillon; [964, p 69-124 LPL,LCXXXIX,col 425,\" VIIL"
+    }
+  ]
+}

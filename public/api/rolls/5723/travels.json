@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Limoges, France",
+    "coords": [
+      45.8336,
+      1.2611
+    ],
+    "year": null,
+    "date_str": "S.d.",
+    "is_approximate": false,
+    "description": "Origin: 49 45 S.d. [968-977] Rouleau mortuaire ( fragmenta..."
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "roll": {
+    "id": 5789,
+    "roll_num": "131",
+    "date_str": "S.d.",
+    "title": "131 [88] S.d.- Spalding, S. Mary et S. Nicholas T. Sancte Marie Spalinge; ecclesie S. Nicolai Andegavensis. In mundo rutilat solis jubar et rutilando Transit et excedit sidera clara poli ;",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "88,89",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 36939,
+      "roll_id": 5789,
+      "title": "[1103] 132 [89] S.d_ ~ Lincoln, cathedral (S Mary)  T. Sancte Marie ecclesie Lincolniensis . Transis",
+      "location_name": "_ ~ Lincoln",
+      "latin_text": "[1103] 132 [89] S.d_ ~ Lincoln, cathedral (S Mary)  T. Sancte Marie ecclesie Lincolniensis . Transisti mundo securus, maxime Bruno, Quem quia sprevisti, nil nocuisse puto. Te voluit rebus fallacibus illaqueare, Sed tibi prospiciens non cadis in laqueum. Obtulit iste quidem; que pronus stultus adorat, Hoc est divitias et bona, que pereunt. Et quia nemo potest horum splendore beari; Quippe nihil prosunt, sed nimis officiunt, Omnibus adjectis, eremum letus petiisti, Hoc solum cupiens posse placere Deo. Nec bona fama viri latuit dispersa per orbem; Sed vaga permultos commonuit populos. Profuit et multis dans exemplum famulandi Ille; qui bonus est, qui Dominus Deus est. Hoc igitur melius quis homo posset meditari ? Ista salus multis profuit atque tibi Quis tam felicem novit atque sapientem ? Non novi talem nec tibi consimilem. In te revera patuit sapientia vera, Te pietas Domini nutriit et docuit. Hunc eligisti pre cunctis, hunc et amasti, Quem quicunque colit, non coluisse pudet. Sit tibi lux, patria, requies et gloria parta, Cui servire fuit gloria sola tibi. 5 10 15 20 25",
+      "pdf_page": 89,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 30227,
+      "roll_id": 5789,
+      "pdf_page": 88,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Elucilolo pourrall ClrC MOaLX cela est impossible en raison de tin\u00e9raire du porte-rouleau. Ce pourrait \u00eatre oreuil (Somme, arr: Montdidier) , \u00e9tablisse- ent religieux situ\u00e9 entre Arras et Rouen, mais nd\u00e9 selon Cottineau 09 (col. 1983) seulement en et plac\u00e9 habituellement Vaast. sous le vocable de"
+    },
+    {
+      "id": 30228,
+      "roll_id": 5789,
+      "pdf_page": 88,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "de Metz (\u00e9d. P L, t CXXXVII, col 363) 20 celle pr\u00e9sente dans la Via Deoderici; due \u00e0 Sigebert de Gembloux (\u00e9d. P L, t CLX, col; 720) . Prieur\u00e9 de S, Nicolas d'Angers depuis 1074 ; c. Knowles/ Hadcock   Medieval reli gious houses. England and Wales, P. 57et 77."
+    }
+  ]
+}

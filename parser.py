@@ -21,7 +21,7 @@ def extract_numbers(s):
         found.update(range(int(start), int(end) + 1))
     for n in re.findall(r'\d+', s):
         n_val = int(n)
-        if 0 < n_val <= 150: found.add(n_val)
+        if 0 < n_val <= 145: found.add(n_val)
     return sorted(list(found))
 
 def parse_page_content(lines, expected_next, pdf_max):
@@ -30,27 +30,54 @@ def parse_page_content(lines, expected_next, pdf_max):
         line = line.strip()
         if not line or "=== FOOTNOTES ===" in line: continue
         
+        # 1. Roll Header (Strict N prefix)
         m_roll = re.match(r'^[nN][oOsS\?]*[\*°>\.>e\"\'P]?s?[\s\?]*(\d+[\d\s\-\/\&\.\[\]]*)', line)
         if m_roll:
             nums = extract_numbers(m_roll.group(1))
             if any(expected_next - 2 <= n <= expected_next + 50 for n in nums) or expected_next <= 1:
-                items.append({'type': 'roll', 'nums': nums, 'line_idx': i, 'content': line[m_roll.end():].strip()})
+                # Capture metadata (Title and Manuscripts)
+                title_parts = [line[m_roll.end():].strip()]
+                ms_parts = []
+                j = i + 1
+                while j < len(lines):
+                    l = lines[j].strip()
+                    if not l or "=== FOOTNOTES ===" in l: j += 1; continue
+                    # Termination: next roll or titulus or Body text
+                    if re.match(r'^[nN][oO\?]', l) or re.match(r'^\d+\s*\[\d+\]', l) or is_latin_text(l):
+                        break
+                    # Manuscript markers
+                    if re.match(r'^[A-E]\.\s+', l):
+                        ms_parts.append(l)
+                    else:
+                        title_parts.append(l)
+                    j += 1
+                    
+                items.append({
+                    'type': 'roll', 
+                    'nums': nums, 
+                    'line_idx': i, 
+                    'title': " ".join([p for p in title_parts if p]).strip(),
+                    'manuscripts': " ".join(ms_parts).strip()
+                })
                 expected_next = nums[-1] + 1
                 continue
                 
+        # 2. Sub-Roll Header
         m_sub = re.match(r'^(\d+)\s*(?:\[\d+\])?\s*(?:S\.?d\.?|\[?[\d\w\s]+\]?)\s*([-~]\s*)?([^0-9,;:\.\n\r]{3,30})', line)
         if m_sub:
             n = int(m_sub.group(1))
             if expected_next - 1 <= n <= expected_next + 2:
-                items.append({'type': 'roll', 'nums': [n], 'line_idx': i, 'content': line})
+                items.append({'type': 'roll', 'nums': [n], 'line_idx': i, 'title': line, 'manuscripts': ""})
                 expected_next = n + 1
                 continue
 
+        # 3. Titulus Header
         m_tit = re.search(r'(\d+)\s*(\[\d+\])\s*(?:S\.?d\.?|\[?[\d\w\s]+\]?)\s*([-~]\s*)?([^0-9,;:\.\n\r]{3,30})', line)
         if m_tit:
             items.append({'type': 'titulus', 'loc': m_tit.group(4).strip(" ."), 'line_idx': i, 'full': line})
             continue
 
+        # 4. Explicit T. Location
         m_t = re.search(r'T[T]?\.\s+([^0-9,;:\.\n\r]{3,30})', line)
         if m_t:
             items.append({'type': 'titulus', 'loc': m_t.group(1).strip(" ."), 'line_idx': i, 'full': line})
@@ -72,6 +99,7 @@ def parse_and_load():
         m = re.match(r'^pdf(\d+)_p(\d+)_(\w+)\.txt$', fname)
         if not m: continue
         pdf_idx, page, half = int(m.group(1)), int(m.group(2)), m.group(3)
+        
         if pdf_idx != current_pdf:
             current_pdf = pdf_idx
             bounds = {1: (1, 73), 2: (74, 105), 3: (106, 121), 4: (122, 145)}
@@ -81,6 +109,7 @@ def parse_and_load():
         with open(os.path.join(RAW_TEXT_DIR, fname), "r") as f: lines = f.readlines()
         f_idx = next((idx for idx, l in enumerate(lines) if "=== FOOTNOTES ===" in l), -1)
         main_lines = lines[:f_idx] if f_idx != -1 else lines
+        
         anchors, expected_next = parse_page_content(main_lines, expected_next, pdf_max)
         
         if anchors:
@@ -94,7 +123,7 @@ def parse_and_load():
                         if row: rid = row[0]
                         else:
                             cursor.execute("INSERT INTO rolls (roll_num, date_str, title, manuscripts, pdf_source, pdf_pages) VALUES (?, ?, ?, ?, ?, ?)", 
-                                         (str(n), "S.d.", anchor['content'][:250], "", f"Dufour T1 ({pdf_idx})", str(page)))
+                                         (str(n), "S.d.", anchor['title'], anchor['manuscripts'], f"Dufour T1 ({pdf_idx})", str(page)))
                             rid = cursor.lastrowid
                         active_roll_ids.append(rid)
                     
