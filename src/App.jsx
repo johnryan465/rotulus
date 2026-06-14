@@ -80,6 +80,7 @@ export default function App() {
 
   useEffect(() => {
     window.gotoRoll = (id) => {
+      if (!id) return;
       handleSelectRoll(Number(id));
       setActiveTab('explorer');
     };
@@ -130,12 +131,28 @@ export default function App() {
           rInfo.travels.forEach((loc, index) => {
             if (!loc.coords) return;
             const isOrigin = loc.type === 'origin';
-            const marker = window.L.circleMarker(loc.coords, { radius: isOrigin ? 6 : 4, fillColor: color, color: '#fff', weight: 1, opacity: 0.8, fillOpacity: 0.8 }).addTo(mapLayersRef.current);
+            
+            const marker = window.L.circleMarker(loc.coords, { 
+              radius: isOrigin ? 7 : 5, 
+              fillColor: color, 
+              color: '#fff', 
+              weight: 2, 
+              opacity: 1, 
+              fillOpacity: 0.9,
+              interactive: true
+            }).addTo(mapLayersRef.current);
+
+            // Directly clickable markers
+            marker.on('click', () => {
+              window.gotoRoll(rId);
+            });
+
             marker.bindPopup(`
               <div style="font-family: 'Calibri', 'Candara', 'Segoe UI', 'Optima', 'Arial', sans-serif; padding: 4px; min-width: 150px;">
-                <h4 style="margin: 0; color: ${color}; font-family: 'Calibri', 'Candara', 'Segoe UI', 'Optima', 'Arial', sans-serif;">Roll ${rInfo.roll_num} (${isOrigin ? 'Origin' : 'Stop ' + index})</h4>
-                <p style="margin: 4px 0;">${loc.name}</p>
-                <button onclick="window.gotoRoll(${rId})" style="background: var(--primary); color: white; border: none; padding: 6px; cursor: pointer; width: 100%; font-family: 'Calibri', 'Candara', 'Segoe UI', 'Optima', 'Arial', sans-serif; border-radius: 2px;">View Details</button>
+                <h4 style="margin: 0; color: ${color}; font-weight: bold;">Roll N° ${rInfo.roll_num}</h4>
+                <div style="font-size: 13px; margin: 4px 0;">${isOrigin ? '🚩 Origin' : `📍 Stop ${index}`}: <b>${loc.name}</b></div>
+                <div style="font-size: 12px; color: #666; margin-bottom: 8px;">${loc.date_str || ''}</div>
+                <button onclick="window.gotoRoll('${rId}')" style="background: var(--primary); color: white; border: none; padding: 6px; cursor: pointer; width: 100%; border-radius: 2px;">View Scroll Details</button>
               </div>
             `);
           });
@@ -147,7 +164,7 @@ export default function App() {
           if (coords.length > 1) window.L.polyline(coords, { color: 'var(--primary)', weight: 3, opacity: 0.8, dashArray: '5, 10' }).addTo(mapLayersRef.current);
           data.forEach((loc, idx) => {
             if (!loc.coords) return;
-            window.L.circleMarker(loc.coords, { radius: loc.type === 'origin' ? 8 : 6, fillColor: loc.type === 'origin' ? '#8b0000' : '#10b981', color: '#fff', weight: 2, fillOpacity: 0.9 }).addTo(mapLayersRef.current)
+            window.L.circleMarker(loc.coords, { radius: loc.type === 'origin' ? 9 : 7, fillColor: loc.type === 'origin' ? '#8b0000' : '#10b981', color: '#fff', weight: 2, fillOpacity: 1 }).addTo(mapLayersRef.current)
               .bindPopup(`<strong>${loc.name}</strong><br/>${loc.date_str || ''}`);
           });
         }
