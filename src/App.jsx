@@ -5,6 +5,24 @@ import {
   Calendar, MapPin, Edit3, Save, Eye, Check, X, AlertCircle
 } from 'lucide-react';
 
+// Helper to determine API base path
+const getApiUrl = (path) => {
+  const isProd = import.meta.env.PROD;
+  // In production (GitHub Pages), we use the static JSON files
+  if (isProd) {
+    // Mapping dynamic routes to static .json files
+    if (path === '/api/rolls') return '/rotulus/api/rolls.json';
+    if (path === '/api/travels') return '/rotulus/api/travels.json';
+    if (path.startsWith('/api/rolls/')) {
+      const id = path.split('/').pop();
+      return `/rotulus/api/rolls/${id}.json`;
+    }
+    return `/rotulus${path}.json`;
+  }
+  // In development, we use the local FastAPI server via proxy
+  return path;
+};
+
 export default function App() {
   const [activeTab, setActiveTab] = useState('dashboard'); // dashboard, explorer, verification, export
   const [rolls, setRolls] = useState([]);
