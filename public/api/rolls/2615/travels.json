@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Chartres, France",
+    "coords": [
+      48.4472,
+      1.4877
+    ],
+    "year": 649,
+    "date_str": "649",
+    "is_approximate": false,
+    "description": "Origin: ..."
+  }
+]

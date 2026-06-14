@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Saint-Maurice Abbey, Switzerland",
+    "coords": [
+      46.2163,
+      7.0033
+    ],
+    "year": 503,
+    "date_str": "503",
+    "is_approximate": false,
+    "description": "Origin: ..."
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Verdun, France",
+    "coords": [
+      49.1599,
+      5.3855
+    ],
+    "year": null,
+    "date_str": "137",
+    "is_approximate": false,
+    "description": "Origin: S.d. [milieu XIIS &] Rouleau mortuaire ( fragmenta..."
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1142,
+    "date_str": "Sd. [1142 apr\u00e8s le 17 octobre]",
+    "is_approximate": true,
+    "description": "Origin: Encyclique sollicitant de prier pour Odouin, abb\u00e9 ..."
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "roll": {
+    "id": 2541,
+    "roll_num": "63",
+    "date_str": "S.d. [988-2 1004]",
+    "title": "Rouleau mortuaire  (fragmentaire) mis en circulation [de Limoges] . pour plusieurs  moines de 5. Martial 1o A. Paris, B. N: F. lat. 2195, fol. 1. Parchemin (gris\u00e2tre) . Un fragment 36,5 cm ; largeur; 24 cm_ (rogn\u00e9) opisthographe Longueur; 6. L. Delisle; Rouleaux des morts du IX' au XV s, P. 13,n' IX, dapr\u00e8s A. [NDIQU\u00c9 A. Leroux, Les sources de Bhistoire du Limousin, Limoges, 1895, p. 174.-LL. Lema\u00eetre, Mourir \u00e0 S. Martial, P. 132, 332, 333. 15 Au recto du fol: 1, se trouvent un titre incomplet (dont lorigine ne peut \u00eatre d\u00e9termin\u00e9e) , le titre de S. Maixent (\u00e9crit un 19 septembre; sous labbatiat de Bernard [987-1018]) demandant des pri\u00e8res pour plusieurs personnages; notamment Ebles, \u00e9v\u00eaque de Limoges ' (944-969) et Rannulfus; abb\u00e9 de S. Maixent (mort en 968), ainsi que le titre de N.-D. de Paris (appos\u00e9 un 21 octobre; \u00e0 /annonce du d\u00e9c\u00e8s quorumdam fratrum ex monasterio Sancti Marcialis) . 20 Au verso; titre de Fleury (\u00e9crit un 10 novembre; sous [abbatiat d'Abbon [988-1004]) . [recto] 1 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es. sibi alternatim officiis aut 'segniter desudant. De cetero vestre scribi A   nchromoheolva",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "40,41",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 13725,
+      "roll_id": 2541,
+      "pdf_page": 40,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "ExoramnuS geniDuS ClemnenLaIII paleri tis alumpnis concionis; quorum huic inserere te compendiosa sit menbranula. Valete in Christo."
+    },
+    {
+      "id": 13728,
+      "roll_id": 2541,
+      "pdf_page": 40,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "dans M\u00e9moires de V Acnd\u00e9m\u00ede imps de Metz, L XLIV, 1862-1863,2 partic, 128) ne ment\u00edonnent cette abbesse"
+    },
+    {
+      "id": 13726,
+      "roll_id": 2541,
+      "pdf_page": 40,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Gallia christiana (t. XIII, col. 833) , Metz ni E. de Bouteiller Notice sur les anciennes riale abbayes de Saint-Pierre et de Sainte-Marie de p 25"
+    },
+    {
+      "id": 13727,
+      "roll_id": 2541,
+      "pdf_page": 40,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "lalls, UlluPsun HUoliUAul ou mptamus enarithmata; quamvis 25 Amen."
+    }
+  ]
+}

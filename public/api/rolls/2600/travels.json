@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1124,
+    "date_str": "s.d. [vers 1124]-",
+    "is_approximate": false,
+    "description": "Origin: 15 Vers en Chonneur de Hugh, abb\u00e9 de Selby (t vers..."
+  }
+]

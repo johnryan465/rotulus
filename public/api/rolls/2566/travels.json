@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "France (General)",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": null,
+    "date_str": "239",
+    "is_approximate": true,
+    "description": "Origin: J van Moolenbrock, Vital de Savigny , P. 331, n. 5..."
+  }
+]

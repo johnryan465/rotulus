@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Saint-Wandrille Abbey, France",
+    "coords": [
+      49.5297,
+      0.7225
+    ],
+    "year": 762,
+    "date_str": "[762]",
+    "is_approximate": false,
+    "description": "Origin: Nos 4-5 0. A. Werminghoff, Concil\u00eda aevi Merovingi..."
+  }
+]

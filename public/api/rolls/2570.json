@@ -1,0 +1,87 @@
+{
+  "roll": {
+    "id": 2570,
+    "roll_num": "93",
+    "date_str": "245",
+    "title": "Inde; providente gratia Spiritus Sancti, assumptus atque archiepiscopus Turonis est consecratus. Orate pro abbatibus nostris, et nomina posuit, et pro comitibus et pro Willelmo; fundatoribus ecclesie nostre Malliacens et pro Adalmoda comi- tissa, que fundatrix extitit loci Beatissimi Martini. Hoc in rotulo quod (sic) fereba- tur scriptum hic transcripsi () ex quo et a rolligero didici, quod locus, in quo sub 5 sancto Hilario; non Jonge ab urbe Pictavis, primum beatus Martinus sibi monaste- rium statuit, dicitur Legudiacus et est cella conventualis subjecta cuidam abbatie monastici ordinis.",
+    "manuscripts": "93 S.d. [XI s.] 10 Formule anonyme dencyclique. A. Original perdu. B. Paris; B. N. F, Coll. Baluze; vol. 108, fol. 318v-319, dapr\u00e8s A (< ex archivo S. Martini Canigonen- sis % copie de Dom Guillaume de Costa, XVIIS s). 0 . L. Delisle; Rouleaux des morts du IX* au XVE s , P.89,dapr\u00e8s B.-b.J Dufour; Catalogne; P. 39, 15' n\" V, dapr\u00e8s @. INDIQU\u00c9 J Stiennon, Guifred, P. 307. Cette formule constitue le n? 71 du rouleau mortuaire de Guifr\u00e9, recueil factice compos\u00e9 \u00e0 5. Martin-du-\u20ac Canigou D\u00e9j\u00e0 pour L. Delisle (2), elle \u00e9tait peut-\u00eatre plac\u00e9e ind\u00fbment au milieu de ce document je suis daccord avec J Stiennon (loc. cit.) pour la traiter \u00e0 part. Comme Dom Guillaume de Costa a \u00e9tabli sa copie \u00e0 partir dun original conserv\u00e9 dans les archives de S. Martin-du-Canigou; on peut supposer que cette lettre fut utilis\u00e9e par les moines de cette abbaye. Son style me la fait placer au XI 5., sans qu'il soit possible de pr\u00e9ciser davantage.",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "46,47",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 13893,
+      "roll_id": 2570,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "ILLUS CulI8ICgauiu CuiIUA incremento virtutum. Cum nos"
+    },
+    {
+      "id": 13897,
+      "roll_id": 2570,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "trorum conscientia deterreamur peccami-"
+    },
+    {
+      "id": 13894,
+      "roll_id": 2570,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "(\") In albacens B corrigez Malliacens; (b) transcripsit corrig\u00e9 en transcripsi par g"
+    },
+    {
+      "id": 13895,
+      "roll_id": 2570,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "ce document, cf. supra; P. 138,"
+    },
+    {
+      "id": 13896,
+      "roll_id": 2570,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "I"
+    },
+    {
+      "id": 13898,
+      "roll_id": 2570,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "7",
+      "text": "le propose J Coquet, Comtesse Aumode, p. 162. rattage du t final B."
+    },
+    {
+      "id": 13899,
+      "roll_id": 2570,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "8",
+      "text": "Op. cit., P. 91,n. 1."
+    },
+    {
+      "id": 13900,
+      "roll_id": 2570,
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Jac , V,16."
+    },
+    {
+      "id": 13901,
+      "roll_id": 2570,
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Mach.,~ XII, 46 ."
+    }
+  ]
+}

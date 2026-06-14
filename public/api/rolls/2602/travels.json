@@ -1,0 +1,38 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Winchester, England",
+    "coords": [
+      51.0632,
+      -1.308
+    ],
+    "year": 1113,
+    "date_str": "S.d. [1113-1127]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire ( fragmentaire ) &'un abb\u00e9 Guill..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Langres, France",
+    "coords": [
+      47.863,
+      5.333
+    ],
+    "year": 1113,
+    "date_str": "S.d. [1113-1127]",
+    "is_approximate": false,
+    "description": "Titulus Header: S1 [Langres"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "S.I. [\u00c9vaux",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S.d. [1113-1127]",
+    "is_approximate": true,
+    "description": "Titulus Header: S.I. [\u00c9vaux"
+  }
+]

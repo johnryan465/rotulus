@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1154,
+    "date_str": "S.d. [1154, apr\u00e8s le 4 septembre]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (? de Gilbert de La Porr\u00e9e; \u00e9v\u00eaq..."
+  }
+]

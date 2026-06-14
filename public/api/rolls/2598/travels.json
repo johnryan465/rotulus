@@ -1,0 +1,41 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1123,
+    "date_str": "S.d. [1123, apr\u00e8s le 4 novembre]",
+    "is_approximate": false,
+    "description": "Origin: Marbode, \u00e9v\u00eaque de Rennes (t 11 septembre 1123). E..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Bayeux, France",
+    "coords": [
+      49.2794,
+      -0.7028
+    ],
+    "year": 1123,
+    "date_str": "S.d. [1123, apr\u00e8s le 4 novembre]",
+    "is_approximate": false,
+    "description": "Titulus Header: Bayeux"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1123,
+    "date_str": "S.d. [1123, apr\u00e8s le 4 novembre]",
+    "is_approximate": false,
+    "description": "Titulus Header: I SANCTE TRINITATIS Angers"
+  }
+]

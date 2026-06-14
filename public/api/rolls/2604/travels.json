@@ -1,0 +1,158 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Besan\u00e7on, France",
+    "coords": [
+      47.2378,
+      6.0241
+    ],
+    "year": 1130,
+    "date_str": "S.d. [vers 1130]",
+    "is_approximate": false,
+    "description": "Origin: 30 Rouleau mortuaire (incomplet ) de Bosone; abb\u00e9 ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Arnaud",
+    "coords": null,
+    "year": 1130,
+    "date_str": "S.d. [vers 1130]",
+    "is_approximate": true,
+    "description": "Titulus Header: Arnaud"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "S. P\u00e9[-de-Bigorre]",
+    "coords": null,
+    "year": 1130,
+    "date_str": "S.d. [vers 1130]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. P\u00e9[-de-Bigorre]"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Sauxillanges",
+    "coords": null,
+    "year": 1130,
+    "date_str": "S.d. [vers 1130]",
+    "is_approximate": true,
+    "description": "Titulus Header: Sauxillanges"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "S. R\u00e9v\u00e9rien",
+    "coords": null,
+    "year": 1130,
+    "date_str": "S.d. [vers 1130]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. R\u00e9v\u00e9rien"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "S. Rambert[-en-Bugey]",
+    "coords": null,
+    "year": 1130,
+    "date_str": "S.d. [vers 1130]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Rambert[-en-Bugey]"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Tallard",
+    "coords": null,
+    "year": 1130,
+    "date_str": "S.d. [vers 1130]",
+    "is_approximate": true,
+    "description": "Titulus Header: Tallard"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Ganagobie",
+    "coords": null,
+    "year": 1130,
+    "date_str": "S.d. [vers 1130]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ganagobie"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Provence, France",
+    "coords": [
+      43.9352,
+      6.0679
+    ],
+    "year": 1130,
+    "date_str": "S.d. [vers 1130]",
+    "is_approximate": true,
+    "description": "Titulus Header: 2 Aix-en-Provence"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "~ Marseille",
+    "coords": null,
+    "year": 1130,
+    "date_str": "S.d. [vers 1130]",
+    "is_approximate": true,
+    "description": "Titulus Header: ~ Marseille"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "- Arles",
+    "coords": null,
+    "year": 1130,
+    "date_str": "S.d. [vers 1130]",
+    "is_approximate": true,
+    "description": "Titulus Header: - Arles"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "S. Gilles",
+    "coords": null,
+    "year": 1130,
+    "date_str": "S.d. [vers 1130]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Gilles"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Ambronay",
+    "coords": null,
+    "year": 1130,
+    "date_str": "S.d. [vers 1130]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ambronay"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "8 Maguelone",
+    "coords": null,
+    "year": 1130,
+    "date_str": "S.d. [vers 1130]",
+    "is_approximate": true,
+    "description": "Titulus Header: 8 Maguelone"
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "Aniane",
+    "coords": null,
+    "year": 1130,
+    "date_str": "S.d. [vers 1130]",
+    "is_approximate": true,
+    "description": "Titulus Header: Aniane"
+  }
+]

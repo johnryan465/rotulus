@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1150,
+    "date_str": "S.d. [XI-XII' s.]",
+    "is_approximate": false,
+    "description": "Origin: Titre versifi\u00e9 appos\u00e9 sur le rouleau mortuaire des..."
+  }
+]

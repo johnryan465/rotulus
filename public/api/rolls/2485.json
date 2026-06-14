@@ -1,0 +1,60 @@
+{
+  "roll": {
+    "id": 2485,
+    "roll_num": "1",
+    "date_str": "S.d. [750-754,5 juin]",
+    "title": "15 Communication de noms de d\u00e9funts entre Montecassino et Mainz. A. Original perdu. B. Wien, \u00dcsterreichische Nationalbibl , lat. 751, fol. 71 (milieu du IX\" s). 0 . M. G. H., EpP , III, P. 393. 6. M. Tangl, Bonifatius, P. 231, n' 106. 6. R. Rau, Briefe des Bonifatius. Willibalds Leben des Bonifatius Darmstadt, 1968, P 334, n? 106 (ann; 751). 20 TRADUCTION (allemande) R. Rau, op. cit., P. 335. INDIQu\u00c9 B. Haeftenus; Commemoratio defunctorum; P. 793.~K. Hallinger; Corpus consuetudinum monasticarum, t. I, Siegburg, 1963, P. 314. Boniface (mort le 5 juin 754) demande \u00e0 Optatus, abb\u00e9 de Monte Cassino (750-760), la gr\u00e5ce , dela charit\u00e9 fraternelle quand ils se communiqueront les noms de leurs d\u00e9funts 25 vraa",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "2,5,7,73,74,75,76,77,78,79,6",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 13795,
+      "roll_id": 2485,
+      "title": "15 [27] S.d. Nouaill\u00e9 . Cenobium quoddam persistit jure statutum; Antiquis patribus vocitatum Nobiliacense; Ad quod se gerulus vester veniens patefecit Ostentans [sJcedarn conscriptam 25 funere Proque ; fratrum, is sacra precum libamina = Rector , conmormes pnestoam\u00fane igni\u00dfdan temu Regula quod dat habens  almus Hinc < Geraldus , vocitamen domnus Basilius decanus et abba. conjungitur eique = D'apr\u00eas 794] (p: 61, (ed. 1. infra,P 2), il faut 173 ) . sans doute rapprocher ces vers 'tr\u00e8s fautifs ) de ceux du n' 70",
+      "location_name": "Nouaill\u00e9 . Cenobium quoddam persistit jure statutum",
+      "latin_text": "Ve abbes de gerius ne 8e Nouaill\u00e9 'trouyent Basilius el pas Berin- donnte dans la liste  Cabbaye par P dc abbatiale de Nouaill\u00e9 de 678 \u00e0 1200, Poitiers, Monsabert 1936,  (Chartes p XVIIXVIII)  de",
+      "pdf_page": 77,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 13796,
+      "roll_id": 2485,
+      "title": "18 [25] S.d.- Nanteuil-en-Vall\u00e9e. (Chrisme) Collegium penitus reverendo ville () Nantoliensis; Cuncta Creatori propria virtute regenti Celesti cedulum gliscunt qui cedere votum 15 Concio Benedicti Nantoliensis; virtutum flore potiti merita testis vernancia gaumate pleni, Quidquid inesse valet mundo plene Deitatis. Patres almiflui, cupimus vobis fore notum Scedaforum vestri nostros fine[s] penetrare, 20 Enucleando quidem funus sat justiciale = Vestrorum obpanso nobis fratrum quoque thomo, At ubi comperimus, flentes lacrimis rogitamus, Popliibus fexis poscentes Cunctipotentem Quo veniamn vestris jam conferat ipse defunctis . 25 Quod cgimus vestris, idem petimus ut faciatis _ Nomina nam pro nostris. domnus quorum [itulantur in ordine fratrum Aimericus ' abbas; domnus abba Petrus Costantinus () abbas, Teoderius abbas, domnus",
+      "location_name": "Nanteuil-en-Vall\u00e9e. (Chrisme) Collegium penitus reverendo ville () Nantoliensis",
+      "latin_text": "D'apr\u00e8s \u20ac quelemot ReneJ; : '(p.63,n.2),$ le motville u nedoitsans doute",
+      "pdf_page": 78,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 13817,
+      "roll_id": 2485,
+      "pdf_page": 78,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "vers"
+    },
+    {
+      "id": 13818,
+      "roll_id": 2485,
+      "pdf_page": 78,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Cnucuipiepour[aau74ecie"
+    },
+    {
+      "id": 13819,
+      "roll_id": 2485,
+      "pdf_page": 78,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "abb\u00e9 de S. 988 ; ce. Amant Gallia ( de-Boixe, christiana, en Petrus LI,col; 1036. pr\u00e9d\u00e9cesseur de Petrus I cit\u00e9 sans pr\u00e9cision de Z ahb\u00e9 de _ Nanteuil-en-' date sent le 31 Vall\u00e9c, par le Gallia christiana (loc:. cit.) mai lovo \u00e0 Ja pr\u00e9- de la ceremonic de Ni Trinit\u00e9 d\u00e9dicace Costantinus, de ni   Teoderius nlc sont tiana, Vend\u00f4me IL, col, cf. Gallia chris- mentionn\u00e9s dans la liste des abb\u00e9s de Nanteuil- 1293. en- Aimericus Vall\u00e9e fournie par le Gallia christiana (loc:. I abb\u00e9 de Nantcuil-en-Vall\u00e9c cit.)."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Novalesa Abbey, Italy",
+    "coords": [
+      45.1897,
+      7.0142
+    ],
+    "year": 1149,
+    "date_str": "S.d. [1149, apr\u00e8s_ le 25 avril]",
+    "is_approximate": false,
+    "description": "Origin: prier P\u00e9tronille de Chemill\u00e9; abbesse de Fontevrau..."
+  }
+]

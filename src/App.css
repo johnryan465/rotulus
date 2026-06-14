@@ -1,4 +1,4 @@
-/* Robust Scholarly Theme for Rotulus */
+/* Historian-Grade Scholarly Theme for Rotulus */
 
 :root {
   --ink: #1a1a1a;
@@ -32,40 +32,44 @@ h1, h2, h3, h4 {
   letter-spacing: 0.02em;
 }
 
-/* 100% ROBUST DUAL SLIDER */
+/* 100% BULLETPROOF SINGLE-TRACK DUAL SLIDER */
 .range-container {
   position: relative;
   width: 100%;
   height: 40px;
-  display: flex;
-  align-items: center;
+  /* NO Flexbox here to avoid layout conflicts with absolute inputs */
 }
 
-/* The single track visible to the user */
+/* The actual visual track */
 .range-track {
   position: absolute;
   width: 100%;
   height: 6px;
   background: rgba(0, 0, 0, 0.1);
   border-radius: 3px;
+  top: 50%;
+  margin-top: -3px;
   z-index: 1;
 }
 
-/* The highlighted part between handles */
 .range-highlight {
   position: absolute;
   height: 6px;
   background: var(--primary);
   border-radius: 3px;
+  top: 50%;
+  margin-top: -3px;
   z-index: 2;
 }
 
-/* The inputs themselves are invisible, only the thumbs are seen */
+/* BOTH inputs occupy the exact same absolute box */
 .range-input {
   position: absolute;
   width: 100%;
   height: 40px;
-  background: none !important;
+  top: 0;
+  left: 0;
+  background: transparent !important;
   pointer-events: none;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -76,12 +80,12 @@ h1, h2, h3, h4 {
   outline: none;
 }
 
-/* Aggressively remove native tracks from all browsers */
-.range-input::-webkit-slider-runnable-track { background: transparent !important; border: none !important; }
-.range-input::-moz-range-track { background: transparent !important; border: none !important; }
-.range-input::-ms-track { background: transparent !important; border: none !important; color: transparent !important; }
+/* Remove ALL native track elements */
+.range-input::-webkit-slider-runnable-track { background: transparent !important; border: none !important; height: 0; }
+.range-input::-moz-range-track { background: transparent !important; border: none !important; height: 0; }
+.range-input::-ms-track { background: transparent !important; border: none !important; color: transparent; height: 0; }
 
-/* Thumbs */
+/* The Thumbs - The only interactive parts */
 .range-input::-webkit-slider-thumb {
   pointer-events: auto;
   -webkit-appearance: none;
@@ -92,6 +96,7 @@ h1, h2, h3, h4 {
   cursor: pointer;
   border: 2px solid var(--primary);
   box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+  margin-top: 0; /* Webkit handles centering differently if track height is 0 */
   position: relative;
   z-index: 10;
 }
@@ -109,7 +114,16 @@ h1, h2, h3, h4 {
   z-index: 10;
 }
 
-/* REST OF UI */
+/* Map Styling */
+#map-container {
+  height: 700px;
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: #0f172a; 
+}
+
+/* General Layout & Typography */
 .main-container { display: flex; flex-direction: column; height: 100vh; width: 100%; overflow: hidden; }
 .top-nav {
   height: var(--header-height);
@@ -123,15 +137,9 @@ h1, h2, h3, h4 {
   flex-shrink: 0;
   z-index: 50;
 }
-.sidebar {
-  width: var(--sidebar-width);
-  border-right: 1px solid var(--border);
-  display: flex;
-  flex-direction: column;
-  background: var(--paper-dark);
-  background-image: var(--paper-texture);
-  z-index: 40;
-}
+.logo-text { font-family: 'MedievalSharp', cursive; font-weight: 700; font-size: 1.6rem; color: var(--primary); }
+.content-area { display: flex; flex-grow: 1; overflow: hidden; position: relative; }
+.sidebar { width: 340px; border-right: 1px solid var(--border); display: flex; flex-direction: column; background: var(--paper-dark); background-image: var(--paper-texture); z-index: 40; }
 .viewer-pane { flex-grow: 1; overflow-y: auto; padding: 32px; display: flex; flex-direction: column; gap: 32px; }
 .glass-panel { background: var(--paper); background-image: var(--paper-texture); border: 1px solid var(--border); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); border-radius: 4px; }
 .tab-btn { padding: 10px 24px; font-family: 'Cinzel', serif; font-size: 0.9rem; font-weight: 700; cursor: pointer; border: 1px solid transparent; background: transparent; color: var(--text-muted); transition: all 0.2s; }
@@ -140,7 +148,6 @@ h1, h2, h3, h4 {
 .roll-item.active { background: var(--paper); border-color: var(--primary); box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
 .roll-num { font-family: 'Cinzel', serif; font-weight: bold; color: var(--primary); margin-bottom: 4px; }
 .search-input { width: 100%; background: #fff; border: 1px solid var(--accent); border-radius: 2px; padding: 10px 12px 10px 40px; color: var(--ink); font-family: 'EB Garamond', serif; font-size: 1.1rem; box-sizing: border-box; }
-#map-container { height: 700px; width: 100%; border: 1px solid var(--border); border-radius: 4px; background: #0f172a; }
 .latin-text { font-family: 'EB Garamond', serif; font-size: 1.25rem; line-height: 1.6; color: var(--ink); font-style: italic; padding: 24px; background: #fff; border-left: 4px solid var(--accent); box-shadow: inset 0 0 10px rgba(0,0,0,0.05); }
 .footnote-num { font-weight: bold; color: var(--primary); margin-right: 8px; }
 .footnote-item { margin-bottom: 12px; color: var(--text-muted); }

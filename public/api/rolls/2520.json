@@ -1,0 +1,31 @@
+{
+  "roll": {
+    "id": 2520,
+    "roll_num": "40",
+    "date_str": "S.d. [vers 972]",
+    "title": "Premi\u00e8re variante de la formule de bref mortuaire ins\u00e9r\u00e9e dans la \u20ac Regularis concor- dia de Dunstan.",
+    "manuscripts": "A. Original perdu. B. London; British Library; Cotton Faustina B 3, fol. 198v (fin X' &) 10 a. Th. Symons, Regularis concordia Anglicae nationis monachorum sanctimonialiumque; London; 1953, p 66, n. f, japr\u00e8s B. INDIQU\u00c9 Th. Symons; op. cit., P. LIIL La date indiqu\u00e9e est celle de la r\u00e9daction de la \u00f8 Regularis concordia ^",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "24",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 13676,
+      "roll_id": 2520,
+      "pdf_page": 24,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Perse; Satires,  I, 27, \u00e9d. A. Cartault, Paris; 1920, P. 17."
+    },
+    {
+      "id": 13677,
+      "roll_id": 2520,
+      "pdf_page": 24,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": ", V, 16."
+    }
+  ]
+}

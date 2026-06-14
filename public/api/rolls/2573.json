@@ -1,0 +1,31 @@
+{
+  "roll": {
+    "id": 2573,
+    "roll_num": "96",
+    "date_str": "251",
+    "title": "Nomina quorum Subtitulamus Hic seriatim; Vosque valere Voce precamur Continuata. 5",
+    "manuscripts": "96 S.d. [XI s.] Titres appos\u00e9s par les moines de Fleury sur des rouleaux mortuaires. 10 A. Original perdu . B. Orl\u00e9ans; B. M., ms. 259 (215), P. 30-31 (XI s) . (. L. Delisle, Notice sur plusieurs manuscrits de la Biblioth\u00e8que d'Orl\u00e9ans \" dans Notices et extraits des manuscrits de la Biblioth\u00e8que nationale et autres Biblioth\u00e8ques, t. XXXI, 1, 1883, P. 389, dapr\u00e8s B. A. Vidier; L'historiographie \u00e0 Saint-Beno\u00eet-sur-Loire et les miracles de saint Beno\u00eet, 15 INDIQU\u00c9 Paris, 1965, p. 121. - J Dufour; Abbon, p. 30. Selon A. Vidier (loc. cit.), les deux titres \u00e9dit\u00e9s ci-apr\u00e8s auraient fait partie du rouleau mortuaire dAbbon (1) _ Il n'en est rien de style identique; ces pi\u00e8ces furent en fait compos\u00e9es \u00e0 Fleury \u00e0 loccasion du passage de rouleaux mortuaires ind\u00e9termin\u00e9s. Texte \u00e9tabli dapr\u00e8s @. 20",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "49,50",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 13905,
+      "roll_id": 2573,
+      "pdf_page": 49,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "IlldillVUS ICLILID YCP Et quod quisque cupit compaciendo ferat"
+    },
+    {
+      "id": 13906,
+      "roll_id": 2573,
+      "pdf_page": 49,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Cf. supra, P. 80, n? 64."
+    }
+  ]
+}

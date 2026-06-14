@@ -1,0 +1,39 @@
+{
+  "roll": {
+    "id": 2589,
+    "roll_num": "112",
+    "date_str": "S.d. [1112, apr\u00e8s le 21 janvier]",
+    "title": "15 Encyclique sollicitant de prier (P 21 janvier 1l12) . pour Andr\u00e9 de Vallombrosa, abb\u00e9 de Chezal-Beno\u00eet",
+    "manuscripts": "A. Original perdu. B. Paris B.NF, Jat. 13090, fol. 78 '(copie incompl\u00e8te du XIIF s.). a.L.d Achery; 20 t. Spupilegisn  in-49, t. II, p III, P. 462, 518, dapr\u00e8s L. B. a. = \u20ac. Delisle, 6.L. dAchery; Rouleaux _ Spicilegium, in-fol. dapr\u00e8s B. des morts du IX' au XV s, P. 168,n XXXIV, IND\u0131Qu\u00c9 G. Zappert, F Deshouli\u00e8res; [Veubr\u00fcderungensb\u00fccher IL, p 24, n. 101. Labbaye de Chezal-Beno\u00eet , A Centre, Dupr\u00e9, Orl\u00e9anais, P. 141. t. XXXII, 8 dans 1909, p. 158.-J van M\u00e9moires de la Soci\u00e9t\u00e9 des antiquaires du Moolenbroek, Vutal de Savignocpeta- Cette mention est faite de lettres   enclav\u00e9es . Ce personnage \u00eatre identifi\u00e9  doit   tr\u00e8s avec Floridus; probablemnent Th\u00e9rouanne, abb\u00e9 de S. (t. III, Jean de col. 508) . licon cit\u00e9 de 1097 \u00e0 belge ( 1100 7 par le Monas- Au-dessus (.IIL, 1, p 28). de ce mot, dune autre main, Abh\u00e9 de $, Rotbertus,\u20ac Sauveur abbas Cadomi(c' est-\u00e0-dire Roberti \", cit\u00e9 de 1020 \u00e0 de Ham-en-Artois, abb\u00e9 de $. 1105 par Je \u00c9tienne de rouleau Caen, Gallia pour lequel un christiana mortuaire fut mis en circulation cf. supra, p. 363, n\" 110) .",
+    "pdf_source": "Dufour T1 (3)",
+    "pdf_pages": "19,20",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 14037,
+      "roll_id": 2589,
+      "pdf_page": 20,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "La fin de cette encyclique n'a pas \u00e9t\u00e9 copi\u00e9e par B."
+    },
+    {
+      "id": 14038,
+      "roll_id": 2589,
+      "pdf_page": 20,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "(Indre, col. 678. arr: Issoudun, con Saint-( Christophe-"
+    },
+    {
+      "id": 14039,
+      "roll_id": 2589,
+      "pdf_page": 20,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "En-Bazelle, nc Poulaines) : cf. Cottineau,"
+    }
+  ]
+}

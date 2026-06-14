@@ -1,0 +1,25 @@
+{
+  "roll": {
+    "id": 2585,
+    "roll_num": "108",
+    "date_str": "S.d. [1106 ou peu apr\u00e8s]",
+    "title": "Rouleau mortuaire (fragmentaire) de Foulques, abb\u00e9 de Corbie (t 5 d\u00e9cembre 1095 ) . 2 A. Paris BN.E, lat. 11636 , [(anc. $. opisthographes, dune Germain-des-Pr\u00e9s, n? 327), fol. 208 et 273 (1) Deux fragments longueur ' F:foL 208. Parchemin totale de 74 cm et dune largeur comprise entre 22,5 et 24 cm 37 cm largeur; 24 cm (. c [= verso] et c p [= recto; &res effacp] j\u00e6umtces \u20ac) . Longueur; 30 FI: fol,273. Parchemin  Jargeur; 22,5/23 , (c. c. cm. recto] blanch\u00e2tre = ;c. p. [= verso] jaun\u00e2tre) . Longueur; 37 cm ; Les deux fol. en feuilles de question constituent garde de la seconde les indiqu\u00e9 (XII s), contenant partie du ms. monte habito , le et De = mundicia sermone tin. in cordis > de s Augus- Sur ce fol., essais de plume du XII . XIIIS 5. et mention du XVII' s : Ex libris Corbeiensis monasterii.",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (3)",
+    "pdf_pages": "4,5,6,7",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 13897,
+      "roll_id": 2585,
+      "title": "T. San Oras maro; Rinfri",
+      "location_name": "",
+      "latin_text": "San Oras maro; Rinfri TI Ani T. Qui sumus Item de eodem. aura levis, quia 30 labilis est caro Hinc casus juvenum quaevis; cernimus; Sic caro; parta inde senum . luto; Vilet, pede quae steterat male et ut vita foruit aret ita tuto, Hinc dolor; hinc fletus Raptus et quam fueras = homo laetus 35 morte tuis tristior ipse luis. Nec mora sorte pari te Nec= conspicor mora tu nobis unus inproperari, et alter obis. Sur cette \u00e6uvre, cf.M. Coens, op. cit. [Iv] \" () p. 35 [1106]",
+      "pdf_page": 5,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": []
+}

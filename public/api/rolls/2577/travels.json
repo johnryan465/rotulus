@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Vatican City",
+    "coords": [
+      41.9022,
+      12.4539
+    ],
+    "year": null,
+    "date_str": "S.d. [XI-XIIF s ]",
+    "is_approximate": false,
+    "description": "Origin: Pi\u00e8ce versifi\u00e9e, appos\u00e9e sans doute sur un rouleau..."
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Provence, France",
+    "coords": [
+      43.9352,
+      6.0679
+    ],
+    "year": null,
+    "date_str": "127",
+    "is_approximate": true,
+    "description": "Origin: N'   72 martiris Stephani Bannio- in gloriosissimi..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Casserres",
+    "coords": null,
+    "year": null,
+    "date_str": "127",
+    "is_approximate": true,
+    "description": "Titulus Header: Casserres"
+  }
+]

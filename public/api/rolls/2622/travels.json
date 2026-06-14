@@ -1,0 +1,25 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 679,
+    "date_str": "679",
+    "is_approximate": false,
+    "description": "Origin: 10..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "@ 1 78 E 48 ! 8 @ 1 9 1 1 \u20ac 1 2 1 \u00f1 3 1 \u20ac 8 1 31 J 8 1 L F 1",
+    "coords": null,
+    "year": 679,
+    "date_str": "679",
+    "is_approximate": true,
+    "description": "Titulus Header: @ 1 78 E 48 ! 8 @ 1 9 1 1 \u20ac 1 2 1 \u00f1 3 1 \u20ac 8 1 31 J 8 1 L F 1"
+  }
+]

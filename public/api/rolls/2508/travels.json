@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Tongeren, Belgium",
+    "coords": [
+      50.7833,
+      5.4667
+    ],
+    "year": 859,
+    "date_str": "[859]",
+    "is_approximate": false,
+    "description": "Origin: N? 21 Franco Tungrensis episcopus. Agius Aureliano..."
+  }
+]

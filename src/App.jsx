@@ -63,7 +63,7 @@ const RangeSlider = ({ min, max, value, onChange }) => {
         value={lower}
         onChange={handleLowerChange}
         className="range-input"
-        style={{ zIndex: lower > (max - min) / 2 ? 5 : 4 }}
+        style={{ zIndex: lower > max - (max - min) / 10 ? 5 : 4 }}
       />
       <input
         type="range"
@@ -72,7 +72,7 @@ const RangeSlider = ({ min, max, value, onChange }) => {
         value={upper}
         onChange={handleUpperChange}
         className="range-input"
-        style={{ zIndex: 4 }}
+        style={{ zIndex: upper < min + (max - min) / 10 ? 5 : 3 }}
       />
     </div>
   );

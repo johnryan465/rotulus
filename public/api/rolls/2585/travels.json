@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Corbie Abbey, France",
+    "coords": [
+      49.9085,
+      2.5089
+    ],
+    "year": 1106,
+    "date_str": "S.d. [1106 ou peu apr\u00e8s]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) de Foulques, abb\u00e9..."
+  }
+]

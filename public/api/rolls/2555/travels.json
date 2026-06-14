@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Sion, Switzerland",
+    "coords": [
+      46.233,
+      7.36
+    ],
+    "year": null,
+    "date_str": "209",
+    "is_approximate": false,
+    "description": "Origin: prioris fungendo, ardebat in domo Domini venerabil..."
+  }
+]
