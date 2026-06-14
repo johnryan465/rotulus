@@ -326,6 +326,15 @@ def export_data():
     with open(os.path.join(OUTPUT_DIR, "rolls.json"), "w") as f:
         json.dump(rolls_with_stops, f, indent=2)
 
+    # Export CSV version for researchers
+    import csv
+    if rolls_with_stops:
+        keys = rolls_with_stops[0].keys()
+        with open(os.path.join(OUTPUT_DIR, "rolls.csv"), "w", newline="", encoding='utf-8') as f:
+            writer = csv.DictWriter(f, fieldnames=keys)
+            writer.writeheader()
+            writer.writerows(rolls_with_stops)
+
     with open(os.path.join(OUTPUT_DIR, "travels.json"), "w") as f:
         json.dump(all_travels, f, indent=2)
 

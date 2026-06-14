@@ -243,8 +243,8 @@ export default function App() {
             </button>
           ))}
         </div>
-        <button className="tab-btn" onClick={() => window.open('/rotulus/api/rolls.json', '_blank')}>
-          <Download size={16} /> JSON
+        <button className="tab-btn" onClick={() => window.open('/rotulus/api/rolls.csv', '_blank')}>
+          <Download size={16} /> CSV
         </button>
       </div>
 
