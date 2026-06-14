@@ -61,10 +61,22 @@ export default function App() {
   const fetchRolls = async (query = '') => {
     setLoading(true);
     try {
-      const url = query ? `/api/rolls?q=${encodeURIComponent(query)}` : '/api/rolls';
+      // In production, we fetch all rolls and filter client-side
+      const isProd = import.meta.env.PROD;
+      const url = getApiUrl('/api/rolls');
       const res = await fetch(url);
       const data = await res.json();
-      setRolls(data);
+      
+      let filteredData = data;
+      if (isProd && query) {
+        const q = query.toLowerCase();
+        filteredData = data.filter(r => 
+          (r.title && r.title.toLowerCase().includes(q)) ||
+          (r.roll_num && r.roll_num.toString().includes(q)) ||
+          (r.date_str && r.date_str.toLowerCase().includes(q))
+        );
+      }
+      setRolls(filteredData);
       
       // Calculate stats
       const total = data.length;
@@ -96,7 +108,7 @@ export default function App() {
     const fetchTravels = async () => {
       try {
         if (mapRollId === 'all') {
-          const res = await fetch(`/rotulus/api/travels.json`);
+          const res = await fetch(getApiUrl(`/api/travels`));
           const data = await res.json();
           setAllTravelsData(data);
 
@@ -179,7 +191,7 @@ export default function App() {
             }
           }, 100);
         } else {
-          const res = await fetch(`/api/rolls/${mapRollId}/travels`);
+          const res = await fetch(getApiUrl(`/api/rolls/${mapRollId}/travels`));
           const data = await res.json();
           setTravelPath(data);
 
@@ -280,7 +292,7 @@ export default function App() {
         const matchedTitulus = rollDetail.tituli.find(t => t.pdf_page === Number(activePage)) || rollDetail.tituli[0];
         const half = matchedTitulus ? matchedTitulus.pdf_half : 'left';
         
-        const res = await fetch(`/api/image/${pdfIdx}/${activePage}/${half}/bounds`);
+        const res = await fetch(getApiUrl(`/api/image/${pdfIdx}/${activePage}/${half}/bounds`));
         const data = await res.json();
         setPageBounds(data);
       } catch (e) {
@@ -294,7 +306,7 @@ export default function App() {
   // Fetch detailed roll info
   const fetchRollDetail = async (id) => {
     try {
-      const res = await fetch(`/api/rolls/${id}`);
+      const res = await fetch(getApiUrl(`/api/rolls/${id}`));
       const data = await res.json();
       setRollDetail(data);
     } catch (e) {
@@ -316,7 +328,7 @@ export default function App() {
   const handleSaveRollMetadata = async () => {
     if (!rollDetail) return;
     try {
-      const res = await fetch(`/api/rolls/${rollDetail.roll.id}`, {
+      const res = await fetch(getApiUrl(`/api/rolls/${rollDetail.roll.id}`), {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -337,7 +349,7 @@ export default function App() {
 
   const handleSaveTitulus = async (tit_id, title, latin_text) => {
     try {
-      const res = await fetch(`/api/tituli/${tit_id}`, {
+      const res = await fetch(getApiUrl(`/api/tituli/${tit_id}`), {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ title, latin_text })
@@ -352,7 +364,7 @@ export default function App() {
 
   const handleSaveEntity = async (ent_id, ent_data) => {
     try {
-      const res = await fetch(`/api/entities/${ent_id}`, {
+      const res = await fetch(getApiUrl(`/api/entities/${ent_id}`), {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -373,7 +385,7 @@ export default function App() {
   // Toggle Verification
   const handleToggleVerify = async (id) => {
     try {
-      const res = await fetch(`/api/rolls/${id}/verify`, { method: 'POST' });
+      const res = await fetch(getApiUrl(`/api/rolls/${id}/verify`), { method: 'POST' });
       const data = await res.json();
       if (rollDetail && rollDetail.roll.id === id) {
         setRollDetail(prev => ({
@@ -464,7 +476,7 @@ export default function App() {
 
         {/* Progress Card */}
         <div className="glass-panel" style={{ padding: '16px', background: 'rgba(255,255,255,0.02)', fontSize: '13px' }}>
-          <div style={{ display: 'flex', justifyContent: 'between', marginBottom: '8px', justifyContent: 'space-between' }}>
+          <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px' }}>
             <span style={{ color: 'var(--text-secondary)' }}>Verification Progress</span>
             <span style={{ fontWeight: 'bold' }}>{stats.percent}%</span>
           </div>
