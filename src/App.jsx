@@ -1,7 +1,6 @@
-import React, { useState, useEffect, useRef, useCallback } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { 
-  Database, Search, Download, BookOpen, ChevronRight, 
-  MapPin, Edit3, Save, Check, X, Menu
+  Download, BookOpen, ChevronRight
 } from 'lucide-react';
 import RangeSlider from './RangeSlider';
 import './App.css';
@@ -36,7 +35,6 @@ export default function App() {
   
   const [selectedRollId, setSelectedRollId] = useState(null);
   const [rollDetail, setRollDetail] = useState(null);
-  const [isEditing, setIsEditing] = useState(false);
   
   // Map Refs & State
   const mapInstanceRef = useRef(null);
@@ -50,8 +48,77 @@ export default function App() {
 
   // Verification & Dashboard State
   const [activeVerificationIndex, setActiveVerificationIndex] = useState(0);
-  const [zoomLevel, setZoomLevel] = useState(1);
+  const [zoomLevel] = useState(1);
   const [stats, setStats] = useState({ total: 0, verified: 0, unverified: 0, percent: 0 });
+
+  // Hoisted Functions
+  const fetchRollDetail = async (id) => {
+    try {
+      const res = await fetch(getApiUrl(`/api/rolls/${id}`));
+      const data = await res.json();
+      setRollDetail(data);
+    } catch (e) { console.error("Failed to fetch roll detail:", e); }
+  };
+
+  const handleSelectRoll = (id) => {
+    setSelectedRollId(id);
+    setRollDetail(null);
+    fetchRollDetail(id);
+  };
+
+  const fetchRolls = async (query = '') => {
+    setLoading(true);
+    try {
+      const isProd = import.meta.env.PROD;
+      const res = await fetch(getApiUrl('/api/rolls'));
+      const data = await res.json();
+      
+      let filteredData = data;
+      if (isProd && query) {
+        const q = query.toLowerCase();
+        filteredData = data.filter(r => 
+          (r.title && r.title.toLowerCase().includes(q)) ||
+          (r.roll_num && r.roll_num.toString().includes(q)) ||
+          (r.date_str && r.date_str.toLowerCase().includes(q))
+        );
+      }
+      setRolls(filteredData);
+      const total = data.length;
+      const verified = data.filter(r => r.is_verified).length;
+      setStats({ total, verified, unverified: total - verified, percent: total > 0 ? Math.round((verified / total) * 100) : 0 });
+    } catch (e) { console.error("Failed to fetch rolls:", e); } finally { setLoading(false); }
+  };
+
+  const handleToggleVerify = async (id) => {
+    try {
+      const res = await fetch(getApiUrl(`/api/rolls/${id}/verify`), { method: 'POST' });
+      const data = await res.json();
+      if (rollDetail && rollDetail.roll.id === id) {
+        setRollDetail(prev => ({ ...prev, roll: { ...prev.roll, is_verified: data.is_verified } }));
+      }
+      fetchRolls();
+    } catch (e) { console.error("Failed to toggle verification:", e); }
+  };
+
+  // Effects
+  useEffect(() => { 
+    fetchRolls(); 
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  useEffect(() => {
+    if (activeTab === 'map' && rolls.length > 0 && !mapRollId) setMapRollId('all');
+  }, [activeTab, rolls, mapRollId]);
+
+  useEffect(() => {
+    window.gotoRoll = (id) => {
+      if (!id) return;
+      handleSelectRoll(Number(id));
+      setActiveTab('explorer');
+    };
+    return () => { delete window.gotoRoll; };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [rolls]);
 
   // Initialize Map Once
   useEffect(() => {
@@ -90,7 +157,6 @@ export default function App() {
             const minYear = Math.min(...allYears);
             const maxYear = Math.max(...allYears);
             setAvailableYearRange([minYear, maxYear]);
-            // Only sync if way out of bounds
             setYearFilter(prev => {
               if (prev[0] < minYear || prev[1] > maxYear) {
                 return [Math.max(minYear, prev[0]), Math.min(maxYear, prev[1])];
@@ -103,12 +169,13 @@ export default function App() {
           const data = await res.json();
           setTravelPath(data);
         }
-      } catch (e) { console.error(e); }
+      } catch (e) { console.error("Failed to fetch travels:", e); }
     };
     fetchTravels();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [mapRollId]);
 
-  // Update Map Layers (No more fetching here!)
+  // Update Map Layers
   useEffect(() => {
     if (!mapLayersRef.current || !window.L) return;
     mapLayersRef.current.clearLayers();
@@ -153,7 +220,6 @@ export default function App() {
             <div style="font-family: 'Calibri', 'Candara', 'Segoe UI', 'Optima', 'Arial', sans-serif; padding: 4px; min-width: 150px;">
               <h4 style="margin: 0; color: ${color}; font-weight: bold;">Roll N° ${rInfo.roll_num}</h4>
               <div style="font-size: 13px; margin: 4px 0;">${isOrigin ? '🚩 Origin' : `📍 Stop ${index}`}: <b>${loc.name}</b></div>
-              <div style="font-size: 12px; color: #666; margin-bottom: 8px;">${loc.date_str || ''}</div>
               <button onclick="window.gotoRoll('${rId}')" style="background: var(--primary); color: white; border: none; padding: 6px; cursor: pointer; width: 100%; border-radius: 2px;">View Scroll Details</button>
             </div>
           `);
@@ -172,11 +238,11 @@ export default function App() {
       }
     }
 
-    // Centering Logic: Only re-center if the mapRollId has CHANGED
     if (allCoords.length > 0 && mapInstanceRef.current && lastFittedRollId.current !== mapRollId) {
       mapInstanceRef.current.fitBounds(window.L.latLngBounds(allCoords), { padding: [50, 50] });
       lastFittedRollId.current = mapRollId;
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [allTravelsData, travelPath, mapRollId, yearFilter, stopsFilter]);
 
   useEffect(() => {
@@ -186,32 +252,6 @@ export default function App() {
       }, 100);
     }
   }, [activeTab]);
-
-  const handleSelectRoll = (id) => {
-    setSelectedRollId(id);
-    setRollDetail(null); // Clear previous detail to show loading state
-    fetchRollDetail(id);
-    setIsEditing(false);
-  };
-
-  const fetchRollDetail = async (id) => {
-    try {
-      const res = await fetch(getApiUrl(`/api/rolls/${id}`));
-      const data = await res.json();
-      setRollDetail(data);
-    } catch (e) { console.error(e); }
-  };
-
-  const handleToggleVerify = async (id) => {
-    try {
-      const res = await fetch(getApiUrl(`/api/rolls/${id}/verify`), { method: 'POST' });
-      const data = await res.json();
-      if (rollDetail && rollDetail.roll.id === id) {
-        setRollDetail(prev => ({ ...prev, roll: { ...prev.roll, is_verified: data.is_verified } }));
-      }
-      fetchRolls();
-    } catch (e) { console.error(e); }
-  };
 
   return (
     <div className="main-container">
@@ -302,23 +342,36 @@ export default function App() {
 
           <div style={{ display: activeTab === 'verification' ? 'flex' : 'none', flexDirection: 'column', gap: '24px', height: '100%' }}>
             {rollDetail && (
-              <div style={{ display: 'grid', gridTemplateColumns: '1.2fr 1fr', gap: '20px', flex: 1, overflow: 'hidden' }}>
-                <div className="glass-panel" style={{ overflow: 'auto', background: '#000' }}>
-                   {(() => {
-                      const pdfIdx = rollDetail.roll.pdf_source.match(/\((\d+)\)/)?.[1] || 1;
-                      const pages = rollDetail.roll.pdf_pages.split(',');
-                      const p = pages[activeVerificationIndex]?.trim() || '3';
-                      return <img src={`/api/image/${pdfIdx}/${p}/left`} style={{ transform: `scale(${zoomLevel})`, transformOrigin: 'top left', maxWidth: 'none' }} />;
-                   })()}
+              <>
+                <div style={{ display: 'grid', gridTemplateColumns: '1.2fr 1fr', gap: '20px', flex: 1, overflow: 'hidden' }}>
+                  <div className="glass-panel" style={{ overflow: 'auto', background: '#000' }}>
+                    {(() => {
+                        const pdfIdx = rollDetail.roll.pdf_source.match(/\((\d+)\)/)?.[1] || 1;
+                        const pages = rollDetail.roll.pdf_pages.split(',');
+                        const p = pages[activeVerificationIndex]?.trim() || '3';
+                        return <img src={`/api/image/${pdfIdx}/${p}/left`} style={{ transform: `scale(${zoomLevel})`, transformOrigin: 'top left', maxWidth: 'none' }} alt="manuscript" />;
+                    })()}
+                  </div>
+                  <div className="glass-panel" style={{ padding: '24px', overflowY: 'auto' }}>
+                    <h3>Transcripts & Footnotes</h3>
+                    {rollDetail.tituli.map(t => <textarea key={t.id} className="search-input" style={{ height: '200px', marginBottom: '20px', fontStyle: 'italic' }} defaultValue={t.latin_text} />)}
+                    <button className="tab-btn active" style={{ width: '100%' }} onClick={() => handleToggleVerify(rollDetail.roll.id)}>
+                      {rollDetail.roll.is_verified ? 'Verified' : 'Approve & Save Changes'}
+                    </button>
+                  </div>
                 </div>
-                <div className="glass-panel" style={{ padding: '24px', overflowY: 'auto' }}>
-                  <h3>Transcripts & Footnotes</h3>
-                  {rollDetail.tituli.map(t => <textarea key={t.id} className="search-input" style={{ height: '200px', marginBottom: '20px', fontStyle: 'italic' }} defaultValue={t.latin_text} />)}
-                  <button className="tab-btn active" style={{ width: '100%' }} onClick={() => handleToggleVerify(rollDetail.roll.id)}>
-                    {rollDetail.roll.is_verified ? 'Verified' : 'Approve & Save Changes'}
-                  </button>
+                <div style={{ display: 'flex', gap: '8px', justifyContent: 'center', marginTop: '16px' }}>
+                  {rollDetail.roll.pdf_pages.split(',').map((p, i) => (
+                    <button 
+                      key={i} 
+                      className={`tab-btn ${activeVerificationIndex === i ? 'active' : ''}`} 
+                      onClick={() => setActiveVerificationIndex(i)}
+                    >
+                      Page {p.trim()}
+                    </button>
+                  ))}
                 </div>
-              </div>
+              </>
             )}
           </div>
 
@@ -335,14 +388,14 @@ export default function App() {
               <div style={{ display: 'flex', gap: '24px', flexWrap: 'wrap' }}>
                 <div className="glass-panel" style={{ padding: '16px 24px', flex: 1, minWidth: '300px' }}>
                   <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px' }}>
-                    <span style={{ fontFamily: 'Cinzel', fontWeight: 'bold' }}>Time Range: {yearFilter[0]} – {yearFilter[1]}</span>
+                    <span style={{ fontFamily: 'Calibri', fontWeight: 'bold' }}>Time Range: {yearFilter[0]} – {yearFilter[1]}</span>
                     <button className="tab-btn" style={{ padding: '2px 8px' }} onClick={() => setYearFilter(availableYearRange)}>Reset</button>
                   </div>
                   <RangeSlider min={availableYearRange[0]} max={availableYearRange[1]} value={yearFilter} onChange={setYearFilter} />
                 </div>
                 <div className="glass-panel" style={{ padding: '16px 24px', width: '250px' }}>
                   <div style={{ display: 'flex', justifyContent: 'space-between' }}><span>Min. Stops</span><span className="rubric">{stopsFilter}+</span></div>
-                  <input type="range" min="0" max="20" value={stopsFilter} onChange={e => setStopsFilter(Number(e.target.value))} style={{ width: '100%', accentColor: 'var(--accent)' }} />
+                  <input type="range" min="0" max="20" value={stopsFilter} onChange={e => setStopsFilter(Number(e.target.value))} style={{ width: '100%', accentColor: 'var(--primary)' }} />
                 </div>
               </div>
             )}
@@ -350,10 +403,10 @@ export default function App() {
 
             {mapRollId === 'all' && (
               <div className="glass-panel" style={{ padding: '24px' }}>
-                <h3 style={{ marginBottom: '16px', fontFamily: 'Cinzel', fontSize: '18px' }}>Filtered Catalogue</h3>
+                <h3 style={{ marginBottom: '16px', fontSize: '18px' }}>Filtered Catalogue</h3>
                 <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '12px' }}>
                   {Object.entries(allTravelsData)
-                    .filter(([id, r]) => {
+                    .filter(([, r]) => {
                       if (r.year && (r.year < yearFilter[0] || r.year > yearFilter[1])) return false;
                       if (r.num_stops < stopsFilter) return false;
                       return true;
