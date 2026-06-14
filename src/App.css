@@ -1,202 +1,104 @@
-/* Historical & Scholarly Theme for Rotulus */
-
-:root {
-  --ink: #1a1a1a;
-  --paper: #f4ecd8;
-  --paper-dark: #e8dfc4;
-  --primary: #8b0000; /* Deep Blood Red / Rubric */
-  --primary-hover: #a52a2a;
-  --accent: #b8860b; /* Dark Goldenrod / Gold leaf */
-  --border: rgba(0, 0, 0, 0.15);
-  --text: #2c2c2c;
-  --text-muted: #5a5a5a;
-  --header-height: 70px;
-  --sidebar-width: 340px;
-  
-  /* Texture - subtle parchment grain */
-  --paper-texture: url("https://www.transparenttextures.com/patterns/papyrus.png");
+/* Dual Range Slider - Final Robust Implementation */
+.range-container {
+  position: relative;
+  width: 100%;
+  height: 20px;
+  margin: 15px 0;
 }
 
-body {
+.range-track {
+  position: absolute;
+  width: 100%;
+  height: 6px;
+  background: var(--paper-dark);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  top: 7px; /* (20 - 6) / 2 */
+  z-index: 1;
+}
+
+.range-highlight {
+  position: absolute;
+  height: 6px;
+  background: var(--primary);
+  border-radius: 3px;
+  top: 7px;
+  z-index: 2;
+}
+
+.range-input {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  height: 20px;
+  background: none;
+  pointer-events: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  z-index: 3;
   margin: 0;
   padding: 0;
-  background-color: var(--paper-dark);
-  background-image: var(--paper-texture);
-  color: var(--text);
-  font-family: 'EB Garamond', serif;
-  font-size: 18px;
-  -webkit-font-smoothing: antialiased;
 }
 
-h1, h2, h3, h4 {
-  font-family: 'Cinzel', serif;
-  color: var(--ink);
-  letter-spacing: 0.02em;
-}
-
-/* Scholarly Panel */
-.glass-panel {
-  background: var(--paper);
-  background-image: var(--paper-texture);
-  border: 1px solid var(--border);
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-  border-radius: 4px; /* More rigid, book-like corners */
-}
-
-.main-container {
-  display: flex;
-  flex-direction: column;
-  height: 100vh;
-  width: 100%;
-  overflow: hidden;
-}
-
-/* Header */
-.top-nav {
-  height: var(--header-height);
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0 24px;
-  border-bottom: 2px solid var(--primary);
-  background: var(--paper);
-  background-image: var(--paper-texture);
-  flex-shrink: 0;
-  z-index: 50;
-}
-
-.logo-section {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-}
-
-.logo-icon {
-  color: var(--primary);
-  width: 32px;
-  height: 32px;
-}
-
-.logo-text {
-  font-family: 'MedievalSharp', cursive;
-  font-weight: 700;
-  font-size: 1.6rem;
-  color: var(--primary);
-}
-
-/* Sidebar / Roll List */
-.sidebar {
-  width: var(--sidebar-width);
-  border-right: 1px solid var(--border);
-  display: flex;
-  flex-direction: column;
-  background: var(--paper-dark);
-  background-image: var(--paper-texture);
-  transition: transform 0.3s ease;
-  z-index: 40;
-}
-
-.search-container {
-  padding: 20px;
-  border-bottom: 1px solid var(--border);
-}
-
-.search-input {
-  width: 100%;
-  background: #fff;
-  border: 1px solid var(--accent);
-  border-radius: 2px;
-  padding: 10px 12px 10px 40px;
-  color: var(--ink);
-  font-family: 'EB Garamond', serif;
-  font-size: 1.1rem;
-  box-sizing: border-box;
-}
-
-.search-icon {
-  position: absolute;
-  left: 32px;
-  top: 50%;
-  transform: translateY(-50%);
-  color: var(--accent);
-}
-
-.roll-list {
-  flex-grow: 1;
-  overflow-y: auto;
-  padding: 12px;
-}
-
-.roll-item {
-  padding: 16px;
-  border-radius: 2px;
-  margin-bottom: 8px;
+/* Chrome/Safari */
+.range-input::-webkit-slider-thumb {
+  pointer-events: auto;
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--primary);
   cursor: pointer;
-  transition: all 0.2s;
-  border: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.3);
+  border: 2px solid #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  margin-top: 0; /* Reset */
 }
 
-.roll-item:hover {
-  background: rgba(255, 255, 255, 0.6);
-  border-color: var(--accent);
+/* Firefox */
+.range-input::-moz-range-thumb {
+  pointer-events: auto;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--primary);
+  cursor: pointer;
+  border: 2px solid #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  border: none; /* Firefox specific fix */
 }
 
-.roll-item.active {
-  background: var(--paper);
-  border-color: var(--primary);
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+/* Ensure the thumb is above the track for interaction */
+.range-input:active {
+  z-index: 10;
 }
 
-.roll-item .roll-num {
-  font-family: 'Cinzel', serif;
+/* Map Styling */
+#map-container {
+  height: 700px;
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: #0f172a; 
+}
+
+/* Utility */
+.rubric {
+  color: var(--primary);
   font-weight: bold;
-  color: var(--primary);
-  margin-bottom: 4px;
 }
 
-/* Main View */
-.viewer-pane {
-  flex-grow: 1;
-  overflow-y: auto;
-  padding: 32px;
-  display: flex;
-  flex-direction: column;
-  gap: 32px;
+.gold-leaf {
+  color: var(--accent);
+  font-weight: bold;
 }
 
-/* Tabs */
-.tabs-nav {
-  display: flex;
-  gap: 8px;
-  padding-bottom: 2px;
-  border-bottom: 1px solid var(--border);
-  width: 100%;
-}
+/* Custom Scrollbar (Ink on Parchment) */
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: var(--paper-dark); }
+::-webkit-scrollbar-thumb { background: var(--ink); border: 3px solid var(--paper-dark); }
+::-webkit-scrollbar-thumb:hover { background: var(--primary); }
 
-.tab-btn {
-  padding: 10px 24px;
-  font-family: 'Cinzel', serif;
-  font-size: 0.9rem;
-  font-weight: 700;
-  cursor: pointer;
-  border: 1px solid transparent;
-  background: transparent;
-  color: var(--text-muted);
-  transition: all 0.2s;
-  position: relative;
-  top: 1px;
-}
-
-.tab-btn.active {
-  background: var(--paper);
-  border: 1px solid var(--border);
-  border-bottom-color: var(--paper);
-  color: var(--primary);
-  border-top: 3px solid var(--primary);
-}
-
-/* Content Rendering */
 .latin-text {
   font-family: 'EB Garamond', serif;
   font-size: 1.25rem;
@@ -227,92 +129,121 @@ h1, h2, h3, h4 {
   margin-right: 8px;
 }
 
-/* Map Styling */
-#map-container {
-  height: 700px;
+/* Sidebar and Main Structure */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
   width: 100%;
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  background: #0f172a; /* Dark base for map */
+  overflow: hidden;
 }
 
-/* Dual Range Slider - Professional Overlay Implementation */
-.range-container {
-  position: relative;
-  width: 100%;
-  height: 40px;
+.top-nav {
+  height: 70px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  border-bottom: 2px solid var(--primary);
+  background: var(--paper);
+  background-image: var(--paper-texture);
+  flex-shrink: 0;
+  z-index: 50;
 }
 
-.range-track {
-  position: absolute;
-  width: 100%;
-  height: 6px;
-  background: var(--paper-dark);
-  border: 1px solid var(--border);
-  border-radius: 3px;
-  z-index: 1;
-}
-
-.range-highlight {
-  position: absolute;
-  height: 6px;
-  background: var(--primary);
-  z-index: 2;
-  border-radius: 3px;
-}
-
-.range-input {
-  position: absolute;
-  width: 100%;
-  background: none;
-  pointer-events: none;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
-  z-index: 3;
-  margin: 0;
-  height: 6px;
-}
-
-.range-input::-webkit-slider-thumb {
-  pointer-events: auto;
-  -webkit-appearance: none;
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  background: var(--primary);
-  cursor: pointer;
-  border: 2px solid #fff;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
-  margin-top: 0;
-}
-
-.range-input::-moz-range-thumb {
-  pointer-events: auto;
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  background: var(--primary);
-  cursor: pointer;
-  border: 2px solid #fff;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
-}
-
-/* Utility */
-.rubric {
+.logo-text {
+  font-family: 'MedievalSharp', cursive;
+  font-weight: 700;
+  font-size: 1.6rem;
   color: var(--primary);
-  font-weight: bold;
 }
 
-.gold-leaf {
-  color: var(--accent);
-  font-weight: bold;
+.content-area {
+  display: flex;
+  flex-grow: 1;
+  overflow: hidden;
+  position: relative;
 }
 
-/* Custom Scrollbar (Ink on Parchment) */
-::-webkit-scrollbar { width: 10px; }
-::-webkit-scrollbar-track { background: var(--paper-dark); }
-::-webkit-scrollbar-thumb { background: var(--ink); border: 3px solid var(--paper-dark); }
-::-webkit-scrollbar-thumb:hover { background: var(--primary); }
+.sidebar {
+  width: 340px;
+  border-right: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  background: var(--paper-dark);
+  background-image: var(--paper-texture);
+  transition: transform 0.3s ease;
+  z-index: 40;
+}
+
+.viewer-pane {
+  flex-grow: 1;
+  overflow-y: auto;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.glass-panel {
+  background: var(--paper);
+  background-image: var(--paper-texture);
+  border: 1px solid var(--border);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+
+.tab-btn {
+  padding: 10px 24px;
+  font-family: 'Cinzel', serif;
+  font-size: 0.9rem;
+  font-weight: 700;
+  cursor: pointer;
+  border: 1px solid transparent;
+  background: transparent;
+  color: var(--text-muted);
+  transition: all 0.2s;
+}
+
+.tab-btn.active {
+  background: var(--paper);
+  border: 1px solid var(--border);
+  border-bottom-color: var(--paper);
+  color: var(--primary);
+  border-top: 3px solid var(--primary);
+}
+
+.roll-item {
+  padding: 16px;
+  border-radius: 2px;
+  margin-bottom: 8px;
+  cursor: pointer;
+  transition: all 0.2s;
+  border: 1px solid transparent;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.roll-item.active {
+  background: var(--paper);
+  border-color: var(--primary);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.roll-num {
+  font-family: 'Cinzel', serif;
+  font-weight: bold;
+  color: var(--primary);
+  margin-bottom: 4px;
+}
+
+.search-input {
+  width: 100%;
+  background: #fff;
+  border: 1px solid var(--accent);
+  border-radius: 2px;
+  padding: 10px 12px 10px 40px;
+  color: var(--ink);
+  font-family: 'EB Garamond', serif;
+  font-size: 1.1rem;
+  box-sizing: border-box;
+}
