@@ -439,13 +439,13 @@ def extract_entities(titulus, footnotes):
             # Titles: Évêque, Abbé, Comte, Prieur, Doyen, Monastère, Église, Diocèse, etc.
             titles_pattern = r'\b(?:[eéEÉ]v[eêê]?que|[aA]bb[eéE]|episcopus|episcopo|monasterio|monasterii|ecclesia|ecclesie|prior|comte|dux|duch[eé]|diocese|dioc[eè]se|archiepiscopus|archidiaconus|decanus|canonicus)\s+(?:de\s+|d\'|in\s+)?([A-Z][a-zA-ZÀ-ÿ\-\s]{2,30}?)(?:\b|\s*\(|\s*;|\s*,|\s*$)'
             loc_match = re.search(titles_pattern, fn_cleaned, re.IGNORECASE)
-            
+
             if loc_match:
                 extracted = loc_match.group(1).strip()
                 # Remove common trailing noise/phrases
                 extracted = re.split(r'\b(?:cité|dans|qui|selon|ou|et|cf|au|du|en|le|la|les|un|une)\b', extracted, flags=re.IGNORECASE)[0].strip()
                 loc_name = extracted.strip(".,;()- ")
-            
+
             # Fallback/Validation: If no match or match is noise, check for direct mention of KNOWN_LOCATIONS
             if not loc_name or loc_name.lower() in {"la", "par", "le", "de"}:
                 for word in re.findall(r'\b[A-Za-zÀ-ÿ\-]{3,}\b', fn_cleaned):

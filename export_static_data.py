@@ -307,7 +307,7 @@ def get_roll_travels(conn, roll_id):
                         "description": f"Visited: {ent['normalized_name']} ({ent['normalized_role']})"
                     })
                     step += 1
-                    
+
     return travels
 
 def export_data():

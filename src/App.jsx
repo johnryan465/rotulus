@@ -164,7 +164,7 @@ export default function App() {
             let colorIdx = 0;
             const allCoords = [];
 
-            Object.entries(data).forEach(([_, rInfo]) => {
+            Object.values(data).forEach((rInfo) => {
               // Time Filter
               if (rInfo.year && (rInfo.year < yearFilter[0] || rInfo.year > yearFilter[1])) return;
               const rollTravels = rInfo.travels;
@@ -185,9 +185,9 @@ export default function App() {
               }
 
               rollTravels.forEach((loc, index) => {
-                if (!loc.coords) return; 
+                if (!loc.coords) return;
                 const isOrigin = loc.type === 'origin';
-                
+
                 if (loc.is_approximate) {
                   // Render as Uncertainty Circle
                   window.L.circle(loc.coords, {
@@ -1121,18 +1121,18 @@ export default function App() {
                 <div style={{ flex: 1, maxWidth: '400px', padding: '0 24px' }}>
                   <div className="flex-between" style={{ marginBottom: '8px' }}>
                     <span style={{ fontSize: '12px', fontWeight: 'bold' }}>Time Filter: {yearFilter[0]} – {yearFilter[1]}</span>
-                    <button 
+                    <button
                       onClick={() => setYearFilter([availableYearRange[0], availableYearRange[1]])}
                       style={{ fontSize: '10px', background: 'transparent', border: 'none', color: 'var(--primary)', cursor: 'pointer' }}
                     >
                       Reset
                     </button>
                   </div>
-                  <input 
-                    type="range" 
-                    min={availableYearRange[0]} 
-                    max={availableYearRange[1]} 
-                    value={yearFilter[1]} 
+                  <input
+                    type="range"
+                    min={availableYearRange[0]}
+                    max={availableYearRange[1]}
+                    value={yearFilter[1]}
                     onChange={e => setYearFilter([yearFilter[0], Number(e.target.value)])}
                     style={{ width: '100%', accentColor: 'var(--primary)' }}
                   />

@@ -50,7 +50,7 @@ def find_split_point(img):
                 min_mean = m
                 line_y = y
     if line_y is not None: return line_y
-    
+
     bright_rows = []
     for y in range(start_y, end_y):
         row = binary_arr[y, int(0.2*w):int(0.8*w)]
@@ -116,7 +116,7 @@ def process_sub_image(img, pdf_idx, page_num, half, region_type, offset_x=0, off
     results_text = []
     conn = sqlite3.connect(os.path.join(WORKSPACE, "rolls.db"))
     cursor = conn.cursor()
-    
+
     # DocTR output: data['pages'][0]['blocks']...
     for page in data.get('pages', []):
         page_w, page_h = img.size
@@ -124,24 +124,24 @@ def process_sub_image(img, pdf_idx, page_num, half, region_type, offset_x=0, off
             for line in block.get('lines', []):
                 line_text = " ".join([w['value'] for w in line.get('words', [])])
                 results_text.append(line_text)
-                
+
                 # Get line-level bounding box (DocTR words have geometry [[x_min, y_min], [x_max, y_max]])
                 # Geometry is relative (0 to 1)
                 all_words = line.get('words', [])
                 if not all_words: continue
-                
+
                 x_min = min(w['geometry'][0][0] for w in all_words) * page_w + offset_x
                 y_min = min(w['geometry'][0][1] for w in all_words) * page_h + offset_y
                 x_max = max(w['geometry'][1][0] for w in all_words) * page_w + offset_x
                 y_max = max(w['geometry'][1][1] for w in all_words) * page_h + offset_y
-                
+
                 conf = sum(w['confidence'] for w in all_words) / len(all_words)
-                
+
                 cursor.execute("""
                 INSERT INTO spatial_regions (pdf_idx, page_num, half, region_type, x_min, y_min, x_max, y_max, text, confidence)
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """, (pdf_idx, page_num, half, region_type, int(x_min), int(y_min), int(x_max), int(y_max), line_text, conf))
-                
+
     conn.commit()
     conn.close()
     return "\n".join(results_text)

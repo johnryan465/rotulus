@@ -25,7 +25,7 @@ except Exception as e:
 async def perform_ocr(file: UploadFile = File(...)):
     contents = await file.read()
     img = Image.open(io.BytesIO(contents)).convert('RGB')
-    
+
     if model:
         img_arr = np.array(img)
         result = model([img_arr])
