@@ -2,13 +2,14 @@
   {
     "step": 0,
     "type": "origin",
-    "name": "Vatican City",
+    "name": "Reims, France",
     "coords": [
-      41.9022,
-      12.4539
+      49.2583,
+      4.0317
     ],
     "year": 1096,
     "date_str": "S.d. [1096, apr\u00e8s _ le 21 janvier]",
+    "is_approximate": false,
     "description": "Origin: Titres compos\u00e9s par Baudri de Bourgueil pour le ro..."
   }
 ]

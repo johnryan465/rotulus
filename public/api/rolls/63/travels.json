@@ -2,10 +2,14 @@
   {
     "step": 0,
     "type": "origin",
-    "name": "Formule",
-    "coords": null,
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
     "year": 1050,
     "date_str": "S.d. [XI s.]",
+    "is_approximate": false,
     "description": "Origin: 10 Formule anonyme dencyclique...."
   }
 ]

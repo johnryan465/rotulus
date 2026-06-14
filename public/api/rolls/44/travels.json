@@ -2,13 +2,14 @@
   {
     "step": 0,
     "type": "origin",
-    "name": "Ghent, Belgium",
+    "name": "Paris, France",
     "coords": [
-      51.0543,
-      3.7174
+      48.8566,
+      2.3522
     ],
     "year": null,
     "date_str": "54",
+    "is_approximate": false,
     "description": "Origin: S.d. [fin X? s] Encyclique ( fragmentaire ) r\u00e9dig\u00e9..."
   }
 ]

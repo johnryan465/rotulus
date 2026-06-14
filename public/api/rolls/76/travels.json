@@ -9,6 +9,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Origin: Echange de brefs annuels institu\u00e9 entre S. Pierre-..."
   },
   {
@@ -18,6 +19,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: T. Sancte Trinitatis Exaquii. Anima Vitalis et 0 f. d. z i. P 2 [3] S.d. Caen; S. \u00c9tienne. T: Sancti Stephani Cadomi. Anima ejus et a. 0 f.d..i: P Amen. Orate P. n; pro (5) et Guillelmo (6) , archiepiscopis Gisleberto Willelmo rege, pro Lanfranco Sur Lanfranc, pour lequel circula un rou- Ps., XVII, 26. leau mortuaire; cf. supra, p. 226, n\" 80. Cf. Phil , II, 21 Omnes enim quae sua (6) Sur Guillelmus  Bonne-\u00c2me, cf. supra, sunt quaerunt, non quae sunt Jesu Christi % CrGr\u00e9goire le Grand, Regula pastoralis, P. 364et n. 3. Sur ce personnage; cf. supra; p. 364 et n. 2 1,5 Sur ce personnage; cf. supra, P 397,n. 1."
   },
   {
@@ -27,6 +29,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: T. SANCTI AMANDI episcopi. Anima donni Vitalis abbatis requiescat i. P 20 Amen. Quod petitis vestris; eadem [vos] reddite nostris. donna Emma () abbatissa; Hatvidis (5) decana () Bensce- Orate p. n., scilicet Cecilia   cantrice Tola,   Beatris;   Emma,   Hodierna, Bonanata, lina decana"
   },
   {
@@ -36,15 +39,20 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: T. () Sancti Georgii Balcherii Ville. Anima Vitalis et a. 0. E. Dei d. z i. P. Amen. Willelmo laico () , Emma; Goisfredo, Rotbertus laicus, Herulfus laicus, Rotbertus laicus Adeliza, Genovefa."
   },
   {
     "step": 4,
     "type": "stop",
-    "name": "Victoris",
-    "coords": null,
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: T. Sancti Victoris Parisiensis. Anima ejus et anime 0 f. d. c i. p. Orate P. n. 46 [44] S.d.- Paris; S. Pierre, S. Paul, S. Genevi\u00e8ve. T. APOSTOLORUM PETRI ET PAULI ET BEATE GENOVEFE PARISIEN- SIS. Abbas () Vitalis vir vite spiritualis; 10 Quod laus mundana sit deceptoria, vana, Cognovit vere; nec eam curavit habere Sed suma (sic) cura resecare studens nocitura ; Fratres servabat presumentesque domabat Verberibus patris; gestans ubera matris; 15 Mitti parcebat, quem fomite lactis alebat. Vir talis, tantus, carnali mole solutus; Ante Dei faciem possideat requiem."
   },
   {
@@ -54,6 +62,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: T. () Sancte Marie Suessionensis eclesie. Anima donni Vitalis et a 0. {. defunto- rum (sic) I: i.P. Orate P. n. et nos oravimus p. Y Ermentrudis (1) abbatissa, 10 Ermengardis (2) abbatissa, Adelaidis abbatissa Eva, Wiveta, Ida, Oda, Gela, Landrada, Pontia, Ermentrudis, Berta, Norhildis, Odila, Gela, Petronilla, Ermena, Elisabet ."
   },
   {
@@ -63,6 +72,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: T. Sancte Marie de Teokesberia. Anima ejus et anime 0 \u00c9. d. c i. p. Orate p n. 85 [154] S.d.- Evesham; $. Mary- T. Sancte Marie Eoveshamnensis ecclesie  Anima ejus et anime 0 f. d. r.i. p Amen. Orate p. n. defunctis. Abbas (a) Vitalis doctrina spiritualis; 15 Multos instruxit, plures de morte reduxit Vita fuit dignissima, sic est mors pretiosa Sit diadema laborum cum sanctis speciosa. Amen."
   },
   {
@@ -72,6 +82,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: T. () 101 [196] Sancte S.d.- Marie Abingdon; S. Abbendonie- Mary. Vita brevis casusque _ Anima levis; Vitalis et a. 0. f.d. r. in Quanta nec spes remeandi pace Amen. seres; hinc tanta Plura feres. Sit seras; ut plura feras = cura parandi. Peniteat , ne non cum nil valeat seruisse tibi penituisse. priore \u00e9crit au-dessus du abr\u00e9g\u00e9, nom \u00e9crit au-dessus du nom pr\u00e9c\u00e9dent, 'pr\u00e9c\u00e9dent,  comne mnot est haute de 9 cm comnme au-dessus au-dessus du (e) et large nomn de 8 des suivant. (b) Matilda cmn . (d) noms monacha, regina ajout\u00e9 en interligne Offa rege, suivants. (9) \u00e9crit Aedgaro Linitiale de ce audessus du nom pr\u00e9c\u00e9dene;  comme Crispin = \u00e9crit rege en ajout\u00e9 en surmont\u00e9e dune croix. au-dessus interligne interligne. in pace ajout\u00e9 en des 5 noms suivants: (h) monacho; interligne. L abr\u00e9g\u00e9, 'initiale de ce mot est Abbesse de Barking; Knowles / Hadcock (Heads cil\u00e9e of par England and religious houses: Sur ce Wales; p. 208) de 1066 \u00e0 1087. Sur personnage, Offa, Ce cf. personnage, supra, roi de Mercic (757-796) . Moine cf. P. 397, n. 2 Edgar T9r, roi d du supra, Angleterre Westminster Bec-Hellouin, P. 420, n. 6 (959.975) . Sur ce personnage, cf. Hadcock, (1085-1117/1118) puis   abb\u00e9 de supra, p. 420, n. 4. and Heads Wales; of religious cf, Knowles/ p. 77. houses. England"
   },
   {
@@ -81,6 +92,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: T. @) Sancte Trinitatis et Sancte Marie Egneshamnie   Anima ejus et animg 0. f. d. r.i. p. Amen. 10 Non condemnatur cujus bona vita probatur: Immo salvatur cujus pia vita probatur; Abbas Vitalis vir vite spiritualis. Hic sancte vixit, nunc cum Domino requiescit. (c) Columbano abbate (d) - Toma  priore; Fulcone monacho () _ 15 Orate p n., monacho; Rogerio laico (f) Willelmo Aethelmaro   laico; Martino monacho; Willelmo et aliis, quorum scit Deus nomina. 103 [198] S.d.- Oxford, Holy Trinity, S. Frideswide: [XV] (g) Sancte Trinitatis et Sancte Fridesvide Oxinefordensis. Anima ejus [TJitulus Concedimus ei fraternitatem et benefi- 20 et anime 0 f. d., per m. D., r. i. p. Amen. cium loci nostri. Cui %) deservisti, Vitalis, eum meruisti; Regi mortali non, immo perpetuali, captivata manebat, Qui pro plebe sua, que 25 ad Tartara dira trahebat, Quam cupidus serpens noctis habebat, Quatinus eriperet quos carcer de celo, veniens in ventre puelle; Lapsus (b) Linitiale de ce vers de la premi\u00e8re pi\u00e8ce de vers. alterius \u00e9crit \u00e0 droite du dernier 'pi\u00e8ce , de vers. (d)   abbate, Item pri\u00e8res est \u00e9crite \u00e0 droite de la ((c) Cette demande de pr\u00e9c\u00e9dent, comme mnot est rubriqu\u00e9e. monacho; abr\u00e9g\u00e9,  \u00e9crit au-dessus du nom (e) 'pr\u00e9c\u00e9dent, comme au-dessus abr\u00e9g\u00e9, \u00e9crit en interligne: (o laico, abr\u00e9g\u00e9, \u00e9crit au-dessus du nom rubriqu\u00e9e, au-dessus des noms suivants: qui devaa \u00eatre dessin\u00e9e ou plus simplenean t) doiqeere Linitiale de ce mot; du nom suivant. ce mot (en 'fait debut dun vers ((h) \u00e9crit - avant que le d\u00e9but du titre. \u00e9t\u00e9 ex\u00e9cut\u00e9e. Qui pro pleb, nl 'a 'pas rcolonnes; est d'une \u00e9criture plus fine  annul\u00e9. Cette pi\u00e8ce de vers; \u00e9crite sur deux 49). Knowles/Hadcock (op. cit,, P Abb\u00e9 d'Eynsham; cit\u00e9 en 1091 par"
   },
   {
@@ -90,6 +102,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: T. sancti Pancratii martyris. Anima ejus et anime 0 fidelium () d. r. i. p. Amen. [Iv] 108 [81] S.d. 2 Bourges, S. Sulpice. 15 T. sancti Sulpicii; archiepiscopi Bituricensis; Navensis  monasterii. Odone (1) abbate; Evraudo (2) abbate; Eudo abbate; Tevino (4) Petro monacho; Arnulfo abbate ; Joberto monacho; Jaxdo monacho; Bermaldo monacho Petro monacho; Constancio monacho, Ade- monacho; ejus et a. 0 f. d. z i. p. Amen. Girardo monacho; Gaufrido monacho. Anima"
   },
   {
@@ -99,6 +112,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: T. Sancte Marie Hospitalitatis. Sanctimoniales unum psalterium et unaqueque VII psalmos. Anima famuli tui Vitalis et a. 0 f.d. r i. p. Amen. Oravimus P. v et vos orate p. n."
   },
   {
@@ -108,6 +122,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: T. Sancti Johannis Carnotensis cenobii. Anima ejus et a. 0 f. d. r i. P Amen. 20 Orate et vos pro fratribus nostris, Herveo, Drogone; Alberto alio Alberto et ceteris perfruantur eterna . Albinus unum psalterium quidam omnibus; ut et ipsi vita Garnerius L psalmos Hernulfus XV Rualendus VII. sacerdos III missas 128 [104] S.d. [Chartres,] S. Martin-au-Val. 25 T. Sancti Martini de Valle. Cujus erat servus; succurre; Maria, Vitali. Ut scio; fecisti dubitem de funere tali Mortuus est, vivat. Bene vixit pace quiescat. Amen. mors superavit ad horam. Non timuit morten, quem mors timet et sibi cessit. 30 Non moriturus obit, quem"
   },
   {
@@ -117,6 +132,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: T. Sancte Marie et Sancti Melori Ambresberiensis pcclesie: Anima domni Vitalis 5 abbatis et a. 0 f. r i. p. Amen. Orate p. n. et nos oramus P V:"
   },
   {
@@ -126,6 +142,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: T. Sancti Petri Castellionis. Anima ejus et anime 0 f. d. r. i. p. Amen. Oravimus Y., orate p. n., Gisleberto Guillelmo (5) , Theotardo (6) , Gunduino, Rotberto; 20 P. Lescelino; et pro omnibus aliis, quorum nomina Deus scit."
   },
   {
@@ -138,6 +155,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: T. Sancte Marie Salesberiensis ecclesie. Anima ejus et a. 0 f. d. r.i. p. Amen. 20 Abas (sic) Vitalis monacorum gloria vixit Dum vixit, fecit que fecit semper honeste. Sermo Dei vacuus nunquam fuit ejus in ore. Quod docuit gentes in se prius istud agebat ; Illicitos actus prohibens nunquam faciebat . 25 Ergo Dei pietas et gratia det sibi vitam Eternam; multis quam promittebat habendam ."
   },
   {
@@ -147,6 +165,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: T. (a) Sancte Marie Spallingensis ecclesie. Anima ejus et a. 0.f.d.z.i. P. Amen . 193 [175] S.d.- Crowland, S. Bartholomew et S. Guthlac: T. () SANCTI BARTHOLOMEI ET SANcTI GUTHLAcI CROLANDIE. In () omni- bus beneficiis nostris domnum Vitalem gloriosum et sanctum abbatem collegimus; 5 si tamen nobis indiget peccatoribus, quia tot et tanta bona de eo audimus quod ipse nos juvare melius potest quam nos eum. Sed quia rotuli epistola nos aliosque peccatores exorat ut pro eo quamvis sancto Deum exoremus; bonum est ut ei obediamus. Anima ejus in Christo et cum Christo semper vivat et requiescat et pro nobis peccatoribus sic Deum inploret; ut ipse Deus eum dulciter audiat. Amen. 10"
   },
   {
@@ -156,6 +175,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: T. Sancti Petri de Burch. Anima ejus et anime 0 f. d. 1. i. p. Amen. Orate p. n. abbatibus ac fratribus. Concessimus sibi beneficium loci. 196 [199] S.d. Wallingford, Holy Trinity. 20 1. Sancte Trinitatis Werengefordie  Anima ejus requiescat in pace. Amen."
   },
   {
@@ -165,6 +185,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Rotberto (de ce mot est en interligne.)"
   },
   {
@@ -174,6 +195,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Summe (I)"
   },
   {
@@ -183,6 +205,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Deo (de ce mot est en interligne.)"
   },
   {
@@ -192,6 +215,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Orate (I)"
   },
   {
@@ -201,6 +225,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Toto (de ce mot est en interligne.)"
   },
   {
@@ -210,6 +235,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Gaussi (I)"
   },
   {
@@ -219,6 +245,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Non (de ce mot est en interligne.)"
   },
   {
@@ -228,6 +255,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Nam (I)"
   },
   {
@@ -237,6 +265,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Bosone (de ce mot est en interligne.)"
   },
   {
@@ -246,6 +275,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Securiensis (I)"
   },
   {
@@ -255,6 +285,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Mors (de ce mot est en interligne.)"
   },
   {
@@ -264,6 +295,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Tu (I)"
   },
   {
@@ -273,6 +305,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: La (de ce mot est en interligne.)"
   },
   {
@@ -282,6 +315,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Congr (I)"
   },
   {
@@ -291,6 +325,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Innocent (de ce mot est en interligne.)"
   },
   {
@@ -300,6 +335,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Quisquis (I)"
   },
   {
@@ -309,6 +345,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Engo- (de ce mot est en interligne.)"
   },
   {
@@ -318,6 +355,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Id (I)"
   },
   {
@@ -327,6 +365,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Entre (de ce mot est en interligne.)"
   },
   {
@@ -336,6 +375,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Vulgrini (I)"
   },
   {
@@ -345,6 +385,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Duac (de ce mot est en interligne.)"
   },
   {
@@ -354,6 +395,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Qui (I)"
   },
   {
@@ -363,6 +405,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Tabbaye (de ce mot est en interligne.)"
   },
   {
@@ -372,6 +415,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Pis (I)"
   },
   {
@@ -384,6 +428,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Tautel (Sd. [1142)"
   },
   {
@@ -393,6 +438,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Encyclique (de ce mot est en interligne.)"
   },
   {
@@ -402,6 +448,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Luxembour (I)"
   },
   {
@@ -414,6 +461,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Monasticon (Sd. [1142)"
   },
   {
@@ -423,6 +471,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Agonotet (de ce mot est en interligne.)"
   },
   {
@@ -432,6 +481,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Interea (I)"
   },
   {
@@ -441,6 +491,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Excipiunt (de ce mot est en interligne.)"
   },
   {
@@ -450,6 +501,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Sed (I)"
   },
   {
@@ -462,6 +514,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Pari (Sd. [1142)"
   },
   {
@@ -471,6 +524,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Tullius (de ce mot est en interligne.)"
   },
   {
@@ -480,6 +534,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Legibus (I)"
   },
   {
@@ -492,6 +547,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Ecclesi (Sd. [1142)"
   },
   {
@@ -501,6 +557,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Roberti (de ce mot est en interligne.)"
   },
   {
@@ -510,6 +567,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Fille (I)"
   },
   {
@@ -522,6 +580,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Robert (Sd. [1142)"
   },
   {
@@ -531,6 +590,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Domini (de ce mot est en interligne.)"
   },
   {
@@ -540,6 +600,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Petronilla (I)"
   },
   {
@@ -552,6 +613,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Erit (Sd. [1142)"
   },
   {
@@ -561,6 +623,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Pr (de ce mot est en interligne.)"
   },
   {
@@ -570,6 +633,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Pratellensis (I)"
   },
   {
@@ -582,6 +646,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Sancti (Sd. [1142)"
   },
   {
@@ -591,6 +656,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Catalogue (de ce mot est en interligne.)"
   },
   {
@@ -600,6 +666,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Marti (I)"
   },
   {
@@ -612,6 +679,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Ricard (Sd. [1142)"
   },
   {
@@ -621,6 +689,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Anima (de ce mot est en interligne.)"
   },
   {
@@ -630,6 +699,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Willerm (I)"
   },
   {
@@ -642,6 +712,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Maugeri (Sd. [1142)"
   },
   {
@@ -651,6 +722,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Stat (de ce mot est en interligne.)"
   },
   {
@@ -660,6 +732,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Longueu (I)"
   },
   {
@@ -672,6 +745,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Sus (Sd. [1142)"
   },
   {
@@ -681,6 +755,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Me (de ce mot est en interligne.)"
   },
   {
@@ -690,6 +765,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Gili (I)"
   },
   {
@@ -702,6 +778,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Deus (Sd. [1142)"
   },
   {
@@ -711,6 +788,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Longueu (de ce mot est en interligne.)"
   },
   {
@@ -720,6 +798,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Catalogue (I)"
   },
   {
@@ -732,6 +811,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Sa (Sd. [1142)"
   },
   {
@@ -741,6 +821,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Domitill (de ce mot est en interligne.)"
   },
   {
@@ -750,6 +831,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Localit (I)"
   },
   {
@@ -759,6 +841,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Ame (de ce mot est en interligne.)"
   },
   {
@@ -768,6 +851,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Saint- (I)"
   },
   {
@@ -780,6 +864,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Rocamadour (Sd. [1142)"
   },
   {
@@ -789,6 +874,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Alban (de ce mot est en interligne.)"
   },
   {
@@ -798,6 +884,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Sanctae (I)"
   },
   {
@@ -810,6 +897,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Et (Sd. [1142)"
   },
   {
@@ -822,6 +910,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Je ()"
   },
   {
@@ -831,6 +920,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Foss (de ce mot est en interligne.)"
   },
   {
@@ -840,6 +930,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Deus (I)"
   },
   {
@@ -852,6 +943,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: In (Sd. [1142)"
   },
   {
@@ -864,6 +956,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Cui (et Christus vita lucrumque mori)"
   },
   {
@@ -873,6 +966,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Rouleau (de ce mot est en interligne.)"
   },
   {
@@ -882,6 +976,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Delisle (I)"
   },
   {
@@ -894,6 +989,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Apr (Sd. [1142)"
   },
   {
@@ -906,6 +1002,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Eodem (obiit Gislebertus)"
   },
   {
@@ -915,6 +1012,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Gallia (de ce mot est en interligne.)"
   },
   {
@@ -924,6 +1022,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Gilbert (I)"
   },
   {
@@ -936,6 +1035,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Biblioth (Sd. [1142)"
   },
   {
@@ -948,6 +1048,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Rouleaux (morts du IX' au XVe s)"
   },
   {
@@ -957,6 +1058,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Ecce (de ce mot est en interligne.)"
   },
   {
@@ -966,6 +1068,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Sapiens (I)"
   },
   {
@@ -978,6 +1081,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Motum (Sd. [1142)"
   },
   {
@@ -990,6 +1094,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Eccl ()"
   },
   {
@@ -999,6 +1104,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Scriptur (de ce mot est en interligne.)"
   },
   {
@@ -1008,6 +1114,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Ille (I)"
   },
   {
@@ -1020,6 +1127,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Eccl (Sd. [1142)"
   },
   {
@@ -1032,6 +1140,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Bocc (: cf)"
   },
   {
@@ -1041,6 +1150,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Sponsam (de ce mot est en interligne.)"
   },
   {
@@ -1050,6 +1160,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Sponse (I)"
   },
   {
@@ -1062,6 +1173,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Gregoriu (Sd. [1142)"
   },
   {
@@ -1071,6 +1183,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Vos (de ce mot est en interligne.)"
   },
   {
@@ -1080,6 +1193,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Burdegalensi (I)"
   },
   {
@@ -1092,6 +1206,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Hilari (Sd. [1142)"
   },
   {
@@ -1104,6 +1219,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Ti ()"
   },
   {
@@ -1113,6 +1229,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Deinde (de ce mot est en interligne.)"
   },
   {
@@ -1122,6 +1239,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Pari (I)"
   },
   {
@@ -1131,6 +1249,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Deo (de ce mot est en interligne.)"
   },
   {
@@ -1140,6 +1259,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Pari (I)"
   },
   {
@@ -1152,6 +1272,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Source (Sd. [1142)"
   },
   {
@@ -1164,6 +1285,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Foulo ()"
   },
   {
@@ -1173,6 +1295,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Rotbert (de ce mot est en interligne.)"
   },
   {
@@ -1182,6 +1305,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Pierr (I)"
   },
   {
@@ -1194,6 +1318,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Anian (Sd. [1142)"
   },
   {
@@ -1206,6 +1331,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Oravimus ()"
   },
   {
@@ -1215,6 +1341,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Positus (de ce mot est en interligne.)"
   },
   {
@@ -1224,6 +1351,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Erg (I)"
   },
   {
@@ -1236,6 +1364,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Il (Sd. [1142)"
   },
   {
@@ -1245,6 +1374,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Has (de ce mot est en interligne.)"
   },
   {
@@ -1254,6 +1384,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Sauveu (I)"
   },
   {
@@ -1266,6 +1397,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Berenguari (Sd. [1142)"
   },
   {
@@ -1278,6 +1410,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Pierr ()"
   },
   {
@@ -1287,6 +1420,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: T. (d) SANCTI PETRI JUNCELLIS MONASTERII () . Anima domni Rotberti et abbatis et a. 0. f.d. r i. P. Oravimus P. Y, orate p n, scilicet pro Berengenio ' (4) (5) abbatibus et pro Bernardo monacho et pro pro Guillelmo pro Berengerio 2 Geraldo monacho et pro Petro monacho et pro aliis omnibus les six vers 'suirants ((a) gr\u00e2ce  \u00e0 B; Je suppose = 'que Les mots entre crochets carr\u00e9s sont restitu\u00e9s _ alt\u00e9r\u00e9 , (a,p. 37, pr\u00e9c\u00e9dents. Le premier _ est aoidenaenoal\u00e9fauaslans appartiennent \u00e0 une autre pi\u00e8ce que les n . 2). (b) 367, n. 3) . ((c) Petrus corrig\u00e9 en Petro A. de 6,5 cm) est rubriquce; Ou En \" (a, P. hautes (((c) En A, Vinitiale de Titulus (haute , de 5 cm et bien d\u00e9cor\u00e9es. rehauss\u00e9es ( de rouge. noires puis la suite du titre jusqu'\u00e0 ce mot est faite de lettres  1076/1086 (t. VI,col. 399) de= Gallia c christiana [ Abb\u00e9 de S. Sauveur de Lod\u00e8ve; cit\u00e9 par le 1122. Joncels  cit\u00e9 par Je Gallia - christiana (t. VI,col.602) de 1120\u00e01138. \u00e0 1, abb\u00e9 _ de Guillelmus _ Ide1139\u00e01 115L. (2) (0) (LVicol400) Berenguarius II, abb\u00e9 de S. Sauveur de 'christiana ( Joncels cit\u00e9 en Lod\u00e8ve, Gallia abb\u00e9 de cit\u00e9 par le Gallia christiana (loc. cit:) Berengerius IL, 'christiana | (loc. ci) de 1144 \u00e0 1151. Je Gallia _ (3) le 1135 par Berengerius I, abb\u00e9 de Joncels, cit\u00e9 par"
   },
   {
@@ -1296,6 +1430,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Maja (de ce mot est en interligne.)"
   },
   {
@@ -1305,6 +1440,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Fratr (I)"
   },
   {
@@ -1317,6 +1453,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Anima (Sd. [1142)"
   },
   {
@@ -1329,6 +1466,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Le (un seul vite et lite)"
   },
   {
@@ -1338,6 +1476,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Goschon (de ce mot est en interligne.)"
   },
   {
@@ -1347,6 +1486,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Anima (I)"
   },
   {
@@ -1359,6 +1499,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Tit (Sd. [1142)"
   },
   {
@@ -1371,6 +1512,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Christi ()"
   },
   {
@@ -1380,6 +1522,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Ludovico (de ce mot est en interligne.)"
   },
   {
@@ -1389,6 +1532,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Christi (I)"
   },
   {
@@ -1401,6 +1545,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Wallis (Sd. [1142)"
   },
   {
@@ -1410,6 +1555,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Vall (de ce mot est en interligne.)"
   },
   {
@@ -1419,6 +1565,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Sur (I)"
   },
   {
@@ -1431,6 +1578,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Regards (Sd. [1142)"
   },
   {
@@ -1440,6 +1588,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Tiro (de ce mot est en interligne.)"
   },
   {
@@ -1449,6 +1598,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Oravimus (I)"
   },
   {
@@ -1461,6 +1611,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Tu (Sd. [1142)"
   },
   {
@@ -1470,6 +1621,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Delisl (de ce mot est en interligne.)"
   },
   {
@@ -1479,6 +1631,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Son (I)"
   },
   {
@@ -1491,6 +1644,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Herbert (Sd. [1142)"
   },
   {
@@ -1503,6 +1657,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Salins (\u00e0 Dole)"
   },
   {
@@ -1512,6 +1667,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Ame (de ce mot est en interligne.)"
   },
   {
@@ -1521,6 +1677,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Garardo (I)"
   },
   {
@@ -1533,6 +1690,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Ebrald (Sd. [1142)"
   },
   {
@@ -1545,6 +1703,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Herberto (omnium beneficiorum m)"
   },
   {
@@ -1554,6 +1713,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: De (de ce mot est en interligne.)"
   },
   {
@@ -1563,6 +1723,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: T. Sancti Salvatoris Figiacensis. Absolve; Domine; animam famuli tui Herberti et 0. f.d., per intercessionem beatae Mariae et beati Viviani et omnium sanctorum. Amen. Oravimus p. 1., orate p. n., videlicet pro domino Deodato (1) abbate et Geraldo et Bertrando et Geraldo et Deodato et Raimundo et Arnaldo et Guillermo 20 et Guillermo et Benedicto et Stephano et Deodato et Agnes (sic). Concedimus ei partem beneficiorum loci nostri."
   },
   {
@@ -1572,6 +1733,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Concedimus (de ce mot est en interligne.)"
   },
   {
@@ -1581,6 +1743,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: Deus (I)"
   },
   {
@@ -1593,6 +1756,7 @@
     ],
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": false,
     "description": "Visited: Christi (Sd. [1142)"
   },
   {
@@ -1602,6 +1766,7 @@
     "coords": null,
     "year": 1120,
     "date_str": "S.d. [vers 1120]]",
+    "is_approximate": true,
     "description": "Visited: T. Sancti Michaelis Ducelio (). Tibi, Domine, commendamus animam famuli tui Herberti, ut saeculo tibi vivat et quae [ob] fragilitatem mundanae conversatio: nis peccata admisit, tu venia misericordissimae pietatis absterge Per Christum 2 Concedimus ei commune beneficium ecclesiae nostrae. (b Quod vestris optatis et nostris impendere Pro scriptore Domini qui legeris ista precare Ipsius; ut mentem dignetur sanctificare: ecclesia, S. Pierre, $. Paul: 16 S.d.- Eliguanensis (c) ecclesiae  Anima 2 T. sanctorum et   Pauli Eliguanensis ' apostolorum   Petri illi societatem Concedimus domni Arberti abbatis et a. 0. {. d. 1. i. p Amen. beneficii nostri loci. Oravimus p. v , orate p. n."
   }
 ]

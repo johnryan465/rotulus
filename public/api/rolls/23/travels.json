@@ -2,13 +2,14 @@
   {
     "step": 0,
     "type": "origin",
-    "name": "Laon, France",
+    "name": "Reims, France",
     "coords": [
-      49.5642,
-      3.6199
+      49.2583,
+      4.0317
     ],
     "year": 950,
     "date_str": "S.d. [prcmier quart du X's]",
+    "is_approximate": false,
     "description": "Origin: Encyclique sollicitant de 'prier \"pour Gerbert et ..."
   }
 ]

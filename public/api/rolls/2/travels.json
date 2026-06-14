@@ -9,6 +9,7 @@
     ],
     "year": 747,
     "date_str": "Sd. [747-749]",
+    "is_approximate": true,
     "description": "Origin: L\u0131r\u00ea Pd'Aelfiald, roi d'East Anglia, \u00e0 Boniface lu..."
   },
   {
@@ -21,6 +22,7 @@
     ],
     "year": 747,
     "date_str": "747-749",
+    "is_approximate": false,
     "description": "Visited: Boniface (archbishop)"
   }
 ]

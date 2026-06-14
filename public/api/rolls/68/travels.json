@@ -2,13 +2,14 @@
   {
     "step": 0,
     "type": "origin",
-    "name": "Saint-Sever Abbey, France",
+    "name": "Paris, France",
     "coords": [
-      43.76,
-      -0.5739
+      48.8566,
+      2.3522
     ],
     "year": 1050,
     "date_str": "S.d. [fin XI s.-d\u00e9but XIIS s.]",
+    "is_approximate": false,
     "description": "Origin: Encyclique ( fragmentaire ) sollicitant de  prier ..."
   }
 ]

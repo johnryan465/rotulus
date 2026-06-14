@@ -177,34 +177,55 @@ export default function App() {
                 window.L.polyline(coords, {
                   color: color,
                   weight: 2,
-                  opacity: 0.6,
+                  opacity: 0.4,
                   dashArray: '3, 6'
                 }).addTo(map);
               }
 
               rollTravels.forEach((loc, index) => {
-                if (!loc.coords) return; // Skip marker if no coordinates
+                if (!loc.coords) return; 
                 const isOrigin = loc.type === 'origin';
-                const marker = window.L.circleMarker(loc.coords, {
-                  radius: isOrigin ? 6 : 4,
-                  fillColor: color,
-                  color: '#ffffff',
-                  weight: 1,
-                  opacity: 0.8,
-                  fillOpacity: 0.8
-                }).addTo(map);
+                
+                if (loc.is_approximate) {
+                  // Render as Uncertainty Circle
+                  window.L.circle(loc.coords, {
+                    radius: 30000, // 30km radius for uncertainty
+                    fillColor: color,
+                    fillOpacity: 0.1,
+                    color: color,
+                    weight: 1,
+                    dashArray: '5, 5'
+                  }).addTo(map).bindPopup(`
+                    <div style="color: #0f172a; font-family: sans-serif; padding: 4px;">
+                      <h4 style="margin: 0 0 4px 0; font-size: 13px; color: ${color};">
+                        Roll ${rInfo.roll_num} [Approximate]
+                      </h4>
+                      <p style="margin: 0; font-size: 12px; font-weight: 500;">${loc.name}</p>
+                    </div>
+                  `);
+                } else {
+                  // Render as Point Marker
+                  const marker = window.L.circleMarker(loc.coords, {
+                    radius: isOrigin ? 6 : 4,
+                    fillColor: color,
+                    color: '#ffffff',
+                    weight: 1,
+                    opacity: 0.8,
+                    fillOpacity: 0.8
+                  }).addTo(map);
 
-                const popupContent = `
-                  <div style="color: #0f172a; font-family: sans-serif; padding: 4px; min-width: 150px;">
-                    <h4 style="margin: 0 0 4px 0; font-size: 13px; font-weight: bold; color: ${color};">
-                      Roll ${rInfo.roll_num} (${isOrigin ? '🚩 Origin' : `📍 Stop ${index}`})
-                    </h4>
-                    <p style="margin: 0 0 4px 0; font-size: 12px; font-weight: 500;">${loc.name}</p>
-                    <p style="margin: 0 0 4px 0; font-size: 11px; color: #64748b;">${loc.date_str || ''}</p>
-                    <p style="margin: 0; font-size: 10px; color: #94a3b8;">${loc.description}</p>
-                  </div>
-                `;
-                marker.bindPopup(popupContent);
+                  const popupContent = `
+                    <div style="color: #0f172a; font-family: sans-serif; padding: 4px; min-width: 150px;">
+                      <h4 style="margin: 0 0 4px 0; font-size: 13px; font-weight: bold; color: ${color};">
+                        Roll ${rInfo.roll_num} (${isOrigin ? '🚩 Origin' : `📍 Stop ${index}`})
+                      </h4>
+                      <p style="margin: 0 0 4px 0; font-size: 12px; font-weight: 500;">${loc.name}</p>
+                      <p style="margin: 0 0 4px 0; font-size: 11px; color: #64748b;">${loc.date_str || ''}</p>
+                      <p style="margin: 0; font-size: 10px; color: #94a3b8;">${loc.description}</p>
+                    </div>
+                  `;
+                  marker.bindPopup(popupContent);
+                }
               });
             });
 

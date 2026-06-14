@@ -9,6 +9,7 @@
     ],
     "year": 1097,
     "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": false,
     "description": "Origin: Ede Bompos\u00e9pat Baudri de Bourgueil pour le rouleau..."
   },
   {
@@ -18,6 +19,7 @@
     "coords": null,
     "year": 1097,
     "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": true,
     "description": "Visited: Montierneuf (sont les rouleaux mortuaires de Renaud Ier du Bellay)"
   },
   {
@@ -30,6 +32,7 @@
     ],
     "year": 1097,
     "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": false,
     "description": "Visited: Bourgueil (dOrl\u00e9ans)"
   },
   {
@@ -39,6 +42,7 @@
     "coords": null,
     "year": 1097,
     "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": true,
     "description": "Visited: Abbas (sont les rouleaux mortuaires de Renaud Ier du Bellay)"
   },
   {
@@ -51,6 +55,7 @@
     ],
     "year": 1097,
     "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": false,
     "description": "Visited: Biturix (dOrl\u00e9ans)"
   },
   {
@@ -60,6 +65,7 @@
     "coords": null,
     "year": 1097,
     "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": true,
     "description": "Visited: Vital (sont les rouleaux mortuaires de Renaud Ier du Bellay)"
   },
   {
@@ -72,6 +78,7 @@
     ],
     "year": 1097,
     "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": false,
     "description": "Visited: Foulo (dOrl\u00e9ans)"
   },
   {
@@ -84,6 +91,7 @@
     ],
     "year": 1097,
     "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": false,
     "description": "Visited: Foues (A son sujet)"
   },
   {
@@ -96,6 +104,7 @@
     ],
     "year": 1097,
     "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": false,
     "description": "Visited: Delisle (dOrl\u00e9ans)"
   }
 ]

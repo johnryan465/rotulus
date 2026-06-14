@@ -2,10 +2,14 @@
   {
     "step": 0,
     "type": "origin",
-    "name": "Sd",
-    "coords": null,
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
     "year": null,
     "date_str": "S.d.",
+    "is_approximate": false,
     "description": "Origin: Sd: [dernier tiers du XI s.] Titre de 'Ligug\u00e9 appo..."
   }
 ]

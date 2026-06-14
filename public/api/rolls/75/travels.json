@@ -2,13 +2,14 @@
   {
     "step": 0,
     "type": "origin",
-    "name": "Ghent, Belgium",
+    "name": "Paris, France",
     "coords": [
-      51.0543,
-      3.7174
+      48.8566,
+      2.3522
     ],
     "year": 1113,
     "date_str": "S.d. [1113, apr\u00e8s le 6 juillet 1114]",
+    "is_approximate": false,
     "description": "Origin: Rouleau mortuaire de Mathilde, abbesse de la Trini..."
   },
   {
@@ -21,6 +22,7 @@
     ],
     "year": 1113,
     "date_str": "S.d. [1113, apr\u00e8s le 6 juillet 1114]",
+    "is_approximate": false,
     "description": "Visited: Petro (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -30,6 +32,7 @@
     "coords": null,
     "year": 1113,
     "date_str": "S.d. [1113, apr\u00e8s le 6 juillet 1114]",
+    "is_approximate": true,
     "description": "Visited: T. Sancti Gabrielis. Signat pictura quia non est mors nocitura, Cui vult propitia fieri pia virgo Maria. 10 Dira fuit mortis lex quondam; quam leo fortis In cruce prostravit moriens mundumque piavit. Non erat hostia quae morientia morte piaret . Si foret hostia digna; per omnia sacrificaret Hanc homo. Non erat hic neque venerat ut repararet 15 Vel pereuntia, vel morientia vivificaret . Ergo decens fuit et bene congruit utilitati, Ut feret Deus hostia; qua reus integritati Redditus est homo. Cum Deus est homo virgine natuss Tunc homo; funditus antea perditus; est renovatus. 20 Fit Deus omnia; presbiter; hostia . Crux fuit ara. Hac cadit hostia, mors ruit impia; pestis amara In cruce sternitur; hac caro pungitur: Unde lavamur Hinc aqua profluit: Hinc cruor effluit . Ergo7 patet via, Unde piamur: 25 celica menia qua repetamus  Vita fidelibus est Deus omnibus. Det veniam tibi. Te Hunc rogitamus societ sibi, Christus; fons bonitatis; Mathildis tibi detur Denique ' vita fratribus  perhennis. Det vitae atque sororibus hic titulatis munus Deus; est qui trinus et unus. Amen."
   },
   {
@@ -42,6 +45,7 @@
     ],
     "year": 1113,
     "date_str": "S.d. [1113, apr\u00e8s le 6 juillet 1114]",
+    "is_approximate": false,
     "description": "Visited: Arnulfo (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -54,6 +58,7 @@
     ],
     "year": 1113,
     "date_str": "S.d. [1113, apr\u00e8s le 6 juillet 1114]",
+    "is_approximate": false,
     "description": "Visited: T. Sancti Petri Mycelaniensis ecclesiae  Anima ejus et animae 0 f d ri. p. Amen. Orate p. n. 26 [24] S.d. Glastonbury; $. Mary. Mariae Glastoniae. Anima ejus et animae 0. f. T. Sanctae d. r. semper cum 5 Christo in perpetua pace. Amen. Orate p. n. 27 [25] S.d.- Bath, cathedral (S. Peter) - T. Sancti Petri Bathoniensis ecclesiae. Anima ejus et animae o f. d., per m. D,in Christi nomine r. i. p. Orate P. n- 28 [26] S.d.- [Bath,] scolares. 10 Vox scolarium ejusdem urbis. Quid furitis nonnae ? Quid amatis carmen inane ? Dicite rem tandem, rem tandem dicite plane. Quid nos buccicrepa sermonum mole gravatis ? 15 Quid teritis tempus; ventosaque verba rocatis; Insuitis versus et ploratus pueriles ? Quid mors; sera licet; venas irrupit aniles ? Nonne pudet, queso, nobis indicere fletum, Quod defecit anus, subiit quod femina loetum ? 20 Certe jure subit letalem femina sortem Importavit enim muliebris suasio mortem. Addo quod illius fertis super aethera vitam; Nec dubitatis eam solio regni redimitam. Hoc igitur quantum careat ratione videtis; 25 Quod vos de domina, cum gaudeat ipsa, doletis. Propterea, moneo, moerori ponite metas, Et manibus plausus; et laudes edite laetas. Sin lacrimis plenas huic indulgetis habenas; Dandum livori; non vero credo dolori. 30 Nam mala si mors est, subit illam femina jure Si bona, non illam patitur bona femina dure. 29 [27] S.d.-Malmesbury; S. Mary S; Aldhelae. Anima ejus et T. Sanctae Mariae et sancti Aldelmi confessoris Malmesberiae. animae 0 f.d. r: i. p."
   },
   {
@@ -66,6 +71,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mar (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -78,6 +84,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Haec (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -90,6 +97,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Indulgend (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -102,6 +110,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mar (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -114,6 +123,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Carnea (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -126,6 +136,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Vivere (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -138,6 +149,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Domini (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -150,6 +162,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mathildem (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -162,6 +175,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sed (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -174,6 +188,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Quo (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -186,6 +201,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Si (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -198,6 +214,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Jam (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -210,6 +227,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Rumfaro (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -222,6 +240,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Concio (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -234,6 +253,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Aldredo (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -246,6 +266,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Thoma (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -258,6 +279,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Crowlan (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -270,6 +292,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Guthla (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -282,6 +305,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nap (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -294,6 +318,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ame (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -306,6 +331,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mathildis (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -318,6 +344,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Multus (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -330,6 +357,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Dicamus (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -342,6 +370,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Aetherico (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -354,6 +383,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Benedict (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -366,6 +396,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Jacob (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -378,6 +409,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Saviour (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -390,6 +422,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ame (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -402,6 +435,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Andre (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -414,6 +448,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Arnulfo (de Rochester)"
   },
   {
@@ -426,6 +461,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Rogerius (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -438,6 +474,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Oravimus (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -450,6 +487,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Eudone (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -462,6 +500,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Audoen (de Rochester)"
   },
   {
@@ -474,6 +513,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Assiduas (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -486,6 +526,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Quas (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -498,6 +539,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ommnes (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -510,6 +552,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Lisieu (de Rochester)"
   },
   {
@@ -522,6 +565,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Maria (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -534,6 +578,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sed (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -546,6 +591,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ferte (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -558,6 +604,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sanctae (de Rochester)"
   },
   {
@@ -570,6 +617,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Durando (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -582,6 +630,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Pr (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -594,6 +643,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancti (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -606,6 +656,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Willelmo (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -618,6 +669,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Helton (de Rochester)"
   },
   {
@@ -630,6 +682,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cadom (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -642,6 +695,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Vec (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -654,6 +708,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ansfrida (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -666,6 +721,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Albereia (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -678,6 +734,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ascelin (de Rochester)"
   },
   {
@@ -690,6 +747,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mors (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -702,6 +760,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Tandem (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -714,6 +773,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Domno (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -726,6 +786,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Anselmo (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -738,6 +799,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Emm (de Rochester)"
   },
   {
@@ -750,6 +812,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Restoldus (sn aujet)"
   },
   {
@@ -762,6 +825,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ricardo (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -774,6 +838,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Alberto (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -786,6 +851,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gisleberto (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -798,6 +864,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ame (de Rochester)"
   },
   {
@@ -810,6 +877,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Rodulf (sn aujet)"
   },
   {
@@ -822,6 +890,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ramnulf (SuntorDery)"
   },
   {
@@ -834,6 +903,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Mainard (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -846,6 +916,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Johanne (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -858,6 +929,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Juliano (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -870,6 +942,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Adelin (de Rochester)"
   },
   {
@@ -882,6 +955,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Hugone (sn aujet)"
   },
   {
@@ -894,6 +968,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Rogerio (SuntorDery)"
   },
   {
@@ -906,6 +981,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Alberico (Doyen)"
   },
   {
@@ -918,6 +994,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sanctae (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -930,6 +1007,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Coeli (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -942,6 +1020,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Christus (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -954,6 +1033,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Beatrix (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -966,6 +1046,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Albereda (de Rochester)"
   },
   {
@@ -978,6 +1059,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ame (sn aujet)"
   },
   {
@@ -990,6 +1072,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Willelmo (SuntorDery)"
   },
   {
@@ -1002,6 +1085,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Osmundoo (Doyen)"
   },
   {
@@ -1014,6 +1098,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sci (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -1026,6 +1111,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Herbranno (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -1038,6 +1124,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ame (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -1050,6 +1137,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: N- (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -1062,6 +1150,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mundanae (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -1074,6 +1163,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Dominum (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -1086,6 +1176,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gazeauu (de Rochester)"
   },
   {
@@ -1098,6 +1189,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Longueville- (sn aujet)"
   },
   {
@@ -1110,6 +1202,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Scie (SuntorDery)"
   },
   {
@@ -1122,6 +1215,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Moine (Doyen)"
   },
   {
@@ -1134,6 +1228,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Rainaldo (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -1146,6 +1241,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ite (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -1158,6 +1254,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Donet (de Rochester)"
   },
   {
@@ -1170,6 +1267,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cecilia (sn aujet)"
   },
   {
@@ -1182,6 +1280,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Bensce- (de Jumieges tI)"
   },
   {
@@ -1194,6 +1293,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hatvid (Doyen)"
   },
   {
@@ -1206,6 +1306,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Maurili (1067)"
   },
   {
@@ -1218,6 +1319,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nicholao (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -1230,6 +1332,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Fulbert (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -1242,6 +1345,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Odon (de Rochester)"
   },
   {
@@ -1254,6 +1358,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Rotomag (sn aujet)"
   },
   {
@@ -1266,6 +1371,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Christ (SuntorDery)"
   },
   {
@@ -1278,6 +1384,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Qui (Doyen)"
   },
   {
@@ -1290,6 +1397,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Isemberto (1067)"
   },
   {
@@ -1302,6 +1410,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ermeneldi (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -1314,6 +1423,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sauveu (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -1326,6 +1436,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Agnes (de Rochester)"
   },
   {
@@ -1338,6 +1449,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Orate (sn aujet)"
   },
   {
@@ -1350,6 +1462,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gisleberto (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -1362,6 +1475,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Rotberto (de Jumieges tI)"
   },
   {
@@ -1374,6 +1488,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Teizon (Doyen)"
   },
   {
@@ -1386,6 +1501,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ebroicensis (1067)"
   },
   {
@@ -1398,6 +1514,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Deus (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -1410,6 +1527,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Quch (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -1422,6 +1540,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gunduino (de Rochester)"
   },
   {
@@ -1434,6 +1553,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sal- (sn aujet)"
   },
   {
@@ -1446,6 +1566,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Santao (SuntorDery)"
   },
   {
@@ -1458,6 +1579,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Jua (Doyen)"
   },
   {
@@ -1470,6 +1592,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cewz (1067)"
   },
   {
@@ -1482,6 +1605,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mariae (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -1494,6 +1618,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Christi (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -1506,6 +1631,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Radulfo (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -1518,6 +1644,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Radulf (de Rochester)"
   },
   {
@@ -1530,6 +1657,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nichola (sn aujet)"
   },
   {
@@ -1542,6 +1670,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Willelm (SuntorDery)"
   },
   {
@@ -1554,6 +1683,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Deus (Doyen)"
   },
   {
@@ -1566,6 +1696,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Dive (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -1578,6 +1709,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hunfrido (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -1590,6 +1722,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: X- (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -1602,6 +1735,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: The (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -1614,6 +1748,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Orderic (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -1626,6 +1761,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: England (de Rochester)"
   },
   {
@@ -1638,6 +1774,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Terre (sn aujet)"
   },
   {
@@ -1650,6 +1787,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Winchester (SuntorDery)"
   },
   {
@@ -1662,6 +1800,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Les (Doyen)"
   },
   {
@@ -1674,6 +1813,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Pari (1067)"
   },
   {
@@ -1686,6 +1826,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ame (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -1698,6 +1839,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Guidone (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -1710,6 +1852,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ceris (de Rochester)"
   },
   {
@@ -1722,6 +1865,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Guarino (sn aujet)"
   },
   {
@@ -1734,6 +1878,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Radulf (SuntorDery)"
   },
   {
@@ -1746,6 +1891,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Rotbert (Doyen)"
   },
   {
@@ -1758,6 +1904,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ricoard (1067)"
   },
   {
@@ -1770,6 +1917,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Roberto (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -1782,6 +1930,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Odo (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -1794,6 +1943,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Agnes (de Rochester)"
   },
   {
@@ -1806,6 +1956,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Deus (sn aujet)"
   },
   {
@@ -1818,6 +1969,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Wime (SuntorDery)"
   },
   {
@@ -1830,6 +1982,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Lessa (Doyen)"
   },
   {
@@ -1842,6 +1995,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Regis (1067)"
   },
   {
@@ -1851,6 +2005,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Anschitillo (cit\u00e9 en [)"
   },
   {
@@ -1863,6 +2018,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Robert (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -1875,6 +2031,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Robert (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -1887,6 +2044,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hadewisa (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -1899,6 +2057,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ame (de Rochester)"
   },
   {
@@ -1911,6 +2070,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gosbert (sn aujet)"
   },
   {
@@ -1923,6 +2083,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Arnald (SuntorDery)"
   },
   {
@@ -1935,6 +2096,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gerald (Doyen)"
   },
   {
@@ -1947,6 +2109,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sanctae (1067)"
   },
   {
@@ -1959,6 +2122,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cui (Moine de Jumi\u00e8ges)"
   },
   {
@@ -1968,6 +2132,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Huic (cit\u00e9 en [)"
   },
   {
@@ -1977,6 +2142,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Ameli (Gaufridus Ide rances Montbray)"
   },
   {
@@ -1989,6 +2155,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Amlerberg (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -2001,6 +2168,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hermand (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -2013,6 +2181,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Aimaric (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -2025,6 +2194,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Depona (de Rochester)"
   },
   {
@@ -2037,6 +2207,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Qui (sn aujet)"
   },
   {
@@ -2049,6 +2220,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancto (SuntorDery)"
   },
   {
@@ -2061,6 +2233,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Joha (Doyen)"
   },
   {
@@ -2073,6 +2246,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ite (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -2085,6 +2259,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Qui (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -2097,6 +2272,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Diluit (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -2109,6 +2285,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cnaldo (de Rochester)"
   },
   {
@@ -2121,6 +2298,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Michel (sn aujet)"
   },
   {
@@ -2133,6 +2311,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Stephan (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -2145,6 +2324,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Willelmo (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -2157,6 +2337,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mainus (de Rochester)"
   },
   {
@@ -2169,6 +2350,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Rogerus (sn aujet)"
   },
   {
@@ -2181,6 +2363,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gauslinus (SuntorDery)"
   },
   {
@@ -2193,6 +2376,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Herveus (Doyen)"
   },
   {
@@ -2205,6 +2389,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Johannes (1067)"
   },
   {
@@ -2217,6 +2402,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Moine (Moine de Jumi\u00e8ges)"
   },
   {
@@ -2226,6 +2412,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Gam (cit\u00e9 en [)"
   },
   {
@@ -2235,6 +2422,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Canterbury (Gaufridus Ide rances Montbray)"
   },
   {
@@ -2247,6 +2435,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ewen (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -2259,6 +2448,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Tisun (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -2271,6 +2461,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Eumdohlais (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -2283,6 +2474,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Renne (de Rochester)"
   },
   {
@@ -2295,6 +2487,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ast (sn aujet)"
   },
   {
@@ -2307,6 +2500,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Poena (SuntorDery)"
   },
   {
@@ -2319,6 +2513,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Eveno (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -2331,6 +2526,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Conanus (Moine de Jumi\u00e8ges)"
   },
   {
@@ -2340,6 +2536,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Ch (cit\u00e9 en [)"
   },
   {
@@ -2349,6 +2546,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Bretagne (Gaufridus Ide rances Montbray)"
   },
   {
@@ -2361,6 +2559,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: George (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -2373,6 +2572,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Roberto (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -2385,6 +2585,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sese (de Rochester)"
   },
   {
@@ -2397,6 +2598,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gran (sn aujet)"
   },
   {
@@ -2409,6 +2611,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancti (SuntorDery)"
   },
   {
@@ -2421,6 +2624,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Illa (Doyen)"
   },
   {
@@ -2433,6 +2637,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mathildis (1067)"
   },
   {
@@ -2445,6 +2650,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Tartara (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -2457,6 +2663,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Robert (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -2469,6 +2676,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Judicaelo (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -2481,6 +2689,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hecno (de Rochester)"
   },
   {
@@ -2493,6 +2702,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Adgan (sn aujet)"
   },
   {
@@ -2505,6 +2715,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Maurici (SuntorDery)"
   },
   {
@@ -2517,6 +2728,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sanct (Doyen)"
   },
   {
@@ -2529,6 +2741,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Pulchr (1067)"
   },
   {
@@ -2541,6 +2754,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gran (Moine de Jumi\u00e8ges)"
   },
   {
@@ -2550,6 +2764,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Abb (cit\u00e9 en [)"
   },
   {
@@ -2559,6 +2774,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Gallia (Gaufridus Ide rances Montbray)"
   },
   {
@@ -2571,6 +2787,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sed (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -2583,6 +2800,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Orate (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -2595,6 +2813,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Bil (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -2607,6 +2826,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Eudonus (de Rochester)"
   },
   {
@@ -2619,6 +2839,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gildas-des- (sn aujet)"
   },
   {
@@ -2631,6 +2852,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Salt (SuntorDery)"
   },
   {
@@ -2643,6 +2865,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancti (Doyen)"
   },
   {
@@ -2655,6 +2878,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancti (1067)"
   },
   {
@@ -2667,6 +2891,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Redo (Moine de Jumi\u00e8ges)"
   },
   {
@@ -2676,6 +2901,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Atlantiqu (cit\u00e9 en [)"
   },
   {
@@ -2685,6 +2911,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Rodaldur (Gaufridus Ide rances Montbray)"
   },
   {
@@ -2697,6 +2924,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gillsew (le Gallia christiana)"
   },
   {
@@ -2709,6 +2937,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ergo (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -2721,6 +2950,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nante (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -2733,6 +2963,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cunctis (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -2745,6 +2976,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cormariensis (de Rochester)"
   },
   {
@@ -2757,6 +2989,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Johann (sn aujet)"
   },
   {
@@ -2769,6 +3002,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Bartholomaeo (SuntorDery)"
   },
   {
@@ -2781,6 +3015,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Dulgerius (Doyen)"
   },
   {
@@ -2793,6 +3028,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hentes (1067)"
   },
   {
@@ -2805,6 +3041,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ame (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -2817,6 +3054,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Abbatibus (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -2829,6 +3067,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Femina (de Rochester)"
   },
   {
@@ -2841,6 +3080,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Dei (sn aujet)"
   },
   {
@@ -2853,6 +3093,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Anger (SuntorDery)"
   },
   {
@@ -2865,6 +3106,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Andecavensi (Doyen)"
   },
   {
@@ -2877,6 +3119,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Loche (1067)"
   },
   {
@@ -2889,6 +3132,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Pictavi (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -2901,6 +3145,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Adinoris (de Rochester)"
   },
   {
@@ -2913,6 +3158,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Alberto (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -2925,6 +3171,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Rainbald (sn aujet)"
   },
   {
@@ -2937,6 +3184,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Aubi (Doyen)"
   },
   {
@@ -2949,6 +3197,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Serg (1067)"
   },
   {
@@ -2961,6 +3210,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Herveo (Moine de Jumi\u00e8ges)"
   },
   {
@@ -2970,6 +3220,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Deus (cit\u00e9 en [)"
   },
   {
@@ -2979,6 +3230,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Poitier (Gaufridus Ide rances Montbray)"
   },
   {
@@ -2991,6 +3243,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Callia (le Gallia christiana)"
   },
   {
@@ -3003,6 +3256,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Laffitt (S. et Sigo sont des abb\u00e9s de Florent-l\u00e8s-Saumur)"
   },
   {
@@ -3015,6 +3269,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: N- (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -3027,6 +3282,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Petro (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -3039,6 +3295,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nichola (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -3051,6 +3308,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Orate (de Rochester)"
   },
   {
@@ -3063,6 +3321,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Frederico (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -3075,6 +3334,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Girard (sn aujet)"
   },
   {
@@ -3087,6 +3347,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Umbaldo (SuntorDery)"
   },
   {
@@ -3099,6 +3360,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancti (Doyen)"
   },
   {
@@ -3111,6 +3373,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Conveniens (1067)"
   },
   {
@@ -3123,6 +3386,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Turonensi (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -3135,6 +3399,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Femina (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -3147,6 +3412,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sed (de Rochester)"
   },
   {
@@ -3159,6 +3425,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Anima (sn aujet)"
   },
   {
@@ -3171,6 +3438,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Oravimus (SuntorDery)"
   },
   {
@@ -3183,6 +3451,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Geraldo (Doyen)"
   },
   {
@@ -3195,6 +3464,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sanctae (1067)"
   },
   {
@@ -3207,6 +3477,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Bourgueil-e (Moine de Jumi\u00e8ges)"
   },
   {
@@ -3216,6 +3487,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Hahvisa (cit\u00e9 en [)"
   },
   {
@@ -3228,6 +3500,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: N- (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -3240,6 +3513,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancti (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -3252,6 +3526,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Saepe (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -3264,6 +3539,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Quando (de Rochester)"
   },
   {
@@ -3276,6 +3552,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Petro (sn aujet)"
   },
   {
@@ -3288,6 +3565,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Umberto (SuntorDery)"
   },
   {
@@ -3300,6 +3578,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gaufredo (Doyen)"
   },
   {
@@ -3312,6 +3591,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Pictavensis (1067)"
   },
   {
@@ -3324,6 +3604,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Et (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -3336,6 +3617,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Item (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -3348,6 +3630,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Femina (de Rochester)"
   },
   {
@@ -3360,6 +3643,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Stephan (sn aujet)"
   },
   {
@@ -3372,6 +3656,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Fulcone (SuntorDery)"
   },
   {
@@ -3384,6 +3669,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Non (Doyen)"
   },
   {
@@ -3393,6 +3679,7 @@
     "coords": null,
     "year": 1113,
     "date_str": "S.d. [1113, apr\u00e8s le 6 juillet 1114]",
+    "is_approximate": true,
     "description": "Visited: T. sanc n pro Geraldo elemosin Heliardu"
   },
   {
@@ -3405,6 +3692,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Tescelin (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -3417,6 +3705,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ut (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -3429,6 +3718,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Dulcibus (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -3441,6 +3731,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Dr (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -3453,6 +3744,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gaufredo (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -3465,6 +3757,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Witale (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -3477,6 +3770,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ingelaydis (de Rochester)"
   },
   {
@@ -3489,6 +3783,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Pro (sn aujet)"
   },
   {
@@ -3501,6 +3796,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Dei (SuntorDery)"
   },
   {
@@ -3513,6 +3809,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hodierna (Doyen)"
   },
   {
@@ -3525,6 +3822,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gersendi (1067)"
   },
   {
@@ -3537,6 +3835,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Alaidi (Moine de Jumi\u00e8ges)"
   },
   {
@@ -3546,6 +3845,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Abb (cit\u00e9 en [)"
   },
   {
@@ -3558,6 +3858,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Luci (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -3570,6 +3871,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mari (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -3582,6 +3884,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cyprie (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -3594,6 +3897,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Adelelmo (de Rochester)"
   },
   {
@@ -3606,6 +3910,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Andre (sn aujet)"
   },
   {
@@ -3618,6 +3923,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Quin (SuntorDery)"
   },
   {
@@ -3630,6 +3936,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Benedicti (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -3642,6 +3949,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Quinciac (Doyen)"
   },
   {
@@ -3654,6 +3962,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gunbaudo (1067)"
   },
   {
@@ -3666,6 +3975,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Petro (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -3678,6 +3988,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Ramnulfo (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -3690,6 +4001,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Ugone (de Rochester)"
   },
   {
@@ -3702,6 +4014,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Quin (sn aujet)"
   },
   {
@@ -3714,6 +4027,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Calli (SuntorDery)"
   },
   {
@@ -3726,6 +4040,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Quin (Doyen)"
   },
   {
@@ -3738,6 +4053,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Quin (1067)"
   },
   {
@@ -3750,6 +4066,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Benedicto (Moine de Jumi\u00e8ges)"
   },
   {
@@ -3762,6 +4079,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Agnete (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -3774,6 +4092,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Benedict (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -3786,6 +4105,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hunbert (de Rochester)"
   },
   {
@@ -3798,6 +4118,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gauteri (sn aujet)"
   },
   {
@@ -3810,6 +4131,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Garneri (SuntorDery)"
   },
   {
@@ -3822,6 +4144,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Giraud (Doyen)"
   },
   {
@@ -3834,6 +4157,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Petr (1067)"
   },
   {
@@ -3846,6 +4170,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Maixcnt (Moine de Jumi\u00e8ges)"
   },
   {
@@ -3855,6 +4180,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Abb (cit\u00e9 en [)"
   },
   {
@@ -3864,6 +4190,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Marmoutier (Gaufridus Ide rances Montbray)"
   },
   {
@@ -3876,6 +4203,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Dour (le Gallia christiana)"
   },
   {
@@ -3888,6 +4216,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Oravimus (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -3900,6 +4229,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Engelberto (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -3912,6 +4242,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hun- (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -3924,6 +4255,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Vincen (de Rochester)"
   },
   {
@@ -3936,6 +4268,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cunctis (sn aujet)"
   },
   {
@@ -3948,6 +4281,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Jamque (SuntorDery)"
   },
   {
@@ -3960,6 +4294,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Spiritus (Doyen)"
   },
   {
@@ -3972,6 +4307,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancti (1067)"
   },
   {
@@ -3984,6 +4320,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Saint- (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -3996,6 +4333,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ja (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -4008,6 +4346,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Chronique (de Rochester)"
   },
   {
@@ -4020,6 +4359,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mariae (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -4032,6 +4372,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Auxerr (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -4044,6 +4385,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Germani (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -4056,6 +4398,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Jurann (de Rochester)"
   },
   {
@@ -4068,6 +4411,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Genovefa (sn aujet)"
   },
   {
@@ -4080,6 +4424,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mathildis (SuntorDery)"
   },
   {
@@ -4092,6 +4437,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Lu (Doyen)"
   },
   {
@@ -4104,6 +4450,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Abb (1067)"
   },
   {
@@ -4116,6 +4463,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sanctonicae (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -4128,6 +4476,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cujus (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -4140,6 +4489,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Pes (de Rochester)"
   },
   {
@@ -4152,6 +4502,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Veneris (sn aujet)"
   },
   {
@@ -4164,6 +4515,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mathildi (SuntorDery)"
   },
   {
@@ -4176,6 +4528,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Quae (Doyen)"
   },
   {
@@ -4188,6 +4541,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Moribus (1067)"
   },
   {
@@ -4200,6 +4554,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Vertitur (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -4212,6 +4567,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Femina (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -4224,6 +4580,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Prima (de Rochester)"
   },
   {
@@ -4236,6 +4593,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Non (sn aujet)"
   },
   {
@@ -4248,6 +4606,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Per (SuntorDery)"
   },
   {
@@ -4260,6 +4619,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Emundet (Doyen)"
   },
   {
@@ -4272,6 +4632,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Johanne (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -4284,6 +4645,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Petro (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -4296,6 +4658,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Banaudo (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -4308,6 +4671,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Et (de Rochester)"
   },
   {
@@ -4320,6 +4684,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: In (sn aujet)"
   },
   {
@@ -4332,6 +4697,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Christus (SuntorDery)"
   },
   {
@@ -4344,6 +4710,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Le (Doyen)"
   },
   {
@@ -4356,6 +4723,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cui (1067)"
   },
   {
@@ -4368,6 +4736,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Eutropii (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -4380,6 +4749,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Anima (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -4392,6 +4762,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Airald (de Rochester)"
   },
   {
@@ -4404,6 +4775,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Pro (sn aujet)"
   },
   {
@@ -4416,6 +4788,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Vile (SuntorDery)"
   },
   {
@@ -4428,6 +4801,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Dampnant (Doyen)"
   },
   {
@@ -4440,6 +4814,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Judicis (1067)"
   },
   {
@@ -4452,6 +4827,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cumque (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -4464,6 +4840,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nec (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -4476,6 +4853,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Esset (de Rochester)"
   },
   {
@@ -4488,6 +4866,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Atqu (sn aujet)"
   },
   {
@@ -4500,6 +4879,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Instabiles (SuntorDery)"
   },
   {
@@ -4512,6 +4892,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Aratra (Doyen)"
   },
   {
@@ -4524,6 +4905,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Et (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -4536,6 +4918,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cluniacensis (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -4548,6 +4931,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nascitur (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -4560,6 +4944,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: In (de Rochester)"
   },
   {
@@ -4572,6 +4957,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Orate (sn aujet)"
   },
   {
@@ -4584,6 +4970,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gaufred (SuntorDery)"
   },
   {
@@ -4596,6 +4983,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Fuleauda (Doyen)"
   },
   {
@@ -4608,6 +4996,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ramnulfa (1067)"
   },
   {
@@ -4620,6 +5009,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ne (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -4632,6 +5022,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Talibus (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -4644,6 +5035,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Orate (de Rochester)"
   },
   {
@@ -4656,6 +5048,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Adel (sn aujet)"
   },
   {
@@ -4668,6 +5061,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Petronill (SuntorDery)"
   },
   {
@@ -4680,6 +5074,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hylari (Doyen)"
   },
   {
@@ -4692,6 +5087,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hersend (1067)"
   },
   {
@@ -4704,6 +5100,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gaudone (Moine de Jumi\u00e8ges)"
   },
   {
@@ -4713,6 +5110,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Constantinu (cit\u00e9 en [)"
   },
   {
@@ -4722,6 +5120,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Hersendi (Gaufridus Ide rances Montbray)"
   },
   {
@@ -4734,6 +5133,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Jeburgis (le Gallia christiana)"
   },
   {
@@ -4746,6 +5146,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: N- (S. et Sigo sont des abb\u00e9s de Florent-l\u00e8s-Saumur)"
   },
   {
@@ -4758,6 +5159,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sainte (Petrus)"
   },
   {
@@ -4770,6 +5172,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Boude (II)"
   },
   {
@@ -4782,6 +5185,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sainte (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -4794,6 +5198,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Tunc (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -4806,6 +5211,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ignis (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -4818,6 +5224,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Si (de Rochester)"
   },
   {
@@ -4830,6 +5237,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Per (sn aujet)"
   },
   {
@@ -4842,6 +5250,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nunc (SuntorDery)"
   },
   {
@@ -4854,6 +5263,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Note (Doyen)"
   },
   {
@@ -4866,6 +5276,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mundus (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -4878,6 +5289,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: De (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -4890,6 +5302,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancti (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -4902,6 +5315,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Anima (de Rochester)"
   },
   {
@@ -4914,6 +5328,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Franchon (sn aujet)"
   },
   {
@@ -4926,6 +5341,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Petro (SuntorDery)"
   },
   {
@@ -4938,6 +5354,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Bernardo (Doyen)"
   },
   {
@@ -4950,6 +5367,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Lambertus (1067)"
   },
   {
@@ -4962,6 +5380,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Versu (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -4974,6 +5393,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Illarum (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -4986,6 +5406,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Iterum (de Rochester)"
   },
   {
@@ -4998,6 +5419,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Johanne (sn aujet)"
   },
   {
@@ -5010,6 +5432,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Stephano (SuntorDery)"
   },
   {
@@ -5022,6 +5445,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gauberto (Doyen)"
   },
   {
@@ -5034,6 +5458,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Iterio (1067)"
   },
   {
@@ -5046,6 +5471,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Callia (Moine de Jumi\u00e8ges)"
   },
   {
@@ -5055,6 +5481,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Abb (cit\u00e9 en [)"
   },
   {
@@ -5064,6 +5491,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Abb (Gaufridus Ide rances Montbray)"
   },
   {
@@ -5076,6 +5504,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Dulou (le Gallia christiana)"
   },
   {
@@ -5088,6 +5517,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Lemaitr (S. et Sigo sont des abb\u00e9s de Florent-l\u00e8s-Saumur)"
   },
   {
@@ -5100,6 +5530,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Aldegari (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -5112,6 +5543,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Stephan (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -5124,6 +5556,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gaubert (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -5136,6 +5569,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Rollife (de Rochester)"
   },
   {
@@ -5148,6 +5582,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Martino (sn aujet)"
   },
   {
@@ -5160,6 +5595,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Boutevill (SuntorDery)"
   },
   {
@@ -5172,6 +5608,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Petri (Doyen)"
   },
   {
@@ -5184,6 +5621,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ame (1067)"
   },
   {
@@ -5196,6 +5634,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gaufred (Moine de Jumi\u00e8ges)"
   },
   {
@@ -5205,6 +5644,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Iteri (cit\u00e9 en [)"
   },
   {
@@ -5214,6 +5654,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Nescil (Gaufridus Ide rances Montbray)"
   },
   {
@@ -5226,6 +5667,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Et (le Gallia christiana)"
   },
   {
@@ -5238,6 +5680,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Quid (S. et Sigo sont des abb\u00e9s de Florent-l\u00e8s-Saumur)"
   },
   {
@@ -5250,6 +5693,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Vel (Petrus)"
   },
   {
@@ -5262,6 +5706,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gallia (II)"
   },
   {
@@ -5274,6 +5719,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Consilium (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -5286,6 +5732,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancti (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -5298,6 +5745,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Galterio (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -5310,6 +5758,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Rogeri (de Rochester)"
   },
   {
@@ -5322,6 +5771,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancti (sn aujet)"
   },
   {
@@ -5334,6 +5784,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Engolismensi (SuntorDery)"
   },
   {
@@ -5346,6 +5797,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Aizone (Doyen)"
   },
   {
@@ -5358,6 +5810,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Idemaro (1067)"
   },
   {
@@ -5370,6 +5823,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Bonneval (Moine de Jumi\u00e8ges)"
   },
   {
@@ -5379,6 +5833,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Bon- (cit\u00e9 en [)"
   },
   {
@@ -5391,6 +5846,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Colomb (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -5403,6 +5859,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Bernardo (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -5415,6 +5872,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Pagoni (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -5427,6 +5885,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Beno (de Rochester)"
   },
   {
@@ -5439,6 +5898,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Fulchone (sn aujet)"
   },
   {
@@ -5451,6 +5911,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Stephano (SuntorDery)"
   },
   {
@@ -5463,6 +5924,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Iteri (Doyen)"
   },
   {
@@ -5475,6 +5937,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Beatrice (1067)"
   },
   {
@@ -5487,6 +5950,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sauveu (Moine de Jumi\u00e8ges)"
   },
   {
@@ -5496,6 +5960,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Salvatoris (cit\u00e9 en [)"
   },
   {
@@ -5505,6 +5970,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Orate (Gaufridus Ide rances Montbray)"
   },
   {
@@ -5517,6 +5983,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nanteuil-en- (le Gallia christiana)"
   },
   {
@@ -5529,6 +5996,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Colombe (S. et Sigo sont des abb\u00e9s de Florent-l\u00e8s-Saumur)"
   },
   {
@@ -5541,6 +6009,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Je (Petrus)"
   },
   {
@@ -5553,6 +6022,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Abb (II)"
   },
   {
@@ -5565,6 +6035,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Montier-la- (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -5577,6 +6048,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Roberto (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -5589,6 +6061,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Frisque (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -5601,6 +6074,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Engelberto (de Rochester)"
   },
   {
@@ -5613,6 +6087,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sebastiani (sn aujet)"
   },
   {
@@ -5625,6 +6100,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gregorii (SuntorDery)"
   },
   {
@@ -5637,6 +6113,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Quod (Doyen)"
   },
   {
@@ -5649,6 +6126,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Pauperibus (1067)"
   },
   {
@@ -5661,6 +6139,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Abb (Moine de Jumi\u00e8ges)"
   },
   {
@@ -5670,6 +6149,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Gallia (cit\u00e9 en [)"
   },
   {
@@ -5682,6 +6162,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Stell (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -5694,6 +6175,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Virginibu (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -5706,6 +6188,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Alber (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -5718,6 +6201,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Virgineis (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -5730,6 +6214,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ev (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -5742,6 +6227,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sentimus (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -5754,6 +6240,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gran (de Rochester)"
   },
   {
@@ -5766,6 +6253,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Petri (sn aujet)"
   },
   {
@@ -5778,6 +6266,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Pau (SuntorDery)"
   },
   {
@@ -5790,6 +6279,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Pauli (Doyen)"
   },
   {
@@ -5802,6 +6292,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Alberto (1067)"
   },
   {
@@ -5814,6 +6305,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Teobald (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -5826,6 +6318,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Gathon (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -5838,6 +6331,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Fossatensi (de Rochester)"
   },
   {
@@ -5850,6 +6344,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Guilelmo (sn aujet)"
   },
   {
@@ -5862,6 +6357,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Hildrico (SuntorDery)"
   },
   {
@@ -5874,6 +6370,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Odone (Doyen)"
   },
   {
@@ -5886,6 +6383,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Rainerio (1067)"
   },
   {
@@ -5898,6 +6396,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Gallia (Moine de Jumi\u00e8ges)"
   },
   {
@@ -5907,6 +6406,7 @@
     "coords": null,
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": true,
     "description": "Visited: Depoi (cit\u00e9 en [)"
   },
   {
@@ -5916,6 +6416,7 @@
     "coords": null,
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": true,
     "description": "Visited: Abb (Gaufridus Ide rances Montbray)"
   },
   {
@@ -5928,6 +6429,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Ce (le Gallia christiana)"
   },
   {
@@ -5940,6 +6442,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Cou- (S. et Sigo sont des abb\u00e9s de Florent-l\u00e8s-Saumur)"
   },
   {
@@ -5952,6 +6455,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Bouchar (Petrus)"
   },
   {
@@ -5964,6 +6468,7 @@
     ],
     "year": 1069,
     "date_str": "1069/1070- 1096/1097",
+    "is_approximate": false,
     "description": "Visited: Maur-de (II)"
   },
   {
@@ -5976,6 +6481,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Quod (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -5988,6 +6494,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Thoma (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -6000,6 +6507,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Orate (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -6012,6 +6520,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Carnoti (de Rochester)"
   },
   {
@@ -6024,6 +6533,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Parisiensi (sn aujet)"
   },
   {
@@ -6036,6 +6546,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gaudeat (SuntorDery)"
   },
   {
@@ -6048,6 +6559,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Dominum (Doyen)"
   },
   {
@@ -6057,6 +6569,7 @@
     "coords": null,
     "year": 1113,
     "date_str": "S.d. [1113, apr\u00e8s le 6 juillet 1114]",
+    "is_approximate": true,
     "description": "Visited: T. Sanc Quilibe Quilibe Hic labl Mortuy"
   },
   {
@@ -6069,6 +6582,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Tout (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -6081,6 +6595,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ulricus (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -6093,6 +6608,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gontran (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -6105,6 +6621,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Magloire (de Rochester)"
   },
   {
@@ -6117,6 +6634,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Recueil (sn aujet)"
   },
   {
@@ -6129,6 +6647,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Poupardi (SuntorDery)"
   },
   {
@@ -6141,6 +6660,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Genain (Doyen)"
   },
   {
@@ -6153,6 +6673,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Germain-des- (1067)"
   },
   {
@@ -6165,6 +6686,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mortuus (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -6177,6 +6699,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Quo (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -6189,6 +6712,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Vi (de Rochester)"
   },
   {
@@ -6201,6 +6725,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Tendite (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -6213,6 +6738,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ame (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -6225,6 +6751,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancti (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -6237,6 +6764,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Rotdulfo (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -6249,6 +6777,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Fulcoin (1075/1076 = cf.)"
   },
   {
@@ -6261,6 +6790,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ess (sn aujet)"
   },
   {
@@ -6273,6 +6803,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Marn (SuntorDery)"
   },
   {
@@ -6285,6 +6816,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Anima (Doyen)"
   },
   {
@@ -6297,6 +6829,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ingerberto (1067)"
   },
   {
@@ -6309,6 +6842,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Henr (Moine de Jumi\u00e8ges)"
   },
   {
@@ -6318,6 +6852,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Bu (cit\u00e9 en [)"
   },
   {
@@ -6327,6 +6862,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Gallia (Gaufridus Ide rances Montbray)"
   },
   {
@@ -6339,6 +6875,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Soisson (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -6351,6 +6888,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Quae (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -6363,6 +6901,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Uniat (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -6375,6 +6914,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Protasii (de Rochester)"
   },
   {
@@ -6387,6 +6927,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Exoptata (sn aujet)"
   },
   {
@@ -6399,6 +6940,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ergo (SuntorDery)"
   },
   {
@@ -6411,6 +6953,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ite (Doyen)"
   },
   {
@@ -6423,6 +6966,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hugone (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -6435,6 +6979,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancti (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -6447,6 +6992,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ame (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -6459,6 +7005,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hagan (de Rochester)"
   },
   {
@@ -6471,6 +7018,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Lao (sn aujet)"
   },
   {
@@ -6483,6 +7031,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sanctae (SuntorDery)"
   },
   {
@@ -6495,6 +7044,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Omnia (Doyen)"
   },
   {
@@ -6507,6 +7057,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Quae (1067)"
   },
   {
@@ -6519,6 +7070,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hugo (Moine de Jumi\u00e8ges)"
   },
   {
@@ -6528,6 +7080,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Ce (cit\u00e9 en [)"
   },
   {
@@ -6537,6 +7090,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Soissons (Gaufridus Ide rances Montbray)"
   },
   {
@@ -6549,6 +7103,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Femineo (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -6561,6 +7116,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Roricon (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -6573,6 +7129,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Roberto (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -6585,6 +7142,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gerardo (de Rochester)"
   },
   {
@@ -6597,6 +7155,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Christ (sn aujet)"
   },
   {
@@ -6609,6 +7168,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Et (SuntorDery)"
   },
   {
@@ -6621,6 +7181,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Petre (Doyen)"
   },
   {
@@ -6633,6 +7194,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Pierr (1067)"
   },
   {
@@ -6645,6 +7207,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Deus (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -6657,6 +7220,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Quo (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -6669,6 +7233,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Virgineum (de Rochester)"
   },
   {
@@ -6681,6 +7246,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Utqu (sn aujet)"
   },
   {
@@ -6693,6 +7259,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Seraphin (SuntorDery)"
   },
   {
@@ -6705,6 +7272,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Virgineis (Doyen)"
   },
   {
@@ -6717,6 +7285,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Glori (1067)"
   },
   {
@@ -6729,6 +7298,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Pandit (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -6741,6 +7311,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Quid (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -6753,6 +7324,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Kauehia (de Rochester)"
   },
   {
@@ -6765,6 +7337,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hinc (sn aujet)"
   },
   {
@@ -6777,6 +7350,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Corpore (SuntorDery)"
   },
   {
@@ -6789,6 +7363,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ilclus (Doyen)"
   },
   {
@@ -6801,6 +7376,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Justiciae (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -6813,6 +7389,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sit (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -6825,6 +7402,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ut (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -6837,6 +7415,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Omnis (de Rochester)"
   },
   {
@@ -6849,6 +7428,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nochero (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -6861,6 +7441,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Girard (SuntorDery)"
   },
   {
@@ -6873,6 +7454,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hugon (Doyen)"
   },
   {
@@ -6885,6 +7467,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Vigne (1067)"
   },
   {
@@ -6897,6 +7480,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nunc (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -6909,6 +7493,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Quod (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -6921,6 +7506,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Rainoldo (de Rochester)"
   },
   {
@@ -6933,6 +7519,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Deus (sn aujet)"
   },
   {
@@ -6945,6 +7532,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Tninus (SuntorDery)"
   },
   {
@@ -6957,6 +7545,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Verum (Doyen)"
   },
   {
@@ -6969,6 +7558,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ab (1067)"
   },
   {
@@ -6981,6 +7571,7 @@
     ],
     "year": 1163,
     "date_str": "1163",
+    "is_approximate": false,
     "description": "Visited: Dalmati (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -6993,6 +7584,7 @@
     ],
     "year": 1163,
     "date_str": "1163",
+    "is_approximate": false,
     "description": "Visited: Et (de Rochester)"
   },
   {
@@ -7005,6 +7597,7 @@
     ],
     "year": 1163,
     "date_str": "1163",
+    "is_approximate": false,
     "description": "Visited: Adela (sn aujet)"
   },
   {
@@ -7017,6 +7610,7 @@
     ],
     "year": 1163,
     "date_str": "1163",
+    "is_approximate": false,
     "description": "Visited: Helvidis (SuntorDery)"
   },
   {
@@ -7029,6 +7623,7 @@
     ],
     "year": 1163,
     "date_str": "1163",
+    "is_approximate": false,
     "description": "Visited: Gela (Doyen)"
   },
   {
@@ -7041,6 +7636,7 @@
     ],
     "year": 1163,
     "date_str": "1163",
+    "is_approximate": false,
     "description": "Visited: Dominum (1067)"
   },
   {
@@ -7053,6 +7649,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Carnot (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -7065,6 +7662,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Christi (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -7077,6 +7675,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cependan (de Rochester)"
   },
   {
@@ -7089,6 +7688,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancti (sn aujet)"
   },
   {
@@ -7101,6 +7701,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Obituaires (SuntorDery)"
   },
   {
@@ -7113,6 +7714,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Iv (Doyen)"
   },
   {
@@ -7125,6 +7727,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Adelais (1067)"
   },
   {
@@ -7137,6 +7740,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Fulco (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -7149,6 +7753,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Chelle (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -7161,6 +7766,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Esto (de Rochester)"
   },
   {
@@ -7173,6 +7779,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Orate (sn aujet)"
   },
   {
@@ -7185,6 +7792,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Roscelin (SuntorDery)"
   },
   {
@@ -7197,6 +7805,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Bert (Doyen)"
   },
   {
@@ -7209,6 +7818,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancti (1067)"
   },
   {
@@ -7221,6 +7831,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Co (Moine de Jumi\u00e8ges)"
   },
   {
@@ -7230,6 +7841,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Niclfa (cit\u00e9 en [)"
   },
   {
@@ -7242,6 +7854,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Subvemniem (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -7254,6 +7867,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ollando (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -7266,6 +7880,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Meau (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -7278,6 +7893,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Amen (de Rochester)"
   },
   {
@@ -7290,6 +7906,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Et (sn aujet)"
   },
   {
@@ -7302,6 +7919,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gau (SuntorDery)"
   },
   {
@@ -7314,6 +7932,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Deni (Doyen)"
   },
   {
@@ -7326,6 +7945,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ame (Moine de Jumi\u00e8ges)"
   },
   {
@@ -7335,6 +7955,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Remigi (Gaufridus Ide rances Montbray)"
   },
   {
@@ -7347,6 +7968,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Meau (le Gallia christiana)"
   },
   {
@@ -7359,6 +7981,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Reims (S. et Sigo sont des abb\u00e9s de Florent-l\u00e8s-Saumur)"
   },
   {
@@ -7371,6 +7994,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Meau (Petrus)"
   },
   {
@@ -7383,6 +8007,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Remigiu (II)"
   },
   {
@@ -7395,6 +8020,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ite (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -7407,6 +8033,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gaudeat (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -7419,6 +8046,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Maria (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -7431,6 +8059,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sunt (de Rochester)"
   },
   {
@@ -7443,6 +8072,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Plasmator (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -7455,6 +8085,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Per (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -7467,6 +8098,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Viat (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -7479,6 +8111,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sevin (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -7491,6 +8124,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Quae (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -7503,6 +8137,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Maithildi (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -7515,6 +8150,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Manasse (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -7527,6 +8163,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Isembardo (de Rochester)"
   },
   {
@@ -7539,6 +8176,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ame (sn aujet)"
   },
   {
@@ -7551,6 +8189,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Orate (SuntorDery)"
   },
   {
@@ -7563,6 +8202,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ennard (Doyen)"
   },
   {
@@ -7575,6 +8215,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Bourgoeil (1067)"
   },
   {
@@ -7587,6 +8228,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Karnis (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -7599,6 +8241,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nec (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -7611,6 +8254,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ite (de Rochester)"
   },
   {
@@ -7623,6 +8267,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Lege (sn aujet)"
   },
   {
@@ -7635,6 +8280,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nam (SuntorDery)"
   },
   {
@@ -7647,6 +8293,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cum (Doyen)"
   },
   {
@@ -7659,6 +8306,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Guidone (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -7671,6 +8319,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Anima (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -7683,6 +8332,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hug (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -7695,6 +8345,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sanctae (de Rochester)"
   },
   {
@@ -7707,6 +8358,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Votis (sn aujet)"
   },
   {
@@ -7719,6 +8371,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Inclita (SuntorDery)"
   },
   {
@@ -7731,6 +8384,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Pro (Doyen)"
   },
   {
@@ -7743,6 +8397,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Adelaidi (1067)"
   },
   {
@@ -7755,6 +8410,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Odilard (Moine de Jumi\u00e8ges)"
   },
   {
@@ -7764,6 +8420,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Warner (cit\u00e9 en [)"
   },
   {
@@ -7773,6 +8430,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Qu (Gaufridus Ide rances Montbray)"
   },
   {
@@ -7785,6 +8443,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Pari (le Gallia christiana)"
   },
   {
@@ -7797,6 +8456,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Adelaidi (S. et Sigo sont des abb\u00e9s de Florent-l\u00e8s-Saumur)"
   },
   {
@@ -7809,6 +8469,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Almen (Petrus)"
   },
   {
@@ -7821,6 +8482,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Les (II)"
   },
   {
@@ -7833,6 +8495,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Emma (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -7845,6 +8508,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cheraldo (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -7857,6 +8521,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Reim (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -7869,6 +8534,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Funde (de Rochester)"
   },
   {
@@ -7881,6 +8547,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sicut (sn aujet)"
   },
   {
@@ -7893,6 +8560,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Et (SuntorDery)"
   },
   {
@@ -7905,6 +8573,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Orate (Doyen)"
   },
   {
@@ -7917,6 +8586,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Tebaud (1067)"
   },
   {
@@ -7929,6 +8599,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Orate (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -7941,6 +8612,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Alburg (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -7953,6 +8625,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nec (de Rochester)"
   },
   {
@@ -7965,6 +8638,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ch (sn aujet)"
   },
   {
@@ -7977,6 +8651,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Champagn (SuntorDery)"
   },
   {
@@ -7989,6 +8664,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Anima (Doyen)"
   },
   {
@@ -8001,6 +8677,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Claruit (1067)"
   },
   {
@@ -8010,6 +8687,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Sur (cit\u00e9 en [)"
   },
   {
@@ -8019,6 +8697,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Sur (Gaufridus Ide rances Montbray)"
   },
   {
@@ -8031,6 +8710,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Philippo (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -8043,6 +8723,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sanctae (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -8055,6 +8736,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Anima (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -8067,6 +8749,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Congaudent (de Rochester)"
   },
   {
@@ -8079,6 +8762,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Adelin (sn aujet)"
   },
   {
@@ -8091,6 +8775,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Aelina (SuntorDery)"
   },
   {
@@ -8103,6 +8788,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Heberi (Doyen)"
   },
   {
@@ -8115,6 +8801,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Contempsere (1067)"
   },
   {
@@ -8124,6 +8811,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Rosero (cit\u00e9 en [)"
   },
   {
@@ -8136,6 +8824,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Non (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -8148,6 +8837,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Atque (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -8160,6 +8850,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Discipulasque (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -8172,6 +8863,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Senonensis (de Rochester)"
   },
   {
@@ -8184,6 +8876,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gaudeo (sn aujet)"
   },
   {
@@ -8196,6 +8889,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sivolo (SuntorDery)"
   },
   {
@@ -8208,6 +8902,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Christ (Doyen)"
   },
   {
@@ -8220,6 +8915,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nesciat (1067)"
   },
   {
@@ -8232,6 +8928,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Anima (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -8244,6 +8941,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Martin (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -8256,6 +8954,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Anima (de Rochester)"
   },
   {
@@ -8268,6 +8967,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ne (sn aujet)"
   },
   {
@@ -8280,6 +8980,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Judex (SuntorDery)"
   },
   {
@@ -8292,6 +8993,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Lup (Doyen)"
   },
   {
@@ -8304,6 +9006,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cellulae (1067)"
   },
   {
@@ -8316,6 +9019,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gum (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -8328,6 +9032,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Miror (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -8340,6 +9045,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sponsum (de Rochester)"
   },
   {
@@ -8352,6 +9058,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Rotro (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -8364,6 +9071,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mumhento (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -8376,6 +9084,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Bernardo (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -8388,6 +9097,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Itcm (de Rochester)"
   },
   {
@@ -8400,6 +9110,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Arbitror (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -8412,6 +9123,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Haec (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -8424,6 +9136,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nil (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -8436,6 +9149,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Haec (de Rochester)"
   },
   {
@@ -8448,6 +9162,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Eva (sn aujet)"
   },
   {
@@ -8460,6 +9175,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Alter (SuntorDery)"
   },
   {
@@ -8472,6 +9188,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nullum (Doyen)"
   },
   {
@@ -8484,6 +9201,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hanc (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -8496,6 +9214,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Richerio (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -8508,6 +9227,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Poncius (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -8520,6 +9240,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Martinum (de Rochester)"
   },
   {
@@ -8532,6 +9253,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Martinus (sn aujet)"
   },
   {
@@ -8544,6 +9266,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Nec (SuntorDery)"
   },
   {
@@ -8556,6 +9279,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Vota (Doyen)"
   },
   {
@@ -8568,6 +9292,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Abbatissae (1067)"
   },
   {
@@ -8580,6 +9305,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Champ (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -8592,6 +9318,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Campi (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -8604,6 +9331,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Martin (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -8616,6 +9344,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Absolv (de Rochester)"
   },
   {
@@ -8628,6 +9357,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Conspicuum (sn aujet)"
   },
   {
@@ -8640,6 +9370,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ad (SuntorDery)"
   },
   {
@@ -8652,6 +9383,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Deu (Doyen)"
   },
   {
@@ -8664,6 +9396,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Chisoi (1067)"
   },
   {
@@ -8676,6 +9409,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Aonena (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -8688,6 +9422,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ricard (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -8700,6 +9435,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Willelmo (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -8712,6 +9448,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ame (de Rochester)"
   },
   {
@@ -8724,6 +9461,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Bituricensi (sn aujet)"
   },
   {
@@ -8736,6 +9474,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Vierzo (SuntorDery)"
   },
   {
@@ -8748,6 +9487,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Virsionensis (Doyen)"
   },
   {
@@ -8760,6 +9500,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Jean- (1067)"
   },
   {
@@ -8772,6 +9513,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Tr (Moine de Jumi\u00e8ges)"
   },
   {
@@ -8784,6 +9526,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Jean- (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -8796,6 +9539,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mari (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -8808,6 +9552,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Lemovicensi (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -8820,6 +9565,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Bercignensis (de Rochester)"
   },
   {
@@ -8832,6 +9578,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancti (sn aujet)"
   },
   {
@@ -8844,6 +9591,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Burgensis (SuntorDery)"
   },
   {
@@ -8856,6 +9604,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Etheldred (Doyen)"
   },
   {
@@ -8868,6 +9617,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mary (1067)"
   },
   {
@@ -8880,6 +9630,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancti (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -8892,6 +9643,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Limoge (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -8904,6 +9656,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sanctique (de Rochester)"
   },
   {
@@ -8916,6 +9669,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Issoudu (sn aujet)"
   },
   {
@@ -8928,6 +9682,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sancte (SuntorDery)"
   },
   {
@@ -8940,6 +9695,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Laurie (Doyen)"
   },
   {
@@ -8952,6 +9708,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Soisson (1067)"
   },
   {
@@ -8964,6 +9721,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Longueur (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -8976,6 +9734,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Turgot (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -8988,6 +9747,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Waltha (de Rochester)"
   },
   {
@@ -9000,6 +9760,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Durha (sn aujet)"
   },
   {
@@ -9012,6 +9773,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Liber (SuntorDery)"
   },
   {
@@ -9024,6 +9786,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Cuthberti (Doyen)"
   },
   {
@@ -9036,6 +9799,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hugue (1067)"
   },
   {
@@ -9048,6 +9812,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Jeur (Moine de Jumi\u00e8ges)"
   },
   {
@@ -9057,6 +9822,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Tamabilit (cit\u00e9 en [)"
   },
   {
@@ -9066,6 +9832,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Sur (Gaufridus Ide rances Montbray)"
   },
   {
@@ -9078,6 +9845,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Turgo (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -9090,6 +9858,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Lao (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -9102,6 +9871,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Robert (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -9114,6 +9884,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Omn (de Rochester)"
   },
   {
@@ -9126,6 +9897,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Sed (sn aujet)"
   },
   {
@@ -9138,6 +9910,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Hinc (SuntorDery)"
   },
   {
@@ -9150,6 +9923,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Bloi (Doyen)"
   },
   {
@@ -9162,6 +9936,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Raheri (1067)"
   },
   {
@@ -9174,6 +9949,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Non (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -9186,6 +9962,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Localit (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -9198,6 +9975,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Dei (de Rochester)"
   },
   {
@@ -9210,6 +9988,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Wa (sn aujet)"
   },
   {
@@ -9222,6 +10001,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Litin (SuntorDery)"
   },
   {
@@ -9234,6 +10014,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ckbnall (Doyen)"
   },
   {
@@ -9246,6 +10027,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Gerard (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -9258,6 +10040,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Mart (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -9270,6 +10053,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Acta (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -9282,6 +10066,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Saint (de Rochester)"
   },
   {
@@ -9294,6 +10079,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Savign (sn aujet)"
   },
   {
@@ -9306,6 +10092,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Walte (SuntorDery)"
   },
   {
@@ -9318,6 +10105,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Lengle (Doyen)"
   },
   {
@@ -9330,6 +10118,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Moolenbroe (1067)"
   },
   {
@@ -9342,6 +10131,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Vit (Moine de Jumi\u00e8ges)"
   },
   {
@@ -9351,6 +10141,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Ch (cit\u00e9 en [)"
   },
   {
@@ -9360,6 +10151,7 @@
     "coords": null,
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": true,
     "description": "Visited: Guillaume (Gaufridus Ide rances Montbray)"
   },
   {
@@ -9372,6 +10164,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Maixent (des personnage abb\u00e9s ' n de S. 'appara\u00eet pas = \u00c9tienne dans ' la Gallia . de liste christiana Caen donn\u00e9e Ce)"
   },
   {
@@ -9384,6 +10177,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Dalo (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -9396,6 +10190,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Les (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -9408,6 +10203,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Poi (de Rochester)"
   },
   {
@@ -9420,6 +10216,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Epistolam (sn aujet)"
   },
   {
@@ -9432,6 +10229,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Puer (SuntorDery)"
   },
   {
@@ -9444,6 +10242,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Ascensiones (Doyen)"
   },
   {
@@ -9456,6 +10255,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Johannes (1067)"
   },
   {
@@ -9468,6 +10268,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Aubin (a fond\u00e9 Holy Trinity d'York en 1089)"
   },
   {
@@ -9480,6 +10281,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Anger (derni\u00e8re = Tavant-derni\u00e8re syllabe de _ chacun 'syllabe par des vefs un de ce long titre espace blanc.)"
   },
   {
@@ -9492,6 +10294,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Moyen (de Rochester)"
   },
   {
@@ -9504,6 +10307,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Toutes (sn aujet)"
   },
   {
@@ -9516,6 +10320,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Un (SuntorDery)"
   },
   {
@@ -9528,6 +10333,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Majoris (Doyen)"
   },
   {
@@ -9540,6 +10346,7 @@
     ],
     "year": 924,
     "date_str": "924-939",
+    "is_approximate": false,
     "description": "Visited: Martin (1067)"
   }
 ]

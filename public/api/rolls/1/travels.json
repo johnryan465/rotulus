@@ -6,6 +6,7 @@
     "coords": null,
     "year": null,
     "date_str": "S.d.",
+    "is_approximate": true,
     "description": "Origin: Initial Roll..."
   }
 ]

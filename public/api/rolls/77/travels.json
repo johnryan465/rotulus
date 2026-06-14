@@ -9,6 +9,7 @@
     ],
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
     "description": "Origin: Rouleau mortuaire (fragmentaire) de Hugues; abb\u00e9 d..."
   },
   {
@@ -18,6 +19,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
     "description": "Visited: Grati (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -30,6 +32,7 @@
     ],
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
     "description": "Visited: Beate (A son sujet)"
   },
   {
@@ -39,6 +42,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
     "description": "Visited: Hugonis (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -51,6 +55,7 @@
     ],
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
     "description": "Visited: Versibus (A son sujet)"
   },
   {
@@ -60,6 +65,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
     "description": "Visited: Perfectumque (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -72,6 +78,7 @@
     ],
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
     "description": "Visited: Poitiers (A son sujet)"
   },
   {
@@ -81,6 +88,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
     "description": "Visited: Cilbert (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -93,6 +101,7 @@
     ],
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
     "description": "Visited: Selby (A son sujet)"
   },
   {
@@ -102,6 +111,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
     "description": "Visited: Paris (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -114,6 +124,7 @@
     ],
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
     "description": "Visited: Exempla (A son sujet)"
   },
   {
@@ -123,6 +134,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
     "description": "Visited: Quem (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -135,6 +147,7 @@
     ],
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
     "description": "Visited: Pro (A son sujet)"
   },
   {
@@ -144,6 +157,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
     "description": "Visited: Deo (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -156,6 +170,7 @@
     ],
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
     "description": "Visited: Champs (A son sujet)"
   },
   {
@@ -165,6 +180,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
     "description": "Visited: Pari (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -177,6 +193,7 @@
     ],
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
     "description": "Visited: Marmoutier (A son sujet)"
   },
   {
@@ -186,6 +203,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
     "description": "Visited: Roberti (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -198,6 +216,7 @@
     ],
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
     "description": "Visited: Dei (A son sujet)"
   },
   {
@@ -207,6 +226,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
     "description": "Visited: Hoc (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -219,6 +239,7 @@
     ],
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
     "description": "Visited: Hec (A son sujet)"
   },
   {
@@ -228,6 +249,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
     "description": "Visited: Hinc (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -240,6 +262,7 @@
     ],
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
     "description": "Visited: Quia (A son sujet)"
   },
   {
@@ -249,6 +272,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
     "description": "Visited: Domino (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -261,6 +285,7 @@
     ],
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
     "description": "Visited: Anger (A son sujet)"
   },
   {
@@ -270,6 +295,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
     "description": "Visited: Bertrand (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -279,6 +305,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
     "description": "Visited: Teciproca (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -291,6 +318,7 @@
     ],
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
     "description": "Visited: Jes (A son sujet)"
   },
   {
@@ -300,6 +328,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
     "description": "Visited: Augusti (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -312,6 +341,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Sauveu (A son sujet)"
   },
   {
@@ -321,6 +351,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Benedictins (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -330,6 +361,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Solignac (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -342,6 +374,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Moissac (Angers de S. Aubin)"
   },
   {
@@ -351,6 +384,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Colland (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -360,6 +394,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Adour (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -372,6 +407,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Caslres (Angers de S. Aubin)"
   },
   {
@@ -381,6 +417,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Bourges (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -390,6 +427,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Paul (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -402,6 +440,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Aulun (Angers de S. Aubin)"
   },
   {
@@ -411,6 +450,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Mouall (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -420,6 +460,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Soulec (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -432,6 +473,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Chacleuger (Angers de S. Aubin)"
   },
   {
@@ -441,6 +483,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Antonin (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -450,6 +493,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Hilaire-le- (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -462,6 +506,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Genis-des- (Angers de S. Aubin)"
   },
   {
@@ -471,6 +516,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Serg (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -480,6 +526,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Pierre (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -492,6 +539,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Pons-de- (Angers de S. Aubin)"
   },
   {
@@ -501,6 +549,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Brogne (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -510,6 +559,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Martin (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -522,6 +572,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Lagny-sur- (Angers de S. Aubin)"
   },
   {
@@ -531,6 +582,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Soissar (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -540,6 +592,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Vall (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -552,6 +605,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Amant-de (Angers de S. Aubin)"
   },
   {
@@ -561,6 +615,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Laurent (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -570,6 +625,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Nouaill (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -582,6 +638,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Meaux (Angers de S. Aubin)"
   },
   {
@@ -591,6 +648,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Munt (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -600,6 +658,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Venan (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -612,6 +671,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Sauxillanges (Angers de S. Aubin)"
   },
   {
@@ -621,6 +681,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Montolieu (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -630,6 +691,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Orl (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -642,6 +704,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Beno (Angers de S. Aubin)"
   },
   {
@@ -651,6 +714,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Munt (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -660,6 +724,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Venan (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -672,6 +737,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Sauxillanges (Angers de S. Aubin)"
   },
   {
@@ -681,6 +747,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Isidoro (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -690,6 +757,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Senne (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -702,6 +770,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Jean (Angers de S. Aubin)"
   },
   {
@@ -711,6 +780,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Col (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -720,6 +790,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Callvd (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -732,6 +803,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Cuuna (Angers de S. Aubin)"
   },
   {
@@ -741,6 +813,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Quun (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -750,6 +823,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Ssl (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -762,6 +836,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Oai (Angers de S. Aubin)"
   },
   {
@@ -771,6 +846,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Mauric (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -780,6 +856,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Ch (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -792,6 +869,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Pieters (Angers de S. Aubin)"
   },
   {
@@ -801,6 +879,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Marmoutie (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -810,6 +889,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Piacenza (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -822,6 +902,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Mari (Angers de S. Aubin)"
   },
   {
@@ -831,6 +912,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Peter (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -840,6 +922,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Mauric (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -852,6 +935,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Beaulieu-l (Angers de S. Aubin)"
   },
   {
@@ -861,6 +945,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Urcon (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -870,6 +955,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Mrcheonto (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -882,6 +968,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Saba (Angers de S. Aubin)"
   },
   {
@@ -891,6 +978,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Gildas (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -900,6 +988,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Holy (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -912,6 +1001,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Grestain (Angers de S. Aubin)"
   },
   {
@@ -921,6 +1011,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Antise (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -930,6 +1021,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Norwich (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -942,6 +1034,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Martial (Angers de S. Aubin)"
   },
   {
@@ -951,6 +1044,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Grand (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -960,6 +1054,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Paul (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -972,6 +1067,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Maur-sur- (Angers de S. Aubin)"
   },
   {
@@ -981,6 +1077,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Spalding (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -990,6 +1087,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Martin (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -1002,6 +1100,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Hol (Angers de S. Aubin)"
   },
   {
@@ -1011,6 +1110,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Mar (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -1020,6 +1120,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Beauvais (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -1032,6 +1133,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Charit (Angers de S. Aubin)"
   },
   {
@@ -1041,6 +1143,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Baa (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -1053,6 +1156,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Cronrc (Broussillon Bertrand de 1903)"
   },
   {
@@ -1062,6 +1166,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Bath (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -1074,6 +1179,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Bona (Angers de S. Aubin)"
   },
   {
@@ -1083,6 +1189,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Lincoln (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -1092,6 +1199,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Pau (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -1104,6 +1212,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Christchurch (Angers de S. Aubin)"
   },
   {
@@ -1113,6 +1222,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Germer-de- (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -1122,6 +1232,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Ramgey (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -1134,6 +1245,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Pierre-sur- (Angers de S. Aubin)"
   },
   {
@@ -1143,6 +1255,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
     "description": "Visited: Riom (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -1152,6 +1265,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": true,
     "description": "Visited: Pour (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -1164,6 +1278,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Susa (A son sujet)"
   },
   {
@@ -1173,6 +1288,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Pour (que le d\u00e9but de ce titre est ais\u00e9 de ait Tattribuer disparu)"
   },
   {
@@ -1182,6 +1298,7 @@
     "coords": null,
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": true,
     "description": "Visited: Conques (Ils'agit S soit de Petrus Raimundi)"
   },
   {
@@ -1194,6 +1311,7 @@
     ],
     "year": 1157,
     "date_str": "1157-1189",
+    "is_approximate": false,
     "description": "Visited: Condom (Angers de S. Aubin)"
   }
 ]

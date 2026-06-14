@@ -9,6 +9,7 @@
     ],
     "year": 1070,
     "date_str": "S.d. [vers 1070]",
+    "is_approximate": false,
     "description": "Origin: 10 Rouleou mortuaire  (fragmentaire ) de Girard, m..."
   },
   {
@@ -18,6 +19,7 @@
     "coords": null,
     "year": 1070,
     "date_str": "S.d. [vers 1070]",
+    "is_approximate": true,
     "description": "Visited: T. Culnaldensis cenobii . Geraldus (1) abbas, Guillelmus abbas, Bernardus, Durannus, Bertardus; Landri- 5 cuS, Guichardus; Hemeno, Bladinus, Radulfus; Guilelmus."
   }
 ]

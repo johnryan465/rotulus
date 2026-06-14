@@ -2,13 +2,14 @@
   {
     "step": 0,
     "type": "origin",
-    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "name": "Paris, France",
     "coords": [
-      48.8542,
-      2.3332
+      48.8566,
+      2.3522
     ],
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": false,
     "description": "Origin: relative \u00e0 la mort jun certain Foulques, appos\u00e9e s..."
   },
   {
@@ -18,6 +19,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Cardon (naumunaus-Deraiaus)"
   },
   {
@@ -27,6 +29,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Vincent (Miro)"
   },
   {
@@ -36,6 +39,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Jac (naumunaus-Deraiaus)"
   },
   {
@@ -45,6 +49,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Iglesia (Miro)"
   },
   {
@@ -54,6 +59,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Juan (naumunaus-Deraiaus)"
   },
   {
@@ -63,6 +69,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Pe (Miro)"
   },
   {
@@ -72,6 +79,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Anian (naumunaus-Deraiaus)"
   },
   {
@@ -81,6 +89,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Salvador (Miro)"
   },
   {
@@ -90,6 +99,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Pamplona (naumunaus-Deraiaus)"
   },
   {
@@ -99,6 +109,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Magnus (Miro)"
   },
   {
@@ -108,6 +119,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Item (naumunaus-Deraiaus)"
   },
   {
@@ -117,6 +129,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Sepius (Miro)"
   },
   {
@@ -126,6 +139,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Orate (naumunaus-Deraiaus)"
   },
   {
@@ -135,6 +149,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Guillel- (Miro)"
   },
   {
@@ -144,6 +159,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Pons-de- (naumunaus-Deraiaus)"
   },
   {
@@ -153,6 +169,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Sva (Miro)"
   },
   {
@@ -162,6 +179,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Matfredo (naumunaus-Deraiaus)"
   },
   {
@@ -171,6 +189,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Jaime (Miro)"
   },
   {
@@ -180,6 +199,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Montolie (naumunaus-Deraiaus)"
   },
   {
@@ -189,6 +209,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Jea (Miro)"
   },
   {
@@ -198,6 +219,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Brunone (naumunaus-Deraiaus)"
   },
   {
@@ -207,6 +229,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Jiulile (Miro)"
   },
   {
@@ -216,6 +239,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Puis (naumunaus-Deraiaus)"
   },
   {
@@ -225,6 +249,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Reims (Miro)"
   },
   {
@@ -234,6 +259,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Il (naumunaus-Deraiaus)"
   },
   {
@@ -243,6 +269,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Enfi (Miro)"
   },
   {
@@ -252,6 +279,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Souvent (naumunaus-Deraiaus)"
   },
   {
@@ -261,6 +289,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Je (Miro)"
   },
   {
@@ -270,6 +299,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Pour (naumunaus-Deraiaus)"
   },
   {
@@ -279,6 +309,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Pothi (Miro)"
   },
   {
@@ -288,6 +319,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Taffection (naumunaus-Deraiaus)"
   },
   {
@@ -297,6 +329,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Padmiration (Miro)"
   },
   {
@@ -306,6 +339,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Apr (naumunaus-Deraiaus)"
   },
   {
@@ -315,6 +349,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Maria (Miro)"
   },
   {
@@ -324,6 +359,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Cassel (naumunaus-Deraiaus)"
   },
   {
@@ -333,6 +369,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Arra (Miro)"
   },
   {
@@ -342,6 +379,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Brun (naumunaus-Deraiaus)"
   },
   {
@@ -351,6 +389,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Maria (Miro)"
   },
   {
@@ -360,6 +399,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Patris (naumunaus-Deraiaus)"
   },
   {
@@ -369,6 +409,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Precamur (Miro)"
   },
   {
@@ -378,6 +419,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Fucecchi (naumunaus-Deraiaus)"
   },
   {
@@ -387,6 +429,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Fisciclenses (Miro)"
   },
   {
@@ -396,6 +439,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: No (naumunaus-Deraiaus)"
   },
   {
@@ -405,6 +449,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Sancti (Miro)"
   },
   {
@@ -414,6 +459,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Petra (naumunaus-Deraiaus)"
   },
   {
@@ -423,6 +469,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Martinu (Miro)"
   },
   {
@@ -432,6 +479,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Grenobl (naumunaus-Deraiaus)"
   },
   {
@@ -441,6 +489,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Gratianopolitan (Miro)"
   },
   {
@@ -450,6 +499,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Cornillon (naumunaus-Deraiaus)"
   },
   {
@@ -459,6 +509,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Andr (Miro)"
   },
   {
@@ -468,6 +519,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Fecimus (naumunaus-Deraiaus)"
   },
   {
@@ -477,6 +529,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Et (Miro)"
   },
   {
@@ -486,6 +539,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Chalon-sur- (naumunaus-Deraiaus)"
   },
   {
@@ -495,6 +549,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Vincen (Miro)"
   },
   {
@@ -504,6 +559,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Cont (naumunaus-Deraiaus)"
   },
   {
@@ -513,6 +569,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Antoine (Miro)"
   },
   {
@@ -522,6 +579,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Lector (naumunaus-Deraiaus)"
   },
   {
@@ -531,6 +589,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Huic (Miro)"
   },
   {
@@ -540,6 +599,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: T. Sancti Dionysii areopagite, prope Parrhisium (sic). Si prosa vel versus possent conferre salutem, Nec prosa nec versus tollent tibi, Bruno; salutem. Nam prosa vel versus de te volat ore dicaci, Que tibi sic prosunt : serpentis ab ore minaci Si tormentari prohiberent, atque vorari, Sic prosa vel versus possunt conferre salutem. Cum strepitu vocis sonet ergo melodia cordis, Ut prosa vel versus; quod continet, id meditemur. g Dain de corde nrecemu"
   },
   {
@@ -549,6 +609,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Audia (naumunaus-Deraiaus)"
   },
   {
@@ -558,6 +619,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Deus (Miro)"
   },
   {
@@ -567,6 +629,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: In (naumunaus-Deraiaus)"
   },
   {
@@ -576,6 +639,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Nullus (Miro)"
   },
   {
@@ -585,6 +649,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Si (naumunaus-Deraiaus)"
   },
   {
@@ -594,6 +659,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Jivat (Miro)"
   },
   {
@@ -603,6 +669,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Abacu (naumunaus-Deraiaus)"
   },
   {
@@ -612,6 +679,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Abdia (Miro)"
   },
   {
@@ -621,6 +689,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: No (naumunaus-Deraiaus)"
   },
   {
@@ -630,6 +699,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Jam (Miro)"
   },
   {
@@ -639,6 +709,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Tonnerr (naumunaus-Deraiaus)"
   },
   {
@@ -648,6 +719,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Miche (Miro)"
   },
   {
@@ -657,6 +729,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Auxerr (naumunaus-Deraiaus)"
   },
   {
@@ -666,6 +739,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Germai (Miro)"
   },
   {
@@ -675,6 +749,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: T. Sancte Marie et Sancti Johannis confratrum Reomensis cenobii. Dans bona, Christe; poli famulo da regna Brunoni, Mutandi forem mundi cunctumque decorem 25 Deserto vili, quod regno charius illi Hac fuit in vita. Jam cessant plurima scripta. Debita doctori reddantur vota Brunoni, Atque suis cunctis nostris quoque reddite functis; Christi veraces famuli justique sequaces, 30 Qui charam fortis eremum colitis modo Turris Que vos; ut vestrum, perducet ad astra magistrum- ouag00 fratrec vestri memoriam patroniin"
   },
   {
@@ -684,6 +759,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Sd- (naumunaus-Deraiaus)"
   },
   {
@@ -693,6 +769,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Pothi (Miro)"
   },
   {
@@ -702,6 +779,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Ut (naumunaus-Deraiaus)"
   },
   {
@@ -711,6 +789,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Brunoni (Miro)"
   },
   {
@@ -720,6 +799,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Dans (naumunaus-Deraiaus)"
   },
   {
@@ -729,6 +809,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Celestis (Miro)"
   },
   {
@@ -738,6 +819,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Reim (naumunaus-Deraiaus)"
   },
   {
@@ -747,6 +829,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Judicis (Miro)"
   },
   {
@@ -756,6 +839,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Ut (naumunaus-Deraiaus)"
   },
   {
@@ -765,6 +849,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Patri (Miro)"
   },
   {
@@ -774,6 +859,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Reim (naumunaus-Deraiaus)"
   },
   {
@@ -783,6 +869,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Trinit (Miro)"
   },
   {
@@ -792,6 +879,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Reim (naumunaus-Deraiaus)"
   },
   {
@@ -801,6 +889,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Nicaise (Miro)"
   },
   {
@@ -810,6 +899,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Est (naumunaus-Deraiaus)"
   },
   {
@@ -819,6 +909,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Defectu (Miro)"
   },
   {
@@ -828,6 +919,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Lao (naumunaus-Deraiaus)"
   },
   {
@@ -837,6 +929,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Alius (Miro)"
   },
   {
@@ -846,6 +939,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Nogent-sou (naumunaus-Deraiaus)"
   },
   {
@@ -855,6 +949,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Couc (Miro)"
   },
   {
@@ -864,6 +959,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: T. Sanctorum Medardi et Sebastiani Suessionensis cenobii. Plebs pia Medardi, regalia et inclyta sancti, Flentibus et mestis solamina grata salutis. Qui gemitis functum, functi deponite luctum, Nil juvat extinctum deflere; dolere sepultum Sed potius vota prosint libamina sancta. Hec tribuantur ei, quicunque pericula mortis Pertimet, horrescit, pereuntibus omnibus orbis Continuis precibus succurrat et auxilietur: G0nuo laborat"
   },
   {
@@ -873,6 +969,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Vota (naumunaus-Deraiaus)"
   },
   {
@@ -882,6 +979,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Que (Miro)"
   },
   {
@@ -891,6 +989,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Orl (naumunaus-Deraiaus)"
   },
   {
@@ -900,6 +999,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Croi (Miro)"
   },
   {
@@ -909,6 +1009,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Beauvai (naumunaus-Deraiaus)"
   },
   {
@@ -918,6 +1019,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Symphorie (Miro)"
   },
   {
@@ -927,6 +1029,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Vit (naumunaus-Deraiaus)"
   },
   {
@@ -936,6 +1039,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Ipso (Miro)"
   },
   {
@@ -945,6 +1049,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Terra (naumunaus-Deraiaus)"
   },
   {
@@ -954,6 +1059,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Spiritus (Miro)"
   },
   {
@@ -963,6 +1069,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Marchienne (naumunaus-Deraiaus)"
   },
   {
@@ -972,6 +1079,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Marceniensi (Miro)"
   },
   {
@@ -981,6 +1089,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Lill (naumunaus-Deraiaus)"
   },
   {
@@ -990,6 +1099,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Pierr (Miro)"
   },
   {
@@ -999,6 +1109,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Poscer (naumunaus-Deraiaus)"
   },
   {
@@ -1008,6 +1119,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Quo (Miro)"
   },
   {
@@ -1017,6 +1129,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Pate (naumunaus-Deraiaus)"
   },
   {
@@ -1026,6 +1139,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Magne (Miro)"
   },
   {
@@ -1035,6 +1149,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Jabe (naumunaus-Deraiaus)"
   },
   {
@@ -1044,6 +1159,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Qui (Miro)"
   },
   {
@@ -1053,6 +1169,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Vere (naumunaus-Deraiaus)"
   },
   {
@@ -1062,6 +1179,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Cum (Miro)"
   },
   {
@@ -1071,6 +1189,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Excessit (naumunaus-Deraiaus)"
   },
   {
@@ -1080,6 +1199,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Hinc (Miro)"
   },
   {
@@ -1089,6 +1209,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Lagn (naumunaus-Deraiaus)"
   },
   {
@@ -1098,6 +1219,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Marn (Miro)"
   },
   {
@@ -1107,6 +1229,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Ekz (naumunaus-Deraiaus)"
   },
   {
@@ -1116,6 +1239,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Eizrezseien (Miro)"
   },
   {
@@ -1125,6 +1249,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Gervais (naumunaus-Deraiaus)"
   },
   {
@@ -1134,6 +1259,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Sancte (Miro)"
   },
   {
@@ -1143,6 +1269,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Coventr (naumunaus-Deraiaus)"
   },
   {
@@ -1152,6 +1279,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Mary (Miro)"
   },
   {
@@ -1161,6 +1289,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Casse (naumunaus-Deraiaus)"
   },
   {
@@ -1170,6 +1299,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Pierr (Miro)"
   },
   {
@@ -1179,6 +1309,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: T. patris Vedasti ejusdem civitatis episcopi cenobii scole. Ploret vita brevi series quod transeat evi ; Transit enim, quicquid jam presens cernitur esse. Sic decet idque petit, quod habet natura necesse. Gloria stat rerum; perit hec in tempore finis. Nil habet eternum, nisi sint imitamina veri. Ergo quisquis homo vult prudens esse videri; Diligat hec tantum, que sunt sibi dona salutis. Si bene stant cure, bona lucis amando future Non procuret ea, que sic fugiunt, velut aura. Quicanid bale+ 1 a e"
   },
   {
@@ -1188,6 +1319,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Ille (naumunaus-Deraiaus)"
   },
   {
@@ -1197,6 +1329,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Nunquam (Miro)"
   },
   {
@@ -1206,6 +1339,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Sd- (naumunaus-Deraiaus)"
   },
   {
@@ -1215,6 +1349,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: N- (Miro)"
   },
   {
@@ -1224,6 +1359,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Brunonis (naumunaus-Deraiaus)"
   },
   {
@@ -1233,6 +1369,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Sic (Miro)"
   },
   {
@@ -1242,6 +1379,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Lincol (naumunaus-Deraiaus)"
   },
   {
@@ -1251,6 +1389,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Mar (Miro)"
   },
   {
@@ -1260,6 +1399,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Sed (naumunaus-Deraiaus)"
   },
   {
@@ -1269,6 +1409,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Quod (Miro)"
   },
   {
@@ -1278,6 +1419,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Nam (naumunaus-Deraiaus)"
   },
   {
@@ -1287,6 +1429,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Abluat (Miro)"
   },
   {
@@ -1296,6 +1439,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Yor (naumunaus-Deraiaus)"
   },
   {
@@ -1305,6 +1449,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Pete (Miro)"
   },
   {
@@ -1314,6 +1459,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Sed (naumunaus-Deraiaus)"
   },
   {
@@ -1323,6 +1469,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Virtus (Miro)"
   },
   {
@@ -1332,6 +1479,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Nam (naumunaus-Deraiaus)"
   },
   {
@@ -1341,6 +1489,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Et (Miro)"
   },
   {
@@ -1350,6 +1499,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Cujus (naumunaus-Deraiaus)"
   },
   {
@@ -1359,6 +1509,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Nemo (Miro)"
   },
   {
@@ -1368,6 +1519,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Brunoni (naumunaus-Deraiaus)"
   },
   {
@@ -1377,6 +1529,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Vos (Miro)"
   },
   {
@@ -1386,6 +1539,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Spiritus (naumunaus-Deraiaus)"
   },
   {
@@ -1395,6 +1549,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Brunonis (Miro)"
   },
   {
@@ -1404,6 +1559,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Brunotc (naumunaus-Deraiaus)"
   },
   {
@@ -1413,6 +1569,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: For (Miro)"
   },
   {
@@ -1422,6 +1579,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Colligitu (naumunaus-Deraiaus)"
   },
   {
@@ -1431,6 +1589,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Hujus (Miro)"
   },
   {
@@ -1440,6 +1599,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Debita (naumunaus-Deraiaus)"
   },
   {
@@ -1449,6 +1609,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Gui (Miro)"
   },
   {
@@ -1458,6 +1619,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Le (naumunaus-Deraiaus)"
   },
   {
@@ -1467,6 +1629,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Julien-du- (Miro)"
   },
   {
@@ -1476,6 +1639,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Hinc (naumunaus-Deraiaus)"
   },
   {
@@ -1485,6 +1649,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Patrem (Miro)"
   },
   {
@@ -1494,6 +1659,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Rege (naumunaus-Deraiaus)"
   },
   {
@@ -1503,6 +1669,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Cernat (Miro)"
   },
   {
@@ -1512,6 +1679,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Maillezai (naumunaus-Deraiaus)"
   },
   {
@@ -1521,6 +1689,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Pierr (Miro)"
   },
   {
@@ -1530,6 +1699,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Ut (naumunaus-Deraiaus)"
   },
   {
@@ -1539,6 +1709,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Si (Miro)"
   },
   {
@@ -1548,6 +1719,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Mainardus (naumunaus-Deraiaus)"
   },
   {
@@ -1557,6 +1729,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Trinitat (Miro)"
   },
   {
@@ -1566,6 +1739,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Si (naumunaus-Deraiaus)"
   },
   {
@@ -1575,6 +1749,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Non (Miro)"
   },
   {
@@ -1584,6 +1759,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Pascal (naumunaus-Deraiaus)"
   },
   {
@@ -1593,6 +1769,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Palestrin (Miro)"
   },
   {
@@ -1605,6 +1782,7 @@
     ],
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": false,
     "description": "Visited: Petrin (de Metz)"
   },
   {
@@ -1614,6 +1792,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Deum (naumunaus-Deraiaus)"
   },
   {
@@ -1623,6 +1802,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Jam (Miro)"
   },
   {
@@ -1632,6 +1812,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Renco (naumunaus-Deraiaus)"
   },
   {
@@ -1641,6 +1822,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Pascal (Miro)"
   },
   {
@@ -1653,6 +1835,7 @@
     ],
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": false,
     "description": "Visited: Un (de Metz)"
   },
   {
@@ -1662,6 +1845,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Deum (naumunaus-Deraiaus)"
   },
   {
@@ -1671,6 +1855,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Jam (Miro)"
   },
   {
@@ -1680,6 +1865,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Renco (naumunaus-Deraiaus)"
   },
   {
@@ -1689,6 +1875,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Pascal (Miro)"
   },
   {
@@ -1698,6 +1885,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Anima (naumunaus-Deraiaus)"
   },
   {
@@ -1707,6 +1895,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Kerrenum (Miro)"
   },
   {
@@ -1716,6 +1905,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Domini (naumunaus-Deraiaus)"
   },
   {
@@ -1725,6 +1915,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Paetri (Miro)"
   },
   {
@@ -1734,6 +1925,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Gregorii (naumunaus-Deraiaus)"
   },
   {
@@ -1743,6 +1935,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Junc (Miro)"
   },
   {
@@ -1752,6 +1945,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Recueil (naumunaus-Deraiaus)"
   },
   {
@@ -1761,6 +1955,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Cabbaye (Miro)"
   },
   {
@@ -1770,6 +1965,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Picardi (naumunaus-Deraiaus)"
   },
   {
@@ -1779,6 +1975,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Col (Miro)"
   },
   {
@@ -1791,6 +1988,7 @@
     ],
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": false,
     "description": "Visited: Gent (de Metz)"
   },
   {
@@ -1800,6 +1998,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Titin (naumunaus-Deraiaus)"
   },
   {
@@ -1809,6 +2008,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Pour (Miro)"
   },
   {
@@ -1818,6 +2018,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Ani (naumunaus-Deraiaus)"
   },
   {
@@ -1827,6 +2028,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Qui (Miro)"
   },
   {
@@ -1836,6 +2038,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Quis (naumunaus-Deraiaus)"
   },
   {
@@ -1845,6 +2048,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Mors (Miro)"
   },
   {
@@ -1854,6 +2058,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Alardo (naumunaus-Deraiaus)"
   },
   {
@@ -1863,6 +2068,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Arnulfo (Miro)"
   },
   {
@@ -1872,6 +2078,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Et (naumunaus-Deraiaus)"
   },
   {
@@ -1881,6 +2088,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Progenies (Miro)"
   },
   {
@@ -1890,6 +2098,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Abb (naumunaus-Deraiaus)"
   },
   {
@@ -1899,6 +2108,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Winoc (Miro)"
   },
   {
@@ -1908,6 +2118,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Watte (naumunaus-Deraiaus)"
   },
   {
@@ -1917,6 +2128,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Orate (Miro)"
   },
   {
@@ -1926,6 +2138,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Ricolfo (naumunaus-Deraiaus)"
   },
   {
@@ -1935,6 +2148,7 @@
     "coords": null,
     "year": 1150,
     "date_str": "S.d. [d\u00e9but XII s.]",
+    "is_approximate": true,
     "description": "Visited: Dominum (Miro)"
   }
 ]
