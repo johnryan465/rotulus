@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1107,
+    "date_str": "S.d. [1107, apr\u00e8s le 8 septembre]",
+    "is_approximate": false,
+    "description": "Origin: 15 Rouleau mortuaire ( fragmentaire) de _ 1107) . ..."
+  }
+]

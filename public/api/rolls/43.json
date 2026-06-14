@@ -1,0 +1,32 @@
+{
+  "roll": {
+    "id": 43,
+    "roll_num": "64",
+    "date_str": "[1000] sciatis Communis tamen oratio eorum oblivisci non querit, que nos sibi omnes in Christo alterutrum vivos et mortuos jugiter habeat commendatos. Valete.",
+    "title": "2 S.d.-S. Denis. Contio Sancti En (sic) Dionysii (col. 1) 5 (col. 2) Gozfredum precibus figite, Willelmumque pia mente tenete ge 10 [c.p] 3 S.d.- Orbais. Omne genus hominum, casus reminiscere loeti, Mortiferi dudum nascentis ab ore chelidri, Qui primi fauces hominis satiare coegit Arboris ex fructu noscente bonumque malumque ; 15 Post quem nos soboles frendens Gurgonides atque Nititur absorbere vorax cum dente lupino. Hinc Pauli memores dicti studeamus adesse, Docmate vocifero cosmo reboantis in isto Eternum pondus sotiorum ferte 0 (1) simulque 20 Astriferi jussum sectantes denique Christi. Scire pium vobis, nostrum notamus ovile Orbacis scilicet veteris sub onomate dictum. Affore testatur noster seniorque paterque Hic (scilicet Petrus) custos ovium; ductor quoque coelicolarum 25 Noster et eximius ; Drogo venerabilis abba, Inter ovesque suas rutilans ceu mistica lampas; Sub quo servatur fraterna cohorsque ~ venusta, Que jugiter pietate viget, bonitate renitet, Suggerimus vobis mesti cum voce lugubri, 30 0 . Ini Au P [ pe on M nc S0 M ty vic ea ad tis ru pl Ci",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "34",
+    "is_verified": 0,
+    "year": 1000
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 74,
+      "roll_id": 43,
+      "pdf_page": 34,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Cf II Cor, IV, 17 :  aeternum gloriae pondus operatur in nobis -"
+    },
+    {
+      "id": 75,
+      "roll_id": 43,
+      "pdf_page": 34,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "de"
+    }
+  ]
+}

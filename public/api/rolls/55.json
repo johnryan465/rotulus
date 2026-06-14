@@ -1,0 +1,32 @@
+{
+  "roll": {
+    "id": 55,
+    "roll_num": "84",
+    "date_str": "S.d. [1096, apr\u00e8s = septembre]",
+    "title": "Rouleau mortuaire de Jean [Ier ] , \u00e9v\u00eaque dOrl\u00e9ans. 10 Document perdu mentionn\u00e9 dans le titre de Baudri de Bourgueil pour le rouleau mortuaire d'Audebert, archev\u00eaque de Bourges (2) Jean I*\" , \u00e9v\u00eaque dOrl\u00e9ans et fr\u00e8re de Raoul II, archev\u00eaque de Tours, fut en charge de 1089 8a mort (septembre 1096) (3) En 1090-1091, il obtint de Philippe IFr un dipl\u00f4me en faveur des chanoi- nes de son \u00e9glise () _ Yves de Chartres le pr\u00e9sente; dans deux de ses lettres (5) , comme un personnage 15 particuli\u00e8rement d\u00e9bauch\u00e9. Titre de Baudri de Bourgueil Aurelianensis superest jam carta Johannis. \" tangant corrig\u00e9 en cogant par exponctuation de tan et addition en interligne de co B. () Cf. L. Delisle; Rouleaux des morts du IX' Qu XVe s , P. 144, nP XXVI ; Obituaires de la province de Sens, t. III, P. 2 ; J-H. Foulon, La 36 Danc@ do Ponoct A. Fliche, Le r\u00e8gne de Philippe I, P. 433 . (4) \u00c9d. M. Prou; Recueil des actes de Philip- pe [' , P. 310, n? CXXIIL. \u00c9d [ Leclerca   Ynes de Chartres Corres-",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "40",
+    "is_verified": 0,
+    "year": 1096
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 242,
+      "roll_id": 55,
+      "pdf_page": 40,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Ue 4L8ue Uuivo Vu  t.I, p. 239. (2) \u00c9d. infra, p. 236, n 88. Cf. Gallia christiana, t. VIII, col. 1441 ;"
+    },
+    {
+      "id": 243,
+      "roll_id": 55,
+      "pdf_page": 40,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "pondance, L. I, Paris,   1949, P. 282, n? 65 ; p. 290, n? 66."
+    }
+  ]
+}

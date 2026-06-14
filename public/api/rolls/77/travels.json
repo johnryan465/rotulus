@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Angers, France",
+    "coords": [
+      47.4784,
+      -0.5635
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157. apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) de Hugues; abb\u00e9 d..."
+  }
+]

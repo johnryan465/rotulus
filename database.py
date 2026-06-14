@@ -32,6 +32,7 @@ def init_db():
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         roll_id INTEGER,
         title TEXT,
+        location_name TEXT,
         latin_text TEXT,
         pdf_page INTEGER,
         pdf_half TEXT,

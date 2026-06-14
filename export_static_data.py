@@ -261,53 +261,36 @@ def get_roll_travels(conn, roll_id):
     
     step = len(travels)
     for tit in tituli:
-        cursor.execute("SELECT * FROM entities WHERE titulus_id = ? ORDER BY id", (tit["id"],))
-        entities = [dict(r) for r in cursor.fetchall()]
-        tit_year = roll_year; tit_date_str = roll["date_str"]
-        for ent in entities:
-            if ent["normalized_dates"]:
-                ey = extract_year(ent["normalized_dates"])
-                if ey: tit_year = ey; tit_date_str = ent["normalized_dates"]; break
+        loc_str = tit.get("location_name")
         
-        # New: Also look for locations directly in the Latin text of the titulus
-        words_in_text = re.findall(r'\b[A-Z][a-zA-ZÀ-ÿ\-]{3,}\b', tit["latin_text"])
-        for word in words_in_text:
-            geo = geocode_location(word)
-            if geo:
-                loc_name = geo[2]
-                coords = geo[:2]
-                approx = geo[3]
-                is_dup = False
-                if travels:
-                    last = travels[-1]
-                    is_dup = (last["coords"] == coords) if coords and last["coords"] else (last["name"].lower() == loc_name.lower())
-                if not is_dup:
-                    travels.append({
-                        "step": step, "type": "stop", "name": loc_name, "coords": coords,
-                        "year": tit_year, "date_str": tit_date_str, "is_approximate": approx,
-                        "description": f"Found in text: {word}"
-                    })
-                    step += 1
-
-        entity_locations = [ent for ent in entities if ent["location_name"]]
-        if entity_locations:
-            for ent in entity_locations:
-                geo = geocode_location(ent["location_name"])
-                loc_name = geo[2] if geo else ent["location_name"]
-                coords = geo[:2] if geo else None
-                approx = geo[3] if geo else True
-                is_dup = False
-                if travels:
-                    last = travels[-1]
-                    is_dup = (last["coords"] == coords) if coords and last["coords"] else (last["name"].lower() == loc_name.lower())
-                if not is_dup:
-                    travels.append({
-                        "step": step, "type": "stop", "name": loc_name, "coords": coords,
-                        "year": tit_year, "date_str": tit_date_str, "is_approximate": approx,
-                        "description": f"Visited: {ent['normalized_name']} ({ent['normalized_role']})"
-                    })
-                    step += 1
-                    
+        # If there's no explicit location extracted from a Dufour header, skip it.
+        # This prevents "static" rolls like Roll 5 from plotting fake journeys.
+        if not loc_str:
+            continue
+            
+        geo = geocode_location(loc_str)
+        if geo:
+            loc_name = geo[2]
+            coords = geo[:2]
+            approx = geo[3]
+        else:
+            loc_name = loc_str.strip()
+            coords = None
+            approx = True
+            
+        is_dup = False
+        if travels:
+            last = travels[-1]
+            is_dup = (last["coords"] == coords) if coords and last["coords"] else (last["name"].lower() == loc_name.lower())
+            
+        if not is_dup:
+            travels.append({
+                "step": step, "type": "stop", "name": loc_name, "coords": coords,
+                "year": roll_year, "date_str": roll["date_str"], "is_approximate": approx,
+                "description": f"Titulus Header: {loc_str}"
+            })
+            step += 1
+            
     return travels
 
 def export_data():

@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Niederaltaich Abbey, Germany",
+    "coords": [
+      48.7663,
+      13.0274
+    ],
+    "year": 1097,
+    "date_str": "S.d. [1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": false,
+    "description": "Origin: Ede Bompos\u00e9pat Baudri de Bourgueil pour le rouleau..."
+  }
+]

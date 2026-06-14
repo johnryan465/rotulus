@@ -561,7 +561,41 @@ def parse_page_content(lines, expected_next_roll, pdf_name, page_num, half_name,
             i += len(lines[i:]) - len(remaining)
             continue
             
-        # Check if it is a titulus
+        # Check if it is an Explicit Dufour Titulus Header (e.g., "25 S.d.- Jouarre, N.-D." or "75 [76] S.d. ~ Trier")
+        dufour_header_match = re.match(r'^(\d+)\s*(?:\[\d+\])?\s*(?:S\.?d\.?[~-]*|\d+\s+[a-zA-ZÀ-ÿ]+\s+\d+\s*-?)\s*(?:\[.*?\])?\s*([^,;:]+)', line)
+        if dufour_header_match:
+            tit_num = dufour_header_match.group(1)
+            loc_name = dufour_header_match.group(2).strip(" .")
+            
+            tit_lines = []
+            j = i + 1
+            while j < len(lines):
+                sub_line = lines[j].strip()
+                if "=== FOOTNOTES ===" in sub_line:
+                    j += 1
+                    continue
+                if not sub_line:
+                    j += 1
+                    continue
+                # Break if next explicit header or T. marker is found
+                if re.match(r'^\d+\s*(?:\[\d+\])?\s*(?:S\.?d\.?[~-]*|\d+\s+[a-zA-ZÀ-ÿ]+\s+\d+\s*-?)', sub_line) or re.match(r'^T[T]?\.\s+', sub_line, re.IGNORECASE):
+                    break
+                sub_roll_num, _, _, _ = parse_roll_header(lines[j:], expected_next_roll, pdf_max_roll=pdf_max_roll)
+                if sub_roll_num:
+                    break
+                tit_lines.append(sub_line)
+                j += 1
+                
+            items.append(('titulus', {
+                "title": line,
+                "location_name": loc_name,
+                "text_lines": tit_lines,
+                "start_idx": i
+            }))
+            i = j
+            continue
+
+        # Check if it is a classic T. titulus without Dufour header
         tit_match = re.match(r'^T[T]?\.\s+(.+)$', line, re.IGNORECASE)
         if tit_match:
             tit_lines = []
@@ -858,10 +892,11 @@ def parse_and_load():
                 active_roll_id = roll_num_to_id[data["roll_num"]]
             elif item_type == 'titulus':
                 latin_text = " ".join(data["text_lines"])
+                loc_name = data.get("location_name", "")
                 cursor.execute("""
-                INSERT INTO tituli (roll_id, title, latin_text, pdf_page, pdf_half)
-                VALUES (?, ?, ?, ?, ?)
-                """, (active_roll_id, data["title"], latin_text, page_num, half))
+                INSERT INTO tituli (roll_id, title, location_name, latin_text, pdf_page, pdf_half)
+                VALUES (?, ?, ?, ?, ?, ?)
+                """, (active_roll_id, data["title"], loc_name, latin_text, page_num, half))
                 titulus_id = cursor.lastrowid
                 
                 cursor.execute("SELECT footnote_num, text FROM footnotes WHERE roll_id = ?", (active_roll_id,))
