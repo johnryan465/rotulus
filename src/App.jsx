@@ -78,7 +78,7 @@ export default function App() {
     const fetchTravels = async () => {
       try {
         if (mapRollId === 'all') {
-          const res = await fetch(`/api/travels`);
+          const res = await fetch(`/rotulus/api/travels.json`);
           const data = await res.json();
           setAllTravelsData(data);
 
@@ -1141,6 +1141,23 @@ export default function App() {
                                   {loc.description}
                                 </p>
                               </div>
+                            </div>
+                          );
+                        })}
+                      </div>
+                    )}
+                  </>
+                )}
+              </div>
+            </div>
+          </div>
+        )}
+
+      </div>
+    </div>
+  );
+}
+    </div>
                             </div>
                           );
                         })}
