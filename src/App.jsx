@@ -10,13 +10,22 @@ const getApiUrl = (path) => {
   const isProd = import.meta.env.PROD;
   // In production (GitHub Pages), we use the static JSON files
   if (isProd) {
-    // Mapping dynamic routes to static .json files
     if (path === '/api/rolls') return '/rotulus/api/rolls.json';
     if (path === '/api/travels') return '/rotulus/api/travels.json';
-    if (path.startsWith('/api/rolls/')) {
+    
+    // Handle /api/rolls/{id}/travels
+    if (path.match(/^\/api\/rolls\/\d+\/travels$/)) {
+      const parts = path.split('/');
+      const id = parts[3];
+      return `/rotulus/api/rolls/${id}/travels.json`;
+    }
+    
+    // Handle /api/rolls/{id}
+    if (path.match(/^\/api\/rolls\/\d+$/)) {
       const id = path.split('/').pop();
       return `/rotulus/api/rolls/${id}.json`;
     }
+    
     return `/rotulus${path}.json`;
   }
   // In development, we use the local FastAPI server via proxy
