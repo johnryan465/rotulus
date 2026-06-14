@@ -71,17 +71,18 @@ export default function App() {
       if (['dashboard', 'explorer', 'map', 'verification'].includes(tab)) {
         setActiveTab(tab);
         if (id && id !== selectedRollId) {
-          handleSelectRoll(id);
+          setSelectedRollId(id);
+          setRollDetail(null);
+          fetchRollDetail(id);
         }
       }
     };
 
     window.addEventListener('hashchange', handleHashChange);
-    // Initial parse
     handleHashChange();
     return () => window.removeEventListener('hashchange', handleHashChange);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [rolls]); // Re-run when rolls load to ensure ID selection works
+  }, [rolls, selectedRollId]);
 
   const syncHash = (tab, id = null) => {
     const newHash = id ? `#/${tab}/${id}` : `#/${tab}`;
@@ -90,16 +91,18 @@ export default function App() {
     }
   };
 
-  const handleTabChange = (tab) => {
+  const handleTabChange = (tab, id = null) => {
     setActiveTab(tab);
-    syncHash(tab, tab === 'explorer' || tab === 'verification' ? selectedRollId : null);
+    // Use the passed ID if provided, otherwise fallback to selectedRollId
+    const targetId = id || (tab === 'explorer' || tab === 'verification' ? selectedRollId : null);
+    syncHash(tab, targetId);
   };
 
   const handleSelectRoll = (id) => {
     setSelectedRollId(id);
     setRollDetail(null);
     fetchRollDetail(id);
-    // Only update hash if we are in a tab that supports roll selection
+    // Update hash if we are in a detail-supporting tab
     if (activeTab === 'explorer' || activeTab === 'verification') {
       syncHash(activeTab, id);
     }
@@ -108,12 +111,11 @@ export default function App() {
   const fetchRolls = async (query = '') => {
     setLoading(true);
     try {
-      const isProd = import.meta.env.PROD;
       const res = await fetch(getApiUrl('/api/rolls'));
       const data = await res.json();
       
       let filteredData = data;
-      if (isProd && query) {
+      if (query) {
         const q = query.toLowerCase();
         filteredData = data.filter(r => 
           (r.title && r.title.toLowerCase().includes(q)) ||
@@ -153,7 +155,7 @@ export default function App() {
     window.gotoRoll = (id) => {
       if (!id) return;
       handleSelectRoll(Number(id));
-      handleTabChange('explorer');
+      handleTabChange('explorer', Number(id)); // Pass ID explicitly to avoid race
     };
     return () => { delete window.gotoRoll; };
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -265,15 +267,36 @@ export default function App() {
           `);
         });
       });
-    } else {
+    } else if (travelPath && travelPath.length > 0) {
       const coords = travelPath.map(t => t.coords).filter(c => c);
       if (coords.length > 0) {
         allCoords.push(...coords);
-        if (coords.length > 1) window.L.polyline(coords, { color: 'var(--primary)', weight: 3, opacity: 0.8, dashArray: '5, 10' }).addTo(mapLayersRef.current);
-        travelPath.forEach((loc) => {
+        if (coords.length > 1) window.L.polyline(coords, { color: '#8b0000', weight: 3, opacity: 0.8, dashArray: '5, 10' }).addTo(mapLayersRef.current);
+        travelPath.forEach((loc, index) => {
           if (!loc.coords) return;
-          window.L.circleMarker(loc.coords, { radius: loc.type === 'origin' ? 9 : 7, fillColor: loc.type === 'origin' ? '#8b0000' : '#10b981', color: '#fff', weight: 2, fillOpacity: 1 }).addTo(mapLayersRef.current)
-            .bindPopup(`<strong>${loc.name}</strong><br/>${loc.date_str || ''}`);
+          const isOrigin = loc.type === 'origin';
+          const marker = window.L.circleMarker(loc.coords, { 
+            radius: isOrigin ? 9 : 7, 
+            fillColor: isOrigin ? '#8b0000' : '#10b981', 
+            color: '#fff', 
+            weight: 2, 
+            fillOpacity: 1,
+            interactive: true
+          }).addTo(mapLayersRef.current);
+
+          marker.on('click', (e) => {
+            window.L.DomEvent.stopPropagation(e);
+            window.gotoRoll(mapRollId);
+          });
+
+          marker.bindPopup(`
+            <div style="font-family: 'Calibri', 'Candara', 'Segoe UI', 'Optima', 'Arial', sans-serif; padding: 4px; min-width: 150px;">
+              <h4 style="margin: 0; color: ${isOrigin ? '#8b0000' : '#10b981'}; font-weight: bold;">Roll N° ${mapRollId}</h4>
+              <div style="font-size: 13px; margin: 4px 0;">${isOrigin ? '🚩 Origin' : `📍 Stop ${index}`}: <b>${loc.name}</b></div>
+              <div style="font-size: 12px; color: #666; margin-bottom: 8px;">${loc.date_str || ''}</div>
+              <button onclick="window.gotoRoll('${mapRollId}')" style="background: var(--primary); color: white; border: none; padding: 6px; cursor: pointer; width: 100%; border-radius: 2px;">View Scroll Details</button>
+            </div>
+          `);
         });
       }
     }
@@ -445,30 +468,34 @@ export default function App() {
               <div className="glass-panel" style={{ padding: '24px' }}>
                 <h3 style={{ marginBottom: '16px', fontSize: '18px' }}>Filtered Catalogue</h3>
                 <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '12px' }}>
-                  {Object.entries(allTravelsData)
-                    .filter(([, r]) => {
+                  {Object.values(allTravelsData)
+                    .filter((r) => {
                       if (r.year && (r.year < yearFilter[0] || r.year > yearFilter[1])) return false;
                       if (r.num_stops < stopsFilter) return false;
                       return true;
                     })
-                    .sort((a, b) => Number(a[1].roll_num) - Number(b[1].roll_num))
-                    .map(([id, r]) => (
+                    .sort((a, b) => {
+                      // Robust sort: extract first number from strings like "8-10"
+                      const getNum = (s) => parseInt(s.toString().split('-')[0]) || 0;
+                      return getNum(a.roll_num) - getNum(b.roll_num);
+                    })
+                    .map((r) => (
                       <div 
-                        key={id} 
+                        key={r.id} 
                         className="roll-item active" 
                         style={{ cursor: 'pointer', padding: '12px' }}
-                        onClick={() => window.gotoRoll(id)}
+                        onClick={() => window.gotoRoll(r.id)}
                       >
                         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                           <div>
                             <div className="roll-num" style={{ fontSize: '14px' }}>N° {r.roll_num}</div>
-                            <div style={{ fontWeight: 'bold', fontSize: '13px' }}>{r.year} AD — {r.num_stops} Stops</div>
+                            <div style={{ fontWeight: 'bold', fontSize: '13px' }}>{r.date_str} — {r.num_stops} Stops</div>
                           </div>
                           <ChevronRight size={16} color="var(--accent)" />
                         </div>
                       </div>
-
                     ))}
+
                 </div>
               </div>
             )}

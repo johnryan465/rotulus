@@ -313,6 +313,7 @@ def export_data():
             roll_travel_dir = os.path.join(roll_dir, str(roll_id)); os.makedirs(roll_travel_dir, exist_ok=True)
             with open(os.path.join(roll_travel_dir, "travels.json"), "w") as f: json.dump(travels, f, indent=2)
             all_travels[roll_id] = {
+                "id": roll_id,
                 "roll_num": roll["roll_num"], "title": roll["title"], 
                 "date_str": roll["date_str"], "year": year, 
                 "travels": travels, "num_stops": num_stops
