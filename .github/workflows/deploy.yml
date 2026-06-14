@@ -24,10 +24,7 @@ jobs:
         run: npm install
       - name: Build
         run: |
-          pwd
-          ls -lh
-          python3 -c "import sqlite3; conn = sqlite3.connect('rolls.db'); cursor = conn.cursor(); cursor.execute(\"SELECT name FROM sqlite_master WHERE type='table';\"); print('Tables:', cursor.fetchall())"
-          npm run build
+          npm run build || (echo "Build failed! Output:" && ls -R public/api && exit 1)
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
