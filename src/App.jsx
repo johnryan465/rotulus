@@ -4,6 +4,7 @@ import {
   MapPin, Edit3, Save, Check, X, Menu
 } from 'lucide-react';
 import RangeSlider from './RangeSlider';
+import './App.css';
 
 // Helper to determine API base path
 const getApiUrl = (path) => {
