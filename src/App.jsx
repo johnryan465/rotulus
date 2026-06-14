@@ -452,818 +452,263 @@ export default function App() {
   };
 
   return (
-    <div className="app-container">
-      {/* MOBILE HEADER */}
-      <div className="glass-panel mobile-header">
-        <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
-          <Database size={24} color="var(--primary)" />
-          <div>
-            <h2 style={{ margin: 0, fontSize: '18px', letterSpacing: '0.05em' }}>ANTIGRAVITY</h2>
-          </div>
+    <div className="main-container">
+      {/* TOP NAVIGATION */}
+      <div className="top-nav">
+        <div className="logo-section">
+          <BookOpen className="logo-icon" />
+          <div className="logo-text">ROTULUS</div>
         </div>
-        <button className="btn-secondary" onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)} style={{ padding: '8px', border: 'none', background: 'transparent' }}>
-          {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
-        </button>
-      </div>
-
-      {/* Sidebar */}
-      <div className={`glass-panel sidebar ${isMobileMenuOpen ? 'mobile-open' : 'mobile-closed'}`}>
-        <div className="sidebar-header" style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
-          <Database size={32} color="var(--primary)" />
-          <div>
-            <h2 style={{ margin: 0, fontSize: '20px', letterSpacing: '0.05em' }}>ANTIGRAVITY</h2>
-            <span style={{ fontSize: '11px', color: 'var(--text-muted)' }}>MORTUARY ROLLS DB</span>
-          </div>
-        </div>
-
-        {/* Navigation */}
-        <div className="nav-menu">
-          <button 
-            className={`btn-secondary ${activeTab === 'dashboard' ? 'glass-panel-interactive' : ''}`}
-            style={{ justifyContent: 'flex-start', background: activeTab === 'dashboard' ? 'rgba(99, 102, 241, 0.15)' : 'transparent', borderColor: activeTab === 'dashboard' ? 'var(--primary)' : 'transparent' }}
-            onClick={() => { setActiveTab('dashboard'); setIsMobileMenuOpen(false); }}
-          >
-            <BookOpen size={18} /> Dashboard
-          </button>
-          
-          <button 
-            className={`btn-secondary ${activeTab === 'explorer' ? 'glass-panel-interactive' : ''}`}
-            style={{ justifyContent: 'flex-start', background: activeTab === 'explorer' ? 'rgba(99, 102, 241, 0.15)' : 'transparent', borderColor: activeTab === 'explorer' ? 'var(--primary)' : 'transparent' }}
-            onClick={() => { setActiveTab('explorer'); setIsMobileMenuOpen(false); }}
-          >
-            <Search size={18} /> Search Explorer
-          </button>
-          
-          <button 
-            className={`btn-secondary ${activeTab === 'verification' ? 'glass-panel-interactive' : ''}`}
-            style={{ justifyContent: 'flex-start', background: activeTab === 'verification' ? 'rgba(99, 102, 241, 0.15)' : 'transparent', borderColor: activeTab === 'verification' ? 'var(--primary)' : 'transparent' }}
-            onClick={() => {
-              setActiveTab('verification');
-              if (rolls.length > 0 && !selectedRollId) {
-                handleSelectRoll(rolls[0].id);
-              }
-              setIsMobileMenuOpen(false);
-            }}
-          >
-            <UserCheck size={18} /> Verification Hub
-          </button>
-          
-          <button 
-            className={`btn-secondary ${activeTab === 'export' ? 'glass-panel-interactive' : ''}`}
-            style={{ justifyContent: 'flex-start', background: activeTab === 'export' ? 'rgba(99, 102, 241, 0.15)' : 'transparent', borderColor: activeTab === 'export' ? 'var(--primary)' : 'transparent' }}
-            onClick={() => { setActiveTab('export'); setIsMobileMenuOpen(false); }}
-          >
-            <Download size={18} /> Export Data
-          </button>
-
-          <button 
-            className={`btn-secondary ${activeTab === 'map' ? 'glass-panel-interactive' : ''}`}
-            style={{ justifyContent: 'flex-start', background: activeTab === 'map' ? 'rgba(99, 102, 241, 0.15)' : 'transparent', borderColor: activeTab === 'map' ? 'var(--primary)' : 'transparent' }}
-            onClick={() => { setActiveTab('map'); setIsMobileMenuOpen(false); }}
-          >
-            <MapPin size={18} /> Travel Map
-          </button>
-        </div>
-
-        {/* Progress Card */}
-        <div className="glass-panel" style={{ padding: '16px', background: 'rgba(255,255,255,0.02)', fontSize: '13px' }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px' }}>
-            <span style={{ color: 'var(--text-secondary)' }}>Verification Progress</span>
-            <span style={{ fontWeight: 'bold' }}>{stats.percent}%</span>
-          </div>
-          <div style={{ width: '100%', height: '6px', background: 'rgba(255,255,255,0.1)', borderRadius: '3px', overflow: 'hidden' }}>
-            <div style={{ width: `${stats.percent}%`, height: '100%', background: 'linear-gradient(90deg, var(--primary) 0%, var(--accent) 100%)' }}></div>
-          </div>
-          <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '12px', fontSize: '11px', color: 'var(--text-muted)' }}>
-            <span>Verified: {stats.verified}</span>
-            <span>Total: {stats.total}</span>
-          </div>
-        </div>
-      </div>
-
-      {/* Main Content Area */}
-      <div className="main-content">
         
-        {/* DASHBOARD TAB */}
-        {activeTab === 'dashboard' && (
-          <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>
-            <div>
-              <h1 style={{ fontSize: '32px', marginBottom: '8px' }}>Project Dashboard</h1>
-              <p style={{ color: 'var(--text-secondary)', margin: 0 }}>Overview of parsed database records and verification metrics.</p>
-            </div>
+        <div className="tabs-nav">
+          <button 
+            className={`tab-btn ${activeTab === 'dashboard' ? 'active' : ''}`}
+            onClick={() => setActiveTab('dashboard')}
+          >
+            Dashboard
+          </button>
+          <button 
+            className={`tab-btn ${activeTab === 'explorer' ? 'active' : ''}`}
+            onClick={() => setActiveTab('explorer')}
+          >
+            Explorer
+          </button>
+          <button 
+            className={`tab-btn ${activeTab === 'map' ? 'active' : ''}`}
+            onClick={() => setActiveTab('map')}
+          >
+            Travel Map
+          </button>
+          <button 
+            className={`tab-btn ${activeTab === 'verification' ? 'active' : ''}`}
+            onClick={() => setActiveTab('verification')}
+          >
+            Verification
+          </button>
+        </div>
 
-            {/* Stats Grid */}
-            <div className="dashboard-stats">
-              <div className="glass-panel" style={{ padding: '24px' }}>
-                <span style={{ color: 'var(--text-secondary)', fontSize: '14px' }}>Total Rolls</span>
-                <h2 style={{ fontSize: '36px', margin: '8px 0 0 0' }}>{stats.total}</h2>
-              </div>
-              <div className="glass-panel" style={{ padding: '24px' }}>
-                <span style={{ color: 'var(--text-secondary)', fontSize: '14px' }}>Verified Rolls</span>
-                <h2 style={{ fontSize: '36px', margin: '8px 0 0 0', color: 'var(--accent)' }}>{stats.verified}</h2>
-              </div>
-              <div className="glass-panel" style={{ padding: '24px' }}>
-                <span style={{ color: 'var(--text-secondary)', fontSize: '14px' }}>Pending Verification</span>
-                <h2 style={{ fontSize: '36px', margin: '8px 0 0 0', color: '#fbbf24' }}>{stats.unverified}</h2>
-              </div>
-              <div className="glass-panel" style={{ padding: '24px' }}>
-                <span style={{ color: 'var(--text-secondary)', fontSize: '14px' }}>Completion Rate</span>
-                <h2 style={{ fontSize: '36px', margin: '8px 0 0 0', color: 'var(--primary)' }}>{stats.percent}%</h2>
-              </div>
-            </div>
+        <div style={{ display: 'flex', gap: '12px' }}>
+          <button className="tab-btn" onClick={() => window.open('/rotulus/api/rolls.json', '_blank')}>
+            <Download size={16} /> JSON
+          </button>
+        </div>
+      </div>
 
-            {/* Recent / Unverified List */}
-            <div className="glass-panel" style={{ padding: '24px' }}>
-              <h3 style={{ marginBottom: '16px', fontSize: '18px' }}>Active Mortuary Rolls</h3>
-              <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
-                {rolls.slice(0, 10).map(roll => (
-                  <div 
-                    key={roll.id} 
-                    className="glass-panel glass-panel-interactive roll-list-item"
-                    style={{ cursor: 'pointer' }}
-                    onClick={() => handleSelectRoll(roll.id)}
-                  >
-                    <div className="roll-list-item-left">
-                      <div className="glass-panel" style={{ padding: '10px 14px', background: 'rgba(99, 102, 241, 0.1)', borderColor: 'rgba(99,102,241,0.2)' }}>
-                        <span style={{ fontWeight: 'bold', color: 'var(--primary)' }}>N° {roll.roll_num}</span>
-                      </div>
-                      <div>
-                        <h4 style={{ margin: 0, fontSize: '15px' }}>{roll.title || "Untitled Roll"}</h4>
-                        <div style={{ display: 'flex', gap: '16px', fontSize: '12px', color: 'var(--text-muted)', marginTop: '4px' }}>
-                          <span style={{ display: 'flex', alignItems: 'center', gap: '4px' }}><Calendar size={12} /> {roll.date_str}</span>
-                          <span style={{ display: 'flex', alignItems: 'center', gap: '4px' }}><Database size={12} /> PDF: {roll.pdf_source} (p. {roll.pdf_pages})</span>
-                        </div>
-                      </div>
-                    </div>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
-                      <span className={`badge ${roll.is_verified ? 'badge-success' : 'badge-warning'}`}>
-                        {roll.is_verified ? 'Verified' : 'Pending'}
-                      </span>
-                      <ChevronRight size={18} color="var(--text-muted)" />
-                    </div>
-                  </div>
-                ))}
+      <div className="content-area">
+        {/* Sidebar - Roll List */}
+        {(activeTab === 'explorer' || activeTab === 'verification') && (
+          <div className="sidebar">
+            <div className="search-container">
+              <div style={{ position: 'relative' }}>
+                <Search className="search-icon" size={18} />
+                <input 
+                  type="text" 
+                  className="search-input"
+                  placeholder="Search rolls..." 
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                  onKeyUp={(e) => e.key === 'Enter' && fetchRolls(searchQuery)}
+                />
               </div>
             </div>
-          </div>
-        )}
 
-        {/* SEARCH EXPLORER TAB */}
-        {activeTab === 'explorer' && (
-          <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
-            <div>
-              <h1 style={{ fontSize: '32px', marginBottom: '8px' }}>Search Explorer</h1>
-              <p style={{ color: 'var(--text-secondary)', margin: 0 }}>Advanced full-text search across rolls, tituli, footnotes, and entities.</p>
-            </div>
-
-            {/* Search Bar */}
-            <form onSubmit={triggerSearch} className="search-form">
-              <input 
-                type="text" 
-                placeholder="Search by name, location, dates, Latin text, manuscripts..." 
-                className="input-field"
-                style={{ flex: 1 }}
-                value={searchQuery}
-                onChange={e => setSearchQuery(e.target.value)}
-              />
-              <button type="submit" className="btn-primary">
-                <Search size={18} /> Search
-              </button>
-            </form>
-
-            {/* Search Results */}
-            <div className="glass-panel" style={{ padding: '24px' }}>
+            <div className="roll-list">
               {loading ? (
-                <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
-                  <div className="skeleton-loader" style={{ height: '40px' }}></div>
-                  <div className="skeleton-loader" style={{ height: '40px' }}></div>
-                  <div className="skeleton-loader" style={{ height: '40px' }}></div>
-                </div>
-              ) : rolls.length === 0 ? (
-                <div style={{ textAlign: 'center', padding: '48px', color: 'var(--text-muted)' }}>
-                  <AlertCircle size={48} style={{ margin: '0 auto 16px auto', display: 'block' }} />
-                  <p>No rolls found matching your query.</p>
+                <div style={{ padding: '40px', textAlign: 'center', color: 'var(--text-muted)' }}>
+                  Loading documents...
                 </div>
               ) : (
-                <div className="table-responsive">
-                  <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left', minWidth: '600px' }}>
-                    <thead>
-                      <tr style={{ borderBottom: '1px solid var(--panel-border)', color: 'var(--text-secondary)', fontSize: '13px' }}>
-                        <th style={{ padding: '12px 16px' }}>Roll N°</th>
-                        <th style={{ padding: '12px 16px' }}>Date</th>
-                        <th style={{ padding: '12px 16px' }}>Title</th>
-                        <th style={{ padding: '12px 16px' }}>Source PDF</th>
-                        <th style={{ padding: '12px 16px' }}>Status</th>
-                        <th style={{ padding: '12px 16px' }}>Actions</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      {rolls.map(roll => (
-                        <tr key={roll.id} style={{ borderBottom: '1px solid rgba(255,255,255,0.02)' }} className="glass-panel-interactive">
-                          <td style={{ padding: '16px', fontWeight: 'bold' }}>{roll.roll_num}</td>
-                          <td style={{ padding: '16px', color: 'var(--text-secondary)', fontSize: '14px' }}>{roll.date_str}</td>
-                          <td style={{ padding: '16px', fontWeight: '500' }}>{roll.title || "Untitled Roll"}</td>
-                          <td style={{ padding: '16px', color: 'var(--text-muted)', fontSize: '13px' }}>{roll.pdf_source} (p. {roll.pdf_pages})</td>
-                          <td style={{ padding: '16px' }}>
-                            <span className={`badge ${roll.is_verified ? 'badge-success' : 'badge-warning'}`}>
-                              {roll.is_verified ? 'Verified' : 'Pending'}
-                            </span>
-                          </td>
-                          <td style={{ padding: '16px' }}>
-                            <button 
-                              className="btn-secondary" 
-                              style={{ padding: '6px 12px', fontSize: '12px' }}
-                              onClick={() => handleSelectRoll(roll.id)}
-                            >
-                              Open in Editor
-                            </button>
-                          </td>
-                        </tr>
-                      ))}
-                    </tbody>
-                  </table>
-                </div>
+                rolls.map(roll => (
+                  <div 
+                    key={roll.id} 
+                    className={`roll-item ${selectedRollId === roll.id ? 'active' : ''}`}
+                    onClick={() => {
+                      setSelectedRollId(roll.id);
+                      fetchRollDetail(roll.id);
+                    }}
+                  >
+                    <div className="roll-num">N° {roll.roll_num}</div>
+                    <div style={{ fontSize: '14px', fontWeight: 'bold', marginBottom: '4px' }}>{roll.date_str}</div>
+                    <div style={{ fontSize: '13px', color: 'var(--text-muted)', lineHeight: '1.4' }}>
+                      {roll.title.length > 80 ? roll.title.substring(0, 80) + '...' : roll.title}
+                    </div>
+                  </div>
+                ))
               )}
             </div>
           </div>
         )}
 
-        {/* VERIFICATION HUB TAB */}
-        {activeTab === 'verification' && (
-          <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
-            <div className="header-row">
+        <div className="viewer-pane">
+          {/* DASHBOARD TAB */}
+          {activeTab === 'dashboard' && (
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>
               <div>
-                <h1 style={{ fontSize: '32px', marginBottom: '8px' }}>Verification Hub</h1>
-                <p style={{ color: 'var(--text-secondary)', margin: 0 }}>Verify parsed rolls against original PDF page scans side-by-side.</p>
+                <h1 style={{ fontSize: '32px', marginBottom: '8px' }}>Project Dashboard</h1>
+                <p style={{ color: 'var(--text-muted)', margin: 0 }}>Overview of medieval confraternity database and manuscript verification metrics.</p>
               </div>
-              
-              {/* Roll Selector */}
-              <div style={{ display: 'flex', gap: '12px', alignItems: 'center' }}>
-                <span style={{ fontSize: '14px', color: 'var(--text-muted)' }}>Selected Roll:</span>
-                <select 
-                  className="input-field" 
-                  value={selectedRollId || ''} 
-                  onChange={e => handleSelectRoll(Number(e.target.value))}
-                  style={{ background: '#0f172a', cursor: 'pointer' }}
-                >
-                  <option value="" disabled>Select a Roll</option>
-                  {rolls.map(r => (
-                    <option key={r.id} value={r.id}>
-                      N° {r.roll_num} - {r.title ? r.title.substring(0, 40) : "Untitled"}...
-                    </option>
+
+              {/* Stats Grid */}
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '24px' }}>
+                <div className="glass-panel" style={{ padding: '24px' }}>
+                  <span style={{ color: 'var(--text-muted)', fontSize: '14px', textTransform: 'uppercase', letterSpacing: '0.1em' }}>Total Scrolls</span>
+                  <h2 style={{ fontSize: '42px', margin: '8px 0 0 0' }}>{stats.total}</h2>
+                </div>
+                <div className="glass-panel" style={{ padding: '24px' }}>
+                  <span style={{ color: 'var(--text-muted)', fontSize: '14px', textTransform: 'uppercase', letterSpacing: '0.1em' }}>Verified Records</span>
+                  <h2 style={{ fontSize: '42px', margin: '8px 0 0 0', color: 'var(--primary)' }}>{stats.verified}</h2>
+                </div>
+                <div className="glass-panel" style={{ padding: '24px' }}>
+                  <span style={{ color: 'var(--text-muted)', fontSize: '14px', textTransform: 'uppercase', letterSpacing: '0.1em' }}>Completion</span>
+                  <h2 style={{ fontSize: '42px', margin: '8px 0 0 0', color: 'var(--accent)' }}>{stats.percent}%</h2>
+                </div>
+              </div>
+
+              {/* Recent List */}
+              <div className="glass-panel" style={{ padding: '32px' }}>
+                <h3 style={{ marginBottom: '24px', fontSize: '20px' }}>Recent Mortuary Rolls</h3>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
+                  {rolls.slice(0, 8).map(roll => (
+                    <div 
+                      key={roll.id} 
+                      className="roll-item active"
+                      style={{ cursor: 'pointer', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}
+                      onClick={() => {
+                        setSelectedRollId(roll.id);
+                        fetchRollDetail(roll.id);
+                        setActiveTab('explorer');
+                      }}
+                    >
+                      <div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
+                        <span className="roll-num">N° {roll.roll_num}</span>
+                        <div>
+                          <h4 style={{ margin: 0, fontSize: '16px' }}>{roll.title || "Untitled Roll"}</h4>
+                          <span style={{ fontSize: '13px', color: 'var(--text-muted)' }}>{roll.date_str}</span>
+                        </div>
+                      </div>
+                      <ChevronRight size={20} color="var(--accent)" />
+                    </div>
                   ))}
-                </select>
+                </div>
               </div>
             </div>
+          )}
 
-            {rollDetail ? (
-              <div className="verification-grid">
-                
-                {/* Left Pane: Image Scan & Footnotes */}
-                <div className="glass-panel" style={{ display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
-                  <div style={{ 
-                    padding: '16px', 
-                    borderBottom: '1px solid var(--panel-border)', 
-                    display: 'flex', 
-                    justifyContent: 'space-between', 
-                    alignItems: 'center',
-                    background: 'rgba(255,255,255,0.02)'
-                  }}>
-                    <span style={{ fontWeight: '500', display: 'flex', alignItems: 'center', gap: '8px' }}>
-                      <ImageIcon size={18} color="var(--primary)" />
-                      PDF Source Scan: {rollDetail.roll.pdf_source} (p. {rollDetail.roll.pdf_pages})
-                    </span>
-                    
-                    {/* Zoom controls */}
-                    <div style={{ display: 'flex', gap: '8px' }}>
-                      <button className="btn-secondary" style={{ padding: '4px 8px' }} onClick={() => setZoomLevel(z => Math.max(0.5, z - 0.2))}>-</button>
-                      <span style={{ fontSize: '13px', alignSelf: 'center' }}>{Math.round(zoomLevel * 100)}%</span>
-                      <button className="btn-secondary" style={{ padding: '4px 8px' }} onClick={() => setZoomLevel(z => Math.min(2.5, z + 0.2))}>+</button>
-                    </div>
+          {/* EXPLORER / VERIFICATION CONTENT */}
+          {(activeTab === 'explorer' || activeTab === 'verification') && rollDetail ? (
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end' }}>
+                <div>
+                  <div className="roll-num" style={{ fontSize: '1.2rem' }}>ROLL N° {rollDetail.roll.roll_num}</div>
+                  <h1 style={{ margin: '4px 0', fontSize: '2.2rem' }}>{rollDetail.roll.date_str}</h1>
+                </div>
+                <button 
+                  className="tab-btn active"
+                  style={{ borderRadius: '2px', borderBottomColor: 'var(--border)' }}
+                  onClick={() => handleToggleVerify(rollDetail.roll.id)}
+                >
+                  {rollDetail.roll.is_verified ? 'Verified ✓' : 'Verify Record'}
+                </button>
+              </div>
+
+              <div className="glass-panel" style={{ padding: '32px' }}>
+                <h3 style={{ marginBottom: '16px' }}>Manuscript Context</h3>
+                <p style={{ fontSize: '1.1rem', lineHeight: '1.6' }}>{rollDetail.roll.title}</p>
+                <div style={{ background: 'rgba(0,0,0,0.03)', padding: '16px', border: '1px dashed var(--accent)', marginTop: '16px', fontSize: '14px' }}>
+                  <strong>Source Manuscripts:</strong> {rollDetail.roll.manuscripts}
+                </div>
+              </div>
+
+              {rollDetail.tituli.map(tit => (
+                <div key={tit.id} className="glass-panel" style={{ padding: '32px' }}>
+                  <h3 className="gold-leaf" style={{ marginBottom: '20px', borderBottom: '1px solid var(--border)', paddingBottom: '12px' }}>
+                    {tit.location_name ? `Contribution from ${tit.location_name}` : tit.title}
+                  </h3>
+                  <div className="latin-text">
+                    {tit.latin_text}
                   </div>
                   
-                  {/* Dynamic Image Canvas */}
-                  <div style={{ 
-                    flex: 1, 
-                    overflow: 'auto', 
-                    background: '#04060a', 
-                    display: 'flex', 
-                    justifyContent: 'center', 
-                    alignItems: 'center',
-                    position: 'relative'
-                  }}>
-                    {/* Heuristically get the PDF Index, Page, and Half for image request */}
-                    {(() => {
-                      const pdfMatch = rollDetail.roll.pdf_source.match(/\((\d+)\)/);
-                      const pdfIdx = pdfMatch ? pdfMatch[1] : 1;
-                      const pages = rollDetail.roll.pdf_pages.split(',');
-                      const activePage = pages[activeVerificationIndex] || pages[0] || '3';
-                      // Try to fetch first titulus of this page/half to determine left/right
-                      const matchedTitulus = rollDetail.tituli.find(t => t.pdf_page === Number(activePage)) || rollDetail.tituli[0];
-                      const half = matchedTitulus ? matchedTitulus.pdf_half : 'left';
-                      
-                      const imageUrl = `/api/image/${pdfIdx}/${activePage}/${half}`;
-                      
-                      const scaleX = naturalDims.width > 0 ? displayDims.width / naturalDims.width : 1;
-                      const scaleY = naturalDims.height > 0 ? displayDims.height / naturalDims.height : 1;
-                      
-                      return (
-                        <div style={{
-                          position: 'relative',
-                          transform: `scale(${zoomLevel})`,
-                          transformOrigin: 'center center',
-                          transition: 'transform 0.1s ease',
-                          display: 'inline-block'
-                        }}>
-                          <img 
-                            ref={imgRef}
-                            src={imageUrl} 
-                            alt="Scanned manuscript page"
-                            onLoad={(e) => {
-                              const img = e.target;
-                              setNaturalDims({ width: img.naturalWidth, height: img.naturalHeight });
-                              setDisplayDims({ width: img.clientWidth, height: img.clientHeight });
-                            }}
-                            style={{
-                              maxWidth: '100%',
-                              display: 'block'
-                            }} 
-                          />
-                          {/* Render Bounding Box Overlays */}
-                          {pageBounds && pageBounds.map((box, idx) => (
-                            <div
-                              key={idx}
-                              style={{
-                                position: 'absolute',
-                                left: `${box.x_min * scaleX}px`,
-                                top: `${box.y_min * scaleY}px`,
-                                width: `${(box.x_max - box.x_min) * scaleX}px`,
-                                height: `${(box.y_max - box.y_min) * scaleY}px`,
-                                border: hoveredBox === idx ? '2px solid var(--primary)' : '1px solid rgba(99, 102, 241, 0.3)',
-                                background: hoveredBox === idx ? 'rgba(99, 102, 241, 0.15)' : 'rgba(99, 102, 241, 0.02)',
-                                cursor: 'pointer',
-                                transition: 'all 0.15s ease',
-                                zIndex: hoveredBox === idx ? 10 : 1
-                              }}
-                              onMouseEnter={() => setHoveredBox(idx)}
-                              onMouseLeave={() => setHoveredBox(null)}
-                              title={box.text}
-                            />
-                          ))}
-                          {/* Tooltip for hovered box */}
-                          {hoveredBox !== null && pageBounds[hoveredBox] && (
-                            <div style={{
-                              position: 'absolute',
-                              left: `${pageBounds[hoveredBox].x_min * scaleX}px`,
-                              top: `${(pageBounds[hoveredBox].y_min * scaleY) - 36}px`,
-                              background: '#0f172a',
-                              color: '#ffffff',
-                              border: '1px solid var(--panel-border)',
-                              padding: '6px 12px',
-                              borderRadius: '4px',
-                              fontSize: '11px',
-                              whiteSpace: 'nowrap',
-                              zIndex: 100,
-                              boxShadow: '0 4px 12px rgba(0,0,0,0.5)',
-                              transform: 'translateX(-25%)'
-                            }}>
-                              {pageBounds[hoveredBox].text} (conf: {Math.round(pageBounds[hoveredBox].confidence * 100)}%)
-                            </div>
-                          )}
-                        </div>
-                      );
-                    })()}
-                  </div>
-                  
-                  {/* Page Navigation Indicator */}
-                  {rollDetail.roll.pdf_pages.split(',').length > 1 && (
-                    <div style={{ padding: '12px', display: 'flex', gap: '8px', borderTop: '1px solid var(--panel-border)', justifyContent: 'center' }}>
-                      {rollDetail.roll.pdf_pages.split(',').map((p, idx) => (
-                        <button 
-                          key={idx} 
-                          className={`btn-secondary ${activeVerificationIndex === idx ? 'btn-primary' : ''}`}
-                          style={{ padding: '6px 12px', fontSize: '12px' }}
-                          onClick={() => setActiveVerificationIndex(idx)}
-                        >
-                          Page {p.strip ? p.strip() : p}
-                        </button>
-                      ))}
+                  {tit.entities && tit.entities.length > 0 && (
+                    <div style={{ marginTop: '24px' }}>
+                      <h4 style={{ fontSize: '0.9rem', textTransform: 'uppercase', color: 'var(--text-muted)', marginBottom: '12px' }}>Historical Actors</h4>
+                      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px' }}>
+                        {tit.entities.map(ent => (
+                          <div key={ent.id} style={{ padding: '8px 12px', background: 'var(--paper-dark)', border: '1px solid var(--border)', borderRadius: '2px', fontSize: '14px' }}>
+                            <strong className="rubric">{ent.normalized_name}</strong> ({ent.normalized_role})
+                          </div>
+                        ))}
+                      </div>
                     </div>
                   )}
                 </div>
+              ))}
 
-                {/* Right Pane: Editable Structured Content */}
-                <div className="glass-panel" style={{ padding: '24px', display: 'flex', flexDirection: 'column', gap: '24px', overflowY: 'auto' }}>
-                  
-                  {/* Verification Status Header */}
-                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                    <span className={`badge ${rollDetail.roll.is_verified ? 'badge-success' : 'badge-warning'}`}>
-                      {rollDetail.roll.is_verified ? 'Verified Record' : 'Requires Verification'}
-                    </span>
-                    <button 
-                      className={`btn-primary`} 
-                      style={{ background: rollDetail.roll.is_verified ? '#dc2626' : 'var(--accent)' }}
-                      onClick={() => handleToggleVerify(rollDetail.roll.id)}
-                    >
-                      {rollDetail.roll.is_verified ? <X size={16} /> : <Check size={16} />}
-                      {rollDetail.roll.is_verified ? 'Unverify Roll' : 'Verify & Approve'}
-                    </button>
-                  </div>
-
-                  {/* Roll Metadata Section */}
-                  <div className="glass-panel" style={{ padding: '20px', background: 'rgba(255,255,255,0.01)' }}>
-                    <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '16px' }}>
-                      <h3 style={{ margin: 0, fontSize: '16px' }}>Roll Metadata</h3>
-                      <button className="btn-secondary" style={{ padding: '4px 8px', fontSize: '12px' }} onClick={() => setIsEditing(!isEditing)}>
-                        {isEditing ? 'Cancel' : <><Edit3 size={12} /> Edit</>}
-                      </button>
+              {rollDetail.footnotes.length > 0 && (
+                <div className="footnote-section">
+                  <h3 style={{ fontSize: '1rem', textTransform: 'uppercase', marginBottom: '16px' }}>Critical Apparatus</h3>
+                  {rollDetail.footnotes.map(fn => (
+                    <div key={fn.id} className="footnote-item">
+                      <span className="footnote-num">{fn.footnote_num}.</span>
+                      {fn.text}
                     </div>
-                    
-                    {isEditing ? (
-                      <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
-                        <div className="metadata-grid">
-                          <input 
-                            className="input-field" 
-                            value={rollDetail.roll.roll_num} 
-                            placeholder="Roll Num" 
-                            onChange={e => setRollDetail({
-                              ...rollDetail,
-                              roll: { ...rollDetail.roll, roll_num: e.target.value }
-                            })}
-                          />
-                          <input 
-                            className="input-field" 
-                            value={rollDetail.roll.date_str} 
-                            placeholder="Date range" 
-                            onChange={e => setRollDetail({
-                              ...rollDetail,
-                              roll: { ...rollDetail.roll, date_str: e.target.value }
-                            })}
-                          />
-                        </div>
-                        <input 
-                          className="input-field" 
-                          value={rollDetail.roll.title} 
-                          placeholder="Title" 
-                          onChange={e => setRollDetail({
-                            ...rollDetail,
-                            roll: { ...rollDetail.roll, title: e.target.value }
-                          })}
-                        />
-                        <textarea 
-                          className="input-field" 
-                          value={rollDetail.roll.manuscripts} 
-                          placeholder="Manuscripts" 
-                          rows={3}
-                          onChange={e => setRollDetail({
-                            ...rollDetail,
-                            roll: { ...rollDetail.roll, manuscripts: e.target.value }
-                          })}
-                        />
-                        <button className="btn-primary" onClick={handleSaveRollMetadata}>
-                          <Save size={16} /> Save Metadata
-                        </button>
-                      </div>
-                    ) : (
-                      <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
-                        <div><strong>Number:</strong> {rollDetail.roll.roll_num}</div>
-                        <div><strong>Date:</strong> {rollDetail.roll.date_str}</div>
-                        <div><strong>Title:</strong> {rollDetail.roll.title}</div>
-                        <div>
-                          <strong>Manuscripts:</strong>
-                          <pre style={{ margin: '4px 0 0 0', background: 'rgba(0,0,0,0.2)', padding: '8px', borderRadius: '4px', fontSize: '12px', whiteSpace: 'pre-wrap' }}>
-                            {rollDetail.roll.manuscripts || "None listed"}
-                          </pre>
-                        </div>
-                      </div>
-                    )}
-                  </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          ) : (activeTab === 'explorer' || activeTab === 'verification') && (
+            <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%', color: 'var(--text-muted)' }}>
+              <div style={{ textAlign: 'center' }}>
+                <BookOpen size={64} style={{ marginBottom: '20px', opacity: 0.2 }} />
+                <p>Select a scroll from the sidebar to begin research.</p>
+              </div>
+            </div>
+          )}
 
-                  {/* Tituli Text & Entity Fields */}
-                  <div>
-                    <h3 style={{ fontSize: '18px', borderBottom: '1px solid var(--panel-border)', paddingBottom: '8px', marginBottom: '16px' }}>Tituli (Latin Contributions)</h3>
-                    <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
-                      {rollDetail.tituli.map(tit => (
-                        <div key={tit.id} className="glass-panel" style={{ padding: '16px', display: 'flex', flexDirection: 'column', gap: '12px' }}>
-                          <div style={{ fontWeight: 'bold', fontSize: '15px' }} className="title-latin">{tit.title}</div>
-                          
-                          {/* Latin Text editor */}
-                          <textarea 
-                            className="input-field" 
-                            style={{ fontFamily: 'monospace', fontSize: '13px' }} 
-                            value={tit.latin_text} 
-                            rows={4}
-                            onChange={e => {
-                              const updated = rollDetail.tituli.map(t => t.id === tit.id ? { ...t, latin_text: e.target.value } : t);
-                              setRollDetail({ ...rollDetail, tituli: updated });
-                            }}
-                          />
-                          <button 
-                            className="btn-secondary" 
-                            style={{ alignSelf: 'flex-end', padding: '6px 12px', fontSize: '12px' }}
-                            onClick={() => handleSaveTitulus(tit.id, tit.title, tit.latin_text)}
-                          >
-                            Save Titulus Text
-                          </button>
+          {/* TRAVEL MAP TAB */}
+          {activeTab === 'map' && (
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', height: '100%' }}>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                <div>
+                  <h1 style={{ fontSize: '32px', marginBottom: '8px' }}>Historical Itineraries</h1>
+                  <p style={{ color: 'var(--text-muted)', margin: 0 }}>Mapping the physical journey of medieval mortuary documents across Europe.</p>
+                </div>
 
-                          {/* Parsed Entities for this titulus */}
-                          <div style={{ marginTop: '12px' }}>
-                            <span style={{ fontSize: '12px', color: 'var(--text-muted)', fontWeight: 'bold' }}>PARSED HISTORICAL ENTITIES</span>
-                            <div style={{ display: 'flex', flexDirection: 'column', gap: '12px', marginTop: '8px' }}>
-                              {tit.entities && tit.entities.map(ent => (
-                                <div key={ent.id} className="glass-panel" style={{ padding: '12px', background: 'rgba(0,0,0,0.15)', fontSize: '13px' }}>
-                                  <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px' }}>
-                                    <span>Original: <strong>{ent.original_name}</strong> ({ent.original_title})</span>
-                                    <span style={{ color: 'var(--text-muted)' }}>FN: {ent.footnote_num}</span>
-                                  </div>
-                                  
-                                  {/* Normalization form fields */}
-                                  <div className="entity-grid">
-                                    <input 
-                                      className="input-field" 
-                                      style={{ padding: '6px 10px', fontSize: '12px' }}
-                                      value={ent.normalized_name}
-                                      placeholder="Normalized Name"
-                                      onChange={e => {
-                                        const updatedEntities = tit.entities.map(en => en.id === ent.id ? { ...en, normalized_name: e.target.value } : en);
-                                        const updatedTituli = rollDetail.tituli.map(t => t.id === tit.id ? { ...t, entities: updatedEntities } : t);
-                                        setRollDetail({ ...rollDetail, tituli: updatedTituli });
-                                      }}
-                                    />
-                                    <input 
-                                      className="input-field" 
-                                      style={{ padding: '6px 10px', fontSize: '12px' }}
-                                      value={ent.normalized_role}
-                                      placeholder="Normalized Role"
-                                      onChange={e => {
-                                        const updatedEntities = tit.entities.map(en => en.id === ent.id ? { ...en, normalized_role: e.target.value } : en);
-                                        const updatedTituli = rollDetail.tituli.map(t => t.id === tit.id ? { ...t, entities: updatedEntities } : t);
-                                        setRollDetail({ ...rollDetail, tituli: updatedTituli });
-                                      }}
-                                    />
-                                    <input 
-                                      className="input-field" 
-                                      style={{ padding: '6px 10px', fontSize: '12px' }}
-                                      value={ent.normalized_dates}
-                                      placeholder="Dates (e.g. 757-762)"
-                                      onChange={e => {
-                                        const updatedEntities = tit.entities.map(en => en.id === ent.id ? { ...en, normalized_dates: e.target.value } : en);
-                                        const updatedTituli = rollDetail.tituli.map(t => t.id === tit.id ? { ...t, entities: updatedEntities } : t);
-                                        setRollDetail({ ...rollDetail, tituli: updatedTituli });
-                                      }}
-                                    />
-                                    <input 
-                                      className="input-field" 
-                                      style={{ padding: '6px 10px', fontSize: '12px' }}
-                                      value={ent.location_name}
-                                      placeholder="Location (e.g. Noyon)"
-                                      onChange={e => {
-                                        const updatedEntities = tit.entities.map(en => en.id === ent.id ? { ...en, location_name: e.target.value } : en);
-                                        const updatedTituli = rollDetail.tituli.map(t => t.id === tit.id ? { ...t, entities: updatedEntities } : t);
-                                        setRollDetail({ ...rollDetail, tituli: updatedTituli });
-                                      }}
-                                    />
-                                  </div>
-                                  <button 
-                                    className="btn-secondary" 
-                                    style={{ padding: '4px 8px', fontSize: '11px', display: 'flex', marginLeft: 'auto' }}
-                                    onClick={() => handleSaveEntity(ent.id, ent)}
-                                  >
-                                    Save Entity Normalizations
-                                  </button>
-                                </div>
-                              ))}
-                            </div>
-                          </div>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-
-                  {/* Footnotes view */}
-                  <div>
-                    <h3 style={{ fontSize: '18px', borderBottom: '1px solid var(--panel-border)', paddingBottom: '8px', marginBottom: '16px' }}>Footnotes Reference</h3>
-                    <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
-                      {rollDetail.footnotes.map(fn => (
-                        <div key={fn.id} style={{ fontSize: '13px', borderBottom: '1px solid rgba(255,255,255,0.01)', paddingBottom: '6px' }}>
-                          <span style={{ color: 'var(--primary)', fontWeight: 'bold' }}>{fn.footnote_num}. </span>
-                          <span style={{ color: 'var(--text-secondary)' }}>{fn.text}</span>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-
+                <div style={{ display: 'flex', gap: '16px', alignItems: 'center' }}>
+                  <select 
+                    className="search-input" 
+                    style={{ width: '300px', paddingLeft: '12px' }}
+                    value={mapRollId || ''} 
+                    onChange={e => setMapRollId(e.target.value === 'all' ? 'all' : Number(e.target.value))}
+                  >
+                    <option value="all">View All Travels (Overlay)</option>
+                    {rolls.filter(r => r.id).map(r => (
+                      <option key={r.id} value={r.id}>N° {r.roll_num} ({r.date_str})</option>
+                    ))}
+                  </select>
                 </div>
               </div>
-            ) : (
-              <div className="glass-panel" style={{ padding: '48px', textAlign: 'center', color: 'var(--text-muted)' }}>
-                Please select a roll from the dropdown to load editor.
+
+              <div className="glass-panel" style={{ flex: 1, padding: '12px' }}>
+                <div id="map-container"></div>
               </div>
-            )}
-          </div>
-        )}
-
-        {/* EXPORT TAB */}
-        {activeTab === 'export' && (
-          <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>
-            <div>
-              <h1 style={{ fontSize: '32px', marginBottom: '8px' }}>Export Data</h1>
-              <p style={{ color: 'var(--text-secondary)', margin: 0 }}>Download verified mortuary rolls data in standardized research formats.</p>
-            </div>
-
-            <div className="export-grid">
               
-              <div className="glass-panel" style={{ padding: '24px', display: 'flex', flexDirection: 'column', gap: '16px' }}>
-                <h3 style={{ margin: 0 }}>CSV Spreadsheet</h3>
-                <p style={{ color: 'var(--text-secondary)', fontSize: '14px', flex: 1 }}>
-                  Contains flat rows mapping rolls to tituli and entities. Perfect for loading into Excel, R, or Python Pandas.
-                </p>
-                <a href="/api/export/csv" className="btn-primary" style={{ textDecoration: 'none', justifyContent: 'center' }}>
-                  <Download size={18} /> Download CSV
-                </a>
-              </div>
-
-              <div className="glass-panel" style={{ padding: '24px', display: 'flex', flexDirection: 'column', gap: '16px' }}>
-                <h3 style={{ margin: 0 }}>JSON Format</h3>
-                <p style={{ color: 'var(--text-secondary)', fontSize: '14px', flex: 1 }}>
-                  Hierarchical structure showing rolls nested with their tituli, parsed entities, and footnotes. Best for digital humanities applications.
-                </p>
-                <a href="/api/export/json" className="btn-primary" style={{ textDecoration: 'none', justifyContent: 'center' }}>
-                  <Download size={18} /> Download JSON
-                </a>
-              </div>
-
-              <div className="glass-panel" style={{ padding: '24px', display: 'flex', flexDirection: 'column', gap: '16px' }}>
-                <h3 style={{ margin: 0 }}>SQLite Database</h3>
-                <p style={{ color: 'var(--text-secondary)', fontSize: '14px', flex: 1 }}>
-                  Download the raw SQLite relational database file (`rolls.db`) directly to run local queries and scripts.
-                </p>
-                <a href="/rolls.db" download className="btn-primary" style={{ textDecoration: 'none', justifyContent: 'center' }}>
-                  <Download size={18} /> Download rolls.db
-                </a>
-              </div>
-
-            </div>
-          </div>
-        )}
-
-        {/* TRAVEL MAP TAB */}
-        {activeTab === 'map' && (
-          <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', height: '100%' }}>
-            <div className="header-row">
-              <div>
-                <h1 style={{ fontSize: '32px', marginBottom: '8px' }}>Travel Map</h1>
-                <p style={{ color: 'var(--text-secondary)', margin: 0 }}>Visualize the historical itinerary and visiting stops of each mortuary roll.</p>
-              </div>
-
-              {/* Time Filter Slider */}
-              {mapRollId === 'all' && (
-                <div style={{ flex: 1, maxWidth: '400px', padding: '0 24px' }}>
-                  <div className="flex-between" style={{ marginBottom: '8px' }}>
-                    <span style={{ fontSize: '12px', fontWeight: 'bold' }}>Time Filter: {yearFilter[0]} – {yearFilter[1]}</span>
-                    <button 
-                      onClick={() => setYearFilter([availableYearRange[0], availableYearRange[1]])}
-                      style={{ fontSize: '10px', background: 'transparent', border: 'none', color: 'var(--primary)', cursor: 'pointer' }}
-                    >
-                      Reset
-                    </button>
-                  </div>
-                  <input 
-                    type="range" 
-                    min={availableYearRange[0]} 
-                    max={availableYearRange[1]} 
-                    value={yearFilter[1]} 
-                    onChange={e => setYearFilter([yearFilter[0], Number(e.target.value)])}
-                    style={{ width: '100%', accentColor: 'var(--primary)' }}
-                  />
-                  <div className="flex-between" style={{ fontSize: '10px', color: 'var(--text-muted)', marginTop: '4px' }}>
-                    <span>{availableYearRange[0]}</span>
-                    <span>{availableYearRange[1]}</span>
+              {mapRollId !== 'all' && travelPath.length > 0 && (
+                <div className="glass-panel" style={{ padding: '24px' }}>
+                  <h3 style={{ marginBottom: '16px' }}>Stops in Chronological Order</h3>
+                  <div style={{ display: 'flex', gap: '20px', overflowX: 'auto', paddingBottom: '12px' }}>
+                    {travelPath.map((loc, idx) => (
+                      <div key={idx} style={{ minWidth: '200px', padding: '16px', background: 'var(--paper-dark)', border: '1px solid var(--border)' }}>
+                        <div className="rubric" style={{ fontSize: '12px', marginBottom: '4px' }}>{idx === 0 ? 'ORIGIN' : `STOP ${idx}`}</div>
+                        <div style={{ fontWeight: 'bold' }}>{loc.name}</div>
+                        <div style={{ fontSize: '13px', color: 'var(--text-muted)' }}>{loc.date_str}</div>
+                      </div>
+                    ))}
                   </div>
                 </div>
               )}
-
-              {/* Roll Selector */}
-              <div style={{ display: 'flex', gap: '12px', alignItems: 'center' }}>
-                <span style={{ fontSize: '14px', color: 'var(--text-muted)' }}>Select Roll:</span>
-                <select 
-                  className="input-field" 
-                  value={mapRollId || ''} 
-                  onChange={e => setMapRollId(e.target.value === 'all' ? 'all' : Number(e.target.value))}
-                  style={{ background: '#0f172a', cursor: 'pointer' }}
-                >
-                  <option value="all">🌐 All Rolls (Overlay Paths)</option>
-                  {rolls.map(r => (
-                    <option key={r.id} value={r.id}>Roll {r.roll_num} ({r.date_str})</option>
-                  ))}
-                </select>
-              </div>
             </div>
-
-            <div className="map-grid">
-              {/* Map Container */}
-              <div className="glass-panel" style={{ flex: 2, position: 'relative', overflow: 'hidden', height: '600px' }}>
-                <div id="map-container" style={{ width: '100%', height: '100%', borderRadius: '12px', background: '#0f172a' }}></div>
-              </div>
-
-              {/* Itinerary Steps Panel */}
-              <div className="glass-panel" style={{ flex: 1, padding: '24px', display: 'flex', flexDirection: 'column', gap: '16px', overflowY: 'auto', maxHeight: '600px' }}>
-                {mapRollId === 'all' ? (
-                  <>
-                    <h3 style={{ margin: 0, fontSize: '18px', borderBottom: '1px solid var(--panel-border)', paddingBottom: '12px' }}>
-                      All Mortuary Rolls
-                    </h3>
-                    <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
-                      {Object.entries(allTravelsData)
-                        .filter(([_, rInfo]) => !rInfo.year || (rInfo.year >= yearFilter[0] && rInfo.year <= yearFilter[1]))
-                        .map(([rId, rInfo]) => {
-                          const origin = rInfo.travels.find(t => t.type === 'origin');
-                          const stops = rInfo.travels.filter(t => t.type === 'stop');
-                        return (
-                          <div 
-                            key={rId} 
-                            className="glass-panel-interactive" 
-                            style={{ padding: '12px', borderRadius: '8px', cursor: 'pointer', border: '1px solid var(--panel-border)' }} 
-                            onClick={() => setMapRollId(Number(rId))}
-                          >
-                            <h4 style={{ margin: '0 0 6px 0', fontSize: '14px', fontWeight: 'bold', color: 'var(--primary)' }}>
-                              Roll {rInfo.roll_num} ({rInfo.date_str})
-                            </h4>
-                            <div style={{ fontSize: '11px', color: 'var(--text-secondary)', lineHeight: '1.4' }}>
-                              {origin && <span>🚩 {origin.name}</span>}
-                              {stops.map((s, idx) => (
-                                <span key={idx}> ➔ 📍 {s.name}</span>
-                              ))}
-                              {!origin && stops.length === 0 && <span style={{ color: 'var(--text-muted)' }}>No travel path</span>}
-                            </div>
-                          </div>
-                        );
-                      })}
-                    </div>
-                  </>
-                ) : (
-                  <>
-                    <h3 style={{ margin: 0, fontSize: '18px', borderBottom: '1px solid var(--panel-border)', paddingBottom: '12px' }}>
-                      Itinerary Stops ({travelPath.length})
-                    </h3>
-                    {travelPath.length === 0 ? (
-                      <div style={{ textAlign: 'center', padding: '48px', color: 'var(--text-muted)', fontSize: '14px' }}>
-                        No travel locations found for this roll.
-                      </div>
-                    ) : (
-                      <div style={{ display: 'flex', flexDirection: 'column', gap: '16px', position: 'relative', paddingLeft: '8px' }}>
-                        {/* Vertical timeline line */}
-                        <div style={{
-                          position: 'absolute',
-                          left: '19px',
-                          top: '12px',
-                          bottom: '12px',
-                          width: '2px',
-                          background: 'rgba(255,255,255,0.06)',
-                          zIndex: 0
-                        }}></div>
-
-                        {travelPath.map((loc, idx) => {
-                          const isOrigin = loc.type === 'origin';
-                          return (
-                            <div key={idx} style={{ display: 'flex', gap: '16px', zIndex: 1 }}>
-                              {/* Timeline dot */}
-                              <div style={{
-                                width: '24px',
-                                height: '24px',
-                                borderRadius: '50%',
-                                background: isOrigin ? 'var(--primary)' : 'var(--accent)',
-                                display: 'flex',
-                                alignItems: 'center',
-                                justifyContent: 'center',
-                                fontSize: '11px',
-                                fontWeight: 'bold',
-                                border: '4px solid #0f172a',
-                                color: '#ffffff',
-                                boxShadow: '0 0 10px rgba(0,0,0,0.5)'
-                              }}>
-                                {isOrigin ? '🚩' : idx}
-                              </div>
-                              <div style={{ flex: 1 }}>
-                                <h4 style={{ margin: 0, fontSize: '14px', fontWeight: 'bold', color: isOrigin ? 'var(--primary)' : 'var(--accent)' }}>
-                                  {loc.name}
-                                </h4>
-                                <p style={{ margin: '4px 0 0 0', fontSize: '12px', color: 'var(--text-secondary)' }}>
-                                  {loc.description}
-                                </p>
-                              </div>
-                            </div>
-                          );
-                        })}
-                      </div>
-                    )}
-                  </>
-                )}
-              </div>
-            </div>
-          </div>
-        )}
-
+          )}
+        </div>
       </div>
     </div>
   );
