@@ -68,14 +68,15 @@ h1, h2, h3, h4 {
   border-radius: 50%;
   cursor: grab;
   z-index: 5;
-  transform: translateX(-50%); /* Center handle on its percentage position */
+  top: 50%;
+  transform: translate(-50%, -50%); /* Center perfectly on handle position */
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
   transition: transform 0.1s ease;
 }
 
 .range-thumb:active {
   cursor: grabbing;
-  transform: translateX(-50%) scale(1.1);
+  transform: translate(-50%, -50%) scale(1.1);
 }
 
 /* REST OF UI */
