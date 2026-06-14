@@ -38,170 +38,136 @@ export default function App() {
   const [rollDetail, setRollDetail] = useState(null);
   const [isEditing, setIsEditing] = useState(false);
   
-  // Persistent Map Refs
+  // Map Refs
   const mapInstanceRef = useRef(null);
   const mapLayersRef = useRef(null);
-  const [mapRollId, setMapRollId] = useState(null);
-  const [stopsFilter, setStopsFilter] = useState(0);
-  const [travelPath, setTravelPath] = useState([]);
-  const [allTravelsData, setAllTravelsData] = useState({});
-  
-  const [activeVerificationIndex, setActiveVerificationIndex] = useState(0);
-  const [zoomLevel, setZoomLevel] = useState(1);
-  const [stats, setStats] = useState({ total: 0, verified: 0, unverified: 0, percent: 0 });
+  const lastFittedRollId = useRef(null);
 
-  const fetchRolls = async (query = '') => {
-    setLoading(true);
-    try {
-      const isProd = import.meta.env.PROD;
-      const res = await fetch(getApiUrl('/api/rolls'));
-      const data = await res.json();
-      let filteredData = data;
-      if (isProd && query) {
-        const q = query.toLowerCase();
-        filteredData = data.filter(r => 
-          (r.title && r.title.toLowerCase().includes(q)) ||
-          (r.roll_num && r.roll_num.toString().includes(q)) ||
-          (r.date_str && r.date_str.toLowerCase().includes(q))
-        );
-      }
-      setRolls(filteredData);
-      const total = data.length;
-      const verified = data.filter(r => r.is_verified).length;
-      setStats({ total, verified, unverified: total - verified, percent: total > 0 ? Math.round((verified / total) * 100) : 0 });
-    } catch (e) { console.error(e); } finally { setLoading(false); }
-  };
-
-  useEffect(() => { fetchRolls(); }, []);
-
+  // Initialize Map Once
   useEffect(() => {
-    if (activeTab === 'map' && rolls.length > 0 && !mapRollId) setMapRollId('all');
-  }, [activeTab, rolls]);
+    const container = document.getElementById('map-container');
+    if (!container || mapInstanceRef.current || !window.L) return;
 
-  useEffect(() => {
-    window.gotoRoll = (id) => {
-      if (!id) return;
-      handleSelectRoll(Number(id));
-      setActiveTab('explorer');
-    };
-    return () => { delete window.gotoRoll; };
-  }, [rolls]);
+    const map = window.L.map('map-container', { 
+      scrollWheelZoom: false,
+      maxBounds: [[30, -20], [72, 45]],
+      maxBoundsViscosity: 1.0
+    }).setView([48.8566, 2.3522], 4);
+    
+    mapInstanceRef.current = map;
+    window.L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '&copy; OpenStreetMap' }).addTo(map);
+    mapLayersRef.current = window.L.layerGroup().addTo(map);
 
-  // Leaflet Rendering Logic
-  useEffect(() => {
-    if (activeTab !== 'map') return;
-
-    const initializeMap = () => {
-      const container = document.getElementById('map-container');
-      if (!container || mapInstanceRef.current || !window.L) return;
-
-      const map = window.L.map('map-container', { 
-        scrollWheelZoom: false,
-        maxBounds: [[30, -20], [72, 45]],
-        maxBoundsViscosity: 1.0
-      }).setView([48.8566, 2.3522], 4);
-      
-      mapInstanceRef.current = map;
-      window.L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '&copy; OpenStreetMap' }).addTo(map);
-      mapLayersRef.current = window.L.layerGroup().addTo(map);
-    };
-
-    const updateLayers = (data, isAll = true) => {
-      if (!mapLayersRef.current || !window.L) return;
-      mapLayersRef.current.clearLayers();
-
-      const colors = ['#8b0000', '#10b981', '#f59e0b', '#b8860b', '#3b82f6'];
-      let colorIdx = 0;
-      const allCoords = [];
-
-      if (isAll) {
-        Object.entries(data).forEach(([rId, rInfo]) => {
-          if (rInfo.year && (rInfo.year < yearFilter[0] || rInfo.year > yearFilter[1])) return;
-          if (rInfo.num_stops < stopsFilter) return;
-
-          const coords = rInfo.travels.map(t => t.coords).filter(c => c);
-          if (coords.length === 0) return;
-          allCoords.push(...coords);
-          const color = colors[colorIdx % colors.length]; colorIdx++;
-
-          if (coords.length > 1) {
-            window.L.polyline(coords, { color, weight: 2, opacity: 0.4, dashArray: '3, 6' }).addTo(mapLayersRef.current);
-          }
-
-          rInfo.travels.forEach((loc, index) => {
-            if (!loc.coords) return;
-            const isOrigin = loc.type === 'origin';
-            
-            const marker = window.L.circleMarker(loc.coords, { 
-              radius: isOrigin ? 7 : 5, 
-              fillColor: color, 
-              color: '#fff', 
-              weight: 2, 
-              opacity: 1, 
-              fillOpacity: 0.9,
-              interactive: true
-            }).addTo(mapLayersRef.current);
-
-            // Directly clickable markers
-            marker.on('click', (e) => {
-              window.L.DomEvent.stopPropagation(e);
-              window.gotoRoll(rId);
-            });
-
-            marker.bindPopup(`
-              <div style="font-family: 'Calibri', 'Candara', 'Segoe UI', 'Optima', 'Arial', sans-serif; padding: 4px; min-width: 150px;">
-                <h4 style="margin: 0; color: ${color}; font-weight: bold;">Roll N° ${rInfo.roll_num}</h4>
-                <div style="font-size: 13px; margin: 4px 0;">${isOrigin ? '🚩 Origin' : `📍 Stop ${index}`}: <b>${loc.name}</b></div>
-                <div style="font-size: 12px; color: #666; margin-bottom: 8px;">${loc.date_str || ''}</div>
-                <button onclick="window.gotoRoll('${rId}')" style="background: var(--primary); color: white; border: none; padding: 6px; cursor: pointer; width: 100%; border-radius: 2px;">View Scroll Details</button>
-              </div>
-            `);
-          });
-        });
-      } else {
-        const coords = data.map(t => t.coords).filter(c => c);
-        if (coords.length > 0) {
-          allCoords.push(...coords);
-          if (coords.length > 1) window.L.polyline(coords, { color: 'var(--primary)', weight: 3, opacity: 0.8, dashArray: '5, 10' }).addTo(mapLayersRef.current);
-          data.forEach((loc, idx) => {
-            if (!loc.coords) return;
-            window.L.circleMarker(loc.coords, { radius: loc.type === 'origin' ? 9 : 7, fillColor: loc.type === 'origin' ? '#8b0000' : '#10b981', color: '#fff', weight: 2, fillOpacity: 1 }).addTo(mapLayersRef.current)
-              .bindPopup(`<strong>${loc.name}</strong><br/>${loc.date_str || ''}`);
-          });
-        }
-      }
-
-      if (allCoords.length > 0 && mapInstanceRef.current) {
-        mapInstanceRef.current.fitBounds(window.L.latLngBounds(allCoords), { padding: [50, 50] });
+    return () => {
+      if (mapInstanceRef.current) {
+        mapInstanceRef.current.remove();
+        mapInstanceRef.current = null;
       }
     };
+  }, []);
 
-    const fetchAndDraw = async () => {
-      initializeMap();
+  // Fetch Travels Data
+  useEffect(() => {
+    const fetchTravels = async () => {
       try {
         if (mapRollId === 'all') {
           const res = await fetch(getApiUrl(`/api/travels`));
           const data = await res.json();
           setAllTravelsData(data);
+
           const allYears = Object.values(data).map(r => r.year).filter(y => y);
           if (allYears.length > 0) {
             const minYear = Math.min(...allYears);
             const maxYear = Math.max(...allYears);
             setAvailableYearRange([minYear, maxYear]);
-            setYearFilter(prev => [Math.max(minYear, prev[0]), Math.min(maxYear, prev[1])]);
+            // Only sync if way out of bounds
+            setYearFilter(prev => {
+              if (prev[0] < minYear || prev[1] > maxYear) {
+                return [Math.max(minYear, prev[0]), Math.min(maxYear, prev[1])];
+              }
+              return prev;
+            });
           }
-          updateLayers(data, true);
         } else if (mapRollId) {
           const res = await fetch(getApiUrl(`/api/rolls/${mapRollId}/travels`));
           const data = await res.json();
           setTravelPath(data);
-          updateLayers(data, false);
         }
       } catch (e) { console.error(e); }
     };
+    fetchTravels();
+  }, [mapRollId]);
 
-    fetchAndDraw();
-  }, [activeTab, mapRollId, yearFilter, stopsFilter]);
+  // Update Map Layers (No more fetching here!)
+  useEffect(() => {
+    if (!mapLayersRef.current || !window.L) return;
+    mapLayersRef.current.clearLayers();
+
+    const colors = ['#8b0000', '#10b981', '#f59e0b', '#b8860b', '#3b82f6'];
+    let colorIdx = 0;
+    const allCoords = [];
+
+    if (mapRollId === 'all') {
+      Object.entries(allTravelsData).forEach(([rId, rInfo]) => {
+        if (rInfo.year && (rInfo.year < yearFilter[0] || rInfo.year > yearFilter[1])) return;
+        if (rInfo.num_stops < stopsFilter) return;
+
+        const coords = rInfo.travels.map(t => t.coords).filter(c => c);
+        if (coords.length === 0) return;
+        allCoords.push(...coords);
+        const color = colors[colorIdx % colors.length]; colorIdx++;
+
+        if (coords.length > 1) {
+          window.L.polyline(coords, { color, weight: 2, opacity: 0.4, dashArray: '3, 6' }).addTo(mapLayersRef.current);
+        }
+
+        rInfo.travels.forEach((loc, index) => {
+          if (!loc.coords) return;
+          const isOrigin = loc.type === 'origin';
+          const marker = window.L.circleMarker(loc.coords, { 
+            radius: isOrigin ? 7 : 5, 
+            fillColor: color, 
+            color: '#fff', 
+            weight: 2, 
+            opacity: 1, 
+            fillOpacity: 0.9,
+            interactive: true
+          }).addTo(mapLayersRef.current);
+
+          marker.on('click', (e) => {
+            window.L.DomEvent.stopPropagation(e);
+            window.gotoRoll(rId);
+          });
+
+          marker.bindPopup(`
+            <div style="font-family: 'Calibri', 'Candara', 'Segoe UI', 'Optima', 'Arial', sans-serif; padding: 4px; min-width: 150px;">
+              <h4 style="margin: 0; color: ${color}; font-weight: bold;">Roll N° ${rInfo.roll_num}</h4>
+              <div style="font-size: 13px; margin: 4px 0;">${isOrigin ? '🚩 Origin' : `📍 Stop ${index}`}: <b>${loc.name}</b></div>
+              <div style="font-size: 12px; color: #666; margin-bottom: 8px;">${loc.date_str || ''}</div>
+              <button onclick="window.gotoRoll('${rId}')" style="background: var(--primary); color: white; border: none; padding: 6px; cursor: pointer; width: 100%; border-radius: 2px;">View Scroll Details</button>
+            </div>
+          `);
+        });
+      });
+    } else {
+      const coords = travelPath.map(t => t.coords).filter(c => c);
+      if (coords.length > 0) {
+        allCoords.push(...coords);
+        if (coords.length > 1) window.L.polyline(coords, { color: 'var(--primary)', weight: 3, opacity: 0.8, dashArray: '5, 10' }).addTo(mapLayersRef.current);
+        travelPath.forEach((loc) => {
+          if (!loc.coords) return;
+          window.L.circleMarker(loc.coords, { radius: loc.type === 'origin' ? 9 : 7, fillColor: loc.type === 'origin' ? '#8b0000' : '#10b981', color: '#fff', weight: 2, fillOpacity: 1 }).addTo(mapLayersRef.current)
+            .bindPopup(`<strong>${loc.name}</strong><br/>${loc.date_str || ''}`);
+        });
+      }
+    }
+
+    // Centering Logic: Only re-center if the mapRollId has CHANGED
+    if (allCoords.length > 0 && mapInstanceRef.current && lastFittedRollId.current !== mapRollId) {
+      mapInstanceRef.current.fitBounds(window.L.latLngBounds(allCoords), { padding: [50, 50] });
+      lastFittedRollId.current = mapRollId;
+    }
+  }, [allTravelsData, travelPath, mapRollId, yearFilter, stopsFilter]);
 
   useEffect(() => {
     if (activeTab === 'map' && mapInstanceRef.current) {
