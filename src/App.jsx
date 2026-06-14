@@ -544,40 +544,36 @@ export default function App() {
           {activeTab === 'dashboard' && (
             <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>
               <div>
-                <h1 style={{ fontSize: '32px', marginBottom: '8px' }}>Project Dashboard</h1>
+                <h1 style={{ fontSize: '32px', marginBottom: '8px' }}>Archive Dashboard</h1>
                 <p style={{ color: 'var(--text-muted)', margin: 0 }}>Overview of medieval confraternity database and manuscript verification metrics.</p>
               </div>
 
               {/* Stats Grid */}
               <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '24px' }}>
                 <div className="glass-panel" style={{ padding: '24px' }}>
-                  <span style={{ color: 'var(--text-muted)', fontSize: '14px', textTransform: 'uppercase', letterSpacing: '0.1em' }}>Total Scrolls</span>
+                  <span style={{ color: 'var(--text-muted)', fontSize: '12px', textTransform: 'uppercase', letterSpacing: '0.1em' }}>Total Scrolls</span>
                   <h2 style={{ fontSize: '42px', margin: '8px 0 0 0' }}>{stats.total}</h2>
                 </div>
                 <div className="glass-panel" style={{ padding: '24px' }}>
-                  <span style={{ color: 'var(--text-muted)', fontSize: '14px', textTransform: 'uppercase', letterSpacing: '0.1em' }}>Verified Records</span>
+                  <span style={{ color: 'var(--text-muted)', fontSize: '12px', textTransform: 'uppercase', letterSpacing: '0.1em' }}>Verified Records</span>
                   <h2 style={{ fontSize: '42px', margin: '8px 0 0 0', color: 'var(--primary)' }}>{stats.verified}</h2>
                 </div>
                 <div className="glass-panel" style={{ padding: '24px' }}>
-                  <span style={{ color: 'var(--text-muted)', fontSize: '14px', textTransform: 'uppercase', letterSpacing: '0.1em' }}>Completion</span>
+                  <span style={{ color: 'var(--text-muted)', fontSize: '12px', textTransform: 'uppercase', letterSpacing: '0.1em' }}>Completion</span>
                   <h2 style={{ fontSize: '42px', margin: '8px 0 0 0', color: 'var(--accent)' }}>{stats.percent}%</h2>
                 </div>
               </div>
 
               {/* Recent List */}
               <div className="glass-panel" style={{ padding: '32px' }}>
-                <h3 style={{ marginBottom: '24px', fontSize: '20px' }}>Recent Mortuary Rolls</h3>
+                <h3 style={{ marginBottom: '24px', fontSize: '20px' }}>Catalogue of Rolls</h3>
                 <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
                   {rolls.slice(0, 8).map(roll => (
                     <div 
                       key={roll.id} 
                       className="roll-item active"
                       style={{ cursor: 'pointer', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}
-                      onClick={() => {
-                        setSelectedRollId(roll.id);
-                        fetchRollDetail(roll.id);
-                        setActiveTab('explorer');
-                      }}
+                      onClick={() => handleSelectRoll(roll.id)}
                     >
                       <div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
                         <span className="roll-num">N° {roll.roll_num}</span>
@@ -594,74 +590,127 @@ export default function App() {
             </div>
           )}
 
-          {/* EXPLORER / VERIFICATION CONTENT */}
-          {(activeTab === 'explorer' || activeTab === 'verification') && rollDetail ? (
-            <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end' }}>
-                <div>
-                  <div className="roll-num" style={{ fontSize: '1.2rem' }}>ROLL N° {rollDetail.roll.roll_num}</div>
-                  <h1 style={{ margin: '4px 0', fontSize: '2.2rem' }}>{rollDetail.roll.date_str}</h1>
-                </div>
-                <button 
-                  className="tab-btn active"
-                  style={{ borderRadius: '2px', borderBottomColor: 'var(--border)' }}
-                  onClick={() => handleToggleVerify(rollDetail.roll.id)}
-                >
-                  {rollDetail.roll.is_verified ? 'Verified ✓' : 'Verify Record'}
-                </button>
-              </div>
-
-              <div className="glass-panel" style={{ padding: '32px' }}>
-                <h3 style={{ marginBottom: '16px' }}>Manuscript Context</h3>
-                <p style={{ fontSize: '1.1rem', lineHeight: '1.6' }}>{rollDetail.roll.title}</p>
-                <div style={{ background: 'rgba(0,0,0,0.03)', padding: '16px', border: '1px dashed var(--accent)', marginTop: '16px', fontSize: '14px' }}>
-                  <strong>Source Manuscripts:</strong> {rollDetail.roll.manuscripts}
-                </div>
-              </div>
-
-              {rollDetail.tituli.map(tit => (
-                <div key={tit.id} className="glass-panel" style={{ padding: '32px' }}>
-                  <h3 className="gold-leaf" style={{ marginBottom: '20px', borderBottom: '1px solid var(--border)', paddingBottom: '12px' }}>
-                    {tit.location_name ? `Contribution from ${tit.location_name}` : tit.title}
-                  </h3>
-                  <div className="latin-text">
-                    {tit.latin_text}
+          {/* EXPLORER TAB (Metadata & Transcript) */}
+          {activeTab === 'explorer' && (
+            rollDetail ? (
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end' }}>
+                  <div>
+                    <div className="roll-num" style={{ fontSize: '1.2rem' }}>ROLL N° {rollDetail.roll.roll_num}</div>
+                    <h1 style={{ margin: '4px 0', fontSize: '2.5rem' }}>{rollDetail.roll.date_str}</h1>
                   </div>
-                  
-                  {tit.entities && tit.entities.length > 0 && (
-                    <div style={{ marginTop: '24px' }}>
-                      <h4 style={{ fontSize: '0.9rem', textTransform: 'uppercase', color: 'var(--text-muted)', marginBottom: '12px' }}>Historical Actors</h4>
-                      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px' }}>
-                        {tit.entities.map(ent => (
-                          <div key={ent.id} style={{ padding: '8px 12px', background: 'var(--paper-dark)', border: '1px solid var(--border)', borderRadius: '2px', fontSize: '14px' }}>
-                            <strong className="rubric">{ent.normalized_name}</strong> ({ent.normalized_role})
-                          </div>
-                        ))}
-                      </div>
-                    </div>
-                  )}
+                  <div style={{ display: 'flex', gap: '12px' }}>
+                    <button className="tab-btn" onClick={() => setActiveTab('verification')}>View Manuscript</button>
+                    <button className="tab-btn active" onClick={() => handleToggleVerify(rollDetail.roll.id)}>
+                      {rollDetail.roll.is_verified ? 'Verified ✓' : 'Mark Verified'}
+                    </button>
+                  </div>
                 </div>
-              ))}
 
-              {rollDetail.footnotes.length > 0 && (
-                <div className="footnote-section">
-                  <h3 style={{ fontSize: '1rem', textTransform: 'uppercase', marginBottom: '16px' }}>Critical Apparatus</h3>
-                  {rollDetail.footnotes.map(fn => (
-                    <div key={fn.id} className="footnote-item">
-                      <span className="footnote-num">{fn.footnote_num}.</span>
-                      {fn.text}
-                    </div>
-                  ))}
+                <div className="glass-panel" style={{ padding: '32px' }}>
+                  <h3 style={{ marginBottom: '16px' }}>Scholarly Description</h3>
+                  <p style={{ fontSize: '1.2rem', lineHeight: '1.6' }}>{rollDetail.roll.title}</p>
+                  <div style={{ background: 'rgba(0,0,0,0.03)', padding: '16px', border: '1px solid var(--border)', marginTop: '24px', fontSize: '15px' }}>
+                    <strong>Manuscripts:</strong> {rollDetail.roll.manuscripts}
+                  </div>
                 </div>
-              )}
-            </div>
-          ) : (activeTab === 'explorer' || activeTab === 'verification') && (
-            <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%', color: 'var(--text-muted)' }}>
-              <div style={{ textAlign: 'center' }}>
-                <BookOpen size={64} style={{ marginBottom: '20px', opacity: 0.2 }} />
+
+                {rollDetail.tituli.map(tit => (
+                  <div key={tit.id} className="glass-panel" style={{ padding: '32px' }}>
+                    <h3 className="gold-leaf" style={{ marginBottom: '20px', borderBottom: '1px solid var(--border)', paddingBottom: '12px' }}>
+                      {tit.location_name ? `Titulus: ${tit.location_name}` : tit.title}
+                    </h3>
+                    <div className="latin-text">
+                      {tit.latin_text}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%', color: 'var(--text-muted)' }}>
                 <p>Select a scroll from the sidebar to begin research.</p>
               </div>
-            </div>
+            )
+          )}
+
+          {/* VERIFICATION TAB (Side-by-side) */}
+          {activeTab === 'verification' && (
+            rollDetail ? (
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', height: '100%' }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                  <h1 style={{ fontSize: '24px' }}>Manuscript Verification: N° {rollDetail.roll.roll_num}</h1>
+                  <div style={{ display: 'flex', gap: '12px' }}>
+                    <button className="btn-secondary" onClick={() => setZoomLevel(z => Math.max(0.5, z - 0.1))}>Zoom -</button>
+                    <button className="btn-secondary" onClick={() => setZoomLevel(z => Math.min(2, z + 0.1))}>Zoom +</button>
+                  </div>
+                </div>
+
+                <div style={{ display: 'grid', gridTemplateColumns: '1.2fr 1fr', gap: '20px', flex: 1, overflow: 'hidden' }}>
+                  {/* Left: Image */}
+                  <div className="glass-panel" style={{ overflow: 'auto', background: '#000', position: 'relative' }}>
+                    {(() => {
+                      const pdfMatch = rollDetail.roll.pdf_source.match(/\((\d+)\)/);
+                      const pdfIdx = pdfMatch ? pdfMatch[1] : 1;
+                      const pages = rollDetail.roll.pdf_pages.split(',');
+                      const activePage = pages[activeVerificationIndex]?.trim() || pages[0].trim() || '3';
+                      const matchedTitulus = rollDetail.tituli.find(t => t.pdf_page === Number(activePage)) || rollDetail.tituli[0];
+                      const half = matchedTitulus ? matchedTitulus.pdf_half : 'left';
+                      const imageUrl = `/api/image/${pdfIdx}/${activePage}/${half}`;
+
+                      return (
+                        <div style={{ transform: `scale(${zoomLevel})`, transformOrigin: 'top left' }}>
+                          <img src={imageUrl} alt="Manuscript" style={{ maxWidth: 'none' }} />
+                        </div>
+                      );
+                    })()}
+                  </div>
+
+                  {/* Right: Transcript editor */}
+                  <div className="glass-panel" style={{ display: 'flex', flexDirection: 'column', overflowY: 'auto', padding: '24px' }}>
+                    <h3 style={{ marginBottom: '20px', fontSize: '18px' }}>Transcripts & Footnotes</h3>
+                    {rollDetail.tituli.map(tit => (
+                      <div key={tit.id} style={{ marginBottom: '32px' }}>
+                        <div style={{ fontWeight: 'bold', color: 'var(--primary)', marginBottom: '8px' }}>{tit.title}</div>
+                        <textarea 
+                          className="search-input"
+                          style={{ width: '100%', height: '150px', marginBottom: '12px', fontStyle: 'italic', fontSize: '15px' }}
+                          value={tit.latin_text}
+                          onChange={(e) => {
+                             const updated = rollDetail.tituli.map(t => t.id === tit.id ? { ...t, latin_text: e.target.value } : t);
+                             setRollDetail({ ...rollDetail, tituli: updated });
+                          }}
+                        />
+                      </div>
+                    ))}
+                    
+                    <div style={{ marginTop: 'auto', borderTop: '1px solid var(--border)', paddingTop: '20px' }}>
+                       <button className="tab-btn active" style={{ width: '100%' }} onClick={() => handleToggleVerify(rollDetail.roll.id)}>
+                         {rollDetail.roll.is_verified ? 'Verified' : 'Approve & Save Changes'}
+                       </button>
+                    </div>
+                  </div>
+                </div>
+                
+                {/* Page Navigation */}
+                {rollDetail.roll.pdf_pages.split(',').length > 1 && (
+                  <div style={{ display: 'flex', gap: '8px', justifyContent: 'center', padding: '12px' }}>
+                    {rollDetail.roll.pdf_pages.split(',').map((p, idx) => (
+                      <button 
+                        key={idx} 
+                        className={`tab-btn ${activeVerificationIndex === idx ? 'active' : ''}`}
+                        onClick={() => setActiveVerificationIndex(idx)}
+                      >
+                        Page {p.trim()}
+                      </button>
+                    ))}
+                  </div>
+                )}
+              </div>
+            ) : (
+               <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%', color: 'var(--text-muted)' }}>
+                <p>Select a scroll from the sidebar to begin verification.</p>
+              </div>
+            )
           )}
 
           {/* TRAVEL MAP TAB */}
