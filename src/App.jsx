@@ -38,10 +38,15 @@ export default function App() {
   const [rollDetail, setRollDetail] = useState(null);
   const [isEditing, setIsEditing] = useState(false);
   
-  // Map Refs
+  // Map Refs & State
   const mapInstanceRef = useRef(null);
   const mapLayersRef = useRef(null);
   const lastFittedRollId = useRef(null);
+  
+  const [mapRollId, setMapRollId] = useState(null);
+  const [stopsFilter, setStopsFilter] = useState(0);
+  const [travelPath, setTravelPath] = useState([]);
+  const [allTravelsData, setAllTravelsData] = useState({});
 
   // Initialize Map Once
   useEffect(() => {
