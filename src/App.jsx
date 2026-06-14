@@ -102,6 +102,7 @@ export default function App() {
 
   useEffect(() => {
     fetchRolls();
+
   }, []);
 
   useEffect(() => {
@@ -109,6 +110,7 @@ export default function App() {
     if (rolls.length > 0 && !mapRollId) {
       setMapRollId('all');
     }
+
   }, [activeTab, rolls]);
 
   useEffect(() => {
@@ -151,7 +153,7 @@ export default function App() {
             let colorIdx = 0;
             const allCoords = [];
 
-            Object.entries(data).forEach(([_, rInfo]) => {
+            Object.values(data).forEach((rInfo) => {
               const rollTravels = rInfo.travels;
               if (rollTravels.length === 0) return;
 
@@ -414,19 +416,9 @@ export default function App() {
   };
 
   return (
-    <div style={{ display: 'flex', minHeight: '100vh' }}>
+    <div className="app-container">
       {/* Sidebar */}
-      <div className="glass-panel" style={{
-        width: 'var(--sidebar-width)',
-        margin: '16px',
-        padding: '24px',
-        display: 'flex',
-        flexDirection: 'column',
-        gap: '24px',
-        height: 'calc(100vh - 64px)',
-        position: 'sticky',
-        top: '16px'
-      }}>
+      <div className="glass-panel sidebar">
         <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
           <Database size={32} color="var(--primary)" />
           <div>
@@ -436,7 +428,7 @@ export default function App() {
         </div>
 
         {/* Navigation */}
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '8px', flex: 1 }}>
+        <div className="nav-menu">
           <button 
             className={`btn-secondary ${activeTab === 'dashboard' ? 'glass-panel-interactive' : ''}`}
             style={{ justifyContent: 'flex-start', background: activeTab === 'dashboard' ? 'rgba(99, 102, 241, 0.15)' : 'transparent', borderColor: activeTab === 'dashboard' ? 'var(--primary)' : 'transparent' }}
@@ -500,7 +492,7 @@ export default function App() {
       </div>
 
       {/* Main Content Area */}
-      <div style={{ flex: 1, padding: '32px 32px 32px 0', overflowY: 'auto', maxHeight: '100vh' }}>
+      <div className="main-content">
         
         {/* DASHBOARD TAB */}
         {activeTab === 'dashboard' && (
@@ -511,7 +503,7 @@ export default function App() {
             </div>
 
             {/* Stats Grid */}
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: '20px' }}>
+            <div className="dashboard-stats">
               <div className="glass-panel" style={{ padding: '24px' }}>
                 <span style={{ color: 'var(--text-secondary)', fontSize: '14px' }}>Total Rolls</span>
                 <h2 style={{ fontSize: '36px', margin: '8px 0 0 0' }}>{stats.total}</h2>
@@ -537,11 +529,11 @@ export default function App() {
                 {rolls.slice(0, 10).map(roll => (
                   <div 
                     key={roll.id} 
-                    className="glass-panel glass-panel-interactive" 
-                    style={{ padding: '16px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', cursor: 'pointer' }}
+                    className="glass-panel glass-panel-interactive roll-list-item"
+                    style={{ cursor: 'pointer' }}
                     onClick={() => handleSelectRoll(roll.id)}
                   >
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
+                    <div className="roll-list-item-left">
                       <div className="glass-panel" style={{ padding: '10px 14px', background: 'rgba(99, 102, 241, 0.1)', borderColor: 'rgba(99,102,241,0.2)' }}>
                         <span style={{ fontWeight: 'bold', color: 'var(--primary)' }}>N° {roll.roll_num}</span>
                       </div>
@@ -575,7 +567,7 @@ export default function App() {
             </div>
 
             {/* Search Bar */}
-            <form onSubmit={triggerSearch} style={{ display: 'flex', gap: '12px' }}>
+            <form onSubmit={triggerSearch} className="search-form">
               <input 
                 type="text" 
                 placeholder="Search by name, location, dates, Latin text, manuscripts..." 
@@ -603,8 +595,8 @@ export default function App() {
                   <p>No rolls found matching your query.</p>
                 </div>
               ) : (
-                <div style={{ overflowX: 'auto' }}>
-                  <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left' }}>
+                <div className="table-responsive">
+                  <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left', minWidth: '600px' }}>
                     <thead>
                       <tr style={{ borderBottom: '1px solid var(--panel-border)', color: 'var(--text-secondary)', fontSize: '13px' }}>
                         <th style={{ padding: '12px 16px' }}>Roll N°</th>
@@ -649,7 +641,7 @@ export default function App() {
         {/* VERIFICATION HUB TAB */}
         {activeTab === 'verification' && (
           <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+            <div className="header-row">
               <div>
                 <h1 style={{ fontSize: '32px', marginBottom: '8px' }}>Verification Hub</h1>
                 <p style={{ color: 'var(--text-secondary)', margin: 0 }}>Verify parsed rolls against original PDF page scans side-by-side.</p>
@@ -675,7 +667,7 @@ export default function App() {
             </div>
 
             {rollDetail ? (
-              <div style={{ display: 'grid', gridTemplateColumns: '1.1fr 1fr', gap: '24px', height: 'calc(100vh - 200px)' }}>
+              <div className="verification-grid">
                 
                 {/* Left Pane: Image Scan & Footnotes */}
                 <div className="glass-panel" style={{ display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
@@ -839,7 +831,7 @@ export default function App() {
                     
                     {isEditing ? (
                       <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 2fr', gap: '12px' }}>
+                        <div className="metadata-grid">
                           <input 
                             className="input-field" 
                             value={rollDetail.roll.roll_num} 
@@ -936,7 +928,7 @@ export default function App() {
                                   </div>
                                   
                                   {/* Normalization form fields */}
-                                  <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '8px', marginBottom: '8px' }}>
+                                  <div className="entity-grid">
                                     <input 
                                       className="input-field" 
                                       style={{ padding: '6px 10px', fontSize: '12px' }}
@@ -1029,7 +1021,7 @@ export default function App() {
               <p style={{ color: 'var(--text-secondary)', margin: 0 }}>Download verified mortuary rolls data in standardized research formats.</p>
             </div>
 
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '24px' }}>
+            <div className="export-grid">
               
               <div className="glass-panel" style={{ padding: '24px', display: 'flex', flexDirection: 'column', gap: '16px' }}>
                 <h3 style={{ margin: 0 }}>CSV Spreadsheet</h3>
@@ -1068,7 +1060,7 @@ export default function App() {
         {/* TRAVEL MAP TAB */}
         {activeTab === 'map' && (
           <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', height: '100%' }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+            <div className="header-row">
               <div>
                 <h1 style={{ fontSize: '32px', marginBottom: '8px' }}>Travel Map</h1>
                 <p style={{ color: 'var(--text-secondary)', margin: 0 }}>Visualize the historical itinerary and visiting stops of each mortuary roll.</p>
@@ -1090,7 +1082,7 @@ export default function App() {
               </div>
             </div>
 
-            <div style={{ display: 'flex', gap: '24px', minHeight: 0 }}>
+            <div className="map-grid">
               {/* Map Container */}
               <div className="glass-panel" style={{ flex: 2, position: 'relative', overflow: 'hidden', height: '600px' }}>
                 <div id="map-container" style={{ width: '100%', height: '100%', borderRadius: '12px', background: '#0f172a' }}></div>
