@@ -60,10 +60,49 @@ export default function App() {
     } catch (e) { console.error("Failed to fetch roll detail:", e); }
   };
 
+  // --- HASH ROUTING LOGIC ---
+  useEffect(() => {
+    const handleHashChange = () => {
+      const hash = window.location.hash.replace('#/', '');
+      const parts = hash.split('/');
+      const tab = parts[0] || 'map';
+      const id = parts[1] ? Number(parts[1]) : null;
+
+      if (['dashboard', 'explorer', 'map', 'verification'].includes(tab)) {
+        setActiveTab(tab);
+        if (id && id !== selectedRollId) {
+          handleSelectRoll(id);
+        }
+      }
+    };
+
+    window.addEventListener('hashchange', handleHashChange);
+    // Initial parse
+    handleHashChange();
+    return () => window.removeEventListener('hashchange', handleHashChange);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [rolls]); // Re-run when rolls load to ensure ID selection works
+
+  const syncHash = (tab, id = null) => {
+    const newHash = id ? `#/${tab}/${id}` : `#/${tab}`;
+    if (window.location.hash !== newHash) {
+      window.location.hash = newHash;
+    }
+  };
+
+  const handleTabChange = (tab) => {
+    setActiveTab(tab);
+    syncHash(tab, tab === 'explorer' || tab === 'verification' ? selectedRollId : null);
+  };
+
   const handleSelectRoll = (id) => {
     setSelectedRollId(id);
     setRollDetail(null);
     fetchRollDetail(id);
+    // Only update hash if we are in a tab that supports roll selection
+    if (activeTab === 'explorer' || activeTab === 'verification') {
+      syncHash(activeTab, id);
+    }
   };
 
   const fetchRolls = async (query = '') => {
@@ -114,11 +153,11 @@ export default function App() {
     window.gotoRoll = (id) => {
       if (!id) return;
       handleSelectRoll(Number(id));
-      setActiveTab('explorer');
+      handleTabChange('explorer');
     };
     return () => { delete window.gotoRoll; };
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [rolls]);
+  }, [rolls, activeTab]);
 
   // Initialize Map Once
   useEffect(() => {
@@ -263,7 +302,7 @@ export default function App() {
         </div>
         <div className="tabs-nav">
           {['dashboard', 'explorer', 'map', 'verification'].map(t => (
-            <button key={t} className={`tab-btn ${activeTab === t ? 'active' : ''}`} onClick={() => setActiveTab(t)}>
+            <button key={t} className={`tab-btn ${activeTab === t ? 'active' : ''}`} onClick={() => handleTabChange(t)}>
               {t.charAt(0).toUpperCase() + t.slice(1)}
             </button>
           ))}
