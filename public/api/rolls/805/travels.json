@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Rochester, England",
+    "coords": [
+      51.39,
+      0.505
+    ],
+    "year": null,
+    "date_str": "Sd.- Bermondsey; S. Saviour",
+    "is_approximate": false,
+    "description": "Origin: Salvatoris de Bermundesia. Anima ejus et animae o ..."
+  }
+]

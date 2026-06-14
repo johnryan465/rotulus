@@ -1,0 +1,78 @@
+{
+  "roll": {
+    "id": 778,
+    "roll_num": "105",
+    "date_str": "[1103] 60 [47] S.d. - [Reims,] S. Trinit\u00e9 (1) T. ecclesie Sancte Trinitatis. Ut petitis, fratres; a nobis; sic faciemus. Sed Bruno cum Christo regnat, sicut reputamus; Quem cruce prelata sectatus hic et eremita, Illecebris mundi constanti mente repulsis.",
+    "title": "61 [48] S.d.- Reims, S. Denis. T. Sancti Dionysii Remensis. Cunctas liquit opes, cunctos simul orbis honores Pro te, Christe; Pater pro celi munere pauper Bruno factus iter; quorum fuit ante magister: Quattuor ut fontes; ex una parte meantes; Quos paradisus habet, mundi per regna fuentes Exundant terras, sic hic quos imbuit, ornat, Implet et informat, inflammat, dirigit, armat, Cudit et illustrat et adhuc regit; excolit, aptat. Syderis instar erat cunctis; quos ipse docebat. Inter celicolas Christi requiescat in aula. 62 [49] S.d.- [Reims,] S. Remi. I. eximii Remigii Francorum apostoli. Ne doleatis; oves, pastores funere flentes Nam non est flendus, fuerat cui vivere Christus Atque mori lucrum superando demonis astum, Hic Pater eximius, nobis merito venerandus Nec solum nobis, sed quos sol flammeus urit. Quem fovet ipse Deus; quem jam retinet paradisus In requie pacis, cur talem, queso, doletis ? Raptus enim mundo donatur vivere celo; Et vivit vere, studuit quia vivere juste. Conregnare tibi, Deus; annue, quesumus, illi Eterna requie dans tecum perpetuari. Le rouleau mortuaire de Mathilde, abbesse d 1 n P. 491). Ils'agit ici sans doute du m\u00eame \u00e9tablis-",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "77,78",
+    "is_verified": 0,
+    "year": 1103
+  },
+  "tituli": [
+    {
+      "id": 3600,
+      "roll_id": 778,
+      "title": "63 [50] S.d. Reims; S. Nicaise I sancti Nichasii, Remorum archiepiscopi.",
+      "location_name": "Reims",
+      "latin_text": "Deus fdelium Jumen et animarum; animam hujus viri catholici ab omni (2) solvat vinculo delictorum",
+      "pdf_page": 78,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 62407,
+          "titulus_id": 3600,
+          "original_name": "Deu",
+          "original_title": "fdelium Jumen et animarum",
+          "footnote_num": "1",
+          "footnote_text": "IlilC UC Cacll, Conllenl Un UlrC appos\u00e9  par la $. Trinit\u00e9 de Reims (\u00e9d. infra,",
+          "normalized_name": "Deu",
+          "normalized_role": "IlilC UC Cacll",
+          "normalized_dates": "",
+          "location_name": "Reims"
+        },
+        {
+          "id": 62408,
+          "titulus_id": 3600,
+          "original_name": "Jumen",
+          "original_title": "animarum",
+          "footnote_num": "2",
+          "footnote_text": "Kelbicu,   1 1 difficile \u00e0 d\u00e9terminer;",
+          "normalized_name": "Jumen",
+          "normalized_role": "Kelbicu",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 3601,
+      "roll_id": 778,
+      "title": "64 [51] Sd - [Reims ] S. Timoth\u00e9e; S. Apollinaire (3) _ T sanctorum martyrum Timothei et Apollinaris. Hujus doctoris fuit hec vis cordis et oris, Ut toto cunctos superaret in orbe magistros. Sic meditando bonus fuit atque loquendo disertus. 10 Huic se tota dedit sapientia totaque sedit Hujus in arcanis dives penetralibus hospes. Quod dico, novi, mecum quoque Francia novit, Et totus novit per climata quattuor orbis. Hec illum docuit res hujus spernere mundi 15 Et solum fecit perquirere gaudia celi. Huic si quid sordis de carnis lege = cohesit (Nam cuncti penitus carnali lege gravamur) Omnipotens ' tollat, qui crimina nostra relaxat, Impleat atque sibi votum, quod semper amavit. 20 65 [52] S.d- [S. Thierry;] S. T. sancti Barth\u00e9lemy- Orbis  Bartholomei , amarescens claudescit apostoli in monte Or. Et trahit ad pondere mortis speciem humane - Mergit  et exilio per devia sortis 25 Unde tumescis; propriorum queque homo tabescens. Fonte' miser; Caribdineo hac etate mergeris ad senescens 2 Ac cinis in cineres ultima solveris finis; ut umbra lucernis:",
+      "location_name": "- [Reims ] S. Timoth\u00e9e",
+      "latin_text": "5. Nicaise B\u00e9n\u00e9dictins de Reims r\u00e9form\u00e9c fut une Dieu / en 1090 abbaye (cf.P-R. de Gaussin; par La Chaise; delictorum Dieu . 23 P 137). Cabbaye \u20ac de La Chaise Cet Ce texte abbaye \u00e9tablissement des cst inspir\u00e9 de religieux fut une d\u00e9funts = du trait de la cf. chanoines omnium Absolve, messe Cottineau,  r\u00e9guliers   depuis   1064 ; fidelium < Domine, col. Cf. 2437 . idefunctorum animas Gen., ab omni pulverem IIL, vinculo 19 reverteris quia pulvis es, et in 308",
+      "pdf_page": 78,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 3581,
+      "roll_id": 778,
+      "pdf_page": 77,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "IlilC UC Cacll, Conllenl Un UlrC appos\u00e9  par la $. Trinit\u00e9 de Reims (\u00e9d. infra,"
+    },
+    {
+      "id": 3582,
+      "roll_id": 778,
+      "pdf_page": 77,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Kelbicu,   1 1 difficile \u00e0 d\u00e9terminer;"
+    }
+  ]
+}

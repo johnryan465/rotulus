@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Chartres, France",
+    "coords": [
+      48.4472,
+      1.4877
+    ],
+    "year": 1103,
+    "date_str": "[1103] Lector securus quia nunc sospes subiturus; Huic completa tamen debita dicat Amen.",
+    "is_approximate": false,
+    "description": "Origin: 24 [160] S.d.- Chartres; S. P\u00e8re[-en-Vall\u00e9e] . T. ..."
+  }
+]

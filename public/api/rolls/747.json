@@ -1,0 +1,36 @@
+{
+  "roll": {
+    "id": 747,
+    "roll_num": "78",
+    "date_str": "S.d.-S. Genou, S. Sauveur:. T. Sancti Salvatoris sanctique Genulphi presulis.",
+    "title": "",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "33,34",
+    "is_verified": 0,
+    "year": null
+  },
+  "tituli": [
+    {
+      "id": 3523,
+      "roll_id": 747,
+      "title": "Implicit Titulus",
+      "location_name": "",
+      "latin_text": "1o S.d. D\u00e9ols, N.-D. T. Sancte Marie Dolensis cenobii. 1l S.d.- [Ch\u00e2teauroux,] S. Sauveur; S. Gildas. T. Summi opificis ac ejus egregii Gildasii confessoris, Dolensis presidii. 5 12 S.d. Menat, S. M\u00e9nel\u00e9e. T. Sancti Menelei Minatensis cenobii . 13 S.d. Mozac; S. Austremoine. T. Sancti Austremonii Maudiacensis coenobii. 10 Redidimus vobis quod cartula vestra petivit 3 Noster et ordo suis eadem solamina poscit. Obiit domnus abba Faramundus (1) Genesius monachus; Galterius monachus; Gulferius monachus; Petrus monachus; Petrus monachus; Guillelmus monachus, Gulcerius monachus; Guillemus monachus; Geraldus monachus; Arnaldus mona- 15 chus; Arbertus monachus,Guido monachus; Franaldus monachus, Ramnulfus monachus; Aldinus monachus; Geraldus monachus et aliorum nomina quorum Deus scit . 14 [15] S.d.- [Brioude,] S. Julien. 20 T. Sancti Juliani. Obiit Stephanus (2) episcopus ; Willelmus, clericus. S.d. - Clermont, cath\u00e9drale (N.= ,D., S. Sixte) . 15 [14] T. Sancte Marie Avenice sedis et Sancti Systi; hoc tribuatis libenti animo et nostris . Obiit Baragnaldus, Quod vultis vestris; 25 Petrus, Leufredus; Durandus. 16 [17] S.d.- Le Puy, cath\u00e9drale. T. Aniciensis ecclesie. Pars hominis moritur ea que mortalis habetur; Stephanus; doyen; fut aussi \u00e9v\u00eaque (d'un Ce personnage n'est pas cit\u00e9 dans la liste difficile a d\u00e9terminer; peut-\u00eatre des abb\u00e9s de Mozac donn\u00e9e par le Gallia chris- dioc\u00e8se Clermont ; cf. Gallia christ\u00edana, t. II, col. 492) . tiana (t. II, col. 352) .",
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 3524,
+      "roll_id": 747,
+      "title": "Implicit Titulus",
+      "location_name": "",
+      "latin_text": "debita; debita morti; Illi nam Borti caro cura tuetur: moritur; nature Et caro cum est, petit astra; quia spiritus , Set v78 divine, sua si caro vincit. petit, mundum Spiritus astra Gerardus, carnis amorem Vicit et hic carnem cum Christo vivere duxit . In cruce confixit nichil est de morte dolentes; Sic nichil est , fralres; venie nichil est de morte dolere. Infra spem Set petitis vobis que debita solvite nobis. 10 Iste refert monacum legatus morte subagtum; Ex vocat ahbatem monachis sicut dominantem; Moribus ornatum; viciis hunc atque rerulsum; Que res nos docuit quod num[mJos querere  venit. 17 [18] Sd-[Le Puy ] S. Agr\u00e8ve. 15 T. Sancti Agripani. 18 [16] S.d-Localit\u00e9 ind\u00e9termin\u00e9e (S. Georges) T. Sancti Georgii Gerardus proprii persolvit debita laeti Hunc ne plangatis, hec cum vos vera sciatis;, 20 \u00c6tereus civis quod jam residet super astris. Mortuus et mundo; vixit sine crimine Christo. 19 Sd - Arles; cath\u00e9drale. T Arelatensis aecclesie Quod petitis petimus date quod damus = 25 Obiit Constabilis, Bernardus,- ergo rogamus, Bernardus et alii, 20 S.d- Montmajour; S. T Sancti Petri Montis Majoris  Pierre. Qui vici[i]s servis, timeas juga lurida mortis. Ast expers vicii, gaudens occurrito morti . 1 'impr\u00e9cision  de la  mention T Sancti Ceorgii ne permet pes une Puy) identification soit au Cer: L. Delisle / chapitre Laine C Litre de $. pcut \u00eatre en cffet d\u00fb  soit \u00e0 (op; Cil,, p 532) Georges que G. ne du 5. Gtorges Arsac Puy de $, Paulien (Hautc-Loire, (op. , cil , pr\u00e9cise arr; Le solution, P 263) pas; tandis sans justifier choisit ' 8on la choix, seconde",
+      "pdf_page": 34,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": []
+}

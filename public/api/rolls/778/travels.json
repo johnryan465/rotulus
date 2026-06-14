@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 1103,
+    "date_str": "[1103] 60 [47] S.d. - [Reims,] S. Trinit\u00e9 (1) T. ecclesie Sancte Trinitatis. Ut petitis, fratres; a nobis; sic faciemus. Sed Bruno cum Christo regnat, sicut reputamus; Quem cruce prelata sectatus hic et eremita, Illecebris mundi constanti mente repulsis.",
+    "is_approximate": false,
+    "description": "Origin: 61 [48] S.d.- Reims, S. Denis. T. Sancti Dionysii ..."
+  }
+]

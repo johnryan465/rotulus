@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1035,
+    "date_str": "S.d. [1035]",
+    "is_approximate": false,
+    "description": "Origin: Bref mortuaire adresse par Fabbaye de Montier-en-D..."
+  }
+]

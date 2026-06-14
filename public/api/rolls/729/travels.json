@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Mainz, Germany",
+    "coords": [
+      49.9929,
+      8.2473
+    ],
+    "year": 1047,
+    "date_str": "[1047] 25 [70] S.d - [Chanteuges | S Marcellin . monasterio que tiene el cuerpo de san Marcelino. 25. Un En terses herumetros. 26 [71] S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es  bis]. Otra muy corta del monasterio Chatojolese [25 la 25 et 26 la del monasterio Chatojolese; Entre sl no es el mismo que clae 5 Il 25 () _ 27 [72] S.d.- Le Puy; cathedrale (N-D) 26. Sa Maria Aniciense",
+    "is_approximate": false,
+    "description": "Origin: 28 [92] [7 juin 1047] Seu d'Urgell, catedral (S. M..."
+  }
+]

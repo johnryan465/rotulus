@@ -58,8 +58,10 @@ def clean_roll_num_string(s):
     return cleaned
 
 def extract_numbers_from_cleaned(cleaned):
-    # Split by Delisle bracket if present
-    main_part = cleaned.split('[')[0].strip()
+    # Only look at the first 20 characters to avoid picking up footnote numbers 
+    # from OCR-merged text blocks.
+    prefix_part = cleaned[:20]
+    main_part = prefix_part.split('[')[0].strip()
     digits = re.findall(r'\d+', main_part)
     return [int(d) for d in digits]
 
@@ -74,7 +76,7 @@ def is_valid_roll_number_line(line):
         return True
         
     # Pattern 2: starts with a common roll prefix (like No, Nos, N°, N*, N>, Ne, N) followed by a number
-    if re.match(r'^[nN][oOsS]?s?[\*°>\.>e]?\s*\d+(\s*[\-\/\&\.\/\s]\s*\d+)?(\s*\[\d+\])?$', s):
+    if re.match(r'^[nN][oOsS]?s?[\*°>\.>e\"\'P]?\s*\d+(\s*[\-\/\&\.\/\s]\s*\d+)?(\s*\[\d+\])?', s):
         return True
         
     return False
@@ -120,13 +122,17 @@ def parse_roll_header(lines, expected_next, pdf_max_roll=145):
         cleaned = clean_roll_num_string(test_line)
         nums = extract_numbers_from_cleaned(cleaned)
         
-        if nums and len(cleaned) < 15:
+        # Require it to be short, UNLESS it explicitly starts with an N prefix
+        has_n_prefix = bool(re.match(r'^[nN]', cleaned))
+        if nums and (len(cleaned) < 15 or has_n_prefix):
             # Rule 1 & 2: Allow the roll number if it is within the expected sequence.
-            # Forward window is large (+20) to recover from OCR-caused misses.
-            # Backward window is small (-2) to avoid false positives.
+            # If it has an N prefix, we allow a larger window (+20) to recover from OCR misses.
+            # If it's a pure number, we keep a very tight window (+2) to avoid margin line numbers (10, 15, 20).
+            forward_window = 20 if has_n_prefix else 2
+            
             matched_num = None
             for n in nums:
-                if (expected_next - 2 <= n <= min(pdf_max_roll, expected_next + 20)):
+                if (expected_next - 2 <= n <= min(pdf_max_roll, expected_next + forward_window)):
                     matched_num = n
                     break
                     
@@ -184,8 +190,12 @@ def parse_roll_header(lines, expected_next, pdf_max_roll=145):
                     
                 if is_valid:
                     # Always trust the actual number found in the text.
-                    # Auto-correction caused duplicate roll entries with the wide window.
-                    roll_num = str(matched_num)
+                    # Handle grouped roll headers like "Nos 8-10" or "Nos 11-14"
+                    valid_nums = [n for n in nums if expected_next - 2 <= n <= min(pdf_max_roll, expected_next + 20)]
+                    if len(valid_nums) >= 2:
+                        roll_num = f"{min(valid_nums)}-{max(valid_nums)}"
+                    else:
+                        roll_num = str(matched_num)
                     
                     # Title starts after the date line
                     title_parts = []
@@ -200,7 +210,7 @@ def parse_roll_header(lines, expected_next, pdf_max_roll=145):
                         # Stop if we see another number line followed by a date (new roll)
                         sub_cleaned = clean_roll_num_string(l)
                         sub_nums = extract_numbers_from_cleaned(sub_cleaned)
-                        if sub_nums and len(sub_cleaned) < 15:
+                        if sub_nums and (len(sub_cleaned) < 15 or re.match(r'^[nN]', sub_cleaned)):
                             # check if it is followed by a date
                             next_is_date = False
                             sub_count = 0
@@ -557,7 +567,12 @@ def parse_page_content(lines, expected_next_roll, pdf_name, page_num, half_name,
                 "manuscripts": ms_str,
                 "start_idx": i
             }))
-            expected_next_roll = int(roll_num) + 1
+            
+            if "-" in str(roll_num):
+                expected_next_roll = int(str(roll_num).split("-")[1]) + 1
+            else:
+                expected_next_roll = int(roll_num) + 1
+                
             i += len(lines[i:]) - len(remaining)
             continue
             

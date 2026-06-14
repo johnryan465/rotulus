@@ -1,0 +1,416 @@
+{
+  "roll": {
+    "id": 798,
+    "roll_num": "111",
+    "date_str": "[1107] fari vel compte versificari. Apposite pandit, nec ob hec homo celica scandit . Non celum petimus patriam per inanem philosophiam. Non 7 Herberto abbate qui obiit Jerosolimis in valle Josaphat.",
+    "title": "",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (3)",
+    "pdf_pages": "18",
+    "is_verified": 0,
+    "year": 1107
+  },
+  "tituli": [
+    {
+      "id": 3672,
+      "roll_id": 798,
+      "title": "Implicit Titulus",
+      "location_name": "",
+      "latin_text": "33 S.d. - [Hautvillers] 5 [X] Spes gregis Hugo tui, venerande pater; bone pastor; Te gemit et plorat, de te bona multa perorat. Altivillarensis etiam chorus et tua laudat Et de laude tua vitam quam promeruisti 10 Et de laude tua melius quam promeruisti, Postulat ut vitam merearis habere perennem. Nochero abbate; Goderanno (2)   abbate; Jocelino (3)  abbate; Orate p: n., Norioldo abbate, pro presbiteris Balduino monacho; Milone monacho; Gyrardo monacho; Hugone monacho; pro diaconibus Johchelino; Gyrardo, Bartholomeo, 15 Bonardo et pro ceteris omnibus. 34 S.d.  Vertus; S. Sauveur: T. () SANCTI SALVATORIS VIRTUENSIS cenobii . Si per quem fletum pastoris flectere letum Possem, vixisset non tam cito fata subisset. Aut si per luctum se Christo reddere sanctum Nunquam cessarem; donec super astra loquarem. [Xv] 35 S.d. [~ Th\u00e9rouanne; S. Jean ] 20 25 quam lugendus cunctis est atque gemendus. Quantus cunctorum fletus magis et monachorum. 0r amavit",
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 64003,
+          "titulus_id": 3672,
+          "original_name": "Hautviller",
+          "original_title": "] 5 [X] Spes gregis Hugo tui",
+          "footnote_num": "2",
+          "footnote_text": "IliC IlUlIiVIl Ccu Se quuquC 3u1 Sed quia nil luctus, hi nec prosunt Interpellemus Regem regumque pe",
+          "normalized_name": "Hautviller",
+          "normalized_role": "IliC IlUlIiVIl Ccu Se quuquC 3u1 Sed quia nil luctus",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64004,
+          "titulus_id": 3672,
+          "original_name": "Spe",
+          "original_title": "gregis Hugo tui",
+          "footnote_num": "2",
+          "footnote_text": "d\u00e9but de cette mention est fait de lett",
+          "normalized_name": "Spe",
+          "normalized_role": "d\u00e9but de cette mention est fait de lett",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64005,
+          "titulus_id": 3672,
+          "original_name": "Hugo",
+          "original_title": "",
+          "footnote_num": "3",
+          "footnote_text": "d'Hautvillers; cit\u00e9   par le Gall christiana (t.IX, col. 254) de 1093 \u00e0 1095. Abb\u00e9 dHautvillers, cit\u00e9 sans date par Gallia christiana (L. IX, col. 253).",
+          "normalized_name": "Hugo",
+          "normalized_role": "d'Hautvillers",
+          "normalized_dates": "",
+          "location_name": "dHautvillers"
+        },
+        {
+          "id": 64006,
+          "titulus_id": 3672,
+          "original_name": "Altivillarensis",
+          "original_title": "chorus et tua laudat Et de laude tua vitam quam promeruisti 10 Et de laude tua melius quam promeruisti",
+          "footnote_num": "4",
+          "footnote_text": "ibi versus tamus;",
+          "normalized_name": "Altivillarensis",
+          "normalized_role": "ibi versus tamus",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64007,
+          "titulus_id": 3672,
+          "original_name": "Postulat",
+          "original_title": "vitam merearis habere perennem",
+          "footnote_num": "5",
+          "footnote_text": "capitales enclav\u00e9es.",
+          "normalized_name": "Postulat",
+          "normalized_role": "capitales enclav\u00e9es.",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64008,
+          "titulus_id": 3672,
+          "original_name": "Nocher",
+          "original_title": "abbate",
+          "footnote_num": "6",
+          "footnote_text": "en 1076 par Ie (3) Abb\u00e9 d'Hautvillers; Gallia christiana (L.IX, col. 254) . 1049 par le Abb\u00e9 dHautvillers; cit\u00e9 en Gallia christiana (loc. cit)",
+          "normalized_name": "Nocher",
+          "normalized_role": "en 1076 par Ie",
+          "normalized_dates": "",
+          "location_name": "Hautvillers"
+        },
+        {
+          "id": 64009,
+          "titulus_id": 3672,
+          "original_name": "Goderanno",
+          "original_title": ")   abbate",
+          "footnote_num": "2",
+          "footnote_text": "IliC IlUlIiVIl Ccu Se quuquC 3u1 Sed quia nil luctus, hi nec prosunt Interpellemus Regem regumque pe",
+          "normalized_name": "Goderanno",
+          "normalized_role": "IliC IlUlIiVIl Ccu Se quuquC 3u1 Sed quia nil luctus",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64010,
+          "titulus_id": 3672,
+          "original_name": "Jocelino",
+          "original_title": ")  abbate",
+          "footnote_num": "3",
+          "footnote_text": "d'Hautvillers; cit\u00e9   par le Gall christiana (t.IX, col. 254) de 1093 \u00e0 1095. Abb\u00e9 dHautvillers, cit\u00e9 sans date par Gallia christiana (L. IX, col. 253).",
+          "normalized_name": "Jocelino",
+          "normalized_role": "d'Hautvillers",
+          "normalized_dates": "",
+          "location_name": "dHautvillers"
+        },
+        {
+          "id": 64011,
+          "titulus_id": 3672,
+          "original_name": "Orate",
+          "original_title": ": n",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Orate",
+          "normalized_role": ": n",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64012,
+          "titulus_id": 3672,
+          "original_name": "Noriold",
+          "original_title": "abbate",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Noriold",
+          "normalized_role": "abbate",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64013,
+          "titulus_id": 3672,
+          "original_name": "Balduin",
+          "original_title": "monacho",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Balduin",
+          "normalized_role": "monacho",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64014,
+          "titulus_id": 3672,
+          "original_name": "Milon",
+          "original_title": "monacho",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Milon",
+          "normalized_role": "monacho",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64015,
+          "titulus_id": 3672,
+          "original_name": "Gyrard",
+          "original_title": "monacho",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Gyrard",
+          "normalized_role": "monacho",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64016,
+          "titulus_id": 3672,
+          "original_name": "Hugon",
+          "original_title": "monacho",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Hugon",
+          "normalized_role": "monacho",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64017,
+          "titulus_id": 3672,
+          "original_name": "Johchelin",
+          "original_title": "",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Johchelin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64018,
+          "titulus_id": 3672,
+          "original_name": "Gyrard",
+          "original_title": "",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Gyrard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64019,
+          "titulus_id": 3672,
+          "original_name": "Bartholome",
+          "original_title": "",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Bartholome",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64020,
+          "titulus_id": 3672,
+          "original_name": "Bonardo",
+          "original_title": "pro ceteris omnibus",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Bonardo",
+          "normalized_role": "pro ceteris omnibus",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64021,
+          "titulus_id": 3672,
+          "original_name": "Vertu",
+          "original_title": "",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Vertu",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64022,
+          "titulus_id": 3672,
+          "original_name": "Sauveu",
+          "original_title": ": T",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Sauveu",
+          "normalized_role": ": T",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64023,
+          "titulus_id": 3672,
+          "original_name": "Posse",
+          "original_title": "",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Posse",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64024,
+          "titulus_id": 3672,
+          "original_name": "Aut",
+          "original_title": "per luctum se Christo reddere sanctum Nunquam cessarem",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Aut",
+          "normalized_role": "per luctum se Christo reddere sanctum Nunquam cessarem",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64025,
+          "titulus_id": 3672,
+          "original_name": "Christ",
+          "original_title": "reddere sanctum Nunquam cessarem",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Christ",
+          "normalized_role": "reddere sanctum Nunquam cessarem",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64026,
+          "titulus_id": 3672,
+          "original_name": "Nunqua",
+          "original_title": "cessarem",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Nunqua",
+          "normalized_role": "cessarem",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64027,
+          "titulus_id": 3672,
+          "original_name": "Th\u00e9rouann",
+          "original_title": "",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Th\u00e9rouann",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64028,
+          "titulus_id": 3672,
+          "original_name": "Jea",
+          "original_title": "] 20 25 quam lugendus cunctis est atque gemendus",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Jea",
+          "normalized_role": "] 20 25 quam lugendus cunctis est atque gemendus",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 64029,
+          "titulus_id": 3672,
+          "original_name": "Quantu",
+          "original_title": "cunctorum fletus magis et monachorum",
+          "footnote_num": "",
+          "footnote_text": "",
+          "normalized_name": "Quantu",
+          "normalized_role": "cunctorum fletus magis et monachorum",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 3645,
+      "roll_id": 798,
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "IliC IlUlIiVIl Ccu Se quuquC 3u1 Sed quia nil luctus, hi nec prosunt Interpellemus Regem regumque pe"
+    },
+    {
+      "id": 3646,
+      "roll_id": 798,
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "d\u00e9but de cette mention est fait de lett"
+    },
+    {
+      "id": 3647,
+      "roll_id": 798,
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "d'Hautvillers; cit\u00e9   par le Gall christiana (t.IX, col. 254) de 1093 \u00e0 1095. Abb\u00e9 dHautvillers, cit\u00e9 sans date par Gallia christiana (L. IX, col. 253)."
+    },
+    {
+      "id": 3648,
+      "roll_id": 798,
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "ibi versus tamus;"
+    },
+    {
+      "id": 3649,
+      "roll_id": 798,
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "capitales enclav\u00e9es."
+    },
+    {
+      "id": 3650,
+      "roll_id": 798,
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "en 1076 par Ie (3) Abb\u00e9 d'Hautvillers; Gallia christiana (L.IX, col. 254) . 1049 par le Abb\u00e9 dHautvillers; cit\u00e9 en Gallia christiana (loc. cit)"
+    },
+    {
+      "id": 3651,
+      "roll_id": 798,
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "footnote_num": "7",
+      "text": "a"
+    },
+    {
+      "id": 3652,
+      "roll_id": 798,
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "footnote_num": "8",
+      "text": "le"
+    }
+  ]
+}

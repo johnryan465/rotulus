@@ -1,0 +1,67 @@
+{
+  "roll": {
+    "id": 693,
+    "roll_num": "46",
+    "date_str": "S.d. [apr\u00e8s fevricr 979]",
+    "title": "Titre versifi\u00e9 \u00e9crit \u00e0 Fleury: A. Original perdu. B. Paris, B.N. F.,lat. 8674, fol. 112 (fin X'-d\u00e9but XI 6) a. L. Delisle; Rouleaux des morts du [X' au XV & , P 19,n\" X(2), dapres B. 25",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "27,28",
+    "is_verified": 0,
+    "year": 979
+  },
+  "tituli": [
+    {
+      "id": 3402,
+      "roll_id": 693,
+      "title": "Implicit Titulus",
+      "location_name": "",
+      "latin_text": "ROULEAUX DES MORTS f\u00eate des saints Nazaire; Nabor; Cyrin et de Je Celse (12 [979] appos\u00e9 _ Je jour Je 16 f\u00e9vrier 979 juin), Ge ttree Ricardus; mnort_ mentionne Tabbe de Fieury; rerumque Creator; \"angelici c caetus Conditor : magna pietate gubernat, humanum Qui genus _ summus regnator Olimpi, Dominus; Omnipotens magestas . semper ubique; Gujus clara nitet E nimium per secula sancta, Agmina , cui parent_ coeli con[sJcendere celsa, Terrigenas ' 'cupiens _ splendent qua prata beata, Lumina _ 'perspicuo . dedit_ perfundens dogmate sacro, Forcia , corda 10 possint _ hostes zabulumve superbum, Vincere quo 'resonent super alta polorum; Atque illi jugiter ! psallendo dulcia claris; Carmina . cum musis _ in celsa 'poli_ super astra reponit, Quos 'statuens _ splendescere perpete constat, 15 Siatque choronattes 3aencus lumine plenus; E 'quibus _ alme nitet 'astra 'poli, Christo ducente perhenni, Qui super Victor sidereas 'penetravit . ad auras Hunc 'sequitur = magnus Christi de nomine comptus; 20 Sanguine [ 'perfusus; dedens jugulum lanioni, Nabor; ut , optatum 'posset pie cernere Jhesum ; Hincque rosis Cirinus adest ornatus opime; Sedibus in celsis jubilans tibi, rex benedicte Quem superis socians redemisti tempora lauro. 2 Flos puerile decens de te quid promere possunt Terrigene miseri () superas quos atra petendo; Celse; puer vernans (}, Christo gratissima proles; Lucida contribuas nobis in secula regna; Omninodis petimus votis precibusque peraltis. (0 D'apr\u00e8s \u20ac @,un mot 'manque\u00e0 cevers. (b) rernans misereri B ; corrigez miseri . ((c) umnans B ; corrigez Q Ricardus = succ\u00e9da \u00e0 [abbaye ( de Vulfaldus \u00e0 la t\u00eate de Fleury Gallia   christiana (t. VIII, Paris;   1744, col monasteTe 'porlen\u00e7soprio %62 ; des actes de c son 1547), il serait mort le 16 f\u00e9vrier 979 cf. aussi JL Prou _ nom entre et a 963 et 977 (cf; Vidier; Recueil Cabbaye de Fleury en Fan mil.I.Vie d Abbon, SaintE Benoit-sur-Loire; des chartes de Paris; abb\u00e9 de Fleury- \u00e9d. R.-H. Bautier; G. Labory; P 132,nP LIII t1 et p 1900-1907, 153, nP Paris; LXII). 2004, P: 77, n. 60. D'apr\u00e8s le",
+      "pdf_page": 28,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 3296,
+      "roll_id": 693,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "passage necnonque Cngisll, Ouulllulllol haute duS de Sole. (b) Diverses variantes, abtegees et plac\u00e9cs en interlignc parenth\u00e8ses."
+    },
+    {
+      "id": 3297,
+      "roll_id": 693,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "CE. GaL, VI, 2: Alter alterius oncra por- late ."
+    },
+    {
+      "id": 3298,
+      "roll_id": 693,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Sens Inc tiana, t XIL eol 109<"
+    },
+    {
+      "id": 3299,
+      "roll_id": 693,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "ulecs eu enure"
+    },
+    {
+      "id": 3300,
+      "roll_id": 693,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "du Callla chris'"
+    }
+  ]
+}

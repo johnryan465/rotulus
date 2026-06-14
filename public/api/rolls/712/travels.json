@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": 1005,
+    "date_str": "5.4 [1005, = apres Ie 1] avril]",
+    "is_approximate": false,
+    "description": "Origin: 20 Encyalimue sollicitant de prier pour Arbode, ab..."
+  }
+]

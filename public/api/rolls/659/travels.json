@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Mainz, Germany",
+    "coords": [
+      49.9929,
+      8.2473
+    ],
+    "year": 764,
+    "date_str": "S.d. [764-octobre 786 0]",
+    "is_approximate": false,
+    "description": "Origin: Tol \u00e9t\u00eague {de Mainz] , recommande \u00e0 Guthbert, abb..."
+  }
+]

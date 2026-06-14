@@ -1,0 +1,67 @@
+[
+  {
+    "step": 0,
+    "type": "stop",
+    "name": "Auxerre, France",
+    "coords": [
+      47.798,
+      3.573
+    ],
+    "year": null,
+    "date_str": "S.d.- Soissons; S. Cr\u00e9pin[-le-Grand]; S. Cr\u00e9pinien. T. sanctorum martirum Crispini et Crispiniani.  Anima ejus et a. 0. f. d. 29 in 5 Christi nomine; r i. p. Orate p. n. abbatibus et monachis; quorum nomina Altis- simo sunt nota.",
+    "is_approximate": false,
+    "description": "Titulus Header: Auxerre"
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": null,
+    "date_str": "S.d.- Soissons; S. Cr\u00e9pin[-le-Grand]; S. Cr\u00e9pinien. T. sanctorum martirum Crispini et Crispiniani.  Anima ejus et a. 0. f. d. 29 in 5 Christi nomine; r i. p. Orate p. n. abbatibus et monachis; quorum nomina Altis- simo sunt nota.",
+    "is_approximate": false,
+    "description": "Titulus Header: T"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Laon, France",
+    "coords": [
+      49.5642,
+      3.6199
+    ],
+    "year": null,
+    "date_str": "S.d.- Soissons; S. Cr\u00e9pin[-le-Grand]; S. Cr\u00e9pinien. T. sanctorum martirum Crispini et Crispiniani.  Anima ejus et a. 0. f. d. 29 in 5 Christi nomine; r i. p. Orate p. n. abbatibus et monachis; quorum nomina Altis- simo sunt nota.",
+    "is_approximate": false,
+    "description": "Titulus Header: = Laon"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.2583,
+      4.0317
+    ],
+    "year": null,
+    "date_str": "S.d.- Soissons; S. Cr\u00e9pin[-le-Grand]; S. Cr\u00e9pinien. T. sanctorum martirum Crispini et Crispiniani.  Anima ejus et a. 0. f. d. 29 in 5 Christi nomine; r i. p. Orate p. n. abbatibus et monachis; quorum nomina Altis- simo sunt nota.",
+    "is_approximate": false,
+    "description": "Titulus Header: Reims"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": null,
+    "date_str": "S.d.- Soissons; S. Cr\u00e9pin[-le-Grand]; S. Cr\u00e9pinien. T. sanctorum martirum Crispini et Crispiniani.  Anima ejus et a. 0. f. d. 29 in 5 Christi nomine; r i. p. Orate p. n. abbatibus et monachis; quorum nomina Altis- simo sunt nota.",
+    "is_approximate": false,
+    "description": "Titulus Header: T"
+  }
+]

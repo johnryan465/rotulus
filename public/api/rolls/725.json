@@ -1,0 +1,59 @@
+{
+  "roll": {
+    "id": 725,
+    "roll_num": "72",
+    "date_str": "1016, novembre 1047, juin",
+    "title": "Rouleau d'Oliba; abb\u00e9 de Ripoll et de $ Michel de Cuv\u00e0, % morluaire ( fragmentaire) \u00e9v\u00eaque de Vic (t 30 octobre 1046) . A. arm. ], cal 2 d\u00e9truit dans Vincendie de Original; autrefois conserv\u00e9 \u00e0 R\u00edpoll; avec la cotc 'opisthographes / Longueue Ripoll en 1835 . Parchemin. Scize fcuilles totalement ou particllement  probable, environ 880 cm (E 'apr\u00e8s B B. Vic, incompletc vers 1820) Arxiu episcopal, Ol\u00fainclles 206L-IV, P.21-40, dapr\u00e8s / (eopic @.H. Florez, 479-4402}, dapr\u00e8s A.-h ] Villamenoc Vas Espa\u00f1a sacrada, L.XLIII, Madrid, 1819,P varios docunens literario; purticlle)  6 Exu\u00f8cto dex L. VI, p.302306,app XXIX, dapr\u00e8s 4 (ed. ! demostrar % anirichad tos que publica D. J R.V [Dom Jaimc   R\u00edpoll  Vilamajor] pur 1Lp 2 1 ( Y Monachtsme eluniirn; | Mortet 1?* Rss %",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "57,58",
+    "is_verified": 0,
+    "year": 1016
+  },
+  "tituli": [
+    {
+      "id": 3432,
+      "roll_id": 725,
+      "title": "Implicit Titulus",
+      "location_name": "",
+      "latin_text": "C\u00ed. P. Ponsich, Le Confent et ses comles du IXS au XIII' s dans \u00c9tudes roussillonnai- ses: Revue dhistoire et darch\u00e9ologie; 1 1951, p. 292. CE. J Villanueva, Viage literario; L. VI, p. 189-190. (31 Albareda Cabad \u00c9d. supra, P. 104, n\" 69. Ce pluriel semblerait indiquer que, contrairement \u00e0 la coutume; au moins   deux rotuliferi eurent mission de faire circuler cette encyclique dabbaye en abbaye. Cependant, tous les titres; transcrits en totalit\u00e9 ou en partie par Okinelles ( RL ne font \u00e9tat ane dn ceul ursor",
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 3398,
+      "roll_id": 725,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Coutumes lc(Cu Mill\u00e9naire de Cluny' d\u00edten dc Facta % dans de Cluny, Micon, [90,L L P Ll"
+    },
+    {
+      "id": 3399,
+      "roll_id": 725,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Tiene de largo palmoa"
+    },
+    {
+      "id": 3400,
+      "roll_id": 725,
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Pul Oliva, fundador de Montserrat (971 [?]-1046) , Montserrat; 1931 ; R. &Abadal i de Vinyals; Labad Oliva, bisbe de Vich, i la seva \u00e9poca, Barcelona, 1948 E. Junyent, Diploma- lari i escrits literaris de labat i bisbe Oliba a cura &Anscari M. Mundo; Barcelona, 1992. Andre de Fleury Vie de Gauzlin, abb\u00e9 de Fleury; loc. cit."
+    },
+    {
+      "id": 3401,
+      "roll_id": 725,
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "36 [87], 52 [33], 53 [31], 75 [82] etc.) ; on doit donc penser soit \u00e0 une erreur dans la r\u00e9dac- tion du faire-part, soit \u00e0 un d\u00e9sistement de der- ni\u00e8re heure de lun des rotuliferi. L'enchev\u00eatre- ment des titres exclut de toute mnani\u00e8re Phypoth\u00e8se   de   deux rouleaux   ayant   circul\u00e9 simultan\u00e9ment ."
+    }
+  ]
+}

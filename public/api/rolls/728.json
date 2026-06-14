@@ -1,0 +1,43 @@
+{
+  "roll": {
+    "id": 728,
+    "roll_num": "72",
+    "date_str": "[1047] 7 [5] S.d.- ~ S. Hilaire. Hilario de Carcassona. 7.S\" 8 [6] S.d.- Lagrasse, N-D. (a) Maria virtutibus Crasse Es larga y ben escrita y 8. Sta contiene muchos de Oliba. Concluye con unos quantos hexametros. elogios 9 [7] S.d. - Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es. el titulo de la iglesia. 9. No expresa 10 [12] S.d.- S. Guilhem-le-D\u00e9sert. 10. S\" Salvador Gellonense; ubi adoratur herilis Christi crux et in quo quieseit beati Willelmi, confessoris Christi; etc. 1o corpus 11 [14] S.d.- Villemagne; S. Martin; S. Majan. 11. $\" Martin obispo Ville Magnensis y $\" Mariano (sic) confesson Coneluye versos hexametros bastante regulares. Coil",
+    "title": "12 [15] S.d.-S. Pons-de-Thomi\u00e8res. S\" Poncio 'Tomeriense. Dicen   haber escrito el nombre de Oliba en su 15 12. breviario y piden lo mismo para sus difuntos. 13 [16] S.d - Caunes, $. Pierre. grande , Con bermellon  13. S\" Pedro Caunense. Al fin uno monogramma muy 14 [17] S.d, Montolieu, S. Jean-Baptistes 14.S\" Juan Bautista de Vallsichare. Es larga. 15 [19] S,d,-Sor\u00e8zc, N-D. 15. Sta Maria Soricinense, 16 [18] S.d. 9 N-D-dc-Bernatonc; 16.St Maria Varnassonense. Far A 2 Dea Smlen: /f don VEf Peula",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "60,61",
+    "is_verified": 0,
+    "year": 1047
+  },
+  "tituli": [
+    {
+      "id": 3435,
+      "roll_id": 728,
+      "title": "Implicit Titulus",
+      "location_name": "",
+      "latin_text": "[1047] ROULEAUX DES MORTS 116 S.d.- Vielmur-sur-Agout, N-D. 17 [20] monasterio de monjas. 17.S9 Maria Vermurense, S.d. Varen, N-D., S. Serge. 18 [23] beati Sergii martiris Christi quiescit. 18.St Maria Varignense; ubi corpus 19 [59] S.d.- [Autun,] S. Andoche. 19.5\" Andoquio; monasterio de monjas; come sigue Crinitus primo tytan surgebat evo Martyris Andochii teripes cum limen inivit, Insinuante sacre verbum Gabrihele (a) Marie 10 Ostendens Olibam cosmi superasse ruinam, Pro quo cunctarum sternuntur membra sororum, Signorum bombis, funis calet ara Sabaeis Quod vestris; nostris hoc poscimus; ut faciatis; Quorum qui finxit factor vocitamina novit. 15 20 [60] S.d.- [Autun,] S. Symphorien. 20.$\" Salvador y su madre y S\" Sinforiano, martir. 21 [66] S.d.-Sauxillanges; S. Pierre. 21.$\" Pedro Celsiniense:. 22 [67] S.d - Brioude, S. Julien. 20 22.S\" Julian de vico Brivatense. Muy ' corta. 23 [68] S.d.-Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es. 23. No expresa el titulo. 24 [65] S.d- Charlieu, S. \u00c9tienne, S. Fortunat. 24. $\" Estevan y $\" Fortunato monasterio Cari Loci. Gabriele corrig\u00e9 en Gabrihele B. () Allusion \u00e0 Job, I, 15 ou \u00e0 Jocl, III,8.",
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 3411,
+      "roll_id": 728,
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "dr (fte F lnale"
+    },
+    {
+      "id": 3410,
+      "roll_id": 728,
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "Corerr l Sirginitatis opibus Crasse, espressian presente"
+    }
+  ]
+}
