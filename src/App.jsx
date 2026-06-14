@@ -136,25 +136,29 @@ export default function App() {
 
           setTimeout(() => {
             const container = document.getElementById('map-container');
-            if (!container) return;
+            if (!container) {
+              console.warn("Map container not found in DOM");
+              return;
+            }
 
             if (mapInstanceRef.current) {
               mapInstanceRef.current.remove();
               mapInstanceRef.current = null;
             }
 
-            const defaultCenter = [48.8566, 2.3522]; // Paris
-            const defaultZoom = 4;
+            if (!window.L) {
+              console.error("Leaflet (L) not found on window");
+              return;
+            }
 
-            if (!window.L) return;
-
-            const map = window.L.map('map-container').setView(defaultCenter, defaultZoom);
+            console.log("Initializing Leaflet map...");
+            const map = window.L.map('map-container', {
+              scrollWheelZoom: false
+            }).setView([48.8566, 2.3522], 4);
             mapInstanceRef.current = map;
 
-            window.L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-              attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-              subdomains: 'abcd',
-              maxZoom: 20
+            window.L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+              attribution: '&copy; OpenStreetMap contributors'
             }).addTo(map);
 
             const colors = [
@@ -243,25 +247,29 @@ export default function App() {
 
           setTimeout(() => {
             const container = document.getElementById('map-container');
-            if (!container) return;
+            if (!container) {
+              console.warn("Map container not found in DOM");
+              return;
+            }
 
             if (mapInstanceRef.current) {
               mapInstanceRef.current.remove();
               mapInstanceRef.current = null;
             }
 
-            const defaultCenter = [48.8566, 2.3522]; // Paris
-            const defaultZoom = 4;
+            if (!window.L) {
+              console.error("Leaflet (L) not found on window");
+              return;
+            }
 
-            if (!window.L) return;
-
-            const map = window.L.map('map-container').setView(defaultCenter, defaultZoom);
+            console.log("Initializing Leaflet map...");
+            const map = window.L.map('map-container', {
+              scrollWheelZoom: false
+            }).setView([48.8566, 2.3522], 4);
             mapInstanceRef.current = map;
 
-            window.L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-              attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-              subdomains: 'abcd',
-              maxZoom: 20
+            window.L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+              attribution: '&copy; OpenStreetMap contributors'
             }).addTo(map);
 
             if (data.length > 0) {
@@ -715,7 +723,7 @@ export default function App() {
 
           {/* TRAVEL MAP TAB */}
           {activeTab === 'map' && (
-            <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', height: '100%' }}>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', minHeight: '800px' }}>
               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                 <div>
                   <h1 style={{ fontSize: '32px', marginBottom: '8px' }}>Historical Itineraries</h1>
@@ -737,8 +745,36 @@ export default function App() {
                 </div>
               </div>
 
-              <div className="glass-panel" style={{ flex: 1, padding: '12px' }}>
-                <div id="map-container"></div>
+              {/* Time Filter Slider */}
+              {mapRollId === 'all' && (
+                <div className="glass-panel" style={{ padding: '16px 24px', maxWidth: '600px' }}>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '12px' }}>
+                    <span style={{ fontSize: '14px', fontWeight: 'bold', fontFamily: 'Cinzel' }}>Time Range: {yearFilter[0]} – {yearFilter[1]}</span>
+                    <button 
+                      onClick={() => setYearFilter([availableYearRange[0], availableYearRange[1]])}
+                      className="tab-btn"
+                      style={{ padding: '2px 8px', fontSize: '11px' }}
+                    >
+                      Reset Filter
+                    </button>
+                  </div>
+                  <input 
+                    type="range" 
+                    min={availableYearRange[0]} 
+                    max={availableYearRange[1]} 
+                    value={yearFilter[1]} 
+                    onChange={e => setYearFilter([yearFilter[0], Number(e.target.value)])}
+                    style={{ width: '100%', accentColor: 'var(--primary)', cursor: 'pointer' }}
+                  />
+                  <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '12px', color: 'var(--text-muted)', marginTop: '8px' }}>
+                    <span>{availableYearRange[0]} CE</span>
+                    <span>{availableYearRange[1]} CE</span>
+                  </div>
+                </div>
+              )}
+
+              <div className="glass-panel" style={{ padding: '12px', height: '700px' }}>
+                <div id="map-container" style={{ width: '100%', height: '100%', borderRadius: '4px' }}></div>
               </div>
               
               {mapRollId !== 'all' && travelPath.length > 0 && (
