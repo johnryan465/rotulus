@@ -26,6 +26,7 @@ jobs:
         run: |
           pwd
           ls -lh
+          python3 -c "import sqlite3; conn = sqlite3.connect('rolls.db'); cursor = conn.cursor(); cursor.execute(\"SELECT name FROM sqlite_master WHERE type='table';\"); print('Tables:', cursor.fetchall())"
           npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

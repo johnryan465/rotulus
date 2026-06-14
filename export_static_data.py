@@ -14,6 +14,8 @@ def get_db_connection():
 
 def export_data():
     """Exports SQLite data to public/api/ for static hosting."""
+    print(f"DEBUG: Current directory: {os.getcwd()}")
+    print(f"DEBUG: DB_PATH absolute: {os.path.abspath(DB_PATH)}")
     if not os.path.exists(DB_PATH):
         print(f"❌ Error: {DB_PATH} not found.")
         exit(1)
