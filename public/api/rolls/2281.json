@@ -1,0 +1,25 @@
+{
+  "roll": {
+    "id": 2281,
+    "roll_num": "26",
+    "date_str": "S.d. [seconde moiti\u00e9 du IX' &] Formule de bref mortuaire \u00e0 Fusage de S. Amand_",
+    "title": "",
+    "manuscripts": "A. Original perdu. B. Wolfenb\u00fcttel, Herz.-August.-Bibl. Aug 4\" 9.8, fol. 99v (seconde moiti\u00e9 du IXS s) 6. B. Bischoff, Salzburger Formelb\u00fccher, P. 63.",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "14",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 12563,
+      "roll_id": 2281,
+      "title": "Implicit Titulus",
+      "location_name": "",
+      "latin_text": "15 Le ms. cit\u00e9 de Wolfenb\u00fcttel, contenant des Commentarii notarum tironianarum; & pour origine S. Amand ; le faire-part de d\u00e9c\u00e8s renferme lui-m\u00eame des notes tironiennes Reverentissimis in Christo fratribus in illo monasterio Deo famulantibus devoti   20 fratres vestri de alio monasterio; cujus vocabulum est ita et ita, in Deo patre salu- tem. Scitote igitur quod quidam frater presbyter aud monachus vel fidelis laicus anc flevilem finivit vitam die quo mensis illius; ut pro refrigerio hanime (sic) illius enixe divinam imploratis clementiam; quatenus penam evadat perpetuam et ad requiem den 2+0rnn0 hec nota inter vne ixta consuetudinem sine mora 25",
+      "pdf_page": 14,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": []
+}

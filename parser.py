@@ -152,16 +152,25 @@ def parse_roll_header(lines, expected_next, pdf_max_roll=145):
         has_n_prefix = bool(re.match(r'^[nN]', cleaned))
         if nums and (len(cleaned) < 15 or has_n_prefix):
             # Rule 1 & 2: Allow the roll number if it is within the expected sequence.
-            # If it has an N prefix, we allow a larger window (+20) to recover from OCR misses.
+            # If it has an N prefix, we are VERY LIKELY looking at a real roll header,
+            # so we allow a huge window (+50) to jump over gaps.
             # If it's a pure number, we keep it strict to avoid margin numbers (10, 15, 20).
-            forward_window = 20 if has_n_prefix else 2
-            backward_window = 2 # Allow small overlap for all
+            forward_window = 50 if has_n_prefix else 2
+            backward_window = 5 if has_n_prefix else 2
             
             matched_num = None
             for n in nums:
                 if (expected_next - backward_window <= n <= min(pdf_max_roll, expected_next + forward_window)):
                     matched_num = n
                     break
+            
+            # Special case: If we have an N prefix but it's outside the window, 
+            # we STILL trust it if it's within the PDF's total max roll.
+            if matched_num is None and has_n_prefix:
+                for n in nums:
+                    if n <= pdf_max_roll:
+                        matched_num = n
+                        break
                     
             if matched_num is not None:
                 # Look for the date in the neighborhood of i (from i-3 to i+4)

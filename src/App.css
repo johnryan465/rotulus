@@ -236,12 +236,13 @@ h1, h2, h3, h4 {
   background: #0f172a; /* Dark base for map */
 }
 
-/* Dual Range Slider - Overlaid Handles */
+/* Dual Range Slider - Professional Overlay Implementation */
 .range-container {
   position: relative;
   width: 100%;
-  height: 30px;
-  margin: 10px 0;
+  height: 40px;
+  display: flex;
+  align-items: center;
 }
 
 .range-track {
@@ -251,47 +252,7 @@ h1, h2, h3, h4 {
   background: var(--paper-dark);
   border: 1px solid var(--border);
   border-radius: 3px;
-  top: 50%;
-  transform: translateY(-50%);
   z-index: 1;
-}
-
-.range-input {
-  position: absolute;
-  width: 100%;
-  height: 0; /* Important to avoid blocking */
-  top: 50%;
-  transform: translateY(-50%);
-  pointer-events: none;
-  -webkit-appearance: none;
-  background: none;
-  z-index: 3;
-  margin: 0;
-}
-
-.range-input::-webkit-slider-thumb {
-  pointer-events: auto;
-  -webkit-appearance: none;
-  width: 18px;
-  height: 18px;
-  border-radius: 50%;
-  background: var(--primary);
-  cursor: pointer;
-  border: 2px solid #fff;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
-  position: relative;
-  z-index: 4;
-}
-
-.range-input::-moz-range-thumb {
-  pointer-events: auto;
-  width: 18px;
-  height: 18px;
-  border-radius: 50%;
-  background: var(--primary);
-  cursor: pointer;
-  border: 2px solid #fff;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
 }
 
 .range-highlight {
@@ -300,8 +261,43 @@ h1, h2, h3, h4 {
   background: var(--primary);
   z-index: 2;
   border-radius: 3px;
-  top: 50%;
-  transform: translateY(-50%);
+}
+
+.range-input {
+  position: absolute;
+  width: 100%;
+  background: none;
+  pointer-events: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  z-index: 3;
+  margin: 0;
+  height: 6px;
+}
+
+.range-input::-webkit-slider-thumb {
+  pointer-events: auto;
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--primary);
+  cursor: pointer;
+  border: 2px solid #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  margin-top: 0;
+}
+
+.range-input::-moz-range-thumb {
+  pointer-events: auto;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--primary);
+  cursor: pointer;
+  border: 2px solid #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
 }
 
 /* Utility */
