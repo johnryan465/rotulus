@@ -152,8 +152,14 @@ export default function App() {
             }
 
             console.log("Initializing Leaflet map...");
+            const southWest = [30, -20];
+            const northEast = [72, 45];
+            const bounds = [southWest, northEast];
+
             const map = window.L.map('map-container', {
-              scrollWheelZoom: false
+              scrollWheelZoom: false,
+              maxBounds: bounds,
+              maxBoundsViscosity: 1.0
             }).setView([48.8566, 2.3522], 4);
             mapInstanceRef.current = map;
 
@@ -263,8 +269,14 @@ export default function App() {
             }
 
             console.log("Initializing Leaflet map...");
+            const southWest = [30, -20];
+            const northEast = [72, 45];
+            const bounds = [southWest, northEast];
+
             const map = window.L.map('map-container', {
-              scrollWheelZoom: false
+              scrollWheelZoom: false,
+              maxBounds: bounds,
+              maxBoundsViscosity: 1.0
             }).setView([48.8566, 2.3522], 4);
             mapInstanceRef.current = map;
 
@@ -748,7 +760,7 @@ export default function App() {
               {/* Time Filter Slider */}
               {mapRollId === 'all' && (
                 <div className="glass-panel" style={{ padding: '16px 24px', maxWidth: '600px' }}>
-                  <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '12px' }}>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px' }}>
                     <span style={{ fontSize: '14px', fontWeight: 'bold', fontFamily: 'Cinzel' }}>Time Range: {yearFilter[0]} – {yearFilter[1]}</span>
                     <button 
                       onClick={() => setYearFilter([availableYearRange[0], availableYearRange[1]])}
@@ -758,14 +770,33 @@ export default function App() {
                       Reset Filter
                     </button>
                   </div>
-                  <input 
-                    type="range" 
-                    min={availableYearRange[0]} 
-                    max={availableYearRange[1]} 
-                    value={yearFilter[1]} 
-                    onChange={e => setYearFilter([yearFilter[0], Number(e.target.value)])}
-                    style={{ width: '100%', accentColor: 'var(--primary)', cursor: 'pointer' }}
-                  />
+                  
+                  <div className="range-container">
+                    <div className="range-track"></div>
+                    <input 
+                      type="range" 
+                      min={availableYearRange[0]} 
+                      max={availableYearRange[1]} 
+                      value={yearFilter[0]} 
+                      onChange={e => {
+                        const val = Math.min(Number(e.target.value), yearFilter[1] - 10);
+                        setYearFilter([val, yearFilter[1]]);
+                      }}
+                      className="range-input"
+                    />
+                    <input 
+                      type="range" 
+                      min={availableYearRange[0]} 
+                      max={availableYearRange[1]} 
+                      value={yearFilter[1]} 
+                      onChange={e => {
+                        const val = Math.max(Number(e.target.value), yearFilter[0] + 10);
+                        setYearFilter([yearFilter[0], val]);
+                      }}
+                      className="range-input"
+                    />
+                  </div>
+                  
                   <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '12px', color: 'var(--text-muted)', marginTop: '8px' }}>
                     <span>{availableYearRange[0]} CE</span>
                     <span>{availableYearRange[1]} CE</span>
