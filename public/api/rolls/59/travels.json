@@ -1,0 +1,83 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Vatican City",
+    "coords": [
+      41.9022,
+      12.4539
+    ],
+    "description": "Origin: Ede Bompos\u00e9pat Baudri de Bourgueil pour le rouleau..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "la",
+    "coords": null,
+    "description": "Visited: Montierneuf (sont les rouleaux mortuaires de Renaud Ier du Bellay)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Clermont-Ferrand, France",
+    "coords": [
+      45.7772,
+      3.087
+    ],
+    "description": "Visited: Bourgueil (dOrl\u00e9ans)"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "la",
+    "coords": null,
+    "description": "Visited: Abbas (sont les rouleaux mortuaires de Renaud Ier du Bellay)"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Clermont-Ferrand, France",
+    "coords": [
+      45.7772,
+      3.087
+    ],
+    "description": "Visited: Biturix (dOrl\u00e9ans)"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "la",
+    "coords": null,
+    "description": "Visited: Vital (sont les rouleaux mortuaires de Renaud Ier du Bellay)"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Clermont-Ferrand, France",
+    "coords": [
+      45.7772,
+      3.087
+    ],
+    "description": "Visited: Foulo (dOrl\u00e9ans)"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "description": "Visited: Foues (A son sujet)"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Clermont-Ferrand, France",
+    "coords": [
+      45.7772,
+      3.087
+    ],
+    "description": "Visited: Delisle (dOrl\u00e9ans)"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "East Anglia, England",
+    "coords": [
+      52.5,
+      1.0
+    ],
+    "description": "Origin: L\u0131r\u00ea Pd'Aelfiald, roi d'East Anglia, \u00e0 Boniface lu..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Mainz, Germany",
+    "coords": [
+      49.9929,
+      8.2473
+    ],
+    "description": "Visited: Boniface (archbishop)"
+  }
+]

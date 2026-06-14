@@ -1,0 +1,82 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Dingolfing, Germany",
+    "coords": [
+      48.6293,
+      12.4984
+    ],
+    "description": "Origin: Statuts dune association de pri\u00e8res pour les d\u00e9fun..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Corbie Abbey, France",
+    "coords": [
+      49.9085,
+      2.5089
+    ],
+    "description": "Visited: Athalfridus (ciies Elcaiolungleiieuel Uuu)CUC Curue> Paris)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Nesle-la-Reposte, France",
+    "coords": [
+      48.7619,
+      3.5683
+    ],
+    "description": "Visited: Novioni (Abb\u00e9 de Nesle[-la-Reposte])"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Corbie Abbey, France",
+    "coords": [
+      49.9085,
+      2.5089
+    ],
+    "description": "Visited: Jacob (ciies Elcaiolungleiieuel Uuu)CUC Curue> Paris)"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Nesle-la-Reposte, France",
+    "coords": [
+      48.7619,
+      3.5683
+    ],
+    "description": "Visited: Withlecus (Abb\u00e9 de Nesle[-la-Reposte])"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Corbie Abbey, France",
+    "coords": [
+      49.9085,
+      2.5089
+    ],
+    "description": "Visited: Werminghof (ciies Elcaiolungleiieuel Uuu)CUC Curue> Paris)"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Nesle-la-Reposte, France",
+    "coords": [
+      48.7619,
+      3.5683
+    ],
+    "description": "Visited: Concilia (Abb\u00e9 de Nesle[-la-Reposte])"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Corbie Abbey, France",
+    "coords": [
+      49.9085,
+      2.5089
+    ],
+    "description": "Visited: Wolfperht (ciies Elcaiolungleiieuel Uuu)CUC Curue> Paris)"
+  }
+]
