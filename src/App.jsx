@@ -27,7 +27,7 @@ const getApiUrl = (path) => {
 };
 
 export default function App() {
-  const [activeTab, setActiveTab] = useState('dashboard');
+  const [activeTab, setActiveTab] = useState('map');
   const [yearFilter, setYearFilter] = useState([700, 1500]);
   const [availableYearRange, setAvailableYearRange] = useState([700, 1500]);
   const [rolls, setRolls] = useState([]);
@@ -366,6 +366,42 @@ export default function App() {
                 </div>
               )}
               <div className="glass-panel" style={{ padding: '12px', height: '700px' }}><div id="map-container" style={{ width: '100%', height: '100%', borderRadius: '4px' }}></div></div>
+
+              {mapRollId === 'all' && (
+                <div className="glass-panel" style={{ padding: '24px' }}>
+                  <h3 style={{ marginBottom: '16px', fontFamily: 'Cinzel', fontSize: '18px' }}>Filtered Catalogue</h3>
+                  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '12px' }}>
+                    {Object.entries(allTravelsData)
+                      .filter(([id, r]) => {
+                        if (r.year && (r.year < yearFilter[0] || r.year > yearFilter[1])) return false;
+                        if (r.num_stops < stopsFilter) return false;
+                        return true;
+                      })
+                      .sort((a, b) => Number(a[1].roll_num) - Number(b[1].roll_num))
+                      .map(([id, r]) => (
+                        <div 
+                          key={id} 
+                          className="roll-item active" 
+                          style={{ cursor: 'pointer', padding: '12px' }}
+                          onClick={() => window.gotoRoll(id)}
+                        >
+                          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                            <div>
+                              <div className="roll-num" style={{ fontSize: '14px' }}>N° {r.roll_num}</div>
+                              <div style={{ fontWeight: 'bold', fontSize: '13px' }}>{r.year} AD</div>
+                            </div>
+                            <ChevronRight size={16} color="var(--accent)" />
+                          </div>
+                        </div>
+                      ))}
+                  </div>
+                  {Object.keys(allTravelsData).length === 0 && (
+                    <div style={{ textAlign: 'center', padding: '40px', color: 'var(--text-muted)' }}>
+                      Adjust filters to see matching documents.
+                    </div>
+                  )}
+                </div>
+              )}
             </div>
           )}
         </div>
