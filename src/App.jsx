@@ -48,6 +48,11 @@ export default function App() {
   const [travelPath, setTravelPath] = useState([]);
   const [allTravelsData, setAllTravelsData] = useState({});
 
+  // Verification & Dashboard State
+  const [activeVerificationIndex, setActiveVerificationIndex] = useState(0);
+  const [zoomLevel, setZoomLevel] = useState(1);
+  const [stats, setStats] = useState({ total: 0, verified: 0, unverified: 0, percent: 0 });
+
   // Initialize Map Once
   useEffect(() => {
     const container = document.getElementById('map-container');
