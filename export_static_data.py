@@ -10,7 +10,7 @@ OUTPUT_DIR = "public/api"
 
 # Format: "key": [lat, lon, "Display Name", is_approximate]
 GEOLOCATIONS = {
-    # Existing Precise
+    # Existing Precise & Latin Variants
     "gent": [51.0543, 3.7174, "Ghent, Belgium", False],
     "ghent": [51.0543, 3.7174, "Ghent, Belgium", False],
     "vatican": [41.9022, 12.4539, "Vatican City", False],
@@ -33,27 +33,37 @@ GEOLOCATIONS = {
     "glastonbury": [51.1473, -2.7186, "Glastonbury, England", False],
     "jumièges": [49.4326, 0.8211, "Jumièges Abbey, France", False],
     "jumieges": [49.4326, 0.8211, "Jumièges Abbey, France", False],
+    "gemedico": [49.4326, 0.8211, "Jumièges Abbey, France", False],
     "flavigny": [47.5126, 4.5312, "Flavigny Abbey, France", False],
     "novalesa": [45.1897, 7.0142, "Novalesa Abbey, Italy", False],
+    "novalicio": [45.1897, 7.0142, "Novalesa Abbey, Italy", False],
     "rebais": [48.8471, 3.2323, "Rebais Abbey, France", False],
+    "rasbacis": [48.8471, 3.2323, "Rebais Abbey, France", False],
     "saint-wandrille": [49.5297, 0.7225, "Saint-Wandrille Abbey, France", False],
     "wandrille": [49.5297, 0.7225, "Saint-Wandrille Abbey, France", False],
+    "funtanellas": [49.5297, 0.7225, "Saint-Wandrille Abbey, France", False],
     "corbie": [49.9085, 2.5089, "Corbie Abbey, France", False],
+    "corbeia": [49.9085, 2.5089, "Corbie Abbey, France", False],
     "niederaltaich": [48.7663, 13.0274, "Niederaltaich Abbey, Germany", False],
     "altaich": [48.7663, 13.0274, "Niederaltaich Abbey, Germany", False],
+    "aldaha": [48.7663, 13.0274, "Niederaltaich Abbey, Germany", False],
     "reichenau": [47.6994, 9.0601, "Reichenau Abbey, Germany", False],
     "salzburg": [47.8095, 13.0550, "Salzburg, Austria", False],
     "salzbourg": [47.8095, 13.0550, "Salzburg, Austria", False],
     "saint-denis": [48.9358, 2.3598, "Saint-Denis Abbey, France", False],
     "denis": [48.9358, 2.3598, "Saint-Denis Abbey, France", False],
+    "dionisio": [48.9358, 2.3598, "Saint-Denis Abbey, France", False],
     "saint-germain": [48.8542, 2.3332, "Saint-Germain-des-Prés, France", False],
     "germain": [48.8542, 2.3332, "Saint-Germain-des-Prés, France", False],
     "saint-maurice": [46.2163, 7.0033, "Saint-Maurice Abbey, Switzerland", False],
     "maurice": [46.2163, 7.0033, "Saint-Maurice Abbey, Switzerland", False],
     "agaune": [46.2163, 7.0033, "Saint-Maurice Abbey, Switzerland", False],
+    "maurici": [46.2163, 7.0033, "Saint-Maurice Abbey, Switzerland", False],
     "verdun": [49.1599, 5.3855, "Verdun, France", False],
+    "wirdunis": [49.1599, 5.3855, "Verdun, France", False],
     "besançon": [47.2378, 6.0241, "Besançon, France", False],
     "besancon": [47.2378, 6.0241, "Besançon, France", False],
+    "bisentionis": [47.2378, 6.0241, "Besançon, France", False],
     "moosburg": [48.4682, 11.9360, "Moosburg, Germany", False],
     "mondsee": [47.8566, 13.3516, "Mondsee Abbey, Austria", False],
     "tegernsee": [47.7081, 11.7584, "Tegernsee Abbey, Germany", False],
@@ -62,23 +72,31 @@ GEOLOCATIONS = {
     "weltenburg": [48.8967, 11.8203, "Weltenburg Abbey, Germany", False],
     "saint-cloud": [48.8413, 2.2185, "Saint-Cloud Abbey, France", False],
     "cloud": [48.8413, 2.2185, "Saint-Cloud Abbey, France", False],
+    "clodoaldo": [48.8413, 2.2185, "Saint-Cloud Abbey, France", False],
     "eichstätt": [48.8920, 11.1830, "Eichstätt, Germany", False],
     "eichstatt": [48.8920, 11.1830, "Eichstätt, Germany", False],
+    "achistadi": [48.8920, 11.1830, "Eichstätt, Germany", False],
     "würzburg": [49.7913, 9.9534, "Würzburg, Germany", False],
     "wurzburg": [49.7913, 9.9534, "Würzburg, Germany", False],
+    "wirziaburgo": [49.7913, 9.9534, "Würzburg, Germany", False],
     "noyon": [49.5807, 2.9995, "Noyon, France", False],
+    "novionis": [49.5807, 2.9995, "Noyon, France", False],
     "murbach": [47.9234, 7.1581, "Murbach Abbey, France", False],
     "bayeux": [49.2794, -0.7028, "Bayeux, France", False],
+    "beiocasio": [49.2794, -0.7028, "Bayeux, France", False],
     "tours": [47.3941, 0.6848, "Tours, France", False],
+    "toro-": [47.3941, 0.6848, "Tours, France", False],
     "chur": [46.8508, 9.5320, "Chur, Switzerland", False],
     "coire": [46.8508, 9.5320, "Chur, Switzerland", False],
     "angers": [47.4784, -0.5635, "Angers, France", False],
+    "andecavis": [47.4784, -0.5635, "Angers, France", False],
     "winchester": [51.0632, -1.3080, "Winchester, England", False],
     "saint-riquier": [50.1347, 1.9472, "Saint-Riquier Abbey, France", False],
     "centula": [50.1347, 1.9472, "Saint-Riquier Abbey, France", False],
     "riquier": [50.1347, 1.9472, "Saint-Riquier Abbey, France", False],
     "pfifers": [46.9934, 9.5028, "Pfäfers Abbey, Switzerland", False],
     "pfäfers": [46.9934, 9.5028, "Pfäfers Abbey, Switzerland", False],
+    "fabarias": [46.9934, 9.5028, "Pfäfers Abbey, Switzerland", False],
     "nesle": [48.7619, 3.5683, "Nesle-la-Reposte, France", False],
     "saint-evroult": [48.7903, 0.4627, "Saint-Evroult Abbey, France", False],
     "evroult": [48.7903, 0.4627, "Saint-Evroult Abbey, France", False],
@@ -108,6 +126,7 @@ GEOLOCATIONS = {
     "limoges": [45.8336, 1.2611, "Limoges, France", False],
     "ripoll": [42.2014, 2.1901, "Santa Maria de Ripoll, Spain", False],
     "lobbes": [50.3481, 4.2611, "Lobbes Abbey, Belgium", False],
+    "laubicis": [50.3481, 4.2611, "Lobbes Abbey, Belgium", False],
     "cluny": [46.4350, 4.6583, "Cluny Abbey, France", False],
     "cîteaux": [47.1294, 5.0889, "Cîteaux Abbey, France", False],
     "clairvaux": [48.1469, 4.6500, "Clairvaux Abbey, France", False],
@@ -123,6 +142,7 @@ GEOLOCATIONS = {
     "troyes": [48.2970, 4.0740, "Troyes, France", False],
     "langres": [47.8630, 5.3330, "Langres, France", False],
     "metz": [49.1190, 6.1750, "Metz, France", False],
+    "mettis": [49.1190, 6.1750, "Metz, France", False],
     "toul": [48.6750, 5.8910, "Toul, France", False],
     "liège": [50.6330, 5.5670, "Liège, Belgium", False],
     "utrecht": [52.0907, 5.1214, "Utrecht, Netherlands", False],
@@ -147,6 +167,14 @@ GEOLOCATIONS = {
     "naples": [40.8518, 14.2681, "Naples, Italy", False],
     "messine": [38.1939, 15.5552, "Messina, Italy", False],
     "palerme": [38.1157, 13.3615, "Palermo, Italy", False],
+    "soissons": [49.3813, 3.3262, "Soissons, France", False],
+    "suaseonis": [49.3813, 3.3262, "Soissons, France", False],
+    "tongeren": [50.7833, 5.4667, "Tongeren, Belgium", False],
+    "tungris": [50.7833, 5.4667, "Tongeren, Belgium", False],
+    "autun": [46.9500, 4.3000, "Autun, France", False],
+    "augustoduno": [46.9500, 4.3000, "Autun, France", False],
+    "buxbrunn": [49.4444, 10.7419, "Buxbrunn, Germany", False],
+    "busbrunno": [49.4444, 10.7419, "Buxbrunn, Germany", False],
 
     # Regional / Approximate
     "anglia": [52.5000, 1.0000, "East Anglia, England", True],
@@ -205,6 +233,7 @@ def get_roll_travels(conn, roll_id):
     roll = dict(row); roll_year = extract_year(roll["date_str"])
     
     origin_geo = None; origin_name = "Origin"
+    # Prioritize locations in roll metadata
     for word in re.findall(r'\b[A-Za-zÀ-ÿ\-]{3,}\b', roll["title"] + " " + roll["manuscripts"]):
         geo = geocode_location(word)
         if geo: origin_geo = geo; origin_name = geo[2]; break
@@ -240,6 +269,26 @@ def get_roll_travels(conn, roll_id):
                 ey = extract_year(ent["normalized_dates"])
                 if ey: tit_year = ey; tit_date_str = ent["normalized_dates"]; break
         
+        # New: Also look for locations directly in the Latin text of the titulus
+        words_in_text = re.findall(r'\b[A-Z][a-zA-ZÀ-ÿ\-]{3,}\b', tit["latin_text"])
+        for word in words_in_text:
+            geo = geocode_location(word)
+            if geo:
+                loc_name = geo[2]
+                coords = geo[:2]
+                approx = geo[3]
+                is_dup = False
+                if travels:
+                    last = travels[-1]
+                    is_dup = (last["coords"] == coords) if coords and last["coords"] else (last["name"].lower() == loc_name.lower())
+                if not is_dup:
+                    travels.append({
+                        "step": step, "type": "stop", "name": loc_name, "coords": coords,
+                        "year": tit_year, "date_str": tit_date_str, "is_approximate": approx,
+                        "description": f"Found in text: {word}"
+                    })
+                    step += 1
+
         entity_locations = [ent for ent in entities if ent["location_name"]]
         if entity_locations:
             for ent in entity_locations:
@@ -258,30 +307,7 @@ def get_roll_travels(conn, roll_id):
                         "description": f"Visited: {ent['normalized_name']} ({ent['normalized_role']})"
                     })
                     step += 1
-        else:
-            tit_geo = None; loc_name = ""
-            for word in re.findall(r'\b[A-Za-zÀ-ÿ\-]+\b', tit["title"]):
-                geo = geocode_location(word)
-                if geo: tit_geo = geo; loc_name = geo[2]; break
-            if not tit_geo:
-                words = re.findall(r'\b[A-Z][a-zA-ZÀ-ÿ\-]+\b', tit["title"])
-                exclude = {"T", "S", "Sancti", "Sancte", "Sanctorum", "Sanctique", "Sanctus", "Sanctis", "Anima", "Amen", "Orate", "Oravimus", "Abbas", "Abbatis", "Titulus", "Implicit", "Deus", "Domini", "Domino", "Dominus", "Christo", "Christi", "Maria", "Marie", "Petri", "Martyris", "Apostolorum", "Pauli", "Johannis", "Trinitatis", "Ecclesie", "Monasterii", "Cenobii", "Cujus", "Vitalis", "Vitali", "Hospitalitatis", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XV", "XVI", "XVII", "XVIII", "XIX", "XX"}
-                filtered = [w for w in words if w.lower() not in {e.lower() for e in exclude}]
-                if filtered: loc_name = filtered[0]
-            if tit_geo or loc_name:
-                coords = tit_geo[:2] if tit_geo else None
-                approx = tit_geo[3] if tit_geo else True
-                is_dup = False
-                if travels:
-                    last = travels[-1]
-                    is_dup = (last["coords"] == coords) if coords and last["coords"] else (last["name"].lower() == loc_name.lower())
-                if not is_dup:
-                    travels.append({
-                        "step": step, "type": "stop", "name": loc_name, "coords": coords,
-                        "year": tit_year, "date_str": tit_date_str, "is_approximate": approx,
-                        "description": f"Visited: {tit['title']}"
-                    })
-                    step += 1
+                    
     return travels
 
 def export_data():

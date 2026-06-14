@@ -1,0 +1,418 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Verdun, France",
+    "coords": [
+      49.1599,
+      5.3855
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Origin: 20 Rouleau mortuaire (fragmentaire) dun abb\u00e9 nomm\u00e9..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "France (General)",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": true,
+    "description": "Found in text: France"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Found in text: Tours"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Sainte- (ce au sujet)"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Found in text: Noyon"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Noyon (sujet)"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Tourna (ce au sujet)"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Jumi\u00e8ges Abbey, France",
+    "coords": [
+      49.4326,
+      0.8211
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Found in text: Jumi\u00e8ges"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Rouen, France",
+    "coords": [
+      49.4431,
+      1.0992
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Found in text: Rouen"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "Jumi\u00e8ges Abbey, France",
+    "coords": [
+      49.4326,
+      0.8211
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Found in text: Jumi\u00e8ges"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "F\u00e9camp Abbey, France",
+    "coords": [
+      49.7589,
+      0.38
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Found in text: F\u00e9camp"
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Mandasti (sujet)"
+  },
+  {
+    "step": 15,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Omnipotente (ce au sujet)"
+  },
+  {
+    "step": 16,
+    "type": "stop",
+    "name": "Gaul / France",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": true,
+    "description": "Found in text: Gallia"
+  },
+  {
+    "step": 17,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Localit (sujet)"
+  },
+  {
+    "step": 18,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Villemagn (ce au sujet)"
+  },
+  {
+    "step": 19,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Amand (sujet)"
+  },
+  {
+    "step": 20,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Bernard (ce au sujet)"
+  },
+  {
+    "step": 21,
+    "type": "stop",
+    "name": "Vatican City",
+    "coords": [
+      41.9022,
+      12.4539
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Found in text: Vaticano"
+  },
+  {
+    "step": 22,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Nomina (sujet)"
+  },
+  {
+    "step": 23,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Bernard (ce au sujet)"
+  },
+  {
+    "step": 24,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Found in text: Itier"
+  },
+  {
+    "step": 25,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Found in text: Metz"
+  },
+  {
+    "step": 26,
+    "type": "stop",
+    "name": "France (General)",
+    "coords": [
+      46.2276,
+      2.2137
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": true,
+    "description": "Found in text: France"
+  },
+  {
+    "step": 27,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Found in text: Paris"
+  },
+  {
+    "step": 28,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.119,
+      6.175
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Found in text: Metz"
+  },
+  {
+    "step": 29,
+    "type": "stop",
+    "name": "Metten Abbey, Germany",
+    "coords": [
+      48.8576,
+      12.9133
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Found in text: Mettensis"
+  },
+  {
+    "step": 30,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3941,
+      0.6848
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Franc (sujet)"
+  },
+  {
+    "step": 31,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1050,
+    "date_str": "S.d. [fin XI s.-d\u00e9but XII s.]",
+    "is_approximate": false,
+    "description": "Visited: Pari (ce au sujet)"
+  }
+]

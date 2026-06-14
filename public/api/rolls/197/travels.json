@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Saint-Denis Abbey, France",
+    "coords": [
+      48.9358,
+      2.3598
+    ],
+    "year": 1000,
+    "date_str": "[1000] sciatis Communis tamen oratio eorum oblivisci non querit, que nos sibi omnes in Christo alterutrum vivos et mortuos jugiter habeat commendatos. Valete.",
+    "is_approximate": false,
+    "description": "Origin: 2 S.d.-S. Denis. Contio Sancti En (sic) Dionysii (..."
+  }
+]

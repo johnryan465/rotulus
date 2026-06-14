@@ -1,0 +1,28 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1050,
+    "date_str": "S.d. [XI s.]",
+    "is_approximate": false,
+    "description": "Origin: Titres appos\u00e9s par les moines de Fleury sur des ro..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Fleury Abbey, France",
+    "coords": [
+      47.8093,
+      2.3053
+    ],
+    "year": 1050,
+    "date_str": "S.d. [XI s.]",
+    "is_approximate": false,
+    "description": "Found in text: Fleury"
+  }
+]

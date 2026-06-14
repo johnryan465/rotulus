@@ -1,0 +1,41 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Dingolfing, Germany",
+    "coords": [
+      48.6293,
+      12.4984
+    ],
+    "year": 972,
+    "date_str": "S.d. [vers 972]",
+    "is_approximate": false,
+    "description": "Origin: Autre   formule de bref mortuaire   ins\u00e9r\u00e9e   dans..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Chur, Switzerland",
+    "coords": [
+      46.8508,
+      9.532
+    ],
+    "year": 972,
+    "date_str": "S.d. [vers 972]",
+    "is_approximate": false,
+    "description": "Found in text: Christchurch"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Vatican City",
+    "coords": [
+      41.9022,
+      12.4539
+    ],
+    "year": 972,
+    "date_str": "S.d. [vers 972]",
+    "is_approximate": false,
+    "description": "Found in text: Vaticano"
+  }
+]
