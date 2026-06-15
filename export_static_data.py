@@ -211,15 +211,15 @@ def export_data():
         cursor.execute("SELECT * FROM footnotes WHERE roll_id = ? ORDER BY pdf_page, pdf_half, CAST(footnote_num AS INTEGER)", (db_id,))
         detail = {"roll": roll, "tituli": tituli, "footnotes": [dict(row) for row in cursor.fetchall()]}
         
-        # KEY CHANGE: Filename is now roll_num
-        with open(os.path.join(roll_dir, f"{r_num}.json"), "w") as f: json.dump(detail, f, indent=2)
+        # KEY CHANGE: Filename is back to db_id for uniqueness across sources
+        with open(os.path.join(roll_dir, f"{db_id}.json"), "w") as f: json.dump(detail, f, indent=2)
 
         travels = get_roll_travels(conn, db_id)
         num_stops = len([t for t in travels if t['type'] == 'stop'])
         year = extract_year(roll["date_str"])
         
-        # KEY CHANGE: Key is now roll_num
-        all_travels[r_num] = {"id": r_num, "roll_num": r_num, "title": roll["title"], "date_str": roll["date_str"], "year": year, "travels": travels, "num_stops": num_stops, "manuscripts": roll["manuscripts"]}
+        # KEY CHANGE: Key is back to db_id
+        all_travels[db_id] = {"id": db_id, "roll_num": r_num, "title": roll["title"], "date_str": roll["date_str"], "year": year, "travels": travels, "num_stops": num_stops, "manuscripts": roll["manuscripts"]}
         
         roll_dict = dict(roll); roll_dict["num_stops"] = num_stops; roll_dict["year"] = year
         rolls_with_stops.append(roll_dict)

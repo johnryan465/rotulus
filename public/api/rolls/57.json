@@ -1,39 +1,39 @@
 {
   "roll": {
-    "id": 32,
-    "roll_num": "57",
+    "id": 57,
+    "roll_num": "97",
     "date_str": "S.d.",
-    "title": "S.d. [X' s] Titre compos\u00e9 \u00e0 Fleury:",
-    "manuscripts": "A. Original perdu . B. Paris, B. N. E., lat. 8674, fol. Il2v (X' s.) . 0. L. Delisle, Rouleaux des morts du IX' au XV 8., P. 21, n\" X (3), dapr\u00e8s , B. Ce titre;, constitu\u00e9 de 98 vers, \u00e9crit \u00e0 Fleury; un 20 furent abb\u00e9s de cette \u00e9glise:. Cependant comue iln2\u00dfguienindiquengue Rainardus pas dans les et listes Ramnulfus on ne peut d\u00e9terminer avec exactitude \u00e0 quel moment ils v\u00e9curent. 'abbatiales de ] Fleury, 20 juin Fleury Tristia corda solent mestum quia promere carmen; 10 Spargere nec radios nube tegente suos Furva, sydereis quanquam clarescat in oris Phebus; quadrigis qui micat ignivomis; Nec crescat condigna dolor sub corde latendo; Cudimus abstracti () carmina nos elegi; 15 Quos sors exilii tenet, cheu; mesta vetusti; Que veram requiem denegat adque  diem Non inlustratum; semper sed lumine plenum; Cernere, quem superus occupat ecce chorus 20 Angelorum; quamvis hac perpete luce fruatur; Quam quicumque videt, ambit habere semel, Est quia summa quies; simul est et gloria perpes; Nullus cecatur; nemoque quo moritur, Noscere (uam (nc6o]",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "36,37,38",
+    "title": "S.d. [fin XI &.-d\u00e9but XIIS &.] Rouleau mortuaire ( fragmentaire) anonyme. a.L. Delisle, Vital de Savigny, P. 26, n? 3, dapr\u00e8s (\u00e9d. partielle) . INDIQU\u00c9 G. Nicolaj, Cultura e 'prassi di notai preirneriani, Milano; 1991, P. 104. Les divers titres furent appos\u00e9s par des \u00e9tablissements religieux du P\u00e9rigord (Tourtoirac; S. Front 10 de P\u00e9rigueux), du Berry (S. Ursin de Bourges), dAnjou (Bourgueil), du Poitou (Charroux) et du Limousin (Lesterps) . Trois dentre eux font part du nom de leurs d\u00e9funts Tourtoirac; de ses abb\u00e9s Inguilinus, Causfredus et Stephanus Bourgueil, de labb\u00e9 Raimundus (1060-1079) Charroux; de labb\u00e9 Fulcradus (1077-1088) 15 Autant qu'on peut en juger dapr\u00e8s ce fragment; le pr\u00e9sent rouleau mortuaire circula donc apr\u00e8s 1088. Il n'est gu\u00e8re possible de d\u00e9terminer son itin\u00e9raire.",
+    "manuscripts": "A. Milano; Biblioteca Ambrosiana; C 51 sup. Sententiae diversorum Patrum de primatu Romanae Ecclesiae w, XI' &.), fol. II (reli\u00e9 haut en bas)  Parchemin (tr\u00e8s \u00e9pais ; c. c. [= verso] blanc ; c. P. 5 [= recto] jaune). Un fragment  opisthographe. Longueur; 22,5 cm largeur (rogn\u00e9e), 13 cm. Mauvais \u00e9tat de conservation",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "50,51",
     "is_verified": 0
   },
   "tituli": [],
   "footnotes": [
     {
-      "id": 35627,
-      "roll_id": 32,
-      "pdf_page": 36,
+      "id": 35816,
+      "roll_id": 57,
+      "pdf_page": 50,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "rtcrences QuC _ 74or"
+    },
+    {
+      "id": 35817,
+      "roll_id": 57,
+      "pdf_page": 50,
       "pdf_half": "right",
       "footnote_num": "2",
-      "text": "B ; corrigez abstracti"
+      "text": "explicitement, m'a \u00e9t\u00e9 aimablement com- muniqu\u00e9e par Mme Mirella Ferrari. (2) Cf. Gallia christiana, t. XIV; col. 657. Cf. Gallia christiana, t. II, col. 1280 ; son nom appara\u00eet notamment en 1079 dans la date dun acte de Philippe IFr (\u00e9d. M. Prou, Recueil des actes de Philippe I' , Paris, 1908, P. 221,"
     },
     {
-      "id": 35628,
-      "roll_id": 32,
-      "pdf_page": 36,
+      "id": 35818,
+      "roll_id": 57,
+      "pdf_page": 50,
       "pdf_half": "right",
       "footnote_num": "3",
-      "text": "30"
-    },
-    {
-      "id": 35626,
-      "roll_id": 32,
-      "pdf_page": 36,
-      "pdf_half": "right",
-      "footnote_num": "44794479",
-      "text": "Piciu Hluldiiiiic 83C19, Perlege divinos corde tenace libros; In quis perpetuae quanquam sint dogmata vitac, Et mentem supera quamvis ad astra ve[h]ant, Quam sit amoena pie non pandunt gloria vite, A qua culpati pellimur heu miseri. Pervigil et quoniam non mansit vivere cura"
+      "text": "P. CXCIX, n.)  (4) Inguilinus et Gausfredus n 'apparaissent pas dans la liste incompl\u00e8te des abb\u00e9s de Tour- toirac   fournie pour es XI' et XII\" $ par Ic Gallia christiana (t. II, col. 1496) . (5) Peut-\u00eatre premier abb\u00e9 de Tourtoirac, cit\u00e9 en 1020 par le Gallia christiana (loc. cit:)."
     }
   ]
 }

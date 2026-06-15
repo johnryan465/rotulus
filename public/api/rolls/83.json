@@ -1,55 +1,128 @@
 {
   "roll": {
-    "id": 46,
-    "roll_num": "83",
+    "id": 83,
+    "roll_num": "140",
     "date_str": "S.d.",
-    "title": "5 S.d. [1096, apr\u00e8s le 29 juillet] Titre compos\u00e9 par Baudri de Bourgueil pour le rouleau mortuaire de Jo\u00ebl [d Antins] , abb\u00e9 de la Couture du Mans, et de Ho\u00ebl, \u00e9v\u00eaque du Mans (t 29 juillet 1096) A. Original perdu. B. Vaticano; Reg lat. 1351, fol. 27 (XIIS s.) . 10 a. A. Duchesne, Historiae Francorum scriptores; Paris; t. IV, 1641, P. 252, * ex veteri codice ms. Alexandri Petavii 0 6. Annales ordinis sancti Benedicti, L. V, p.377 (\u00e9d. partielle) . c.PL.,t. CLXVI, col. 1183. d. P. Abrahams, Les \u0153uvres po\u00e9tiques de Baudri de Bourgueil 1046-1130) _ \u00c9dition critique publi\u00e9e dapr\u00e8s le ms. du Vatican  , Paris, 1926, p. 60,n LIII, dapr\u00e8s B.-eK. Hilbert, Baldricus Burgulianus.  Carmina, Heidelberg, 1979, p. 47, n 18, dapr\u00e8s B. - f J-Y 15 Tilliette, Baudri de Bourgueil. Po\u00e8mes, Paris, t. I, 1998, p. 41, n' 18. TRADUCTION J-Y. Tilliette, loc. cit. INDIQU\u00c9 J Raine, William Ebchester and John Burnby P. VIL. ~L. Delisle, Rouleaux des morts du IX au XV* s, P. 144, n\" XXVI L. Delisle; Notes   sur les po\u00e9sies de Baudri, abb\u00e9 de Bourgueil %, dans Romania, t. 1, 1872, p. 31,n? LIIL. ~J-H. Foulon, La r\u00e9forme de V\u00c9glise dans   20 la France de Vouest, t. I, p. 239. Jo\u00ebl d'Antins, abb\u00e9 de la Couture, d\u00e9dia ses Miracula s. Nicolai \u00e0 Ho\u00ebl, \u00e9v\u00eaque du Mans ; il serait mort le 2juin 1096 (1)- pauper clericus; sed nobilis et bene morigeratus dabord doyen Ho\u00ebl (2) , dorigine bretonne; 1001 /1009 maic nar euite dePonnosition du comte &Aniou, 25",
+    "title": ", premier = semestre] S. d. [1154, apr\u00e8s le 27 avril Aubin 10 abb\u00e9_ de S Rohert [de La Tour-Landry] , Rov]",
     "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "39,40",
+    "pdf_source": "Dufour T1 (4)",
+    "pdf_pages": "65,66,67,68,69",
     "is_verified": 0
   },
-  "tituli": [],
+  "tituli": [
+    {
+      "id": 46979,
+      "roll_id": 83,
+      "title": "662 [1155] !Ve cui mundus placet, ad nihilum redeundus Ve cui plus nox atque cathena Ve cui plus pen",
+      "location_name": "!Ve cui mundus placet",
+      "latin_text": "Pisus (b) gaudete; sevra p- > m-<. >-ti Plaudant anguillae, letentur et hostrea mille. Nam cessit vere nec scivit morte [carere] 15 Milia qui mille de vestris perdidit. Responsio. Unus si monachus moritur; quicumque Non ideo par est nobis ? Nam mille supersunt; Artifices gulae; qui retia tendere norunt. 20 Ergo; crede mihi, duo vel tres cum moriuntur; Unus post alium moriendo veniret ad i-< Versus Renaudi, cum vertuntur (c) Non causa abbatis hos me cogit versus faciendis Sed rotuligerolae () qui rotulum vult 25 replendi. Nam fessus diuturno est hic Et cupit multum itinere; praeterea laudem a monachis habere. Il faut peut-\u00eatre supprimer ce mot sont ray\u00e9es de deux traits (a,p. 367 , n. 1) . (b) de plume. Il est [En B], les pi\u00e8ces [suivantes] original et que; d\u00e8s le XII s,on ait possible qu'elles aient \u00e9t\u00e9 cancell\u00e9es sur le rouleau rencontrer sur un rouleau fun\u00e9aae essay\u00e9 de supprimer ces vers plaisants sans qu 'on est tout \u00e9tonn\u00e9 de doute  que les  (a,p. 367 , 1l. 4) . ((c) P. 368, (d) mots de la pi\u00e8ce doivent Lexpression cum vertuntur signifie 1. 1) . Mot \u00eatre douteux  dans mis dans un ordre diff\u00e9rent pour former des vers les (a, copies (a,P. 368, 7. 2) .",
+      "pdf_page": 67,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46980,
+      "roll_id": 83,
+      "title": "T. (d) SANCTI PETRI JUNCELLIS MONASTERII () . Anima domni Rotberti et abbatis et a. 0. f.d. r i. P. ",
+      "location_name": "(d) SANCTI PETRI JUNCELLIS MONASTERII ()",
+      "latin_text": "",
+      "pdf_page": 67,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46981,
+      "roll_id": 83,
+      "title": "T. Sancte Marie Columbis. Anima domni Roberti abbatis et a. 0. f. d. 1. i. p (c) Amen. Oramus p. [ve",
+      "location_name": "Sancte Marie Columbis",
+      "latin_text": "15 [B] 21 S.d.- Josaphat . T. Sanctae Mariae JOSAPHAT. Anima domni Roberti abbatis et a. 0 f. d. r.i. P Oravimus p. v, orate p. n. 22 S.d.- [Chartres,] S. Jean[-en-Vall\u00e9e] .",
+      "pdf_page": 69,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46982,
+      "roll_id": 83,
+      "title": "T. Sancti Johlannis Carnotensis]  Anima domni Roberti abbatis et a. 0. f. d. r.i. 20 p. Oravimus p. ",
+      "location_name": "Sancti Johlannis Carnotensis]  Anima domni Roberti abbatis et a",
+      "latin_text": "23 S.d. Chartres; S. P\u00e8re[-en-Vall\u00e9e] . T.Sancti PETRI CARNOTENSIS. Anima domni Roberti abbatis et a. 0 \u00ca.d. r i.p. Oravimus p. Y.s orate p. n. Ce mot est rubrique, A. (b)   voestris du titre est corrig\u00e9 en vestris par exponctuation du 0 A. (c) La fin presque enti\u00e8rement rogn\u00e9e, A; le formulaire habituel permet pourtant de la compl\u00e9ter. Sur ce roi, cf_supra, p 162,n. 1. Sur ce roi; cf. supra; 188, Abb\u00e9 de S. Denis; cit\u00e9 par le Gallia chris- n. 2 Peut-\u00eatre Louis le Pieux \u20ac tiana (. VII, col. 366-368) de 1099 \u00e0 1122 \u00e0 Sur ce roi, cf. ou Louis VL son sujet, cf. notamment R. Grosse; Labb\u00e9 Sur supra; p. 188, n. 3. cet abb\u00e9 de $. Denis; Adam, mort en pr\u00e9d\u00e9cesseur de Suger \", dans R. Grosse 842, cf: notamment octobre Gallia dir , christiana, Suger en question.  Regards   crois\u00e9s SuT col 351-356. t VII, Saint-Denis;  Sur ce M\u00fcnchen; 2004, P. 31-43. personnage, cf. (8) supra, Abb\u00e9 de S. Denis, mort le 13 janvier 1151. p 8, n. 18.",
+      "pdf_page": 69,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
   "footnotes": [
     {
-      "id": 35775,
-      "roll_id": 46,
-      "pdf_page": 39,
+      "id": 36145,
+      "roll_id": 83,
+      "pdf_page": 65,
       "pdf_half": "right",
       "footnote_num": "1",
-      "text": "Mans; est elu eveque UC Celle CilC U1 v"
+      "text": "iloiuucuie Utaghleiluuic ) U d Angers (t 27 avril 1154 )"
     },
     {
-      "id": 35776,
-      "roll_id": 46,
-      "pdf_page": 39,
+      "id": 36146,
+      "roll_id": 83,
+      "pdf_page": 65,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Ps., XVIII, 5 Cf. Ps., LXVI, 7 : ( terra dedit fructum suum >"
+    },
+    {
+      "id": 36147,
+      "roll_id": 83,
+      "pdf_page": 65,
       "pdf_half": "right",
       "footnote_num": "3",
-      "text": "sit ei celestis remplac\u00e9 , par vivat mens ejus, ajo"
+      "text": "in elegi eum Reg II, 28 :  Cf. [ sacerdotem 0 CXVIIL= 46. Ps ,"
     },
     {
-      "id": 35777,
-      "roll_id": 46,
-      "pdf_page": 39,
+      "id": 36148,
+      "roll_id": 83,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "son sujet, cf. Gallia christiana, - col. 615-616 ; t.XIV Angers 1 DHGE, t. IIL, 88 (F. Uzureau) C. col. Port, Dictionnaire histori- que, g\u00e9ographique et biographique de Maine-"
+    },
+    {
+      "id": 36149,
+      "roll_id": 83,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "(2) Angers; t.I, P. 84. \u00c9d. Bertrand de Broussillon; Cartulaire de labbaye  de Saint-Aubin & Angers, passim ."
+    },
+    {
+      "id": 36152,
+      "roll_id": 83,
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Ph\u0131pp` mort Je Lv Maurienne; - la\u00efde ' de"
+    },
+    {
+      "id": 36153,
+      "roll_id": 83,
+      "pdf_page": 68,
       "pdf_half": "right",
       "footnote_num": "4",
-      "text": "Cf. Annales   ordinis   sancti Benedicti, t. V, p. 377. (2) A son sujet, cf. < Ho\u00ebl, \u00e9v\u00eaque du Mans % DHGE , t. XXIV, coL 738-739 dans"
+      "text": "1154,est"
     },
     {
-      "id": 35778,
-      "roll_id": 46,
-      "pdf_page": 39,
+      "id": 36150,
+      "roll_id": 83,
+      "pdf_page": 68,
       "pdf_half": "right",
-      "footnote_num": "6",
-      "text": "en interligne B."
+      "footnote_num": "719",
+      "text": "TOLac rrance. IlOl [ 1"
     },
     {
-      "id": 35779,
-      "roll_id": 46,
-      "pdf_page": 39,
+      "id": 36151,
+      "roll_id": 83,
+      "pdf_page": 68,
       "pdf_half": "right",
-      "footnote_num": "7",
-      "text": "(R. Aubert) . (3)   Orderic Vital, Historia ecclesiastica, ed. M. Chibnall, t. II, P. 300."
+      "footnote_num": "1137",
+      "text": ". ((6) Ad\u00e9la\u00efde de Maurienne, morte en"
     }
   ]
 }

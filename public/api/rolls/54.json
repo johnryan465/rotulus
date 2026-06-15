@@ -1,111 +1,39 @@
 {
   "roll": {
-    "id": 31,
-    "roll_num": "54",
+    "id": 54,
+    "roll_num": "94",
     "date_str": "S.d.",
-    "title": "S.d. [fin X? s]",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "34,35,36",
+    "title": "S.d. [XIF ,.] Rouleau mortuaire ( fragmentaire ) anonyme. Comme le ms. Paris, B. N. E. Jat. 5605 provient de la biblioth\u00e8que du chapitre de Ch\u00e2lons-en- Champagne ( on peut penser que ce rouleau mortuaire circula \u00e0 [occasion de la mort dun \u00e9v\u00eaque de cette cit\u00e9- Le fragment, fort endommag\u00e9, contient trois titres, un en prose sur le \u20ac. \u20ac., deux en vers; appos\u00e9s 10 c\u00f4te \u00e0 c\u00f4te sur le \u20ac. p. (seul [un deux peut \u00eatre publi\u00e9, et seulement en partie, en raison du tr\u00e8s mauvais \u00e9tat de conservation du document) .",
+    "manuscripts": "A. Paris, B. N. F., lat. 5605, fol. 1. Parchemin (c. c. [= verso], gris\u00e2tre c. P. [= recto], jaun\u00e2tre) . Un fragment opisthographe. Longueur, 16 cm ; Jargeur (incompl\u00e8te), 20,5 cm. 5 INDIQU\u00c9 L. Delisle; Rouleaux des morts du IX' au XVF s., P. 147, n? XXVIL.",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "47",
     "is_verified": 0
   },
   "tituli": [],
   "footnotes": [
     {
-      "id": 35614,
-      "roll_id": 31,
-      "pdf_page": 34,
+      "id": 35811,
+      "roll_id": 54,
+      "pdf_page": 47,
       "pdf_half": "right",
       "footnote_num": "1",
-      "text": "Cuncla quC Vuul"
+      "text": "UMMLPULCIS 011A23Ce 0 Quas revocat, superis sedibus ipse locat, Corporeis que forte graves per tempora menbris Sunt virtute leves ac meritis celeres, Quas Domini pietas perlustrat lumine claro Post obitum sanctis cum reliquis nimium Interitus quorum non est deflendus morbe."
     },
     {
-      "id": 35615,
-      "roll_id": 31,
-      "pdf_page": 34,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "partie sup\u00e9ricure du {6L Iv cat occuz p\u00e9e par des textes sans rapport aec Ieu roulcuux des morts : isagt dantienncv pout |ea [Ftcs de Jean [\u00c9vangeliste Gl dcsEminl; Innocrnt: (\u00e9criture du XI *) Sur le ms Panis, B, NE,"
-    },
-    {
-      "id": 35617,
-      "roll_id": 31,
-      "pdf_page": 34,
-      "pdf_half": "right",
-      "footnote_num": "4",
-      "text": "Znl( :p74 @ W Cbl \u20ac;: liomn AAsrMnf u} Jalo (fu Flayl Ma solalan cO Erclrs, VIL 2;+ d\u0131ra nrtin [achnr catlala Hativilagi"
-    },
-    {
-      "id": 35616,
-      "roll_id": 31,
-      "pdf_page": 34,
-      "pdf_half": "right",
-      "footnote_num": "90",
-      "text": "SoiCPrhuurns a"
-    },
-    {
-      "id": 35618,
-      "roll_id": 31,
-      "pdf_page": 35,
-      "pdf_half": "left",
-      "footnote_num": "1",
-      "text": "En in que celle du texte, quid , maneal"
-    },
-    {
-      "id": 35619,
-      "roll_id": 31,
-      "pdf_page": 35,
-      "pdf_half": "left",
-      "footnote_num": "2",
-      "text": ", XLI, 1."
-    },
-    {
-      "id": 35620,
-      "roll_id": 31,
-      "pdf_page": 35,
-      "pdf_half": "left",
-      "footnote_num": "3",
-      "text": "terligne, au-dessus des = ruooccit mots eadem vite &unc autte ecriture"
-    },
-    {
-      "id": 35621,
-      "roll_id": 31,
-      "pdf_page": 35,
-      "pdf_half": "left",
-      "footnote_num": "4",
-      "text": "Ps. XCL 15 6 Adhuc multiplicantur in scnecla ubcri"
-    },
-    {
-      "id": 35622,
-      "roll_id": 31,
-      "pdf_page": 35,
+      "id": 35812,
+      "roll_id": 54,
+      "pdf_page": 47,
       "pdf_half": "right",
       "footnote_num": "1",
-      "text": "ae"
+      "text": "Cf: L. Delisle, loc. cit."
     },
     {
-      "id": 35623,
-      "roll_id": 31,
-      "pdf_page": 35,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "S"
-    },
-    {
-      "id": 35624,
-      "roll_id": 31,
-      "pdf_page": 35,
+      "id": 35813,
+      "roll_id": 54,
+      "pdf_page": 47,
       "pdf_half": "right",
       "footnote_num": "3",
-      "text": "d\u0131ns L\u0131 srrnnude manntir du % \u20ac 8 0f L Holpten + 5, Lot, Rerulell (Laf (las (u Lathoifw rE de Lotis V 6eo3 F9 CE Clsla4u: (hluwin  hasgtagfuphmu"
-    },
-    {
-      "id": 35625,
-      "roll_id": 31,
-      "pdf_page": 35,
-      "pdf_half": "right",
-      "footnote_num": "4",
-      "text": "Busellae Eue cr Viliee & >  Bonlwn L/n 8e\"uf Ewe Nk;"
+      "text": "25"
     }
   ]
 }

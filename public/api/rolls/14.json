@@ -1,14 +1,55 @@
 {
   "roll": {
-    "id": 8,
-    "roll_num": "14",
+    "id": 14,
+    "roll_num": "29",
     "date_str": "S.d.",
-    "title": "S.d. [754-octobre 786 0\"] Doto, abbas $. Petri (2) demande \u00e0 Lul, \u00e9v\u00eaque [de Mainz], de lui communiquer  20 par un bref mortuaire les noms de ses amis d\u00e9funts. (1) Ces dates sont celles de l\u00e9piscopat  de 225) , Dapr\u00e8s M. Tangl (op cit  P 271, n. I),la latinit\u00e9   du document Cl la   presencc dun Lul ; cf. Lul \u00f8 dans Lexikon des Miltelalters, chrisme  font  penser Un abb\u00e9 franc plut\u00f4t VI, col. 12 (T. Struve) . Doto serait un abb\u00e9 de Luxeuil selon les qu'anglo-saxon. Annales ordinis sancti Benedicti (. II, P. 189,",
+    "title": "preopto salutem. Noverit quidem prona bencvolentia vires parvitatis meae suppetunt, in missarum vestra quia ego, in quantum cererigasupplicacionibus [Pro rvobns vaissatam deleosccionibus et psalmoduuaseum\u0131  deposco eadem clementia hic ad meam et ad multorum clemenciarn, quatenus vos temporibus; novissime   ad   gaudia   paradisi consolacionem longevis conserves nomina, que sparsim actenus haberem, perducat.  Vestrum   enim  fratrum (sic)   merear; quia nostrorum  fracrem, petoina pleniter unacum fratribus abere deprecor scilicet et nomina jam multo tempore' habuistes vos omnes  patres et abbatem; ut commendetis sanctae congregacioni et, ut me familiariter habeat, me vestrae oracionibus et, quando dies obitus mei vobis notus perficite; maxime in sacris facere fuerit, misericordissime de me dignemini,  sicut Jacobus apostolus ammonet 10 salvemini (1) Orate  pro invicem; ut quia, sicut optime nostis; omni humane preter vos et tales pro Dei amore aliquid consilio destitutus sum Quicquid enim mihi indigno nojeraliqaid , pfrigeri uu n advsiliun mihi {acinnn paratus sum ad exequenda; quantum vires divina gratia mihi attribuit et utinam tam utiliter quam libenter ! Nomina   15 fratrum defunctorum libenti animo suscipite et preces consuetudinarias facite ' et ad vicina monasteria dirigite. Sancta Trinitas vos custodiat in evum.",
     "manuscripts": "",
     "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "8",
+    "pdf_pages": "15,16",
     "is_verified": 0
   },
   "tituli": [],
-  "footnotes": []
+  "footnotes": [
+    {
+      "id": 35566,
+      "roll_id": 14,
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "OqunIS orallOIUS VOMI scnCOnUla PLUPaiU?  sicut inter nos et vos consuetudo est bona."
+    },
+    {
+      "id": 35567,
+      "roll_id": 14,
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Jac., V, 16."
+    },
+    {
+      "id": 35568,
+      "roll_id": 14,
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Doavu"
+    },
+    {
+      "id": 35569,
+      "roll_id": 14,
+      "pdf_page": 16,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "atui, a04 UbC Uicel D his, qui a dexteris ejus erunt Venite; benedicti Patris mei, possidete paratum vobis regnum a constitutione mundi Un document comptable du IX' & pro:"
+    },
+    {
+      "id": 35570,
+      "roll_id": 14,
+      "pdf_page": 16,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "BSNAE, 1970, P 310-318, C\u00ed. P. Gasnault, op cit , P 317. Ibid, P 312 n. 2"
+    }
+  ]
 }

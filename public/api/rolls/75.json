@@ -1,39 +1,712 @@
 {
   "roll": {
-    "id": 40,
-    "roll_num": "75",
+    "id": 75,
+    "roll_num": "121",
     "date_str": "S.d.",
-    "title": "S.d. [vers 1055] Rouleau mortuaire ( fragmentaire ) dHugues, moine de Corbie. A. Original perdu. 0 , Du Cange, Glossarium, L. V; p. 810 (\u00e9d. partielle titre de $. Maur-des-Foss\u00e9s) . 6. J. Bouillart, 5 Paris, S. Germain-des-Pr\u00e9s, P.31,n. (\u00e9d. partielle titres dune \u00e9glise ind\u00e9termin\u00e9e de Paris et de S. Germain-des-Pr\u00e9s) . c.L Delisle, Rouleaux des morts du IX' au XVE 5 , P. 134, n? XXII, dapr\u00e8s a etb IvDIQu\u00c9 A. Molinier; Sources, t. IL, p. 43, n 1136. On ne sait rien de Hugues, moine de Corbie; pour lequel ce rouleau circula. 10 Les trois titres actuellement conserv\u00e9s ont \u00e9t\u00e9 sans doute trouv\u00e9s dans les gardes dun ms. de 5. Germain-des-Pr\u00e9s Le titre de $ Maur-des-Foss\u00e9s mentionne le nom de plusieurs abb\u00e9s d\u00e9funts le dernier dentre eux, Cunterius, \u00e9tait \u00e0 la t\u00eate de cette abbaye en 1043 Pour L. Delisle (loc. cit.), il faudrait donc placer le rouleau de ce moine de Corbie vers 1070. En fait, je crois que /on peut le situer plus pr\u00e9cis\u00e9ment vers 1055, sous [abbatiat de Robert successeur de Cunterius. 15",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "26",
+    "title": "S.d. [1123, apr\u00e8s le 4 novembre] Marbode, \u00e9v\u00eaque de Rennes (t 11 septembre 1123). Encyclique sollicitant de prier pour",
+    "manuscripts": "A. Original perdu. partielle . du XVIII s) B. Angers, B. M, ms. 327 (318), fol: 13,sans doute dapr\u00e8s a (copie  Renness 1524, P A II, quondam nominatissimi presulis 6. Incipit liber Marbodi, DRedomenaiilis Hilaaherti opera Puss (\u00e9d. partielle) 6.D. Beaugendre; sans indication de source anni 1524, Redonis excuso; ecehivo BarAlbini Andegar: et ex exemplor Collegii Mazarinaei , 1708, col. 1383, ex asservatur in Bibliotheca jussu   Yvonis;   Redonensis   episcopi, quod S. Albini Andegarensis ' t. I, col. 355, ex ms. et civile _ de Bretagne, C. Ed. Mart\u00e8ne et U. Durand, Thesaurus, (Chistoire eccl\u00e9siastique = \u00e0.H. Morice; M\u00e9moires pour servir de preuves \u00e0",
+    "pdf_source": "Dufour T1 (3)",
+    "pdf_pages": "82,83,84,85,86,87,88,89,90,91,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
     "is_verified": 0
   },
-  "tituli": [],
+  "tituli": [
+    {
+      "id": 46883,
+      "roll_id": 75,
+      "title": "T. Sancte Trinitatis Exaquii. Anima Vitalis et 0 f. d. z i. P 2 [3] S.d. Caen; S. \u00c9tienne. T: Sancti",
+      "location_name": "Sancte Trinitatis Exaquii",
+      "latin_text": "",
+      "pdf_page": 88,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46884,
+      "roll_id": 75,
+      "title": "4 [2] S.d. Bayeux, cath\u00e9drale (N.-D.). 10 T\u0131ruzus SANCTE MARIF BAJOCENSIS ECCLESIE. Postquam Vitalis",
+      "location_name": "Bayeux",
+      "latin_text": "",
+      "pdf_page": 89,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46885,
+      "roll_id": 75,
+      "title": "16 [116] S.d.- I SANCTE TRINITATIS Angers; S. Trinit\u00e9[-de-l\u00c9vi\u00e8re] . 25 p Amen. Quod petistis 'AINDE",
+      "location_name": "I SANCTE TRINITATIS Angers",
+      "latin_text": "",
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46886,
+      "roll_id": 75,
+      "title": "17 [16] S.d. ~ Rouen; S. Ouen. T.SANCTI PeTR\u0131 SANCTIQUE AUDOENI ROTHOMAGI. Abbas Vitalis; virtute ni",
+      "location_name": "Rouen",
+      "latin_text": "",
+      "pdf_page": 2,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46887,
+      "roll_id": 75,
+      "title": "18 [17] S.d.- [Rouen,] S. Amand.",
+      "location_name": "[Rouen",
+      "latin_text": "",
+      "pdf_page": 2,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46888,
+      "roll_id": 75,
+      "title": "T. SANCTI AMANDI episcopi. Anima donni Vitalis abbatis requiescat i. P 20 Amen. Quod petitis vestris",
+      "location_name": "SANCTI AMANDI episcopi",
+      "latin_text": "((b) titre est \u00e9crite\u00e0 droite de la pi\u00e8ce de vers: abbatibus \u00e9crit en interligne au-dessus La fin du (d)   cantore \u00e9crit en interligne. ((a) (c) \u00e9crit en interligne. monacho; de Nicholao et Helgoto. prior au-dessus des noms suivants. dapifer \u00e9crit en abr\u00e9g\u00e9, \u00e9crit au-dessus du nom 'pr\u00e9c\u00e9dent, comme decana \u00e9crit en interligne au-dessus du nom interligne. uxore ejus \u00e9crit en interligne. suivant. cantrice \u00e9crit en interligne. pr\u00e9c\u00e9dent, comme au-dessus du nor 433, n. 1 Sur ce personnage; cf. supra, P. 432,n. 4. Sur ce personnage; cf. supra, P Les   doyennes  de $ Amand de Rouen et p. 531. puis abb\u00e9 Hatvidis et Benscelina sont d\u00e9j\u00e0 mentionn\u00e9es Prieur de S. \u00c8tienne de Caen, dans le   titre de cel   \u00e9tablissement   religieux de S. Ouen de Rouen de f\u00e9vrier/mars 1092au appos\u00e9 = sur le rouleau de Mathilde ; il en est sans 20 noveuebre 1112, jour de sa mort ; cf. Gallia Gazeau; doute de m\u00eame de Cecilia cantrix dite dans lc XI, col.  143-144 ; V: christiana, t. m\u00eame document canonica (\u00e9d. supra; P. 432). Abb\u00e9s b\u00e9n\u00e9dictinss P. 198-199. cf. supra; P. 422,n. 5. Sur ce personnage;",
+      "pdf_page": 2,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46889,
+      "roll_id": 75,
+      "title": "21 [20] S.d.- [Rouen,] N-D.-du-Pr\u00e9.",
+      "location_name": "[Rouen",
+      "latin_text": "Tiuucs SANcTe MARIE DE PRATo. Anima Vitalis et a. 0. \u20ac: Dei c i. P. Amen. (3) monacho; abr\u00e9g\u00e9, \u00e9crit en interligne. () en interligne. ((d) filius Angeri \u00e9crit en interligne. ((c) ri.p. ajout\u00e9 Wilelmo \u00e9crit en interligne  (c) ajout\u00e9 en interligne. Gocelino abbatibus . et Emma, fundatoribus nostre ecclesie prioribus \u00e9cri en interligneius\u00e9ssutsdd erligne au-dessus de Isemberto, Rainerio; Guatero interligne au-dessus de Radulfo, L de Godefrido Goisfredo, Ansfrido. Rainoldo; () Ansberto. prioribus \u00e9crit en noms des divers la\u00efques ' defunts sont Odo; Riceldis \u00e9crit en interligne: (i) ajout\u00e9s \u00e0 Les \u00e9crite \u00e0 droite de la pi\u00e8ce de vers. divers endroits de ce titre. La fin du titre est",
+      "pdf_page": 3,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46890,
+      "roll_id": 75,
+      "title": "T. () Sancti Georgii Balcherii Ville. Anima Vitalis et a. 0. E. Dei d. z i. P. Amen. Willelmo laico ",
+      "location_name": "() Sancti Georgii Balcherii Ville",
+      "latin_text": "",
+      "pdf_page": 3,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46891,
+      "roll_id": 75,
+      "title": "23 [22] S.d. - Jumi\u00e8ges, S. Pierre.",
+      "location_name": "Jumi\u00e8ges",
+      "latin_text": "5 T.SANGTI PETRI GEMMETICENSIS . Anima ejus et anime o f. d.r.i. P. Amen. Orate P n., Rotberto (1) archiepiscopo; Rotberto (2) Guntardo (3) abbatibus Hilduino; Stephano;  Huberto; Ursone;   Walterio;  Odelrico; Odardo; Valterio;  Philiberto; Johanne, Petro; Hunfredo; Goscelino; Odone; Walterio et pro omnibus aliis, quo- rum nomina Deus solus novit. 10 24 [23] S.d.-S. Wandrille. TITuLus SANCTI WADREGISILI ABBATIS. Anima ejus et anime 0 f. d. r. i. p. Orate P. n., Girardo (4) , Mainardo (5) Gradulfo (6) Rotberto Girberto (8) , abbatibus (c) Nicholao monacho (d)_ Gregorio monacho;   Stephano () monacho; Malgerio monacho Waltero priore (f) Ambrosio monacho, Aszone monacho,  Willelmo 15 monacho,  Waltero monacho; Gisleberto monacho; Fulcone monacho, Rotberto monacho; Rogero monacho; Milone () monacho; Gisleberto monacho; Ansgero monacho; Willelmo monacho, Willelmo monacho; Anselmo monacho; Gisleberto monacho Henrico clerico (h) Herberto laico Warengero laico; Goscelino laico; Ascone laico; Gomundo laico; Ricardo laico, Godardo laico; Willelmo; Alberico 6) 20 laico, Walterio laico; Willelmo laico; Walterio laico; Ricardo monacho; Goscelino Willelmo laico ; Rodulfo; Hugo; Alberico () laico ; Delicata,   Heluisa, laico; (b) Ce titre est \u00e9crit \u00e0 la suite du pr\u00e9c\u00e9dent, sans alin\u00e9a. laico, abr\u00e9g\u00e9, \u00e9crit au-dessus du nom ((c) au-dessus de noms suivantss chaque fois que n\u00e9cessaire. abbatibus \u00e9crit en pr\u00e9c\u00e9dent, comme Mainardo;  Gradulfo; Rotberto; Girberto. ((d) Ce mol, abr\u00e9g\u00e9, interligne au-dessus de Girardo; ((e) pr\u00e9c\u00e9dent, comme les noms suivants; chaque fois que n\u00e9cessaire. Stephano qualifie le nom interligne. priore \u00e9crit en interligne. Les noms monacho; Malgerio monacho ajout\u00e9 en (h)   clerico; abr\u00e9g\u00e9, \u00e9crit en interligne. allant de Milone \u00e0 Gisleberto sont ajout\u00e9s en interligne: 'pr\u00e9c\u00e9dent, comme les noms suivants; chaque fois que n\u00e9cessaire. Ce mot, abr\u00e9g\u00e9, qualife  le nom en interligne. (k) Alberico laico ajout\u00e9 en Les noms allant de Alberico \u00e0 Willelmo sont ajout\u00e9s  interligne. Sur ce personnage; cf. supra; p. 428, n. 3. Sur ce personnage, cf: supra, P 428, n. 4. Sur ce personnage; c\u00ca:. supra; p. 428,n.5. Sur ce personnage; cf. supra, P. 429,n. 2 6) Sur ce personnage; cf. supra, P. 429,n. 1. Sur ce personnage, cf. supra, P. 429, n. 3. Sur ce personnage, cf. supra, P. 429, n. 4 Sur ce personnage, cf. supra; p. 429, n.5.",
+      "pdf_page": 3,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46892,
+      "roll_id": 75,
+      "title": "25 [24] S.d.-Lillebonne; clercs:",
+      "location_name": "Lillebonne",
+      "latin_text": "Liglebonenses clerici () Vitali, Savigneiensis   cenobii abbati, pro Dei amore 5 suorumque  peccatorum   remissione; XXX missas et   XX psalteria   concedunt. Orate pro Waltero suisque condiscipulis.",
+      "pdf_page": 4,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46893,
+      "roll_id": 75,
+      "title": "26 [25] S.d.- Montivilliers; N.-D.",
+      "location_name": "Montivilliers",
+      "latin_text": "I Sancte Marig Monasterii Villaris. Anima famuli tui Vitalis et a. 0 f. d. r. i Amen. Orate p 1., Beatrix p. abbatissa () . Elisabet (2) abbatissa; Elisabet 10 ria (e) . Alberada; secrela - Agnes; Rohaidis; Petronilla; Richildiss Juliana; Alberada; Mabi- Jia, Basilia; Sibilla, Fredissendis; Benedicta, Cecilia; Ada, alie, Hathvidis; Ada quorum nomina Deus novit. et omnes",
+      "pdf_page": 4,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46894,
+      "roll_id": 75,
+      "title": "27 [26] S.d. TITuLus F\u00e9camp. la Trinit\u00e9 . 15 GHi_nSANCTE Tenmsns FISCATAEP Animanisjus 1: et anime i",
+      "location_name": "TITuLus F\u00e9camp",
+      "latin_text": "(a) Ermengardis ajout\u00e9 au-dessus de Maltildis . en (c) interligne au-dessus nomn clerici ajout\u00e9 en de Maria . pr\u00e9c\u00e9dent, (6) comme au-dessus interligne. (d) Ansfriedis \u00e9crit en du nomn abbatissa,  ajout\u00e9 en interligne interligne au-dessus suivanl de Ricardo, abr\u00e9ge, Willelmo, secretaria ajout\u00e9 au-dessus du Johanne, Willelmo. (h) Ricardo. \u00e9crit en Hulrico. monachis abbatibus interligne. ducibus monacho; abreg\u00e9, \u00e9crit en \u00e9crit ecrit  interligne - en en interligne ajout\u00e9s en interligne. interligne. au-dessus au-dessus de Les de noms allant  Tanquardo; Antonio, de Osberto \u00e0 Huberto sont Sur ce personnage, cf. Sur ce supra, p 430, n. 2 Sur cegersonnage; cf. supra, p. 430,n.2. deux ducs de Normandie, cf. supra, p. 430,- n. 3, Sur Ces p 430, trois abb\u00e9s n. 4.- de F\u00e9camp, cf. supra,",
+      "pdf_page": 4,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46895,
+      "roll_id": 75,
+      "title": "37 [35] S.d.- Beauvais, S. Quentin. I. Sancti Quintini Belvacensis.  Anima ejus et a 0. f. d. r.i. p",
+      "location_name": "Beauvais",
+      "latin_text": "",
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46896,
+      "roll_id": 75,
+      "title": "41 [39] S.d. Argenteuil, N.-D. T. (8) ecclesie Sancte Marie Argentoilensis cenobii. Flet pastore pio",
+      "location_name": "Argenteuil",
+      "latin_text": "Ce titre est \u00e9crit \u00e0 la suite du pr\u00e9c\u00e9dent, sans alin\u00e9a. (6) abbate, abr\u00e9g\u00e9, \u00e9crit au-dessus du nom pr\u00e9c\u00e9dent, comme au-dessus des noms suivants. monacho, abr\u00e9g\u00e9, \u00e9crit au-dessus du nom pr\u00e9c\u00e9dent, comme au-dessus des noms suivants. (d) priore \u00e9crit en interligne. () Abb\u00e9 de S. Symphorien de Beauvaiss cit\u00e9 en (D. Misonne) . 1056 par le Gallia christiana ( IX; col 808) . Hildeburge de Gallardon; femme de Robert (2) dIvr\u00fd; Abh\u00e9 de S. Symphorien de v\u00e9cut en recluse; une fois veuve; dans une J050 ma de GaSuaphosicarda Beauvais  cit\u00e9 en petite cellule attenante \u00e0 S. Martin de Pontoise cit. Abb\u00e9 de S. Symphorien de elle mourut le 3 juin 1115. Sa vie, anonyme; est Beauvais cit\u00e9 par le Gallia christiana (loc. publi\u00e9e dans les cil.) Acta de 1079 sanctorum_ Junius; t. I, 1085. p.361 ;\u00e0son sujet, cf. aussi Hildeburge 0, dans Rotbertus I, abb\u00e9 de S. DHGE, t. Symphorien de XXIV; col. 490 (G. Michiels) . Beauvais, cit\u00e9 en 1072 par le Gallia , Pour christiana . L Delisle (Rouleaux des morts du loc. cit. IX\" au XV (5) s., P. 299 \u00e9rudits; n. ]), suivi par divers Abh\u00e9 de $ Symphorien de Beauvais, ~ cit\u00e9 il est possible en 1111/1112 le ait \u00e9t\u00e9 \u00e9crite que cette pi\u00e8ce de vers par Callia christiana, loc. cit. par 5: H\u00e9lo\u00efse, tere d qui habitait le monas- Gauterius; abb\u00e9 de S. Martin dec Pon- Argenteuil toise, mort le 23 reux quand le mars 1095 Vital rouleau du bienheu- ou le 8 avril 1099 ; \u00e0 son sujet cf. notamment y fut pr\u00e9sent\u00e9 % Sans Acta ment pouvoir vrai- sanctorum. Apri- contredire lis, L I, p. 749-764 = seulement cette BHL; hypoth\u00e8se, je rappelle 1 Gautier (saint) \" dans DH.( 8796-8800~ vent soit que les titres \u00e9taient dus le plus sou- GE., 1.20, col. 107 au chantre visit\u00e9e, ou \u00e0 Tarmarius soit \u00e0 de jeunes = de T\u00e9glise religieux.",
+      "pdf_page": 6,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46897,
+      "roll_id": 75,
+      "title": "44 [42] S.d. Paris; S. Germain-des-Pr\u00e9s.",
+      "location_name": "Paris",
+      "latin_text": "T.SANCTI GERMANI, PARISIORUM EPISCOPI. Anima donni Vitalis abba- 15 tis et a. 0 \u20ac: d. r i. P: Amen. Orate P 1., pro domno Childeberto (13) (c) rege Morardo (14) . pro Petro (15) Isembardo (16) , Rainaldo (17) abbatibus (d) Gislemaro; prior \u00e9crit en interligne. 0) Ce titre est \u00e9crit \u00e0 la suite du pr\u00e9c\u00e9dent, sans alin\u00e9a. (c) \u00e9crit en interligne. ((d) abbatibus \u00e9crit en rege Rainaldo. interligne au-dessus de Morardo; Petro; Isembardo; Sur ce personnage; cf: supra , p. 188, n.3. (2) Henri Icr roi de France, Ligug\u00e9-Paris; t. I, 1912, p. 172, n. a. 1060. mort le 4 ao\u00fbt (11) Tetbaldus   I, prieur de S Martin-des- Ludovicus I cousin germain de Charles ] Champs de 1106 au 8 janvier 1117 cf. Gallia Chauve; abb\u00e9 de 5 Denis #tarehichanceiees de christiana, t. VIL, col. 519 de U. Berli\u00e8re; Le Charles le Chauve de 840 \u00e0 janvier 860 cardinal  Matthieu   dAlbano (:   1085-1135) \" a son sujet, cf. G. Tessier; Recueil des - dans actes de M\u00e9langes Char- dhistoire les II le b\u00e9n\u00e9dictine; 4* s\u00e9rie, Chauve, roi de France, 1902, Paris; P.5. 1955. p. 38442. t. IIL, (12) Drogo de Mello, Sur archidiacre ce de Paris personnage, cf:. supra, p 8, bienfaiteur n. 18. de S. Martin-des-C Champs; attest\u00e9 Sur ce personnage; c_ supra, p. 484,185, notamment vers 1087.1088 Sur ce personnage; cf cit., tI, (cf. J Depoin; op Abb\u00e9 de $. supra, P. 484, n. 7. (13) P. 55, n\" 31 Denis, P. 59, nS 32) tiana cit\u00e9 par le Gallia _ chris- Sur ce roi; cf. (. VII, col: 364) de 1062\u00e0 (14) Sur supra, P. 165.n. 1. (8) 1088. ce Sur ce personnage; cf. (15) Sur personnage, supra, P. ce cf. supra, P. 165, n. 2 Citation non 484, identifi\u00e9e. n. 6 (16) Sur personnage, cf. (10) ce supra, P. 474, n. 4. Premier prieur de S. Martin-des-( ((17) personnage; Abb\u00e9 de $. cf. supra, P. 474, n. 5. de 1079 au  12 octobre  1105 Champs cf. ] 1108, Germain-des-Pr\u00e9s puis de Ill0 \u00e0 de 1103 \u00e0 Recueil  de chartes et Depoin, documents   de Recueil 1116 Martin-des- Saint- des chartes cf: R. Poupardin, Champs; monast\u00e8re Germain-des-Pr\u00e9s de parisien; Fabbaye de Saint- XIIT $ Paris, des   origines L. 1, au d\u00e9but du 1909, P 120, n.1.",
+      "pdf_page": 7,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46898,
+      "roll_id": 75,
+      "title": "45 [43] S.d.- Paris, S. Victor:",
+      "location_name": "Paris",
+      "latin_text": "5",
+      "pdf_page": 7,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46899,
+      "roll_id": 75,
+      "title": "T. Sancti Victoris Parisiensis. Anima ejus et anime 0 f. d. c i. p. Orate P. n. 46 [44] S.d.- Paris;",
+      "location_name": "Sancti Victoris Parisiensis",
+      "latin_text": "",
+      "pdf_page": 7,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46900,
+      "roll_id": 75,
+      "title": "47 [45] S.d. Paris; cath\u00e9drale (N.-D.:).",
+      "location_name": "Paris",
+      "latin_text": "MARIE PARISIENSIS ECCLESIE. Anima ejus et 0 f. zi. P 20 T.SANCTE Vitam Vitalis vitalem vita reliquit. Summe Deus; qui cuncta potes; qui cuncta creasti, Qui, genus humanum redimens; baratrum spoliasti, Vincla crucemque pati qui pro nobis voluisti, 25 Omne quod est lege stabili qui disposuisti; Fac ut perpetua cum sanctis luce fruatur Abbas Vitalis, pro quo grex iste precatur pastorem pastoris nomine dignum, Elige Qui desolatas hujus oves foveat. 30 ? Quid honor ? Quid gloria rerum ? Vivere (d) quid prodest 2 Series quid longa dierum ? Quid genus aut species Ademaro, Petro. monacho, abr\u00e9ge, interligne au-dessus de Gislemaro ((c) Cette pi\u00e8ce de vers est monachis \u00e9crit en comme au-dessus des noms suivants. pr\u00e9c\u00e9dent, premi\u00e8re, est \u00e9crite \u00e0 sa \u00e9crit au-dessus du nomn de vers; plus longue que la _ (d) Cette seconde pi\u00e8ce \u00e9crite sur deux colonnes. droite.",
+      "pdf_page": 7,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46901,
+      "roll_id": 75,
+      "title": "48 [46] S.d. Paris, S. Magloire. T. SANGTI MAGLORII PARISIENSIS (a) Rainaldo Anima ejus et a. Alfrid",
+      "location_name": "Paris",
+      "latin_text": "[1124]",
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46902,
+      "roll_id": 75,
+      "title": "51 [50] S.d. Ess\u00f4mes[-sur-Marne]  S. Ferr\u00e9oL. T: sancti Ferreoli martiris Sosmensis  ecclesie   Anni",
+      "location_name": "Ess\u00f4mes[-sur-Marne]  S",
+      "latin_text": "52 S.d.- Soissons; S. Cr\u00e9pin[-le-Grand]; S. Cr\u00e9pinien. T. sanctorum martirum Crispini et Crispiniani.  Anima ejus et a. 0. f. d. 29 in 5 Christi nomine; r i. p. Orate p. n. abbatibus et monachis; quorum nomina Altis- simo sunt nota. 53 S.d.- Soissons; N.-D.",
+      "pdf_page": 8,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46903,
+      "roll_id": 75,
+      "title": "T. () Sancte Marie Suessionensis eclesie. Anima donni Vitalis et a 0. {. defunto- rum (sic) I: i.P. ",
+      "location_name": "() Sancte Marie Suessionensis eclesie",
+      "latin_text": "",
+      "pdf_page": 8,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46904,
+      "roll_id": 75,
+      "title": "54 [56] S.d.- Nogent[-sous-Coucy] N-D. MARIAE NovZANDI Anima ejus et a. 0f.d.Ei. p. Orate P. n3 15 T",
+      "location_name": "Nogent[-sous-Coucy] N-D",
+      "latin_text": "((b) Le module de l\u00e9criture de ce titre est (a) Linitiale de ce mot et le mot Marie sont rubriqu\u00e9s l @) abbate et episcopo; abr\u00e9g\u00e9, \u00e9crit ((() abbate; abr\u00e9g\u00e9, \u00e9crit en interligne. particuli\u00e8rement gros. converso; abr\u00e9g\u00e9, \u00e9crit en monacho sacerdote; abr\u00e9ge, \u00e9crit en interligne  en interligne. dessus du nom pr\u00e9c\u00e9dent, comme au-dessus du nom sacerdote, abr\u00e9g\u00e9, \u00e9crit au-c interligne suivant. 03 3574 ; BHL, Suppl , P 150 3573 et de N.D.de Soissons; cf:. suppl, P. 397 Ed.-R. Labande, Sur cette abbesse BHL., Novum 169, n. 5. \u00e9d. Guibert de Nogent. Autobiographie; Paris; supra, P N-D. de Soissons; cit\u00e9e en passim Gallia christiana, L. IX, col. (2) Abbesse de col. 444). 1981, Gams, P 487 le Gallia christiana (. IX; 605-606 et t. X; col. 1168-1172 1057 par de Soissons; cit\u00e9e en de Philippe 1' roi de (3) Abbesse de N-D. A. Fliche; Le r\u00e8gne loc. cit. 490-491 le Gallia christiana, France (1060-1108), Paris 1912, P 1115/1116 par cf. supra, p. 471, n. 3. J Baudot, Dictionnaire d'hagiographie, Paris; Sur ce personnage; Nogent-sous- Bibliotheca sanctorum, L. VII; (5) 5. Godefridus;   abb\u00e9   de mort le 1925, P  93 dAmiens en 1105, 1 Dufour; Recueil \u00e9v\u00eaque 1966, P 83-84 (P.: Villette) Coucy; puis cf. notamment sa Louis VI _ 029 t.I, P. 456, n. 1. 8novembre 1115 ;\u00e0 son sujet; BHL, des actes de H E,t XIV, P 175 ; Vita, dans R.",
+      "pdf_page": 8,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46905,
+      "roll_id": 75,
+      "title": "55 [78] S.d.- Auxerre; S. Germain.",
+      "location_name": "Auxerre",
+      "latin_text": "Trvuus SANCTI GEMANI (sic) AUTISIODERIS. Anima ejus et a. 0. f defun- torum (sic), in Christi nomine; r: i: p. Orate P n. Versus pueriles. 5 Abas (sic) Vitalis, tibi sit laus; vita perhennis Nam dum vixisti vestes escamque dedisti. [VII] 56 [54] S.d.-Soissons; cath\u00e9drale (S. Gervais, S. Protais) . T. sanctorum martirum Gervasii et Protasii matris Suessionensis ecclesie Si posset redimi tantus vir fletibus iste 10 Et mortis munus subverti munere triste, Deberet flere sic ordo monasticus illum; Ut quondam flevit sublatum Roma Camillum Munera multa forent hoc pro patre distribuenda; Ad sua quod posset converti jura regenda 15 Sed quia jura necis subvertere tanta nequimus; Et metuenda nimis cunctis sua vincla subimus; Est exorandus devotis mentibus ipse; Cui convexa poli, cui mundus subditur Vitali vestro iste, quod celi porta 20 patescat, Spiritus in sancta Orate suus et sic pace quiescat. Amen. p n., Gerardo diacono @ . ceteris nostris defunctis. Odone presbytero () , Roberto diacono () et 57 [55] S.d. T:. Sancti Johannis 8 Soissons, S. Suessionensis. Jean[-des-Vignes] . 25 Omnia pulcria (sic) claraque Mors. Quia gaudia deseruit sorbet condere amara Vir stultus; quod potuit com (sic) stultis Angelicos socios est sine fine perdidit sepultus Si bene servasset inmo pios. 30 legem Se, mortique data de celis parasset munera Sumsiset (sic) cara sibi vel si precepta Dei docuisset Une courbe de grande _ dimension qu une autre relie les fins . des est trac\u00e9e deuxi\u00e8me entre presbytero; ct sixi\u00e8me - les fins de ce abr\u00e9g\u00e9, \u00e9crit en vers. (b) vers interligne. (d) diacono, et du quatri\u00e8me verS. diacono; tandis abr\u00e9g\u00e9, abr\u00e9g\u00e9, Allusion \u00e0 \u00e9crit \u00e9crit en en Tite-Live, interligne. VIL, 1,\u00e9d. J interligne. Bayet, Paris; 1968, _ P. 3 546 [1124]",
+      "pdf_page": 9,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46906,
+      "roll_id": 75,
+      "title": "60 [58] S.d. = Laon, S. Vincent. LAUDUNENSIS cenobii. Anima domni Vitalis et anime 0. f T. SANGTI VI",
+      "location_name": "= Laon",
+      "latin_text": "",
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46907,
+      "roll_id": 75,
+      "title": "62 [60] S.d. Reims; cath\u00e9drale (N.-D.) T\u0131ruzus SANCTE MARIE REMENSIS METROPOLIS. Si vellem; pater al",
+      "location_name": "Reims",
+      "latin_text": "[1124]",
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46908,
+      "roll_id": 75,
+      "title": "65 [63] S.d.- Reims; $. Remi.",
+      "location_name": "Reims",
+      "latin_text": "T.SANCTI REMIGII REMENSIS. Anima domni Vitalis abbatis et a. 0 f.d.ri. 5 P: Oravimus P. Y.; orate et vos p. n. 66 [64] S.d. 8 Hautvillers; S. Pierre. T\u0131ruLus (a) SANCTI PETRI ALTVILLARIS. Corda () sciens hominum, qui te consistere limum Jussit, in officium promovet obsequium. Grande tibi nomen, tibi preclarum; pater; omen, Quod dedit exterius; approbat interius. Nomine Vitalis meritoque, polum tenet alis Que sua gaudia sunt, spiritualia sunt. 10 15 Item. Quamvis a multis laudem ferat hic probitatis, His majora dedit ut nobis cartula dicit. Sed quia laudari nequit ad plenum; taceamus Ne laudando parum laudis bona supripiamus. 20 Vitali vestro vitam tribuat miseratus; gessit bona, corpore vivus. Cujus amore pio Goderanno (3) , Norioldo et Jocelino Orate P. n. abbatibus; Nochero Girardo; Hugone; Willelmo; monachis, Richero, Balduino; Hugone pro aliis pro Alberto; Godefrido; Petro; Mainero; Joranno; Hugone, Girardo; Roberto; Milone; Johanne et pro aliis omnibus. 2 Petro; Albodo; Rainnaldo; Rogero, Hugo, les lettres, souvent enclav\u00e9es, sont partie_ peint en vert rubriqu\u00e9, en un vers sur deux (a) Ce titre est en partie R de Altvillaris) . En outre; rcouleurs (ex. P de Petri ce titre est tr\u00e8s gros \u00e0 noter que parfois faites de deux (b) Le module de V\u00e9criture de  appos\u00e9e \u00e0 lextr\u00e9mit\u00e9 une lettre 'rubriqu\u00e9e: vers est d\u00e9tach\u00e9e de celui-ci et commence_ par dernier mot de chaque la derni\u00e8re lettre du feuille _ de parchemin. droite de la_ cf. supra; p. 383,n.2 Sur ce personnage; cf. supra, P. 383, n. 4 Sur ce 'personnage, P. 383,n. 1. cf. supra, Sur ce personnage; cf. supra, P 383, n. 3. Sur ce personnage,",
+      "pdf_page": 10,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46909,
+      "roll_id": 75,
+      "title": "70 [69] S.d.- S. Memmie.",
+      "location_name": "- S",
+      "latin_text": "TITULUS SANCTI MEMMII, CATHALAUNENsIUM PRIMI EPISCOPI Vitalis (b) nomen vite denontiat omen. Ex merito vite nomen datur huic heremite, Et quia vivus erat vite documenta sequutus, Evolat ad celos carnali mole solulus. Unde potest credi cives vel celus gaudere beatos, Tanto concive feliciter amplificatos: Premia prestet ei vite Deus alque diei. 20 C\u0161t tr\u00e8s gros \u00e0noter que la derni\u00e8re lettre du dernier mot de Le module de l\u00e9criture de ce titre appos\u00e9e \u00e0 Cextr\u00e9mit\u00e9 droite de la feuille de parchemin. chaque vers est d\u00e9tach\u00e9e de celui-ci et (c) vel cetus \u00e9crit en interligne au-dessus de cives. (b) L\u00e9criture de ce titre est de gros module. III, \u00e9v\u00eaque de Chalons-en- Rotgerus Callia christiana Champagne;   cit\u00e9 par   le (t.IX, col: 874-875) de 1066 \u00e0 1093. fondateur de Guillaume de Champeaux; de Chalons-en- 5. Victor de   Paris;   \u00e9v\u00eaque de 1113 \u00e0 1122 \u00e0 son sujet, cf. Champagne VI, col. 1976-1977 notamment DTC, XXII, col. 876-877 (P: Godet) DHGE, L. Jolivet, Donn\u00e9vs sur (R. Aubert) J. dialecticien et th\u00e9o- Guillaume de Champeaux; logien % dans Labbaye parisienne de Saint. Victor au Moyen Age- Paris-Turnhout, 1991, 235-251 ; DLF; P.609-610 (J.  Jolivet) 3 Dufour Recueil des actes de Louis VEL.I 173, n 80. P (3) Abb\u00e9 de S. Pierre-aux-Monts, cit\u00e9 par le Gallia christiana (. IX; col. 928) de 1l10 \u00e0 1118. ((1 Sur ce personnage; cf. supra, P. 490, n. 4",
+      "pdf_page": 11,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46910,
+      "roll_id": 75,
+      "title": "72 [195] I S.d.-S. Albans. sancti Albani; prothomartiris Amen . Anglorum. Anima ejus et anime 0. f. ",
+      "location_name": "I S",
+      "latin_text": "(0) abbate, abr\u00e9g\u00e9, \u00e9crit en po\u00e8me. (9 interligne. (6) D'apr\u00e8s  C (p: 310. Les trois  inintelligible ` n . 1), * on a effac\u00e9 derniers ' la fin vers de ce Sonl vers appos\u00e9s \u00e0 el des ' droite suivants; du reste du ce qui rend la pi\u00e8ce Sur ce personnage; cf supra; p. Ce personnage 376, n. 2 n'appara\u00eet pas dans la liste incompl\u00e8te le des Gallia abb\u00e9s , deS. christiana Memmie (t, IX, donn\u00e9e col, 944 , par el suiv;)",
+      "pdf_page": 12,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46911,
+      "roll_id": 75,
+      "title": "74 [75] S.d.- T, SANCTI PETRI [Bar-sur-JAube, S. Pierre. ALBENSIS. A 0. in pace requiescat . E.Dei d",
+      "location_name": "- T",
+      "latin_text": "[XII] 76 [73] S.d. Ramerupt, N-D. TSANCTE MARIE RAMERUCENSIS. Abbas Vitalis, mundi pars occidualis Pro (a) te tristatur; quia patre bono viduatur: Vere Dei cultor; scelerum promptissimus ultor; Terre comptemtor (sic) captivorumque Redemptor; Mellifluique sator verbi, bonitatis amator; Justi defensor validus; pravis reprehensor; Mestis solamen magnum pressisque levamen, Morte tua, pastor; suscepit gaudia celum; Tellus lamentum, quia te sibi meret ademptum ; Sed consolatur quoniam, caro dum tumulatur; Credit supremis quod spiritus adsociatur; In celisque bonum se sperat habere patronum. Anima @) ejus et a. 0 f. d. r.i. p Amen. 10 15 20 77 [74] S.d.- Beaulieu[-sur-Aube], S. Sauveur: T. Sancti Salvatoris Belli Loci. Anima ejus et a. 0 f. d. ri. P. Amen. Abbas Vitalis virtutum transvolat alis Ad sacros cetus; Christi solamine fretus. 25 'pr\u00e9c\u00e9dent. (b) le Cette formule est \u00e9crite \u00e0 droite de la () Ce vers est \u00e9crit sur la m\u00eame ligne que ((c) Anima ejus; omis, ajout\u00e9 en interligne. pi\u00e8ce de vers. prieur\u00e9 de S. Pierre de Bar-sur-Aube) donn\u00e9e Ce personnage n 'appara\u00eet  pas dans la liste par le Gallia christiana (t. IV; col. 241). S. Claude   (dont   d\u00e9pendait  le des   abb\u00e9s  de",
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46912,
+      "roll_id": 75,
+      "title": "84 [153] S.d.- Tewkesbury; S. Mary:",
+      "location_name": "Tewkesbury",
+      "latin_text": "10",
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46913,
+      "roll_id": 75,
+      "title": "T. Sancte Marie de Teokesberia. Anima ejus et anime 0 \u00c9. d. c i. p. Orate p n. 85 [154] S.d.- Evesha",
+      "location_name": "Sancte Marie de Teokesberia",
+      "latin_text": "",
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46914,
+      "roll_id": 75,
+      "title": "86 [155] S.d.- Pershore; $. Mary. T. Sancte Marie de Persora. 20 Abbas Vitalis verbis factisque beat",
+      "location_name": "Pershore",
+      "latin_text": "(b) comite \u00e9crit en interligne. ((c) priore , \u00e9crit de vers est \u00e9crite sur deux colonnes. Cette pi\u00e8ce en interligne. Abb\u00e9   de   Pershore; cit\u00e9 par   Knowles/ Serlo, chanoine &'Avranches; puis moine Brooke (op. cit., P. 58) de 1058 \u00e0 1085, puis abb\u00e9 de S. Peter de du Mont-S. Michel, (8) Abb\u00e9 de   Pershore;   cit\u00e9   par   Knowles/ (1072-1104)  cf: Knowles/ Brooke; Gloucester and Brooke (loc. cit:) de 1085 \u00e0 1087. religious houses: England Heads of Abb\u00e9 de Pershore; connu seulement par ce titre ; cf. Knowles/ Brooke; op cil., P. 59. Wales; P. 52. Abb\u00e9 de S. Peter de Gloucester; cit\u00e9 par KnowleshBrooke (loc. cit) de Il07 \u00e0 Il13.",
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46915,
+      "roll_id": 75,
+      "title": "88 [157] S.d - Coventry; cathedral (Holy Trinity, S. Mary) E Sancte Trinitatis et Sancte Marie Covan",
+      "location_name": "Coventry",
+      "latin_text": "15",
+      "pdf_page": 14,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46916,
+      "roll_id": 75,
+      "title": "90 [160] I S.d.- Sancte Marie ' Tutbury; S. Thotesberie. Mary. Anima ejus et anime 0. f. d.r.i. P. A",
+      "location_name": "I S",
+      "latin_text": "",
+      "pdf_page": 14,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46917,
+      "roll_id": 75,
+      "title": "92 [165] S.d. Blyth, S. Mary.",
+      "location_name": "Blyth",
+      "latin_text": "Trruzvs SANCTE MARIE BLIDE; Anima ejus et anime 0 E. d. r i. p. Orate P n., Rogerio Radulfo   monacho () Nicholao monacho; Radulfo monacho; 5 Benigno monacho; Ansberto monacho, Willelmo monacho; Gisleberto monacho, Fulcone monacho et ceteris.",
+      "pdf_page": 14,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46918,
+      "roll_id": 75,
+      "title": "93 [169] S.d. ~ York, S. Mary.",
+      "location_name": "York",
+      "latin_text": "T.Sancte Marig Eboracensis. Anima ejuset animgo f.d.r.ip.Amen. Orate p.n.",
+      "pdf_page": 14,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46919,
+      "roll_id": 75,
+      "title": "94 [170] S.d.- York, cathedral (S. Peter) .",
+      "location_name": "York",
+      "latin_text": "10 T. Sancti Petri Eboracensis ecclesie. Anima ejus et anime 0 f. d. r. i. P. Amen. Orate P. n., Aldredo (2) Thoma (3) , Girardo (4) , Thoma (5)",
+      "pdf_page": 14,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46920,
+      "roll_id": 75,
+      "title": "95 [168] S.d.  Selby; S. German. T. Sancti Germani Salebiensis ecclesie- Anima ejus et a. 0. f. d. 1",
+      "location_name": "Selby",
+      "latin_text": "[XIV] 96 [178] S.d. Ramsey; S. Benedict. [TJitulus () Sancti Benedicti Ramesiensis ecclesig: Anima ejus et anime 0 f. d. ri. p. Amen. Orate p. n. 97 [184] S.d.- Norwich, cathedral (Holy Trinity) . T. Sancte Trinitatis Norwicensis pcclesie. Anima ejus et animg 0 f. d. I i P: 2 (7) episcopo; patrono nostro et   fundatore Amen. Orate   pro domno   Herberto ecclesie nostre, et pro defunctis fratribus nostre congregationis. comme au-dessus des noms suivants: monacho, abr\u00e9g\u00e9, \u00e9crit au-dessus du nom pr\u00e9c\u00e9denim 'simplement = rubriqu\u00e9e; n'a pas \u00e9t\u00e9 ex\u00e9cut\u00e9e. (b) Linitiale de ce mot, quie devait \u00eatre dessin\u00e9e ou plus = Thomas II, archev\u00eaque d'York, de mai Ils'agit tr\u00e8s probablement de Rogerius de 1108 au 24 f\u00e9vrier 1l14, jour de sa mort; fondateur de Blyth ; \u00e0 son sujet, cf. Bouilly; 86) Sur ce personnage, cf. supra, P. 412, n. 1. supra, P 41l, n. 3. Herbertus  Losinga; \u00e9v\u00eaque de Norwich Sur cet archev\u00eaque   &'York, cf:  supra, depuis 1090/1091 , transf\u00e9ra son si\u00e8ge de Thet- 1094/1096 il mourut   le  22 juillet p. 416, n. 1. dYork ford en (3) 'Thomas Ide Bayeux; archev\u00eaque c\u00ca. Handbook of   British chronology mort 1119 = de 1070au 18 novembre 1l00, jour de sa 2 p 261. \u00e0son sujet, cf. aussi supra, p 416, n. ((u) Sur   cet   archev\u00eaque d'York,  cf. supra, p. 416, n. 3.",
+      "pdf_page": 14,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46921,
+      "roll_id": 75,
+      "title": "T. () 101 [196] Sancte S.d.- Marie Abingdon; S. Abbendonie- Mary. Vita brevis casusque _ Anima levis",
+      "location_name": "() 101 [196] Sancte S",
+      "latin_text": "[1124]",
+      "pdf_page": 15,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46922,
+      "roll_id": 75,
+      "title": "102 [197] S.d.- Eynsham; Holy Trinity; S. Mary.",
+      "location_name": "Eynsham",
+      "latin_text": "",
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46923,
+      "roll_id": 75,
+      "title": "T. @) Sancte Trinitatis et Sancte Marie Egneshamnie   Anima ejus et animg 0. f. d. r.i. p. Amen. 10 ",
+      "location_name": "@) Sancte Trinitatis et Sancte Marie Egneshamnie   Anima ejus et animg 0",
+      "latin_text": "",
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46924,
+      "roll_id": 75,
+      "title": "106 [205] S.d.- [Canterbury ] S. Peter; S. Augustine.",
+      "location_name": "[Canterbury ] S",
+      "latin_text": "10 I. () Sancti Petri et sancti Augustini; Anglorum apostoli. Anima domni abbatis Vitalis et anime 0 f. d. r i. p. Amen. Orate p. n.",
+      "pdf_page": 16,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46925,
+      "roll_id": 75,
+      "title": "107 [207] S.d.- [Lewes,] S. Pancras.",
+      "location_name": "[Lewes",
+      "latin_text": "",
+      "pdf_page": 16,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46926,
+      "roll_id": 75,
+      "title": "T. sancti Pancratii martyris. Anima ejus et anime 0 fidelium () d. r. i. p. Amen. [Iv] 108 [81] S.d.",
+      "location_name": "sancti Pancratii martyris",
+      "latin_text": "20",
+      "pdf_page": 16,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46927,
+      "roll_id": 75,
+      "title": "109 [82] S.d. - T. SANCTI PETRI Vierzon, VIRSIONENSIS S. Pierre. Amen. Oravimus p v, orate p. cenobi",
+      "location_name": "- T",
+      "latin_text": "",
+      "pdf_page": 16,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46928,
+      "roll_id": 75,
+      "title": "110 [83] S.d. Massay; S. Martin. T. SANGTI MARTINI MASCIACENSIS CENOBII , 5 Hic nobis rotulus si ver",
+      "location_name": "Massay",
+      "latin_text": "",
+      "pdf_page": 16,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46929,
+      "roll_id": 75,
+      "title": "115 [92] S.d. Cornilly; N.-D. T. Sancte Marie Corneliacensis   Anima ejus et anime 0. f. d. 1: i. P.",
+      "location_name": "Cornilly",
+      "latin_text": "Trou dans le parchemin, do\u00f9 disparition des premi\u00e8res lettres de ce mot. () Doyen  du chapitre ' de Chartres; de Marmoutier de 1032 \u00e0 1064= puis abb\u00e9 suiv Gams, p. 633 \u00e0 son sujel, Hilgod w, dans D.H.GE cf.  Gallia christiana. t. XIV, col t. XXIV, Ed. 201-204 col. 535-536 (G. Michiels) . Orderic E\u00e0 Cheorlos E Histoire de Vital Marmoutier, fait J\u00e9loge \u00e9d. des quatre abb\u00e9s de Marmou- Tours  L1, 1874, P. 276 et tier; Albert 0, dans suiv. mentionn\u00e9s par ce titre (cf. M. Chibnall, DHC GE. t. I, col. The (A. Clerval) . 1432-1435 ecclesiastical history of   Orderic Vitalis; Abb\u00e9 de t.IL, P 192) . Marmoutier de 1064 (5) son sujet, c\u00ca.  Gallia \u00e0 1084 3 Abb\u00e9 \u00e0 de christiana , Pontlevoy, cit\u00e9 par le   Gallia 204-208 Ed. L XIV, christiana Mart\u00e8ne, col (6) (t. VIII, op. cil., LI col. 1380) de 1035 \u00e0 1040. suiv. Barth\u00e9lemy P. 371 et Guido de I DHC Marmoutier Callia  abb\u00e9 de Pontlevoy; cit\u00e9 par le GE., L. VI, col. 1014-1015 dans christiana Bernard (P. Calendini) . \u00e0 1064 . (t. VIII, col. 1381) de 1040 (?) de $. tier; Venant . mort le 7 avril abb\u00e9 de 1100, Marmou- Petrus pour lequel ' Callia [, une fut abb\u00e9 encyclique _ de r\u00e9dig\u00e9e christiana Pontlevoy; cit\u00e9 par le (\u00e9d. supra; P. 238,n\" Doyen 89) . 1109) . (loc. de S. cit.) Genevi\u00e8ve de 1089 \u00e0 1101 (ou de que de Soissons (1084- Paris; -1088), pui \u00e9v\u00ea- Abb\u00e9 puis Gallia , de Marmoutier; dont il moine Pontlevoy devient _ de christiana cit\u00e9 en 1110 par le ao\u00fbt 1104, abb\u00e9 davril \u00e9poque de sa mort 1loo \u00e0 Sur loc. Andr\u00e9 cil.) . \u00e0 Gallia christiana, L. IX, col son sujet; cf. Cornilly, de 352-353   puis Vallombrosa, fut de fondateur de col. 212-213 Ed. Mart\u00e8ne, et t. XIV , r\u00e9dig\u00e9e Chezal - op. cil., D? une Beno\u00eet , t1,p 551 112 . pour   lequel et encyclique, cf. supra, P. 384,",
+      "pdf_page": 17,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46930,
+      "roll_id": 75,
+      "title": "116 [94] S.d. - [Orl\u00e9ans,] N.-D.-de-lH\u00f4pital.",
+      "location_name": "[Orl\u00e9ans",
+      "latin_text": "",
+      "pdf_page": 17,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46931,
+      "roll_id": 75,
+      "title": "T. Sancte Marie Hospitalitatis. Sanctimoniales unum psalterium et unaqueque VII psalmos. Anima famul",
+      "location_name": "Sancte Marie Hospitalitatis",
+      "latin_text": "117 [95] S.d. 2 Orl\u00e9ans; S. Aignan. T. Sancti Aniani Aurelianensis ecclesie. Dum vixit, vita vixit Vitalis honesta Nunc possit vita vivere perpetua Non facit hgc vita vitalem sed moribundum, Vitalem (b) faciat vita perennis eum. Anima ejus et a. 0 f. d., in Christi nomine; L.i. p. 5 10 [IIv] Item. Possideat vitam Vitalis, vitis amator (c) Per vitem, vitam; caeli vivens habitator:. Christum vivus amavit, 15 Vitis amator erat, quia Qui se vite, suos in palmite, significavit. Vitis amans iterum; cui vinea culta frequenter; Et reddet fructus et reddidit ante decenter: Ad vitam vero non ducit terrea vitis. 20 Cujus vos usi monachi moderamine sitis: Ergo qui mente conscendit ad ethera sola Vivat Vitalis, qui fuit agricola. Vieux], N.-D. et S. Pierre. 118 [100] S.d; Pveauphdlef-leAViena Jejus et & E E E5P Orate P n. T:. Sancte Marie et Sancti Petri Nielfez) Bernerio, Engelberto; Ful- 25 Roscelino abbatibus; defunctis; scilicet Galterio monachis, et pro aliis omnibus. chone; Symone, Odone; (e) Le scribe a laiss\u00e9 un l\u00e9ger parchemin _ au-dessus de ce vers. (b) Trou dans le _ lettre de certains vers de ce po\u00e8me: (a)   vita r\u00e9p\u00e9t\u00e9. Tavant-derni\u00e8re lettre et la derni\u00e8re espace entre Gallia christiana (. VIII; col: 485, n. L donn\u00e9e par le Sur ce personnage; cf. supra, P liste 1246 et suiv:). n 'appara\u00eet pas dans la Ce pexsoonegebbeppae .Neauphle-le-Vieux tr\u00e8s incompl\u00e8te des",
+      "pdf_page": 17,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46932,
+      "roll_id": 75,
+      "title": "121 [89] S.d.- Tours; S. Julien. Tsancti Juliani martyris Turonensis Anima ejus et a. 10 Ei. p. Amen",
+      "location_name": "Tours",
+      "latin_text": "122 [93] T. Sancti S.d. 1 Blois, S. Laumer: 15 Launomari Blesis . Anima ejus ets a. defunctis, scilicet pro domno Mauricio \u20ac 0, f. d. r: i P. Amen. Orate p n. Herberto; Gauleno; abbate, Constantino Bernardo monacho () monacho ; Petro; (sic),  David. Theoderico; Petro; Odone, Stepfano Linitiale de ce mot, fligranes et haute de points et large rouges de 1l ques. Titulus de Cnl , chaque  est et le extr\u00e9mit\u00e9  constitu\u00e9e de deux et nom de du trait longs traits orn\u00e9s de rubriqu\u00e9es. (b) F\u00e9tablissement  ((d) Linitiale religieux sont horizontal partent d \u00e9l\u00e9gantes arabes- Ingelardo ajout\u00e9 sous de ce mot est Constantino. abbatibus. rubriqu\u00e9e. compos\u00e9s de lettres alternativement noires (e) (c) monacho; monacho. abr\u00e9g\u00e9 , abr\u00e9g\u00e9, \u00e9crit en interligne \u00e9crit au-dessus de Bernardo, puis de Sur ce personnage, Sur ce cf. personnage, supra, cf. P. 419, Willelmus supra, 1. 2 [de Dol, p 449,7 (loc. l\u00e8s-Saumur, 1. 3 cit). cit\u00e9 abb\u00e9 de S. Florent- (6) ((t. XIV, par le Gallia Ce col. 629-631)  des personnage de 1070 christiana abb\u00e9s n Abb\u00e9 de \u00e0 mai de $. appara\u00eet pas dans la liste S. Julien 1118. Gallia Julien Gallia de christiana de Tours; Tours christiana cit\u00e9 (. donn\u00e9e par le 1093 . (t. XIV, col. par le Abb\u00e9 XIV, 244) de 1130 de $. Laumer col: 239 et suiv;) . (5) 1073 Abb\u00e9 \u00e0 par le de de $. 1356), Callia Blois, Julien cit\u00e9 de 1087 quelque _ doute, de Tours; ou qui s christiana en 1093 cit\u00e9, d\u00e9c\u00e9d\u00e9 interroge (. VIII, col. par le Gallia  ayec \u00e0 celle Sur le indique - fait christiana derni\u00e8re qu'il soit vivant qu'il etail date d\u00e9j\u00e0 le pr\u00e9sent titre Morl en 1123.",
+      "pdf_page": 18,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46933,
+      "roll_id": 75,
+      "title": "123 [97] S.d. - Morigny; S. Trinit\u00e9 . T. Sancte Trinitatis Mauriniaci de Stanpis. Anima ejus ct 0 f.",
+      "location_name": "Morigny",
+      "latin_text": "",
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46934,
+      "roll_id": 75,
+      "title": "125 [101] S.d. Coulombs; N.-D.",
+      "location_name": "Coulombs",
+      "latin_text": "T\u0131ruLus SAYCTE MARIE CoLUMBENSIS. Anima ejus et 0 f. d. r. i. P. Amen. IIIv] 126 [102] S.d. Josaphat, N-D. 15 T. SANCTE DEI GENITRICIS MARIF DE JOSAPHATH CARNOTENSI. Anima ejus et anime 0 f. d. r: i. p. Amen. Orate pro fratribus nostris defunctis; libro vite > (2) Garino, Bernardo; Eudone et aliis; quorum nomina scripta sunt in",
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46935,
+      "roll_id": 75,
+      "title": "127 [103] S.d. Chartres; S. Jean[-en-Vall\u00e9e]",
+      "location_name": "Chartres",
+      "latin_text": "",
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46936,
+      "roll_id": 75,
+      "title": "T. Sancti Johannis Carnotensis cenobii. Anima ejus et a. 0 f. d. r i. P Amen. 20 Orate et vos pro fr",
+      "location_name": "Sancti Johannis Carnotensis cenobii",
+      "latin_text": "filio ejus \u00e9crit en interligne. \u00e0 (1095-1152 ) , Paris, 1912, P. Il,n. 3. (1) Morigny de 1099/1100 Abb\u00e9 de gn2) Apoc , III, 5. cf. L. Mirot, Chronique de Mori- 1109/1110",
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46937,
+      "roll_id": 75,
+      "title": "129 [105] S.d.- Tiron; S. Sauveur: T. ()   Sancti   Salvatoris   Tyronensis   cenobii. Anima (b)   d",
+      "location_name": "Tiron",
+      "latin_text": "130 [106] S.d,- [Bouche-d'Aigre,] S. Jean; S. Paul (3) 15 Trruzus () SANCTORUM  MARTYRUM JoHAnnis ET PAULI Anima (d) OBEDIENTIE DE TYRon: piissimi abbatis Vitalis et anime 0 f. d. r. i. p. Amen. 131 [107] S.d. 1. Vend\u00f4me; la Trinit\u00e9  Sancte Trinitatis Vindocinensis _ monasterii. Anima ejus et anime 0. f. d. r i.p. 132 [108] 20 I (e) S.d. 'SANCTI PETRI < Bourgueil; S. Pierre: BURGULIL Amen. Anima Vitalis abbatis et animg 0 f. d.r i. p 133 [109] T. Sancte Marie S.d.- Fonti Evardi. Fontevraud, Scimus N-D. mum patrem (sic) quem amisistis  fratres in karissimi, hac Juce, quia doletis de piissi- sed credimus La premi\u00e8re quod regnat in eterna ligne de ce deux premi\u00e8res titre esl lignes ' de ce titre rubriqu\u00e9e. 746) tiale de ce mot est sont rubriqu\u00e9es. (d) Linitiale rubriqu\u00e9e. de ce Linitiale , mot est rubriqu\u00e9e. (9) de ce mot Les est rubriqu\u00e9e. (e) Lini- Sur Bernard  de Tiron, 1117 , cf. notamment, B. mort le 14 avri] HL n 1251 le Acta mnoine sanctorum; Aprilis; L II, P. 222-254 etle Vies Ce monde, saints et des bienheureux des des personnage Cormelles-le-L par les RR. PP abb\u00e9s n Royal, 1998. B\u00e9n\u00e9dictins de Pariss Paris; L. tiana de IV, Tiron appara\u00eet 339 1946, P. 336- (t. donn\u00e9e pas dans la liste B. Beck, Saint Bernard de (3) VIIL ,  Tiron, Cermite, Sur col. 1262 par le Gallia chris- B. ce prieur\u00e9 , et Beck ,  suiv) . Saint  cf. Bernard Cottineau, de col. 448 ; Tiron 4889 p. 285 .",
+      "pdf_page": 19,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46938,
+      "roll_id": 75,
+      "title": "143 [48] S.d. Rebais; S. Pierre. T\u0131ruzus SANCTI PETRI RESBIACENSIS ecclesie: Aede tua sumptum; carni",
+      "location_name": "Rebais",
+      "latin_text": "10",
+      "pdf_page": 20,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46939,
+      "roll_id": 75,
+      "title": "144 [96] S.d. Fleury, S. Beno\u00eet . T. () PATRIS BENEDICTI Floriacensis cenobii . 15 Vita manens, pax,",
+      "location_name": "Fleury",
+      "latin_text": "",
+      "pdf_page": 20,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46940,
+      "roll_id": 75,
+      "title": "151 [129] S.d. \u00c9vreux; S. Sauveur: T.Sancti Salvatoris Ebroicensis. Anima ejus et a.o.f.d.Ti. P: Ame",
+      "location_name": "\u00c9vreux",
+      "latin_text": "",
+      "pdf_page": 21,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46941,
+      "roll_id": 75,
+      "title": "152 [141] S.d.- Amesbury; S. Mary ' et S. Melor:",
+      "location_name": "Amesbury",
+      "latin_text": "",
+      "pdf_page": 21,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46942,
+      "roll_id": 75,
+      "title": "T. Sancte Marie et Sancti Melori Ambresberiensis pcclesie: Anima domni Vitalis 5 abbatis et a. 0 f. ",
+      "location_name": "Sancte Marie et Sancti Melori Ambresberiensis pcclesie: Anima domni Vitalis 5 abbatis et a",
+      "latin_text": "",
+      "pdf_page": 21,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46943,
+      "roll_id": 75,
+      "title": "153 [142] S.d.- Wilton; S. Mary, S. Edith. T (a) Sancte Marie Sancteque Eadithe Wiltoniensis ecclesi",
+      "location_name": "Wilton",
+      "latin_text": "",
+      "pdf_page": 21,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46944,
+      "roll_id": 75,
+      "title": "156 [151] S.d.- Malmeshury; S. Mary, S. Aldhelm. 5 T. sancte Marie et sancti Aldelmi confessoris Mal",
+      "location_name": "Malmeshury",
+      "latin_text": "",
+      "pdf_page": 22,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 46945,
+      "roll_id": 75,
+      "title": "161 [166] S.d.- [Nostell,] S. Oswald.",
+      "location_name": "[Nostell",
+      "latin_text": "I sancti  Oswaldi regis et martiris, juxta Pontem fractum.  Anima ejus et animg 0. f. d., per m D., I. i. p. Amen. Concedimus huic patri beneficium loci nostri. Orate P. n. 162 [172] S.d.- Bridlington, 5. Mary. 5 T. Sancte Marie Bretlintonensis.  Concedimus huic patri beneficium commune loci nostri. Orate p. n. Det tibi se Deus omnibus omnia sufficienter Nescio quid majus deprecer aut melius. 163 [171] S.d. 8 York, Holy Trinity. 10 T. Sancte Trinitatis Eboracensis. Anima donni Vitalis abbatis et anime 0 f. d. r i. Amen. Orate p. n. fratribus, sicut oramus p Y: Orate pro donno Martino, P. Radulfo Paganello, David, Tristanno; alio Radulfo, Salomone; monachis nostris. 164 [187] S.d.- [Great] Bricett, S. Leonard LEONARDI de Briesetta. Anima beati Vitalis abbatis et a. 0 f. d. z 15 T. SANCTI i.p. Concedimus huic abbati beneficium nostri loci. Orate pro nobis. 165 [164] S.d.-Lincoln; cathedral (S. Mary) . [VIIv] (sic). Anima ejus et a. f. d. Dei d., per m. D. T.SANCTE MARIE LINcOLIENSIS r. i. p. Amen. S.d.- Bardney; S. Oswald. 20 166 [173] T:. sancti Oswaldi regis et martiris in Bardanais Miles () duxque gregis gemine per pascua legis; Ex atrii cura te post certamina plura, Continet aula Dei refovetque sinus requiei ; 25 Virginei cetus tali dulcedine letus Visibus atque choris nunc delectare canoris . Grex confessorum candens ut flos liliorum Te gaudet jungi sibi, te quoque nomine fungi vite perpetualis 30 Vite, Vitalis; quia gentis exercitus igne calentis Et rosee monstrat honora laborum ; Omnia magnorum tibi pi\u00e8ce de vers est \u00e9crite sur deux ((b) enti\u00e8rement effac\u00e9. Cette (0) Ce titre rubriqu\u00e9 est presque colonnes. religious houses. England cf. Knowles/ Hadcock, Medieval Sur cet \u00e9tablissement religieux, and Wales; P. 181.",
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 46946,
+      "roll_id": 75,
+      "title": "167 [84] S.d.- Issoudun; N-D. T. SANCTE MARIE Auxelioduni 15 i. p Oravimus cenobii. Anima abbatis Vi",
+      "location_name": "Issoudun",
+      "latin_text": "Abb\u00e9 d'Issoudun; tiana (t. II, col. cit\u00e9 par le Gallia . 157) chris- (2) de 981/982\u00e0 984. lia christiana Abb\u00e9 &'Issoudun; cit\u00e9 en 1066 ( loc. Abb\u00e9  cit.). par le Cal- tiana dIssoudun, (loc:. cil.) cit\u00e9 par le de 1088 Gallia \u00e0 1105. chris- [1124]",
+      "pdf_page": 23,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
   "footnotes": [
     {
-      "id": 35762,
-      "roll_id": 40,
-      "pdf_page": 26,
+      "id": 36094,
+      "roll_id": 75,
+      "pdf_page": 3,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Gocelinus, vicomte de $. Trinit\u00e9-du-Mont , dArques, de fondateur Orderic Rouen Vital, veIS Historia 1030 ce. M Chibnall, L. IL, p. 10, ecclesiastica , ; \u00e9d . Sur ce 14,n.6 ; 106, personnage, 304 . cf. supra, P 433, n. 2"
+    },
+    {
+      "id": 36095,
+      "roll_id": 75,
+      "pdf_page": 3,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "ce personnage; cf. supra, P. 226, n. 1. Guaterus Rouen L abb\u00e9 de S. Trinit\u00e9-du-Mont de de 1078 L. \u00e0 1120 XI, col. cf. Gallia christiana, 126-127 tins, V Gazeau. Abb\u00e9s b\u00e9n\u00e9dic- p 210-211 ."
+    },
+    {
+      "id": 36096,
+      "roll_id": 75,
+      "pdf_page": 20,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "1, abbesse Mans: de $. cit\u00e9e sans pr\u00e9cision de Julien-du-Pr\u00e9 date du christiana (t. XIV, col par le 502) . Gallia Sur ce personnage, cf. supra, p 490, 1.5"
+    },
+    {
+      "id": 36097,
+      "roll_id": 75,
+      "pdf_page": 20,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "ce personnage. cf. supra. P. 490, n. 6. Sur ce Sur personnage. cf. supra. P 422,n. 2 ce personnage, cf. supra. P. 422, n. 1"
+    },
+    {
+      "id": 36098,
+      "roll_id": 75,
+      "pdf_page": 23,
       "pdf_half": "right",
       "footnote_num": "1",
-      "text": "LsapDe UC 0 LANulu6099e"
+      "text": "LI: Coinle; WaIl CSL Plonanic G de cette chapelle doit remonter au XI 3, si on Tidentifie avec P\u00e9glise Beate Marie de Ia Cit\u00e9 mentionn\u00e9e en 1028, puis cn 1040-I04L. Le pro-"
     },
     {
-      "id": 35763,
-      "roll_id": 40,
-      "pdf_page": 26,
+      "id": 36099,
+      "roll_id": 75,
+      "pdf_page": 23,
       "pdf_half": "right",
       "footnote_num": "2",
-      "text": "862 \u00e0 869 par le Gallia christiana (. VII, col. 286) ."
+      "text": "L. Delsna Vu pense qu'une XV s P. 333, n 1) du [X' au aucun fondement. identification 1a telle"
     },
     {
-      "id": 35764,
-      "roll_id": 40,
-      "pdf_page": 26,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "le Gallia christiana (t. VII, col. 284 et suiv) ."
+      "id": 36100,
+      "roll_id": 75,
+      "pdf_page": 24,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "poterat conciliare sibi. quante virtutis homo Gracia Quam Quam dulcis grata loquendi FOX et amoris habens !"
     }
   ]
 }

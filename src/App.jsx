@@ -52,9 +52,9 @@ export default function App() {
   const [stats, setStats] = useState({ total: 0, verified: 0, unverified: 0, percent: 0 });
 
   // Hoisted Functions
-  const fetchRollDetail = async (rollNum) => {
+  const fetchRollDetail = async (id) => {
     try {
-      const res = await fetch(getApiUrl(`/api/rolls/${rollNum}`));
+      const res = await fetch(getApiUrl(`/api/rolls/${id}`));
       const data = await res.json();
       setRollDetail(data);
     } catch (e) { console.error("Failed to fetch roll detail:", e); }
@@ -66,14 +66,14 @@ export default function App() {
       const hash = window.location.hash.replace('#/', '');
       const parts = hash.split('/');
       const tab = parts[0] || 'map';
-      const rNum = parts[1] || null;
+      const id = parts[1] ? Number(parts[1]) : null;
 
       if (['dashboard', 'explorer', 'map', 'verification'].includes(tab)) {
         setActiveTab(tab);
-        if (rNum && rNum !== selectedRollId) {
-          setSelectedRollId(rNum);
+        if (id && id !== selectedRollId) {
+          setSelectedRollId(id);
           setRollDetail(null);
-          fetchRollDetail(rNum);
+          fetchRollDetail(id);
         }
       }
     };
@@ -84,28 +84,28 @@ export default function App() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [rolls, selectedRollId]);
 
-  const syncHash = (tab, rNum = null) => {
-    const newHash = rNum ? `#/${tab}/${rNum}` : `#/${tab}`;
+  const syncHash = (tab, id = null) => {
+    const newHash = id ? `#/${tab}/${id}` : `#/${tab}`;
     if (window.location.hash !== newHash) {
       window.location.hash = newHash;
     }
   };
 
-  const handleTabChange = (tab, rNum = null) => {
+  const handleTabChange = (tab, id = null) => {
     setActiveTab(tab);
-    // Prioritize passed roll number
-    const targetNum = rNum || (tab === 'explorer' || tab === 'verification' ? selectedRollId : null);
-    syncHash(tab, targetNum);
+    // Prioritize passed ID
+    const targetId = id || (tab === 'explorer' || tab === 'verification' ? selectedRollId : null);
+    syncHash(tab, targetId);
   };
 
-  const handleSelectRoll = (rNum) => {
-    if (!rNum) return;
-    setSelectedRollId(rNum);
+  const handleSelectRoll = (id) => {
+    if (!id) return;
+    setSelectedRollId(id);
     setRollDetail(null);
-    fetchRollDetail(rNum);
+    fetchRollDetail(id);
     // Sync hash if in detail-supporting tab
     if (activeTab === 'explorer' || activeTab === 'verification') {
-      syncHash(activeTab, rNum);
+      syncHash(activeTab, id);
     }
   };
 
@@ -363,7 +363,7 @@ export default function App() {
             <div className="glass-panel" style={{ padding: '32px' }}>
               <h3>Catalogue of Rolls</h3>
               {rolls.slice(0, 8).map(r => (
-                <div key={r.roll_num} className="roll-item active" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }} onClick={() => handleSelectRoll(r.roll_num)}>
+                <div key={r.id} className="roll-item active" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }} onClick={() => handleSelectRoll(r.id)}>
                   <div style={{ display: 'flex', gap: '20px' }}>
                     <span className="roll-num">N° {r.roll_num}</span>
                     <div><h4 style={{ margin: 0 }}>{r.title.slice(0, 60)}...</h4><span>{r.date_str}</span></div>
@@ -448,9 +448,9 @@ export default function App() {
           <div style={{ display: activeTab === 'map' ? 'flex' : 'none', flexDirection: 'column', gap: '24px' }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               <h1>Historical Itineraries</h1>
-              <select className="search-input" style={{ width: '300px' }} value={mapRollId || ''} onChange={e => setMapRollId(e.target.value)}>
+              <select className="search-input" style={{ width: '300px' }} value={mapRollId || ''} onChange={e => setMapRollId(e.target.value === 'all' ? 'all' : Number(e.target.value))}>
                 <option value="all">View All Travels</option>
-                {rolls.map(r => <option key={r.roll_num} value={r.roll_num}>N° {r.roll_num} ({r.date_str})</option>)}
+                {rolls.map(r => <option key={r.id} value={r.id}>N° {r.roll_num} ({r.date_str})</option>)}
               </select>
             </div>
 
@@ -488,10 +488,10 @@ export default function App() {
                     })
                     .map((r) => (
                       <div 
-                        key={r.roll_num} 
+                        key={r.id} 
                         className="roll-item active" 
                         style={{ cursor: 'pointer', padding: '12px' }}
-                        onClick={() => window.gotoRoll(r.roll_num)}
+                        onClick={() => window.gotoRoll(r.id)}
                       >
                         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                           <div>

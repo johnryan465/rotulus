@@ -1,31 +1,39 @@
 {
   "roll": {
-    "id": 25,
-    "roll_num": "40",
+    "id": 40,
+    "roll_num": "75",
     "date_str": "S.d.",
-    "title": "S.d. [vers 972] Premi\u00e8re variante de la formule de bref mortuaire ins\u00e9r\u00e9e dans la \u20ac Regularis concor- dia de Dunstan. La date indiqu\u00e9e est celle de la r\u00e9daction de la \u00f8 Regularis concordia ^",
-    "manuscripts": "A. Original perdu. B. London; British Library; Cotton Faustina B 3, fol. 198v (fin X' &) 10 a. Th. Symons, Regularis concordia Anglicae nationis monachorum sanctimonialiumque; London; 1953, p 66, n. f, japr\u00e8s B. INDIQU\u00c9 Th. Symons; op. cit., P. LIIL",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "24",
+    "title": "S.d. [vers 1055] Rouleau mortuaire ( fragmentaire ) dHugues, moine de Corbie. A. Original perdu. 0 , Du Cange, Glossarium, L. V; p. 810 (\u00e9d. partielle titre de $. Maur-des-Foss\u00e9s) . 6. J. Bouillart, 5 Paris, S. Germain-des-Pr\u00e9s, P.31,n. (\u00e9d. partielle titres dune \u00e9glise ind\u00e9termin\u00e9e de Paris et de S. Germain-des-Pr\u00e9s) . c.L Delisle, Rouleaux des morts du IX' au XVE 5 , P. 134, n? XXII, dapr\u00e8s a etb IvDIQu\u00c9 A. Molinier; Sources, t. IL, p. 43, n 1136. On ne sait rien de Hugues, moine de Corbie; pour lequel ce rouleau circula. 10 Les trois titres actuellement conserv\u00e9s ont \u00e9t\u00e9 sans doute trouv\u00e9s dans les gardes dun ms. de 5. Germain-des-Pr\u00e9s Le titre de $ Maur-des-Foss\u00e9s mentionne le nom de plusieurs abb\u00e9s d\u00e9funts le dernier dentre eux, Cunterius, \u00e9tait \u00e0 la t\u00eate de cette abbaye en 1043 Pour L. Delisle (loc. cit.), il faudrait donc placer le rouleau de ce moine de Corbie vers 1070. En fait, je crois que /on peut le situer plus pr\u00e9cis\u00e9ment vers 1055, sous [abbatiat de Robert successeur de Cunterius. 15",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "26",
     "is_verified": 0
   },
   "tituli": [],
   "footnotes": [
     {
-      "id": 35585,
-      "roll_id": 25,
-      "pdf_page": 24,
+      "id": 35762,
+      "roll_id": 40,
+      "pdf_page": 26,
       "pdf_half": "right",
       "footnote_num": "1",
-      "text": "Perse; Satires,  I, 27, \u00e9d. A. Cartault, Paris; 1920, P. 17."
+      "text": "LsapDe UC 0 LANulu6099e"
     },
     {
-      "id": 35586,
-      "roll_id": 25,
-      "pdf_page": 24,
+      "id": 35763,
+      "roll_id": 40,
+      "pdf_page": 26,
       "pdf_half": "right",
       "footnote_num": "2",
-      "text": ", V, 16."
+      "text": "862 \u00e0 869 par le Gallia christiana (. VII, col. 286) ."
+    },
+    {
+      "id": 35764,
+      "roll_id": 40,
+      "pdf_page": 26,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "le Gallia christiana (t. VII, col. 284 et suiv) ."
     }
   ]
 }

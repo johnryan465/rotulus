@@ -1,0 +1,39 @@
+{
+  "roll": {
+    "id": 24,
+    "roll_num": "38",
+    "date_str": "S.d.",
+    "title": "S.d. [epr\u00e8s le 18 juin 956] Bref mortuaire envoy\u00e9 par labbaye - Purchard . de $. Callen \u00e0 Voccasion du d\u00e9c\u00e8s du sous-diacre 20 A. Original perdu. B.Sankt Gallen; Stiftsbibl, 915, p 18 (X? XI' s). a.B. Haeftenus, Commemoratio tatum Sancs Gammemoralo dsfatatoenss P 798 (\u00e9d; partielle) . 6.P Fabariensis (M.G.I, Piper; Libri confraterni- Necro ) * P 143. CE. E. D\u00fcmmler; H. ler Wartmann; Todtenbuch  und St. Gal- Verbr\u00fcderungen t.XI, 1869, P 29. Mittheilungen  8 dans (2) 'zurvaterl\u00e4ndischen ( Geschichte, Ibid., P. 89. [956]",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "22,23,24",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 35582,
+      "roll_id": 24,
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "PICCC CSlnnilallon ien CuMUC Uu OcPcae rythme; soit huit syllabes (avec comme dernier mot un paroxyton, Chr\u00edst\u00ed) suivies de sept syllabes (avec comme dernier mot un proparoxyton; Remtgii) '"
+    },
+    {
+      "id": 35583,
+      "roll_id": 24,
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Ibid , P.44. Ibid.,  p. 91. Cf. infra; P. 51,n? 46 ; p.54,n? 47 ; p.69, n\" 57 ; P 72, n\" 58."
+    },
+    {
+      "id": 35584,
+      "roll_id": 24,
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "ce sujel, cf. D. Norberg Introduction \u00e0 la versification latine m\u00e9di\u00e9vale; Stockholm; 1958, P. 113 et suiv."
+    }
+  ]
+}

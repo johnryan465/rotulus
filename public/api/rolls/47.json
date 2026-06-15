@@ -1,87 +1,31 @@
 {
   "roll": {
-    "id": 29,
-    "roll_num": "47",
+    "id": 47,
+    "roll_num": "84",
     "date_str": "S.d.",
-    "title": ",jour de la Pentec\u00f4te] S\u00e0 [977 _ ou {\u00e9orit \u00e0 S Remi de Reims: Trre cersife . 1 Oricinal [ perdu . fol. 112 (6n X-d\u00e9but XI s)  B Pais B X F.lat. 8674, = du IX au XV s, p 17,n\" X (1), dapr\u00e8s B. L Delisle Rouleaux des morts 10 6 1 Dufou $ Remi de Reimss p.310. IxDrquz tilre fut compos\u00e9 dans labbaye de S. Remi de Reims; lors de la Pour L. Delisle (loc:. cit.) ce rouleau qui fut apport\u00e9 , un 'jour de Pentec\u00f4te; le 6 des calendes de juin; c'est-\u00e0-dire prescatation dun Labb\u00e9, k pricur et le pr\u00e9v\u00f4t du monast\u00e8re s appelaient du m\u00eame nom et ce nom, le 2 mais un R. s composait de trois syllabes; dont la premi\u00e8re pouvait \u00eatre employ\u00e9e 15 commen\u00e7ant par comue 'Iongue 0u comme br\u00e8ve : Rodulphus remplit assez bien ces conditions. Il y eut un Rodul- phus, abh\u00e9 de S Remi; depuis 969 jusqu en 983, et dans cette p\u00e9riode la Pentec\u00f4te arriva deux fois le 2 mei en 977 cten 983",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "29,30,31,32",
+    "title": "S.d. [1096, apr\u00e8s = septembre] Rouleau mortuaire de Jean [Ier ] , \u00e9v\u00eaque dOrl\u00e9ans. 10 Document perdu mentionn\u00e9 dans le titre de Baudri de Bourgueil pour le rouleau mortuaire d'Audebert, archev\u00eaque de Bourges (2) Jean I*\" , \u00e9v\u00eaque dOrl\u00e9ans et fr\u00e8re de Raoul II, archev\u00eaque de Tours, fut en charge de 1089 8a mort (septembre 1096) (3) En 1090-1091, il obtint de Philippe IFr un dipl\u00f4me en faveur des chanoi- nes de son \u00e9glise () _ Yves de Chartres le pr\u00e9sente; dans deux de ses lettres (5) , comme un personnage 15 particuli\u00e8rement d\u00e9bauch\u00e9. Titre de Baudri de Bourgueil Aurelianensis superest jam carta Johannis. \" tangant corrig\u00e9 en cogant par exponctuation de tan et addition en interligne de co B. () Cf. L. Delisle; Rouleaux des morts du IX' Qu XVe s , P. 144, nP XXVI ; Obituaires de la province de Sens, t. III, P. 2 ; J-H. Foulon, La 36 Danc@ do Ponoct",
+    "manuscripts": "A. Fliche, Le r\u00e8gne de Philippe I, P. 433 . (4) \u00c9d. M. Prou; Recueil des actes de Philip- pe [' , P. 310, n? CXXIIL. \u00c9d [ Leclerca   Ynes de Chartres Corres-",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "40,41",
     "is_verified": 0
   },
   "tituli": [],
   "footnotes": [
     {
-      "id": 35597,
-      "roll_id": 29,
-      "pdf_page": 30,
+      "id": 35780,
+      "roll_id": 47,
+      "pdf_page": 40,
       "pdf_half": "right",
       "footnote_num": "1",
-      "text": "Ila nlen pOur surprenare, Car Chlaquc IC aux dimensions du ms. \u00e0 relier:"
+      "text": "Ue 4L8ue Uuivo Vu  t.I, p. 239. (2) \u00c9d. infra, p. 236, n 88. Cf. Gallia christiana, t. VIII, col. 1441 ;"
     },
     {
-      "id": 35598,
-      "roll_id": 29,
-      "pdf_page": 30,
+      "id": 35781,
+      "roll_id": 47,
+      "pdf_page": 40,
       "pdf_half": "right",
       "footnote_num": "2",
-      "text": "son sujet, cf. E. D\u00fcmmler; Die hands- chriftliche Ueberlieferung der lateinischen Dichtungen aus der Zeit der Karolinger % dans Neues   Archiv, t. IV, 1879, P. 104-106= B. N Catalogue g\u00e9n\u00e9ral des manuscrits latins; Paris; t.I, 1939, P. 184."
-    },
-    {
-      "id": 35600,
-      "roll_id": 29,
-      "pdf_page": 30,
-      "pdf_half": "right",
-      "footnote_num": "5",
-      "text": "r\u00e9f\u00e9rence;   omise par  L. Delisle (Rouleaux des monts du IX* au XV' s), m'a\u00e9t\u00e9 signal\u00e9e par M:. Jean-Loup Lema\u00eetre: (3) \u00c9d. supra; p. 56,n\" 48. CE. Gallia christiana; t. II, col. 358. (5) Cf. supra; P 56,n.2"
-    },
-    {
-      "id": 35599,
-      "roll_id": 29,
-      "pdf_page": 30,
-      "pdf_half": "right",
-      "footnote_num": "19",
-      "text": "IC parcucuun"
-    },
-    {
-      "id": 35601,
-      "roll_id": 29,
-      "pdf_page": 31,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "Pooluru"
-    },
-    {
-      "id": 35602,
-      "roll_id": 29,
-      "pdf_page": 31,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "neclanlur"
-    },
-    {
-      "id": 35603,
-      "roll_id": 29,
-      "pdf_page": 31,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "de H. Tribout de Morembert (op: cil., P: 192-193), selon laquelle le ms. Metz, B M; 377 aurait pour origine non S. Avold, mais Fulda; me semble sans fondement."
-    },
-    {
-      "id": 35604,
-      "roll_id": 29,
-      "pdf_page": 31,
-      "pdf_half": "right",
-      "footnote_num": "4",
-      "text": "compagine; Ul, IicCt Iocorui Yastioshinla"
-    },
-    {
-      "id": 35605,
-      "roll_id": 29,
-      "pdf_page": 31,
-      "pdf_half": "right",
-      "footnote_num": "5",
-      "text": "CC. Col , IIL, 14 Super , omnia autem haec,  charitatem   habete; quod Cl vinculm pcrfectionis"
+      "text": "pondance, L. I, Paris,   1949, P. 282, n? 65 ; p. 290, n? 66."
     }
   ]
 }

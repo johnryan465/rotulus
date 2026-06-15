@@ -1,23 +1,111 @@
 {
   "roll": {
-    "id": 19,
-    "roll_num": "31",
+    "id": 31,
+    "roll_num": "54",
     "date_str": "S.d.",
-    "title": "puie \u00e9v\u00eaque de Laon en 921, mort en 930 Ainsi; ' sur des feuillets non utilis\u00e9s du ms. Paris B,Ainf _ Datte forrgule,conmela plupart de celles lat. 11379, daterait du ajout\u00e9es premnier quart du X & X kal. aprilis venit gerulus apicum vestrorum gius pontifex ill. pastorali funglitur officio] in mfonte] Lauduni; [ubi] egre- illi Jargito[r   Precamur   venerJabillem]   paternitatem praepositurae; ill. dapsilis 7 Bernardo decano ill . thesaurario, | atque . fraternitatem   vestram 5 ad contigua loca innot[escere eorum nomina [Domini misericordiJam exoretis et faciatis] 31 S.d. [premier quart du X' &] Troisi\u00e8me formule de r\u00e9ponse aux brefs mortuaires \u00e0 lusage ' de Laon. 10 A. Original perdu. B. Paris, B. N. F. lat. 11379, fol. 15 (endommag\u00e9 ; addition du X' s). a. E. de Rozi\u00e8re, Formules, 2 partie; P. 962, n' 694. 6. K. Zeumcr, Formulae merowingici et karolini aevi ( M. G. H , Leges) P. 518,n\" 13.~c.JJ Contreni; Le formulaire de Laon. Source pour lhistoire de l\u00e9cole de Laon au d\u00e9but du X' s % dans Scriptorium, L. XXVII, 1973, 15 P. 26, dapr\u00e8s b_ Sur lidentification de Bernard, doyen de Laon, cf. supra, P. 30.",
+    "title": "S.d. [fin X? s]",
     "manuscripts": "",
     "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "17",
+    "pdf_pages": "34,35,36",
     "is_verified": 0
   },
   "tituli": [],
   "footnotes": [
     {
-      "id": 35571,
-      "roll_id": 19,
-      "pdf_page": 17,
+      "id": 35614,
+      "roll_id": 31,
+      "pdf_page": 34,
       "pdf_half": "right",
       "footnote_num": "1",
-      "text": "f,VurourmaldceilyaCleJ UCr CuCyCy"
+      "text": "Cuncla quC Vuul"
+    },
+    {
+      "id": 35615,
+      "roll_id": 31,
+      "pdf_page": 34,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "partie sup\u00e9ricure du {6L Iv cat occuz p\u00e9e par des textes sans rapport aec Ieu roulcuux des morts : isagt dantienncv pout |ea [Ftcs de Jean [\u00c9vangeliste Gl dcsEminl; Innocrnt: (\u00e9criture du XI *) Sur le ms Panis, B, NE,"
+    },
+    {
+      "id": 35617,
+      "roll_id": 31,
+      "pdf_page": 34,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Znl( :p74 @ W Cbl \u20ac;: liomn AAsrMnf u} Jalo (fu Flayl Ma solalan cO Erclrs, VIL 2;+ d\u0131ra nrtin [achnr catlala Hativilagi"
+    },
+    {
+      "id": 35616,
+      "roll_id": 31,
+      "pdf_page": 34,
+      "pdf_half": "right",
+      "footnote_num": "90",
+      "text": "SoiCPrhuurns a"
+    },
+    {
+      "id": 35618,
+      "roll_id": 31,
+      "pdf_page": 35,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "En in que celle du texte, quid , maneal"
+    },
+    {
+      "id": 35619,
+      "roll_id": 31,
+      "pdf_page": 35,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": ", XLI, 1."
+    },
+    {
+      "id": 35620,
+      "roll_id": 31,
+      "pdf_page": 35,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "terligne, au-dessus des = ruooccit mots eadem vite &unc autte ecriture"
+    },
+    {
+      "id": 35621,
+      "roll_id": 31,
+      "pdf_page": 35,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": "Ps. XCL 15 6 Adhuc multiplicantur in scnecla ubcri"
+    },
+    {
+      "id": 35622,
+      "roll_id": 31,
+      "pdf_page": 35,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "ae"
+    },
+    {
+      "id": 35623,
+      "roll_id": 31,
+      "pdf_page": 35,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "S"
+    },
+    {
+      "id": 35624,
+      "roll_id": 31,
+      "pdf_page": 35,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "d\u0131ns L\u0131 srrnnude manntir du % \u20ac 8 0f L Holpten + 5, Lot, Rerulell (Laf (las (u Lathoifw rE de Lotis V 6eo3 F9 CE Clsla4u: (hluwin  hasgtagfuphmu"
+    },
+    {
+      "id": 35625,
+      "roll_id": 31,
+      "pdf_page": 35,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Busellae Eue cr Viliee & >  Bonlwn L/n 8e\"uf Ewe Nk;"
     }
   ]
 }

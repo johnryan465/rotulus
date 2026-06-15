@@ -1,39 +1,14 @@
 {
   "roll": {
-    "id": 24,
-    "roll_num": "38",
+    "id": 38,
+    "roll_num": "73",
     "date_str": "S.d.",
-    "title": "S.d. [epr\u00e8s le 18 juin 956] Bref mortuaire envoy\u00e9 par labbaye - Purchard . de $. Callen \u00e0 Voccasion du d\u00e9c\u00e8s du sous-diacre 20 A. Original perdu. B.Sankt Gallen; Stiftsbibl, 915, p 18 (X? XI' s). a.B. Haeftenus, Commemoratio tatum Sancs Gammemoralo dsfatatoenss P 798 (\u00e9d; partielle) . 6.P Fabariensis (M.G.I, Piper; Libri confraterni- Necro ) * P 143. CE. E. D\u00fcmmler; H. ler Wartmann; Todtenbuch  und St. Gal- Verbr\u00fcderungen t.XI, 1869, P 29. Mittheilungen  8 dans (2) 'zurvaterl\u00e4ndischen ( Geschichte, Ibid., P. 89. [956]",
-    "manuscripts": "",
+    "title": "[premi\u00e8rc moiti\u00e9 du XI' s] S.d. dun rouleau mortuaire anonyme: Titres ~provenant Dcux tituli furent 'copi\u00e9s , en t\u00eate dun ms. provenant de S. Victor de Paris (comme Tindiquent les anciennes cotes \u20ac Saint-Victor DD 18, 92, 65 v). Compos\u00e9s de 14 et de 25 vers; ils sont anonymes. Pour L Delisle (loc ci:) dont jadopte lavis, ils dateraient de la premi\u00e8re moiti\u00e9 du XI' &. le second 10 aurait \u00e9t\u00e9 compos\u00e9 \u00e0 [abbaye de Fleury: S.d. - Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es. Si nil post obitum prodest commissa fateri Vec tua mutatur fixis sententia verbis; Hoc concede michi; nulla quod= Jege ~ vetatur 15 Fratres quinque modo descendens  'luce reliqui, His peto; mittatur qui vivos corrigat ante Intormenta cadunt quam talia carne soluti. Nam quamvis  duro Si persistant corde rebelles; 'tamen ohstructa 20 Credent , 'quisquam de morte rediret, Ille  Jexperto poenasque intrare timebunt. quidem poscens effectum non Nos  autem, dum vita cupit ullum. Olim manet, defuncti- dum` lege = perterret vigemus; Dum locus , nuntius est Adam, 25 flendi; Nec , dumn obduratis ` non injusta petuntur; 'pulsatur janua seris (id est tardis) . Hesit amore 2 pio S.d. - semper Fleury ` ? Grata  isalutiferis  medicamina deitatis = danti ab arce coronis; En  marge de B, variante 'discedens. (6) Num B. (0) Sic B.",
+    "manuscripts": "Original [ [perdu. B Paris B NE Jat. 14491, fol. (XI s) L Delisle, Rouleaux des monts du IX' au XV s, p 47,n9 XVIII, dapr\u00e8s B.",
     "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "22,23,24",
+    "pdf_pages": "70",
     "is_verified": 0
   },
   "tituli": [],
-  "footnotes": [
-    {
-      "id": 35582,
-      "roll_id": 24,
-      "pdf_page": 22,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "PICCC CSlnnilallon ien CuMUC Uu OcPcae rythme; soit huit syllabes (avec comme dernier mot un paroxyton, Chr\u00edst\u00ed) suivies de sept syllabes (avec comme dernier mot un proparoxyton; Remtgii) '"
-    },
-    {
-      "id": 35583,
-      "roll_id": 24,
-      "pdf_page": 22,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "Ibid , P.44. Ibid.,  p. 91. Cf. infra; P. 51,n? 46 ; p.54,n? 47 ; p.69, n\" 57 ; P 72, n\" 58."
-    },
-    {
-      "id": 35584,
-      "roll_id": 24,
-      "pdf_page": 22,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "ce sujel, cf. D. Norberg Introduction \u00e0 la versification latine m\u00e9di\u00e9vale; Stockholm; 1958, P. 113 et suiv."
-    }
-  ]
+  "footnotes": []
 }

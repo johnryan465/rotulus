@@ -1,14 +1,146 @@
 {
   "roll": {
-    "id": 45,
-    "roll_num": "82",
+    "id": 82,
+    "roll_num": "136",
     "date_str": "S.d.",
-    "title": "S.d. [1096, apr\u00e8s _ le 5 mai] Baudri de Bourgueil pour le rouleau mortuaire de No\u00ebl [I' ],abb\u00e9 de Titre compos\u00e9 par S. Nicolas d Angers. 20 A. Original perdu. B. Vaticano; Reg lat. 1351, fol. 26 (XIIS s)  Paris, t. IV, 1641, P. 251, 0 ex veteri codice ms. a. A. Duchesne; Historiae Francorum scriptores; col. 671, dapr\u00e8s a (\u00e9d. partielle) . =c. PL, Alexandri Petavii \" 6. Gallia christiana, t. XIV, po\u00e9tiques de Baudri de Bourgueil (1046- t. CLXVI, col. 1181. d. P. Abrahams; Les \u00e6uvres Vatican.  , Paris, 1926, p. 56-58, n 0a XLIX; L et 25 1130 ). \u00c9dition critique , publi\u00e9e  japr\u00e8s le ms. du Burgulianus: Carmina, Heidelberg; 1979, 44, n? 14 ; LI, dapr\u00e8s B.- e K Hilbert, Baldricus Paris, t. I, 1998, 03 15et 16, dapr\u00e8s B. ~ f J-Y Tilliette, Baudri de Bourgueil. Po\u00e8mess P. 45, n p. 39, n 14. TRADUCTION : J-Y. Tilliette, loc: cit. XXVI. ~ L. Delisle, Notes 3 L Delisle; Rouleaux des morts du IX\" au XVE S.; P 144, n INDIQU\u00c9 31, n? XLIX. de Baudri; abb\u00e9 de Bourgueil % dans Romania; L I, 1872, P sur les po\u00e9sies 2 7 E.1. E. Raby, A history of christian latin poerrg, L Delisle; Vital de Savigny; P. 10, n. dans la France de Bouest, L.L p 239. 280 . ~J-3.Foulon, La r\u00e9forme de V\u00c9glise  Oxford, 1927, P.",
+    "title": "S. d. [vers 1150] 5 Encyclique sollicitant de prier pour Selvo; abb\u00e9 de Susa. di Stato, Corte, Materie ecclesiastice, Abbazia di S. Giusto di Susa, mnazzo 2 bis, A. Torino; Archivio XI  Parchemin (\u00e9pais C. \u20ac. jaun\u00e2tre ; c P: jaune fonc\u00e9)  Deux feuilles fasc. 1, feuilles X et tenues lune \u00e0 [autre par un passant de parchemin (large de 0,5 cm) Longueur anopisthographes, 16 cm. Mauvais \u00e9tat g\u00e9n\u00e9ral de conservation 10 totale, 47 cm largeur; ~X : Longueur; 41 cmn ; largeur; 16 cm =XI : Longueur; 6 cm ; largeur; 16 cm. M. P. Niccoli; Bosone, p. 98, dapr\u00e8s A (\u00e9d. fautive) . 0. Rotoli mortuari, P 12. Archivio J. Dufour; Boson; abb\u00e9 de Suse, P. 253. E. Mongiano; [NDIQU\u00c9 il governo dello Stato, 15 0l Tesoro del principe. Titoli; carte; memorie per di Stato di Torino Torino; 1990, P. 186. constitu\u00e9 essentiellement par le rouleau partie dun document composite; Cette encyclique fait (() reprend presque totalement circula plus t\u00f4t elle en qui mort mortuaire de Bosone; abb\u00e9 de Susa, mentionn\u00e9s; \u00e0 savoir F'abb\u00e9 Selv\u00f8 le nom des d\u00e9funts Johannes Borelli . 20 Tencyclique; ne s'en distinguant que par Bosone), le prieur exactement sous les m\u00eames traits que imprim\u00e9s ici en petit un 17 mars (et peint encycliques sont aux deux et divers moines de Susa. Les passages communs g\u00e9n\u00e9raur que celle de texte. emploie des termes plus et en Italie. Tadresse de cette encyclique circula \u00e0la fois en France Toutefois, comme mentionne 25 mortuaire de Selvo 1147 Bosone, on peut supposer que le rouleau d\u00e9livr\u00e9 \u00e0 Susa le 8 mars examen pal\u00e9ographique Sene ,on \u00e6ete' aupp\u00e9d\u00e9e IIL, comte de Mauriennevel\u00e9lilI50, date qu'un cet abb\u00e9 mourut Tabb\u00e9 Selvo.  On peut penser que assigne \u00e0 lencyclique. scedula fuerit per- ad quos] hec Dei [fJidellibus, Universis Sancte Fcclesie religiosissimis monasterii varie- 30 Mauri Secusiensis circumdata Justi] et lata, vestitu deaurato;] congregatio   [Sanctorum reg[ina_ in >-ram; a cujus dextris astitit dellIstituto Bulletino . 1, dans 18, 1896, Susa (1029-1212) il medio evo; 600, n' 127. italiano _ per \u00c9d. supra, P. carte storico \u00c9d . Le pi\u00f9 antiche VII C. Cipolla, di P. 94,n diplomatiche  del monasterio di S. Giusto",
     "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "38,39",
+    "pdf_source": "Dufour T1 (4)",
+    "pdf_pages": "58,59,60,61,62,63,64,65",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": []
+  "tituli": [
+    {
+      "id": 46978,
+      "roll_id": 82,
+      "title": "T. Sancte Marie Bolonie. Anima domni Galteri abbatis et a. 0 f. d. r i. p. Amen. 15 Oravimus p. Y., ",
+      "location_name": "Sancte Marie Bolonie",
+      "latin_text": "[IIv; c p ] S.d.- Boulogne[-sur-Mer]  S. Vulmer: T. Sancti Vulmari de Bolonia. Anima domini Galteri et a. 0. f. d. r. i. p. Amen. Oravimus p. 1., orate p. n. 8 S.d.- Beaulieu, N-D. 20 [Titulus () Sancte] Marie de Bello Loco. Anima domni Galteri abbatis et a. 0 f. d. c.i. p A[men ] Le second i de ce mot est ajout\u00e9 (c) en lettres se interligne. distingue. L\u00e9criture de ce Seule la partie inf\u00e9rieure de quelques de Fenronlemen titre;  appos\u00e9 sur le 4Lo lors",
+      "pdf_page": 60,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 36130,
+      "roll_id": 82,
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "G"
+    },
+    {
+      "id": 36131,
+      "roll_id": 82,
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "> Cf. Ps., LXXXIII, 7 : < in valle lacryma- rumn > Cf. Ps., CII, 15 : homo; sicut   foenum dies ejus; tanquam flos agri sic efflorebit w. Cf. Job, VII, 1 : < et sicut dies mercenarii; dies ejus \""
+    },
+    {
+      "id": 36132,
+      "roll_id": 82,
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "mnul, Ulel conglorificemur \" (6) Cf. Gal., VI, 2 Alter alterius onera por- tate et sic adimplebitis (7) legem Christi 9  Cf. Job; XXX; 31 Versa est in luctum cithara mea, et organum meum in vocem flen- tium %"
+    },
+    {
+      "id": 36133,
+      "roll_id": 82,
+      "pdf_page": 60,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "; Son d Angers image; (\u00e0ce sujet, cf.a, P. 141) ."
+    },
+    {
+      "id": 36134,
+      "roll_id": 82,
+      "pdf_page": 60,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "1`"
+    },
+    {
+      "id": 36135,
+      "roll_id": 82,
+      "pdf_page": 60,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "ujourd'hui FullCuu> Clailencoreftuiciy invers\u00e9e, se trouve sur le titre de $. Martin"
+    },
+    {
+      "id": 36137,
+      "roll_id": 82,
+      "pdf_page": 61,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "ce personnage; cf. supra, P. 473, n.5. Sur ce personnage; cf. supra, P. 473, n.6 Sur ce personnage, cf. supra, P- 473, n.9"
+    },
+    {
+      "id": 36138,
+      "roll_id": 82,
+      "pdf_page": 61,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "$ Maur II abb\u00e9 (EviLe cul Theobaldus Callia ,  christiana [ Foss\u00e9a, ' cit\u00e9 [ par Ie 107 , \u00e0 1126 292) de"
+    },
+    {
+      "id": 36136,
+      "roll_id": 82,
+      "pdf_page": 61,
+      "pdf_half": "right",
+      "footnote_num": "7",
+      "text": "nlamnque Mnon perParnon"
+    },
+    {
+      "id": 36139,
+      "roll_id": 82,
+      "pdf_page": 62,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "bibliographie = sur ce \u0153uvre est   Lr\u00e8s 'personnage et son abondante Gilbert cf. en particulier de La Porr\u00e9e % col. dans 1350-1358 (F. D. TC, 1 VI, 2 Vernet) 1810-1811 = et D: TC, 6 Gilbert Tables, col. DHGE, t. de La   Porr\u00e9e  XX; col. \" dans 1331-1332."
+    },
+    {
+      "id": 36140,
+      "roll_id": 82,
+      "pdf_page": 62,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "pontificalis; 8 el 12, \u00e9d. $ M. Chibnall; London; 1956, P. 15 et 26. (3) \u00c9d.  Obituaires de la province de Sens; t. II, p. 89 \u00e0 ce sujet, cf. aussi N. M. H\u00e4ring Epitaphs and necrologies  \" P. 72-74."
+    },
+    {
+      "id": 36142,
+      "roll_id": 82,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Cf. Tob., II, 6 : < Dies festi vestri conver- tentur in lamentationem et luctum % (15) Cf. Job, XXX; 31 ( et organum meum in vocem flentium 9 ."
+    },
+    {
+      "id": 36141,
+      "roll_id": 82,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "783",
+      "text": "Al, 0*( : * Omnis caro omnis gloria ejus quasi foenum, flos et foenum et cecidit agri. flos Exsiccatum 0 . est"
+    },
+    {
+      "id": 36144,
+      "roll_id": 82,
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Cf. [ Col  ejus in Me vuu sum et gratia . sum id quod . fuit ^"
+    },
+    {
+      "id": 36143,
+      "roll_id": 82,
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "footnote_num": "09",
+      "text": "uie quennquai Ue filiis suis agnoscitur vir \" Cf. Luc., II, 52 proficiebat sapientia et aetate (5) Cf. Ps, I, 2 : in lege Ejus meditabitur"
+    }
+  ]
 }

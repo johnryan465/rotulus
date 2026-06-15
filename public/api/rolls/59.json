@@ -1,215 +1,106 @@
 {
   "roll": {
-    "id": 33,
-    "roll_num": "59",
+    "id": 59,
+    "roll_num": "99",
     "date_str": "S.d.",
-    "title": "S.d. [X' s] Encyclique anonyme. A. Original perdu. B. \u00c9pinal, B. M., ms. 74 (161), fol. 2 (X' s) (1) . 20 Le ms. 74 (161) d\u00c9pinal provient de Tabbaye de Moyenmoutier (2)",
+    "title": "S.d. [fin XI s.-d\u00e9but XII s.] 20 Rouleau mortuaire (fragmentaire) dun abb\u00e9 nomm\u00e9 Girard. hemin (c etc iaun\u00e2tres)Un fragment",
     "manuscripts": "",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "38,39,40,41,42,43,44,45,46",
+    "pdf_source": "Dufour T1 (2)",
+    "pdf_pages": "51,52,53,54,55",
     "is_verified": 0
   },
-  "tituli": [],
+  "tituli": [
+    {
+      "id": 46701,
+      "roll_id": 59,
+      "title": "T. Sancti Andre Viennensis cenobii. Anima ejus et animae 0 f. d. r i. P. Amen: 15 Orate n., domno ab",
+      "location_name": "Sancti Andre Viennensis cenobii",
+      "latin_text": "est illisible en raison du tr\u00e8s mauvais \u00e9tat du_ parchemin B donne une suite En A, une ligne de noms de personnages d\u00e9funts Simone episcopo; Albrico; Bernardo, Richardo; Gerclino; que je retiens \u00e0 lexception du premier en effet, Simon de Vermandois fut \u00e9v\u00eaque de Noyon et de Tournai, puis seulement de Tournai, uniquement de Il21\u00e0 1148 (cf Gallia christiana; t IX,col. 1000-1002 ) mentionn\u00e9 dans les divers titres de ce rouleau n 'appartient au XII s.,\u00e0 OT, aucun autre personnage plus forte raison au milieu de ce si\u00e8cle, et Vensemble des \u00e9critures date de la fin du XI ou du debut du XII s (1) en 988 par le Abb\u00e9   dHombli\u00e8res;   cit\u00e9   par le  Gallia Abb\u00e9  dHombli\u00e8res;   cit\u00e9 christiana (t. IX, col. 1076) de 1030 \u00e0 1043. Gallia christiana (t. IX, col. 1076). (6) Abb\u00e9   dHombli\u00e8res,   cit\u00e9  par le Gallia (2) Abb\u00e9 dHombli\u00e8res,   cit\u00e9  par le   Gallia christiana (t. IX, col. 1077) de 1043 \u00e0 1049. christiana (L. IX, col. 1077) de 1059 \u00e0 1074 . (3) Le Gallia christiana (t. IX, col. 1076 et Apoc., III, 5. liste des abb\u00e9s Le Gallia christiana (t. IX, col. 612) cite 1077) mentionne, dans sa Richardus I de 1018 \u00e0 1025 et pour la fin du XI s. un abb\u00e9 de S. Nicolas-aux- d' 'Hombli\u00e8res; Richardus II en 1095. Bois nomm\u00e9 Letbaldus. dans la liste (9) Abb\u00e9 de S. Andr\u00e9-le-Bas de Vienne cit\u00e9 Ce personnage n 'appara\u00eet pas des   abb\u00e9s   de  Hombli\u00e8res cf. Gallia   chris- par le Gallia christiana (L. XVI, col. 177) de tiana, t. IX, col. 1076 et suiv. Hombli\u00e8res ^ 1036 \u00e0 1050. dans D.H.GE, t. XXIV, col. 929 (G. Michiels) .",
+      "pdf_page": 52,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
   "footnotes": [
     {
-      "id": 35629,
-      "roll_id": 33,
-      "pdf_page": 38,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "\"Pies &,le Copisle Q Oills Le Uefilei ilulUC CC Ueio ultraviolets."
-    },
-    {
-      "id": 35630,
-      "roll_id": 33,
-      "pdf_page": 38,
+      "id": 35820,
+      "roll_id": 59,
+      "pdf_page": 51,
       "pdf_half": "right",
       "footnote_num": "2",
-      "text": "UCJu"
+      "text": "Les deux premi\u00e8res lignes, en capitales , de 1 \u00e0 2,2 cm pour lautre, sont compos\u00e9es de Ineffabilis mesure 16 cm de haut sur 4,5 cm d"
     },
     {
-      "id": 35631,
-      "roll_id": 33,
-      "pdf_page": 38,
+      "id": 35821,
+      "roll_id": 59,
+      "pdf_page": 51,
       "pdf_half": "right",
       "footnote_num": "3",
-      "text": "r\u00e9f\u00e9rence m'a \u00e9t\u00e9 aimablement communiqu\u00e9e par Bernhard Bischoff. (2) Sur ce Ms , cf. Catalogue g\u00e9n\u00e9ral des"
+      "text": "fol. 24 constitue le sixi\u00e8me fragme de ce ms. composite. (2) On a copi\u00e9 au verso; au XIIS 8., le d\u00e9but"
     },
     {
-      "id": 35632,
-      "roll_id": 33,
-      "pdf_page": 38,
+      "id": 35819,
+      "roll_id": 59,
+      "pdf_page": 51,
       "pdf_half": "right",
       "footnote_num": "4",
-      "text": "mss.  des Biblioth\u00e8ques publiques de France, in-49 , Paris, L. IIL, 1861, P 430."
+      "text": ". Far\u0131s. BlbL . sa\u0131nte-Genevleve, IllS. 12uu, Iui opisthographe. Longueur; 35,5 cm ; largeur"
     },
     {
-      "id": 35633,
-      "roll_id": 33,
-      "pdf_page": 39,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "[CesencrQu Coinenlaiculd o"
-    },
-    {
-      "id": 35634,
-      "roll_id": 33,
-      "pdf_page": 40,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "ExoramnuS geniDuS ClemnenLaIII paleri tis alumpnis concionis; quorum huic inserere te compendiosa sit menbranula. Valete in Christo."
-    },
-    {
-      "id": 35637,
-      "roll_id": 33,
-      "pdf_page": 40,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "dans M\u00e9moires de V Acnd\u00e9m\u00ede imps de Metz, L XLIV, 1862-1863,2 partic, 128) ne ment\u00edonnent cette abbesse"
-    },
-    {
-      "id": 35635,
-      "roll_id": 33,
-      "pdf_page": 40,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "Gallia christiana (t. XIII, col. 833) , Metz ni E. de Bouteiller Notice sur les anciennes riale abbayes de Saint-Pierre et de Sainte-Marie de p 25"
-    },
-    {
-      "id": 35636,
-      "roll_id": 33,
-      "pdf_page": 40,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "lalls, UlluPsun HUoliUAul ou mptamus enarithmata; quamvis 25 Amen."
-    },
-    {
-      "id": 35638,
-      "roll_id": 33,
-      "pdf_page": 42,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "icur)uu Personner U AdDOn) Per"
-    },
-    {
-      "id": 35639,
-      "roll_id": 33,
-      "pdf_page": 42,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "\u00c9d. H.  Zimmermann, Papsturkunden (896- 1046 ) , Wien, t. II, 1985, p. 655, n + 335 (13 novembre 996) cf. Jaff\u00e9, nS 3872 (2961) E Lot, \u00c9tudes sur le r\u00e8gne de Hugues Capet , el la fin du X 5., Paris; 1903, P 273-275 . A son sujet et sur sa r\u00e9gion; cf. notam- ment A. Notter - etA. Bosc, \u00e9d. Lumieres delan mil en Orl\u00e9anais. Autour du millenaire dAbbon de Fleury , Turnhout, 2004 ; Cabbaye"
-    },
-    {
-      "id": 35640,
-      "roll_id": 33,
-      "pdf_page": 42,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "supposcr quC MC noindfcuses Cbiiscs"
-    },
-    {
-      "id": 35641,
-      "roll_id": 33,
-      "pdf_page": 42,
-      "pdf_half": "right",
-      "footnote_num": "4",
-      "text": "Fleury , en Van mil  passim. A. Vidier (op cit  P 121) fait \u00e9tat \u00e0 tort de deux pi\u00e8ces de vers transcrites au XI' & dans le ms, 259 (215) &'Orleans [p 3031] car |es d\u00edts  poemca (de etyle identique) n'ont pas 6 MU n rouleau funfraire exp\u00e9di par apposes Fleury; mais 0 Toccaaion du paseage de rotuli ind\u00e9terminre dans cette abbaye (  Torigine infra, p 25L,n' 96)"
-    },
-    {
-      "id": 35642,
-      "roll_id": 33,
-      "pdf_page": 43,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "IOI LIICIO SapOrC, IllOlIUI 9 remur; non moreremur:"
-    },
-    {
-      "id": 35643,
-      "roll_id": 33,
-      "pdf_page": 43,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "Ce: Gallia = christiana, t. IX, col. 227 . Cf. Rom. VIII, 17 ; heredes   quidem"
-    },
-    {
-      "id": 35644,
-      "roll_id": 33,
-      "pdf_page": 43,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "Dei, timu"
-    },
-    {
-      "id": 35645,
-      "roll_id": 33,
-      "pdf_page": 43,
-      "pdf_half": "right",
-      "footnote_num": "4",
-      "text": "Capuivilale . Ji iioi Peicguna 36"
-    },
-    {
-      "id": 35646,
-      "roll_id": 33,
-      "pdf_page": 43,
+      "id": 35823,
+      "roll_id": 59,
+      "pdf_page": 51,
       "pdf_half": "right",
       "footnote_num": "5",
-      "text": "autem Chr\u00edsti ; \u00ed tamen compv ~Ilcl conglorificemur ,"
+      "text": "de 3,2 cm pour lune, en onciales et minuscules ettres 'parfois enclav\u00e9es. Linitiale I, dessinee; du mot large. () La suite de ce texte est tronqu\u00e9e."
     },
     {
-      "id": 35647,
-      "roll_id": 33,
-      "pdf_page": 44,
+      "id": 35824,
+      "roll_id": 59,
+      "pdf_page": 51,
       "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "nt"
+    },
+    {
+      "id": 35825,
+      "roll_id": 59,
+      "pdf_page": 51,
+      "pdf_half": "right",
+      "footnote_num": "7",
+      "text": "vie de 8 Aigulphe par Adrevald, moine de Fleury (cf. BHL, n 02 32 et 33)."
+    },
+    {
+      "id": 35826,
+      "roll_id": 59,
+      "pdf_page": 51,
+      "pdf_half": "right",
+      "footnote_num": "8",
+      "text": "de"
+    },
+    {
+      "id": 35822,
+      "roll_id": 59,
+      "pdf_page": 51,
+      "pdf_half": "right",
+      "footnote_num": "23",
+      "text": "cm."
+    },
+    {
+      "id": 35827,
+      "roll_id": 59,
+      "pdf_page": 52,
+      "pdf_half": "left",
       "footnote_num": "1",
-      "text": "JUeAUId uccuraLI, UlILaLC secundi ordinis ampliati. Electam multum nutrivit regula caedrum. Artibus imbutum quis non deflebit alumnum ? Nona dies julii quem sustulit ante kalendas; Cum sol a tropico vibraret lumina cancro. (1) CE: Jac., 1, 19 : < tardus autem ad loquendum"
+      "text": "sujet; cf. notamment survey of the E.K. Rand, A manuscripts of Tours, (Mass ), t. I, 1929, P. 109,n Cambridge 32. noter cependant que le Gallia tiana (. XIV, col: 175 et 205) ne chris- de dignitaire de S. Martin de mentionne pas Girard pour Tours d\u00e9nomm\u00e9 P\u00e9poque de ce rouleau ."
     },
     {
-      "id": 35648,
-      "roll_id": 33,
-      "pdf_page": 44,
-      "pdf_half": "right",
+      "id": 35828,
+      "roll_id": 59,
+      "pdf_page": 52,
+      "pdf_half": "left",
       "footnote_num": "2",
-      "text": "noncslale Insgnil1, MOnOiC"
-    },
-    {
-      "id": 35649,
-      "roll_id": 33,
-      "pdf_page": 44,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "35"
-    },
-    {
-      "id": 35650,
-      "roll_id": 33,
-      "pdf_page": 45,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "eclecilCelUcicaou("
-    },
-    {
-      "id": 35651,
-      "roll_id": 33,
-      "pdf_page": 45,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": ", en 69 Touraine \" dans DHGE,L XX;col. (G. Suint ] Oury) G. Ouri, monastique La reconstruction LIY; dans [Ouest. Cabb\u00e9 Cauzbeet de"
-    },
-    {
-      "id": 35652,
-      "roll_id": 33,
-      "pdf_page": 45,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "Uogcee"
-    },
-    {
-      "id": 35653,
-      "roll_id": 33,
-      "pdf_page": 45,
-      "pdf_half": "right",
-      "footnote_num": "4",
-      "text": "de Tours %, dans Revue Mabillon; [964, p 69-124 LPL,LCXXXIX,col 425,\" VIIL"
+      "text": "ce au sujet, cf. J premier Bousquet, Moyen Le Rouergue Rodez, LI, Age 1992, (vers 8OO-vers 1250), A P ce 298-311. d' Albi,  sujet,  cf. de 1 Cahors - Dufour; Les   \u00e9v\u00eaques fin du XIIS et de Rodez 8.3 Paris, des _ origines \u00e0 la 1989, p. 85-86."
     }
   ]
 }

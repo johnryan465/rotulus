@@ -1,0 +1,31 @@
+{
+  "roll": {
+    "id": 20,
+    "roll_num": "32",
+    "date_str": "S.d.",
+    "title": "S.d. [prcmier quart du X's] Encyclique sollicitant de 'prier \"pour Gerbert et larchidiacre Gautier; membres du cha- pitre de Reims. 5 4. Original perdu. a.Ede Rozi\u00e8re; Formules; 2 partie; p 956, n\" 687. = b. L. Delisle; Rouleaux des morts du IX\"  au XV s. 'p5, \"9 IV; d\u00e6pr\u00e8s B.-c. K.Zeumer; Formulae merowingici et karolini aevi ( M. G HL.; Leges) p. 515,2% 6.",
+    "manuscripts": "B. Paris B.K.E.lat. 11379, fol. 18r (addition du X' s)",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "18",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 35572,
+      "roll_id": 20,
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "anlegamus, quanllu ICYULUALUO"
+    },
+    {
+      "id": 35573,
+      "roll_id": 20,
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "non identifi\u00e9e."
+    }
+  ]
+}

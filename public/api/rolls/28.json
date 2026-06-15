@@ -1,0 +1,79 @@
+{
+  "roll": {
+    "id": 28,
+    "roll_num": "46",
+    "date_str": "S.d.",
+    "title": "S.d. [apr\u00e8s fevricr 979] Titre versifi\u00e9 \u00e9crit \u00e0 Fleury: A. Original perdu. B. Paris, B.N. F.,lat. 8674, fol. 112 (fin X'-d\u00e9but XI 6) a. L. Delisle; Rouleaux des morts du [X' au XV & , P 19,n\" X(2), dapres B. 25",
+    "manuscripts": "",
+    "pdf_source": "Dufour T1 (1)",
+    "pdf_pages": "27,28",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 35589,
+      "roll_id": 28,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "passage necnonque Cngisll, Ouulllulllol haute duS de Sole. (b) Diverses variantes, abtegees et plac\u00e9cs en interlignc parenth\u00e8ses."
+    },
+    {
+      "id": 35590,
+      "roll_id": 28,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "CE. GaL, VI, 2: Alter alterius oncra por- late ."
+    },
+    {
+      "id": 35591,
+      "roll_id": 28,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Sens Inc tiana, t XIL eol 109<"
+    },
+    {
+      "id": 35592,
+      "roll_id": 28,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "ulecs eu enure"
+    },
+    {
+      "id": 35593,
+      "roll_id": 28,
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "du Callla chris'"
+    },
+    {
+      "id": 35594,
+      "roll_id": 28,
+      "pdf_page": 28,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "D ; Coinbez lraliscchucio; B ; corrigez patrono. (d) Dapr\u00e8s a,il faut peut-\u00eatre"
+    },
+    {
+      "id": 35595,
+      "roll_id": 28,
+      "pdf_page": 28,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "lire exanimus."
+    },
+    {
+      "id": 35596,
+      "roll_id": 28,
+      "pdf_page": 28,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "B ;corrigez amnis,"
+    }
+  ]
+}
