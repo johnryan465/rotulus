@@ -83,7 +83,8 @@ class LegacyRegexProcessor(PageProcessor):
             i += 1
         if f_idx != -1:
             for idx, fn in enumerate(lines[f_idx+1:], 1):
-                fn_s = fn.strip(); if not fn_s: continue
+                fn_s = fn.strip()
+                if not fn_s: continue
                 fm = self.re.match(r'^\s*([®©§%#@\d\w\(\)\]\[\-]+|\b\w\b)\s+(.+)$', fn_s)
                 fn_obj = Footnote(footnote_num=self.re.findall(r'\d+', fm.group(1))[0] if fm and self.re.findall(r'\d+', fm.group(1)) else str(idx), text=fm.group(2) if fm else fn_s, page_num=page_num, half=half)
                 if content.rolls: content.rolls[-1].footnotes.append(fn_obj)
@@ -92,10 +93,10 @@ class LegacyRegexProcessor(PageProcessor):
 
 class LocalOllamaProcessor(PageProcessor):
     """
-    Processor using Ollama (Llama 3 8B) on the remote 3090 machine.
+    Processor using Ollama on the remote 3090 machine.
     Expects OLLAMA_HOST environment variable (e.g. http://192.168.0.116:11434).
     """
-    def __init__(self, model="llama3:8b", host=None):
+    def __init__(self, model="gemma4:26b", host=None):
         self.model = model
         self.host = host or os.getenv("OLLAMA_HOST", "http://192.168.0.116:11434")
 

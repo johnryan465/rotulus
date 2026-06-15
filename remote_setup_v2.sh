@@ -14,12 +14,14 @@ fi
 echo "🏃 Configuring Ollama for external access..."
 pkill ollama
 export OLLAMA_HOST=0.0.0.0:11434
+export OLLAMA_MODELS=/opt/ollama_models
 ollama serve > /tmp/ollama.log 2>&1 &
 sleep 10
 
 # 3. Pull Models
 echo "📥 Pulling models (this may take time)..."
-ollama pull llama3:8b
+ollama pull gemma4:26b
+ollama pull qwen3.6:35b
 ollama pull llava:13b
 
 echo "✅ Remote machine is ready at http://192.168.0.116:11434"

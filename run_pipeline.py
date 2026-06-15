@@ -12,10 +12,11 @@ def main():
     
     # Processor Selection Logic
     ollama_host = os.getenv("OLLAMA_HOST", "http://192.168.0.116:11434")
+    local_model = os.getenv("LOCAL_MODEL", "gemma4:26b")
     
     if os.getenv("USE_LOCAL_LLM") == "true":
-        print(f"Using Local Ollama Processor (Llama 3 8B) at {ollama_host}...")
-        processor = LocalOllamaProcessor(host=ollama_host)
+        print(f"Using Local Ollama Processor ({local_model}) at {ollama_host}...")
+        processor = LocalOllamaProcessor(model=local_model, host=ollama_host)
     elif os.getenv("GEMINI_API_KEY"):
         print("Using Gemini Structured Processor (Cloud)...")
         processor = LLMStructuredProcessor()
