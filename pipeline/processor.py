@@ -2,6 +2,7 @@ import os
 import json
 import re
 import base64
+import zlib
 import httpx
 import json_repair
 from abc import ABC, abstractmethod
@@ -52,7 +53,20 @@ DOMAIN_GUIDANCE = """
   titulus number - do not emit a "rolls" entry for it, however large the number is; put it in
   "orphaned_tituli" (or "tituli" if it's the first titulus of a roll whose real header block IS
   present on this page) instead.
-- Body text of tituli is usually Latin.
+- Body text of tituli is usually Latin (occasionally Old Provençal/Catalan). "latin_text" is
+  ONLY the actual medieval titulus text itself - the words the responding monastery inscribed
+  on the roll, verbatim. Dufour frequently precedes a titulus with his OWN modern-language
+  (French, occasionally Spanish) editorial commentary - dating discussion, provenance, cross-
+  references to other manuscripts, biographical background on the deceased - written in modern
+  prose, NOT the medieval response itself. This commentary is NOT part of "latin_text" and must
+  never be extracted into it, however long or however little actual medieval text follows it on
+  the page. A quick test: if a sentence contains modern French/Spanish function words (le, la,
+  de, qui, que, dont, était, fut, parece, señala) and reads as the editor explaining or dating
+  something, it is commentary, not the titulus text - do NOT put it in "latin_text". If a
+  titulus entry on this page consists ENTIRELY of such commentary with no medieval text actually
+  quoted (e.g. because the original response doesn't survive or isn't reproduced here), leave
+  "latin_text" as an empty string rather than filling it with the commentary - an empty
+  latin_text is correct and expected in that case, not a failure to extract something.
 - Entities: extract any named people (monks, abbots, bishops, saints, kings, etc.) explicitly
   mentioned within a titulus's body text. Only extract entities that are actually named in the
   text - do not invent or infer entities that aren't present.
@@ -213,6 +227,41 @@ def _only_dicts(items: list, label: str) -> list:
             print(f"  Dropping unsalvageable {label} entry: {x!r}")
     return kept
 
+# A degenerate-generation loop (the model gets stuck re-emitting the same
+# phrase, sometimes with minor grammatical-ending drift rather than exact
+# repetition) is the single worst failure mode seen in this corpus - one
+# instance saved 27,038 characters of a repeated ~85-char phrase into a
+# single latin_text field, another saved 10,207 characters that included
+# the model's own reasoning commentary ("Let me re-examine..."). repeat_
+# penalty/repeat_last_n reduce how often this happens but don't eliminate
+# it, so every text field is checked here before it can reach the DB.
+# Compression ratio is a robust, cheap detector: genuine medieval Latin/
+# French prose (even naturally formulaic liturgical text) compresses to
+# ~35-55% of its original size; every confirmed degenerate blob found in
+# this corpus compressed to 1-10%. Legitimate long fields top out around
+# 4800 chars in the current corpus - nothing genuine has ever needed more.
+_DEGENERATE_MIN_LEN = 800
+_DEGENERATE_MAX_RATIO = 0.15
+_DEGENERATE_TRUNCATE_TO = 500
+
+
+def _degenerate_repetition_ratio(text: str) -> float:
+    if len(text) < _DEGENERATE_MIN_LEN:
+        return 1.0
+    return len(zlib.compress(text.encode('utf-8', errors='ignore'), level=6)) / len(text)
+
+
+def _collapse_if_degenerate(text: str, field_label: str = "field") -> str:
+    if not text or len(text) < _DEGENERATE_MIN_LEN:
+        return text
+    ratio = _degenerate_repetition_ratio(text)
+    if ratio > _DEGENERATE_MAX_RATIO:
+        return text
+    print(f"  Degenerate-generation loop detected in {field_label} "
+          f"({len(text)} chars, compression ratio {ratio:.3f}) - truncating.")
+    return text[:_DEGENERATE_TRUNCATE_TO].rstrip() + " […extraction loop truncated…]"
+
+
 def _null_to_str(d: dict, *keys) -> dict:
     """Coerce required-string fields to an actual string, treating a
     MISSING key the same as an explicit JSON null: both -> "" (a Pydantic
@@ -223,7 +272,8 @@ def _null_to_str(d: dict, *keys) -> dict:
     text (models sometimes emit a multi-line field, like the manuscripts
     apparatus block, as a JSON array of lines instead of one string).
     Never let a shape slip on one field crash validation for the whole
-    page."""
+    page. Also guards every field against degenerate-generation loops
+    (see _collapse_if_degenerate) before it can reach the DB."""
     for k in keys:
         v = d.get(k)
         if v is None:
@@ -232,6 +282,8 @@ def _null_to_str(d: dict, *keys) -> dict:
             d[k] = "\n".join(str(x) for x in v)
         elif not isinstance(v, str):
             d[k] = str(v)
+        else:
+            d[k] = _collapse_if_degenerate(v, field_label=k)
     return d
 
 def _stringify(v):
@@ -335,7 +387,8 @@ def _inject_page_metadata(parsed: dict, metadata: Dict[str, Any]) -> dict:
             e['original_name'] = e.pop('original')
         if 'name' in e and 'original_name' not in e:
             e['original_name'] = e.pop('name')
-        e = fix_footnote_num(_null_to_str(e, 'original_name', 'normalized_name'))
+        e = fix_footnote_num(_null_to_str(e, 'original_name', 'normalized_name',
+                                           'original_title', 'normalized_role', 'normalized_dates'))
         # Both original_name and normalized_name are required with no schema
         # default - if only one survived extraction, cross-fill from it
         # rather than crash on the other being absent.
