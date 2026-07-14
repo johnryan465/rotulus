@@ -7,11 +7,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
-      {
         "name": "Apostle",
         "role": "",
         "dates": ""
@@ -88,13 +83,7 @@
     "title": "3 [IV]",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Dominus",
-        "role": "God",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 6
   },
   {
@@ -104,11 +93,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Jesus Christ",
-        "role": "Lord",
-        "dates": ""
-      },
       {
         "name": "Gauzbert",
         "role": "abbot",

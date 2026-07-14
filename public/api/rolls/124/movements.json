@@ -5,18 +5,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Father (God)",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 0
   },
   {
@@ -245,11 +234,6 @@
     "entities": [
       {
         "name": "George",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Jesus Christ",
         "role": "",
         "dates": ""
       }

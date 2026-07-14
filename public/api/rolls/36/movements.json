@@ -5,18 +5,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christ",
-        "role": "deity",
-        "dates": ""
-      },
-      {
-        "name": "God",
-        "role": "deity",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 0
   },
   {

@@ -22,11 +22,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "James the Apostle",
-        "role": "apostle",
-        "dates": ""
-      },
-      {
         "name": "Holy Trinity",
         "role": "",
         "dates": ""

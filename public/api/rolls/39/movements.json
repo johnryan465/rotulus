@@ -7,11 +7,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Basil",
-        "role": "saint/confessor",
-        "dates": ""
-      },
-      {
         "name": "Odello",
         "role": "abbot",
         "dates": ""

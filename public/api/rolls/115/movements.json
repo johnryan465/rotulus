@@ -52,11 +52,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Christ",
-        "role": "Jesus Christ",
-        "dates": ""
-      },
-      {
         "name": "Andrew",
         "role": "Abbot",
         "dates": ""
@@ -90,11 +85,6 @@
         "name": "Odon of Cambrai",
         "role": "bishop",
         "dates": "died June 19, 1113"
-      },
-      {
-        "name": "Saint Martin of Tours",
-        "role": "saint",
-        "dates": ""
       },
       {
         "name": "Radbod",

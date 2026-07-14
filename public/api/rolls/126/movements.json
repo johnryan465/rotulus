@@ -64,13 +64,7 @@
     "title": "105 [204] S.d.- Canterbury, cathedral (Christchurch).",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christ",
-        "role": "Son of God",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 4
   },
   {
@@ -79,13 +73,7 @@
     "title": "107 [207] S.d.- [Lewes,] S. Pancras.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Pancras",
-        "role": "martyr",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 5
   },
   {
@@ -281,11 +269,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Beati Martini",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Albert",
         "role": "",
         "dates": ""
@@ -346,11 +329,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Mary",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
         "name": "Vitalis",
         "role": "servant/layperson",
         "dates": ""
@@ -365,11 +343,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Anianus",
-        "role": "Saint",
-        "dates": ""
-      },
       {
         "name": "Vitalis",
         "role": "",
@@ -414,13 +387,7 @@
     "title": "120 [88] S.d.- Cormery, S. Paul.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Paul",
-        "role": "Apostle",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 13
   },
   {
@@ -430,11 +397,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Julien",
-        "role": "martyr",
-        "dates": ""
-      },
       {
         "name": "Girbert",
         "role": "",
@@ -663,11 +625,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Mary",
-        "role": "",
-        "dates": ""
-      },
-      {
         "name": "Vitalis",
         "role": "",
         "dates": ""
@@ -816,18 +773,7 @@
     "title": "130 [106] S.d.-[Bouche-d'Aigre], S. Jean, S. Paul (3).",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "John",
-        "role": "martyr",
-        "dates": ""
-      },
-      {
-        "name": "Paul",
-        "role": "martyr",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 23
   },
   {
@@ -847,11 +793,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Peter",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Vitalis",
         "role": "abbot",
         "dates": ""
@@ -865,13 +806,7 @@
     "title": "133 [109] S.-Dontefrouard, N.-D.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 26
   },
   {
@@ -959,11 +894,6 @@
         "name": "Vitalis",
         "role": "abbot",
         "dates": ""
-      },
-      {
-        "name": "Saint Peter",
-        "role": "saint",
-        "dates": ""
       }
     ],
     "step": 30
@@ -1034,13 +964,7 @@
     "title": "143 [48] S.d.- Reba\u00eds, S. Pierre.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Peter",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 32
   },
   {
@@ -1256,13 +1180,7 @@
     "title": "S.d.- Bath, cathedral (S. Peter).",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "sancti Petri apostoli",
-        "role": "Apostle",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 43
   },
   {
@@ -1272,11 +1190,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "sancte Marie",
-        "role": "Saint",
-        "dates": ""
-      },
       {
         "name": "sancti Aldelmi confessoris",
         "role": "Confessor",
@@ -1406,13 +1319,7 @@
     "title": "S.d.- Pontefract, S. John Evangelist.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "sancti Johannis evangelist\u00e6",
-        "role": "Evangelist",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 48
   },
   {
@@ -1438,11 +1345,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Saint Oswald",
-        "role": "king and martyr",
-        "dates": ""
-      },
-      {
         "name": "Vitalis",
         "role": "",
         "dates": ""
@@ -1456,13 +1358,7 @@
     "title": "161 [166] S.d.- [Nostell,] S. Oswald.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Oswald",
-        "role": "king and martyr",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 51
   },
   {
@@ -1591,13 +1487,7 @@
     "title": "168 [85] S.d.- D\u00e9ols, N.-D.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Marie",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 56
   },
   {
@@ -1729,11 +1619,6 @@
       {
         "name": "Vital",
         "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Virgin Mary",
-        "role": "saint",
         "dates": ""
       }
     ],
@@ -1905,13 +1790,7 @@
     "title": "T. sancti Severi, confessoris Christi. Anima ejus et anim\u00e6 o. f. d. r. i. p. Orate p. n..",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Severus",
-        "role": "saint/confessor",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 68
   },
   {
@@ -1920,13 +1799,7 @@
     "title": "[Tx] 181 [135] S.d.- Lonlay/[l'Abbaye], N-D.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "Saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 69
   },
   {
@@ -2108,18 +1981,7 @@
     "title": "T. (a) SANCTE MARI\u00c6 et SANCTI SANSONIS MIDELTONENSIS ECCLE- SIE. Anima ejus et anime omnium o. f. d., per m. D., r. i. p. Amen. Orate p. n.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Samson",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 76
   },
   {
@@ -2128,13 +1990,7 @@
     "title": "[XV] T. Sancti Petri de Monte acuto. Anima ejus et anime omnium (sic) f. d. r. i. p. Amen.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Peter",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 77
   },
   {
@@ -2143,13 +1999,7 @@
     "title": "T. Sanct\u00e6 Mari\u00e6 Glastoni\u00e6. Anima Vitalis abbat\u00eds et anim\u00e6 o. f. d. r. i. p. Orate p. n. benefactoribus et beneficaturbis, regibus, comitibus, episcopis, abbat\u00eds et monachis et cunctis, quorum nomina sint in \u00ab libro vit\u00e6 \u00bb (1). Amen.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 78
   },
   {
@@ -2159,16 +2009,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Peter",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Ethelred",
-        "role": "virgin/saint",
-        "dates": ""
-      },
       {
         "name": "Edgar",
         "role": "king",
@@ -2235,11 +2075,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Mary",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
         "name": "Vitalis",
         "role": "lord",
         "dates": ""
@@ -2253,13 +2088,7 @@
     "title": "T. (a) Sanct\u00e6 Mari\u00e6 Spalingensis ecclesi\u00e6.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "Saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 81
   },
   {
@@ -2268,18 +2097,7 @@
     "title": "T. (b) SANCTI BARTHOLOMEI ET SANCTI GULTHACI CROLANDIE.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Bartholomew",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
-        "name": "Guthlac",
-        "role": "Saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 82
   },
   {
@@ -2288,18 +2106,7 @@
     "title": "T. 194 [176] S.d.- Thorney, S. Mary et S. Botolph.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
-        "name": "Botolph",
-        "role": "Saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 83
   },
   {
@@ -2308,13 +2115,7 @@
     "title": "T. Sancti Petri de Burch.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Peter",
-        "role": "Saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 84
   },
   {
@@ -2324,11 +2125,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Edmund",
-        "role": "king and martyr",
-        "dates": ""
-      },
       {
         "name": "Vitalis",
         "role": "lord",
@@ -2428,13 +2224,7 @@
     "title": "201 [190] S.d.- Stratford[-at-Bow,] S. Leonard (2).",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Leonard",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 88
   },
   {
@@ -2482,16 +2272,6 @@
         "name": "Vitalis",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "Jesus Christ",
-        "dates": ""
-      },
-      {
-        "name": "Mary",
-        "role": "Virgin Mary",
-        "dates": ""
       }
     ],
     "step": 91
@@ -2511,13 +2291,7 @@
     "title": "S.d.- Merton, S. Mary.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "Virgin Mary",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 93
   },
   {
@@ -2526,13 +2300,7 @@
     "title": "207 [202] S.d.- Malling, S. Mary.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 94
   },
   {
@@ -2542,11 +2310,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Nicholas",
-        "role": "Saint",
-        "dates": ""
-      },
       {
         "name": "Vitalis",
         "role": "priest",
@@ -2564,11 +2327,6 @@
     "entities": [
       {
         "name": "Homer",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       }

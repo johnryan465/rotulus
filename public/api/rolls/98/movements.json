@@ -40,13 +40,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christ",
-        "role": "deity/saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 2
   }
 ]

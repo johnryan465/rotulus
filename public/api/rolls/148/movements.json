@@ -5,13 +5,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Denis",
-        "role": "saint/martyr",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 0
   },
   {

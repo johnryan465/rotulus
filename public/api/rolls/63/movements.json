@@ -7,11 +7,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Jesus Christ",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Daniel",
         "role": "priest",
         "dates": ""

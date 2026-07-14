@@ -10,11 +10,6 @@
         "name": "Robert",
         "role": "abbot",
         "dates": ""
-      },
-      {
-        "name": "Saint Carauinus of Chartres",
-        "role": "saint",
-        "dates": ""
       }
     ],
     "step": 0
@@ -30,11 +25,6 @@
         "name": "Robert",
         "role": "abbot",
         "dates": ""
-      },
-      {
-        "name": "Saint Savior of Tiron",
-        "role": "saint",
-        "dates": ""
       }
     ],
     "step": 1
@@ -49,11 +39,6 @@
       {
         "name": "Robert",
         "role": "abbot",
-        "dates": ""
-      },
-      {
-        "name": "Saint Florentinus of Bonneval",
-        "role": "saint",
         "dates": ""
       }
     ],
@@ -81,11 +66,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Herbert",
-        "role": "Abbot of Saint-\u00c9tienne de Dijon",
-        "dates": ""
-      },
       {
         "name": "Garnier IV de Blaisy",
         "role": "secular abbot",
@@ -120,13 +100,7 @@
     "title": "1 S.d.-[Bonneval-l\u00e8s-Thouars,] S. Andr\u00e9.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Andr\u00e9",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 5
   },
   {
@@ -170,13 +144,7 @@
     "title": "3 S.d.- Fontevraud, S. Marie-Madeleine.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Marie Madeleine",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 7
   },
   {
@@ -257,16 +225,6 @@
         "dates": ""
       },
       {
-        "name": "Mary",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Vivian",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Deodatus",
         "role": "abbot",
         "dates": ""
@@ -330,13 +288,7 @@
     "title": "13 S.d.- Brive, S. Martin.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Martin",
-        "role": "saint/martyr",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 14
   },
   {
@@ -396,16 +348,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Peter",
-        "role": "apostle/saint",
-        "dates": ""
-      },
-      {
-        "name": "Paul",
-        "role": "apostle/saint",
-        "dates": ""
-      },
       {
         "name": "Arbert",
         "role": "abbot",

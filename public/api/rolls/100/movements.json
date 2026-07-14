@@ -7,16 +7,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Peter",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Paul",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Inquilinus",
         "role": "abbot",
         "dates": ""
@@ -40,13 +30,7 @@
     "title": "S.d.- [Bourges,] S. Ursin.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Ursinus",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 1
   },
   {
@@ -56,11 +40,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Saint Peter the Apostle of Bourgueil",
-        "role": "saint",
-        "dates": ""
-      },
       {
         "name": "Raymond",
         "role": "abbot",

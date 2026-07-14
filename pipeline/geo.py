@@ -6,6 +6,7 @@ this module no longer hardcodes a place-name dictionary.
 import re
 
 from .geocoding import resolve_location
+from .entities_index import is_non_signer_role, is_non_signer_name, is_json_fragment
 
 
 ROMAN_CENTURIES = {'VII': 650, 'VIII': 750, 'IX': 850, 'X': 950, 'XI': 1050, 'XII': 1150,
@@ -105,9 +106,11 @@ def get_roll_movements(cursor, roll_row):
     entity at each stop and a best-effort date, sorted temporally where any
     date evidence exists. Distinct from get_roll_travels() below: that
     function only surfaces entities that carry their own location_name
-    (9% of entities) for the map; this surfaces every entity regardless,
-    since the point here is "who signed/is named", not "where does this
-    pin go"."""
+    (9% of entities) for the map; this surfaces every entity regardless.
+    Excludes patron saints/Christ/deities (see is_non_signer_role) - a
+    titulus names its dedicatee formulaically, but that figure never
+    actually signed/wrote it, so this list should be read as "named
+    individuals at this stop" rather than literally "who signed"."""
     roll = dict(roll_row)
     cursor.execute("SELECT * FROM tituli WHERE roll_id = ? ORDER BY id", (roll["id"],))
     tituli = [dict(row) for row in cursor.fetchall()]
@@ -124,7 +127,13 @@ def get_roll_movements(cursor, roll_row):
         # for tituli titles in gap_candidates_notes.md) - '": "' only shows
         # up in genuine JSON key/value syntax, never in a real Latin/French name.
         entities = [e for e in entities
-                    if '": "' not in (e.get("original_name") or '') and '": "' not in (e.get("normalized_name") or '')]
+                    if not is_json_fragment(e.get("original_name")) and not is_json_fragment(e.get("normalized_name"))]
+        # A titulus formulaically invokes its dedicatee (patron saint),
+        # Christ, the Virgin, etc. - real named text, but never the actual
+        # respondent who wrote/signed it. Excluded here specifically because
+        # this list is presented as "who signed this stop".
+        entities = [e for e in entities
+                    if not is_non_signer_role(e.get("normalized_role")) and not is_non_signer_name(e.get("normalized_name"))]
 
         date = extract_titulus_date(tit.get("title"))
         movements.append({

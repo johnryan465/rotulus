@@ -15,16 +15,6 @@
         "name": "Lull",
         "role": "bishop",
         "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "deity",
-        "dates": ""
-      },
-      {
-        "name": "God",
-        "role": "deity",
-        "dates": ""
       }
     ],
     "step": 0

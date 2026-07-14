@@ -14,13 +14,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 1
   }
 ]

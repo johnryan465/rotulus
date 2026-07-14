@@ -31,11 +31,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "God",
-        "role": "",
-        "dates": ""
-      },
-      {
         "name": "Apostle",
         "role": "",
         "dates": ""
@@ -50,11 +45,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Abraham",
-        "role": "saint",
-        "dates": ""
-      },
       {
         "name": "Singred",
         "role": "abbot",
@@ -188,13 +178,7 @@
     "title": "5 [6] S.d.- Montlieu, S. Jean-Baptiste.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint John the Baptist",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 11
   },
   {
@@ -203,13 +187,7 @@
     "title": "6 [7] S.d.- Sor\u00e8ze, N.-D.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Notre-Dame",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 12
   },
   {
@@ -218,13 +196,7 @@
     "title": "7 [5] S.d.- Alet, N.-D.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Notre-Dame",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 13
   },
   {
@@ -233,13 +205,7 @@
     "title": "8 S.d.- Castres, S. Beno\u00eft.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Benedict",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 14
   },
   {
@@ -252,11 +218,6 @@
       {
         "name": "Benedict",
         "role": "abbot",
-        "dates": ""
-      },
-      {
-        "name": "Vincent",
-        "role": "saint",
         "dates": ""
       },
       {
@@ -273,13 +234,7 @@
     "title": "10\u02e1 S\u02e1a Maria Varisnense.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "Saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 16
   },
   {
@@ -303,18 +258,7 @@
     "title": "11\u02e1 S.d.- Conques, S. Sauveur, S. Foy.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Savior",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Foy",
-        "role": "Saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 18
   },
   {
@@ -323,18 +267,7 @@
     "title": "11\u02e1 S\u02e1 Salvador y S\u02e1 Fe del monasterio Concesse.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Salvador",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Faith",
-        "role": "Saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 19
   },
   {
@@ -344,11 +277,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Apostle",
-        "role": "apostle",
-        "dates": ""
-      },
       {
         "name": "Bos",
         "role": "",
@@ -421,13 +349,7 @@
     "title": "21. Por estar despintadas las letras de las primeras lineas, no puede le\u00ebrse bien el nombre o t\u00edtulo de la iglesia. Parece ser S\u00aa Maria.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Santa Maria",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 23
   },
   {
@@ -445,13 +367,7 @@
     "title": "23. S\u00ba Martin (parece Rocetiense o Rodenenense) (c) (2)",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "San Martin",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 25
   },
   {
@@ -460,13 +376,7 @@
     "title": "24 [17] S.d.- Uzerche, S. Pierre.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Peter",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 26
   },
   {
@@ -475,13 +385,7 @@
     "title": "25 [20] S.d.- S. Amant[de-Boixe].",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Amant",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 27
   },
   {
@@ -490,13 +394,7 @@
     "title": "26 [21] S.d.- Angoul\u00eame, S. Cybard.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Eparchius",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 28
   },
   {
@@ -509,11 +407,6 @@
       {
         "name": "Peter",
         "role": "cleric/servant",
-        "dates": ""
-      },
-      {
-        "name": "Sicaire",
-        "role": "saint",
         "dates": ""
       }
     ],
@@ -614,16 +507,6 @@
         "name": "Paul",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Corneille",
-        "role": "bishop/martyr",
-        "dates": ""
-      },
-      {
-        "name": "Cyprien",
-        "role": "bishop/martyr",
-        "dates": ""
       }
     ],
     "step": 35
@@ -694,13 +577,7 @@
     "title": "41 S.d.-Roses, S. Maria.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 38
   },
   {

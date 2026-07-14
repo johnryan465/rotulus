@@ -27,11 +27,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Martin",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
         "name": "Gausbert",
         "role": "abbot",
         "dates": ""
@@ -66,11 +61,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Martin of Tours",
-        "role": "saint",
-        "dates": ""
-      },
       {
         "name": "Gausbert",
         "role": "abbot",

@@ -311,18 +311,6 @@
           "normalized_role": "",
           "normalized_dates": "",
           "location_name": null
-        },
-        {
-          "id": 316,
-          "titulus_id": 119,
-          "original_name": "original_title': 'pastor', 'footnote_num': null, 'normalized_name': 'Benedict', 'normalized_role': 'pastor', 'normalized_dates': '', 'location_name': null}, {",
-          "original_title": "",
-          "footnote_num": null,
-          "footnote_text": null,
-          "normalized_name": "original_title': 'pastor', 'footnote_num': null, 'normalized_name': 'Benedict', 'normalized_role': 'pastor', 'normalized_dates': '', 'location_name': null}, {",
-          "normalized_role": "",
-          "normalized_dates": "",
-          "location_name": null
         }
       ]
     }

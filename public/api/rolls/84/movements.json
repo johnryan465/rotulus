@@ -20,16 +20,6 @@
         "name": "Guifrid",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Martin",
-        "role": "martyr",
-        "dates": ""
-      },
-      {
-        "name": "Albert",
-        "role": "martyr",
-        "dates": ""
       }
     ],
     "step": 0
@@ -54,11 +44,6 @@
         "name": "Martha",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Mary",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 2
@@ -70,11 +55,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Bartholomew",
-        "role": "saint",
-        "dates": ""
-      },
       {
         "name": "Wilfrid",
         "role": "",
@@ -104,13 +84,7 @@
     "title": "80 [95]",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Peter",
-        "role": "apostle",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 4
   },
   {
@@ -123,11 +97,6 @@
       {
         "name": "Stephen",
         "role": "provost",
-        "dates": ""
-      },
-      {
-        "name": "Julian",
-        "role": "martyr",
         "dates": ""
       }
     ],
@@ -153,11 +122,6 @@
       {
         "name": "Guifred",
         "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "divinity",
         "dates": ""
       },
       {
@@ -409,13 +373,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "John",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 9
   },
   {
@@ -444,13 +402,7 @@
     "title": "88 [66] S.d.-Li\u00e8ge, cath\u00e9drale.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Lambert of Li\u00e8ge",
-        "role": "martyr",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 11
   },
   {
@@ -497,13 +449,7 @@
     "title": "Item.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "God",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 15
   },
   {
@@ -512,18 +458,7 @@
     "title": "Item.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Wifidus",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 16
   },
   {
@@ -542,11 +477,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
       {
         "name": "Wazo",
         "role": "",
@@ -586,13 +516,7 @@
     "title": "Item.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christo",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 20
   },
   {
@@ -604,11 +528,6 @@
     "entities": [
       {
         "name": "Dominus",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christo",
         "role": "",
         "dates": ""
       },
@@ -652,11 +571,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Jacob",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
         "name": "Widfridus",
         "role": "",
         "dates": ""
@@ -690,16 +604,6 @@
     ],
     "date_display": "29 novembre 1051",
     "entities": [
-      {
-        "name": "Mary",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Poncius",
-        "role": "martyr",
-        "dates": ""
-      },
       {
         "name": "Wifred",
         "role": "",
@@ -766,11 +670,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Savior",
-        "role": "Saint/Deity",
-        "dates": ""
-      },
-      {
         "name": "Austremonius",
         "role": "bishop",
         "dates": ""
@@ -792,11 +691,6 @@
     "entities": [
       {
         "name": "Canigou",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Holy Spirit",
         "role": "",
         "dates": ""
       },
@@ -869,13 +763,7 @@
     "title": "96 [70] S.d.- Li\u00e8ge, S. Laurent.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Lawrence",
-        "role": "martyr",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 33
   },
   {
@@ -884,13 +772,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 34
   },
   {
@@ -969,13 +851,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Lawrence",
-        "role": "martyr",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 39
   },
   {
@@ -1256,13 +1132,7 @@
     "title": "3 S.d.- Paris, S. Germain[-des-Pr\u00e8s].",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christ",
-        "role": "king",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 47
   },
   {
@@ -1271,13 +1141,7 @@
     "title": "Cunctis per quadridi orbita claims passim difibus fidelis, quos prior unda sacri baptismi sub christianis religionis titulo univit Domino Jhesu Christo 20 conspia sse api fide, humilis coris sanctissimi monachorum legatoris Benedicti, commoda present vitas cumque bonarum perfectione virtutum atque honorarum guardia premoniam. Postquam a paradisi felicitate illud supernae divinitatis plasma nobilit\u2026",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Jesus Christ",
-        "role": "deity",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 48
   },
   {
@@ -1435,13 +1299,7 @@
     "title": "4 S.d.- Tournus.\nT. monasterii Tournociensis.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christus",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 53
   },
   {
@@ -1630,13 +1488,7 @@
     "title": "8 S.d.- Noyon, S. \u00c9loi.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Eligius",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 58
   },
   {
@@ -1928,13 +1780,7 @@
     "title": "10 S.d.- D\u00e9ols, N.-D.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 70
   },
   {
@@ -2145,23 +1991,7 @@
     "title": "21 S.d.- S. Romain[le-Puy] (?) (1).",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Virgen Mar\u00eda",
-        "role": "Virgin",
-        "dates": ""
-      },
-      {
-        "name": "Pedro",
-        "role": "Apostle",
-        "dates": ""
-      },
-      {
-        "name": "Rom\u00e1n",
-        "role": "Martyr",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 80
   },
   {
@@ -2422,11 +2252,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Paul",
-        "role": "apostle",
-        "dates": ""
-      },
-      {
         "name": "G\u00e9rard",
         "role": "monk/brother",
         "dates": ""
@@ -2444,11 +2269,6 @@
       {
         "name": "Gatfredus",
         "role": "abbot",
-        "dates": ""
-      },
-      {
-        "name": "Michael the Archangel",
-        "role": "archangel",
         "dates": ""
       },
       {

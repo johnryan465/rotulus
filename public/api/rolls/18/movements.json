@@ -10,11 +10,6 @@
         "name": "Florbert",
         "role": "abbot",
         "dates": ""
-      },
-      {
-        "name": "Saint Bavon",
-        "role": "saint",
-        "dates": ""
       }
     ],
     "step": 0
@@ -67,28 +62,8 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Amandus",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Amandus",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Florbertus",
         "role": "abbot",
-        "dates": ""
-      },
-      {
-        "name": "Bavon",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Amandus",
-        "role": "saint",
         "dates": ""
       },
       {

@@ -21,11 +21,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Stephen",
-        "role": "martyr",
-        "dates": ""
-      },
-      {
         "name": "Savior",
         "role": "Lord",
         "dates": ""
@@ -46,16 +41,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Primus",
-        "role": "martyr",
-        "dates": ""
-      },
-      {
-        "name": "Concordius",
-        "role": "martyr",
-        "dates": ""
-      },
-      {
         "name": "Marinus",
         "role": "confessor",
         "dates": ""
@@ -75,11 +60,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Tehofredus",
-        "role": "martyr",
-        "dates": ""
-      },
       {
         "name": "Larento",
         "role": "monk",
@@ -114,13 +94,7 @@
     "title": "78. Catedral de Auna,",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christo",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 5
   },
   {
@@ -173,13 +147,7 @@
     "title": "82. S\u207f Maria de Roses. Alad Hechardo (35). Es muy corta.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Mary of Roses",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 9
   },
   {
@@ -260,11 +228,6 @@
         "dates": ""
       },
       {
-        "name": "Saint",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Walter",
         "role": "bishop",
         "dates": ""
@@ -340,13 +303,7 @@
     "title": "66. S\u02c6 Martin urbis Aedu\u00e9.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Martin",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 20
   },
   {
@@ -373,13 +330,7 @@
     "title": "63. Catedral Pictavense, como sique:",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "God",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 23
   },
   {
@@ -403,13 +354,7 @@
     "title": "62. Monasterio Legudiacense. Envoie:",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "God",
-        "role": "King",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 25
   },
   {
@@ -428,11 +373,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Saint Andrew",
-        "role": "apostle",
-        "dates": ""
-      },
       {
         "name": "Saint Junian",
         "role": "confessor",
@@ -486,13 +426,7 @@
     "title": "50. [32] S.d.- Vigreois, S. Pierre.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Peter of Viguer",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 31
   },
   {
@@ -613,13 +547,7 @@
     "title": "39. Vallnobilense, ubi caput s. Antoni (sic) martiris quiescit.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Antonin",
-        "role": "martyr",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 40
   },
   {
@@ -629,11 +557,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Pierre",
-        "role": "apostle",
-        "dates": ""
-      },
       {
         "name": "Amand",
         "role": "",
@@ -649,11 +572,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Pierre",
-        "role": "apostle",
-        "dates": ""
-      },
       {
         "name": "Cyprien",
         "role": "",
@@ -701,13 +619,7 @@
     "title": "38 [21] S.d.- Castres, S. Benoit.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Vincent",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 46
   },
   {
@@ -736,23 +648,8 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Virgin Mary",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Benedict",
         "role": "abbot/father",
-        "dates": ""
-      },
-      {
-        "name": "Michael",
-        "role": "archangel",
-        "dates": ""
-      },
-      {
-        "name": "God",
-        "role": "",
         "dates": ""
       }
     ],
@@ -779,13 +676,7 @@
     "title": "7 [5] S.d.- S. Hilaire.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Hilaire",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 51
   },
   {
@@ -794,13 +685,7 @@
     "title": "7. S\" Hilario de Carcassona.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Hilaire",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 52
   },
   {
@@ -853,13 +738,7 @@
     "title": "10 [12] S.d.- S. Guilhem-le-D\u00e9sert.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Guilhem-le-D\u00e9sert",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 56
   },
   {
@@ -897,18 +776,7 @@
     "title": "11 [14] S.d.- Villemagne, S. Martin, S. Majan.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Martin",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Majan",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 59
   },
   {
@@ -937,13 +805,7 @@
     "title": "12 [15] S.d.- S. Pons-de-Thomi\u00e8res.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Pons-de-Thomi\u00e8res",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 61
   },
   {
@@ -972,13 +834,7 @@
     "title": "13 [16] S.d.- Caunes, S. Pierre.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Pierre",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 63
   },
   {
@@ -1002,13 +858,7 @@
     "title": "14 [17] S.d.- Montlieu, S. Jean-Baptiste.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Jean-Baptiste",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 65
   },
   {
@@ -1017,13 +867,7 @@
     "title": "14. S\" Juan Bautista de Vallsichare. Es larga.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Jean-Baptiste",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 66
   },
   {
@@ -1112,13 +956,7 @@
     "title": "17 [20] S.d.- Vielmur-sur-Agout, N.-D.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 72
   },
   {
@@ -1127,18 +965,7 @@
     "title": "18 [23] S.d.- Varen, N.-D., S. Serge.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Sergius",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 73
   },
   {
@@ -1149,23 +976,8 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Andochi",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Caetinus",
         "role": "tyrant",
-        "dates": ""
-      },
-      {
-        "name": "Gabriel",
-        "role": "angel",
-        "dates": ""
-      },
-      {
-        "name": "Mary",
-        "role": "",
         "dates": ""
       }
     ],
@@ -1177,13 +989,7 @@
     "title": "20 [60] S.d.-[Autun,] S. Symphorien.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Symphorianus",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 75
   },
   {
@@ -1192,13 +998,7 @@
     "title": "21 [66] S.d.- Sauxillanges, S. Pierre.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Peter",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 76
   },
   {
@@ -1207,13 +1007,7 @@
     "title": "22 [67] S.d.- Brioude, S. Julien.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Julian",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 77
   },
   {
@@ -1231,18 +1025,7 @@
     "title": "24 [65] S.d.- Charlieu, S. \u00c9tienne, S. Fortunat.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Stephen",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Fortunatus",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 79
   },
   {
@@ -1251,13 +1034,7 @@
     "title": "25 [70] S.d.- [Chanteuges], S. Marcellin.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Marcellinus",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 80
   },
   {
@@ -1355,11 +1132,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
-      {
         "name": "Olibanus",
         "role": "",
         "dates": ""
@@ -1383,11 +1155,6 @@
         "name": "Olibe",
         "role": "abbot",
         "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 88
@@ -1401,11 +1168,6 @@
     "entities": [
       {
         "name": "Torquatus",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       }
@@ -1449,17 +1211,7 @@
     "date_display": "28 mai 1047",
     "entities": [
       {
-        "name": "Mary",
-        "role": "",
-        "dates": ""
-      },
-      {
         "name": "Cucufas",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       }

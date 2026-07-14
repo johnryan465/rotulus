@@ -10,11 +10,6 @@
         "name": "Caesar",
         "role": "Emperor/Leader",
         "dates": ""
-      },
-      {
-        "name": "God",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 0
@@ -173,38 +168,7 @@
     "title": "4 [19] S.d.- B\u00e9ziers, S. Pierre, S. Paul, S. Aphrodise, S. Caralipus, S. Agape, S. Eus\u00e8be.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "S. Pierre",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "S. Paul",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "S. Aphrodise",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "S. Caralipus",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "S. Agape",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "S. Eus\u00e8be",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 6
   },
   {
@@ -243,11 +207,6 @@
         "name": "Boson",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Saint Stephen",
-        "role": "saint",
-        "dates": ""
       }
     ],
     "step": 8
@@ -258,13 +217,7 @@
     "title": "7 [22] S.d.\u2013 Toulouse, S. Gernin.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Saturninus",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 9
   },
   {
@@ -283,11 +236,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Mary",
-        "role": "Saint",
-        "dates": ""
-      },
       {
         "name": "Boson",
         "role": "Lord/Domnus",
@@ -332,11 +280,6 @@
         "name": "Gregory",
         "role": "abbot",
         "dates": ""
-      },
-      {
-        "name": "normalized_dates/': '', ",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 13
@@ -360,11 +303,6 @@
       },
       {
         "name": "Leviathan",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       }
@@ -981,23 +919,7 @@
     "title": "29 [46] S.d.- Corbigny, S. Pierre, S. Paul, S. L\u00e9onard.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Peter",
-        "role": "Apostle",
-        "dates": ""
-      },
-      {
-        "name": "Paul",
-        "role": "Apostle",
-        "dates": ""
-      },
-      {
-        "name": "Leonard",
-        "role": "Saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 28
   },
   {
@@ -1205,11 +1127,6 @@
         "name": "Boso",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Lord",
-        "role": "God",
-        "dates": ""
       }
     ],
     "step": 34
@@ -1280,18 +1197,7 @@
     "title": "[T]ITULUS [S]ANCTORUM APOSTOLORUM PETRI ET PAULI CLUNIENSIS (9) CENOBI.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Peter",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Paul",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 36
   },
   {
@@ -1309,13 +1215,7 @@
     "title": "33 [51] S.d.- Rambret[-en-Bugey].",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Ragnebert",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 38
   },
   {
@@ -1324,18 +1224,7 @@
     "title": "[XII]",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Just and Maurus",
-        "role": "saints",
-        "dates": ""
-      },
-      {
-        "name": "God",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 39
   },
   {
@@ -1368,13 +1257,7 @@
     "title": "T. BEAT\u00c6 MARI\u00c6 EBREDUNENSIS ECCLESIE. Anima ejus requiescat i. p.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 42
   },
   {
@@ -1383,13 +1266,7 @@
     "title": "ECCLESI\u00c6 (c) SANCTI GREGORII TALARNENSIS. Mors ferit cunctos (d) simul- 15 que devotos ut inimicos. Vestris et nostris de gaudis Conditor orbis. Vivant in \u00e6ternum Regem regendo supernum.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Gregory",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 43
   },
   {
@@ -1399,11 +1276,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Mary",
-        "role": "",
-        "dates": ""
-      },
       {
         "name": "Boson",
         "role": "abbot",
@@ -1448,13 +1320,7 @@
     "title": "T. Aquensis ecclesi\u0119. Anima ejus requiescat i. p.\nQuidam fratrum ecclesi\u0119 Sancti Salvatoris conventui Secusienusi,\n25 Sic in fine tibi succurrat gloria Christi.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Holy Savior",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 45
   },
   {
@@ -1482,11 +1348,6 @@
       {
         "name": "Boso",
         "role": "abbot",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "master/god",
         "dates": ""
       },
       {
@@ -1619,16 +1480,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Stephen",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Baudilus",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Durant",
         "role": "",
         "dates": ""
@@ -1720,21 +1571,6 @@
     "entities": [
       {
         "name": "Boso",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Baudilus",
-        "role": "martyr",
-        "dates": ""
-      },
-      {
-        "name": "Mary",
-        "role": "Virgin Mary",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       },

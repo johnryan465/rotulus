@@ -71,11 +71,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
-      {
         "name": "Spouse",
         "role": "",
         "dates": ""
@@ -188,11 +183,6 @@
         "name": "Robert",
         "role": "abbot",
         "dates": "1127-1154"
-      },
-      {
-        "name": "Ambrose",
-        "role": "saint",
-        "dates": ""
       },
       {
         "name": "Girard",

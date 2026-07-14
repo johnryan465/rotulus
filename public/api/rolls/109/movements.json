@@ -145,13 +145,7 @@
     "title": "1 S.-Lyon, S. Romain.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 5
   },
   {
@@ -185,16 +179,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Peter",
-        "role": "Apostle",
-        "dates": ""
-      },
-      {
-        "name": "Paul",
-        "role": "Apostle",
-        "dates": ""
-      },
       {
         "name": "Raymond",
         "role": "",
@@ -302,11 +286,6 @@
       },
       {
         "name": "Peter",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       }

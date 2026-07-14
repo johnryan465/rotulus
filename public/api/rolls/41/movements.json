@@ -5,18 +5,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Stephen",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "original_name': 'Christi', 'original_title': '', 'footnote_num': null, 'normalized_name': 'Christ', 'normalized_role': '', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Pauli', 'original_title': 'apostoli', 'footnote_num': null, 'normalized_name': 'Paul', 'normalized_role': 'apostle', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Anastasium', 'original_tit\u2026",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 0
   },
   {
@@ -26,11 +15,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Nazarius, Nabor, Cyrinus, and Celsus",
-        "role": "saints",
-        "dates": ""
-      },
       {
         "name": "Rouvrais",
         "role": "abbot",
@@ -47,22 +31,7 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Mary",
-        "role": "Virgin Mary",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
-      {
         "name": "Rhadamanthus",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Jesus",
         "role": "",
         "dates": ""
       },

@@ -5,13 +5,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Benedict",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 0
   }
 ]

@@ -10,11 +10,6 @@
         "name": "Herbert",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "John the Baptist",
-        "role": "saint",
-        "dates": ""
       }
     ],
     "step": 0
@@ -43,13 +38,7 @@
     "title": "20 S.d.- Noyon, S. \u00c9loi.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Eligius",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 3
   },
   {
@@ -178,13 +167,7 @@
     "title": "4 S.d.-La Pr\u00e9e[--sur-Arnon], N.-D.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Maria",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 8
   },
   {
@@ -243,16 +226,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Mary",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
-        "name": "John the Baptist",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
         "name": "Hugh",
         "role": "Lord/Domnus",
         "dates": ""
@@ -267,11 +240,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Mary",
-        "role": "Saint",
-        "dates": ""
-      },
       {
         "name": "Hugh",
         "role": "",

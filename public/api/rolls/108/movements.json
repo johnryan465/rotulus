@@ -29,23 +29,7 @@
     "title": "47 [45] S.d.- Arles-sur-Tech, N.-D., S. Abdon, S. Nennen, S. Tiburce.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Abdon",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Nenn\u00e9n",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Tiburce",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 2
   },
   {
@@ -331,13 +315,7 @@
     "title": "4 S.d.- Lucca, S. Frediano. T. Sancti Frigiani Lucensis ecclesie.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Friag",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 14
   },
   {
@@ -346,18 +324,7 @@
     "title": "5 S.d.- Piacenza, du\u00f3mo (S. Maria, S. Justina). T. ecclesie Placentine.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Justina",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 15
   },
   {
@@ -375,13 +342,7 @@
     "title": "S.d.-Petra (1), S. Martinus.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Martin",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 17
   },
   {
@@ -414,13 +375,7 @@
     "title": "12 S.d.-[La Grande-]Chartreuse, T. eremii Cartusie, prope Gratianopolim.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Bruno",
-        "role": "Father/Saint Bruno",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 20
   },
   {
@@ -429,13 +384,7 @@
     "title": "13 S.d.- Cornillon (1), S. Robert.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "Saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 21
   },
   {
@@ -566,13 +515,7 @@
     "title": "23 [66] S.d.-[Conty, S. Antoine]",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Bruno",
-        "role": "cultor of God",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 31
   },
   {
@@ -586,11 +529,6 @@
         "name": "Bruno",
         "role": "hermit",
         "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "divinity",
-        "dates": ""
       }
     ],
     "step": 32
@@ -601,23 +539,7 @@
     "title": "24 [1604]",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 33
   },
   {
@@ -634,11 +556,6 @@
       },
       {
         "name": "Bruno",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "God",
         "role": "",
         "dates": ""
       }
@@ -660,13 +577,7 @@
     "title": "T. sancti Germani, episcopi Parrisiensis (sic).",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 36
   },
   {
@@ -685,11 +596,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Maurus",
-        "role": "saint",
-        "dates": ""
-      },
       {
         "name": "Benedict",
         "role": "monk/abbot",
@@ -724,13 +630,7 @@
     "title": "[1103]",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Bruno",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 40
   },
   {
@@ -833,11 +733,6 @@
         "name": "Bruno",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Mary",
-        "role": "Saint",
-        "dates": ""
       }
     ],
     "step": 45
@@ -848,13 +743,7 @@
     "title": "35 [23] S.d.- Dijon, S. B\u00e9nigne.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "B\u00e9nigne",
-        "role": "Saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 46
   },
   {
@@ -865,18 +754,8 @@
     "date_display": null,
     "entities": [
       {
-        "name": "\u00c9tienne",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
         "name": "Bruno",
         "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "Jesus",
         "dates": ""
       }
     ],
@@ -889,11 +768,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Pierre",
-        "role": "Saint",
-        "dates": ""
-      },
       {
         "name": "Bruno",
         "role": "hermit",
@@ -921,11 +795,6 @@
       {
         "name": "Bruno",
         "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Saint Mary",
-        "role": "saint",
         "dates": ""
       }
     ],
@@ -957,13 +826,7 @@
     "title": "40 [28] S.d.- Molesme, N.-D.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Bruno",
-        "role": "patron saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 52
   },
   {
@@ -972,13 +835,7 @@
     "title": "41 [29] S.d.- Tonnerre, S. Michel.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Michael the Archangel",
-        "role": "archangel",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 53
   },
   {
@@ -1004,11 +861,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Saint Stephen",
-        "role": "martyr",
-        "dates": ""
-      },
-      {
         "name": "Bruno",
         "role": "pastor",
         "dates": ""
@@ -1024,11 +876,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Mary",
-        "role": "",
-        "dates": ""
-      },
-      {
         "name": "John",
         "role": "",
         "dates": ""
@@ -1036,11 +883,6 @@
       {
         "name": "Bruno",
         "role": "doctor/teacher",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "",
         "dates": ""
       }
     ],
@@ -1074,11 +916,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Jesus",
-        "role": null,
-        "dates": ""
-      },
-      {
         "name": "Bruno",
         "role": null,
         "dates": ""
@@ -1107,13 +944,7 @@
     "title": "48 [36] S.d.-[Troyes,] Montier-la-Celle.\nT. Sancti Petri Insule germanice.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christ",
-        "role": null,
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 60
   },
   {
@@ -1127,11 +958,6 @@
         "name": "Bruno",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 61
@@ -1143,11 +969,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
       {
         "name": "Bruno",
         "role": "",
@@ -1202,11 +1023,6 @@
         "name": "Bruno",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "God",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 65
@@ -1220,11 +1036,6 @@
     "entities": [
       {
         "name": "Bruno",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       },
@@ -1267,11 +1078,6 @@
         "name": "Peter",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 67
@@ -1291,18 +1097,7 @@
     "title": "57 [135] S.d.- Angers, S. Serge, S. Bacchus.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Serge",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Bacchus",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 69
   },
   {
@@ -1331,18 +1126,7 @@
     "title": "59 [46] S.d.- Reims, S. Symphorien.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Symphorien",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "deity",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 71
   },
   {
@@ -1354,11 +1138,6 @@
     "entities": [
       {
         "name": "Bruno",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       }
@@ -1373,11 +1152,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Christ",
-        "role": "Father",
-        "dates": ""
-      },
-      {
         "name": "Bruno",
         "role": "master/teacher",
         "dates": ""
@@ -1391,18 +1165,7 @@
     "title": "62 [49] S.d.- [Reims,] S. Remi.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Remigius",
-        "role": "Apostle of the Franks",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 74
   },
   {
@@ -1436,18 +1199,7 @@
     "title": "64 [51] S.d.-[Reims,] S. Timothee, S. Apollinaire (3)",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Timoth\u00e9e",
-        "role": "martyr",
-        "dates": ""
-      },
-      {
-        "name": "Apollinaire",
-        "role": "martyr",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 76
   },
   {
@@ -1456,13 +1208,7 @@
     "title": "65 [52] S.d.-[S. Thierry,] S. Barth\u00e9lemy.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Bartholom\u00e9",
-        "role": "apostle",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 77
   },
   {
@@ -1488,17 +1234,7 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Mary",
-        "role": "",
-        "dates": ""
-      },
-      {
         "name": "Bruno",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       }
@@ -1516,11 +1252,6 @@
         "name": "Bruno",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "God",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 80
@@ -1532,11 +1263,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Nicholas",
-        "role": "Saint",
-        "dates": ""
-      },
       {
         "name": "Bruno",
         "role": "",
@@ -1553,17 +1279,7 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Mary",
-        "role": "Virgin Mary",
-        "dates": ""
-      },
-      {
         "name": "Bruno",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "God",
         "role": "",
         "dates": ""
       }
@@ -1601,16 +1317,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "M\u00e9dard",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "S\u00e9bastien",
-        "role": "saint",
-        "dates": ""
-      },
       {
         "name": "Mo\u00efse",
         "role": "prophet",
@@ -1721,11 +1427,6 @@
         "dates": ""
       },
       {
-        "name": "Virgin Mary",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
         "name": "Bruno",
         "role": "Patri (Father/Abbot)",
         "dates": ""
@@ -1772,13 +1473,7 @@
     "title": "T. sancti Luciani, Belvagorum apostoli et martyris.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Lucien",
-        "role": "saint, apostle and martyr",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 96
   },
   {
@@ -1839,11 +1534,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
-      {
         "name": "Altonitans",
         "role": "",
         "dates": ""
@@ -1858,16 +1548,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Fursy",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "God",
-        "role": "",
-        "dates": ""
-      },
       {
         "name": "Bruno",
         "role": "",
@@ -1902,11 +1582,6 @@
         "name": "Bruno",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "God",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 103
@@ -1917,13 +1592,7 @@
     "title": "92 [76] S.d.- S. Amand.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Father/God",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 104
   },
   {
@@ -1933,11 +1602,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
       {
         "name": "Bruno",
         "role": "Father/Abbot",
@@ -1955,11 +1619,6 @@
     "entities": [
       {
         "name": "Bruno",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       }
@@ -2102,16 +1761,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Mary",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Cyprian",
-        "role": "martyr",
-        "dates": ""
-      },
-      {
         "name": "Bruno",
         "role": "",
         "dates": ""
@@ -2126,11 +1775,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "John",
-        "role": "evangelist of Poitiers",
-        "dates": ""
-      },
       {
         "name": "Bruno",
         "role": "",
@@ -2154,18 +1798,7 @@
     "title": "105 [173] S.d.- Vierzon, S. Pierre.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "God",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 119
   },
   {
@@ -2203,11 +1836,6 @@
         "name": "Bruno",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 122
@@ -2221,11 +1849,6 @@
     "entities": [
       {
         "name": "Bruno",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       }
@@ -2338,11 +1961,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Leodegar",
-        "role": "martyr",
-        "dates": ""
-      },
-      {
         "name": "Bruno",
         "role": "",
         "dates": ""
@@ -2376,13 +1994,7 @@
     "title": "T. Sanct\u00e6 Marie Convatrensis (a) ecclesie in Anglia.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christ",
-        "role": "King",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 133
   },
   {
@@ -2399,11 +2011,6 @@
       },
       {
         "name": "Bruno",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       }
@@ -2471,11 +2078,6 @@
         "name": "Bruno",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "God/Father",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 136
@@ -2541,11 +2143,6 @@
         "name": "Bruno",
         "role": "master/teacher",
         "dates": ""
-      },
-      {
-        "name": "Father (God)",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 140
@@ -2557,11 +2154,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Mary",
-        "role": "",
-        "dates": ""
-      },
       {
         "name": "Bruno",
         "role": "",
@@ -2576,18 +2168,7 @@
     "title": "128 [84] S.d.- [Canterbury,] S. Peter, S. Augustine.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Peter",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Augustine",
-        "role": "apostle of the English",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 142
   },
   {
@@ -2597,11 +2178,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Edmund",
-        "role": "king and martyr",
-        "dates": ""
-      },
       {
         "name": "Bruno",
         "role": "father and hermit",
@@ -2631,18 +2207,7 @@
     "title": "131 [88] S.d.- Spalding, S. Mary et S. Nicholas (3).",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Nicholas",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 145
   },
   {
@@ -2654,11 +2219,6 @@
     "entities": [
       {
         "name": "Bruno",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Mary",
         "role": "",
         "dates": ""
       }
@@ -2674,11 +2234,6 @@
     "entities": [
       {
         "name": "Bruno",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "God",
         "role": "",
         "dates": ""
       }
@@ -2718,11 +2273,6 @@
     "entities": [
       {
         "name": "Bruno",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       }
@@ -2815,11 +2365,6 @@
         "name": "Bruno",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "God",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 155
@@ -2843,11 +2388,6 @@
       },
       {
         "name": "Bruno",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       }
@@ -2875,13 +2415,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Phoebus",
-        "role": "Apollo/Sun god",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 158
   },
   {
@@ -2894,11 +2428,6 @@
       {
         "name": "Bruno",
         "role": "monk/hermit",
-        "dates": ""
-      },
-      {
-        "name": "God",
-        "role": "",
         "dates": ""
       }
     ],
@@ -2913,11 +2442,6 @@
     "entities": [
       {
         "name": "Bruno",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       }
@@ -2969,13 +2493,7 @@
     "title": "147 [112] S.d.- Rouen, S. Trinit\u00e9-du-Mont.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 164
   },
   {
@@ -3046,11 +2564,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Saint Vigor",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Bruno",
         "role": "monk",
         "dates": ""
@@ -3068,11 +2581,6 @@
       {
         "name": "Bruno",
         "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "divinity",
         "dates": ""
       }
     ],
@@ -3101,11 +2609,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Saint Michael",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Bruno",
         "role": "man of religion",
         "dates": ""
@@ -3122,11 +2625,6 @@
     "entities": [
       {
         "name": "Bruno",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       }
@@ -3157,11 +2655,6 @@
     "entities": [
       {
         "name": "Bruno",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       }
@@ -3249,16 +2742,6 @@
         "name": "Bruno",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Christum",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 180
@@ -3304,11 +2787,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Christ",
-        "role": "king/ruler of the catholic church",
-        "dates": ""
-      },
       {
         "name": "Bruno",
         "role": "",
@@ -3418,11 +2896,6 @@
         "name": "Bruno",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 188
@@ -3446,11 +2919,6 @@
       },
       {
         "name": "Bruno",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
         "role": "",
         "dates": ""
       }
@@ -3570,16 +3038,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Peter",
-        "role": "Apostle",
-        "dates": ""
-      },
-      {
-        "name": "Paul",
-        "role": "Apostle",
-        "dates": ""
-      },
-      {
         "name": "Renco",
         "role": "",
         "dates": ""
@@ -3663,18 +3121,7 @@
     "title": "fragment original",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christ",
-        "role": "deity",
-        "dates": ""
-      },
-      {
-        "name": "Romanus",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 197
   }
 ]

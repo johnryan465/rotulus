@@ -44,11 +44,6 @@
         "dates": ""
       },
       {
-        "name": "Edmund",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
         "name": "Ancon",
         "role": "monk/scribe",
         "dates": ""
@@ -64,11 +59,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
-      {
         "name": "Saint Remigius",
         "role": "",
         "dates": ""
@@ -83,11 +73,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
       {
         "name": "Laetithian",
         "role": "",

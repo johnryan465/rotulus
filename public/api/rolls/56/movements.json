@@ -119,13 +119,7 @@
     "title": "3 21 octobre ... Paris, cath\u00e9drale (N.-D.)",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Virgin Mary",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 3
   },
   {
@@ -145,17 +139,7 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Christ",
-        "role": "pastor",
-        "dates": ""
-      },
-      {
         "name": "original_name\ub098 Benedictus",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "original_title': 'pastor', 'footnote_num': null, 'normalized_name': 'Benedict', 'normalized_role': 'pastor', 'normalized_dates': '', 'location_name': null}, {",
         "role": "",
         "dates": ""
       }

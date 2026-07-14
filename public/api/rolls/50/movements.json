@@ -5,13 +5,7 @@
     "title": "20 juin ...\u2014Fleury.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Phoebus",
-        "role": "god",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 0
   },
   {
@@ -21,11 +15,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "God",
-        "role": "",
-        "dates": ""
-      },
       {
         "name": "Lord",
         "role": "",
@@ -88,11 +77,6 @@
       },
       {
         "name": "Benedict",
-        "role": "",
-        "dates": ""
-      },
-      {
-        "name": "God",
         "role": "",
         "dates": ""
       }

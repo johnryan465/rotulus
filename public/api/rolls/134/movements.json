@@ -16,16 +16,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Peter",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
-        "name": "Paul",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
         "name": "Odo",
         "role": "abbot/lord",
         "dates": ""

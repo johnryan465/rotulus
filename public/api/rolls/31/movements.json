@@ -5,13 +5,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Remigius",
-        "role": "Apostle of the Franks",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 0
   },
   {

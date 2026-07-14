@@ -35,7 +35,6 @@
       "Bernard",
       "Bladin",
       "Bracingus",
-      "Christ",
       "Dalmatian",
       "Durannus",
       "Francon",
@@ -51,8 +50,6 @@
       "Ogger",
       "Oggerio",
       "Opizo",
-      "Paul",
-      "Peter",
       "Pontius",
       "Raymond",
       "Robert",
@@ -96,14 +93,11 @@
     "people": [
       "Bernard",
       "Bernhard",
-      "Christ",
       "Domnus Miron",
       "Guifredo",
       "Mars/Martis",
       "Martin",
-      "Perlicto",
-      "Saint Michael",
-      "Virgin Mary"
+      "Perlicto"
     ]
   },
   {
@@ -140,10 +134,7 @@
       "Bruno",
       "Charles",
       "Charles the Bald",
-      "Christ",
       "Dagobert",
-      "Denis",
-      "Dionysius the Areopagite",
       "Furaud",
       "Gozfred",
       "Guillaume",
@@ -186,7 +177,6 @@
       "Adelaide",
       "Berninga",
       "Berte",
-      "Christ",
       "Crispin",
       "Crispinianus",
       "Dieu",
@@ -198,31 +188,27 @@
       "Eve",
       "Fagaela",
       "Gela",
-      "Gervais",
-      "Gregory",
       "Helvide",
       "Hildeburg",
       "Hugo",
       "Ide",
       "Isitburg",
-      "J\u00e9sus-Christ",
       "Landrade",
       "Marinus",
       "Martin",
-      "Mary",
       "Mary of Soissons",
       "Mathilde",
-      "Medard",
       "Norhilde",
       "Notre Dame",
       "Ode",
       "Odile",
       "Pontia",
-      "Protais",
       "Richilde",
       "Rosmoda",
-      "Sebastian",
-      "Vitalis"
+      "Vitalis",
+      "Wifred",
+      "Wiveta",
+      "\u00c9lisabeth"
     ]
   },
   {
@@ -261,7 +247,6 @@
       "Berenger",
       "Bernard",
       "Bernuin",
-      "Christ",
       "Constantine",
       "Eberhard",
       "Exalinc",
@@ -278,7 +263,6 @@
       "Odo",
       "Ogger",
       "Oriol",
-      "Phoebus",
       "Stephen",
       "Tegerius",
       "Vincentius",
@@ -360,14 +344,8 @@
     "people": [
       "Albinus",
       "Bernard",
-      "Christ",
       "Marbod of Rennes",
       "Peter",
-      "Saint Bacchus",
-      "Saint Bachus",
-      "Saint Maurice",
-      "Saint Nicolas",
-      "Saint Serge",
       "Samar",
       "Simon Magus",
       "Vitalis",
@@ -408,8 +386,7 @@
       "Raoul",
       "Robert",
       "Roger",
-      "Saint Florentinus",
-      "Saint Florentinus of Bonneval"
+      "Saint Florentinus"
     ]
   },
   {
@@ -443,11 +420,9 @@
       "Guillelmus",
       "Gyrolus",
       "Lucas",
-      "Peter",
       "Pontius",
       "Raymond",
       "Robert",
-      "Saint Peter the Apostle of Bourgueil",
       "Saint Pierre",
       "Vitalis"
     ]
@@ -475,10 +450,8 @@
     ],
     "people": [
       "Austinus",
-      "Jaime Bitterense",
       "Pontius",
       "Ragnard",
-      "Saint Jacques",
       "William",
       "Ysimbert"
     ]
@@ -506,13 +479,11 @@
     ],
     "people": [
       "Bruno",
-      "Christ",
       "Drogo",
       "Hamon",
       "Hugo",
       "Ingelram",
       "Lord",
-      "Mary",
       "Robert",
       "Walther"
     ]
@@ -647,11 +618,7 @@
       "Gonbert",
       "Hugues",
       "Jean",
-      "Landric",
-      "Marie",
-      "Saint C\u00e9lin",
-      "Saint Faron",
-      "\u00c9tienne"
+      "Landric"
     ]
   },
   {
@@ -682,7 +649,6 @@
       "Arnold",
       "Ascelin",
       "Benedict",
-      "Christ",
       "Dominic",
       "Evrard",
       "Hamon",
@@ -691,7 +657,6 @@
       "Rainald",
       "Robert",
       "Rollifer",
-      "Saint Magloire",
       "Ulric",
       "Waduere"
     ]
@@ -742,8 +707,7 @@
     "people": [
       "Bernard",
       "Einarund",
-      "G\u00e9raud",
-      "Notre-Dame"
+      "G\u00e9raud"
     ]
   },
   {
@@ -768,8 +732,7 @@
       "Ainaldis",
       "Garsendis",
       "Germania",
-      "Saint Cybard",
-      "Saint Eparchius"
+      "Saint Cybard"
     ]
   },
   {
@@ -796,9 +759,6 @@
       "Guibert",
       "Martin",
       "Miron",
-      "Saint Abdon",
-      "Saint Nenn\u00e9n",
-      "Saint Tiburce",
       "Wifred"
     ]
   },
@@ -821,10 +781,7 @@
     ],
     "people": [
       "Cl\u00e9ment",
-      "Germain",
-      "Julien",
-      "Saint Germain",
-      "Saint \u00c9tienne"
+      "Germain"
     ]
   },
   {
@@ -931,10 +888,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Augustine",
-      "Peter"
-    ]
+    "people": []
   },
   {
     "name": "Chartres",
@@ -955,9 +909,7 @@
     ],
     "people": [
       "Bruno",
-      "Peter of Chartres",
-      "Robert",
-      "Saint Carauinus of Chartres"
+      "Robert"
     ]
   },
   {
@@ -986,9 +938,7 @@
       "Odolricus",
       "Poncius",
       "Rainus",
-      "Saint Foy",
       "Saint Sauveur, Sainte Foy",
-      "Saint Savior",
       "Stephanus II"
     ]
   },
@@ -1016,8 +966,7 @@
       "Cynemone",
       "Gerard",
       "Helio",
-      "Peter",
-      "Saint Marie"
+      "Peter"
     ]
   },
   {
@@ -1061,11 +1010,8 @@
     ],
     "people": [
       "Limoges",
-      "Mother of God",
       "Notre-Dame de la R\u00e8gle",
-      "Saint Augustine",
-      "Saint Martial",
-      "Virgin Mary"
+      "Saint Martial"
     ]
   },
   {
@@ -1087,8 +1033,7 @@
     ],
     "people": [
       "Girard",
-      "Robert",
-      "Saint Pierre"
+      "Robert"
     ]
   },
   {
@@ -1116,7 +1061,6 @@
       "Ermesinde",
       "Gerlanda",
       "Gundulf",
-      "Mary",
       "Matilda",
       "Saint Mary"
     ]
@@ -1182,7 +1126,6 @@
       "Gilbert",
       "Helias",
       "Hugo",
-      "Jesus Christ",
       "Seguin",
       "William",
       "William Bonabraget"
@@ -1206,8 +1149,7 @@
       }
     ],
     "people": [
-      "Saint Jean-Baptiste",
-      "Saint John the Baptist"
+      "Saint Jean-Baptiste"
     ]
   },
   {
@@ -1235,9 +1177,6 @@
       "Hilaire",
       "Petronilla",
       "Rainald",
-      "Saint Cyprien",
-      "Saint Hilaire le Grand",
-      "Sainte Radegonde",
       "Stephen"
     ]
   },
@@ -1259,9 +1198,7 @@
       }
     ],
     "people": [
-      "Rom\u00e8de",
-      "Saint Georges",
-      "Saint M\u00e9lan"
+      "Rom\u00e8de"
     ]
   },
   {
@@ -1282,9 +1219,7 @@
       }
     ],
     "people": [
-      "Mary",
-      "Saint Mary",
-      "Sainte Marie"
+      "Saint Mary"
     ]
   },
   {
@@ -1305,8 +1240,6 @@
       }
     ],
     "people": [
-      "Mary",
-      "Saint Mary of Roses",
       "Sainte Marie"
     ]
   },
@@ -1328,7 +1261,6 @@
       }
     ],
     "people": [
-      "Basil",
       "Bruno",
       "Burchard",
       "Divinus",
@@ -1379,9 +1311,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Guilhem-le-D\u00e9sert"
-    ]
+    "people": []
   },
   {
     "name": "S. Pons-de-Thomi\u00e8res",
@@ -1404,7 +1334,6 @@
       "Berengar",
       "Matfred",
       "Peter",
-      "Saint Pons-de-Thomi\u00e8res",
       "Saint-Pons-de-Thomi\u00e8res"
     ]
   },
@@ -1452,7 +1381,6 @@
     "people": [
       "Berald",
       "Bernard",
-      "Christ",
       "Girard",
       "Torquatus"
     ]
@@ -1517,10 +1445,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Mary",
-      "Nicholas"
-    ]
+    "people": []
   },
   {
     "name": "Toulouse",
@@ -1568,7 +1493,6 @@
       "Anselme",
       "Ardaud",
       "Bernard",
-      "Christus",
       "Eudes",
       "Frodegon",
       "Fulcher",
@@ -1614,7 +1538,6 @@
       "Girbert",
       "Guillaume",
       "Ingelard",
-      "Julien",
       "Renaud",
       "Richard",
       "Saint Julien"
@@ -1638,7 +1561,6 @@
       }
     ],
     "people": [
-      "Saint Peter",
       "Saint Pierre"
     ]
   },
@@ -1660,9 +1582,7 @@
       }
     ],
     "people": [
-      "Mary",
-      "Notre Dame",
-      "Sergius"
+      "Notre Dame"
     ]
   },
   {
@@ -1703,8 +1623,6 @@
       "Pont",
       "Raoul",
       "Renaud",
-      "Saint Majan",
-      "Saint Martin",
       "Saint-Martin et Saint-Majan"
     ]
   },
@@ -1728,10 +1646,8 @@
     "people": [
       "Aldred",
       "Bruno",
-      "Christ",
       "Eve",
       "Gerard",
-      "God",
       "Richard",
       "Thomas",
       "Turstanus"
@@ -1751,10 +1667,8 @@
       }
     ],
     "people": [
-      "Albert",
       "Guifredo",
       "Guifrid",
-      "Martin",
       "Marvin of Albert"
     ]
   },
@@ -1925,7 +1839,6 @@
     ],
     "people": [
       "Bruno",
-      "Christ",
       "Jesse",
       "Plato",
       "Vulgrin of Mauricella"
@@ -1945,11 +1858,7 @@
       }
     ],
     "people": [
-      "Andochi",
-      "Caetinus",
-      "Gabriel",
-      "Mary",
-      "Symphorianus"
+      "Caetinus"
     ]
   },
   {
@@ -1966,9 +1875,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Saint Stephen",
-      "Saint \u00c9tienne"
+      "Bruno"
     ]
   },
   {
@@ -2069,8 +1976,7 @@
     ],
     "people": [
       "Bruno",
-      "Notre-Dame",
-      "Saint Georges"
+      "Notre-Dame"
     ]
   },
   {
@@ -2087,8 +1993,7 @@
       }
     ],
     "people": [
-      "Notre-Dame",
-      "Quintin"
+      "Notre-Dame"
     ]
   },
   {
@@ -2149,8 +2054,7 @@
     ],
     "people": [
       "Bruno",
-      "Notre-Dame de Bourgron",
-      "Saint Calais"
+      "Notre-Dame de Bourgron"
     ]
   },
   {
@@ -2199,9 +2103,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Ursinus"
-    ]
+    "people": []
   },
   {
     "name": "Bouteville",
@@ -2243,8 +2145,7 @@
     ],
     "people": [
       "Peter",
-      "Saint Pierre",
-      "Sicaire"
+      "Saint Pierre"
     ]
   },
   {
@@ -2261,7 +2162,6 @@
       }
     ],
     "people": [
-      "Julian",
       "Stephen"
     ]
   },
@@ -2279,7 +2179,6 @@
       }
     ],
     "people": [
-      "Saint Pierre",
       "Stephen",
       "Warnegrim"
     ]
@@ -2337,7 +2236,6 @@
       "Richard",
       "Robert",
       "Roger",
-      "Saint Stephen of Caen",
       "Samuel",
       "Stephen",
       "William"
@@ -2358,8 +2256,7 @@
     ],
     "people": [
       "Bernardo",
-      "Hugo",
-      "Saint Vincent"
+      "Hugo"
     ]
   },
   {
@@ -2378,9 +2275,7 @@
     "people": [
       "Benedict",
       "Gauzbert",
-      "Saint Benedict",
-      "Saint Beno\u00eet",
-      "Vincent"
+      "Saint Beno\u00eet"
     ]
   },
   {
@@ -2397,7 +2292,6 @@
       }
     ],
     "people": [
-      "Peter the Apostle",
       "Saint Peter",
       "Vitalis"
     ]
@@ -2451,11 +2345,9 @@
       }
     ],
     "people": [
-      "Christ",
       "Mathilde",
       "Satan",
-      "Vitalis",
-      "\u00c9tienne"
+      "Vitalis"
     ]
   },
   {
@@ -2531,8 +2423,6 @@
       }
     ],
     "people": [
-      "Paul",
-      "Peter",
       "Saint Paul",
       "Saint Pierre"
     ]
@@ -2554,7 +2444,6 @@
       "Bartholomew",
       "Bernier",
       "John",
-      "Paul",
       "Simon"
     ]
   },
@@ -2572,7 +2461,6 @@
       }
     ],
     "people": [
-      "Mary Columba",
       "Robert"
     ]
   },
@@ -2589,9 +2477,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Christ"
-    ]
+    "people": []
   },
   {
     "name": "Ely",
@@ -2607,10 +2493,7 @@
       }
     ],
     "people": [
-      "Ely",
-      "Saint Etheldred",
-      "Saint Peter",
-      "Saint Pierre"
+      "Ely"
     ]
   },
   {
@@ -2626,9 +2509,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Mary"
-    ]
+    "people": []
   },
   {
     "name": "Ess\u00f4mes[sur-Marne]",
@@ -2650,7 +2531,6 @@
       "Otard",
       "Rodther",
       "Rodulf",
-      "Saint Ferr\u00e9ol",
       "Wido",
       "\u00c9tienne"
     ]
@@ -2671,15 +2551,11 @@
     "people": [
       "Aethelwine",
       "Alberic/Alperdo",
-      "Christ",
       "Colling",
       "Manno",
-      "Mary",
       "Matilda",
       "Ormer",
       "Peter",
-      "Saint Egwin",
-      "Saint Mary",
       "Walter"
     ]
   },
@@ -2763,7 +2639,6 @@
       "Basilla",
       "Caesuda",
       "Caudiodunum",
-      "Christ",
       "Dodona",
       "Elisabeth",
       "Emma",
@@ -2834,8 +2709,7 @@
       }
     ],
     "people": [
-      "Sainte Marie",
-      "Santa Mar\u00eda"
+      "Sainte Marie"
     ]
   },
   {
@@ -2858,7 +2732,6 @@
       "Guillaume",
       "Raoul",
       "Saint Austremonius",
-      "Savior",
       "Wilfrid",
       "\u00c9tienne"
     ]
@@ -2880,7 +2753,6 @@
       "Giraldus",
       "Hugo",
       "Letericus",
-      "Mary",
       "Notre Dame"
     ]
   },
@@ -2899,7 +2771,6 @@
     ],
     "people": [
       "Bernard",
-      "Christ",
       "Paul",
       "Peter",
       "Saint Pierre"
@@ -2925,7 +2796,6 @@
       "Garnier",
       "Hernulf",
       "Herv\u00e9",
-      "Mary of Josaphat",
       "Robert",
       "Rualdus"
     ]
@@ -2963,7 +2833,6 @@
     ],
     "people": [
       "Bruno",
-      "God",
       "Notre-Dame"
     ]
   },
@@ -3057,9 +2926,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Lambert of Li\u00e8ge"
-    ]
+    "people": []
   },
   {
     "name": "London",
@@ -3288,7 +3155,6 @@
       }
     ],
     "people": [
-      "Eligius",
       "Hugh"
     ]
   },
@@ -3306,7 +3172,6 @@
       }
     ],
     "people": [
-      "Saint Isidore",
       "Saint Mary"
     ]
   },
@@ -3323,10 +3188,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Germain des Pr\u00e9s",
-      "Sainte Genevi\u00e8ve"
-    ]
+    "people": []
   },
   {
     "name": "Orl\u00e9ans, S. Aignan",
@@ -3342,7 +3204,6 @@
       }
     ],
     "people": [
-      "Anianus",
       "Haimo",
       "Ledogearius",
       "Letaldus",
@@ -3362,10 +3223,7 @@
         "roll_num": 114
       }
     ],
-    "people": [
-      "Mary",
-      "Virgin Mary"
-    ]
+    "people": []
   },
   {
     "name": "Paris, S. Magloire",
@@ -3382,7 +3240,6 @@
     ],
     "people": [
       "L\u00e9viathan",
-      "Magloire",
       "Robert"
     ]
   },
@@ -3400,9 +3257,6 @@
       }
     ],
     "people": [
-      "Genevieve of Paris",
-      "Paul",
-      "Peter",
       "Robert",
       "Vitalis"
     ]
@@ -3438,8 +3292,7 @@
       }
     ],
     "people": [
-      "Peterborough",
-      "Saint Peter"
+      "Peterborough"
     ]
   },
   {
@@ -3514,8 +3367,7 @@
       }
     ],
     "people": [
-      "Pontefract",
-      "Saint John the Evangelist"
+      "Pontefract"
     ]
   },
   {
@@ -3535,12 +3387,8 @@
       "Amalicus",
       "Fulco",
       "Gautier",
-      "Gertrude",
-      "Hildeburg",
       "Michael",
       "Radulf",
-      "Saint Germain",
-      "Saint Martin",
       "William"
     ]
   },
@@ -3573,7 +3421,6 @@
       }
     ],
     "people": [
-      "Benedict",
       "Bishop of Quincy"
     ]
   },
@@ -3591,8 +3438,7 @@
       }
     ],
     "people": [
-      "Adam",
-      "Sainte Marie"
+      "Adam"
     ]
   },
   {
@@ -3609,8 +3455,7 @@
       }
     ],
     "people": [
-      "Mathilda",
-      "Saint Sauveur"
+      "Mathilda"
     ]
   },
   {
@@ -3646,12 +3491,8 @@
     "people": [
       "Apollinaire",
       "Bruno",
-      "Christ",
       "Nicolas",
       "Saint Pierre",
-      "Saint Pierre le Haut",
-      "Saint Remi",
-      "Saint Symphorien",
       "Timoth\u00e9e"
     ]
   },
@@ -3701,7 +3542,6 @@
       "Arnulf",
       "Gundulf",
       "Matilda",
-      "Saint Andr\u00e9",
       "Siward"
     ]
   },
@@ -3738,13 +3578,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Mary",
-      "Saint Amand",
-      "Saint Ouen",
-      "Saint Paul",
-      "Sainte Trinit\u00e9 du Mont"
-    ]
+    "people": []
   },
   {
     "name": "S. Amant-de-Boixe",
@@ -3759,9 +3593,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Amant"
-    ]
+    "people": []
   },
   {
     "name": "S. Genis-des-Fontaines",
@@ -3804,9 +3636,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Hilaire"
-    ]
+    "people": []
   },
   {
     "name": "S. Laurent-de-Cerdans",
@@ -3949,7 +3779,6 @@
     "people": [
       "Audomar",
       "Bruno",
-      "Christ",
       "Fulco"
     ]
   },
@@ -3967,8 +3796,7 @@
       }
     ],
     "people": [
-      "G\u00e9rard",
-      "Paul"
+      "G\u00e9rard"
     ]
   },
   {
@@ -3984,9 +3812,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Sainte Radegonde"
-    ]
+    "people": []
   },
   {
     "name": "S. Remi",
@@ -4003,9 +3829,7 @@
     ],
     "people": [
       "Aytard",
-      "Christ",
       "Raynald",
-      "Remigius",
       "Tetbald",
       "Theodoric"
     ]
@@ -4024,8 +3848,7 @@
       }
     ],
     "people": [
-      "Mathilde",
-      "Severus"
+      "Mathilde"
     ]
   },
   {
@@ -4059,9 +3882,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Christ",
-      "Sainte Trinit\u00e9"
+      "Bruno"
     ]
   },
   {
@@ -4112,7 +3933,6 @@
       }
     ],
     "people": [
-      "Peter",
       "Saint-Pierre"
     ]
   },
@@ -4130,8 +3950,6 @@
       }
     ],
     "people": [
-      "Christ",
-      "Martin",
       "Mathilda",
       "Poncius"
     ]
@@ -4164,9 +3982,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Gregory"
-    ]
+    "people": []
   },
   {
     "name": "Thierry",
@@ -4181,10 +3997,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Bartholom\u00e9",
-      "Saint Thierry"
-    ]
+    "people": []
   },
   {
     "name": "Thorney",
@@ -4200,9 +4013,6 @@
       }
     ],
     "people": [
-      "Botolph",
-      "Mary",
-      "Saint Mary",
       "Thorney"
     ]
   },
@@ -4276,7 +4086,6 @@
       }
     ],
     "people": [
-      "Mary",
       "Notre-Dame"
     ]
   },
@@ -4295,8 +4104,6 @@
     ],
     "people": [
       "Berengar",
-      "Christ",
-      "God",
       "Jobert",
       "Raimund",
       "Richard",
@@ -4347,7 +4154,6 @@
       "Florentius",
       "Henry",
       "Maurus",
-      "Saint Mary",
       "Samson",
       "Symeon",
       "Thora",
@@ -4407,10 +4213,7 @@
         "roll_num": 123
       }
     ],
-    "people": [
-      "John",
-      "Paul"
-    ]
+    "people": []
   },
   {
     "name": "[Chartres, S. Martin-au-Val.",
@@ -4422,7 +4225,6 @@
       }
     ],
     "people": [
-      "Mary",
       "Vitalis"
     ]
   },
@@ -4435,9 +4237,7 @@
         "roll_num": 140
       }
     ],
-    "people": [
-      "John of Chartres"
-    ]
+    "people": []
   },
   {
     "name": "[Chelles]",
@@ -4455,7 +4255,6 @@
       "Ermengarde",
       "Halvide",
       "Havide",
-      "Marie",
       "Mathilde",
       "Od\u00e8le",
       "Ricilde",
@@ -4512,9 +4311,6 @@
     "people": [
       "Godefroy",
       "Hugo",
-      "L\u00e9onard",
-      "Paul",
-      "Pierre",
       "Vido"
     ]
   },
@@ -4528,9 +4324,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Christ",
-      "\u00c9tienne"
+      "Bruno"
     ]
   },
   {
@@ -4542,9 +4336,7 @@
         "roll_num": 105
       }
     ],
-    "people": [
-      "Bruno"
-    ]
+    "people": []
   },
   {
     "name": "[Lenton], Holy Trinity",
@@ -4568,9 +4360,7 @@
         "roll_num": 123
       }
     ],
-    "people": [
-      "Pancras"
-    ]
+    "people": []
   },
   {
     "name": "[Lewes]",
@@ -4581,9 +4371,7 @@
         "roll_num": 114
       }
     ],
-    "people": [
-      "Pancras"
-    ]
+    "people": []
   },
   {
     "name": "[Li\u00e8ge,] S. Croix.",
@@ -4608,8 +4396,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Christ"
+      "Bruno"
     ]
   },
   {
@@ -4638,9 +4425,7 @@
         "roll_num": 114
       }
     ],
-    "people": [
-      "Saint Martin"
-    ]
+    "people": []
   },
   {
     "name": "[Paris,] S. Pierre, S. Paul, S. Genevi\u00e8ve",
@@ -4668,8 +4453,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "John"
+      "Bruno"
     ]
   },
   {
@@ -4682,9 +4466,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Cyprian",
-      "Mary"
+      "Bruno"
     ]
   },
   {
@@ -4710,8 +4492,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Leodegar"
+      "Bruno"
     ]
   },
   {
@@ -4758,7 +4539,6 @@
       }
     ],
     "people": [
-      "Benedictus",
       "Crispinianus",
       "Crispus"
     ]
@@ -4773,7 +4553,6 @@
       }
     ],
     "people": [
-      "Andrew",
       "Miron",
       "Wilfrid"
     ]
@@ -4825,8 +4604,7 @@
       }
     ],
     "people": [
-      "Abbotsbury",
-      "Saint Peter the Apostle"
+      "Abbotsbury"
     ]
   },
   {
@@ -4864,8 +4642,7 @@
       }
     ],
     "people": [
-      "Acre",
-      "Saint Mary"
+      "Acre"
     ]
   },
   {
@@ -4891,9 +4668,7 @@
         "roll_num": 127
       }
     ],
-    "people": [
-      "Holy Savior"
-    ]
+    "people": []
   },
   {
     "name": "Ala\u00f3",
@@ -5069,9 +4844,7 @@
         "roll_num": 114
       }
     ],
-    "people": [
-      "Saint Maurice"
-    ]
+    "people": []
   },
   {
     "name": "Angers, S. Aubin",
@@ -5167,8 +4940,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Jesus"
+      "Bruno"
     ]
   },
   {
@@ -5191,11 +4963,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Aldon",
-      "Saint Semnon",
-      "Saint Tiburce"
-    ]
+    "people": []
   },
   {
     "name": "Arlon-Tech",
@@ -5242,8 +5010,7 @@
       }
     ],
     "people": [
-      "Notre-Dame",
-      "Saint Vaast"
+      "Notre-Dame"
     ]
   },
   {
@@ -5281,10 +5048,7 @@
         "roll_num": 122
       }
     ],
-    "people": [
-      "Paul",
-      "Peter"
-    ]
+    "people": []
   },
   {
     "name": "Arundel",
@@ -5296,7 +5060,6 @@
       }
     ],
     "people": [
-      "Nicholas",
       "Vitalis"
     ]
   },
@@ -5420,8 +5183,7 @@
       }
     ],
     "people": [
-      "Aureil",
-      "Saint John the Evangelist"
+      "Aureil"
     ]
   },
   {
@@ -5433,9 +5195,7 @@
         "roll_num": 51
       }
     ],
-    "people": [
-      "Dominus"
-    ]
+    "people": []
   },
   {
     "name": "Autun, S. Martin.",
@@ -5446,9 +5206,7 @@
         "roll_num": 72
       }
     ],
-    "people": [
-      "Saint Martin"
-    ]
+    "people": []
   },
   {
     "name": "Aux-en-Provence",
@@ -5503,9 +5261,7 @@
         "roll_num": 114
       }
     ],
-    "people": [
-      "God/Christ"
-    ]
+    "people": []
   },
   {
     "name": "Avenensis",
@@ -5587,8 +5343,7 @@
     "people": [
       "Bonifilius",
       "Oliva",
-      "Peter",
-      "Saint Stephen"
+      "Peter"
     ]
   },
   {
@@ -5625,7 +5380,6 @@
       }
     ],
     "people": [
-      "Saint Oswald",
       "Vitalis"
     ]
   },
@@ -5696,9 +5450,7 @@
       }
     ],
     "people": [
-      "Lucien",
-      "Saint Quentin",
-      "Saint Symphorien"
+      "Lucien"
     ]
   },
   {
@@ -5962,9 +5714,7 @@
         "roll_num": 105
       }
     ],
-    "people": [
-      "Lucien"
-    ]
+    "people": []
   },
   {
     "name": "Belvoir",
@@ -5997,9 +5747,7 @@
         "roll_num": 108
       }
     ],
-    "people": [
-      "Winoc"
-    ]
+    "people": []
   },
   {
     "name": "Bermondsey",
@@ -6090,9 +5838,7 @@
     ],
     "people": [
       "Boniface",
-      "Concordius",
-      "Marinus",
-      "Primus"
+      "Marinus"
     ]
   },
   {
@@ -6104,9 +5850,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Jean"
-    ]
+    "people": []
   },
   {
     "name": "Beverley, S. John",
@@ -6132,8 +5876,7 @@
       }
     ],
     "people": [
-      "Gregory",
-      "normalized_dates/': '',"
+      "Gregory"
     ]
   },
   {
@@ -6383,9 +6126,7 @@
         "roll_num": 141
       }
     ],
-    "people": [
-      "Martin"
-    ]
+    "people": []
   },
   {
     "name": "Brogne",
@@ -6410,9 +6151,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Donat"
-    ]
+    "people": []
   },
   {
     "name": "Brugge",
@@ -6445,9 +6184,7 @@
         "roll_num": 123
       }
     ],
-    "people": [
-      "Peter"
-    ]
+    "people": []
   },
   {
     "name": "Burscheid",
@@ -6461,7 +6198,6 @@
     "people": [
       "Benedict",
       "Carus",
-      "John of Balthe",
       "Miron",
       "Theodoric"
     ]
@@ -6511,8 +6247,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Edmund"
+      "Bruno"
     ]
   },
   {
@@ -6525,7 +6260,6 @@
       }
     ],
     "people": [
-      "Edmund",
       "Vitalis"
     ]
   },
@@ -6550,8 +6284,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Pierre"
+      "Bruno"
     ]
   },
   {
@@ -6630,9 +6363,7 @@
       }
     ],
     "people": [
-      "Christ",
       "Fulcher",
-      "Mary",
       "Radulf",
       "Vitalis"
     ]
@@ -6693,9 +6424,7 @@
         "roll_num": 123
       }
     ],
-    "people": [
-      "Christ"
-    ]
+    "people": []
   },
   {
     "name": "Caprodron, S. Pere",
@@ -6717,9 +6446,7 @@
         "roll_num": 72
       }
     ],
-    "people": [
-      "Saint Hilaire"
-    ]
+    "people": []
   },
   {
     "name": "Carcassonne",
@@ -6730,9 +6457,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Zoilus"
-    ]
+    "people": []
   },
   {
     "name": "Carri\u00f3n [de los Condes]",
@@ -6777,8 +6502,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "God/Father"
+      "Bruno"
     ]
   },
   {
@@ -6812,9 +6536,7 @@
         "roll_num": 72
       }
     ],
-    "people": [
-      "Saint Vincent"
-    ]
+    "people": []
   },
   {
     "name": "Catalaunensis",
@@ -6826,7 +6548,6 @@
       }
     ],
     "people": [
-      "Christ",
       "Hugo"
     ]
   },
@@ -6839,9 +6560,7 @@
         "roll_num": 72
       }
     ],
-    "people": [
-      "Christo"
-    ]
+    "people": []
   },
   {
     "name": "Cathalaunensis cenobii",
@@ -6900,9 +6619,7 @@
         "roll_num": 72
       }
     ],
-    "people": [
-      "Saint Pierre"
-    ]
+    "people": []
   },
   {
     "name": "Caunes (Ruff)",
@@ -6938,8 +6655,6 @@
       }
     ],
     "people": [
-      "Corneille",
-      "Cyprien",
       "Paul",
       "Pierre",
       "Saint Paul",
@@ -7028,9 +6743,7 @@
         "roll_num": 72
       }
     ],
-    "people": [
-      "Saint Marcellinus"
-    ]
+    "people": []
   },
   {
     "name": "Charleval",
@@ -7044,8 +6757,6 @@
     "people": [
       "Haimer",
       "Rodert",
-      "Saint Martin",
-      "Saint Mary",
       "William",
       "Yvon"
     ]
@@ -7059,10 +6770,7 @@
         "roll_num": 72
       }
     ],
-    "people": [
-      "Fortunatus",
-      "Stephen"
-    ]
+    "people": []
   },
   {
     "name": "Charraz",
@@ -7135,9 +6843,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Christ",
-      "God"
+      "Bruno"
     ]
   },
   {
@@ -7150,8 +6856,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Christ"
+      "Bruno"
     ]
   },
   {
@@ -7187,8 +6892,6 @@
       "Milo",
       "Oggier",
       "Opizzo",
-      "Paul",
-      "Peter",
       "Pontius",
       "Raymond",
       "Renco",
@@ -7208,8 +6911,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Christ"
+      "Bruno"
     ]
   },
   {
@@ -7271,8 +6973,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Saint Mary"
+      "Bruno"
     ]
   },
   {
@@ -7430,10 +7131,7 @@
         "roll_num": 67
       }
     ],
-    "people": [
-      "Saint Faith",
-      "Saint Salvador"
-    ]
+    "people": []
   },
   {
     "name": "Conches[-en-Ouche]",
@@ -7487,8 +7185,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Christ"
+      "Bruno"
     ]
   },
   {
@@ -7513,11 +7210,7 @@
         "roll_num": 127
       }
     ],
-    "people": [
-      "Leonard",
-      "Paul",
-      "Peter"
-    ]
+    "people": []
   },
   {
     "name": "Corbiniansi Cenobii",
@@ -7530,8 +7223,6 @@
     ],
     "people": [
       "Leonard",
-      "Paul",
-      "Peter",
       "Veteran"
     ]
   },
@@ -7595,7 +7286,6 @@
     ],
     "people": [
       "Bruno",
-      "Christ",
       "Mainard"
     ]
   },
@@ -7632,9 +7322,7 @@
         "roll_num": 105
       }
     ],
-    "people": [
-      "Mary"
-    ]
+    "people": []
   },
   {
     "name": "Corn\u00e9",
@@ -7738,10 +7426,7 @@
         "roll_num": 123
       }
     ],
-    "people": [
-      "Bartholomew",
-      "Guthlac"
-    ]
+    "people": []
   },
   {
     "name": "Crowland",
@@ -7832,7 +7517,6 @@
       "Humbert",
       "Iterius",
       "Odalime",
-      "Saint Martin",
       "Wauthier"
     ]
   },
@@ -7846,8 +7530,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Mary"
+      "Bruno"
     ]
   },
   {
@@ -7870,9 +7553,7 @@
         "roll_num": 105
       }
     ],
-    "people": [
-      "B\u00e9nigne"
-    ]
+    "people": []
   },
   {
     "name": "Dijon, S. \u00c9tienne",
@@ -7917,9 +7598,7 @@
         "roll_num": 123
       }
     ],
-    "people": [
-      "Mary"
-    ]
+    "people": []
   },
   {
     "name": "Ducelio",
@@ -7943,9 +7622,7 @@
         "roll_num": 79
       }
     ],
-    "people": [
-      "Mary"
-    ]
+    "people": []
   },
   {
     "name": "Eboracum (York)",
@@ -7957,8 +7634,7 @@
       }
     ],
     "people": [
-      "Benedict",
-      "Savior (Christ)"
+      "Benedict"
     ]
   },
   {
@@ -7985,9 +7661,7 @@
       }
     ],
     "people": [
-      "Arbert",
-      "Paul",
-      "Peter"
+      "Arbert"
     ]
   },
   {
@@ -8002,11 +7676,9 @@
     "people": [
       "Alwin",
       "Edgar",
-      "Ethelred",
       "Godwin",
       "Guthmund",
       "Leofsin",
-      "Peter",
       "Richard",
       "Rivaldus",
       "Robert",
@@ -8092,9 +7764,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Marie"
-    ]
+    "people": []
   },
   {
     "name": "Eynsham, Holy Trinity, S. Mary",
@@ -8157,9 +7827,7 @@
         "roll_num": 104
       }
     ],
-    "people": [
-      "Mary"
-    ]
+    "people": []
   },
   {
     "name": "Falaise, S. Gervais",
@@ -8200,9 +7868,7 @@
       "Deodatus",
       "Gerard",
       "Herbert",
-      "Mary",
-      "Raymond",
-      "Vivian"
+      "Raymond"
     ]
   },
   {
@@ -8352,9 +8018,7 @@
         "roll_num": 141
       }
     ],
-    "people": [
-      "Marie Madeleine"
-    ]
+    "people": []
   },
   {
     "name": "Formosella (Voormezele)",
@@ -8391,9 +8055,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Gabriel"
-    ]
+    "people": []
   },
   {
     "name": "Gaille",
@@ -8452,7 +8114,6 @@
       "Boson",
       "Gerard",
       "Hubert",
-      "Mary",
       "Peter",
       "Trudbert"
     ]
@@ -8532,9 +8193,7 @@
         "roll_num": 114
       }
     ],
-    "people": [
-      "Saint Mary"
-    ]
+    "people": []
   },
   {
     "name": "Glastoni\u00e6",
@@ -8545,9 +8204,7 @@
         "roll_num": 123
       }
     ],
-    "people": [
-      "Mary"
-    ]
+    "people": []
   },
   {
     "name": "Glocestra",
@@ -8746,9 +8403,7 @@
         "roll_num": 105
       }
     ],
-    "people": [
-      "Christ"
-    ]
+    "people": []
   },
   {
     "name": "Irache",
@@ -8772,9 +8427,7 @@
         "roll_num": 104
       }
     ],
-    "people": [
-      "Mary"
-    ]
+    "people": []
   },
   {
     "name": "Issigeac",
@@ -8858,9 +8511,7 @@
         "roll_num": 114
       }
     ],
-    "people": [
-      "Christ"
-    ]
+    "people": []
   },
   {
     "name": "Jouarre",
@@ -8961,7 +8612,6 @@
     ],
     "people": [
       "Alberic",
-      "L\u00e9ofric",
       "Mathilde"
     ]
   },
@@ -9000,9 +8650,7 @@
         "roll_num": 142
       }
     ],
-    "people": [
-      "Maria"
-    ]
+    "people": []
   },
   {
     "name": "Lagny (sur Marne)",
@@ -9106,8 +8754,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Christ"
+      "Bruno"
     ]
   },
   {
@@ -9141,7 +8788,6 @@
     ],
     "people": [
       "Eudo",
-      "Theodfred",
       "Wibert"
     ]
   },
@@ -9159,7 +8805,6 @@
       "Herbert",
       "Mainachus",
       "Matthias",
-      "Michael",
       "Naimo",
       "Odo",
       "Ranulf",
@@ -9229,7 +8874,6 @@
       }
     ],
     "people": [
-      "God",
       "Saint Martin"
     ]
   },
@@ -9317,9 +8961,7 @@
         "roll_num": 105
       }
     ],
-    "people": [
-      "Christ"
-    ]
+    "people": []
   },
   {
     "name": "Lille, S. Pierre",
@@ -9331,8 +8973,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Christ"
+      "Bruno"
     ]
   },
   {
@@ -9358,8 +8999,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "God"
+      "Bruno"
     ]
   },
   {
@@ -9383,7 +9023,6 @@
       }
     ],
     "people": [
-      "Bartholomew",
       "Benedict",
       "Paul",
       "Saul",
@@ -9399,9 +9038,7 @@
         "roll_num": 79
       }
     ],
-    "people": [
-      "Saint Lawrence"
-    ]
+    "people": []
   },
   {
     "name": "Lligu\u00e9",
@@ -9551,9 +9188,7 @@
         "roll_num": 123
       }
     ],
-    "people": [
-      "Mary"
-    ]
+    "people": []
   },
   {
     "name": "Lonlay-[l'Abbaye]",
@@ -9578,8 +9213,7 @@
       }
     ],
     "people": [
-      "Rangerius",
-      "Saint Friag"
+      "Rangerius"
     ]
   },
   {
@@ -9710,9 +9344,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint L\u00e9onard de Noblat"
-    ]
+    "people": []
   },
   {
     "name": "L\u00e9rida",
@@ -9747,9 +9379,7 @@
         "roll_num": 122
       }
     ],
-    "people": [
-      "God"
-    ]
+    "people": []
   },
   {
     "name": "Maastricht",
@@ -9760,9 +9390,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Servatius"
-    ]
+    "people": []
   },
   {
     "name": "Maguelone, cath\u00e9drale.",
@@ -9878,8 +9506,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "God"
+      "Bruno"
     ]
   },
   {
@@ -9979,7 +9606,6 @@
     ],
     "people": [
       "Boso",
-      "Christ",
       "Raymond"
     ]
   },
@@ -10054,9 +9680,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Pierre"
-    ]
+    "people": []
   },
   {
     "name": "Maur-sur-Loire",
@@ -10143,9 +9767,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Sainte Memmie"
-    ]
+    "people": []
   },
   {
     "name": "Menat, S. M\u00e9nel\u00e9e",
@@ -10169,9 +9791,7 @@
         "roll_num": 123
       }
     ],
-    "people": [
-      "Mary"
-    ]
+    "people": []
   },
   {
     "name": "Messines, N.-D.",
@@ -10183,8 +9803,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Christ"
+      "Bruno"
     ]
   },
   {
@@ -10196,9 +9815,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Symphorian"
-    ]
+    "people": []
   },
   {
     "name": "Metz, cath\u00e9drale",
@@ -10264,9 +9881,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Michel en l'Herm"
-    ]
+    "people": []
   },
   {
     "name": "Micy",
@@ -10277,9 +9892,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Mesmin"
-    ]
+    "people": []
   },
   {
     "name": "Mideltonensis Ecclesia",
@@ -10290,10 +9903,7 @@
         "roll_num": 123
       }
     ],
-    "people": [
-      "Mary",
-      "Samson"
-    ]
+    "people": []
   },
   {
     "name": "Mileto",
@@ -10371,9 +9981,7 @@
         "roll_num": 105
       }
     ],
-    "people": [
-      "Bruno"
-    ]
+    "people": []
   },
   {
     "name": "Monaster-sur-Garrelle (Le)",
@@ -10399,8 +10007,7 @@
     ],
     "people": [
       "Gerardus",
-      "Larento",
-      "Tehofredus"
+      "Larento"
     ]
   },
   {
@@ -10436,9 +10043,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Chaffre"
-    ]
+    "people": []
   },
   {
     "name": "Montacute",
@@ -10486,9 +10091,7 @@
         "roll_num": 123
       }
     ],
-    "people": [
-      "Peter"
-    ]
+    "people": []
   },
   {
     "name": "Monte Rothomagi",
@@ -10620,9 +10223,7 @@
         "roll_num": 138
       }
     ],
-    "people": [
-      "Saint Denis"
-    ]
+    "people": []
   },
   {
     "name": "Montneuf (S. Jean-\u00c9vang\u00e9liste)",
@@ -10640,7 +10241,6 @@
       "Ingeladis",
       "Jaculinus",
       "John",
-      "John the Evangelist",
       "Lambert",
       "Letbald",
       "Richard",
@@ -10658,9 +10258,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Jean"
-    ]
+    "people": []
   },
   {
     "name": "Montolieu, S. Jean-Baptiste",
@@ -10672,8 +10270,7 @@
       }
     ],
     "people": [
-      "Herbert",
-      "John the Baptist"
+      "Herbert"
     ]
   },
   {
@@ -10734,8 +10331,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Mary"
+      "Bruno"
     ]
   },
   {
@@ -10778,9 +10374,7 @@
     ],
     "people": [
       "Bruno",
-      "Christ",
-      "John",
-      "Mary"
+      "John"
     ]
   },
   {
@@ -10879,9 +10473,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Paul"
-    ]
+    "people": []
   },
   {
     "name": "Najac",
@@ -10930,8 +10522,7 @@
       }
     ],
     "people": [
-      "Mary of Narbonne",
-      "Paul of Narbonne"
+      "Mary of Narbonne"
     ]
   },
   {
@@ -10977,7 +10568,6 @@
     ],
     "people": [
       "Auger",
-      "Baudilus",
       "Benedict",
       "Bernard",
       "Bernard the boy",
@@ -10988,7 +10578,6 @@
       "Peter",
       "Ponce",
       "Silvius",
-      "Stephen",
       "Umbert"
     ]
   },
@@ -11125,9 +10714,7 @@
       "Adalard",
       "Benedict",
       "Bernard",
-      "Denis",
       "Humbert",
-      "Perctus",
       "Widon",
       "William"
     ]
@@ -11156,7 +10743,6 @@
     ],
     "people": [
       "Benedict",
-      "Christ",
       "Mathilda"
     ]
   },
@@ -11169,9 +10755,7 @@
         "roll_num": 123
       }
     ],
-    "people": [
-      "Saint Oswald"
-    ]
+    "people": []
   },
   {
     "name": "Nostra-de-Bernassone",
@@ -11215,9 +10799,7 @@
       }
     ],
     "people": [
-      "Guifred",
-      "Michael the Archangel",
-      "Saint Stephen"
+      "Guifred"
     ]
   },
   {
@@ -11254,9 +10836,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "God",
-      "Mary"
+      "Bruno"
     ]
   },
   {
@@ -11291,7 +10871,6 @@
       "Helios",
       "Hugh",
       "Jordan",
-      "Junian",
       "Otto",
       "Peter",
       "Rainald",
@@ -11362,7 +10941,6 @@
       }
     ],
     "people": [
-      "Christ",
       "Drogo",
       "Paulin",
       "Pierre"
@@ -11390,9 +10968,7 @@
         "roll_num": 104
       }
     ],
-    "people": [
-      "Santa Mar\u00eda de Orga\u00f1a"
-    ]
+    "people": []
   },
   {
     "name": "Orl\u00e9ans, cath\u00e9drale",
@@ -11437,7 +11013,6 @@
       }
     ],
     "people": [
-      "Mary",
       "Vitalis"
     ]
   },
@@ -11512,9 +11087,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Antoine"
-    ]
+    "people": []
   },
   {
     "name": "Pamplona",
@@ -11553,7 +11126,6 @@
     ],
     "people": [
       "Adelaide",
-      "Denis",
       "Louis",
       "Philip"
     ]
@@ -11567,9 +11139,7 @@
         "roll_num": 79
       }
     ],
-    "people": [
-      "Christ"
-    ]
+    "people": []
   },
   {
     "name": "Paris, S. Germain-des-Pr\u201ds",
@@ -11735,9 +11305,7 @@
         "roll_num": 105
       }
     ],
-    "people": [
-      "Saint Martin"
-    ]
+    "people": []
   },
   {
     "name": "Piacenza",
@@ -11748,10 +11316,7 @@
         "roll_num": 105
       }
     ],
-    "people": [
-      "Justina",
-      "Mary"
-    ]
+    "people": []
   },
   {
     "name": "Pictavense",
@@ -11762,9 +11327,7 @@
         "roll_num": 72
       }
     ],
-    "people": [
-      "God"
-    ]
+    "people": []
   },
   {
     "name": "Pictaviense/Nannetiensis/Burgundaliensis",
@@ -11829,8 +11392,7 @@
     ],
     "people": [
       "Bruno",
-      "Peter",
-      "Virgin Mary"
+      "Peter"
     ]
   },
   {
@@ -11979,8 +11541,7 @@
       }
     ],
     "people": [
-      "Ebalus",
-      "Radegund"
+      "Ebalus"
     ]
   },
   {
@@ -12108,9 +11669,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Christ",
-      "Christum"
+      "Bruno"
     ]
   },
   {
@@ -12122,9 +11681,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint L\u00e9ger"
-    ]
+    "people": []
   },
   {
     "name": "Pr\u00e9aux",
@@ -12135,10 +11692,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Leger",
-      "Saint Pierre"
-    ]
+    "people": []
   },
   {
     "name": "Pr\u00e9aux, S. L\u00e9ger.",
@@ -12185,9 +11739,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Pierre"
-    ]
+    "people": []
   },
   {
     "name": "Pultariensis cenobii",
@@ -12212,9 +11764,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Pierre de la Tour"
-    ]
+    "people": []
   },
   {
     "name": "P\u00e9rigueux",
@@ -12239,9 +11789,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Fursy",
-      "God"
+      "Bruno"
     ]
   },
   {
@@ -12278,9 +11826,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Beno\u00eet"
-    ]
+    "people": []
   },
   {
     "name": "Radinsis",
@@ -12326,9 +11872,7 @@
         "roll_num": 127
       }
     ],
-    "people": [
-      "Saint Ragnebert"
-    ]
+    "people": []
   },
   {
     "name": "Ramerupt",
@@ -12339,9 +11883,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Notre-Dame"
-    ]
+    "people": []
   },
   {
     "name": "Ramerupt, N.-D.",
@@ -12376,9 +11918,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Beno\u00eet"
-    ]
+    "people": []
   },
   {
     "name": "Ramsey, S. Benedict",
@@ -12424,9 +11964,7 @@
         "roll_num": 123
       }
     ],
-    "people": [
-      "Saint Peter"
-    ]
+    "people": []
   },
   {
     "name": "Rehais",
@@ -12438,7 +11976,6 @@
       }
     ],
     "people": [
-      "Christ",
       "Gaufrid"
     ]
   },
@@ -12543,12 +12080,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Notre-Dame",
-      "Saint Denis",
-      "Saint Pierre le Haut",
-      "Saint R\u00e9mi"
-    ]
+    "people": []
   },
   {
     "name": "Remens",
@@ -12561,7 +12093,6 @@
     ],
     "people": [
       "Bruno",
-      "God",
       "Joseph"
     ]
   },
@@ -12578,7 +12109,6 @@
       "Ailfulus",
       "Airicus",
       "Algadus",
-      "Denis",
       "Erbaldus",
       "Fulcher",
       "Gausbert",
@@ -12673,9 +12203,7 @@
         "roll_num": 67
       }
     ],
-    "people": [
-      "San Martin"
-    ]
+    "people": []
   },
   {
     "name": "Rochester, cathedral (S. Andrew)",
@@ -12780,9 +12308,7 @@
         "roll_num": 105
       }
     ],
-    "people": [
-      "Christ"
-    ]
+    "people": []
   },
   {
     "name": "R\u00e9os (La)",
@@ -12807,7 +12333,6 @@
       }
     ],
     "people": [
-      "Alban",
       "Matilda"
     ]
   },
@@ -12820,9 +12345,7 @@
         "roll_num": 105
       }
     ],
-    "people": [
-      "Father/God"
-    ]
+    "people": []
   },
   {
     "name": "S. Amand-de-Coly",
@@ -12846,9 +12369,7 @@
         "roll_num": 141
       }
     ],
-    "people": [
-      "Saint Andr\u00e9"
-    ]
+    "people": []
   },
   {
     "name": "S. Antonin",
@@ -12873,7 +12394,6 @@
       }
     ],
     "people": [
-      "Ambrose",
       "Girard",
       "Hugh of Cleves",
       "Robert",
@@ -12900,9 +12420,7 @@
         "roll_num": 111
       }
     ],
-    "people": [
-      "Bertin"
-    ]
+    "people": []
   },
   {
     "name": "S. Bruno ne et des autres Cartusiens",
@@ -12954,9 +12472,7 @@
       }
     ],
     "people": [
-      "Christ",
-      "Cucufas",
-      "Mary"
+      "Cucufas"
     ]
   },
   {
@@ -13006,7 +12522,6 @@
       }
     ],
     "people": [
-      "Eugenius",
       "Robert"
     ]
   },
@@ -13020,8 +12535,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Christ"
+      "Bruno"
     ]
   },
   {
@@ -13067,7 +12581,6 @@
       }
     ],
     "people": [
-      "Mary",
       "Matilda"
     ]
   },
@@ -13229,9 +12742,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Hilaire"
-    ]
+    "people": []
   },
   {
     "name": "S. I. Poitiers, S. Hilaire-de-la-Celle",
@@ -13255,9 +12766,7 @@
         "roll_num": 104
       }
     ],
-    "people": [
-      "Saint Isidore"
-    ]
+    "people": []
   },
   {
     "name": "S. Juan de la Pe\u00f1a",
@@ -13301,8 +12810,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Christ"
+      "Bruno"
     ]
   },
   {
@@ -13387,9 +12895,7 @@
         "roll_num": 114
       }
     ],
-    "people": [
-      "Leodegarius"
-    ]
+    "people": []
   },
   {
     "name": "S. L\u00e9onard-de-Noblat",
@@ -13731,7 +13237,6 @@
       }
     ],
     "people": [
-      "Christ",
       "Hugh",
       "Letbald",
       "Odo",
@@ -13786,8 +13291,6 @@
       }
     ],
     "people": [
-      "Amandus",
-      "Bavon",
       "Blandinus",
       "Florbertus",
       "Milo"
@@ -13803,8 +13306,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Christ"
+      "Bruno"
     ]
   },
   {
@@ -13817,7 +13319,6 @@
       }
     ],
     "people": [
-      "Virgin Mary",
       "Vital"
     ]
   },
@@ -13846,8 +13347,7 @@
       }
     ],
     "people": [
-      "Saint Pierre Vivi",
-      "Saint Savinien"
+      "Saint Pierre Vivi"
     ]
   },
   {
@@ -13887,9 +13387,7 @@
     ],
     "people": [
       "Judrammus",
-      "Mary",
       "Ponce",
-      "Poncius",
       "Truger",
       "Wifred"
     ]
@@ -13976,11 +13474,7 @@
         "roll_num": 79
       }
     ],
-    "people": [
-      "Pedro",
-      "Rom\u00e1n",
-      "Virgen Mar\u00eda"
-    ]
+    "people": []
   },
   {
     "name": "S. R\u00e9verien",
@@ -14002,9 +13496,7 @@
         "roll_num": 114
       }
     ],
-    "people": [
-      "Christ"
-    ]
+    "people": []
   },
   {
     "name": "S. Sulpice",
@@ -14066,9 +13558,7 @@
         "roll_num": 74
       }
     ],
-    "people": [
-      "Urbani"
-    ]
+    "people": []
   },
   {
     "name": "S. Victor",
@@ -14080,7 +13570,6 @@
       }
     ],
     "people": [
-      "Christ",
       "Olibanus"
     ]
   },
@@ -14142,9 +13631,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Jean de la Pe\u00f1a"
-    ]
+    "people": []
   },
   {
     "name": "S.-Germin[l'Herm]",
@@ -14211,9 +13698,7 @@
         "roll_num": 106
       }
     ],
-    "people": [
-      "Christ"
-    ]
+    "people": []
   },
   {
     "name": "S.-M. Miguel del Fray",
@@ -14225,8 +13710,6 @@
       }
     ],
     "people": [
-      "Jesus Christ",
-      "Michael the Archangel",
       "Udalric"
     ]
   },
@@ -14389,8 +13872,7 @@
       }
     ],
     "people": [
-      "Hugh",
-      "Mary"
+      "Hugh"
     ]
   },
   {
@@ -14415,9 +13897,7 @@
         "roll_num": 74
       }
     ],
-    "people": [
-      "Christ"
-    ]
+    "people": []
   },
   {
     "name": "S.d.- Ripoll",
@@ -14492,9 +13972,7 @@
       }
     ],
     "people": [
-      "Hugh",
-      "John the Baptist",
-      "Mary"
+      "Hugh"
     ]
   },
   {
@@ -14573,8 +14051,7 @@
       }
     ],
     "people": [
-      "Benedict",
-      "Maurus"
+      "Benedict"
     ]
   },
   {
@@ -14586,9 +14063,7 @@
         "roll_num": 114
       }
     ],
-    "people": [
-      "Saint Victor"
-    ]
+    "people": []
   },
   {
     "name": "Saintes",
@@ -14645,9 +14120,7 @@
         "roll_num": 114
       }
     ],
-    "people": [
-      "Vivianus"
-    ]
+    "people": []
   },
   {
     "name": "Salisburgensi",
@@ -14699,8 +14172,7 @@
       }
     ],
     "people": [
-      "Bruno",
-      "Nicholas"
+      "Bruno"
     ]
   },
   {
@@ -14739,7 +14211,6 @@
     ],
     "people": [
       "Bruno",
-      "God",
       "Saint Denis"
     ]
   },
@@ -14765,9 +14236,7 @@
         "roll_num": 105
       }
     ],
-    "people": [
-      "Christ"
-    ]
+    "people": []
   },
   {
     "name": "Sancti Petri Insulae germanicae",
@@ -14792,7 +14261,6 @@
       }
     ],
     "people": [
-      "Christ",
       "Mathilde",
       "Venus"
     ]
@@ -14839,9 +14307,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Sauveur le Vicomte"
-    ]
+    "people": []
   },
   {
     "name": "Saxouilles",
@@ -14974,9 +14440,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Sainte C\u00e9cile"
-    ]
+    "people": []
   },
   {
     "name": "Seu d'Urgell",
@@ -15001,9 +14465,7 @@
         "roll_num": 104
       }
     ],
-    "people": [
-      "Mary"
-    ]
+    "people": []
   },
   {
     "name": "Seu d'Urgell, S. Cecilia",
@@ -15015,7 +14477,6 @@
       }
     ],
     "people": [
-      "Cecilia",
       "Lucia"
     ]
   },
@@ -15085,9 +14546,7 @@
     ],
     "people": [
       "Gerard",
-      "Gervais",
       "Odo",
-      "Protais",
       "Robert"
     ]
   },
@@ -15100,9 +14559,7 @@
         "roll_num": 122
       }
     ],
-    "people": [
-      "Jean"
-    ]
+    "people": []
   },
   {
     "name": "Soissons, S. Jean[des-Vignes]",
@@ -15261,7 +14718,6 @@
       }
     ],
     "people": [
-      "Saint Neot",
       "St Neots (Ernulf's Abbey)"
     ]
   },
@@ -15305,9 +14761,7 @@
         "roll_num": 123
       }
     ],
-    "people": [
-      "Saint Leonard"
-    ]
+    "people": []
   },
   {
     "name": "Suessionensis",
@@ -15340,8 +14794,7 @@
       }
     ],
     "people": [
-      "Boso",
-      "Lord"
+      "Boso"
     ]
   },
   {
@@ -15379,9 +14832,7 @@
         "roll_num": 67
       }
     ],
-    "people": [
-      "Santa Maria"
-    ]
+    "people": []
   },
   {
     "name": "Tavernes",
@@ -15403,9 +14854,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Saturnin"
-    ]
+    "people": []
   },
   {
     "name": "Tav\u00e8rroles, S. Sadurni",
@@ -15438,9 +14887,7 @@
         "roll_num": 104
       }
     ],
-    "people": [
-      "Saturninus"
-    ]
+    "people": []
   },
   {
     "name": "Tav\u00e9rnoles",
@@ -15522,7 +14969,6 @@
       }
     ],
     "people": [
-      "John the Baptist",
       "Walter"
     ]
   },
@@ -15536,7 +14982,6 @@
       }
     ],
     "people": [
-      "Mary",
       "Vitalis"
     ]
   },
@@ -15572,8 +15017,7 @@
     ],
     "people": [
       "Boso",
-      "Boson",
-      "Mary"
+      "Boson"
     ]
   },
   {
@@ -15586,7 +15030,6 @@
       }
     ],
     "people": [
-      "Antoninus",
       "],"
     ]
   },
@@ -15637,8 +15080,7 @@
       }
     ],
     "people": [
-      "Robert",
-      "Saint Savior of Tiron"
+      "Robert"
     ]
   },
   {
@@ -15650,9 +15092,7 @@
         "roll_num": 105
       }
     ],
-    "people": [
-      "Saint Michael the Archangel"
-    ]
+    "people": []
   },
   {
     "name": "Toul, S. Epvre",
@@ -15695,7 +15135,6 @@
     ],
     "people": [
       "Boson",
-      "Saint Stephen",
       "Triflus"
     ]
   },
@@ -15708,9 +15147,7 @@
         "roll_num": 127
       }
     ],
-    "people": [
-      "Saint Saturninus"
-    ]
+    "people": []
   },
   {
     "name": "Tournai, cath\u00e9drale",
@@ -15747,7 +15184,6 @@
       }
     ],
     "people": [
-      "Christ",
       "Maurice",
       "Widfrid",
       "Widfried"
@@ -15903,7 +15339,6 @@
       "Guifred",
       "G\u00e9rald",
       "G\u00e9rald Lacco",
-      "Julien",
       "Mathilde"
     ]
   },
@@ -15994,9 +15429,7 @@
         "roll_num": 72
       }
     ],
-    "people": [
-      "Saint Antonin"
-    ]
+    "people": []
   },
   {
     "name": "Vallsichare",
@@ -16007,9 +15440,7 @@
         "roll_num": 72
       }
     ],
-    "people": [
-      "Saint Jean-Baptiste"
-    ]
+    "people": []
   },
   {
     "name": "Varisnense",
@@ -16020,9 +15451,7 @@
         "roll_num": 67
       }
     ],
-    "people": [
-      "Mary"
-    ]
+    "people": []
   },
   {
     "name": "Varnassonense",
@@ -16103,9 +15532,7 @@
         "roll_num": 111
       }
     ],
-    "people": [
-      "Christ"
-    ]
+    "people": []
   },
   {
     "name": "Vic",
@@ -16127,9 +15554,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Victor de l'Abbaye"
-    ]
+    "people": []
   },
   {
     "name": "Vie",
@@ -16164,9 +15589,7 @@
         "roll_num": 148
       }
     ],
-    "people": [
-      "Saint Vigor le Grand"
-    ]
+    "people": []
   },
   {
     "name": "Vigreois, S. Pierre",
@@ -16177,9 +15600,7 @@
         "roll_num": 72
       }
     ],
-    "people": [
-      "Peter of Viguer"
-    ]
+    "people": []
   },
   {
     "name": "Vilarensis",
@@ -16194,7 +15615,6 @@
       "Advenia",
       "B\u00e9atrice",
       "Julie",
-      "Marie",
       "Mathilde",
       "S\u00e9friede",
       "\u00c9lisabeth"
@@ -16263,9 +15683,7 @@
         "roll_num": 108
       }
     ],
-    "people": [
-      "Mary"
-    ]
+    "people": []
   },
   {
     "name": "V\u00e9zelay, S. Marie-Madeleine",
@@ -16359,9 +15777,7 @@
         "roll_num": 114
       }
     ],
-    "people": [
-      "Christ"
-    ]
+    "people": []
   },
   {
     "name": "Whitby",
@@ -16457,8 +15873,6 @@
       }
     ],
     "people": [
-      "Edburga",
-      "Mary",
       "Matilda"
     ]
   },
@@ -16576,9 +15990,7 @@
       }
     ],
     "people": [
-      "Notre-Dame",
-      "Saint Sauveur",
-      "Saint Taurin"
+      "Notre-Dame"
     ]
   },
   {

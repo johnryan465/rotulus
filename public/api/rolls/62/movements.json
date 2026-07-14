@@ -27,11 +27,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Michael the Archangel",
-        "role": "archangel",
-        "dates": ""
-      },
-      {
         "name": "Oliba",
         "role": "knight/monk",
         "dates": ""

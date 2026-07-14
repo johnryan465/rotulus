@@ -1361,13 +1361,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Servatius",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 106
   },
   {
@@ -1385,18 +1379,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint C\u00e9lin",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Faron",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 108
   },
   {
@@ -1405,18 +1388,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "S. Arnoul",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Symphorian",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 109
   },
   {
@@ -1425,13 +1397,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Mesmin",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 110
   },
   {
@@ -1440,13 +1406,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Chaffre",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 111
   },
   {
@@ -1482,18 +1442,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Sainte Genevi\u00e8ve",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Germain des Pr\u00e9s",
-        "role": "saint/monastery",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 115
   },
   {
@@ -1502,13 +1451,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Magloire",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 116
   },
   {
@@ -1517,23 +1460,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Cyprien",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Hilaire le Grand",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Sainte Radegonde",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 117
   },
   {
@@ -1542,13 +1469,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Pierre",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 118
   },
   {
@@ -1557,13 +1478,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Pierre de la Tour",
-        "role": "saint/monastery",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 119
   },
   {
@@ -1572,13 +1487,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Beno\u00eet",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 120
   },
   {
@@ -1587,18 +1496,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Pierre le Haut",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Remi",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 121
   },
   {
@@ -1832,23 +1730,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Aldon",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Semnon",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Tiburce",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 147
   },
   {
@@ -1857,13 +1739,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Jacques",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 148
   },
   {
@@ -1872,13 +1748,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Vincent",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 149
   },
   {
@@ -1887,13 +1757,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Zoilus",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 150
   },
   {
@@ -1995,13 +1859,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Pierre",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 158
   },
   {
@@ -2010,13 +1868,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Jean",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 159
   },
   {
@@ -2040,13 +1892,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Paul",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 161
   },
   {
@@ -2070,13 +1916,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Antoine",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 163
   },
   {
@@ -2148,13 +1988,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Isidore",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 169
   },
   {
@@ -2163,13 +1997,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Jean de la Pe\u00f1a",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 170
   },
   {
@@ -2211,13 +2039,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Sainte C\u00e9cile",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 174
   },
   {
@@ -2241,13 +2063,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Saturnin",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 176
   },
   {
@@ -2256,28 +2072,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Maurice",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Nicolas",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Serge",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Bachus",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 177
   },
   {
@@ -2291,11 +2086,6 @@
         "name": "Notre-Dame",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Saint Vaast",
-        "role": "saint",
-        "dates": ""
       }
     ],
     "step": 178
@@ -2306,18 +2096,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint \u00c9tienne",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Germain",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 179
   },
   {
@@ -2330,11 +2109,6 @@
       {
         "name": "Notre-Dame",
         "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Saint Georges",
-        "role": "saint",
         "dates": ""
       }
     ],
@@ -2366,16 +2140,6 @@
         "name": "Lucien",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Saint Quentin",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Symphorien",
-        "role": "saint",
-        "dates": ""
       }
     ],
     "step": 182
@@ -2401,13 +2165,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Jean",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 184
   },
   {
@@ -2416,13 +2174,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Pierre",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 185
   },
   {
@@ -2436,11 +2188,6 @@
         "name": "Notre-Dame de Bourgron",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Saint Calais",
-        "role": "saint",
-        "dates": ""
       }
     ],
     "step": 186
@@ -2451,13 +2198,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Donat",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 187
   },
   {
@@ -3542,18 +3283,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Hilaire",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Hilaire",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 259
   },
   {
@@ -3562,13 +3292,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Sainte Radegonde",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 260
   },
   {
@@ -3577,13 +3301,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Sainte Trinit\u00e9",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 261
   },
   {
@@ -3601,18 +3319,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Leger",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Pierre",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 263
   },
   {
@@ -3621,13 +3328,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Beno\u00eet",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 264
   },
   {
@@ -3636,13 +3337,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Sauveur",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 265
   },
   {
@@ -3651,18 +3346,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Georges",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint M\u00e9lan",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 266
   },
   {
@@ -3671,13 +3355,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Andr\u00e9",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 267
   },
   {
@@ -3686,13 +3364,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Sainte Marie",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 268
   },
   {
@@ -3701,28 +3373,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Amand",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Sainte Trinit\u00e9 du Mont",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Ouen",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Paul",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 269
   },
   {
@@ -3803,13 +3454,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Gabriel",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 278
   },
   {
@@ -3836,13 +3481,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint L\u00e9onard de Noblat",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 281
   },
   {
@@ -3869,13 +3508,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Pierre",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 284
   },
   {
@@ -3893,13 +3526,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Mac\u00e8ne le Grand",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 286
   },
   {
@@ -3908,13 +3535,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Sainte Memmie",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 287
   },
   {
@@ -3923,13 +3544,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Michel en l'Herm",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 288
   },
   {
@@ -3987,13 +3602,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Sauveur le Vicomte",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 292
   },
   {
@@ -4017,13 +3626,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Thierry",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 294
   },
   {
@@ -4032,13 +3635,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Victor de l'Abbaye",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 295
   },
   {
@@ -4047,13 +3644,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Vigor le Grand",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 296
   },
   {
@@ -4359,18 +3950,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Egwin",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Mary",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 323
   },
   {
@@ -4384,16 +3964,6 @@
         "name": "Notre-Dame",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Saint Sauveur",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Taurin",
-        "role": "saint",
-        "dates": ""
       }
     ],
     "step": 324
@@ -4404,13 +3974,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Pierre",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 325
   },
   {
@@ -4419,13 +3983,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Marie",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 326
   },
   {
@@ -4458,18 +4016,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Martin",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Germain",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 329
   },
   {
@@ -4478,13 +4025,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint L\u00e9ger",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 330
   },
   {
@@ -4493,13 +4034,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Notre-Dame",
-        "role": "deity/figure",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 331
   },
   {
@@ -4508,13 +4043,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Sainte Marie",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 332
   },
   {
@@ -4523,13 +4052,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Pierre",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 333
   },
   {
@@ -4538,28 +4061,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Notre-Dame",
-        "role": "deity/figure",
-        "dates": ""
-      },
-      {
-        "name": "Saint Denis",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Pierre le Haut",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint R\u00e9mi",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 334
   },
   {

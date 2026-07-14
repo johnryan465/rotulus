@@ -300,16 +300,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Peter",
-        "role": "Apostle",
-        "dates": ""
-      },
-      {
-        "name": "Paul",
-        "role": "Apostle",
-        "dates": ""
-      },
-      {
         "name": "Robert",
         "role": "abbot",
         "dates": ""
@@ -340,11 +330,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Magloire",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
         "name": "Robert",
         "role": "abbot",
         "dates": ""
@@ -364,11 +349,6 @@
     ],
     "date_display": "18 novembre 1154",
     "entities": [
-      {
-        "name": "Denis",
-        "role": "Saint/Martyr",
-        "dates": ""
-      },
       {
         "name": "Louis",
         "role": "king",
@@ -394,11 +374,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Dionysius the Areopagite",
-        "role": "saint",
-        "dates": ""
-      },
       {
         "name": "Robert",
         "role": "abbot",
@@ -455,11 +430,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Eugenius",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Robert",
         "role": "abbot",
         "dates": ""
@@ -499,11 +469,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Mary Columba",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Robert",
         "role": "abbot",
         "dates": ""
@@ -519,11 +484,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Mary of Josaphat",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Robert",
         "role": "abbot",
         "dates": ""
@@ -537,13 +497,7 @@
     "title": "22 S.d.- [Chartres], S. Jean[-en-Vall\u00e9e].",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "John of Chartres",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 22
   },
   {
@@ -553,11 +507,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Peter of Chartres",
-        "role": "saint",
-        "dates": ""
-      },
       {
         "name": "Robert",
         "role": "abbot",

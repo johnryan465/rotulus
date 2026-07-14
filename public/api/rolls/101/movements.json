@@ -5,23 +5,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
-        "name": "Peter",
-        "role": "Saint",
-        "dates": ""
-      },
-      {
-        "name": "Paul",
-        "role": "Saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 0
   }
 ]

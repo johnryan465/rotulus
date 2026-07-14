@@ -79,13 +79,7 @@
     "title": "3 [5] S.d.- Seu d'Urgell, catedral (S. Maria).",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "Saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 4
   },
   {
@@ -94,13 +88,7 @@
     "title": "4 [6] S.d.- Tav\u00e8rroles, S. Saturni.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saturninus",
-        "role": "Saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 5
   },
   {
@@ -110,11 +98,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Cecilia",
-        "role": "Saint",
-        "dates": ""
-      },
       {
         "name": "Lucia",
         "role": "countess",
@@ -138,13 +121,7 @@
     "title": "7 [15] S.d.- Irache, S. Maria.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "Saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 8
   },
   {
@@ -153,13 +130,7 @@
     "title": "8 [37] S.d.- Fabr\u00e8gues, N.-D. (?) (2).",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "Saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 9
   },
   {
@@ -212,13 +183,7 @@
     "title": "12 [11] S.d.- Huesca, S. Maria.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Santa Mar\u00eda",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 13
   },
   {
@@ -227,13 +192,7 @@
     "title": "13 [4] S.d.- Orga\u00f1a, S. Maria.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Santa Mar\u00eda de Orga\u00f1a",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 14
   },
   {
@@ -296,11 +255,6 @@
       {
         "name": "Bernard",
         "role": "abbot",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "",
         "dates": ""
       }
     ],
@@ -418,23 +372,8 @@
         "dates": ""
       },
       {
-        "name": "Saint Michael",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Virgin Mary",
-        "role": "virgin/saint",
-        "dates": ""
-      },
-      {
         "name": "Bernhard",
         "role": "pastor",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "savior",
         "dates": ""
       }
     ],
@@ -515,13 +454,7 @@
     "title": "23 [17] S.d.- S. Isidoro.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Isidore",
-        "role": "martyr",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 25
   },
   {
@@ -636,13 +569,7 @@
     "title": "38 S.d.- B\u00e9ziers, S. Jacques.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Jaime Bitterense",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 34
   },
   {
@@ -651,13 +578,7 @@
     "title": "39 S.d.- Narbonne, S. Paul.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Paul of Narbonne",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 35
   },
   {

@@ -152,11 +152,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Saint Stephen of Caen",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Ragnold",
         "role": "",
         "dates": ""

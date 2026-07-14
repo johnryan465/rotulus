@@ -59,13 +59,7 @@
     "title": "3 S.d.-[Paris.] Montmartre, S. Denis.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Denis",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 2
   },
   {
@@ -78,11 +72,6 @@
       {
         "name": "Ebalus",
         "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Radegund",
-        "role": "saint",
         "dates": ""
       }
     ],

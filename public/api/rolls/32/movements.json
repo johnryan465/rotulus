@@ -5,13 +5,7 @@
     "title": "",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Saint Germain d'Auxerre",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 0
   },
   {

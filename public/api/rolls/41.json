@@ -30,18 +30,6 @@
           "normalized_role": "saint",
           "normalized_dates": "",
           "location_name": null
-        },
-        {
-          "id": 217,
-          "titulus_id": 69,
-          "original_name": "original_name': 'Christi', 'original_title': '', 'footnote_num': null, 'normalized_name': 'Christ', 'normalized_role': '', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Pauli', 'original_title': 'apostoli', 'footnote_num': null, 'normalized_name': 'Paul', 'normalized_role': 'apostle', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Anastasium', 'original_title': 'archiepiscopus', 'footnote_num': null, 'normalized_name': 'Anastasius', 'normalized_role': 'archbishop', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Ingelraldus', 'original_title': '', 'footnote_num': null, 'normalized_name': 'Ingelraldus', 'normalized_role': '', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Gerrelni', 'original_title': '', 'footnote_num': null, 'normalized_name': 'Gerrel', 'normalized_role': '', 'normalized_dates': '', 'location_name': null}], ",
-          "original_title": "",
-          "footnote_num": null,
-          "footnote_text": null,
-          "normalized_name": "original_name': 'Christi', 'original_title': '', 'footnote_num': null, 'normalized_name': 'Christ', 'normalized_role': '', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Pauli', 'original_title': 'apostoli', 'footnote_num': null, 'normalized_name': 'Paul', 'normalized_role': 'apostle', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Anastasium', 'original_title': 'archiepiscopus', 'footnote_num': null, 'normalized_name': 'Anastasius', 'normalized_role': 'archbishop', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Ingelraldus', 'original_title': '', 'footnote_num': null, 'normalized_name': 'Ingelraldus', 'normalized_role': '', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Gerrelni', 'original_title': '', 'footnote_num': null, 'normalized_name': 'Gerrel', 'normalized_role': '', 'normalized_dates': '', 'location_name': null}], ",
-          "normalized_role": "",
-          "normalized_dates": "",
-          "location_name": null
         }
       ]
     },

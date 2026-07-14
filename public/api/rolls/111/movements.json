@@ -47,11 +47,6 @@
         "dates": ""
       },
       {
-        "name": "Ansachie",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Leo IX",
         "role": "pope",
         "dates": ""
@@ -64,11 +59,6 @@
       {
         "name": "Gauthier",
         "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Adalhard",
-        "role": "saint",
         "dates": ""
       },
       {
@@ -219,13 +209,7 @@
     "title": "4 S.d.- Voormezele, O.-L. Vrouw.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 6
   },
   {
@@ -234,13 +218,7 @@
     "title": "5 S.d.- Bergues, S. Winoc.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Winoc",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 7
   },
   {
@@ -323,13 +301,7 @@
     "title": "8 S.d.- Beauvais, S. Quentin.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Quintin",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 11
   },
   {

@@ -280,11 +280,6 @@
         "name": "Guifredo",
         "role": "abbot",
         "dates": ""
-      },
-      {
-        "name": "Saint John the Baptist",
-        "role": "saint",
-        "dates": ""
       }
     ],
     "step": 13
@@ -299,11 +294,6 @@
       {
         "name": "Gaufrid",
         "role": "count",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "Jesus Christ",
         "dates": ""
       }
     ],
@@ -392,11 +382,6 @@
     "date_display": "9 mars 1051",
     "entities": [
       {
-        "name": "Andrew",
-        "role": "apostle",
-        "dates": ""
-      },
-      {
         "name": "Wilfrid",
         "role": "monk",
         "dates": ""
@@ -421,11 +406,6 @@
     ],
     "date_display": "17 mars 1051",
     "entities": [
-      {
-        "name": "Laurent",
-        "role": "saint/martyr",
-        "dates": ""
-      },
       {
         "name": "Tassio",
         "role": "abbot",
@@ -529,16 +509,6 @@
         "name": "Udalric",
         "role": "monk",
         "dates": ""
-      },
-      {
-        "name": "Michael the Archangel",
-        "role": "archangel",
-        "dates": ""
-      },
-      {
-        "name": "Jesus Christ",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 21
@@ -629,13 +599,7 @@
     "title": "31 [28]",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 25
   },
   {
@@ -841,11 +805,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Anianus",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Letaldus",
         "role": "",
         "dates": ""
@@ -948,11 +907,6 @@
       {
         "name": "Maurice",
         "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "deity",
         "dates": ""
       }
     ],
@@ -1164,11 +1118,6 @@
         "name": "Maurice",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 36
@@ -1344,16 +1293,6 @@
         "name": "Wilfrid",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Martin",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Apollo",
-        "role": "god",
-        "dates": ""
       }
     ],
     "step": 38
@@ -1365,11 +1304,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Venantius",
-        "role": "saint",
-        "dates": ""
-      },
       {
         "name": "Wilfrid",
         "role": "",
@@ -1946,11 +1880,6 @@
         "dates": ""
       },
       {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
-      {
         "name": "Erenburg",
         "role": "abbess",
         "dates": ""
@@ -2023,11 +1952,6 @@
       {
         "name": "Crispinianus",
         "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Benedictus",
-        "role": "saint",
         "dates": ""
       }
     ],
@@ -2210,11 +2134,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Remigius",
-        "role": "saint/patron",
-        "dates": ""
-      },
       {
         "name": "Aytard",
         "role": "abbot",
@@ -2459,11 +2378,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Theodfred",
-        "role": "martyr",
-        "dates": ""
-      },
-      {
         "name": "Eudo",
         "role": "confessor",
         "dates": ""
@@ -2667,13 +2581,7 @@
     "title": "74 [85] S.d.- S. Urbain[-sur-Marne] (1),",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Urbani",
-        "role": "martyr/saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 71
   },
   {
@@ -2747,11 +2655,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Peter",
-        "role": "Apostle",
-        "dates": ""
-      },
-      {
         "name": "Conon",
         "role": "archbishop",
         "dates": ""
@@ -2776,11 +2679,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Saint Stephen",
-        "role": "martyr",
-        "dates": ""
-      },
       {
         "name": "Oliva",
         "role": "priest and monk",
@@ -2807,16 +2705,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Saint Stephen",
-        "role": "martyr",
-        "dates": ""
-      },
-      {
-        "name": "Michael the Archangel",
-        "role": "archangel",
-        "dates": ""
-      },
-      {
         "name": "Guifred",
         "role": "monk",
         "dates": ""
@@ -2831,11 +2719,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Antoninus",
-        "role": "martyr",
-        "dates": ""
-      },
       {
         "name": "], ",
         "role": "",
@@ -2854,11 +2737,6 @@
       {
         "name": "Miron",
         "role": "abbot",
-        "dates": ""
-      },
-      {
-        "name": "John of Balthe",
-        "role": "saint",
         "dates": ""
       },
       {

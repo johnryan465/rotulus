@@ -189,13 +189,7 @@
     "title": "T. SANCTI PETRI LEXOVIENSIS.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "God",
-        "role": "",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 6
   },
   {
@@ -407,11 +401,6 @@
       {
         "name": "Tessela",
         "role": "layperson",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "deity",
         "dates": ""
       }
     ],
@@ -1252,16 +1241,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Saint Mary",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Saint Martin",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "William",
         "role": "count",
         "dates": ""
@@ -1442,11 +1421,6 @@
         "dates": ""
       },
       {
-        "name": "Hildeburg",
-        "role": "saintly woman",
-        "dates": ""
-      },
-      {
         "name": "Amalicus",
         "role": "",
         "dates": ""
@@ -1459,11 +1433,6 @@
       {
         "name": "Fulco",
         "role": "",
-        "dates": ""
-      },
-      {
-        "name": "Gertrude",
-        "role": "saintly woman",
         "dates": ""
       }
     ],
@@ -1536,11 +1505,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Dionysius the Areopagite",
-        "role": "saint",
-        "dates": ""
-      },
       {
         "name": "Dagobert",
         "role": "",
@@ -1672,26 +1636,6 @@
       {
         "name": "Vitalis",
         "role": "abbot",
-        "dates": ""
-      },
-      {
-        "name": "Peter",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Paul",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Genevieve of Paris",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Genevieve of Paris",
-        "role": "saint",
         "dates": ""
       }
     ],
@@ -2001,13 +1945,7 @@
     "title": "57 [55] S.d.- Soissons, S. Jean[-des-Vignes].",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Jean",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 52
   },
   {
@@ -2017,16 +1955,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Gervais",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Protais",
-        "role": "saint",
-        "dates": ""
-      },
       {
         "name": "Gerard",
         "role": "deacon",
@@ -2052,11 +1980,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
       {
         "name": "Lord",
         "role": "",
@@ -2295,16 +2218,6 @@
         "name": "Satan",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "king",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 62
@@ -2382,11 +2295,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
-      {
         "name": "Vitalis",
         "role": "",
         "dates": ""
@@ -2400,13 +2308,7 @@
     "title": "72 [195] S.d.- S. Albans.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Alban",
-        "role": "first martyr of the English",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 66
   },
   {
@@ -2565,18 +2467,7 @@
     "title": "T. beatorum apostolorum Petri et Pauli Arremarensis cenobii.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Peter",
-        "role": "Apostle",
-        "dates": ""
-      },
-      {
-        "name": "Paul",
-        "role": "Apostle",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 73
   },
   {
@@ -2680,16 +2571,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Peter",
-        "role": "Apostle",
-        "dates": ""
-      },
-      {
-        "name": "Paul",
-        "role": "Apostle",
-        "dates": ""
-      },
       {
         "name": "Veteran",
         "role": "bishop",

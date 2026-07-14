@@ -500,12 +500,16 @@ export default function App() {
                 {rollMovements.length > 0 && (
                   <div className="glass-panel" style={{ padding: '32px' }}>
                     <h3 style={{ borderBottom: '1px solid var(--primary)', paddingBottom: '8px', marginBottom: '16px' }}>
-                      Movements &amp; Signers
+                      Movements &amp; Named Individuals
                       {rollMovements.some(m => m.date) && (
                         <span style={{ fontSize: '12px', fontWeight: 'normal', color: 'var(--text-muted)', marginLeft: '8px' }}>
                           (ordered by date where known; undated stops kept near their manuscript position)
                         </span>
                       )}
+                      <span style={{ display: 'block', fontSize: '12px', fontWeight: 'normal', color: 'var(--text-muted)', marginTop: '4px' }}>
+                        People named at each stop - not necessarily who signed it (a titulus also names its patron
+                        saint and deceased predecessors being prayed for, not only the responding community).
+                      </span>
                     </h3>
                     <div style={{ display: 'flex', flexDirection: 'column', gap: '14px' }}>
                       {rollMovements.map(m => (
@@ -661,8 +665,10 @@ export default function App() {
             </div>
             <p style={{ color: 'var(--text-muted)', fontSize: '13px', maxWidth: '750px', marginTop: '-12px' }}>
               Aggregated by name across the whole corpus - a common name (e.g. "Bernard") may group
-              several distinct historical individuals, not one person. Religious-order affiliation
-              isn't extracted as structured data in this corpus, so it isn't shown here.
+              several distinct historical individuals, not one person. Excludes patron saints, Christ,
+              and other figures formulaically invoked in a titulus (they're named in the text but never
+              actually the person who wrote it). Religious-order affiliation isn't extracted as
+              structured data in this corpus, so it isn't shown here.
             </p>
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1.3fr', gap: '24px', flex: 1, minHeight: 0 }}>
               <div className="glass-panel" style={{ display: 'flex', flexDirection: 'column', padding: '16px', maxHeight: '650px' }}>

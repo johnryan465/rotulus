@@ -256,11 +256,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Saint Ferr\u00e9ol",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Rodther",
         "role": "",
         "dates": ""
@@ -395,11 +390,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Christ",
-        "role": "deity",
-        "dates": ""
-      },
-      {
         "name": "Letbald",
         "role": "abbot",
         "dates": ""
@@ -435,21 +425,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Medard",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Sebastian",
-        "role": "saint",
-        "dates": ""
-      },
-      {
-        "name": "Gregory",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Marinus",
         "role": "",
         "dates": ""
@@ -463,13 +438,7 @@
     "title": "13 S.d.- S. Bertin.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Bertin",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 17
   },
   {
@@ -494,11 +463,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Columba",
-        "role": "virgin and martyr",
-        "dates": ""
-      },
       {
         "name": "Hugo",
         "role": "",
@@ -568,11 +532,6 @@
         "name": "Hugo",
         "role": "",
         "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "Jesus",
-        "dates": ""
       }
     ],
     "step": 22
@@ -603,13 +562,7 @@
     "title": "20 S.d.- Rouen, cath\u00e9drale (N.D.).",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Mary",
-        "role": "Saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 24
   },
   {
@@ -619,11 +572,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Christ",
-        "role": "",
-        "dates": ""
-      },
       {
         "name": "Amandus",
         "role": "pastor/abbot",
@@ -638,23 +586,7 @@
     "title": "21 S.-d. - Cluny, S. Pierre, S. Paul.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Peter",
-        "role": "Apostle",
-        "dates": ""
-      },
-      {
-        "name": "Paul",
-        "role": "Apostle",
-        "dates": ""
-      },
-      {
-        "name": "Christ",
-        "role": "God",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 26
   },
   {
@@ -863,13 +795,7 @@
     "title": "26 S.d.- Meaux, cath\u00e9drale (S. \u00c9tienne).",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "\u00c9tienne",
-        "role": "martyr",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 30
   },
   {
@@ -989,11 +915,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Mary",
-        "role": "Saint",
-        "dates": ""
-      },
       {
         "name": "Aldo",
         "role": "Abbot",
@@ -1127,13 +1048,7 @@
     "title": "34 S.d.- Vertus, S. Sauveur.",
     "date": null,
     "date_display": null,
-    "entities": [
-      {
-        "name": "Christ",
-        "role": "saint",
-        "dates": ""
-      }
-    ],
+    "entities": [],
     "step": 41
   },
   {

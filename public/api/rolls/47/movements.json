@@ -31,11 +31,6 @@
     "date_display": null,
     "entities": [
       {
-        "name": "Denis",
-        "role": "saint",
-        "dates": ""
-      },
-      {
         "name": "Gozfred",
         "role": "",
         "dates": ""
@@ -61,11 +56,6 @@
         "dates": ""
       },
       {
-        "name": "Christ",
-        "role": "Christ",
-        "dates": ""
-      },
-      {
         "name": "Pierre",
         "role": "shepherd/guardian",
         "dates": ""
@@ -85,11 +75,6 @@
     "date": null,
     "date_display": null,
     "entities": [
-      {
-        "name": "Saint Martial",
-        "role": "patron saint of Limoges and Aquitaine",
-        "dates": ""
-      },
       {
         "name": "Solomon",
         "role": "king",
