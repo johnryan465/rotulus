@@ -40,11 +40,15 @@ export default function App() {
   const mapInstanceRef = useRef(null);
   const mapLayersRef = useRef(null);
   const lastFittedRollId = useRef(null);
-  
+
   const [mapRollId, setMapRollId] = useState(null);
   const [stopsFilter, setStopsFilter] = useState(0);
   const [travelPath, setTravelPath] = useState([]);
   const [allTravelsData, setAllTravelsData] = useState({});
+
+  // Explorer detail's own embedded per-roll map
+  const explorerMapInstanceRef = useRef(null);
+  const [explorerTravelPath, setExplorerTravelPath] = useState([]);
 
   // Verification & Dashboard State
   const [activeVerificationIndex, setActiveVerificationIndex] = useState(0);
@@ -58,6 +62,11 @@ export default function App() {
       const data = await res.json();
       setRollDetail(data);
     } catch (e) { console.error("Failed to fetch roll detail:", e); }
+    try {
+      const res = await fetch(getApiUrl(`/api/rolls/${id}/travels`));
+      const data = await res.json();
+      setExplorerTravelPath(data);
+    } catch (e) { console.error("Failed to fetch roll travels:", e); setExplorerTravelPath([]); }
   };
 
   // --- HASH ROUTING LOGIC ---
@@ -73,6 +82,7 @@ export default function App() {
         if (id && id !== selectedRollId) {
           setSelectedRollId(id);
           setRollDetail(null);
+          setExplorerTravelPath([]);
           fetchRollDetail(id);
         }
       }
@@ -102,6 +112,7 @@ export default function App() {
     if (!id) return;
     setSelectedRollId(id);
     setRollDetail(null);
+    setExplorerTravelPath([]);
     fetchRollDetail(id);
     // Sync hash if in detail-supporting tab
     if (activeTab === 'explorer' || activeTab === 'verification') {
@@ -299,7 +310,7 @@ export default function App() {
     }
 
     if (allCoords.length > 0 && mapInstanceRef.current && lastFittedRollId.current !== mapRollId) {
-      mapInstanceRef.current.fitBounds(window.L.latLngBounds(allCoords), { padding: [50, 50] });
+      mapInstanceRef.current.fitBounds(window.L.latLngBounds(allCoords), { padding: [50, 50], maxZoom: 10 });
       lastFittedRollId.current = mapRollId;
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -312,6 +323,54 @@ export default function App() {
       }, 100);
     }
   }, [activeTab]);
+
+  // Explorer detail's embedded per-roll map: torn down and rebuilt fresh
+  // for each roll (the container only exists in the DOM while a roll's
+  // detail is showing, so there's no persistent instance to update in place
+  // like the main map).
+  useEffect(() => {
+    if (!rollDetail || activeTab !== 'explorer' || !window.L) return;
+    const container = document.getElementById('explorer-map-container');
+    if (!container) return;
+
+    const map = window.L.map('explorer-map-container', {
+      scrollWheelZoom: false,
+      maxBounds: [[30, -20], [72, 45]],
+      maxBoundsViscosity: 1.0
+    }).setView([48.8566, 2.3522], 4);
+    explorerMapInstanceRef.current = map;
+    window.L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '&copy; OpenStreetMap' }).addTo(map);
+    const layers = window.L.layerGroup().addTo(map);
+
+    const coords = explorerTravelPath.map(t => t.coords).filter(c => c);
+    if (coords.length > 1) {
+      window.L.polyline(coords, { color: '#8b0000', weight: 3, opacity: 0.8, dashArray: '5, 10' }).addTo(layers);
+    }
+    explorerTravelPath.forEach((loc, index) => {
+      if (!loc.coords) return;
+      const isOrigin = loc.type === 'origin';
+      const marker = window.L.circleMarker(loc.coords, {
+        radius: isOrigin ? 9 : 7,
+        fillColor: isOrigin ? '#8b0000' : '#10b981',
+        color: '#fff', weight: 2, fillOpacity: 1, interactive: true
+      }).addTo(layers);
+      marker.bindTooltip(loc.name, { direction: 'top', offset: [0, -5] });
+      marker.bindPopup(`<div style="font-family: 'Calibri', 'Candara', 'Segoe UI', 'Optima', 'Arial', sans-serif; padding: 4px; min-width: 130px;">
+        <div style="font-size: 13px;">${isOrigin ? '🚩 Origin' : `📍 Stop ${index}`}: <b>${loc.name}</b></div>
+        <div style="font-size: 12px; color: #666;">${loc.date_str || ''}</div>
+      </div>`);
+    });
+
+    if (coords.length > 0) {
+      map.fitBounds(window.L.latLngBounds(coords), { padding: [30, 30], maxZoom: 10 });
+    }
+    setTimeout(() => map.invalidateSize(), 100);
+
+    return () => {
+      map.remove();
+      explorerMapInstanceRef.current = null;
+    };
+  }, [rollDetail, explorerTravelPath, activeTab]);
 
   return (
     <div className="main-container">
@@ -390,6 +449,17 @@ export default function App() {
                       {rollDetail.roll.manuscripts || "Original manuscript location not specified in catalogue."}
                     </p>
                   </div>
+                </div>
+
+                <div className="glass-panel" style={{ padding: '12px' }}>
+                  <h3 style={{ padding: '8px 8px 12px', margin: 0 }}>Itinerary</h3>
+                  {explorerTravelPath.some(t => t.coords) ? (
+                    <div id="explorer-map-container" style={{ width: '100%', height: '360px', borderRadius: '4px' }}></div>
+                  ) : (
+                    <div style={{ padding: '24px', textAlign: 'center', color: 'var(--text-muted)' }}>
+                      No mapped locations for this roll yet.
+                    </div>
+                  )}
                 </div>
 
                 {rollDetail.tituli.map(t => (
