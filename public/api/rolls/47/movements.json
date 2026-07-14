@@ -97,14 +97,5 @@
       }
     ],
     "step": 4
-  },
-  {
-    "titulus_id": 98,
-    "location_name": null,
-    "title": "orphaned_tituli': [], ",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 5
   }
 ]

@@ -719,15 +719,6 @@
     "step": 11
   },
   {
-    "titulus_id": 1165,
-    "location_name": null,
-    "title": "",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 12
-  },
-  {
     "titulus_id": 1166,
     "location_name": null,
     "title": "",
@@ -765,7 +756,7 @@
         "dates": ""
       }
     ],
-    "step": 13
+    "step": 12
   },
   {
     "titulus_id": 1167,
@@ -790,7 +781,7 @@
         "dates": ""
       }
     ],
-    "step": 14
+    "step": 13
   },
   {
     "titulus_id": 1168,
@@ -945,7 +936,7 @@
         "dates": ""
       }
     ],
-    "step": 15
+    "step": 14
   },
   {
     "titulus_id": 1169,
@@ -960,7 +951,7 @@
         "dates": ""
       }
     ],
-    "step": 16
+    "step": 15
   },
   {
     "titulus_id": 1170,
@@ -1005,7 +996,7 @@
         "dates": ""
       }
     ],
-    "step": 17
+    "step": 16
   },
   {
     "titulus_id": 1171,
@@ -1180,7 +1171,7 @@
         "dates": ""
       }
     ],
-    "step": 18
+    "step": 17
   },
   {
     "titulus_id": 1172,
@@ -1189,7 +1180,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 19
+    "step": 18
   },
   {
     "titulus_id": 1173,
@@ -1204,7 +1195,7 @@
         "dates": ""
       }
     ],
-    "step": 20
+    "step": 19
   },
   {
     "titulus_id": 1174,
@@ -1213,7 +1204,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 21
+    "step": 20
   },
   {
     "titulus_id": 1175,
@@ -1233,7 +1224,7 @@
         "dates": ""
       }
     ],
-    "step": 22
+    "step": 21
   },
   {
     "titulus_id": 1176,
@@ -1303,16 +1294,7 @@
         "dates": ""
       }
     ],
-    "step": 23
-  },
-  {
-    "titulus_id": 1177,
-    "location_name": null,
-    "title": "",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 24
+    "step": 22
   },
   {
     "titulus_id": 1178,
@@ -1357,7 +1339,7 @@
         "dates": ""
       }
     ],
-    "step": 25
+    "step": 23
   },
   {
     "titulus_id": 1179,
@@ -1372,7 +1354,7 @@
         "dates": ""
       }
     ],
-    "step": 26
+    "step": 24
   },
   {
     "titulus_id": 1180,
@@ -1381,7 +1363,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 27
+    "step": 25
   },
   {
     "titulus_id": 1181,
@@ -1396,7 +1378,7 @@
         "dates": ""
       }
     ],
-    "step": 28
+    "step": 26
   },
   {
     "titulus_id": 1182,
@@ -1405,7 +1387,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 29
+    "step": 27
   },
   {
     "titulus_id": 1183,
@@ -1414,7 +1396,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 30
+    "step": 28
   },
   {
     "titulus_id": 1184,
@@ -1434,7 +1416,7 @@
         "dates": ""
       }
     ],
-    "step": 31
+    "step": 29
   },
   {
     "titulus_id": 1185,
@@ -1449,7 +1431,7 @@
         "dates": ""
       }
     ],
-    "step": 32
+    "step": 30
   },
   {
     "titulus_id": 1186,
@@ -1464,7 +1446,7 @@
         "dates": ""
       }
     ],
-    "step": 33
+    "step": 31
   },
   {
     "titulus_id": 1187,
@@ -1479,7 +1461,7 @@
         "dates": ""
       }
     ],
-    "step": 34
+    "step": 32
   },
   {
     "titulus_id": 1188,
@@ -1488,7 +1470,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 35
+    "step": 33
   },
   {
     "titulus_id": 1189,
@@ -1508,7 +1490,7 @@
         "dates": ""
       }
     ],
-    "step": 36
+    "step": 34
   },
   {
     "titulus_id": 1190,
@@ -1568,7 +1550,7 @@
         "dates": ""
       }
     ],
-    "step": 37
+    "step": 35
   },
   {
     "titulus_id": 1191,
@@ -1618,43 +1600,7 @@
         "dates": ""
       }
     ],
-    "step": 38
-  },
-  {
-    "titulus_id": 1192,
-    "location_name": null,
-    "title": "",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 39
-  },
-  {
-    "titulus_id": 1193,
-    "location_name": null,
-    "title": "",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 40
-  },
-  {
-    "titulus_id": 1194,
-    "location_name": null,
-    "title": "",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 41
-  },
-  {
-    "titulus_id": 1195,
-    "location_name": null,
-    "title": "",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 42
+    "step": 36
   },
   {
     "titulus_id": 1196,
@@ -1679,7 +1625,7 @@
         "dates": ""
       }
     ],
-    "step": 43
+    "step": 37
   },
   {
     "titulus_id": 1197,
@@ -1699,7 +1645,7 @@
         "dates": ""
       }
     ],
-    "step": 44
+    "step": 38
   },
   {
     "titulus_id": 1198,
@@ -1734,7 +1680,7 @@
         "dates": ""
       }
     ],
-    "step": 45
+    "step": 39
   },
   {
     "titulus_id": 1199,
@@ -1939,7 +1885,7 @@
         "dates": ""
       }
     ],
-    "step": 46
+    "step": 40
   },
   {
     "titulus_id": 1200,
@@ -1948,7 +1894,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 47
+    "step": 41
   },
   {
     "titulus_id": 1201,
@@ -2013,7 +1959,7 @@
         "dates": ""
       }
     ],
-    "step": 48
+    "step": 42
   },
   {
     "titulus_id": 1202,
@@ -2098,16 +2044,7 @@
         "dates": ""
       }
     ],
-    "step": 49
-  },
-  {
-    "titulus_id": 1203,
-    "location_name": null,
-    "title": "orphaned_tituli': [], ",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 50
+    "step": 43
   },
   {
     "titulus_id": 1204,
@@ -2137,7 +2074,7 @@
         "dates": ""
       }
     ],
-    "step": 51
+    "step": 44
   },
   {
     "titulus_id": 1205,
@@ -2157,7 +2094,7 @@
         "dates": ""
       }
     ],
-    "step": 52
+    "step": 45
   },
   {
     "titulus_id": 1206,
@@ -2166,7 +2103,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 53
+    "step": 46
   },
   {
     "titulus_id": 1207,
@@ -2181,7 +2118,7 @@
         "dates": ""
       }
     ],
-    "step": 54
+    "step": 47
   },
   {
     "titulus_id": 1208,
@@ -2196,7 +2133,7 @@
         "dates": ""
       }
     ],
-    "step": 55
+    "step": 48
   },
   {
     "titulus_id": 1209,
@@ -2216,7 +2153,7 @@
         "dates": ""
       }
     ],
-    "step": 56
+    "step": 49
   },
   {
     "titulus_id": 1210,
@@ -2296,7 +2233,7 @@
         "dates": ""
       }
     ],
-    "step": 57
+    "step": 50
   },
   {
     "titulus_id": 1211,
@@ -2346,7 +2283,7 @@
         "dates": ""
       }
     ],
-    "step": 58
+    "step": 51
   },
   {
     "titulus_id": 1212,
@@ -2355,7 +2292,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 59
+    "step": 52
   },
   {
     "titulus_id": 1213,
@@ -2364,7 +2301,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 60
+    "step": 53
   },
   {
     "titulus_id": 1214,
@@ -2399,7 +2336,7 @@
         "dates": ""
       }
     ],
-    "step": 61
+    "step": 54
   },
   {
     "titulus_id": 1215,
@@ -2449,7 +2386,7 @@
         "dates": ""
       }
     ],
-    "step": 62
+    "step": 55
   },
   {
     "titulus_id": 1216,
@@ -2458,7 +2395,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 63
+    "step": 56
   },
   {
     "titulus_id": 1217,
@@ -2473,7 +2410,7 @@
         "dates": ""
       }
     ],
-    "step": 64
+    "step": 57
   },
   {
     "titulus_id": 1218,
@@ -2482,7 +2419,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 65
+    "step": 58
   },
   {
     "titulus_id": 1219,
@@ -2491,7 +2428,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 66
+    "step": 59
   },
   {
     "titulus_id": 1220,
@@ -2526,7 +2463,7 @@
         "dates": ""
       }
     ],
-    "step": 67
+    "step": 60
   },
   {
     "titulus_id": 1221,
@@ -2535,7 +2472,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 68
+    "step": 61
   },
   {
     "titulus_id": 1222,
@@ -2595,7 +2532,7 @@
         "dates": ""
       }
     ],
-    "step": 69
+    "step": 62
   },
   {
     "titulus_id": 1223,
@@ -2620,7 +2557,7 @@
         "dates": ""
       }
     ],
-    "step": 70
+    "step": 63
   },
   {
     "titulus_id": 1224,
@@ -2629,7 +2566,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 71
+    "step": 64
   },
   {
     "titulus_id": 1225,
@@ -2689,7 +2626,7 @@
         "dates": ""
       }
     ],
-    "step": 72
+    "step": 65
   },
   {
     "titulus_id": 1226,
@@ -2824,7 +2761,7 @@
         "dates": ""
       }
     ],
-    "step": 73
+    "step": 66
   },
   {
     "titulus_id": 1227,
@@ -2839,7 +2776,7 @@
         "dates": ""
       }
     ],
-    "step": 74
+    "step": 67
   },
   {
     "titulus_id": 1228,
@@ -2869,7 +2806,7 @@
         "dates": ""
       }
     ],
-    "step": 75
+    "step": 68
   },
   {
     "titulus_id": 1229,
@@ -3049,7 +2986,7 @@
         "dates": ""
       }
     ],
-    "step": 76
+    "step": 69
   },
   {
     "titulus_id": 1230,
@@ -3058,7 +2995,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 77
+    "step": 70
   },
   {
     "titulus_id": 1231,
@@ -3083,7 +3020,7 @@
         "dates": ""
       }
     ],
-    "step": 78
+    "step": 71
   },
   {
     "titulus_id": 1232,
@@ -3168,7 +3105,7 @@
         "dates": ""
       }
     ],
-    "step": 79
+    "step": 72
   },
   {
     "titulus_id": 1233,
@@ -3228,7 +3165,7 @@
         "dates": ""
       }
     ],
-    "step": 80
+    "step": 73
   },
   {
     "titulus_id": 1234,
@@ -3243,7 +3180,7 @@
         "dates": ""
       }
     ],
-    "step": 81
+    "step": 74
   },
   {
     "titulus_id": 1235,
@@ -3553,7 +3490,7 @@
         "dates": ""
       }
     ],
-    "step": 82
+    "step": 75
   },
   {
     "titulus_id": 1236,
@@ -3603,16 +3540,7 @@
         "dates": ""
       }
     ],
-    "step": 83
-  },
-  {
-    "titulus_id": 1237,
-    "location_name": null,
-    "title": "footnotes_and_citations_logic_check_complete",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 84
+    "step": 76
   },
   {
     "titulus_id": 1238,
@@ -3647,7 +3575,7 @@
         "dates": ""
       }
     ],
-    "step": 85
+    "step": 77
   },
   {
     "titulus_id": 1239,
@@ -3662,7 +3590,7 @@
         "dates": ""
       }
     ],
-    "step": 86
+    "step": 78
   },
   {
     "titulus_id": 1240,
@@ -3677,7 +3605,7 @@
         "dates": ""
       }
     ],
-    "step": 87
+    "step": 79
   },
   {
     "titulus_id": 1241,
@@ -3697,7 +3625,7 @@
         "dates": ""
       }
     ],
-    "step": 88
+    "step": 80
   },
   {
     "titulus_id": 1242,
@@ -3712,7 +3640,7 @@
         "dates": ""
       }
     ],
-    "step": 89
+    "step": 81
   },
   {
     "titulus_id": 1243,
@@ -3752,7 +3680,7 @@
         "dates": ""
       }
     ],
-    "step": 90
+    "step": 82
   },
   {
     "titulus_id": 1244,
@@ -3847,7 +3775,7 @@
         "dates": ""
       }
     ],
-    "step": 91
+    "step": 83
   },
   {
     "titulus_id": 1245,
@@ -3862,7 +3790,7 @@
         "dates": ""
       }
     ],
-    "step": 92
+    "step": 84
   },
   {
     "titulus_id": 1246,
@@ -3912,7 +3840,7 @@
         "dates": ""
       }
     ],
-    "step": 93
+    "step": 85
   },
   {
     "titulus_id": 1247,
@@ -3962,7 +3890,7 @@
         "dates": ""
       }
     ],
-    "step": 94
+    "step": 86
   },
   {
     "titulus_id": 1248,
@@ -3977,7 +3905,7 @@
         "dates": ""
       }
     ],
-    "step": 95
+    "step": 87
   },
   {
     "titulus_id": 1249,
@@ -4092,16 +4020,7 @@
         "dates": ""
       }
     ],
-    "step": 96
-  },
-  {
-    "titulus_id": 1250,
-    "location_name": null,
-    "title": "",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 97
+    "step": 88
   },
   {
     "titulus_id": 1251,
@@ -4110,7 +4029,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 98
+    "step": 89
   },
   {
     "titulus_id": 1252,
@@ -4119,7 +4038,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 99
+    "step": 90
   },
   {
     "titulus_id": 1253,
@@ -4139,7 +4058,7 @@
         "dates": ""
       }
     ],
-    "step": 100
+    "step": 91
   },
   {
     "titulus_id": 1254,
@@ -4219,7 +4138,7 @@
         "dates": ""
       }
     ],
-    "step": 101
+    "step": 92
   },
   {
     "titulus_id": 1255,
@@ -4329,7 +4248,7 @@
         "dates": ""
       }
     ],
-    "step": 102
+    "step": 93
   },
   {
     "titulus_id": 1256,
@@ -4409,7 +4328,7 @@
         "dates": ""
       }
     ],
-    "step": 103
+    "step": 94
   },
   {
     "titulus_id": 1257,
@@ -4429,7 +4348,7 @@
         "dates": ""
       }
     ],
-    "step": 104
+    "step": 95
   },
   {
     "titulus_id": 1258,
@@ -4469,7 +4388,7 @@
         "dates": ""
       }
     ],
-    "step": 105
+    "step": 96
   },
   {
     "titulus_id": 1259,
@@ -4484,7 +4403,7 @@
         "dates": ""
       }
     ],
-    "step": 106
+    "step": 97
   },
   {
     "titulus_id": 1260,
@@ -4514,7 +4433,7 @@
         "dates": ""
       }
     ],
-    "step": 107
+    "step": 98
   },
   {
     "titulus_id": 1261,
@@ -4523,7 +4442,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 108
+    "step": 99
   },
   {
     "titulus_id": 1262,
@@ -4558,7 +4477,7 @@
         "dates": ""
       }
     ],
-    "step": 109
+    "step": 100
   },
   {
     "titulus_id": 1263,
@@ -4573,7 +4492,7 @@
         "dates": ""
       }
     ],
-    "step": 110
+    "step": 101
   },
   {
     "titulus_id": 1264,
@@ -4582,7 +4501,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 111
+    "step": 102
   },
   {
     "titulus_id": 1265,
@@ -4597,7 +4516,7 @@
         "dates": ""
       }
     ],
-    "step": 112
+    "step": 103
   },
   {
     "titulus_id": 1266,
@@ -4606,7 +4525,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 113
+    "step": 104
   },
   {
     "titulus_id": 1267,
@@ -4676,7 +4595,7 @@
         "dates": ""
       }
     ],
-    "step": 114
+    "step": 105
   },
   {
     "titulus_id": 1268,
@@ -4706,7 +4625,7 @@
         "dates": ""
       }
     ],
-    "step": 115
+    "step": 106
   },
   {
     "titulus_id": 1269,
@@ -4721,7 +4640,7 @@
         "dates": ""
       }
     ],
-    "step": 116
+    "step": 107
   },
   {
     "titulus_id": 1270,
@@ -4781,7 +4700,7 @@
         "dates": ""
       }
     ],
-    "step": 117
+    "step": 108
   },
   {
     "titulus_id": 1271,
@@ -4841,7 +4760,7 @@
         "dates": ""
       }
     ],
-    "step": 118
+    "step": 109
   },
   {
     "titulus_id": 1272,
@@ -4866,7 +4785,7 @@
         "dates": ""
       }
     ],
-    "step": 119
+    "step": 110
   },
   {
     "titulus_id": 1273,
@@ -4886,7 +4805,7 @@
         "dates": ""
       }
     ],
-    "step": 120
+    "step": 111
   },
   {
     "titulus_id": 1274,
@@ -4921,7 +4840,7 @@
         "dates": ""
       }
     ],
-    "step": 121
+    "step": 112
   },
   {
     "titulus_id": 1275,
@@ -4930,7 +4849,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 122
+    "step": 113
   },
   {
     "titulus_id": 1276,
@@ -4970,7 +4889,7 @@
         "dates": ""
       }
     ],
-    "step": 123
+    "step": 114
   },
   {
     "titulus_id": 1277,
@@ -4979,7 +4898,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 124
+    "step": 115
   },
   {
     "titulus_id": 1278,
@@ -4999,7 +4918,7 @@
         "dates": ""
       }
     ],
-    "step": 125
+    "step": 116
   },
   {
     "titulus_id": 1279,
@@ -5014,7 +4933,7 @@
         "dates": ""
       }
     ],
-    "step": 126
+    "step": 117
   },
   {
     "titulus_id": 1280,
@@ -5099,7 +5018,7 @@
         "dates": ""
       }
     ],
-    "step": 127
+    "step": 118
   },
   {
     "titulus_id": 1281,
@@ -5169,7 +5088,7 @@
         "dates": ""
       }
     ],
-    "step": 128
+    "step": 119
   },
   {
     "titulus_id": 1282,
@@ -5219,7 +5138,7 @@
         "dates": ""
       }
     ],
-    "step": 129
+    "step": 120
   },
   {
     "titulus_id": 1283,
@@ -5244,7 +5163,7 @@
         "dates": ""
       }
     ],
-    "step": 130
+    "step": 121
   },
   {
     "titulus_id": 1284,
@@ -5349,7 +5268,7 @@
         "dates": ""
       }
     ],
-    "step": 131
+    "step": 122
   },
   {
     "titulus_id": 1285,
@@ -5394,7 +5313,7 @@
         "dates": ""
       }
     ],
-    "step": 132
+    "step": 123
   },
   {
     "titulus_id": 1286,
@@ -5479,7 +5398,7 @@
         "dates": ""
       }
     ],
-    "step": 133
+    "step": 124
   },
   {
     "titulus_id": 1287,
@@ -5494,7 +5413,7 @@
         "dates": ""
       }
     ],
-    "step": 134
+    "step": 125
   },
   {
     "titulus_id": 1288,
@@ -5503,7 +5422,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 135
+    "step": 126
   },
   {
     "titulus_id": 1289,
@@ -5543,7 +5462,7 @@
         "dates": ""
       }
     ],
-    "step": 136
+    "step": 127
   },
   {
     "titulus_id": 1290,
@@ -5588,7 +5507,7 @@
         "dates": ""
       }
     ],
-    "step": 137
+    "step": 128
   },
   {
     "titulus_id": 1291,
@@ -5618,7 +5537,7 @@
         "dates": ""
       }
     ],
-    "step": 138
+    "step": 129
   },
   {
     "titulus_id": 1292,
@@ -5633,7 +5552,7 @@
         "dates": ""
       }
     ],
-    "step": 139
+    "step": 130
   },
   {
     "titulus_id": 1293,
@@ -5658,7 +5577,7 @@
         "dates": ""
       }
     ],
-    "step": 140
+    "step": 131
   },
   {
     "titulus_id": 1294,
@@ -5673,7 +5592,7 @@
         "dates": ""
       }
     ],
-    "step": 141
+    "step": 132
   },
   {
     "titulus_id": 1295,
@@ -5688,7 +5607,7 @@
         "dates": ""
       }
     ],
-    "step": 142
+    "step": 133
   },
   {
     "titulus_id": 1296,
@@ -5703,7 +5622,7 @@
         "dates": ""
       }
     ],
-    "step": 143
+    "step": 134
   },
   {
     "titulus_id": 1297,
@@ -5773,7 +5692,7 @@
         "dates": ""
       }
     ],
-    "step": 144
+    "step": 135
   },
   {
     "titulus_id": 1298,
@@ -5788,7 +5707,7 @@
         "dates": ""
       }
     ],
-    "step": 145
+    "step": 136
   },
   {
     "titulus_id": 1299,
@@ -5803,7 +5722,7 @@
         "dates": ""
       }
     ],
-    "step": 146
+    "step": 137
   },
   {
     "titulus_id": 1300,
@@ -5812,7 +5731,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 147
+    "step": 138
   },
   {
     "titulus_id": 1301,
@@ -5821,7 +5740,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 148
+    "step": 139
   },
   {
     "titulus_id": 1302,
@@ -5841,7 +5760,7 @@
         "dates": ""
       }
     ],
-    "step": 149
+    "step": 140
   },
   {
     "titulus_id": 1303,
@@ -5856,7 +5775,7 @@
         "dates": ""
       }
     ],
-    "step": 150
+    "step": 141
   },
   {
     "titulus_id": 1304,
@@ -5996,16 +5915,7 @@
         "dates": ""
       }
     ],
-    "step": 151
-  },
-  {
-    "titulus_id": 1305,
-    "location_name": null,
-    "title": "",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 152
+    "step": 142
   },
   {
     "titulus_id": 1306,
@@ -6040,7 +5950,7 @@
         "dates": ""
       }
     ],
-    "step": 153
+    "step": 143
   },
   {
     "titulus_id": 1307,
@@ -6049,7 +5959,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 154
+    "step": 144
   },
   {
     "titulus_id": 1308,
@@ -6074,7 +5984,7 @@
         "dates": ""
       }
     ],
-    "step": 155
+    "step": 145
   },
   {
     "titulus_id": 1309,
@@ -6124,7 +6034,7 @@
         "dates": ""
       }
     ],
-    "step": 156
+    "step": 146
   },
   {
     "titulus_id": 1310,
@@ -6209,7 +6119,7 @@
         "dates": ""
       }
     ],
-    "step": 157
+    "step": 147
   },
   {
     "titulus_id": 1311,
@@ -6218,7 +6128,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 158
+    "step": 148
   },
   {
     "titulus_id": 1312,
@@ -6283,7 +6193,7 @@
         "dates": ""
       }
     ],
-    "step": 159
+    "step": 149
   },
   {
     "titulus_id": 1313,
@@ -6298,7 +6208,7 @@
         "dates": ""
       }
     ],
-    "step": 160
+    "step": 150
   },
   {
     "titulus_id": 1314,
@@ -6307,7 +6217,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 161
+    "step": 151
   },
   {
     "titulus_id": 1315,
@@ -6322,7 +6232,7 @@
         "dates": ""
       }
     ],
-    "step": 162
+    "step": 152
   },
   {
     "titulus_id": 1316,
@@ -6342,7 +6252,7 @@
         "dates": ""
       }
     ],
-    "step": 163
+    "step": 153
   },
   {
     "titulus_id": 1317,
@@ -6362,7 +6272,7 @@
         "dates": ""
       }
     ],
-    "step": 164
+    "step": 154
   },
   {
     "titulus_id": 1318,
@@ -6447,7 +6357,7 @@
         "dates": ""
       }
     ],
-    "step": 165
+    "step": 155
   },
   {
     "titulus_id": 1319,
@@ -6552,7 +6462,7 @@
         "dates": ""
       }
     ],
-    "step": 166
+    "step": 156
   },
   {
     "titulus_id": 1320,
@@ -6567,7 +6477,7 @@
         "dates": ""
       }
     ],
-    "step": 167
+    "step": 157
   },
   {
     "titulus_id": 1321,
@@ -6632,7 +6542,7 @@
         "dates": ""
       }
     ],
-    "step": 168
+    "step": 158
   },
   {
     "titulus_id": 1322,
@@ -6652,7 +6562,7 @@
         "dates": ""
       }
     ],
-    "step": 169
+    "step": 159
   },
   {
     "titulus_id": 1323,
@@ -6667,7 +6577,7 @@
         "dates": ""
       }
     ],
-    "step": 170
+    "step": 160
   },
   {
     "titulus_id": 1324,
@@ -6682,7 +6592,7 @@
         "dates": ""
       }
     ],
-    "step": 171
+    "step": 161
   },
   {
     "titulus_id": 1325,
@@ -6697,7 +6607,7 @@
         "dates": ""
       }
     ],
-    "step": 172
+    "step": 162
   },
   {
     "titulus_id": 1326,
@@ -6706,7 +6616,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 173
+    "step": 163
   },
   {
     "titulus_id": 1327,
@@ -6726,7 +6636,7 @@
         "dates": ""
       }
     ],
-    "step": 174
+    "step": 164
   },
   {
     "titulus_id": 1328,
@@ -6735,7 +6645,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 175
+    "step": 165
   },
   {
     "titulus_id": 1329,
@@ -6755,7 +6665,7 @@
         "dates": ""
       }
     ],
-    "step": 176
+    "step": 166
   },
   {
     "titulus_id": 1330,
@@ -6785,7 +6695,7 @@
         "dates": ""
       }
     ],
-    "step": 177
+    "step": 167
   },
   {
     "titulus_id": 1331,
@@ -6835,7 +6745,7 @@
         "dates": ""
       }
     ],
-    "step": 178
+    "step": 168
   },
   {
     "titulus_id": 1332,
@@ -6850,7 +6760,7 @@
         "dates": ""
       }
     ],
-    "step": 179
+    "step": 169
   },
   {
     "titulus_id": 1333,
@@ -6865,7 +6775,7 @@
         "dates": ""
       }
     ],
-    "step": 180
+    "step": 170
   },
   {
     "titulus_id": 1334,
@@ -6885,7 +6795,7 @@
         "dates": ""
       }
     ],
-    "step": 181
+    "step": 171
   },
   {
     "titulus_id": 1335,
@@ -6900,7 +6810,7 @@
         "dates": ""
       }
     ],
-    "step": 182
+    "step": 172
   },
   {
     "titulus_id": 1336,
@@ -6909,7 +6819,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 183
+    "step": 173
   },
   {
     "titulus_id": 1337,
@@ -6924,7 +6834,7 @@
         "dates": ""
       }
     ],
-    "step": 184
+    "step": 174
   },
   {
     "titulus_id": 1338,
@@ -6974,7 +6884,7 @@
         "dates": ""
       }
     ],
-    "step": 185
+    "step": 175
   },
   {
     "titulus_id": 1339,
@@ -6989,7 +6899,7 @@
         "dates": ""
       }
     ],
-    "step": 186
+    "step": 176
   },
   {
     "titulus_id": 1340,
@@ -7054,7 +6964,7 @@
         "dates": ""
       }
     ],
-    "step": 187
+    "step": 177
   },
   {
     "titulus_id": 1341,
@@ -7129,7 +7039,7 @@
         "dates": ""
       }
     ],
-    "step": 188
+    "step": 178
   },
   {
     "titulus_id": 1342,
@@ -7138,7 +7048,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 189
+    "step": 179
   },
   {
     "titulus_id": 1343,
@@ -7183,7 +7093,7 @@
         "dates": ""
       }
     ],
-    "step": 190
+    "step": 180
   },
   {
     "titulus_id": 1344,
@@ -7253,7 +7163,7 @@
         "dates": ""
       }
     ],
-    "step": 191
+    "step": 181
   },
   {
     "titulus_id": 1345,
@@ -7268,7 +7178,7 @@
         "dates": ""
       }
     ],
-    "step": 192
+    "step": 182
   },
   {
     "titulus_id": 1346,
@@ -7293,7 +7203,7 @@
         "dates": ""
       }
     ],
-    "step": 193
+    "step": 183
   },
   {
     "titulus_id": 1347,
@@ -7308,7 +7218,7 @@
         "dates": ""
       }
     ],
-    "step": 194
+    "step": 184
   },
   {
     "titulus_id": 1348,
@@ -7317,7 +7227,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 195
+    "step": 185
   },
   {
     "titulus_id": 1349,
@@ -7397,7 +7307,7 @@
         "dates": ""
       }
     ],
-    "step": 196
+    "step": 186
   },
   {
     "titulus_id": 1350,
@@ -7406,7 +7316,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 197
+    "step": 187
   },
   {
     "titulus_id": 1351,
@@ -7436,7 +7346,7 @@
         "dates": ""
       }
     ],
-    "step": 198
+    "step": 188
   },
   {
     "titulus_id": 1352,
@@ -7481,7 +7391,7 @@
         "dates": ""
       }
     ],
-    "step": 199
+    "step": 189
   },
   {
     "titulus_id": 1353,
@@ -7511,7 +7421,7 @@
         "dates": ""
       }
     ],
-    "step": 200
+    "step": 190
   },
   {
     "titulus_id": 1354,
@@ -7526,7 +7436,7 @@
         "dates": ""
       }
     ],
-    "step": 201
+    "step": 191
   },
   {
     "titulus_id": 1355,
@@ -7541,7 +7451,7 @@
         "dates": ""
       }
     ],
-    "step": 202
+    "step": 192
   },
   {
     "titulus_id": 1356,
@@ -7581,7 +7491,7 @@
         "dates": ""
       }
     ],
-    "step": 203
+    "step": 193
   },
   {
     "titulus_id": 1357,
@@ -7626,7 +7536,7 @@
         "dates": ""
       }
     ],
-    "step": 204
+    "step": 194
   },
   {
     "titulus_id": 1358,
@@ -7671,7 +7581,7 @@
         "dates": ""
       }
     ],
-    "step": 205
+    "step": 195
   },
   {
     "titulus_id": 1359,
@@ -7686,7 +7596,7 @@
         "dates": ""
       }
     ],
-    "step": 206
+    "step": 196
   },
   {
     "titulus_id": 1360,
@@ -7711,7 +7621,7 @@
         "dates": ""
       }
     ],
-    "step": 207
+    "step": 197
   },
   {
     "titulus_id": 1361,
@@ -7776,7 +7686,7 @@
         "dates": ""
       }
     ],
-    "step": 208
+    "step": 198
   },
   {
     "titulus_id": 1362,
@@ -7821,7 +7731,7 @@
         "dates": ""
       }
     ],
-    "step": 209
+    "step": 199
   },
   {
     "titulus_id": 1363,
@@ -7851,7 +7761,7 @@
         "dates": ""
       }
     ],
-    "step": 210
+    "step": 200
   },
   {
     "titulus_id": 1364,
@@ -7860,7 +7770,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 211
+    "step": 201
   },
   {
     "titulus_id": 1365,
@@ -7880,7 +7790,7 @@
         "dates": ""
       }
     ],
-    "step": 212
+    "step": 202
   },
   {
     "titulus_id": 1366,
@@ -7900,7 +7810,7 @@
         "dates": ""
       }
     ],
-    "step": 213
+    "step": 203
   },
   {
     "titulus_id": 1367,
@@ -7909,7 +7819,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 214
+    "step": 204
   },
   {
     "titulus_id": 1368,
@@ -7918,7 +7828,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 215
+    "step": 205
   },
   {
     "titulus_id": 1369,
@@ -7927,7 +7837,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 216
+    "step": 206
   },
   {
     "titulus_id": 1370,
@@ -7947,7 +7857,7 @@
         "dates": ""
       }
     ],
-    "step": 217
+    "step": 207
   },
   {
     "titulus_id": 1371,
@@ -7977,7 +7887,7 @@
         "dates": ""
       }
     ],
-    "step": 218
+    "step": 208
   },
   {
     "titulus_id": 1372,
@@ -7997,7 +7907,7 @@
         "dates": ""
       }
     ],
-    "step": 219
+    "step": 209
   },
   {
     "titulus_id": 1373,
@@ -8006,7 +7916,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 220
+    "step": 210
   },
   {
     "titulus_id": 1374,
@@ -8031,7 +7941,7 @@
         "dates": ""
       }
     ],
-    "step": 221
+    "step": 211
   },
   {
     "titulus_id": 1375,
@@ -8046,7 +7956,7 @@
         "dates": ""
       }
     ],
-    "step": 222
+    "step": 212
   },
   {
     "titulus_id": 1376,
@@ -8055,7 +7965,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 223
+    "step": 213
   },
   {
     "titulus_id": 1377,
@@ -8115,7 +8025,7 @@
         "dates": ""
       }
     ],
-    "step": 224
+    "step": 214
   },
   {
     "titulus_id": 1378,
@@ -8124,7 +8034,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 225
+    "step": 215
   },
   {
     "titulus_id": 1379,
@@ -8139,7 +8049,7 @@
         "dates": ""
       }
     ],
-    "step": 226
+    "step": 216
   },
   {
     "titulus_id": 1380,
@@ -8154,7 +8064,7 @@
         "dates": ""
       }
     ],
-    "step": 227
+    "step": 217
   },
   {
     "titulus_id": 1381,
@@ -8163,7 +8073,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 228
+    "step": 218
   },
   {
     "titulus_id": 1382,
@@ -8178,7 +8088,7 @@
         "dates": ""
       }
     ],
-    "step": 229
+    "step": 219
   },
   {
     "titulus_id": 1383,
@@ -8213,7 +8123,7 @@
         "dates": ""
       }
     ],
-    "step": 230
+    "step": 220
   },
   {
     "titulus_id": 1384,
@@ -8228,7 +8138,7 @@
         "dates": ""
       }
     ],
-    "step": 231
+    "step": 221
   },
   {
     "titulus_id": 1385,
@@ -8243,7 +8153,7 @@
         "dates": ""
       }
     ],
-    "step": 232
+    "step": 222
   },
   {
     "titulus_id": 1386,
@@ -8258,7 +8168,7 @@
         "dates": ""
       }
     ],
-    "step": 233
+    "step": 223
   },
   {
     "titulus_id": 1387,
@@ -8298,7 +8208,7 @@
         "dates": ""
       }
     ],
-    "step": 234
+    "step": 224
   },
   {
     "titulus_id": 1388,
@@ -8338,7 +8248,7 @@
         "dates": ""
       }
     ],
-    "step": 235
+    "step": 225
   },
   {
     "titulus_id": 1389,
@@ -8353,7 +8263,7 @@
         "dates": ""
       }
     ],
-    "step": 236
+    "step": 226
   },
   {
     "titulus_id": 1390,
@@ -8373,7 +8283,7 @@
         "dates": ""
       }
     ],
-    "step": 237
+    "step": 227
   },
   {
     "titulus_id": 1391,
@@ -8388,7 +8298,7 @@
         "dates": ""
       }
     ],
-    "step": 238
+    "step": 228
   },
   {
     "titulus_id": 1392,
@@ -8408,7 +8318,7 @@
         "dates": ""
       }
     ],
-    "step": 239
+    "step": 229
   },
   {
     "titulus_id": 1393,
@@ -8428,7 +8338,7 @@
         "dates": ""
       }
     ],
-    "step": 240
+    "step": 230
   },
   {
     "titulus_id": 1394,
@@ -8453,7 +8363,7 @@
         "dates": ""
       }
     ],
-    "step": 241
+    "step": 231
   },
   {
     "titulus_id": 1395,
@@ -8473,7 +8383,7 @@
         "dates": ""
       }
     ],
-    "step": 242
+    "step": 232
   },
   {
     "titulus_id": 1396,
@@ -8493,7 +8403,7 @@
         "dates": ""
       }
     ],
-    "step": 243
+    "step": 233
   },
   {
     "titulus_id": 1397,
@@ -8513,7 +8423,7 @@
         "dates": ""
       }
     ],
-    "step": 244
+    "step": 234
   },
   {
     "titulus_id": 1398,
@@ -8533,7 +8443,7 @@
         "dates": ""
       }
     ],
-    "step": 245
+    "step": 235
   },
   {
     "titulus_id": 1399,
@@ -8553,7 +8463,7 @@
         "dates": ""
       }
     ],
-    "step": 246
+    "step": 236
   },
   {
     "titulus_id": 1400,
@@ -8578,7 +8488,7 @@
         "dates": ""
       }
     ],
-    "step": 247
+    "step": 237
   },
   {
     "titulus_id": 1401,
@@ -8598,7 +8508,7 @@
         "dates": ""
       }
     ],
-    "step": 248
+    "step": 238
   },
   {
     "titulus_id": 1402,
@@ -8618,7 +8528,7 @@
         "dates": ""
       }
     ],
-    "step": 249
+    "step": 239
   },
   {
     "titulus_id": 1403,
@@ -8638,7 +8548,7 @@
         "dates": ""
       }
     ],
-    "step": 250
+    "step": 240
   },
   {
     "titulus_id": 1404,
@@ -8658,7 +8568,7 @@
         "dates": ""
       }
     ],
-    "step": 251
+    "step": 241
   },
   {
     "titulus_id": 1405,
@@ -8678,7 +8588,7 @@
         "dates": ""
       }
     ],
-    "step": 252
+    "step": 242
   },
   {
     "titulus_id": 1406,
@@ -8698,7 +8608,7 @@
         "dates": ""
       }
     ],
-    "step": 253
+    "step": 243
   },
   {
     "titulus_id": 1407,
@@ -8713,7 +8623,7 @@
         "dates": ""
       }
     ],
-    "step": 254
+    "step": 244
   },
   {
     "titulus_id": 1408,
@@ -8728,7 +8638,7 @@
         "dates": ""
       }
     ],
-    "step": 255
+    "step": 245
   },
   {
     "titulus_id": 1409,
@@ -8753,7 +8663,7 @@
         "dates": ""
       }
     ],
-    "step": 256
+    "step": 246
   },
   {
     "titulus_id": 1410,
@@ -8768,7 +8678,7 @@
         "dates": ""
       }
     ],
-    "step": 257
+    "step": 247
   },
   {
     "titulus_id": 1411,
@@ -8783,7 +8693,7 @@
         "dates": ""
       }
     ],
-    "step": 258
+    "step": 248
   },
   {
     "titulus_id": 1412,
@@ -8803,7 +8713,7 @@
         "dates": ""
       }
     ],
-    "step": 259
+    "step": 249
   },
   {
     "titulus_id": 1413,
@@ -8818,7 +8728,7 @@
         "dates": ""
       }
     ],
-    "step": 260
+    "step": 250
   },
   {
     "titulus_id": 1414,
@@ -8833,7 +8743,7 @@
         "dates": ""
       }
     ],
-    "step": 261
+    "step": 251
   },
   {
     "titulus_id": 1415,
@@ -8853,7 +8763,7 @@
         "dates": ""
       }
     ],
-    "step": 262
+    "step": 252
   },
   {
     "titulus_id": 1416,
@@ -8868,6 +8778,6 @@
         "dates": ""
       }
     ],
-    "step": 263
+    "step": 253
   }
 ]

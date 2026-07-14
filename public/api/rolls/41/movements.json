@@ -20,15 +20,6 @@
     "step": 0
   },
   {
-    "titulus_id": 70,
-    "location_name": null,
-    "title": "orphaned_tituli': [], ",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 1
-  },
-  {
     "titulus_id": 71,
     "location_name": null,
     "title": "",
@@ -46,7 +37,7 @@
         "dates": "died 979-02-16"
       }
     ],
-    "step": 2
+    "step": 1
   },
   {
     "titulus_id": 72,
@@ -81,6 +72,6 @@
         "dates": ""
       }
     ],
-    "step": 3
+    "step": 2
   }
 ]

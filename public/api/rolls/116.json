@@ -44,16 +44,6 @@
           "location_name": null
         }
       ]
-    },
-    {
-      "id": 1152,
-      "roll_id": 116,
-      "title": "orphaned_footnotes\ub098fiesterly: [{\"footnote_num\": \"a\", \"text\": \"disciplinam c.\"}, {\"footnote_num\": \"b\", \"text\": \"ante omis c.\"}, {\"footnote_num\": \"c\", \"text\": \"construxit c.\"}, {\"footnote_num\": \"d\", \"text\": \"ad alia au lieu de multum bc.\"}], ",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 22,
-      "pdf_half": "left",
-      "entities": []
     }
   ],
   "footnotes": [

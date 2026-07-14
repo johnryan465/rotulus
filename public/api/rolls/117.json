@@ -38,7 +38,7 @@
       "roll_id": 117,
       "title": "",
       "location_name": "",
-      "latin_text": "devenue \u00e0 la fin de l\u2019ann\u00e9e 1113 ou au commencement de l\u2019ann\u00e9e 1114. D\u2019autre part,\nMathilde, premi\u00e8re abbesse, est morte le 6 juillet, la cinquante-quatri\u00e8me ann\u00e9e de sa pr\u00e9sence,\nsuivant l\u2019encyclique..., apr\u00e8s une administration de quarante-sept ans, suivant Ord\u00e9ric Vital (\u00b9). Pour\nconclure ces deux chiffres, il faut n\u00e9cessairement admettre qu'Ord\u00e9ric Vital et l'Ord\u00e9ric de l'enceli-\nque des deux points de d\u00e9part diff\u00e9rents. Ord\u00e9ric avait sans doute en vue la d\u00e9cadence de l'abbaye,\nqui fut c\u00e9l\u00e9br\u00e9e en 1066 et qui put \u00eatre consid\u00e9r\u00e9e comme le premier acte par lequel le nouveau\nmonast\u00e8re s'\u00e9tait manifest\u00e9 au grand jour. L'encyclique, qui \u00e9crivait dans l'enceste\nm\u00e8ne de Mathilde, se doit rapporter aux premi\u00e8res origines de la fondation, qui \u00e9taient certaine-\nmente ant\u00e9rieures \u00e0 la d\u00e9cadence et qui, rien n'emp\u00eache de rapporter \u00e0 l'ann\u00e9e 1059. Avec ces donn\u00e9es\nqui le conscient le t\u00e9moignage d'Ord\u00e9ric Vital et celui de l'encyclique, on est conduit \u00e0 parler au\n6 juillet 1134 la mort de Mathilde, premi\u00e8re abbesse.",
+      "latin_text": null,
       "pdf_page": 24,
       "pdf_half": "left",
       "entities": [
@@ -1595,16 +1595,6 @@
       ]
     },
     {
-      "id": 1165,
-      "roll_id": 117,
-      "title": "",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 28,
-      "pdf_half": "right",
-      "entities": []
-    },
-    {
       "id": 1166,
       "roll_id": 117,
       "title": "",
@@ -2852,16 +2842,6 @@
       ]
     },
     {
-      "id": 1177,
-      "roll_id": 117,
-      "title": "",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 30,
-      "pdf_half": "right",
-      "entities": []
-    },
-    {
       "id": 1178,
       "roll_id": 117,
       "title": "",
@@ -3418,46 +3398,6 @@
           "location_name": null
         }
       ]
-    },
-    {
-      "id": 1192,
-      "roll_id": 117,
-      "title": "",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 32,
-      "pdf_half": "right",
-      "entities": []
-    },
-    {
-      "id": 1193,
-      "roll_id": 117,
-      "title": "",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 32,
-      "pdf_half": "right",
-      "entities": []
-    },
-    {
-      "id": 1194,
-      "roll_id": 117,
-      "title": "",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 32,
-      "pdf_half": "right",
-      "entities": []
-    },
-    {
-      "id": 1195,
-      "roll_id": 117,
-      "title": "",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 32,
-      "pdf_half": "right",
-      "entities": []
     },
     {
       "id": 1196,
@@ -4434,16 +4374,6 @@
           "location_name": null
         }
       ]
-    },
-    {
-      "id": 1203,
-      "roll_id": 117,
-      "title": "orphaned_tituli': [], ",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 35,
-      "pdf_half": "right",
-      "entities": []
     },
     {
       "id": 1204,
@@ -7632,16 +7562,6 @@
       ]
     },
     {
-      "id": 1237,
-      "roll_id": 117,
-      "title": "footnotes_and_citations_logic_check_complete",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 42,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
       "id": 1238,
       "roll_id": 117,
       "title": "T. Sanctae Fidis Longe Villae.",
@@ -8674,16 +8594,6 @@
       ]
     },
     {
-      "id": 1250,
-      "roll_id": 117,
-      "title": "",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 46,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
       "id": 1251,
       "roll_id": 117,
       "title": "93 [169] S.d.- B\u00e9n\u00e9v\u00e9nt[l\u2019Abbaye].",
@@ -9470,7 +9380,7 @@
       "roll_id": 117,
       "title": "101 [110] S.d.- Redon, S. Sauveur.",
       "location_name": "Redon",
-      "latin_text": "T. Sancti Salvatoris Rotonensis.\nMathildis vitam vivendo dux honestam;\nMathildis manda, pradens fut et pudibunda,\nPulchra, decens, casta, nulli pietate secunda.\nIn vultu moesta fuit et sermone modesta.\nDum nemisere adhuc discernere, tradita Christo,\nChristo servivit, cum quo super aetheria vivit.\nIn claustro nutrit fut, vicinumque perosa\nJejunas, vigilans, paciens obprobria multa.\nMundum consentio animo mundanique jura,\nAbbatissa fuit tandem Dominumque secuta.\nPauberibus larga multum fuit et sibi parcha\nParca sibi victi fuit h\u00e6c nocendo et amictu:",
+      "latin_text": null,
       "pdf_page": 49,
       "pdf_half": "left",
       "entities": [
@@ -12542,16 +12452,6 @@
           "location_name": null
         }
       ]
-    },
-    {
-      "id": 1305,
-      "roll_id": 117,
-      "title": "",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 60,
-      "pdf_half": "left",
-      "entities": []
     },
     {
       "id": 1306,

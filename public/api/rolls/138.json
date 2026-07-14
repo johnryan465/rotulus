@@ -30,18 +30,6 @@
           "normalized_role": "abbot",
           "normalized_dates": "",
           "location_name": null
-        },
-        {
-          "id": 7219,
-          "titulus_id": 1727,
-          "original_name": "footnotes_orphaned_none: [], ",
-          "original_title": "",
-          "footnote_num": null,
-          "footnote_text": null,
-          "normalized_name": "footnotes_orphaned_none: [], ",
-          "normalized_role": "",
-          "normalized_dates": "",
-          "location_name": null
         }
       ]
     },
@@ -293,16 +281,6 @@
           "location_name": null
         }
       ]
-    },
-    {
-      "id": 1731,
-      "roll_id": 138,
-      "title": "",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 58,
-      "pdf_half": "left",
-      "entities": []
     }
   ],
   "footnotes": [

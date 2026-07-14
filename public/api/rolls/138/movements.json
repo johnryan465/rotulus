@@ -10,11 +10,6 @@
         "name": "Renaud",
         "role": "abbot",
         "dates": ""
-      },
-      {
-        "name": "footnotes_orphaned_none: [], ",
-        "role": "",
-        "dates": ""
       }
     ],
     "step": 0
@@ -138,14 +133,5 @@
       }
     ],
     "step": 3
-  },
-  {
-    "titulus_id": 1731,
-    "location_name": null,
-    "title": "",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 4
   }
 ]

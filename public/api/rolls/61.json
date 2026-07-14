@@ -644,89 +644,9 @@
       ]
     },
     {
-      "id": 174,
-      "roll_id": 61,
-      "title": "n    {\n      \"title\": \"Et hac nomina defunctorum:\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 175,
-      "roll_id": 61,
-      "title": "n      \"location_name\": \"\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 176,
-      "roll_id": 61,
-      "title": "n      \"latin_text\": \"Et hac nomina defunctorum: VII kal. januari. obit Sedemanus. Nonis januari. obit Widdo. XII kl. febri. obit Stephanus. XL kl. mar. obit Berengarius. XII kl. aprili. obit Teodericus. XII kl. aprili. obit Berengarius (5) abba. XL kl. mai obit Mainardus (5) abba. XL kl. mai Fulredus. XL kl. mai Hildemanus. XII kl. mai obit Heldemanus.\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 177,
-      "roll_id": 61,
-      "title": "n      \"entities\": [\n        {\n          \"original_name\": \"Sedemanus\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 178,
-      "roll_id": 61,
-      "title": "n          \"original_title\": \"\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
       "id": 179,
       "roll_id": 61,
       "title": "n          \"footnote_num\": null",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 180,
-      "roll_id": 61,
-      "title": "n          \"normalized_name\": \"Sedeman \"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 181,
-      "roll_id": 61,
-      "title": "n          \"normalized_role\": \"monk\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 182,
-      "roll_id": 61,
-      "title": "n          \"normalized_dates\": \"\"",
       "location_name": "",
       "latin_text": "",
       "pdf_page": 54,
@@ -744,59 +664,9 @@
       "entities": []
     },
     {
-      "id": 184,
-      "roll_id": 61,
-      "title": "n        {\n          \"original_name\": \"Widdo\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 185,
-      "roll_id": 61,
-      "title": "n          \"original_title\": \"\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
       "id": 186,
       "roll_id": 61,
       "title": "n          \"footnote_num\": null",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 187,
-      "roll_id": 61,
-      "title": "n          \"normalized_name\": \"Widdo\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 188,
-      "roll_id": 61,
-      "title": "n          \"normalized_role\": \"monk\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 189,
-      "roll_id": 61,
-      "title": "n          \"normalized_dates\": \"\"",
       "location_name": "",
       "latin_text": "",
       "pdf_page": 54,
@@ -814,59 +684,9 @@
       "entities": []
     },
     {
-      "id": 191,
-      "roll_id": 61,
-      "title": "n        {\n          \"original_name\": \"Stephanus\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 192,
-      "roll_id": 61,
-      "title": "n          \"original_title\": \"\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
       "id": 193,
       "roll_id": 61,
       "title": "n          \"footnote_num\": null",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 194,
-      "roll_id": 61,
-      "title": "n          \"normalized_name\": \"Stephen\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 195,
-      "roll_id": 61,
-      "title": "n          \"normalized_role\": \"monk\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 196,
-      "roll_id": 61,
-      "title": "n          \"normalized_dates\": \"\"",
       "location_name": "",
       "latin_text": "",
       "pdf_page": 54,
@@ -884,26 +704,6 @@
       "entities": []
     },
     {
-      "id": 198,
-      "roll_id": 61,
-      "title": "n        {\n          \"original_name\": \"Berengarius\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 199,
-      "roll_id": 61,
-      "title": "n          \"original_title\": \"\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
       "id": 200,
       "roll_id": 61,
       "title": "n          \"footnote_num\": null",
@@ -914,59 +714,9 @@
       "entities": []
     },
     {
-      "id": 201,
-      "roll_id": 61,
-      "title": "n          \"normalized_name\": \"Berengar\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 202,
-      "roll_id": 61,
-      "title": "n          \"normalized_role\": \"monk\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 203,
-      "roll_id": 61,
-      "title": "n          \"normalized_dates\": \"\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
       "id": 204,
       "roll_id": 61,
       "title": "n          \"location_name\": null\n        }",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 205,
-      "roll_id": 61,
-      "title": "n        {\n          \"original_name\": \"Teodericus\"",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 54,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
-      "id": 206,
-      "roll_id": 61,
-      "title": "n          \"original_title\": \"\"",
       "location_name": "",
       "latin_text": "",
       "pdf_page": 54,

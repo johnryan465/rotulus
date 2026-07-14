@@ -118,14 +118,5 @@
       }
     ],
     "step": 2
-  },
-  {
-    "titulus_id": 809,
-    "location_name": null,
-    "title": "",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 3
   }
 ]

@@ -145,15 +145,6 @@
     "step": 3
   },
   {
-    "titulus_id": 1644,
-    "location_name": null,
-    "title": "",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 4
-  },
-  {
     "titulus_id": 1645,
     "location_name": "Caen, S. \u00c9tienne",
     "title": "7 S.d.\u2013 Caen, S. \u00c9tienne.",
@@ -216,7 +207,7 @@
         "dates": ""
       }
     ],
-    "step": 5
+    "step": 4
   },
   {
     "titulus_id": 1646,
@@ -296,7 +287,7 @@
         "dates": ""
       }
     ],
-    "step": 6
+    "step": 5
   },
   {
     "titulus_id": 1647,
@@ -311,7 +302,7 @@
         "dates": ""
       }
     ],
-    "step": 7
+    "step": 6
   },
   {
     "titulus_id": 1648,
@@ -361,7 +352,7 @@
         "dates": ""
       }
     ],
-    "step": 8
+    "step": 7
   },
   {
     "titulus_id": 1649,
@@ -376,7 +367,7 @@
         "dates": ""
       }
     ],
-    "step": 9
+    "step": 8
   },
   {
     "titulus_id": 1650,
@@ -426,7 +417,7 @@
         "dates": ""
       }
     ],
-    "step": 10
+    "step": 9
   },
   {
     "titulus_id": 1651,
@@ -471,7 +462,7 @@
         "dates": ""
       }
     ],
-    "step": 11
+    "step": 10
   },
   {
     "titulus_id": 1652,
@@ -491,6 +482,6 @@
         "dates": ""
       }
     ],
-    "step": 12
+    "step": 11
   }
 ]

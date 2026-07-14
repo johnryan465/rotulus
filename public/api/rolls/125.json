@@ -2115,18 +2115,6 @@
           "normalized_role": "",
           "normalized_dates": "",
           "location_name": null
-        },
-        {
-          "id": 6191,
-          "titulus_id": 1467,
-          "original_name": "footnotes_at_bottom_of_page_not_found_but_extracted_from_text_as_per_instructions_logic_for_orphaned_parts_if_needed_else_empty_list_here_is_the_actual_content_below_in_orphanage_section_to_be_safe_though_they_are_partially_attached_above_by_context_parsing_rules_applied_manually_during_json_construction_process_following_strict_schema_requirements. However the prompt says put them in footnotes list if they are at bottom of page and have number/marker.",
-          "original_title": "",
-          "footnote_num": null,
-          "footnote_text": null,
-          "normalized_name": "footnotes_at_bottom_of_page_not_found_but_extracted_from_text_as_per_instructions_logic_for_orphaned_parts_if_needed_else_empty_list_here_is_the_actual_content_below_in_orphanage_section_to_be_safe_though_they_are_partially_attached_above_by_context_parsing_rules_applied_manually_during_json_construction_process_following_strict_schema_requirements. However the prompt says put them in footnotes list if they are at bottom of page and have number/marker.",
-          "normalized_role": "",
-          "normalized_dates": "",
-          "location_name": null
         }
       ]
     },
@@ -3411,16 +3399,6 @@
       ]
     },
     {
-      "id": 1484,
-      "roll_id": 125,
-      "title": "orphaned_footnotes\ub098 citations: []",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 7,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
       "id": 1485,
       "roll_id": 125,
       "title": "T. (b) SANCTI MARTINI DE CAMPIS.",
@@ -3593,16 +3571,6 @@
           "location_name": "Paris"
         }
       ]
-    },
-    {
-      "id": 1489,
-      "roll_id": 125,
-      "title": "",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 7,
-      "pdf_half": "right",
-      "entities": []
     },
     {
       "id": 1490,

@@ -20,15 +20,6 @@
     "step": 0
   },
   {
-    "titulus_id": 28,
-    "location_name": null,
-    "title": "orphaned_footnotes\ub098 [ {",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 1
-  },
-  {
     "titulus_id": 29,
     "location_name": "Gandavo castro",
     "title": "Tytulus (ric) sancti Bavonis nobilissimi confessoris in Gandavo castro (hystoria, non fabula).",
@@ -66,7 +57,7 @@
         "dates": ""
       }
     ],
-    "step": 2
+    "step": 1
   },
   {
     "titulus_id": 30,
@@ -116,6 +107,6 @@
         "dates": ""
       }
     ],
-    "step": 3
+    "step": 2
   }
 ]

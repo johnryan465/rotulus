@@ -41,16 +41,6 @@
       "entities": []
     },
     {
-      "id": 1103,
-      "roll_id": 114,
-      "title": "",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 11,
-      "pdf_half": "left",
-      "entities": []
-    },
-    {
       "id": 1104,
       "roll_id": 114,
       "title": "1 [ ] S.d.-[Tournai, cath\u00e9drale.]",
@@ -1544,16 +1534,6 @@
           "location_name": null
         }
       ]
-    },
-    {
-      "id": 1129,
-      "roll_id": 114,
-      "title": "",
-      "location_name": "",
-      "latin_text": "",
-      "pdf_page": 16,
-      "pdf_half": "left",
-      "entities": []
     },
     {
       "id": 1130,

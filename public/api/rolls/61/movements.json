@@ -280,85 +280,13 @@
     "step": 2
   },
   {
-    "titulus_id": 174,
-    "location_name": null,
-    "title": "n    {\n      \"title\": \"Et hac nomina defunctorum:\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 3
-  },
-  {
-    "titulus_id": 175,
-    "location_name": null,
-    "title": "n      \"location_name\": \"\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 4
-  },
-  {
-    "titulus_id": 176,
-    "location_name": null,
-    "title": "n      \"latin_text\": \"Et hac nomina defunctorum: VII kal. januari. obit Sedemanus. Nonis januari. obit Widdo. XII kl. febri. obit Stephanus. XL kl. mar. obit Berengarius. XII kl. aprili. obit Teodericus. XII kl. aprili. obit Berengarius (5) abba. XL kl. mai obit Mainardus (5) abba. XL kl. mai Fulredus. XL kl. mai Hildemanus. XII kl. mai obit Heldemanus.\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 5
-  },
-  {
-    "titulus_id": 177,
-    "location_name": null,
-    "title": "n      \"entities\": [\n        {\n          \"original_name\": \"Sedemanus\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 6
-  },
-  {
-    "titulus_id": 178,
-    "location_name": null,
-    "title": "n          \"original_title\": \"\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 7
-  },
-  {
     "titulus_id": 179,
     "location_name": null,
     "title": "n          \"footnote_num\": null",
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 8
-  },
-  {
-    "titulus_id": 180,
-    "location_name": null,
-    "title": "n          \"normalized_name\": \"Sedeman \"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 9
-  },
-  {
-    "titulus_id": 181,
-    "location_name": null,
-    "title": "n          \"normalized_role\": \"monk\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 10
-  },
-  {
-    "titulus_id": 182,
-    "location_name": null,
-    "title": "n          \"normalized_dates\": \"\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 11
+    "step": 3
   },
   {
     "titulus_id": 183,
@@ -367,25 +295,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 12
-  },
-  {
-    "titulus_id": 184,
-    "location_name": null,
-    "title": "n        {\n          \"original_name\": \"Widdo\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 13
-  },
-  {
-    "titulus_id": 185,
-    "location_name": null,
-    "title": "n          \"original_title\": \"\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 14
+    "step": 4
   },
   {
     "titulus_id": 186,
@@ -394,34 +304,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 15
-  },
-  {
-    "titulus_id": 187,
-    "location_name": null,
-    "title": "n          \"normalized_name\": \"Widdo\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 16
-  },
-  {
-    "titulus_id": 188,
-    "location_name": null,
-    "title": "n          \"normalized_role\": \"monk\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 17
-  },
-  {
-    "titulus_id": 189,
-    "location_name": null,
-    "title": "n          \"normalized_dates\": \"\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 18
+    "step": 5
   },
   {
     "titulus_id": 190,
@@ -430,25 +313,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 19
-  },
-  {
-    "titulus_id": 191,
-    "location_name": null,
-    "title": "n        {\n          \"original_name\": \"Stephanus\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 20
-  },
-  {
-    "titulus_id": 192,
-    "location_name": null,
-    "title": "n          \"original_title\": \"\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 21
+    "step": 6
   },
   {
     "titulus_id": 193,
@@ -457,34 +322,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 22
-  },
-  {
-    "titulus_id": 194,
-    "location_name": null,
-    "title": "n          \"normalized_name\": \"Stephen\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 23
-  },
-  {
-    "titulus_id": 195,
-    "location_name": null,
-    "title": "n          \"normalized_role\": \"monk\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 24
-  },
-  {
-    "titulus_id": 196,
-    "location_name": null,
-    "title": "n          \"normalized_dates\": \"\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 25
+    "step": 7
   },
   {
     "titulus_id": 197,
@@ -493,25 +331,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 26
-  },
-  {
-    "titulus_id": 198,
-    "location_name": null,
-    "title": "n        {\n          \"original_name\": \"Berengarius\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 27
-  },
-  {
-    "titulus_id": 199,
-    "location_name": null,
-    "title": "n          \"original_title\": \"\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 28
+    "step": 8
   },
   {
     "titulus_id": 200,
@@ -520,34 +340,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 29
-  },
-  {
-    "titulus_id": 201,
-    "location_name": null,
-    "title": "n          \"normalized_name\": \"Berengar\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 30
-  },
-  {
-    "titulus_id": 202,
-    "location_name": null,
-    "title": "n          \"normalized_role\": \"monk\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 31
-  },
-  {
-    "titulus_id": 203,
-    "location_name": null,
-    "title": "n          \"normalized_dates\": \"\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 32
+    "step": 9
   },
   {
     "titulus_id": 204,
@@ -556,25 +349,7 @@
     "date": null,
     "date_display": null,
     "entities": [],
-    "step": 33
-  },
-  {
-    "titulus_id": 205,
-    "location_name": null,
-    "title": "n        {\n          \"original_name\": \"Teodericus\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 34
-  },
-  {
-    "titulus_id": 206,
-    "location_name": null,
-    "title": "n          \"original_title\": \"\"",
-    "date": null,
-    "date_display": null,
-    "entities": [],
-    "step": 35
+    "step": 10
   },
   {
     "titulus_id": 207,
@@ -649,6 +424,6 @@
         "dates": ""
       }
     ],
-    "step": 36
+    "step": 11
   }
 ]
