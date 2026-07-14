@@ -20,6 +20,12 @@ jobs:
         with:
           node-version: 20
           cache: 'npm'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Python dependencies
+        run: pip install .
       - name: Install dependencies
         run: npm install
       - name: Build
