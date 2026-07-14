@@ -1,0 +1,344 @@
+[
+  {
+    "titulus_id": 1430,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Father (God)",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1431,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Albinus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Marbodus",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Gaul",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 1432,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Urban",
+        "role": "pope",
+        "dates": ""
+      },
+      {
+        "name": "Saintes of Rennes",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 1433,
+    "location_name": null,
+    "title": "II : suite du rouleau mortuaire",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 3
+  },
+  {
+    "titulus_id": 1434,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 4
+  },
+  {
+    "titulus_id": 1435,
+    "location_name": "S.d.- Ripoll",
+    "title": "10",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 5
+  },
+  {
+    "titulus_id": 1436,
+    "location_name": "Tierc\u00e9ville",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vital",
+        "role": "priest",
+        "dates": "c. 1290"
+      },
+      {
+        "name": "Robert de Montfort",
+        "role": "chaplain",
+        "dates": ""
+      },
+      {
+        "name": "Guillaume le Conoparc",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 6
+  },
+  {
+    "titulus_id": 1437,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Saint Savinian",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 7
+  },
+  {
+    "titulus_id": 1438,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Tullius",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 8
+  },
+  {
+    "titulus_id": 1439,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vital of Savigny",
+        "role": "",
+        "dates": "d. c. 1124"
+      },
+      {
+        "name": "Saint Peter of Ely",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 9
+  },
+  {
+    "titulus_id": 1440,
+    "location_name": null,
+    "title": "Pour le contenu, l\u2019enqu\u00eate r\u00e9v\u00e8le, d\u2019apr\u00e8s L. Delisle (1), un faible int\u00e9r\u00eat litt\u00e9raire, car le froid pan\u00e9gyrique de Vital en peut y \u00eatre inf\u00e9rieur au cas consacr\u00e9 \u00e0 ce personnage tant par Geoffroy les Gros, dans sa Vita beati Vitalis Bernodien (2), par Etienne de Foug\u00e8res (3) que par souligne cependant son caract\u00e8re hagiographique : $\\text{\\textsf{b}}$ le moine lettr\u00e9, auteur de cette missive, a",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "L\u00e9on Delisle",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Geoffrey the Stout",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Vital of Savigny",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Stephen of Foug\u00e8res",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 10
+  },
+  {
+    "titulus_id": 1441,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Benedict",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert of Arxel",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard of Tyrone",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 11
+  },
+  {
+    "titulus_id": 1442,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "George",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Jesus Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 12
+  },
+  {
+    "titulus_id": 1443,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rainfred",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rohe",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Richard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rainald",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Turstin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Adeline",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Avena",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Avon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Muriel",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ameline",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 13
+  },
+  {
+    "titulus_id": 1444,
+    "location_name": "Caen, la Trinit\u00e9",
+    "title": "3 [4] S.d.- Caen, la Trinit\u00e9.\nT. SANCTE TRINITATIS CADOMI.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 14
+  }
+]

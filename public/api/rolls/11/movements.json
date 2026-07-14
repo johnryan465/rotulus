@@ -1,0 +1,22 @@
+[
+  {
+    "titulus_id": 17,
+    "location_name": "Lui, \u00e9v\u00e9que de Mainz",
+    "title": "15",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Lul",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Guthbert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

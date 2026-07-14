@@ -1,0 +1,47 @@
+[
+  {
+    "titulus_id": 20,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Lullo",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "apostle",
+        "dates": ""
+      },
+      {
+        "name": "Saganald",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Jesus Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 21,
+    "location_name": null,
+    "title": "25",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Sindbert",
+        "role": "bishop",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

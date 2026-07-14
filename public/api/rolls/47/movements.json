@@ -1,0 +1,110 @@
+[
+  {
+    "titulus_id": 93,
+    "location_name": "Paris, cath\u00e9drale",
+    "title": "1 S.d. \u2013 Paris, cath\u00e9drale (N.-D.)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Mary of Paris",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 94,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  },
+  {
+    "titulus_id": 95,
+    "location_name": "S. Denis",
+    "title": "Contio Sancti",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Denis",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Gozfred",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guillaume",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 96,
+    "location_name": "Orbais",
+    "title": "[c. p.]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Paulin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "Christ",
+        "dates": ""
+      },
+      {
+        "name": "Pierre",
+        "role": "shepherd/guardian",
+        "dates": ""
+      },
+      {
+        "name": "Drogo",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 97,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Martial",
+        "role": "patron saint of Limoges and Aquitaine",
+        "dates": ""
+      },
+      {
+        "name": "Solomon",
+        "role": "king",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 98,
+    "location_name": null,
+    "title": "orphaned_tituli': [], ",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 5
+  }
+]

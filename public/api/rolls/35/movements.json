@@ -1,0 +1,66 @@
+[
+  {
+    "titulus_id": 58,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Purchard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Saint Gall",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 59,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Remigius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hincmar",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 60,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Holy Spirit",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 61,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 3
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "titulus_id": 101,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Dunstan",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "N\u00ba",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 102,
+    "location_name": "Micy, S. Mesmin",
+    "title": "1 S.d.-Micy, S. Mesmin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Paris",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Althrafus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 103,
+    "location_name": "Blois, S. Laumer",
+    "title": "2 18 janvier ...-Blois, S. Laumer.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Beatus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lannorum",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Teutonem",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  }
+]

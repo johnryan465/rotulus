@@ -1,0 +1,47 @@
+[
+  {
+    "titulus_id": 781,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Jo\u00ebl d'Antins",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Nicholas",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Ho\u00ebl",
+        "role": "bishop",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 782,
+    "location_name": "Celenoamensi",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Joel",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hodel",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

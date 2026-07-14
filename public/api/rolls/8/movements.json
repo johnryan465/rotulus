@@ -1,0 +1,32 @@
+[
+  {
+    "titulus_id": 13,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Alfred the Great",
+        "role": "king",
+        "dates": ""
+      },
+      {
+        "name": "Lull",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "deity",
+        "dates": ""
+      },
+      {
+        "name": "God",
+        "role": "deity",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

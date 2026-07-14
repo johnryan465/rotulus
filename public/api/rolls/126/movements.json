@@ -1,0 +1,2596 @@
+[
+  {
+    "titulus_id": 1539,
+    "location_name": "Oxford, Holy Trinity, S. Friswide",
+    "title": "[XV] 103 [198] S.d.- Oxford, Holy Trinity, S. Friswide.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 0
+  },
+  {
+    "titulus_id": 1540,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Vitalis",
+        "role": "pastor/priest",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 1541,
+    "location_name": "Eynsham, Holy Trinity, S. Mary",
+    "title": "102 [197] S.d.- Eynsham, Holy Trinity, S. Mary.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 1542,
+    "location_name": "Rochester, cathedral (S. Andrew)",
+    "title": "104 [203] S.d.- Rochester, cathedral (S. Andrew).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 1543,
+    "location_name": "Canterbury, cathedral (Christchurch)",
+    "title": "105 [204] S.d.- Canterbury, cathedral (Christchurch).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "Son of God",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 1544,
+    "location_name": "[Lewes,] S. Pancras",
+    "title": "107 [207] S.d.- [Lewes,] S. Pancras.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Pancras",
+        "role": "martyr",
+        "dates": ""
+      }
+    ],
+    "step": 5
+  },
+  {
+    "titulus_id": 1545,
+    "location_name": "Bourges, S. Ulpice",
+    "title": "108 [81] S.d.- Bourges, S. Ulpice.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Sulpicius",
+        "role": "Archbishop of Bourges and Nevers",
+        "dates": ""
+      },
+      {
+        "name": "Odo",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Evraudus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Aetivus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Jobert",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Arnulf",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Constance",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Adelard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Girard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Godfrey",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 6
+  },
+  {
+    "titulus_id": 1546,
+    "location_name": "Vierzon, S. Pierre",
+    "title": "109 [82] S.d.-Vierzon, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Berengar",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Raimund",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Richard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Jobert",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Rotulus",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 7
+  },
+  {
+    "titulus_id": 1547,
+    "location_name": "Massiac",
+    "title": "T. SANCTI MARTINI MASCIACENSIS CENOBII.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Sulpicius",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Fulco",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Zacharias",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Constantinus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Gimo",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Odo",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Garnier",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Durandus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Acardus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Humbert",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Josbert",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 8
+  },
+  {
+    "titulus_id": 1548,
+    "location_name": "Marmourier",
+    "title": "113 [90] S.d.- Marmourier, S. Martin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Beati Martini",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Albert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bartholomew",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hilgo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ariprandus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Ansegisus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Oliver",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Andrew",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 9
+  },
+  {
+    "titulus_id": 1549,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 10
+  },
+  {
+    "titulus_id": 1550,
+    "location_name": null,
+    "title": "orphaned_tituli\": [], ",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 11
+  },
+  {
+    "titulus_id": 1551,
+    "location_name": "Orl\u00e9ans, N.-D.-de-l'H\u00f4pital",
+    "title": "116 [94] S.d.-[Orl\u00e9ans,] N.-D.-de-l'H\u00f4pital.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Vitalis",
+        "role": "servant/layperson",
+        "dates": ""
+      }
+    ],
+    "step": 12
+  },
+  {
+    "titulus_id": 1552,
+    "location_name": "Orl\u00e9ans, S. Aignan",
+    "title": "117 [95] S.d.- Orl\u00e9ans, S. Aignan.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Anianus",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 13
+  },
+  {
+    "titulus_id": 1553,
+    "location_name": "Salmurensis",
+    "title": "TITULUS (a) SANCTI FLORENTII SALMURENSIS.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Sigon",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Guillaume",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Constantin",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Fulch\u00e8re",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 14
+  },
+  {
+    "titulus_id": 1554,
+    "location_name": "Cormery",
+    "title": "120 [88] S.d.- Cormery, S. Paul.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Paul",
+        "role": "Apostle",
+        "dates": ""
+      }
+    ],
+    "step": 15
+  },
+  {
+    "titulus_id": 1555,
+    "location_name": "Tours",
+    "title": "121 [89] S.d.- Tours, S. Julien.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Julien",
+        "role": "martyr",
+        "dates": ""
+      },
+      {
+        "name": "Girbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Girard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ingelard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Richard",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Renaud",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Aucher",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Guillaume",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Dodon",
+        "role": "marquis",
+        "dates": ""
+      }
+    ],
+    "step": 16
+  },
+  {
+    "titulus_id": 1556,
+    "location_name": "Morigny, S. Trinit\u00e9",
+    "title": "123 [97] S.d.- Morigny, S. Trinit\u00e9.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Rainald",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Arird",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Alric",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Herv\u00e9",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hildebrand",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Nicholas",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Arnaud",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Baudouin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Herbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gozlin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gauterio",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Landric",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Odon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lysiard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Anselm",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Garsadon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gosbert",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 17
+  },
+  {
+    "titulus_id": 1557,
+    "location_name": "Longpont[sur-Orge]",
+    "title": "124 [98] S.d.- Longpont[sur-Orge], N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 18
+  },
+  {
+    "titulus_id": 1558,
+    "location_name": "Coulombs",
+    "title": "125 [101] S.d.- Coulombs, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 19
+  },
+  {
+    "titulus_id": 1559,
+    "location_name": "Josaphat",
+    "title": "[IIIv] 126 [102] S.d.- Josaphat, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Herv\u00e9",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Drogon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Albert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Albinus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Garnier",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hernulf",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rualdus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 20
+  },
+  {
+    "titulus_id": 1560,
+    "location_name": "Chartres, S. Jean[en-Vall\u00e9e]",
+    "title": "127 [103] S.d.- Chartres, S. Jean[en-Vall\u00e9e].",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 21
+  },
+  {
+    "titulus_id": 1561,
+    "location_name": "[Chartres, S. Martin-au-Val.",
+    "title": "128 [104] S.d.- [Chartres, S. Martin-au-Val.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 22
+  },
+  {
+    "titulus_id": 1562,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Radulf",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Moses",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Reginaud",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Renier",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Arnaud",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hilduin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Sancho",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Godfrey",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Maurice",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lambert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Anselm",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Fulcher",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Roger",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Osmund",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Herbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Andrew",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 23
+  },
+  {
+    "titulus_id": 1563,
+    "location_name": "Tyrenosis",
+    "title": "T. (a) Sancti Salvatoris Tyrenosis cenobii.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Radulf",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 24
+  },
+  {
+    "titulus_id": 1564,
+    "location_name": "[Bouche-d'Aigre]",
+    "title": "130 [106] S.d.-[Bouche-d'Aigre], S. Jean, S. Paul (3).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "John",
+        "role": "martyr",
+        "dates": ""
+      },
+      {
+        "name": "Paul",
+        "role": "martyr",
+        "dates": ""
+      }
+    ],
+    "step": 25
+  },
+  {
+    "titulus_id": 1565,
+    "location_name": "Vend\u00f4me",
+    "title": "131 [107] S.d.- Vend\u00f4me, la Trinit\u00e9.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 26
+  },
+  {
+    "titulus_id": 1566,
+    "location_name": "Bourgueil",
+    "title": "132 [108] S.d.- Bourgueil, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Vitalis",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 27
+  },
+  {
+    "titulus_id": 1567,
+    "location_name": "Dontefrouard",
+    "title": "133 [109] S.-Dontefrouard, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 28
+  },
+  {
+    "titulus_id": 1568,
+    "location_name": "Angers, S. Martin",
+    "title": "134 [117] S.d.- Angers, S. Martin.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 29
+  },
+  {
+    "titulus_id": 1569,
+    "location_name": "SANCTI FRANBALDI abatis",
+    "title": "T. (a) SANCTI FRANBALDI abatis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 30
+  },
+  {
+    "titulus_id": 1570,
+    "location_name": "Le Mans, S Julien-du-Pr\u00e9",
+    "title": "T. [Ivv] 136 [120] S.d.- [Le Mans, S Julien-du-Pr\u00e9.]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Agnes",
+        "role": "abbess",
+        "dates": ""
+      },
+      {
+        "name": "Ermengarde",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ermeline",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Milisinde",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Richilde",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ermentrude",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Clarie",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hodierne",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 31
+  },
+  {
+    "titulus_id": 1571,
+    "location_name": "Cerne",
+    "title": "141 [145] S.d.- Cerne, S. Peter.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Saint Peter",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 32
+  },
+  {
+    "titulus_id": 1572,
+    "location_name": "Sherborne",
+    "title": "142 [146] S.d.- Sherborne, S. Mary.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Gregory",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Leofric",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wulfrich",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Segar",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Edwin",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Heremann",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Tobias",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Thomas",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Aldefort",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 33
+  },
+  {
+    "titulus_id": 1573,
+    "location_name": "Reba\u00eds",
+    "title": "143 [48] S.d.- Reba\u00eds, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Peter",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 34
+  },
+  {
+    "titulus_id": 1574,
+    "location_name": "Lirc",
+    "title": "T. Sanct\u0119 Mari\u0119 Lirc.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 35
+  },
+  {
+    "titulus_id": 1575,
+    "location_name": "Hinchelaensis",
+    "title": "T. Sancte Marie Hinchelaensis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Ralph",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Emma",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gilbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Merwin",
+        "role": "priest",
+        "dates": ""
+      }
+    ],
+    "step": 36
+  },
+  {
+    "titulus_id": 1576,
+    "location_name": "Battle",
+    "title": "T. Sancti Martini de Bello.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "hermit",
+        "dates": ""
+      }
+    ],
+    "step": 37
+  },
+  {
+    "titulus_id": 1577,
+    "location_name": "Nottingham",
+    "title": "T. ECCLESI\u00c6 SANCT\u00c6 TRINITATIS DE NOTINGHAM (1)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hugh",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Lambert",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Walter",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Vulric",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Ralph",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Walter",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 38
+  },
+  {
+    "titulus_id": 1578,
+    "location_name": "Angers",
+    "title": "T. SANCTI SERGII ANDEGAVI.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bernard",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Walter",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Samar",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 39
+  },
+  {
+    "titulus_id": 1579,
+    "location_name": "Lirc",
+    "title": "T. Sanct\u0119 Mari\u0119 Lirc.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 40
+  },
+  {
+    "titulus_id": 1580,
+    "location_name": "\u00c9vreux, S. Sauveur",
+    "title": "151 [129] S.d.- \u00c9vreux, S. Sauveur.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 41
+  },
+  {
+    "titulus_id": 1581,
+    "location_name": "Amesbury, S. Mary et S. Melor",
+    "title": "152 [141] S.d.- Amesbury, S. Mary et S. Melor.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 42
+  },
+  {
+    "titulus_id": 1582,
+    "location_name": "Wilton, S. Mary, S. Edith",
+    "title": "153 [142] S.d.- Wilton, S. Mary, S. Edith.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Edith",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 43
+  },
+  {
+    "titulus_id": 1583,
+    "location_name": "Muchelney, S. Peter",
+    "title": "154 [148] S.d.- Muchelney, S. Peter.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 44
+  },
+  {
+    "titulus_id": 1584,
+    "location_name": "Bath, cathedral",
+    "title": "S.d.- Bath, cathedral (S. Peter).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "sancti Petri apostoli",
+        "role": "Apostle",
+        "dates": ""
+      }
+    ],
+    "step": 45
+  },
+  {
+    "titulus_id": 1585,
+    "location_name": "Malmesbury",
+    "title": "S.d.- Malmesbury, S. Mary, S. Aldhelm.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "sancte Marie",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "sancti Aldelmi confessoris",
+        "role": "Confessor",
+        "dates": ""
+      },
+      {
+        "name": "Aedelstano",
+        "role": "king",
+        "dates": ""
+      },
+      {
+        "name": "Warino",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Godefroido",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Watselino",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Radulfo",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Ricardo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Stephano",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Gerardo",
+        "role": "brother",
+        "dates": ""
+      },
+      {
+        "name": "Bernardo",
+        "role": "brother",
+        "dates": ""
+      },
+      {
+        "name": "Elevisia",
+        "role": "sister",
+        "dates": ""
+      },
+      {
+        "name": "Mathildi",
+        "role": "sister",
+        "dates": ""
+      },
+      {
+        "name": "Walterio",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Ricardo",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 46
+  },
+  {
+    "titulus_id": 1586,
+    "location_name": "[Barnwell]",
+    "title": "S.d.- [Barnwell], S. Giles (4).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "sancte Vitalis",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 47
+  },
+  {
+    "titulus_id": 1587,
+    "location_name": "Belvoir",
+    "title": "S.d.- Belvoir, S. Mary.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Sanct\u00e6 Marie",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Vitalis",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 48
+  },
+  {
+    "titulus_id": 1588,
+    "location_name": "Wymondham",
+    "title": "S.d.- Wymondham, S. Mary.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Sanct\u00e6 Marie",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 49
+  },
+  {
+    "titulus_id": 1589,
+    "location_name": "Pontefract",
+    "title": "S.d.- Pontefract, S. John Evangelist.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "sancti Johannis evangelist\u00e6",
+        "role": "Evangelist",
+        "dates": ""
+      }
+    ],
+    "step": 50
+  },
+  {
+    "titulus_id": 1590,
+    "location_name": "Lincoln",
+    "title": "[VIIv] 165 [164] S.d.- Lincoln, cathedral (S. Mary).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Mary",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 51
+  },
+  {
+    "titulus_id": 1591,
+    "location_name": "Bardney",
+    "title": "166 [173] S.d.- Bardney, S. Oswald.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Oswald",
+        "role": "king and martyr",
+        "dates": ""
+      },
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 52
+  },
+  {
+    "titulus_id": 1592,
+    "location_name": "Nostell",
+    "title": "161 [166] S.d.- [Nostell,] S. Oswald.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Oswald",
+        "role": "king and martyr",
+        "dates": ""
+      }
+    ],
+    "step": 53
+  },
+  {
+    "titulus_id": 1593,
+    "location_name": "Bridgton",
+    "title": "162 [172] S.d.- Bridgton, S. Mary.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Mary",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 54
+  },
+  {
+    "titulus_id": 1594,
+    "location_name": "York",
+    "title": "163 [171] S.d.- York, Holy Trinity.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Martin",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Ralph Paganello",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "David",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Tristan",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Ralph",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Solomon",
+        "role": null,
+        "dates": ""
+      }
+    ],
+    "step": 55
+  },
+  {
+    "titulus_id": 1595,
+    "location_name": "Bricett",
+    "title": "164 [187] S.d.- [Great] Bricett, S. Leonard (1).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 56
+  },
+  {
+    "titulus_id": 1596,
+    "location_name": "Auxeliodunum",
+    "title": "T. SANCTE MARIE Auxelioduni cenobii. Anima abbatis Vitalis et a. o. f. d. r.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Interius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Litterius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Giraldus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Josbertus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Unbauldus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rannulfus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 57
+  },
+  {
+    "titulus_id": 1597,
+    "location_name": "D\u00e9ols",
+    "title": "168 [85] S.d.- D\u00e9ols, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Marie",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 58
+  },
+  {
+    "titulus_id": 1598,
+    "location_name": "Angers",
+    "title": "169 [111] S.d.- Angers, cath\u00e9drale (S. Maurice).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 59
+  },
+  {
+    "titulus_id": 1599,
+    "location_name": "Angers",
+    "title": "170 [112] S.d.- Angers, S. Aubin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Albinus",
+        "role": "bishop",
+        "dates": ""
+      }
+    ],
+    "step": 60
+  },
+  {
+    "titulus_id": 1600,
+    "location_name": null,
+    "title": "171 [113] S.d.- Angers, S. Nicolas.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Achard",
+        "role": "cantor",
+        "dates": ""
+      },
+      {
+        "name": "Ebrard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Jean",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guillaume",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 61
+  },
+  {
+    "titulus_id": 1601,
+    "location_name": "N.-D.-de-la-Charit\u00e4",
+    "title": "172 [114] S.d.-[Angers,] N.-D.-de-la-Charit\u00e9.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Leszline",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Agnet",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hildegarde",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 62
+  },
+  {
+    "titulus_id": 1602,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 63
+  },
+  {
+    "titulus_id": 1603,
+    "location_name": "S. Pierre-de-la-Couture",
+    "title": "174 [121] S.d.- [Le Mans], S. Pierre-de-la-Couture.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Johel",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Odon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugues",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 64
+  },
+  {
+    "titulus_id": 1604,
+    "location_name": "S. Pierre-de-la-Cour",
+    "title": "175 [122] S.d.-[Le Mans], S. Pierre-de-la-Cour.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vital",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Virgin Mary",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 65
+  },
+  {
+    "titulus_id": 1605,
+    "location_name": "S. Pierre",
+    "title": "176 [127] S.d.- Conches[-en-Ouche], S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gislebert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guillaume",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Th\u00e9otard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gunduin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lescelyn",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 66
+  },
+  {
+    "titulus_id": 1606,
+    "location_name": "S. Taurin",
+    "title": "177 [130] S.d.- \u00c9vreux, S. Taurin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Fulch\u00e8re",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 67
+  },
+  {
+    "titulus_id": 1607,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Restaldus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Frumundus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Tovanus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Radulfus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Guillelmus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Hernaldus",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Hunfridus",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Guillelmus",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Ricardus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Rogerius",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Nicolaus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Guillelmus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Arnaldus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Robertus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Thomas",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Robertus",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 68
+  },
+  {
+    "titulus_id": 1608,
+    "location_name": "Beaumont[-le-Roger]",
+    "title": "179 [132] S.d.- Beaumont[-le-Roger], S. Trinit\u00e9.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 69
+  },
+  {
+    "titulus_id": 1609,
+    "location_name": "S. Sever[-Calvados]",
+    "title": "T. sancti Severi, confessoris Christi. Anima ejus et anim\u00e6 o. f. d. r. i. p. Orate p. n..",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Severus",
+        "role": "saint/confessor",
+        "dates": ""
+      }
+    ],
+    "step": 70
+  },
+  {
+    "titulus_id": 1610,
+    "location_name": "Lonlay",
+    "title": "[Tx] 181 [135] S.d.- Lonlay/[l'Abbaye], N-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Saint",
+        "dates": ""
+      }
+    ],
+    "step": 71
+  },
+  {
+    "titulus_id": 1611,
+    "location_name": "Winchester",
+    "title": "182 [136] S.d.\u2014 Winchester, cathedral (S. Peter, S. Swithun [Old Minster].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Cynegils",
+        "role": "King",
+        "dates": "611-642"
+      },
+      {
+        "name": "Adolph",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Edward",
+        "role": "King",
+        "dates": ""
+      },
+      {
+        "name": "Emma",
+        "role": "Queen",
+        "dates": ""
+      },
+      {
+        "name": "Wulfstan",
+        "role": "Bishop",
+        "dates": ""
+      },
+      {
+        "name": "Simeon",
+        "role": "Abbot",
+        "dates": ""
+      },
+      {
+        "name": "Godfrey",
+        "role": "Prior",
+        "dates": ""
+      },
+      {
+        "name": "Richard",
+        "role": "Abbot",
+        "dates": ""
+      },
+      {
+        "name": "Franswaldo",
+        "role": "Lord/Founder",
+        "dates": ""
+      },
+      {
+        "name": "Gilbert",
+        "role": "Lord",
+        "dates": ""
+      },
+      {
+        "name": "Son of Richard",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 72
+  },
+  {
+    "titulus_id": 1612,
+    "location_name": "Winchester",
+    "title": "10 T. Sanct\u00e6 Marie et Sanct\u00e6 Edburgae virginis Wintoniensis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Beatrice",
+        "role": "abbess",
+        "dates": ""
+      },
+      {
+        "name": "Matilda",
+        "role": "prioress",
+        "dates": ""
+      },
+      {
+        "name": "Emma",
+        "role": "prioress",
+        "dates": ""
+      },
+      {
+        "name": "Orendia",
+        "role": "cantor",
+        "dates": ""
+      },
+      {
+        "name": "Editia",
+        "role": "cantor",
+        "dates": ""
+      },
+      {
+        "name": "Alba",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Godesteva",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Cecilia",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ascelina",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 73
+  },
+  {
+    "titulus_id": 1613,
+    "location_name": "Romsey",
+    "title": "185 [139] S.d.- Romsey, S. Mary.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 74
+  },
+  {
+    "titulus_id": 1614,
+    "location_name": "Salisbury",
+    "title": "186 [140] S.d.- Salisbury, cathedral (S. Mary).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 75
+  },
+  {
+    "titulus_id": 1615,
+    "location_name": null,
+    "title": "Pueriles (a) versus.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 76
+  },
+  {
+    "titulus_id": 1616,
+    "location_name": "Shaftesbury",
+    "title": "187 [143] S.d.- Shaftesbury, S. Mary, S. Edward.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 77
+  },
+  {
+    "titulus_id": 1617,
+    "location_name": "Mideltonensis Ecclesia",
+    "title": "T. (a) SANCTE MARI\u00c6 et SANCTI SANSONIS MIDELTONENSIS ECCLE- SIE. Anima ejus et anime omnium o. f. d., per m. D., r. i. p. Amen. Orate p. n.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Samson",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 78
+  },
+  {
+    "titulus_id": 1618,
+    "location_name": "Monte acuto",
+    "title": "[XV] T. Sancti Petri de Monte acuto. Anima ejus et anime omnium (sic) f. d. r. i. p. Amen.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 79
+  },
+  {
+    "titulus_id": 1619,
+    "location_name": "Glastoni\u00e6",
+    "title": "T. Sanct\u00e6 Mari\u00e6 Glastoni\u00e6. Anima Vitalis abbat\u00eds et anim\u00e6 o. f. d. r. i. p. Orate p. n. benefactoribus et beneficaturbis, regibus, comitibus, episcopis, abbat\u00eds et monachis et cunctis, quorum nomina sint in \u00ab libro vit\u00e6 \u00bb (1). Amen.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 80
+  },
+  {
+    "titulus_id": 1620,
+    "location_name": "Elyensis ecclesia",
+    "title": "T. (1) sancti petri, apostolorum principi, et sanct\u00e6 Aethelthred\u00e6 virginis Elyensis ecclesiae. Anima imis vitalis abbat\u00eds et anim\u00e6 omnium (sic) f. d. r. i. p. Amen. Concedimus huic patri beneficii locum nostri. Orate p. n. defunctis, Aedgaro (2) is rege, Lefsino (3) abbate (4) bedeutet (5) abbate, Ricardo (6) sceptrico proposito (7), Turstino preposito, Guthmundo secretario (8), Roberto monacho (9\u2026",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Ethelred",
+        "role": "virgin/saint",
+        "dates": ""
+      },
+      {
+        "name": "Edgar",
+        "role": "king",
+        "dates": ""
+      },
+      {
+        "name": "Leofsin",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Richard",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Turstin",
+        "role": "provost",
+        "dates": ""
+      },
+      {
+        "name": "Guthmund",
+        "role": "secretary",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "\u00c6thelwold/F\u00e6ldward",
+        "role": "secretary",
+        "dates": ""
+      },
+      {
+        "name": "Alwin",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Godwin",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Wimer",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Rivaldus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 81
+  },
+  {
+    "titulus_id": 1621,
+    "location_name": "Thetford",
+    "title": "198 [182] S.d.- Thetford, S. Mary.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Vitalis",
+        "role": "lord",
+        "dates": ""
+      }
+    ],
+    "step": 82
+  },
+  {
+    "titulus_id": 1622,
+    "location_name": "Spalding",
+    "title": "T. (a) Sanct\u00e6 Mari\u00e6 Spalingensis ecclesi\u00e6.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Saint",
+        "dates": ""
+      }
+    ],
+    "step": 83
+  },
+  {
+    "titulus_id": 1623,
+    "location_name": "Crolandie",
+    "title": "T. (b) SANCTI BARTHOLOMEI ET SANCTI GULTHACI CROLANDIE.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bartholomew",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Guthlac",
+        "role": "Saint",
+        "dates": ""
+      }
+    ],
+    "step": 84
+  },
+  {
+    "titulus_id": 1624,
+    "location_name": "Thorney",
+    "title": "T. 194 [176] S.d.- Thorney, S. Mary et S. Botolph.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Botolph",
+        "role": "Saint",
+        "dates": ""
+      }
+    ],
+    "step": 85
+  },
+  {
+    "titulus_id": 1625,
+    "location_name": "Burch",
+    "title": "T. Sancti Petri de Burch.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "Saint",
+        "dates": ""
+      }
+    ],
+    "step": 86
+  },
+  {
+    "titulus_id": 1626,
+    "location_name": "Bury/Edmunds",
+    "title": "T. SANCTI EADMUNDI, regis et martiris.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Edmund",
+        "role": "king and martyr",
+        "dates": ""
+      },
+      {
+        "name": "Vitalis",
+        "role": "lord",
+        "dates": ""
+      }
+    ],
+    "step": 87
+  },
+  {
+    "titulus_id": 1627,
+    "location_name": "Eye, S. Peter",
+    "title": "S.d.- Eye, S. Peter.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Osborne",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Robert Malet",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Aluric",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Frederick",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ornatus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 88
+  },
+  {
+    "titulus_id": 1628,
+    "location_name": "Colchester, Holy Trinity",
+    "title": "200 [188] S.d.- Colchester, Holy Trinity.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Syricus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Eilaus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gualterus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Edwin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Swen",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 89
+  },
+  {
+    "titulus_id": 1629,
+    "location_name": "Stratford-at-Bow, S. Leonard",
+    "title": "201 [190] S.d.- Stratford[-at-Bow,] S. Leonard (2).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Leonard",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 90
+  },
+  {
+    "titulus_id": 1630,
+    "location_name": "London, Christchurch",
+    "title": "202 [191] S.d.- London, Christchurch.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 91
+  },
+  {
+    "titulus_id": 1631,
+    "location_name": "Southwark, S. Mary",
+    "title": "203 [194] S.d.- Southwark, S. Mary.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 92
+  },
+  {
+    "titulus_id": 1632,
+    "location_name": "Cadomensis",
+    "title": "Versus \u207a Radulfi, filii Fulcredi Cadomensis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Radulf",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Fulcher",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Vitalis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "Jesus Christ",
+        "dates": ""
+      },
+      {
+        "name": "Mary",
+        "role": "Virgin Mary",
+        "dates": ""
+      }
+    ],
+    "step": 93
+  },
+  {
+    "titulus_id": 1633,
+    "location_name": "Radinsis",
+    "title": "205 [200] S.d.\u2013 Reading, S. Mary. T. ecclesie Sancte Marie Radinsis. Anima ejus et a o. f. d. r. i. p. Amen.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 94
+  },
+  {
+    "titulus_id": 1634,
+    "location_name": "Merton",
+    "title": "S.d.- Merton, S. Mary.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Virgin Mary",
+        "dates": ""
+      }
+    ],
+    "step": 95
+  },
+  {
+    "titulus_id": 1635,
+    "location_name": "Malling",
+    "title": "207 [202] S.d.- Malling, S. Mary.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 96
+  },
+  {
+    "titulus_id": 1636,
+    "location_name": "Arundel",
+    "title": "208 S.d.- Arundel, S. Nicholas.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Nicholas",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Vitalis",
+        "role": "priest",
+        "dates": ""
+      }
+    ],
+    "step": 97
+  },
+  {
+    "titulus_id": 1637,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Homer",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 98
+  }
+]

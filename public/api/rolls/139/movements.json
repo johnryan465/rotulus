@@ -1,0 +1,143 @@
+[
+  {
+    "titulus_id": 1732,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 0
+  },
+  {
+    "titulus_id": 1733,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Renaud",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 1734,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 2
+  },
+  {
+    "titulus_id": 1735,
+    "location_name": null,
+    "title": "que fidel",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 3
+  },
+  {
+    "titulus_id": 1736,
+    "location_name": null,
+    "title": "Domini servi sumus",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 4
+  },
+  {
+    "titulus_id": 1737,
+    "location_name": null,
+    "title": "unius Regis laicimiam bajulamus",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 5
+  },
+  {
+    "titulus_id": 1738,
+    "location_name": null,
+    "title": "mulique quippe est via hominis super terram",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 6
+  },
+  {
+    "titulus_id": 1739,
+    "location_name": null,
+    "title": "quia \u00ab in convalle lac[rimarum",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 7
+  },
+  {
+    "titulus_id": 1740,
+    "location_name": null,
+    "title": "dum in hoc ecorpore turbitelli conversar",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 8
+  },
+  {
+    "titulus_id": 1741,
+    "location_name": null,
+    "title": "animales incessant passionem",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 9
+  },
+  {
+    "titulus_id": 1742,
+    "location_name": null,
+    "title": "es patimur",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 10
+  },
+  {
+    "titulus_id": 1743,
+    "location_name": null,
+    "title": "quibus in vestib",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 11
+  },
+  {
+    "titulus_id": 1744,
+    "location_name": null,
+    "title": "labore hujus vite mi",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 12
+  },
+  {
+    "titulus_id": 1745,
+    "location_name": null,
+    "title": "niente",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 13
+  },
+  {
+    "titulus_id": 1746,
+    "location_name": null,
+    "title": "prie",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 14
+  }
+]

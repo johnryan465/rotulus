@@ -1,0 +1,131 @@
+[
+  {
+    "titulus_id": 1747,
+    "location_name": "Angers, S. Nicolas",
+    "title": "1 S.d.- Angers, S. Nicolas.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gauthier",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1748,
+    "location_name": "[Angers,] N.-D.-de-la-Charit\u00e9",
+    "title": "2 S.d.-[Angers,] N.-D.-de-la-Charit\u00e9.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gauthier",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Domitilla",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Advenia",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 1749,
+    "location_name": "Angers, S. Martin",
+    "title": "3 S.d.- Angers, S. Martin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gauthier",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 1750,
+    "location_name": "Angers, S. Jean-Baptiste, S. L\u00e9zin",
+    "title": "4 S.d.- Angers, S. Jean-Baptiste, S. L\u00e9zin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Licinius",
+        "role": "bishop of Angers",
+        "dates": ""
+      },
+      {
+        "name": "Gauthier",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 1751,
+    "location_name": null,
+    "title": "[Iv, c. p.] 5 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 4
+  },
+  {
+    "titulus_id": 1752,
+    "location_name": "Boulogne[-sur-Mer], N.-D.",
+    "title": "6 S.d.- Boulogne[-sur-Mer], N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gauthier",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 5
+  },
+  {
+    "titulus_id": 1753,
+    "location_name": "Boulogne[-sur-Mer], S. Vulmer",
+    "title": "[Iv, c. p.] 7 S.d.- Boulogne[-sur-Mer], S. Vulmer.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gauthier",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 6
+  },
+  {
+    "titulus_id": 1754,
+    "location_name": "Beaulieu, N.-D.",
+    "title": "8 S.d.- Beaulieu, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gauthier",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 7
+  }
+]

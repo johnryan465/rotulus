@@ -1,0 +1,37 @@
+[
+  {
+    "titulus_id": 56,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Liuprand",
+        "role": "priest",
+        "dates": ""
+      },
+      {
+        "name": "St. Gallen",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 57,
+    "location_name": null,
+    "title": "10",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Liuprand",
+        "role": "monk/priest",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "titulus_id": 783,
+    "location_name": null,
+    "title": "Titre de Baudri de Bourgueil :",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Jean Ier",
+        "role": "\u00e9v\u00eaque d'Orl\u00e9ans",
+        "dates": "mort en 1096"
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 784,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  }
+]

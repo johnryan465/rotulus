@@ -1,0 +1,1469 @@
+[
+  {
+    "titulus_id": 576,
+    "location_name": "Banyoles, S. Esteve",
+    "title": "75 [82] 15 mai [1047].\u2014Banyoles, S. Esteve.",
+    "date": [
+      1047,
+      5,
+      15,
+      "15 mai 1047"
+    ],
+    "date_display": "15 mai 1047",
+    "entities": [],
+    "step": 0
+  },
+  {
+    "titulus_id": 577,
+    "location_name": null,
+    "title": " ",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Stephen",
+        "role": "martyr",
+        "dates": ""
+      },
+      {
+        "name": "Savior",
+        "role": "Lord",
+        "dates": ""
+      },
+      {
+        "name": "Oliver",
+        "role": "pastor",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 578,
+    "location_name": "Bes\u00e1l\u00e1, S. Pere.",
+    "title": "76 [83] Bes\u00e1l\u00e1, S. Pere.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Primus",
+        "role": "martyr",
+        "dates": ""
+      },
+      {
+        "name": "Concordius",
+        "role": "martyr",
+        "dates": ""
+      },
+      {
+        "name": "Marinus",
+        "role": "confessor",
+        "dates": ""
+      },
+      {
+        "name": "Boniface",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 579,
+    "location_name": "Monasterio Caliminesse",
+    "title": "76. Monasterio Caliminesse,",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Tehofredus",
+        "role": "martyr",
+        "dates": ""
+      },
+      {
+        "name": "Larento",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Gerardus",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 580,
+    "location_name": "Pedro de Castro Serra",
+    "title": "77. S.$^{20}$ Pedro de Castro Serra.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Olbe",
+        "role": "father/patron",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 581,
+    "location_name": "Catedral de Auna",
+    "title": "78. Catedral de Auna,",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 5
+  },
+  {
+    "titulus_id": 582,
+    "location_name": "Serrateix",
+    "title": "79. S\u0103. Maria de Serrateix,",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Santa Maria de Serrateix",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Congregation of Serrateix",
+        "role": "monastic congregation",
+        "dates": ""
+      }
+    ],
+    "step": 6
+  },
+  {
+    "titulus_id": 583,
+    "location_name": null,
+    "title": "continuing text from previous page",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Rainald",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 7
+  },
+  {
+    "titulus_id": 584,
+    "location_name": "Pratense/Leo Karchari",
+    "title": "81. S\u207f Cyrion en el catedral Pratense, en valle Leo Karchari.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 8
+  },
+  {
+    "titulus_id": 585,
+    "location_name": "Roses",
+    "title": "82. S\u207f Maria de Roses. Alad Hechardo (35). Es muy corta.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Mary of Roses",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 9
+  },
+  {
+    "titulus_id": 586,
+    "location_name": "Fontanas",
+    "title": "80. S\u207f Gises de Fontanas.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 10
+  },
+  {
+    "titulus_id": 575,
+    "location_name": "S. Loren\u00e7 del Munt",
+    "title": "73 [84] S.d.- S. Loren\u00e7 del Munt.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 11
+  },
+  {
+    "titulus_id": 587,
+    "location_name": null,
+    "title": "84. No expresa el t\u00edtulo. En hexametros y no dice que si los muertos pudieran, a fuerza de lagrimas, resueteria nuestro difunto con las suyas, pero que no permitiendo lo los derechos de la muerte, rogaran por el, etc.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 12
+  },
+  {
+    "titulus_id": 588,
+    "location_name": "Anzy-le-Duc",
+    "title": "87 [64] S.d.- Anzy-le-Duc.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 13
+  },
+  {
+    "titulus_id": 589,
+    "location_name": "Cormery, S. Paul",
+    "title": "85 [81] S.d.- Cormery, S. Paul.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 14
+  },
+  {
+    "titulus_id": 590,
+    "location_name": "Monasterio Encakense",
+    "title": "86. Monasterio Encakense, ubi requiescit eximius confessor Christi Hugo(1)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hugh",
+        "role": "confessor",
+        "dates": ""
+      }
+    ],
+    "step": 15
+  },
+  {
+    "titulus_id": 591,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Oliba",
+        "role": "Bishop/Pope",
+        "dates": ""
+      },
+      {
+        "name": "Nazarius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Saint",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Walter",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Ansisus",
+        "role": "decan",
+        "dates": ""
+      },
+      {
+        "name": "Aynard",
+        "role": "decan",
+        "dates": ""
+      },
+      {
+        "name": "Richard",
+        "role": "archdeacon",
+        "dates": ""
+      },
+      {
+        "name": "Albinus",
+        "role": "provost",
+        "dates": ""
+      },
+      {
+        "name": "Gilbert",
+        "role": "archpriest",
+        "dates": ""
+      },
+      {
+        "name": "Odo",
+        "role": "archpriest",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "paraphonist",
+        "dates": ""
+      }
+    ],
+    "step": 16
+  },
+  {
+    "titulus_id": 574,
+    "location_name": "S. Martin",
+    "title": "72 [49] S.d.\u2013Eglise ind\u00e9termin\u00e9e (S. Martin).",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 17
+  },
+  {
+    "titulus_id": 573,
+    "location_name": "S. Radegonde",
+    "title": "71 [48] S.d.- [Poitiers], S. Radegonde.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 18
+  },
+  {
+    "titulus_id": 284,
+    "location_name": null,
+    "title": "67. S\u02c6 Juniano. Hexametros.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 19
+  },
+  {
+    "titulus_id": 283,
+    "location_name": "Autun, S. Martin.",
+    "title": "66. S\u02c6 Martin urbis Aedu\u00e9.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Martin",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 20
+  },
+  {
+    "titulus_id": 282,
+    "location_name": "Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es",
+    "title": "65. No expresa el titulo. Hexametros.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 21
+  },
+  {
+    "titulus_id": 281,
+    "location_name": "Poitiers, S. Hilaire[-le-Grand]",
+    "title": "64. S\u02c6 Hilaire Piptracie. Empieze :",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 22
+  },
+  {
+    "titulus_id": 280,
+    "location_name": "Pictavense",
+    "title": "63. Catedral Pictavense, como sique:",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 23
+  },
+  {
+    "titulus_id": 279,
+    "location_name": "Legudiacum",
+    "title": "Al medio:",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Martin",
+        "role": "bishop",
+        "dates": ""
+      }
+    ],
+    "step": 24
+  },
+  {
+    "titulus_id": 278,
+    "location_name": "Legudiacum",
+    "title": "62. Monasterio Legudiacense. Envoie:",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "God",
+        "role": "King",
+        "dates": ""
+      }
+    ],
+    "step": 25
+  },
+  {
+    "titulus_id": 277,
+    "location_name": "Starpenso",
+    "title": "61. Monasterio Starpense. En versos hexametros.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 26
+  },
+  {
+    "titulus_id": 276,
+    "location_name": null,
+    "title": "60. S\u1d21 Andres apostol, ubi beatissimi Juniani confessoris corpus quiescit.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Andrew",
+        "role": "apostle",
+        "dates": ""
+      },
+      {
+        "name": "Saint Junian",
+        "role": "confessor",
+        "dates": ""
+      }
+    ],
+    "step": 27
+  },
+  {
+    "titulus_id": 275,
+    "location_name": "Limoges",
+    "title": "59. S\u1d31 Martial Lemovicense.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Martial",
+        "role": "bishop",
+        "dates": ""
+      }
+    ],
+    "step": 28
+  },
+  {
+    "titulus_id": 274,
+    "location_name": "Arnac-Pampadour, S. Pardoux",
+    "title": "52. [35] S.d.- Arnac-Pampadour, S. Pardoux.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Pardulf",
+        "role": "confessor",
+        "dates": ""
+      }
+    ],
+    "step": 29
+  },
+  {
+    "titulus_id": 273,
+    "location_name": "Uzerche",
+    "title": "51. [33] S.d.- Uzerche.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 30
+  },
+  {
+    "titulus_id": 272,
+    "location_name": "Vigreois, S. Pierre",
+    "title": "50. [32] S.d.- Vigreois, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter of Viguer",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 31
+  },
+  {
+    "titulus_id": 271,
+    "location_name": "Bages, S. Benet",
+    "title": "49. [90] S.d.- [Bages, S. Benet].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Miron",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 32
+  },
+  {
+    "titulus_id": 270,
+    "location_name": "Reilhac",
+    "title": "48. [69] S.d.- Reilhac.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 33
+  },
+  {
+    "titulus_id": 269,
+    "location_name": null,
+    "title": "47. [30] S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 34
+  },
+  {
+    "titulus_id": 268,
+    "location_name": null,
+    "title": "43. Monasterio Mayor.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Baudry",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guillaume",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Pierre",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 35
+  },
+  {
+    "titulus_id": 267,
+    "location_name": "Cluny",
+    "title": "42. Monasterio Cluniense.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "G\u00e9raud",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 36
+  },
+  {
+    "titulus_id": 266,
+    "location_name": "Cluny",
+    "title": "42. Monasterio Cluniense.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "G\u00e9raud",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 37
+  },
+  {
+    "titulus_id": 265,
+    "location_name": "Soliacense",
+    "title": "41. S\u1eaab Maria Soliacense.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 38
+  },
+  {
+    "titulus_id": 264,
+    "location_name": "Caturcis",
+    "title": "40. Catedral de S\u1eaab Estevan Caturcis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guillaume",
+        "role": "bishop",
+        "dates": ""
+      }
+    ],
+    "step": 39
+  },
+  {
+    "titulus_id": 263,
+    "location_name": "Vallnobilense",
+    "title": "39. Vallnobilense, ubi caput s. Antoni (sic) martiris quiescit.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Antonin",
+        "role": "martyr",
+        "dates": ""
+      }
+    ],
+    "step": 40
+  },
+  {
+    "titulus_id": 262,
+    "location_name": null,
+    "title": "46. S\u1eaab Pedro apostol y S\u1eaab Amando dicho Genolitico.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Pierre",
+        "role": "apostle",
+        "dates": ""
+      },
+      {
+        "name": "Amand",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 41
+  },
+  {
+    "titulus_id": 261,
+    "location_name": null,
+    "title": "45. S\u1eaab Pedro apostol y S\u1eaab Cipriano.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Pierre",
+        "role": "apostle",
+        "dates": ""
+      },
+      {
+        "name": "Cyprien",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 42
+  },
+  {
+    "titulus_id": 260,
+    "location_name": "Sarlat",
+    "title": "44. S\u1eaab Salvador Sarlatense.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 43
+  },
+  {
+    "titulus_id": 211,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "A.",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 44
+  },
+  {
+    "titulus_id": 212,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 45
+  },
+  {
+    "titulus_id": 259,
+    "location_name": "Castres, S. Benoit",
+    "title": "38 [21] S.d.- Castres, S. Benoit.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Vincent",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 46
+  },
+  {
+    "titulus_id": 213,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 47
+  },
+  {
+    "titulus_id": 214,
+    "location_name": "Ripoll",
+    "title": "1 [17] S.d.- Ripoll",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 48
+  },
+  {
+    "titulus_id": 215,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Virgin Mary",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Benedict",
+        "role": "abbot/father",
+        "dates": ""
+      },
+      {
+        "name": "Michael",
+        "role": "archangel",
+        "dates": ""
+      },
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 49
+  },
+  {
+    "titulus_id": 216,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Oliver",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 50
+  },
+  {
+    "titulus_id": 217,
+    "location_name": "S. Hilaire",
+    "title": "7 [5] S.d.- S. Hilaire.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Hilaire",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 51
+  },
+  {
+    "titulus_id": 218,
+    "location_name": "Carcassona",
+    "title": "7. S\" Hilario de Carcassona.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Hilaire",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 52
+  },
+  {
+    "titulus_id": 219,
+    "location_name": "Lagrasse",
+    "title": "8 [6] S.d.- Lagrasse, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Notre-Dame",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 53
+  },
+  {
+    "titulus_id": 220,
+    "location_name": "Maria",
+    "title": "8. S\"ta Maria virtutibus Crasse (a). Es larga y bien escrita y contiene muchos elogios de Oliba. Concluye con unos quantos hexametros.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Sainte Marie",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Oliba",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 54
+  },
+  {
+    "titulus_id": 221,
+    "location_name": null,
+    "title": "9 [7] S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 55
+  },
+  {
+    "titulus_id": 222,
+    "location_name": "S. Guilhem-le-D\u00e9sert",
+    "title": "10 [12] S.d.- S. Guilhem-le-D\u00e9sert.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Guilhem-le-D\u00e9sert",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 56
+  },
+  {
+    "titulus_id": 223,
+    "location_name": "Salvador Gellonense",
+    "title": "10. S\" Salvador Gellonense, ubi adoratur herilis Christi crux et in quo quiescit corpus beati Willelmi, confessoris Christi, etc.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Salvador de Gellone",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guillaume",
+        "role": "confessor",
+        "dates": ""
+      }
+    ],
+    "step": 57
+  },
+  {
+    "titulus_id": 258,
+    "location_name": "S. Lloren\u00e7 del Mont",
+    "title": "37 [89] S.d.- S. Lloren\u00e7 del Mont (pr\u00e8s de Terrassa).",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 58
+  },
+  {
+    "titulus_id": 224,
+    "location_name": "Villemagne",
+    "title": "11 [14] S.d.- Villemagne, S. Martin, S. Majan.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Martin",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Saint Majan",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 59
+  },
+  {
+    "titulus_id": 225,
+    "location_name": "Ville Magnensis",
+    "title": "11. S\" Martin obispo Ville Magnensis y S\" Mariano (sic) consec. Concluye con versos hexametros bastante regulares.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Martin",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Saint Mariano",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 60
+  },
+  {
+    "titulus_id": 226,
+    "location_name": "S. Pons-de-Thomi\u00e8res",
+    "title": "12 [15] S.d.- S. Pons-de-Thomi\u00e8res.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Pons-de-Thomi\u00e8res",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 61
+  },
+  {
+    "titulus_id": 227,
+    "location_name": "Poncio Tomeriense",
+    "title": "12. S\" Poncio Tomeriense. Dicen haber escrito el nombre de Oliba en su 15 breviario y piden lo mismo para sus difuntos.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Ponce",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Oliba",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 62
+  },
+  {
+    "titulus_id": 228,
+    "location_name": "Caunes",
+    "title": "13 [16] S.d.- Caunes, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Pierre",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 63
+  },
+  {
+    "titulus_id": 229,
+    "location_name": "Pedro Caunense",
+    "title": "13. S\" Pedro Caunense. Al fin uno monogramma muy grande con bermellon.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Pierre",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 64
+  },
+  {
+    "titulus_id": 230,
+    "location_name": "Montlieu",
+    "title": "14 [17] S.d.- Montlieu, S. Jean-Baptiste.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Jean-Baptiste",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 65
+  },
+  {
+    "titulus_id": 231,
+    "location_name": "Vallsichare",
+    "title": "14. S\" Juan Bautista de Vallsichare. Es larga.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Jean-Baptiste",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 66
+  },
+  {
+    "titulus_id": 232,
+    "location_name": "Sor\u00e8ze",
+    "title": "15 [19] S.d.- Sor\u00e8ze, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Notre-Dame",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 67
+  },
+  {
+    "titulus_id": 233,
+    "location_name": "Soricinense",
+    "title": "15. S\"a Maria Soricinense.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Sainte Marie",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 68
+  },
+  {
+    "titulus_id": 257,
+    "location_name": "S. Lorenzo in Monte altieri supra Terrassa",
+    "title": "36\u00b0 S. Lorenzo in Monte altieri supra Terrassa. Era abad Don Odegario (2) y 35 pone entre sus defuntos a Barenello (5), abad.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Odegario",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Barenello",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 69
+  },
+  {
+    "titulus_id": 234,
+    "location_name": "Bernassone",
+    "title": "16 [18] S.d.- N.-D.-de-Bernassone.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Notre-Dame de Bernassone",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 70
+  },
+  {
+    "titulus_id": 235,
+    "location_name": "Varnassonense",
+    "title": "16. S\"a Maria Varnassonense.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Sainte Marie",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 71
+  },
+  {
+    "titulus_id": 236,
+    "location_name": "Vielmur-sur-Agout",
+    "title": "17 [20] S.d.- Vielmur-sur-Agout, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 72
+  },
+  {
+    "titulus_id": 237,
+    "location_name": "Varen",
+    "title": "18 [23] S.d.- Varen, N.-D., S. Serge.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Sergius",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 73
+  },
+  {
+    "titulus_id": 238,
+    "location_name": "Autun",
+    "title": "19 [59] S.d.-[Autun,] S. Andochie.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Andochi",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Caetinus",
+        "role": "tyrant",
+        "dates": ""
+      },
+      {
+        "name": "Gabriel",
+        "role": "angel",
+        "dates": ""
+      },
+      {
+        "name": "Mary",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 74
+  },
+  {
+    "titulus_id": 239,
+    "location_name": "Autun",
+    "title": "20 [60] S.d.-[Autun,] S. Symphorien.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Symphorianus",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 75
+  },
+  {
+    "titulus_id": 240,
+    "location_name": "Sauxillanges",
+    "title": "21 [66] S.d.- Sauxillanges, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 76
+  },
+  {
+    "titulus_id": 241,
+    "location_name": "Brioude",
+    "title": "22 [67] S.d.- Brioude, S. Julien.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Julian",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 77
+  },
+  {
+    "titulus_id": 242,
+    "location_name": null,
+    "title": "23 [68] S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 78
+  },
+  {
+    "titulus_id": 243,
+    "location_name": "Charlieu",
+    "title": "24 [65] S.d.- Charlieu, S. \u00c9tienne, S. Fortunat.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Stephen",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Fortunatus",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 79
+  },
+  {
+    "titulus_id": 244,
+    "location_name": "Chanteuges",
+    "title": "25 [70] S.d.- [Chanteuges], S. Marcellin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Marcellinus",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 80
+  },
+  {
+    "titulus_id": 256,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Oliver",
+        "role": "patrician and priest",
+        "dates": ""
+      },
+      {
+        "name": "Raimund Riculph",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 81
+  },
+  {
+    "titulus_id": 245,
+    "location_name": null,
+    "title": "26 [71] S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 82
+  },
+  {
+    "titulus_id": 246,
+    "location_name": "Chatojolese",
+    "title": "Entre 25 e 26 la del monasterio Chatojolese, si no es el mismo que el de 5 n\u00b0 25 (b).",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 83
+  },
+  {
+    "titulus_id": 247,
+    "location_name": "Le Puy",
+    "title": "27 [72] S.d.- Le Puy, la cath\u00e9drale (N.-D.).",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 84
+  },
+  {
+    "titulus_id": 248,
+    "location_name": "Aniciense",
+    "title": "26. S\u00aa Maria Aniciense (e).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Mary",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 85
+  },
+  {
+    "titulus_id": 249,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Durandus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 86
+  },
+  {
+    "titulus_id": 250,
+    "location_name": "S. Victor",
+    "title": "31 [9] S.d.-[Marseille.] S. Victor.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Olibanus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 87
+  },
+  {
+    "titulus_id": 251,
+    "location_name": null,
+    "title": "31.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Victor",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Olibe",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 88
+  },
+  {
+    "titulus_id": 252,
+    "location_name": "S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "title": "32 [11]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Torquatus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 89
+  },
+  {
+    "titulus_id": 253,
+    "location_name": "S.d.- [Sor\u00e8de,] S. Andr\u00e9.",
+    "title": "33 [76]",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 90
+  },
+  {
+    "titulus_id": 254,
+    "location_name": "S.d.- Arles-sur-Tech, N.-D.",
+    "title": "34 [75]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Berenguer",
+        "role": "bishop",
+        "dates": ""
+      }
+    ],
+    "step": 91
+  },
+  {
+    "titulus_id": 255,
+    "location_name": "S. Cugat del Vall\u00e8s.",
+    "title": "36 [87] [28 mai 1047].- S. Cugat del Vall\u00e8s.",
+    "date": [
+      1047,
+      5,
+      28,
+      "28 mai 1047"
+    ],
+    "date_display": "28 mai 1047",
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Cucufas",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 92
+  }
+]

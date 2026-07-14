@@ -1,0 +1,81 @@
+[
+  {
+    "titulus_id": 80,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Oswald",
+        "role": "Archbishop of York",
+        "dates": ""
+      },
+      {
+        "name": "Edgar the Peaceable",
+        "role": "King",
+        "dates": "died 8 July 975"
+      },
+      {
+        "name": "Oswald",
+        "role": "",
+        "dates": "died 29 February 992"
+      },
+      {
+        "name": "Brihtnod",
+        "role": "Abbot",
+        "dates": "970/996-999"
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 81,
+    "location_name": "S.d.-Issoire [, S. Austremoine].",
+    "title": "[I]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 82,
+    "location_name": "S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "title": "[II]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Berald",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 83,
+    "location_name": "S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "title": "[III]",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 3
+  }
+]

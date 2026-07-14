@@ -3,7 +3,7 @@ import sqlite3
 import json
 import shutil
 
-from pipeline.geo import extract_year, get_roll_travels as _get_roll_travels
+from pipeline.geo import extract_year, get_roll_travels as _get_roll_travels, get_roll_movements as _get_roll_movements
 
 DB_PATH = "rolls.db"
 OUTPUT_DIR = "public/api"
@@ -17,6 +17,13 @@ def get_roll_travels(conn, db_id):
     row = cursor.fetchone()
     if not row: return []
     return _get_roll_travels(cursor, row)
+
+def get_roll_movements(conn, db_id):
+    cursor = conn.cursor()
+    cursor.execute("SELECT * FROM rolls WHERE id = ?", (db_id,))
+    row = cursor.fetchone()
+    if not row: return []
+    return _get_roll_movements(cursor, row)
 
 def export_data():
     conn = get_db_connection(); cursor = conn.cursor()
@@ -49,6 +56,9 @@ def export_data():
         roll_travel_dir = os.path.join(roll_dir, str(db_id))
         os.makedirs(roll_travel_dir, exist_ok=True)
         with open(os.path.join(roll_travel_dir, "travels.json"), "w") as f: json.dump(travels, f, indent=2)
+
+        movements = get_roll_movements(conn, db_id)
+        with open(os.path.join(roll_travel_dir, "movements.json"), "w") as f: json.dump(movements, f, indent=2)
         year = extract_year(roll["date_str"])
         
         # KEY CHANGE: Key is back to db_id

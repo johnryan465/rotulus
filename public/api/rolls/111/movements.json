@@ -1,0 +1,411 @@
+[
+  {
+    "titulus_id": 1074,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "M. Frou",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "A. Vidier",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Oderisius",
+        "role": "cardinal and abbot",
+        "dates": "1087-1105"
+      },
+      {
+        "name": "Gautier",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1075,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Folques",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Richard",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Ansachie",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Leo IX",
+        "role": "pope",
+        "dates": ""
+      },
+      {
+        "name": "Baldwin V",
+        "role": "count of Flanders",
+        "dates": ""
+      },
+      {
+        "name": "Gauthier",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Adalhard",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 1076,
+    "location_name": "GANDAVO",
+    "title": "TITULUS SANCTI BAVONIS IN GANDAVO.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Fulco",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "France",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 1077,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Alard",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Rainer",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Folcald",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 1078,
+    "location_name": "Oudenburg",
+    "title": "2 S.d.- Oudenburg, S. Pieters.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Arnulf",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Fulcran",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Aramar",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Tancred",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Embert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ringer",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ermembold",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Alnot",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Mainard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Heramar",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ringer",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "nfrid",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Alfred",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 1079,
+    "location_name": "Ieper",
+    "title": "3 S.d.- Ieper, S. Maarten.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 5
+  },
+  {
+    "titulus_id": 1080,
+    "location_name": "Voormezele",
+    "title": "4 S.d.- Voormezele, O.-L. Vrouw.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 6
+  },
+  {
+    "titulus_id": 1081,
+    "location_name": "Bergues",
+    "title": "5 S.d.- Bergues, S. Winoc.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Winoc",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 7
+  },
+  {
+    "titulus_id": 1082,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 8
+  },
+  {
+    "titulus_id": 1083,
+    "location_name": "Watten",
+    "title": "6 S.d.- Watten, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Ricolfo",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Ofrido",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Fuino",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Reinold",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rudolf",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Reinero",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wicelo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lanbert",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 9
+  },
+  {
+    "titulus_id": 1084,
+    "location_name": "S. Omer",
+    "title": "7 S.d.-S. Omer.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Fulco",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 10
+  },
+  {
+    "titulus_id": 1085,
+    "location_name": "Beauvais",
+    "title": "8 S.d.- Beauvais, S. Quentin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Quintin",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 11
+  },
+  {
+    "titulus_id": 1086,
+    "location_name": null,
+    "title": "9 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 12
+  },
+  {
+    "titulus_id": 1087,
+    "location_name": null,
+    "title": "10 S.d.- Bouteville (2), N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 13
+  },
+  {
+    "titulus_id": 1088,
+    "location_name": null,
+    "title": "11 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Fulco",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Eli",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 14
+  },
+  {
+    "titulus_id": 1089,
+    "location_name": null,
+    "title": "Item.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Fulcon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Uberti",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 15
+  },
+  {
+    "titulus_id": 1090,
+    "location_name": null,
+    "title": "Item.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 16
+  },
+  {
+    "titulus_id": 1091,
+    "location_name": null,
+    "title": "Rursus.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 17
+  }
+]

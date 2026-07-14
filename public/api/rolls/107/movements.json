@@ -1,0 +1,693 @@
+[
+  {
+    "titulus_id": 826,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bernard of Millau",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Saint Victor of Marseille",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Santa Mar\u00eda de Irache",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Saint Julius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernat",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 827,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gerard",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 828,
+    "location_name": "Roda",
+    "title": "1$^{a}$ S.d.- Roda, cathedral.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 2
+  },
+  {
+    "titulus_id": 829,
+    "location_name": "La Portella, S. Pere",
+    "title": "2 S.d.- La Portella, S. Pere.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 830,
+    "location_name": "Seu d'Urgell, catedral (S. Maria)",
+    "title": "3 [5] S.d.- Seu d'Urgell, catedral (S. Maria).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Saint",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 831,
+    "location_name": "Tav\u00e8rroles, S. Saturni",
+    "title": "4 [6] S.d.- Tav\u00e8rroles, S. Saturni.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saturninus",
+        "role": "Saint",
+        "dates": ""
+      }
+    ],
+    "step": 5
+  },
+  {
+    "titulus_id": 832,
+    "location_name": "Seu d'Urgell, S. Cecilia",
+    "title": "5 [7] S.d.- Seu d'Urgell, S. Cecilia.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Cecilia",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Lucia",
+        "role": "countess",
+        "dates": ""
+      }
+    ],
+    "step": 6
+  },
+  {
+    "titulus_id": 833,
+    "location_name": "Ala\u00f3, S. Maria",
+    "title": "6 [9] S.d.- Ala\u00f3, S. Maria.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 7
+  },
+  {
+    "titulus_id": 834,
+    "location_name": "Irache, S. Maria",
+    "title": "7 [15] S.d.- Irache, S. Maria.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Saint",
+        "dates": ""
+      }
+    ],
+    "step": 8
+  },
+  {
+    "titulus_id": 835,
+    "location_name": "Fabr\u00e8gues, N.-D.",
+    "title": "8 [37] S.d.- Fabr\u00e8gues, N.-D. (?) (2).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Saint",
+        "dates": ""
+      }
+    ],
+    "step": 9
+  },
+  {
+    "titulus_id": 836,
+    "location_name": "Cardona",
+    "title": "9 [3] S.d.- Cardona, S. Vincente.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bernardo",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Hugo",
+        "role": "prior/pastor",
+        "dates": ""
+      }
+    ],
+    "step": 10
+  },
+  {
+    "titulus_id": 837,
+    "location_name": null,
+    "title": "10 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 11
+  },
+  {
+    "titulus_id": 838,
+    "location_name": null,
+    "title": "11 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Adalberto",
+        "role": "prior",
+        "dates": ""
+      }
+    ],
+    "step": 12
+  },
+  {
+    "titulus_id": 839,
+    "location_name": "Huesca",
+    "title": "12 [11] S.d.- Huesca, S. Maria.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Santa Mar\u00eda",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 13
+  },
+  {
+    "titulus_id": 840,
+    "location_name": "Orga\u00f1a",
+    "title": "13 [4] S.d.- Orga\u00f1a, S. Maria.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Santa Mar\u00eda de Orga\u00f1a",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 14
+  },
+  {
+    "titulus_id": 841,
+    "location_name": "Gerri",
+    "title": "14 [8] S.d.- Gerri, S. Maria.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Arnaldo III",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Mir\u00f3",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Ato",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 15
+  },
+  {
+    "titulus_id": 842,
+    "location_name": "S. Victoria",
+    "title": "15 [10] S.d.- S. Victoria.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Poncio",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 16
+  },
+  {
+    "titulus_id": 843,
+    "location_name": "Jaca",
+    "title": "16. Iglesia de Jaca, como sigue :",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Paul",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 17
+  },
+  {
+    "titulus_id": 844,
+    "location_name": "S. Juan de la Pe\u00f1a",
+    "title": "10. S\u00ba Juan de la Pena, como sigue :",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "San Juan de la Pe\u00f1a",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ripollensis cenobi abbati",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Paternus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Blasco",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ato",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Galindo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Garc\u00eda",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Aquilino",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Sancho",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ermenric",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 18
+  },
+  {
+    "titulus_id": 845,
+    "location_name": "Anianense",
+    "title": "19. S\u00ba Salvador Anianense, como sigue :",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 19
+  },
+  {
+    "titulus_id": 846,
+    "location_name": null,
+    "title": "Item de eadem scola.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bernard",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 20
+  },
+  {
+    "titulus_id": 847,
+    "location_name": null,
+    "title": "Item de eadem scola.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 21
+  },
+  {
+    "titulus_id": 848,
+    "location_name": "Ripoll",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Saint Michael",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Virgin Mary",
+        "role": "virgin/saint",
+        "dates": ""
+      },
+      {
+        "name": "Bernhard",
+        "role": "pastor",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "savior",
+        "dates": ""
+      }
+    ],
+    "step": 22
+  },
+  {
+    "titulus_id": 849,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "William Bego",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Blasco",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Arnold",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Enrico",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lope",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Poncio",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Fort\u00fano",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Garcia",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Pedro",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Sim\u00e9on",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 23
+  },
+  {
+    "titulus_id": 850,
+    "location_name": "Carri\u00f3n [de los Condes]",
+    "title": "22 [19] S.d.- Carri\u00f3n [de los Condes], S. Zoilo.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 24
+  },
+  {
+    "titulus_id": 851,
+    "location_name": "S. Isidoro",
+    "title": "23 [17] S.d.- S. Isidoro.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Isidore",
+        "role": "martyr",
+        "dates": ""
+      }
+    ],
+    "step": 25
+  },
+  {
+    "titulus_id": 852,
+    "location_name": "N\u00e1jera",
+    "title": "24 [16] S.d.- N\u00e1jera, S. Maria.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Mary",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 26
+  },
+  {
+    "titulus_id": 853,
+    "location_name": null,
+    "title": "30 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 27
+  },
+  {
+    "titulus_id": 854,
+    "location_name": "S. Pons-de-Thomi\u00e8res",
+    "title": "31 [29] S.d.- S. Pons-de-Thomi\u00e8res.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Matfred",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Berengar",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "bishop",
+        "dates": ""
+      }
+    ],
+    "step": 28
+  },
+  {
+    "titulus_id": 855,
+    "location_name": "S. Martin-de-l'Ar\u00e7on",
+    "title": "32 [30] S.d.- S. Martin-de-l'Ar\u00e7on (4).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Sancha",
+        "role": "countess",
+        "dates": ""
+      }
+    ],
+    "step": 29
+  },
+  {
+    "titulus_id": 856,
+    "location_name": "S. Guilhem[-le-D\u00e9sert]",
+    "title": "33 [32] S.d.- S. Guilhem[-le-D\u00e9sert].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "William",
+        "role": "count",
+        "dates": ""
+      }
+    ],
+    "step": 30
+  },
+  {
+    "titulus_id": 857,
+    "location_name": null,
+    "title": "34 [33] S.d.\u2014 Psalmody.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 31
+  },
+  {
+    "titulus_id": 858,
+    "location_name": "S. Gilles",
+    "title": "35 [34] S.d.\u2014 S. Gilles.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 32
+  },
+  {
+    "titulus_id": 859,
+    "location_name": "Arles",
+    "title": "36 [35] S.d.\u2014 Arles, cath\u00e9drale.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 33
+  },
+  {
+    "titulus_id": 860,
+    "location_name": "B\u00e9ziers",
+    "title": "38 S.d.- B\u00e9ziers, S. Jacques.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Jaime Bitterense",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 34
+  },
+  {
+    "titulus_id": 861,
+    "location_name": "Narbonne",
+    "title": "39 S.d.- Narbonne, S. Paul.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Paul of Narbonne",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 35
+  },
+  {
+    "titulus_id": 862,
+    "location_name": "Narbonne",
+    "title": "40 S.d.- Narbonne, N.D.[-de-la-Mourguer].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary of Narbonne",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 36
+  },
+  {
+    "titulus_id": 863,
+    "location_name": "Lagrasse",
+    "title": "41 S.d.- Lagrasse, N.D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary of Urbi",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 37
+  }
+]

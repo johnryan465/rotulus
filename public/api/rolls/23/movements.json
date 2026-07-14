@@ -1,0 +1,17 @@
+[
+  {
+    "titulus_id": 40,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Benedict",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

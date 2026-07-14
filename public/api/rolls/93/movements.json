@@ -1,0 +1,71 @@
+[
+  {
+    "titulus_id": 790,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Audebert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Dolis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bourges",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 791,
+    "location_name": null,
+    "title": "orphaned_footnotes\ub098e[]: [], ",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  },
+  {
+    "titulus_id": 792,
+    "location_name": null,
+    "title": "Obmissus Ecclesiae dei ubicumque filius et filibus, Domino serviens dicatis, conversi et comparticipibus spati quae est in Christo, Majoris Monasterii fratres, matutinae caritatis in omnibus habenis participationem. Quoniam. Apostolo docentes, nos (7) omnes qui Dominum Jesum confitemur, si demum nostrum mala teneamus vivendo non martificamus, membra corporis ejus, quod est Ecclesia, esse didicimus\u2026",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bernard",
+        "role": "abbot",
+        "dates": "1084\u20131100"
+      },
+      {
+        "name": "Urban II",
+        "role": "Pope",
+        "dates": "r. 1088\u20131099"
+      },
+      {
+        "name": "Philip I",
+        "role": "King of France",
+        "dates": ""
+      },
+      {
+        "name": "Saint Magloire",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Yves of Chartres",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  }
+]

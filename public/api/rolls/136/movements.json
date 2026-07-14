@@ -1,0 +1,147 @@
+[
+  {
+    "titulus_id": 1725,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hugh",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Homer",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Walter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Tullius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Cato",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Pallas",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Minerva",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Pierides",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Atreus/Atrides",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Homer",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Cato",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Plato",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Walter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "divine figure",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1726,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bouchard de Craon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Tex\u00e9line",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "P\u00e9tronille de Chemill\u00e9",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Orri le\u48eboux",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert d\u2019Arbrissel",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hersende de Champagne",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Paschal II",
+        "role": "pope",
+        "dates": ""
+      },
+      {
+        "name": "G\u00e9rard d'Auvergne",
+        "role": "legate",
+        "dates": ""
+      },
+      {
+        "name": "Laud d'Angers",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Calixte II",
+        "role": "pope",
+        "dates": ""
+      },
+      {
+        "name": "Baudry de Bourgueil",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

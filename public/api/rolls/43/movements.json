@@ -1,0 +1,42 @@
+[
+  {
+    "titulus_id": 76,
+    "location_name": "Poitiers",
+    "title": "1 9 mai... - Poitiers, S. Hilaire.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hilaire",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hilaire",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 77,
+    "location_name": "Auxerre",
+    "title": "2 S.d.- Auxerre, S. Germain.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Cl\u00e9ment",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Germain",
+        "role": "confessor",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "titulus_id": 788,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gerold",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Joel",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Nathaniel",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 789,
+    "location_name": "Biturigo (modern Bourges)",
+    "title": "In rotulo prearchiepiscopo Biturigensio.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Reginald",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Durand",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Urban II",
+        "role": "pope",
+        "dates": ""
+      },
+      {
+        "name": "Hodel",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "John",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gerald",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Joel",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Nathaniel",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

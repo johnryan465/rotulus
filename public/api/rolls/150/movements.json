@@ -1,0 +1,51 @@
+[
+  {
+    "titulus_id": 1832,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 0
+  },
+  {
+    "titulus_id": 1833,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Eve",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Eve",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 1834,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert II",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  }
+]

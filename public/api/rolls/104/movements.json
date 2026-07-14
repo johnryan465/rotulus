@@ -1,0 +1,27 @@
+[
+  {
+    "titulus_id": 824,
+    "location_name": "Metz, S. Arnoul",
+    "title": "101 S.d.- Metz, S. Arnoul.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Arnulf",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Renard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Itier",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

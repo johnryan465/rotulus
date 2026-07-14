@@ -1,0 +1,151 @@
+[
+  {
+    "titulus_id": 1727,
+    "location_name": "Troorn, S. Martin",
+    "title": "(c. e.)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Renaud",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "footnotes_orphaned_none: [], ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1728,
+    "location_name": "S. \u00c9tienne",
+    "title": "TITULUS (a) Sancti Ste[phani] <....................> ",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Rainaudi",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 1729,
+    "location_name": "S. \u00c9tienne de Caen",
+    "title": "TITULUS SANCTI STE[PHANI CADOMENSIS]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Rainaldi",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Guillelmo",
+        "role": "king/founder",
+        "dates": ""
+      },
+      {
+        "name": "Lanfranco",
+        "role": "abbot and bishop",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 1730,
+    "location_name": "Castellum",
+    "title": "[TI]TULUS [de] Castello.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Rainaudi",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "berto",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Osmundo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Roberto",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Willelmo",
+        "role": "monk/brother",
+        "dates": ""
+      },
+      {
+        "name": "Ema",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lescelina",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Maugerio",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Orengia",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Mauricio",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Petro",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Willermo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rogerio",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Roberto",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 1731,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 4
+  }
+]

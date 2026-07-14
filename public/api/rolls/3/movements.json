@@ -1,0 +1,31 @@
+[
+  {
+    "titulus_id": 4,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boniface",
+        "role": "bishop",
+        "dates": "d. 754"
+      },
+      {
+        "name": "Optatus",
+        "role": "abbot",
+        "dates": "750-760"
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 5,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  }
+]

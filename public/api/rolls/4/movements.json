@@ -1,0 +1,31 @@
+[
+  {
+    "titulus_id": 6,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Aldherius",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Boniface",
+        "role": "servant of God",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 7,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  }
+]

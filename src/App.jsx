@@ -16,6 +16,11 @@ const getApiUrl = (path) => {
       const id = parts[3];
       return `/rotulus/api/rolls/${id}/travels.json`;
     }
+    if (path.match(/^\/api\/rolls\/\d+\/movements$/)) {
+      const parts = path.split('/');
+      const id = parts[3];
+      return `/rotulus/api/rolls/${id}/movements.json`;
+    }
     if (path.match(/^\/api\/rolls\/\d+$/)) {
       const id = path.split('/').pop();
       return `/rotulus/api/rolls/${id}.json`;
@@ -49,6 +54,7 @@ export default function App() {
   // Explorer detail's own embedded per-roll map
   const explorerMapInstanceRef = useRef(null);
   const [explorerTravelPath, setExplorerTravelPath] = useState([]);
+  const [rollMovements, setRollMovements] = useState([]);
 
   // Verification & Dashboard State
   const [activeVerificationIndex, setActiveVerificationIndex] = useState(0);
@@ -67,6 +73,11 @@ export default function App() {
       const data = await res.json();
       setExplorerTravelPath(data);
     } catch (e) { console.error("Failed to fetch roll travels:", e); setExplorerTravelPath([]); }
+    try {
+      const res = await fetch(getApiUrl(`/api/rolls/${id}/movements`));
+      const data = await res.json();
+      setRollMovements(data);
+    } catch (e) { console.error("Failed to fetch roll movements:", e); setRollMovements([]); }
   };
 
   // --- HASH ROUTING LOGIC ---
@@ -83,6 +94,7 @@ export default function App() {
           setSelectedRollId(id);
           setRollDetail(null);
           setExplorerTravelPath([]);
+          setRollMovements([]);
           fetchRollDetail(id);
         }
       }
@@ -113,6 +125,7 @@ export default function App() {
     setSelectedRollId(id);
     setRollDetail(null);
     setExplorerTravelPath([]);
+    setRollMovements([]);
     fetchRollDetail(id);
     // Sync hash if in detail-supporting tab
     if (activeTab === 'explorer' || activeTab === 'verification') {
@@ -461,6 +474,41 @@ export default function App() {
                     </div>
                   )}
                 </div>
+
+                {rollMovements.length > 0 && (
+                  <div className="glass-panel" style={{ padding: '32px' }}>
+                    <h3 style={{ borderBottom: '1px solid var(--primary)', paddingBottom: '8px', marginBottom: '16px' }}>
+                      Movements &amp; Signers
+                      {rollMovements.some(m => m.date) && (
+                        <span style={{ fontSize: '12px', fontWeight: 'normal', color: 'var(--text-muted)', marginLeft: '8px' }}>
+                          (ordered by date where known; undated stops kept near their manuscript position)
+                        </span>
+                      )}
+                    </h3>
+                    <div style={{ display: 'flex', flexDirection: 'column', gap: '14px' }}>
+                      {rollMovements.map(m => (
+                        <div key={m.titulus_id} style={{ display: 'flex', gap: '16px', borderBottom: '1px solid var(--border)', paddingBottom: '12px' }}>
+                          <div style={{ minWidth: '24px', fontWeight: 'bold', color: 'var(--accent)' }}>{m.step + 1}</div>
+                          <div style={{ flex: 1 }}>
+                            <div style={{ display: 'flex', justifyContent: 'space-between', gap: '12px', flexWrap: 'wrap' }}>
+                              <strong>{m.location_name || m.title || 'Unknown location'}</strong>
+                              {m.date_display && <span style={{ fontSize: '13px', color: 'var(--text-muted)' }}>{m.date_display}</span>}
+                            </div>
+                            {m.entities.length > 0 && (
+                              <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px', marginTop: '8px' }}>
+                                {m.entities.map((e, i) => (
+                                  <span key={i} style={{ fontSize: '12px', background: 'var(--paper-dark)', padding: '2px 10px', borderRadius: '12px', border: '1px solid var(--border)' }}>
+                                    {e.name || '?'}{e.role ? ` (${e.role})` : ''}{e.dates ? ` — ${e.dates}` : ''}
+                                  </span>
+                                ))}
+                              </div>
+                            )}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
 
                 {rollDetail.tituli.map(t => (
                   <div key={t.id} className="glass-panel" style={{ padding: '32px' }}>

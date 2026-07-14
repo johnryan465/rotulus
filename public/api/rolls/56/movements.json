@@ -1,0 +1,165 @@
+[
+  {
+    "titulus_id": 114,
+    "location_name": null,
+    "title": "1 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 0
+  },
+  {
+    "titulus_id": 115,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Odilia",
+        "role": "abbess",
+        "dates": ""
+      },
+      {
+        "name": "Matfrid",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Anna",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 116,
+    "location_name": "S. Maixent",
+    "title": "2 19 septembre ... S. Maixent.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Maixent",
+        "role": "patriarch and pontiff",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Ebulus",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Ranulf",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Ogner",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Rainier",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Arrius",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Ermenfrid",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Gaiferius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hubert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lonus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ranulf",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Galbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Landericus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 117,
+    "location_name": "Paris, cath\u00e9drale (N.-D.)",
+    "title": "3 21 octobre ... Paris, cath\u00e9drale (N.-D.)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Virgin Mary",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 118,
+    "location_name": "Fleury",
+    "title": "4 10 novembre ... Fleury.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 4
+  },
+  {
+    "titulus_id": 119,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "pastor",
+        "dates": ""
+      },
+      {
+        "name": "original_name\ub098 Benedictus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "original_title': 'pastor', 'footnote_num': null, 'normalized_name': 'Benedict', 'normalized_role': 'pastor', 'normalized_dates': '', 'location_name': null}, {",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 5
+  }
+]

@@ -1,0 +1,316 @@
+[
+  {
+    "titulus_id": 1062,
+    "location_name": "Lyon",
+    "title": "2 S.d.- Lyon, S. Alban.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Milo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1063,
+    "location_name": "Lyon",
+    "title": "3 S.d.- Lyon, S. Georges.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Milo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 1064,
+    "location_name": "Cluny",
+    "title": "[col. 2] 4 S.d.- Cluny.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Raymond",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Iltus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Arman",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Senebrunus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Pontius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Letaud",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Vidus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Opizo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Arbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ogger",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Thierry",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 1065,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mili",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 1066,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Paschal II",
+        "role": "pope",
+        "dates": "c. 1099"
+      },
+      {
+        "name": "Milo of Palestrina",
+        "role": "cardinal-bishop",
+        "dates": ""
+      },
+      {
+        "name": "Conrad",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 1067,
+    "location_name": "S.-Lyon, S. Romain",
+    "title": "1 S.-Lyon, S. Romain.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 5
+  },
+  {
+    "titulus_id": 1068,
+    "location_name": "Lyon; S. Alban",
+    "title": "2 S.d.- Lyon, S. Alban.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 6
+  },
+  {
+    "titulus_id": 1069,
+    "location_name": "Lyon; S. Georges",
+    "title": "3 S.d.- Lyon, S. Georges.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Milo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 7
+  },
+  {
+    "titulus_id": 1070,
+    "location_name": "Cluny",
+    "title": "4 S.d.- Cluny.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "Apostle",
+        "dates": ""
+      },
+      {
+        "name": "Paul",
+        "role": "Apostle",
+        "dates": ""
+      },
+      {
+        "name": "Raymond",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ildebrand",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Arman",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wiglo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Senebrunus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Pontius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Letaud",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Arbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Oggerio",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Theodoric",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Raymond",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Dalmatian",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Milo",
+        "role": "Bishop and Apostolic Legate",
+        "dates": ""
+      }
+    ],
+    "step": 8
+  },
+  {
+    "titulus_id": 1071,
+    "location_name": null,
+    "title": "imperdiens circumfertur, omnes vos roga[mus], in nomine Domini et beatorum apostolorum Petri (sie) et Pauli, ut unia queque frivola declinantes, seria tan- tum scribat et honos, ea scilicet que precum habeant et exemplum praebeant\nbeant. Nemio adnostoria h\u00e6 superflua vobis videatur arrogans, quo-\ns niam, sic nobiscum advercere potestatis, multi quod dolendum est and dampnan-\ndum ipsum istum ercur(\u2026",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Paul",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 9
+  },
+  {
+    "titulus_id": 1072,
+    "location_name": "Angers",
+    "title": "S.d.- Angers, \u00e9glise ind\u00e9termin\u00e9e.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Marbod of Rennes",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Simon Magus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 10
+  }
+]

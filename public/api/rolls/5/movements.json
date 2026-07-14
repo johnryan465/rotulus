@@ -1,0 +1,367 @@
+[
+  {
+    "titulus_id": 8,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Withlecus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Witmarus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Lodharius",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Manasse",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Asinari",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Waldo",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Ragindus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Goddobert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Thalbert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Widuin",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Ebarsind",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Erdanus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Ragingarius",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 9,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Althafred",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Wilhelm",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Felice",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Theodulf",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Hiddo",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Hippolyte",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Jacques",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Gancelin",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Jean",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Wilbald",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Hart",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Madalino",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Leudiniacus",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Eus\u00e8be",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "F\u00e9lix",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Mauriol",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Alfridus",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Fularius",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Lantfrid",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Jean",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Druhtgan",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 10,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gemedico",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Withiemus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Witmarus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Leodharus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Manau",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Asinarius",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Waldo",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Rahigaudus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Godobertus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Althafbertus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Widradus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Flarinsinus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Ragingarus",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 11,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Manno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Alim",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Virgilius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wisrith",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Sindperkh",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Heres",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Oporunus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wolfperkh",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Adaperkh",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Attu",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Uto",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lanfrid",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Alpunus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hrodhart",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Erraust",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Reginperkh",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Walchanhart",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Perkhcoz",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  }
+]

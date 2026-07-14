@@ -1,0 +1,31 @@
+[
+  {
+    "titulus_id": 1151,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Augustinus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1152,
+    "location_name": null,
+    "title": "orphaned_footnotes\ub098fiesterly: [{\"footnote_num\": \"a\", \"text\": \"disciplinam c.\"}, {\"footnote_num\": \"b\", \"text\": \"ante omis c.\"}, {\"footnote_num\": \"c\", \"text\": \"construxit c.\"}, {\"footnote_num\": \"d\", \"text\": \"ad alia au lieu de multum bc.\"}], ",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  }
+]

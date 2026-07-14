@@ -1,0 +1,52 @@
+[
+  {
+    "titulus_id": 1653,
+    "location_name": "Whitby",
+    "title": "1 S.d.- Whitby.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Charlemagne",
+        "role": "king",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1654,
+    "location_name": "Reading",
+    "title": "2 [1129]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Adam",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 1655,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Wilhelm",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wilhelm",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  }
+]

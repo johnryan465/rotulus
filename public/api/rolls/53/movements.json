@@ -1,0 +1,42 @@
+[
+  {
+    "titulus_id": 109,
+    "location_name": "Luxeuil",
+    "title": "15",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Aunund",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Judes",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 110,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Benedict",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

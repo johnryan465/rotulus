@@ -1,0 +1,42 @@
+[
+  {
+    "titulus_id": 1428,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Marinus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1429,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Saint Albin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Saint Julian",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

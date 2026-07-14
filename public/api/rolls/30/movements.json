@@ -1,0 +1,27 @@
+[
+  {
+    "titulus_id": 49,
+    "location_name": null,
+    "title": "15 a. E. de Reizier, Formulae merovingici et carolini aevi (M. G. H. Lege), p. 516, n\u00ba 8.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Paul",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Autun",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

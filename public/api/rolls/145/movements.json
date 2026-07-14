@@ -1,0 +1,283 @@
+[
+  {
+    "titulus_id": 1812,
+    "location_name": "Montolieu, S. Jean-Baptiste",
+    "title": "17 S.d.- Montolieu, S. Jean-Baptiste.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Herbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "John the Baptist",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1813,
+    "location_name": "Tournus",
+    "title": "18 S.d.- Tournus.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  },
+  {
+    "titulus_id": 1814,
+    "location_name": "Soissons",
+    "title": "19 S.d.- Soissons, \u00e9glise ind\u00e9termin\u00e9e.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 2
+  },
+  {
+    "titulus_id": 1815,
+    "location_name": "Noyon, S. \u00c9loi",
+    "title": "20 S.d.- Noyon, S. \u00c9loi.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Eligius",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 1816,
+    "location_name": null,
+    "title": "1 [S.d.-",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hugh",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 1817,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Marinus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Herbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ascelin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Dera",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guarinus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ricardus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 5
+  },
+  {
+    "titulus_id": 1818,
+    "location_name": "Issoudun",
+    "title": "2 S.d.-[Issoudun, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hugo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Giraldus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Letericus",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 6
+  },
+  {
+    "titulus_id": 1819,
+    "location_name": "Chezal-Beno\u00eet",
+    "title": "3 S.d.- Chezal-Beno\u00eet, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hugo",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Andreas",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Geraldus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Isembertus",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 7
+  },
+  {
+    "titulus_id": 1820,
+    "location_name": "La Pr\u00e9e",
+    "title": "4 S.d.-La Pr\u00e9e[--sur-Arnon], N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Maria",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 8
+  },
+  {
+    "titulus_id": 1821,
+    "location_name": null,
+    "title": "5 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 9
+  },
+  {
+    "titulus_id": 1822,
+    "location_name": "Soissons",
+    "title": "6 S.d.- Soissons, N.D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hugo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Mathilde",
+        "role": "abbess",
+        "dates": ""
+      },
+      {
+        "name": "\u00c9lisabeth",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Helvide",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 10
+  },
+  {
+    "titulus_id": 1823,
+    "location_name": "Soissons",
+    "title": "7 S.d.- S.l.[Soissons,] \u00e9glise ind\u00e9termin\u00e9e.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 11
+  },
+  {
+    "titulus_id": 1824,
+    "location_name": "S.d.-Pr\u00e9montr\u00e9, N.-D., S. Jean-Baptiste.",
+    "title": "10 S.d.-Pr\u00e9montr\u00e9, N.-D., S. Jean-Baptiste.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "John the Baptist",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "Lord/Domnus",
+        "dates": ""
+      }
+    ],
+    "step": 12
+  },
+  {
+    "titulus_id": 1825,
+    "location_name": "S.d.- Laon, cath\u00e9drale (N.-D.)",
+    "title": "11 S.d.- Laon, cath\u00e9drale (N.-D.)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 13
+  }
+]

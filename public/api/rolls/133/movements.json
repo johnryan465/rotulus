@@ -1,0 +1,51 @@
+[
+  {
+    "titulus_id": 1721,
+    "location_name": null,
+    "title": "[A. col. 2]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boso",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gualterus de Duaco",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Boso",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Deus",
+        "role": "God",
+        "dates": ""
+      },
+      {
+        "name": "Hermes",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Baldericus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1722,
+    "location_name": null,
+    "title": "1 S.-d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "titulus_id": 1638,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Anno",
+        "role": "archbishop and founder of the monastery",
+        "dates": "reigned 1056 to 1074"
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1639,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Erpho",
+        "role": "monk and abbot of St. Michael's Siegborg",
+        "dates": ""
+      },
+      {
+        "name": "Reginhard",
+        "role": "monk and abbot",
+        "dates": ""
+      },
+      {
+        "name": "Heinrich",
+        "role": "priest, monk, and Bishop of Poland",
+        "dates": ""
+      },
+      {
+        "name": "Gerricus",
+        "role": "priest, monk, and abbot of Saint Paul in Utrecht",
+        "dates": ""
+      },
+      {
+        "name": "Marcward",
+        "role": "priest, monk, and abbot of St. Mary's Tuit",
+        "dates": ""
+      },
+      {
+        "name": "Heimann",
+        "role": "priest, monk, and prior",
+        "dates": ""
+      },
+      {
+        "name": "Addard",
+        "role": "priest and monk",
+        "dates": ""
+      },
+      {
+        "name": "Lantfrid",
+        "role": "priest and monk",
+        "dates": ""
+      },
+      {
+        "name": "Wither",
+        "role": "priest and monk",
+        "dates": ""
+      },
+      {
+        "name": "Placid",
+        "role": "priest and monk",
+        "dates": ""
+      },
+      {
+        "name": "Acclimus",
+        "role": "priest and monk",
+        "dates": ""
+      },
+      {
+        "name": "Guntram",
+        "role": "priest and monk",
+        "dates": ""
+      },
+      {
+        "name": "Altman",
+        "role": "priest and monk",
+        "dates": ""
+      },
+      {
+        "name": "Conrad",
+        "role": "priest and monk",
+        "dates": ""
+      },
+      {
+        "name": "Reinhard",
+        "role": "priest and monk",
+        "dates": ""
+      },
+      {
+        "name": "Gozhelm",
+        "role": "priest and monk",
+        "dates": ""
+      },
+      {
+        "name": "Burchard",
+        "role": "priest and monk",
+        "dates": ""
+      },
+      {
+        "name": "Stephen",
+        "role": "priest and monk",
+        "dates": ""
+      },
+      {
+        "name": "Richard",
+        "role": "priest and monk",
+        "dates": ""
+      },
+      {
+        "name": "Empricus",
+        "role": "priest and monk",
+        "dates": ""
+      },
+      {
+        "name": "Gerbert",
+        "role": "priest and monk",
+        "dates": ""
+      },
+      {
+        "name": "Felix",
+        "role": "priest and monk",
+        "dates": ""
+      },
+      {
+        "name": "Ruotmar",
+        "role": "deacon and monk",
+        "dates": ""
+      },
+      {
+        "name": "Reinhard",
+        "role": "lay brother and monk",
+        "dates": ""
+      },
+      {
+        "name": "Lambert",
+        "role": "lay brother and monk",
+        "dates": ""
+      },
+      {
+        "name": "John",
+        "role": "lay brother and monk",
+        "dates": ""
+      },
+      {
+        "name": "Hildegard",
+        "role": "nun and recluse",
+        "dates": ""
+      },
+      {
+        "name": "Dirina",
+        "role": "nun and recluse",
+        "dates": ""
+      },
+      {
+        "name": "Walter",
+        "role": "layman, father of Archbishop Anno",
+        "dates": ""
+      },
+      {
+        "name": "Anno",
+        "role": "Archbishop",
+        "dates": ""
+      },
+      {
+        "name": "Engela",
+        "role": "mother (of Walter)",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

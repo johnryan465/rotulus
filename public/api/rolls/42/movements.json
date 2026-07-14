@@ -1,0 +1,62 @@
+[
+  {
+    "titulus_id": 73,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Richard",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 74,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Remigius",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Remorus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 75,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Jesus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rodulphus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  }
+]

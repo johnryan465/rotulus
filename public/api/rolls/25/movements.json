@@ -1,0 +1,22 @@
+[
+  {
+    "titulus_id": 43,
+    "location_name": null,
+    "title": "Indiculum a fratribus (2).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "my Father",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

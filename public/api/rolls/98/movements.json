@@ -1,0 +1,52 @@
+[
+  {
+    "titulus_id": 801,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Renaud",
+        "role": "abbot of Fleury",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 802,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Rinaldo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Erinyes",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 803,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "deity/saint",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  }
+]

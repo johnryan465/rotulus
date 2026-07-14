@@ -1,0 +1,102 @@
+[
+  {
+    "titulus_id": 104,
+    "location_name": "Fleury",
+    "title": "20 juin ...\u2014Fleury.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Phoebus",
+        "role": "god",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 105,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lord",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Benedict",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Benedict",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Raimard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Auro",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 106,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Rannulf",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Homer",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Silenus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Orpheus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Triton",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Benedict",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  }
+]

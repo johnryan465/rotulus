@@ -1,0 +1,569 @@
+[
+  {
+    "titulus_id": 1770,
+    "location_name": "S. Gilles",
+    "title": "1 S.d.-S. Gilles.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1771,
+    "location_name": "S. Pierre",
+    "title": "2 S.d.-Psalmody, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 1772,
+    "location_name": "Maguelone",
+    "title": "3 S.d.-Maguelone, cath\u00e9drale (S. Pierre).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 1773,
+    "location_name": "Aniane",
+    "title": "4 S.d [1155], d\u00e9but. \u2013 S.l. [Aniane].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guillaume",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 1774,
+    "location_name": "S. Guillhem de D\u00e9sert",
+    "title": "5 S.d.-S. Guillhem[de-D\u00e9sert].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Hugues",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 1775,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Renaud",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 5
+  },
+  {
+    "titulus_id": 1776,
+    "location_name": "ind\u00e9termin\u00e9e",
+    "title": "6 S.d.-Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 6
+  },
+  {
+    "titulus_id": 1777,
+    "location_name": "Lod\u00e8ve",
+    "title": "7 S.d.- Lod\u00e8ve, cath\u00e9drale (S. Geniez).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Pierre Durant",
+        "role": "precentor",
+        "dates": ""
+      }
+    ],
+    "step": 7
+  },
+  {
+    "titulus_id": 1778,
+    "location_name": "Lod\u00e8ve",
+    "title": "8 S.d.- Lod\u00e8ve, S. Sauveur.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Aur\u00e8le",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "B\u00e9renger",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Hugues",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Rostan",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Guillaume",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Pierre",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Guillaume",
+        "role": "layman",
+        "dates": ""
+      },
+      {
+        "name": "Pierre",
+        "role": "layman",
+        "dates": ""
+      },
+      {
+        "name": "Hugues",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Audine",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gis\u00e8le",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 8
+  },
+  {
+    "titulus_id": 1779,
+    "location_name": "Joncels",
+    "title": "9 S.d.- Joncels, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "B\u00e9renger",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guillaume",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "B\u00e9renger",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "G\u00e9rald",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Pierre",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 9
+  },
+  {
+    "titulus_id": 1780,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 10
+  },
+  {
+    "titulus_id": 1781,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hugh",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Marmont",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Isambard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 11
+  },
+  {
+    "titulus_id": 1782,
+    "location_name": "Paris, S. Pierre, S. Paul, S. Genevi\u00e8ve",
+    "title": "13 S.d.- Paris, S. Pierre, S. Paul, S. Genevi\u00e8ve.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "Apostle",
+        "dates": ""
+      },
+      {
+        "name": "Paul",
+        "role": "Apostle",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 12
+  },
+  {
+    "titulus_id": 1783,
+    "location_name": "Paris, S. Victor",
+    "title": "14 S.d.- Paris, S. Victor.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 13
+  },
+  {
+    "titulus_id": 1784,
+    "location_name": "Paris, S. Magloire",
+    "title": "15 S.d.- Paris, S. Magloire.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Magloire",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 14
+  },
+  {
+    "titulus_id": 1785,
+    "location_name": "Paris, Montmartre, S. Denis",
+    "title": "16 S.d.[apr\u00e8s 18 novembre 1154]. - [Paris], Montmartre, S. Denis.",
+    "date": [
+      1154,
+      11,
+      18,
+      "18 novembre 1154"
+    ],
+    "date_display": "18 novembre 1154",
+    "entities": [
+      {
+        "name": "Denis",
+        "role": "Saint/Martyr",
+        "dates": ""
+      },
+      {
+        "name": "Louis",
+        "role": "king",
+        "dates": ""
+      },
+      {
+        "name": "Adelaide",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Philip",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 15
+  },
+  {
+    "titulus_id": 1786,
+    "location_name": "S. Denis",
+    "title": "17 S.d.-S. Denis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Dionysius the Areopagite",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Dagobert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Charles",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Louis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "king",
+        "dates": ""
+      },
+      {
+        "name": "Hildewin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Furaud",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Adam",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Suger",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 16
+  },
+  {
+    "titulus_id": 1787,
+    "location_name": "S. Eug\u00e8ne",
+    "title": "[I, c. p.] 18 S.d.- Deuil[la-Barre], S. Eug\u00e8ne.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Eugenius",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 17
+  },
+  {
+    "titulus_id": 1788,
+    "location_name": "Wallis",
+    "title": "10 T. Wallis(sic) Sancte Marie. Anima domni Roberti abbatis et a. o. f. d. r. i. p. Amen. Oravimus p. v., orate p. n.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 18
+  },
+  {
+    "titulus_id": 1789,
+    "location_name": "Le Val-N.-D.",
+    "title": "19 S.d.-Le Val-N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 19
+  },
+  {
+    "titulus_id": 1790,
+    "location_name": "Coulombs",
+    "title": "20 S.d.-Coulombs, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary Columba",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 20
+  },
+  {
+    "titulus_id": 1791,
+    "location_name": "Josaphat",
+    "title": "15.[B] 21 S.d.- Josaphat.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary of Josaphat",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 21
+  },
+  {
+    "titulus_id": 1792,
+    "location_name": "[Chartres]",
+    "title": "22 S.d.- [Chartres], S. Jean[-en-Vall\u00e9e].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "John of Chartres",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 22
+  },
+  {
+    "titulus_id": 1793,
+    "location_name": "Chartres",
+    "title": "23 S.d.- Chartres, S. P\u00e8re[-en-Vall\u00e9e].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter of Chartres",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 23
+  }
+]

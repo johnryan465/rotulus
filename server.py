@@ -9,7 +9,7 @@ from pydantic import BaseModel
 from PIL import Image
 
 from pipeline.imaging import split_page_halves
-from pipeline.geo import get_roll_travels as _get_roll_travels
+from pipeline.geo import get_roll_travels as _get_roll_travels, get_roll_movements as _get_roll_movements
 
 WORKSPACE = "/home/john/rolls"
 DB_PATH = os.path.join(WORKSPACE, "rolls.db")
@@ -115,6 +115,19 @@ def get_roll_travels(roll_id: int):
     travels = _get_roll_travels(cursor, roll_row)
     conn.close()
     return travels
+
+@app.get("/api/rolls/{roll_id}/movements")
+def get_roll_movements(roll_id: int):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    cursor.execute("SELECT * FROM rolls WHERE id = ?", (roll_id,))
+    roll_row = cursor.fetchone()
+    if not roll_row:
+        conn.close()
+        raise HTTPException(status_code=404, detail="Roll not found")
+    movements = _get_roll_movements(cursor, roll_row)
+    conn.close()
+    return movements
 
 @app.get("/api/travels")
 def get_all_travels():

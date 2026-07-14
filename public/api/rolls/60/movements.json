@@ -1,0 +1,781 @@
+[
+  {
+    "titulus_id": 130,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 0
+  },
+  {
+    "titulus_id": 131,
+    "location_name": "Ripoll",
+    "title": "1 [17] S.d.- Ripoll",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mars/Martis",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 132,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Apostle",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 133,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Abraham",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Singred",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 134,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Oliver",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Atto",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ditto",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wisado",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Malamanchio",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 135,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 5
+  },
+  {
+    "titulus_id": 136,
+    "location_name": "S.d.- Arles-sur-Tech",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Mary of Arles",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 6
+  },
+  {
+    "titulus_id": 137,
+    "location_name": "S.d.-[Sor\u00e8de,] S. Andr\u00e9",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Andrew",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 7
+  },
+  {
+    "titulus_id": 138,
+    "location_name": "S. Estevan del Rosellon",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Stephen",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 8
+  },
+  {
+    "titulus_id": 139,
+    "location_name": "S.d.- S. Est\u00e8ve",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Stephen",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 9
+  },
+  {
+    "titulus_id": 140,
+    "location_name": "S.d.- S. Paul[de-Fenouillet]",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Paul",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 10
+  },
+  {
+    "titulus_id": 141,
+    "location_name": "Montlieu",
+    "title": "5 [6] S.d.- Montlieu, S. Jean-Baptiste.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint John the Baptist",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 11
+  },
+  {
+    "titulus_id": 142,
+    "location_name": "Sor\u00e8ze",
+    "title": "6 [7] S.d.- Sor\u00e8ze, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Notre-Dame",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 12
+  },
+  {
+    "titulus_id": 143,
+    "location_name": "Alet",
+    "title": "7 [5] S.d.- Alet, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Notre-Dame",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 13
+  },
+  {
+    "titulus_id": 144,
+    "location_name": "Castres",
+    "title": "8 S.d.- Castres, S. Beno\u00eft.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Benedict",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 14
+  },
+  {
+    "titulus_id": 145,
+    "location_name": "Castres",
+    "title": "9 S.d.- [Castres,] S. Beno\u00eft, S. Vincent.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Benedict",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Vincent",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Gauzbert",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 15
+  },
+  {
+    "titulus_id": 146,
+    "location_name": "Varisnense",
+    "title": "10\u02e1 S\u02e1a Maria Varisnense.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Saint",
+        "dates": ""
+      }
+    ],
+    "step": 16
+  },
+  {
+    "titulus_id": 147,
+    "location_name": "Varen",
+    "title": "10\u02e1 S.d.- Varen (1), N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Notre Dame",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 17
+  },
+  {
+    "titulus_id": 148,
+    "location_name": "Conques",
+    "title": "11\u02e1 S.d.- Conques, S. Sauveur, S. Foy.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Savior",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Saint Foy",
+        "role": "Saint",
+        "dates": ""
+      }
+    ],
+    "step": 18
+  },
+  {
+    "titulus_id": 149,
+    "location_name": "Concesse",
+    "title": "11\u02e1 S\u02e1 Salvador y S\u02e1 Fe del monasterio Concesse.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Salvador",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Saint Faith",
+        "role": "Saint",
+        "dates": ""
+      }
+    ],
+    "step": 19
+  },
+  {
+    "titulus_id": 150,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Apostle",
+        "role": "apostle",
+        "dates": ""
+      },
+      {
+        "name": "Bos",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Adalbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lunes",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Benedict",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Benedict",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Mesmundo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gotfred",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bellone",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Aetius",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 20
+  },
+  {
+    "titulus_id": 151,
+    "location_name": "Bellilocense",
+    "title": "19. Monasterio Bellilocense (a).",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 21
+  },
+  {
+    "titulus_id": 152,
+    "location_name": "Soligniencse",
+    "title": "20. S\u00ba Pedro y S\u00ba Pablo Soligniencse.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 22
+  },
+  {
+    "titulus_id": 153,
+    "location_name": "S\u00aa Maria",
+    "title": "21. Por estar despintadas las letras de las primeras lineas, no puede le\u00ebrse bien el nombre o t\u00edtulo de la iglesia. Parece ser S\u00aa Maria.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Santa Maria",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 23
+  },
+  {
+    "titulus_id": 154,
+    "location_name": null,
+    "title": "22 (b), No expresa el t\u00edtulo y es muy larga y en uerso, de p\u00e9simo gusto, si bien 20 hay algunos que no son del todo despreciables. Los nombres de sus difuntos (que siguen tambi\u00e9n en uerso) solo se expresan con iniciales y como en cifra y al margen se leen, de otra letra, algunos de estos nombres que adivinaran los lectores.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 24
+  },
+  {
+    "titulus_id": 155,
+    "location_name": "Rocetiense or Rodenenense",
+    "title": "23. S\u00ba Martin (parece Rocetiense o Rodenenense) (c) (2)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "San Martin",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 25
+  },
+  {
+    "titulus_id": 156,
+    "location_name": "Uzerche",
+    "title": "24 [17] S.d.- Uzerche, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Peter",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 26
+  },
+  {
+    "titulus_id": 157,
+    "location_name": "S. Amant-de-Boixe",
+    "title": "25 [20] S.d.- S. Amant[de-Boixe].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Amant",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 27
+  },
+  {
+    "titulus_id": 158,
+    "location_name": "Angoul\u00eame",
+    "title": "26 [21] S.d.- Angoul\u00eame, S. Cybard.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Eparchius",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 28
+  },
+  {
+    "titulus_id": 159,
+    "location_name": "Brant\u00f4me",
+    "title": "27 [25] S.d.- Brant\u00f4me, S. Pierre, S. Sicaire.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "cleric/servant",
+        "dates": ""
+      },
+      {
+        "name": "Sicaire",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 29
+  },
+  {
+    "titulus_id": 160,
+    "location_name": "Sor\u00e8de, S. Andr\u00e9",
+    "title": "33. S\u00ba Andres. 33 [38]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Andr\u00e9",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 30
+  },
+  {
+    "titulus_id": 161,
+    "location_name": "Tr\u00e9molat, N.-D.",
+    "title": "34. S\u01ea Maria Tomolacense. 34 [29]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Sainte Marie",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 31
+  },
+  {
+    "titulus_id": 162,
+    "location_name": "Eysses, S. Gervais.",
+    "title": "35. S\u01fe Gervasio Exinse. 35 [31]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Gervais",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 32
+  },
+  {
+    "titulus_id": 163,
+    "location_name": "S. Maurin.",
+    "title": "36. S\u01fe Maurino Agenense. 36 [32]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Maurin",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 33
+  },
+  {
+    "titulus_id": 164,
+    "location_name": "Moissac.",
+    "title": "37. Monasterio Musciascense. 37 [33]",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 34
+  },
+  {
+    "titulus_id": 165,
+    "location_name": "Cayrac, S. Pierre, S. Paul.",
+    "title": "38. S\u00ba Pedro y S\u00ba Pablo (al margen Cairiaco) ad (d) limina Sanctorum Petri et Pauli vel plurimas (sic) sanctorum agmina, in quo prefati antistites seu egregii martires Cornelius et Ciprianus reconditi videntur etc., etc.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Pierre",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Saint Paul",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Pierre",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Paul",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Corneille",
+        "role": "bishop/martyr",
+        "dates": ""
+      },
+      {
+        "name": "Cyprien",
+        "role": "bishop/martyr",
+        "dates": ""
+      }
+    ],
+    "step": 35
+  },
+  {
+    "titulus_id": 166,
+    "location_name": "[Montauban], Montauriol (S. Th\u00e9odard).",
+    "title": "39. S\u01fe Martin monasterio Tasconense, ubi sanctus hac (sic) beatissimus confess. or Christi Audardus cum magno honore tumulatus quiescit. Primero en prosa y despues siguen unos versos del todo iguales a los del monasterio de S\u00ba Benito (n\u00ba 9) <....> mutatis mutandis, a saber el nombre de S\u00ba Audardo y en el mismo el de S\u00ba Vicente en el 1\u00ba verso.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Martin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Audard",
+        "role": "confessor",
+        "dates": ""
+      },
+      {
+        "name": "Saint Beno\u00eet",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Saint Audard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Saint Vincent",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 36
+  },
+  {
+    "titulus_id": 167,
+    "location_name": "Rodes",
+    "title": "40 S.d.-Rodes, S. Pere.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Heldesind",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Agatharn",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 37
+  },
+  {
+    "titulus_id": 168,
+    "location_name": "Roses",
+    "title": "41 S.d.-Roses, S. Maria.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 38
+  },
+  {
+    "titulus_id": 169,
+    "location_name": "Toulouse",
+    "title": "42 [36] S.d.-Toulouse, S. Serrin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saturninus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Raymond",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Rodrigo",
+        "role": "provost",
+        "dates": ""
+      },
+      {
+        "name": "Girald",
+        "role": "dean",
+        "dates": ""
+      }
+    ],
+    "step": 39
+  },
+  {
+    "titulus_id": 170,
+    "location_name": "Besal\u00fa",
+    "title": "43 S.d.-Besal\u00fa, S. Pere.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Besal\u00fa",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Concordius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Erillus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Marinus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Patronus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wifred",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 40
+  }
+]

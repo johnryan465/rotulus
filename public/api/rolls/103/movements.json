@@ -1,0 +1,62 @@
+[
+  {
+    "titulus_id": 822,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Maglorius",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 823,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Girard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Roger",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Adelmar",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Richard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Lawrence",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Dortrand",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

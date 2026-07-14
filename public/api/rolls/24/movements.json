@@ -1,0 +1,37 @@
+[
+  {
+    "titulus_id": 41,
+    "location_name": null,
+    "title": "Indiculum de consortio",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Illy",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 42,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "James the Apostle",
+        "role": "apostle",
+        "dates": ""
+      },
+      {
+        "name": "Holy Trinity",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "titulus_id": 1716,
+    "location_name": null,
+    "title": "10 B. Vaticano, Vat. lat. 1059, fol. 73v (XXII s.).",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 0
+  },
+  {
+    "titulus_id": 1717,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gerard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Herve of Redon",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "monks of Chuny",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Innocent II",
+        "role": "pope",
+        "dates": ""
+      },
+      {
+        "name": "Reimbold",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Anacletus",
+        "role": "antipope",
+        "dates": ""
+      },
+      {
+        "name": "Innocent",
+        "role": "pope",
+        "dates": ""
+      },
+      {
+        "name": "Li\u00e8ge",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Reimbold",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

@@ -1,0 +1,654 @@
+[
+  {
+    "titulus_id": 171,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Teudericus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Dodo",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Miro",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Sigiffridus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Frominius",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Oliba",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Ostoleus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Bonifilius",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Ennego",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 172,
+    "location_name": null,
+    "title": "Hae nomina virorum fratrum:",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mainard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Hildebert",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Walcher",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Reynold",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Walter",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Herman",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Frotdomus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Heldeman",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Mainard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Francis",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Mainard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Vitalis",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Henry",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Hardouin",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Almodus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Riculf",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Hermenulf",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Herfidus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "vardus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Decrus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Algiers",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Guffricus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Burcardus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Anschettellus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Mainard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Walcher",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Fuldridus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Albergis",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Armeria",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Godwin",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Hosmund",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Drogus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Roger",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Berterman",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Vitalis",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Burnincus",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 173,
+    "location_name": null,
+    "title": "Et hac nomina defunctorum:",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Sedemanus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Widdo",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Stephen",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Berengar",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Teodericus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 174,
+    "location_name": null,
+    "title": "n    {\n      \"title\": \"Et hac nomina defunctorum:\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 3
+  },
+  {
+    "titulus_id": 175,
+    "location_name": null,
+    "title": "n      \"location_name\": \"\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 4
+  },
+  {
+    "titulus_id": 176,
+    "location_name": null,
+    "title": "n      \"latin_text\": \"Et hac nomina defunctorum: VII kal. januari. obit Sedemanus. Nonis januari. obit Widdo. XII kl. febri. obit Stephanus. XL kl. mar. obit Berengarius. XII kl. aprili. obit Teodericus. XII kl. aprili. obit Berengarius (5) abba. XL kl. mai obit Mainardus (5) abba. XL kl. mai Fulredus. XL kl. mai Hildemanus. XII kl. mai obit Heldemanus.\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 5
+  },
+  {
+    "titulus_id": 177,
+    "location_name": null,
+    "title": "n      \"entities\": [\n        {\n          \"original_name\": \"Sedemanus\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 6
+  },
+  {
+    "titulus_id": 178,
+    "location_name": null,
+    "title": "n          \"original_title\": \"\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 7
+  },
+  {
+    "titulus_id": 179,
+    "location_name": null,
+    "title": "n          \"footnote_num\": null",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 8
+  },
+  {
+    "titulus_id": 180,
+    "location_name": null,
+    "title": "n          \"normalized_name\": \"Sedeman \"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 9
+  },
+  {
+    "titulus_id": 181,
+    "location_name": null,
+    "title": "n          \"normalized_role\": \"monk\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 10
+  },
+  {
+    "titulus_id": 182,
+    "location_name": null,
+    "title": "n          \"normalized_dates\": \"\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 11
+  },
+  {
+    "titulus_id": 183,
+    "location_name": null,
+    "title": "n          \"location_name\": null\n        }",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 12
+  },
+  {
+    "titulus_id": 184,
+    "location_name": null,
+    "title": "n        {\n          \"original_name\": \"Widdo\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 13
+  },
+  {
+    "titulus_id": 185,
+    "location_name": null,
+    "title": "n          \"original_title\": \"\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 14
+  },
+  {
+    "titulus_id": 186,
+    "location_name": null,
+    "title": "n          \"footnote_num\": null",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 15
+  },
+  {
+    "titulus_id": 187,
+    "location_name": null,
+    "title": "n          \"normalized_name\": \"Widdo\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 16
+  },
+  {
+    "titulus_id": 188,
+    "location_name": null,
+    "title": "n          \"normalized_role\": \"monk\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 17
+  },
+  {
+    "titulus_id": 189,
+    "location_name": null,
+    "title": "n          \"normalized_dates\": \"\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 18
+  },
+  {
+    "titulus_id": 190,
+    "location_name": null,
+    "title": "n          \"location_name\": null\n        }",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 19
+  },
+  {
+    "titulus_id": 191,
+    "location_name": null,
+    "title": "n        {\n          \"original_name\": \"Stephanus\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 20
+  },
+  {
+    "titulus_id": 192,
+    "location_name": null,
+    "title": "n          \"original_title\": \"\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 21
+  },
+  {
+    "titulus_id": 193,
+    "location_name": null,
+    "title": "n          \"footnote_num\": null",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 22
+  },
+  {
+    "titulus_id": 194,
+    "location_name": null,
+    "title": "n          \"normalized_name\": \"Stephen\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 23
+  },
+  {
+    "titulus_id": 195,
+    "location_name": null,
+    "title": "n          \"normalized_role\": \"monk\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 24
+  },
+  {
+    "titulus_id": 196,
+    "location_name": null,
+    "title": "n          \"normalized_dates\": \"\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 25
+  },
+  {
+    "titulus_id": 197,
+    "location_name": null,
+    "title": "n          \"location_name\": null\n        }",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 26
+  },
+  {
+    "titulus_id": 198,
+    "location_name": null,
+    "title": "n        {\n          \"original_name\": \"Berengarius\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 27
+  },
+  {
+    "titulus_id": 199,
+    "location_name": null,
+    "title": "n          \"original_title\": \"\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 28
+  },
+  {
+    "titulus_id": 200,
+    "location_name": null,
+    "title": "n          \"footnote_num\": null",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 29
+  },
+  {
+    "titulus_id": 201,
+    "location_name": null,
+    "title": "n          \"normalized_name\": \"Berengar\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 30
+  },
+  {
+    "titulus_id": 202,
+    "location_name": null,
+    "title": "n          \"normalized_role\": \"monk\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 31
+  },
+  {
+    "titulus_id": 203,
+    "location_name": null,
+    "title": "n          \"normalized_dates\": \"\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 32
+  },
+  {
+    "titulus_id": 204,
+    "location_name": null,
+    "title": "n          \"location_name\": null\n        }",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 33
+  },
+  {
+    "titulus_id": 205,
+    "location_name": null,
+    "title": "n        {\n          \"original_name\": \"Teodericus\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 34
+  },
+  {
+    "titulus_id": 206,
+    "location_name": null,
+    "title": "n          \"original_title\": \"\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 35
+  },
+  {
+    "titulus_id": 207,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Fulco",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Mainerus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hervardus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Otbertus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Baldwin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Fr\u00e9d\u00e9ric",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rinaldo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Fasculfus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Roger",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Amalbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Watso",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ernaldus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Albinus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 36
+  }
+]

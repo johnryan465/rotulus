@@ -1,0 +1,302 @@
+[
+  {
+    "titulus_id": 811,
+    "location_name": "S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "title": "[A. col. 1]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Girard",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 812,
+    "location_name": "S.-Nicolas-aux-Bois",
+    "title": "3 S.-Nicolas-aux-Bois.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Lebbalado",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Odo",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Lutoldo",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Ezecelino",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Gualtero",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Tebaldo",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Gualtero",
+        "role": null,
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 813,
+    "location_name": "S.-Vienne, S. Andr\u00e9[le-Bas]",
+    "title": "4 S.- Vienne, S. Andr\u00e9[le-Bas].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Dotmar",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Teoberto",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Desid\u00e9rio",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Durando",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Gualtero",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Almarberto",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Ademari",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "titulus_number: 4}], ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 814,
+    "location_name": null,
+    "title": "[Av, col. 1] Orate (d) p. n. abbatius atque monachis, Wicrado (2) abbate, Richerio abbate, Ponc\u00edo abbate, Artimando (3) abbate, Giraldo abbate, Pretro (sic) monacho atque Arnaldo monacho atque Petro.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Wicro",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Richard",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Pons",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Artemon",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Giraldo",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Petrus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Arnold",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 815,
+    "location_name": "SANCTI AMANDI",
+    "title": "[Av] T.(b) SANCTI AMANDI<..........................>(c).",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 4
+  },
+  {
+    "titulus_id": 816,
+    "location_name": "Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es",
+    "title": "8 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 5
+  },
+  {
+    "titulus_id": 817,
+    "location_name": "Pons-de-Thomi\u00e8res",
+    "title": "T. SANCTAE MARIE et SANCTI PONCII TOMERIENSIS CENOBII.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guaridus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Berengarius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Petrus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernardus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gilla",
+        "role": "woman",
+        "dates": ""
+      },
+      {
+        "name": "Anguinina",
+        "role": "woman",
+        "dates": ""
+      }
+    ],
+    "step": 6
+  },
+  {
+    "titulus_id": 818,
+    "location_name": "Conques",
+    "title": "11 S.d.-[Conques,] S. Sauveur.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Stephanus II",
+        "role": "abbot",
+        "dates": "1065-1087"
+      },
+      {
+        "name": "Odolricus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Rainus",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Poncius",
+        "role": "bishop",
+        "dates": "1079-1090"
+      },
+      {
+        "name": "Deodatus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Falco",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Durandus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Gauzberta",
+        "role": "woman",
+        "dates": ""
+      },
+      {
+        "name": "Arnalda",
+        "role": "woman",
+        "dates": ""
+      }
+    ],
+    "step": 7
+  },
+  {
+    "titulus_id": 819,
+    "location_name": null,
+    "title": "S.-D.-Locality and undetermined (S. Pierre, S. Paul).",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 8
+  },
+  {
+    "titulus_id": 820,
+    "location_name": null,
+    "title": "S.d.-[Maurines,] S. Marius.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 9
+  },
+  {
+    "titulus_id": 821,
+    "location_name": null,
+    "title": "S.d.-Mauriac, S. Pierre, S. Mars.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 10
+  }
+]

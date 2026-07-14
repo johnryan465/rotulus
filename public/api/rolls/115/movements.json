@@ -1,0 +1,122 @@
+[
+  {
+    "titulus_id": 1145,
+    "location_name": "S.d.- Ham(en-Artois), S. Sauveur.",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gerald",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Eustace",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Seward",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gundoin",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1146,
+    "location_name": "S.d.- Mont-S. \u00c9loi, S. Vindicien.",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hugh",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 1147,
+    "location_name": null,
+    "title": "Universis Sancte Ecclesie filii, precipique clericis, religiosis et orthodoxis neonem fratribus monastic\u00e6 professionis et degustandis rerum Benedicti, quin etiam sanctis Benedicti salutem, pacem, gaudium, felicitatem perpetuam. Quamvis sin erat Sanctam Ecclesiam per diversarum regionum loca constet esse divisam, tamen testante Sancto Spiritu in Cancticis, est una in edice. Dictur enim in eisdem Ca\u2026",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "Jesus Christ",
+        "dates": ""
+      },
+      {
+        "name": "Andrew",
+        "role": "Abbot",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 1148,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Benedict",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 1149,
+    "location_name": null,
+    "title": "Odon$^{1}$, n\u00e9 \u00e0 Orl\u00e9ans vers le milieu du XI$^s$, est \u00e9colier des \u00e9coles de Toul, puis de Tournai. C\u00e9l\u00e8bre par ses saintet\u00e9 personnelles comme sa science, il est attest\u00e9 pour la saintet\u00e9 de la ville, il s'installe en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa\u2026",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Odon of Cambrai",
+        "role": "bishop",
+        "dates": "died June 19, 1113"
+      },
+      {
+        "name": "Saint Martin of Tours",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Radbod",
+        "role": "bishop",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 1150,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Herman",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 5
+  }
+]

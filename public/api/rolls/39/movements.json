@@ -1,0 +1,47 @@
+[
+  {
+    "titulus_id": 67,
+    "location_name": "S. Basle",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Basil",
+        "role": "saint/confessor",
+        "dates": ""
+      },
+      {
+        "name": "Odello",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Rico",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Divinus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Witrico",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Paul",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

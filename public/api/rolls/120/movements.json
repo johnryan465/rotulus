@@ -1,0 +1,22 @@
+[
+  {
+    "titulus_id": 1426,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Roger d'Argences",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Renaud",
+        "role": "abbot",
+        "dates": "1105/1108, puis 1110/1116"
+      }
+    ],
+    "step": 0
+  }
+]

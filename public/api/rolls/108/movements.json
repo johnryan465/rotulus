@@ -1,0 +1,3680 @@
+[
+  {
+    "titulus_id": 864,
+    "location_name": null,
+    "title": "15 a. Fr. Dupuy, Vita... sancti Brunonis, primi institutoris ordinis Cartusiensis, B\u00e2le, s.d. [1515], fol. d [III]-v, sans indication de source, vraisemblablement d'apr\u00e4s A.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "founder of the Carthusian order",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 865,
+    "location_name": "Vallis Sigerii",
+    "title": "46. S\u02b3 Juan (n) Vallis Sigerii (b).",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  },
+  {
+    "titulus_id": 866,
+    "location_name": "Arles-sur-Tech",
+    "title": "47 [45] S.d.- Arles-sur-Tech, N.-D., S. Abdon, S. Nennen, S. Tiburce.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Abdon",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Saint Nenn\u00e9n",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Saint Tiburce",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 867,
+    "location_name": "Toulouse",
+    "title": "48 [25] S.d.- Toulouse, cath\u00e9drale.\n48. Sede de Tolosa. Hexametros y un solo pentometro.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 3
+  },
+  {
+    "titulus_id": 868,
+    "location_name": "Sor\u00e8ze",
+    "title": "49 [27] S.d.- Sor\u00e8ze, N.-D.\n49. S\u1d43a Maria Soricense. Disticos.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary of Sor\u00e8ze",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 869,
+    "location_name": "S. Bruno ne et des autres Cartusiens",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Bruno",
+        "role": "founder of the Carthusian order",
+        "dates": ""
+      },
+      {
+        "name": "Emile Ducreux",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 5
+  },
+  {
+    "titulus_id": 870,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Cunibert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Massencys",
+        "role": "Archbishop of Reims",
+        "dates": ""
+      },
+      {
+        "name": "Bruno of Cologne",
+        "role": "",
+        "dates": "1024-1101"
+      },
+      {
+        "name": "Robert of Moslene",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Urban II",
+        "role": "Pope",
+        "dates": ""
+      },
+      {
+        "name": "Roger I of Sicily",
+        "role": "Count/Great Count of Sicily",
+        "dates": ""
+      }
+    ],
+    "step": 6
+  },
+  {
+    "titulus_id": 871,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 7
+  },
+  {
+    "titulus_id": 872,
+    "location_name": "S. Maria della Torre",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Paschal II",
+        "role": "pope",
+        "dates": ""
+      },
+      {
+        "name": "Latium",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Tuscany",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 8
+  },
+  {
+    "titulus_id": 873,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint-Omer",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Cassel",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Arras",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rouen",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Normandy",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Caen",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bayeux",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Mont Saint-Michel",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Falaise",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Saint-Michel-en-l'Herm",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Poitiers",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Blois",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Chartres",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Paris",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Meaux",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Orl\u00e9ans",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Vierzon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Pierjac",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ch\u00e2lons-sur-Marne",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 9
+  },
+  {
+    "titulus_id": 874,
+    "location_name": "Tunis",
+    "title": "(35) Sancte Marie de heremo, que dicitur Tunis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "founder/monk",
+        "dates": ""
+      }
+    ],
+    "step": 10
+  },
+  {
+    "titulus_id": 875,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 11
+  },
+  {
+    "titulus_id": 876,
+    "location_name": "Fuccechio",
+    "title": "2 S.d.- Fuccechio (1), T. fratrum Fisciclensis cenobii.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "hermit",
+        "dates": ""
+      }
+    ],
+    "step": 12
+  },
+  {
+    "titulus_id": 877,
+    "location_name": "Lucca",
+    "title": "3 S.d.- Rangerius [, \u00e9v\u00eaque de Lucca]. T. discipulus ejus, Rangerii.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Rangerius",
+        "role": "bishop of Lucca",
+        "dates": ""
+      }
+    ],
+    "step": 13
+  },
+  {
+    "titulus_id": 878,
+    "location_name": "Lucca",
+    "title": "4 S.d.- Lucca, S. Frediano. T. Sancti Frigiani Lucensis ecclesie.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Friag",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 14
+  },
+  {
+    "titulus_id": 879,
+    "location_name": "Piacenza",
+    "title": "5 S.d.- Piacenza, du\u00f3mo (S. Maria, S. Justina). T. ecclesie Placentine.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Justina",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 15
+  },
+  {
+    "titulus_id": 880,
+    "location_name": "Piacenza",
+    "title": "6 S.d.- [Piacenza,] S. Sepulcro. T. monasterii Sancti Sepulchri.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 16
+  },
+  {
+    "titulus_id": 881,
+    "location_name": "Petra",
+    "title": "S.d.-Petra (1), S. Martinus.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Martin",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 17
+  },
+  {
+    "titulus_id": 882,
+    "location_name": "La Chiusa",
+    "title": "S.d.-La Chiusa, S. Michele.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 18
+  },
+  {
+    "titulus_id": 883,
+    "location_name": "Grenoble, cath\u00e9drale",
+    "title": "11 S.d.- Grenoble, cath\u00e9drale, T. ecclesie Gratianopolitane.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "monk and hermit",
+        "dates": ""
+      }
+    ],
+    "step": 19
+  },
+  {
+    "titulus_id": 884,
+    "location_name": "[La Grande-]Chartreuse",
+    "title": "12 S.d.-[La Grande-]Chartreuse, T. eremii Cartusie, prope Gratianopolim.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "Father/Saint Bruno",
+        "dates": ""
+      }
+    ],
+    "step": 20
+  },
+  {
+    "titulus_id": 885,
+    "location_name": "Cornillon",
+    "title": "13 S.d.- Cornillon (1), S. Robert.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Saint",
+        "dates": ""
+      }
+    ],
+    "step": 21
+  },
+  {
+    "titulus_id": 886,
+    "location_name": "La C\u00f4te-S. Andr\u00e9",
+    "title": "14 S.d.- La C\u00f4te-S. Andr\u00e9.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 22
+  },
+  {
+    "titulus_id": 887,
+    "location_name": "Lyon, Ainay",
+    "title": "15 S.d.- Lyon, Ainay.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 23
+  },
+  {
+    "titulus_id": 888,
+    "location_name": "Lyon, cath\u00e9drale",
+    "title": "16 S.d.- Lyon, cath\u00e9drale.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 24
+  },
+  {
+    "titulus_id": 889,
+    "location_name": "Blois, N.D.-de-Bourgmoyen",
+    "title": "17 [154] S.d.- Blois, N.D.-de-Bourgmoyen",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 25
+  },
+  {
+    "titulus_id": 890,
+    "location_name": "Cluny, S. Pierre",
+    "title": "18 S.d.- Cluny, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 26
+  },
+  {
+    "titulus_id": 891,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 27
+  },
+  {
+    "titulus_id": 892,
+    "location_name": "Lugdunensis",
+    "title": "19 [17] S.d.- Lyon, S. Romain (1).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "normalized_dates",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 28
+  },
+  {
+    "titulus_id": 893,
+    "location_name": "Chalon-sur-Sa\u00f4ne, cath\u00e9drale (S. Vincent)",
+    "title": "20 [19] S.d.- Chalon-sur-Sa\u00f4ne, cath\u00e9drale (S. Vincent).",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 29
+  },
+  {
+    "titulus_id": 894,
+    "location_name": "Beaune, N.-D.",
+    "title": "21 [20] S.d.- Beaune, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "hermit",
+        "dates": ""
+      }
+    ],
+    "step": 30
+  },
+  {
+    "titulus_id": 895,
+    "location_name": "Conty",
+    "title": "23 [66] S.d.-[Conty, S. Antoine]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "cultor of God",
+        "dates": ""
+      }
+    ],
+    "step": 31
+  },
+  {
+    "titulus_id": 896,
+    "location_name": "Conty",
+    "title": "22 [65] S.d.- Conty, S. Antoine (1).\nT. Sancti Anthonii Conteiensis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "hermit",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "divinity",
+        "dates": ""
+      }
+    ],
+    "step": 32
+  },
+  {
+    "titulus_id": 897,
+    "location_name": "Sancti Petri Carnotis",
+    "title": "24 [1604]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 33
+  },
+  {
+    "titulus_id": 898,
+    "location_name": "Sancti Dionysii areopagite, prope Parrhisium (sic)",
+    "title": "25 [1654]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Denis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 34
+  },
+  {
+    "titulus_id": 899,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 35
+  },
+  {
+    "titulus_id": 900,
+    "location_name": "Paris",
+    "title": "T. sancti Germani, episcopi Parrisiensis (sic).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 36
+  },
+  {
+    "titulus_id": 901,
+    "location_name": "Paris",
+    "title": "T. Sancti Maglorii Parrisiensis (sic).",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 37
+  },
+  {
+    "titulus_id": 902,
+    "location_name": "Saint-Pierre de Foss\u00e9s",
+    "title": "T. Sancti Petri Fossensis cenobii, quo loco sanctus Maurus,",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Maurus",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Benedict",
+        "role": "monk/abbot",
+        "dates": ""
+      }
+    ],
+    "step": 38
+  },
+  {
+    "titulus_id": 903,
+    "location_name": "Meaux",
+    "title": "T. Sancte Crucis sanctique Faronis, Meldensis episcopi.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Faron",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "monk/hermit",
+        "dates": ""
+      }
+    ],
+    "step": 39
+  },
+  {
+    "titulus_id": 904,
+    "location_name": null,
+    "title": "[1103]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 40
+  },
+  {
+    "titulus_id": 905,
+    "location_name": "Ch\u00e9zy[-sur-Marne]",
+    "title": "30 [167] S.d.- Ch\u00e9zy[-sur-Marne], S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 41
+  },
+  {
+    "titulus_id": 906,
+    "location_name": "Chartres",
+    "title": "31 [158] S.d.- Chartres, cath\u00e9drale (N.-D.).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 42
+  },
+  {
+    "titulus_id": 907,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 43
+  },
+  {
+    "titulus_id": 908,
+    "location_name": "S. Marguerite",
+    "title": "33 [21] S.d.- S. Marguerite (1)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Abraham",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Isaac",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Jacob",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Job",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Elias",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Esau",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Daniel",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "David",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 44
+  },
+  {
+    "titulus_id": 909,
+    "location_name": "C\u00eeteaux",
+    "title": "34 [22] S.d.- C\u00eeteaux.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Mary",
+        "role": "Saint",
+        "dates": ""
+      }
+    ],
+    "step": 45
+  },
+  {
+    "titulus_id": 910,
+    "location_name": "Dijon, S. B\u00e9nigne",
+    "title": "35 [23] S.d.- Dijon, S. B\u00e9nigne.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "B\u00e9nigne",
+        "role": "Saint",
+        "dates": ""
+      }
+    ],
+    "step": 46
+  },
+  {
+    "titulus_id": 911,
+    "location_name": "[Dijon,] S. \u00c9tienne",
+    "title": "36 [24] S.d.- [Dijon,] S. \u00c9tienne.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "\u00c9tienne",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "Jesus",
+        "dates": ""
+      }
+    ],
+    "step": 47
+  },
+  {
+    "titulus_id": 912,
+    "location_name": "B\u00e8ze, S. Pierre",
+    "title": "37 [25] S.d.- B\u00e8ze, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Pierre",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "hermit",
+        "dates": ""
+      }
+    ],
+    "step": 48
+  },
+  {
+    "titulus_id": 913,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 49
+  },
+  {
+    "titulus_id": 914,
+    "location_name": "Ch\u00e2tillon[sur-Seine]",
+    "title": "38 [27] S.d.- Ch\u00e2tillon[sur-Seine], N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Saint Mary",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 50
+  },
+  {
+    "titulus_id": 915,
+    "location_name": "Langres",
+    "title": "39 [26] S.d.- Robert [1er de Bourgogne], \u00e9v\u00eaque de Langres. T. Lingonensis ecclesie episcopi.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert I of Burgundy",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "master",
+        "dates": ""
+      }
+    ],
+    "step": 51
+  },
+  {
+    "titulus_id": 916,
+    "location_name": "Molesme",
+    "title": "40 [28] S.d.- Molesme, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "patron saint",
+        "dates": ""
+      }
+    ],
+    "step": 52
+  },
+  {
+    "titulus_id": 917,
+    "location_name": "Tonnerre, S. Michel",
+    "title": "41 [29] S.d.- Tonnerre, S. Michel.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Michael the Archangel",
+        "role": "archangel",
+        "dates": ""
+      }
+    ],
+    "step": 53
+  },
+  {
+    "titulus_id": 918,
+    "location_name": "Auxerre, S. Germain",
+    "title": "42 [30] S.d.- Auxerre, S. Germain.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Germanus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 54
+  },
+  {
+    "titulus_id": 919,
+    "location_name": "Auxerre, cath\u00e9drale (S. Etienne)",
+    "title": "43 [31] S.d.- Auxerre, cath\u00e9drale (S. Etienne).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Stephen",
+        "role": "martyr",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "pastor",
+        "dates": ""
+      }
+    ],
+    "step": 55
+  },
+  {
+    "titulus_id": 920,
+    "location_name": "Moutiers-S. Jean",
+    "title": "44 [32] S.d.- Moutiers-S. Jean.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "John",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "doctor/teacher",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 56
+  },
+  {
+    "titulus_id": 921,
+    "location_name": "Pultariensis cenobii",
+    "title": "45 [33] S.d.-Lambert, abb\u00e9 de Pothi\u00e8res.\nT. Lambert, abbatis Pultariensis cenobii.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Lambert",
+        "role": "monk/procurator",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "master",
+        "dates": ""
+      }
+    ],
+    "step": 57
+  },
+  {
+    "titulus_id": 922,
+    "location_name": "Arenaremensis cenobii",
+    "title": "46 [34] S.d.-Monti\u00e9remay, S. Pierre.\nT. Sancti Petri Arenaremensis cenobii.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Jesus",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": null,
+        "dates": ""
+      }
+    ],
+    "step": 58
+  },
+  {
+    "titulus_id": 923,
+    "location_name": "Trecorum",
+    "title": "47 [35] S.d.-Troyes, cath\u00e9drale (S. Pierre).\nT. Sancti Petri Trecorum.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "wise man",
+        "dates": ""
+      }
+    ],
+    "step": 59
+  },
+  {
+    "titulus_id": 924,
+    "location_name": "Insule germanice",
+    "title": "48 [36] S.d.-[Troyes,] Montier-la-Celle.\nT. Sancti Petri Insule germanice.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": null,
+        "dates": ""
+      }
+    ],
+    "step": 60
+  },
+  {
+    "titulus_id": 925,
+    "location_name": "Ch\u00e2lons-en-Champagne, cath\u00e9drale (S. \u00c9tienne)",
+    "title": "49 [37] S.d.- Ch\u00e2lons-en-Champagne, cath\u00e9drale (S. \u00c9tienne).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 61
+  },
+  {
+    "titulus_id": 926,
+    "location_name": "S. Pierre-aux-Monts",
+    "title": "50 [38] S.d.-[Ch\u00e2lons-en-Champagne,] S. Pierre-aux-Monts.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 62
+  },
+  {
+    "titulus_id": 927,
+    "location_name": "S. Basle",
+    "title": "51 [39] S.d.- S. Basle.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 63
+  },
+  {
+    "titulus_id": 928,
+    "location_name": "Reims, cath\u00e9drale (N.-D.)",
+    "title": "52 [40] S.d.- Reims, cath\u00e9drale (N.-D.).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Pater",
+        "role": "founder of the religious order",
+        "dates": ""
+      }
+    ],
+    "step": 64
+  },
+  {
+    "titulus_id": 929,
+    "location_name": "Remens",
+    "title": "53 [41]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Joseph",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 65
+  },
+  {
+    "titulus_id": 930,
+    "location_name": null,
+    "title": "54 [42]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lord",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 66
+  },
+  {
+    "titulus_id": 931,
+    "location_name": null,
+    "title": "55 [43]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Elijah",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "John the Baptist",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "John",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Abraham",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 67
+  },
+  {
+    "titulus_id": 932,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 68
+  },
+  {
+    "titulus_id": 933,
+    "location_name": "Angers",
+    "title": "57 [135] S.d.- Angers, S. Serge, S. Bacchus.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Serge",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Saint Bacchus",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 69
+  },
+  {
+    "titulus_id": 934,
+    "location_name": "Reims",
+    "title": "58 [45] S.d.- Reims, S. Pierre[-le-Haut] (1).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Pierre",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "abbot/father",
+        "dates": ""
+      }
+    ],
+    "step": 70
+  },
+  {
+    "titulus_id": 935,
+    "location_name": "Reims",
+    "title": "59 [46] S.d.- Reims, S. Symphorien.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Symphorien",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "deity",
+        "dates": ""
+      }
+    ],
+    "step": 71
+  },
+  {
+    "titulus_id": 936,
+    "location_name": "S. Trinit\u00e9",
+    "title": "60 [47] S.d.- [Reims,] S. Trinit\u00e9 (1).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 72
+  },
+  {
+    "titulus_id": 937,
+    "location_name": "S. Denis",
+    "title": "61 [48] S.d.- Reims, S. Denis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "Father",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "master/teacher",
+        "dates": ""
+      }
+    ],
+    "step": 73
+  },
+  {
+    "titulus_id": 938,
+    "location_name": "S. Remi",
+    "title": "62 [49] S.d.- [Reims,] S. Remi.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Remigius",
+        "role": "Apostle of the Franks",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 74
+  },
+  {
+    "titulus_id": 939,
+    "location_name": "Reims",
+    "title": "S.d.- Reims, S. Nicaise (1)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Nicolas",
+        "role": "archbishop",
+        "dates": ""
+      },
+      {
+        "name": "Timoth\u00e9e",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Apollinaire",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 75
+  },
+  {
+    "titulus_id": 940,
+    "location_name": "Reims",
+    "title": "64 [51] S.d.-[Reims,] S. Timothee, S. Apollinaire (3)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Timoth\u00e9e",
+        "role": "martyr",
+        "dates": ""
+      },
+      {
+        "name": "Apollinaire",
+        "role": "martyr",
+        "dates": ""
+      }
+    ],
+    "step": 76
+  },
+  {
+    "titulus_id": 941,
+    "location_name": "Thierry",
+    "title": "65 [52] S.d.-[S. Thierry,] S. Barth\u00e9lemy.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bartholom\u00e9",
+        "role": "apostle",
+        "dates": ""
+      }
+    ],
+    "step": 77
+  },
+  {
+    "titulus_id": 942,
+    "location_name": null,
+    "title": "Est labor ejus amor et inextricabilis error...",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 78
+  },
+  {
+    "titulus_id": 943,
+    "location_name": "Laon, cath\u00e9drale (N.-D.)",
+    "title": "66 [53] S.d.- Laon, cath\u00e9drale (N.-D.).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 79
+  },
+  {
+    "titulus_id": 944,
+    "location_name": "Laon",
+    "title": "Bruno, laudaris, tua vita decens renovatur\nVersibus et scripto, nec, quanta fuit, memoratur.\nIpse pua, simplex, plenus Deitatis amore,\nImp\u00e6r et mundus fundi, omni dignus honore.\nVivit adhoc Bruno, sibi traditur a Patre vita.\nClericus ipse fuit, sin monachus, hinc eremita.\nNunc jaceat exangue corpus, tam hoc veneratur.\nIpse adhoc Bruno, cujus flatus gratulatur.\nIpse fatigatus per tempora neque reat\u2026",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 80
+  },
+  {
+    "titulus_id": 945,
+    "location_name": "Saltu Vedocii",
+    "title": "T. Sancti Nicolai de Saltu Vedocii.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Nicholas",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 81
+  },
+  {
+    "titulus_id": 946,
+    "location_name": "Noviandi",
+    "title": "T. Beate Marie Noviandi (a).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Virgin Mary",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 82
+  },
+  {
+    "titulus_id": 947,
+    "location_name": null,
+    "title": "71 [58] S.d.- S.J. [Nogent-sous-Coucy, N.-D.]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 83
+  },
+  {
+    "titulus_id": 948,
+    "location_name": null,
+    "title": "72 [59] S.d.-- Soissons, cath\u00e9drale. T. ecclesiae Suessionensis.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 84
+  },
+  {
+    "titulus_id": 949,
+    "location_name": null,
+    "title": "73 [60] S.d.- Soissons, S. M\u00e9dard, S. S\u00e9bastien. T. Sanctorum Medardi et Sebastiani Suessionensis cenobii.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "M\u00e9dard",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "S\u00e9bastien",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Mo\u00efse",
+        "role": "prophet",
+        "dates": ""
+      },
+      {
+        "name": "Isra\u00e9lite",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 85
+  },
+  {
+    "titulus_id": 950,
+    "location_name": null,
+    "title": "Vota juvant hominem, dum vivit et exit ad horam.\nQue perimit vitam, tulit improba mors eremitam,\nQue nocet et ledit justum, satis impia ledit.\nHec tam crudelis necat insatiata Caribidis,\nQuos foet omnipares nullum miserata dolores,\nSalvet ab hac hominem, qui per\u0442\u0443it in cruce mortem,\nEt vitam tribuat, quam non Prosperina rumpat.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Prosperina",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 86
+  },
+  {
+    "titulus_id": 951,
+    "location_name": "Blois",
+    "title": "74 [155] S.d.- Blois, N.-D.-de-Bourguymon].\nT. Sancte Marie Blesensis ecclesie.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 87
+  },
+  {
+    "titulus_id": 952,
+    "location_name": "Blois",
+    "title": "75 [156] S.d.- Blois, N.-D.-de-Bourguymon].\nAlius titulus ejusdem.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 88
+  },
+  {
+    "titulus_id": 953,
+    "location_name": "Blois/Calais",
+    "title": "76 [157] S.d.- Blois, S. Calais.\nT. Sancti Karileffi (4) Blesensis ecclesie.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 89
+  },
+  {
+    "titulus_id": 954,
+    "location_name": "Bernay",
+    "title": "77 [113] S.d.- Bernay, N.-D.[-de-la-Couture].\nT. Sancte Marie Bernaci.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 90
+  },
+  {
+    "titulus_id": 955,
+    "location_name": "Orl\u00e9ans, cath\u00e9drale (S. Croix)",
+    "title": "78 [170] S.d.- Orl\u00e9ans, cath\u00e9drale (S. Croix).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 91
+  },
+  {
+    "titulus_id": 956,
+    "location_name": "Pierre, abb\u00e9 de S. Jean-des-Voissons de Soissons",
+    "title": "79 [61] S.d.- Pierre, abb\u00e9 de S. Jean-des-Voissons de Soissons.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "abbot of St. John's in Soissons",
+        "dates": ""
+      },
+      {
+        "name": "Virgin Mary",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "Patri (Father/Abbot)",
+        "dates": ""
+      }
+    ],
+    "step": 92
+  },
+  {
+    "titulus_id": 957,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 93
+  },
+  {
+    "titulus_id": 958,
+    "location_name": "Belvacensis",
+    "title": "T. sancti Symphoriani martyris Belvacensis.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 94
+  },
+  {
+    "titulus_id": 959,
+    "location_name": "Belvacensis",
+    "title": "T. Sancti Quentinii Belvacensis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "abbot/father",
+        "dates": ""
+      }
+    ],
+    "step": 95
+  },
+  {
+    "titulus_id": 960,
+    "location_name": "Belvagorum",
+    "title": "T. sancti Luciani, Belvagorum apostoli et martyris.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Lucien",
+        "role": "saint, apostle and martyr",
+        "dates": ""
+      }
+    ],
+    "step": 96
+  },
+  {
+    "titulus_id": 961,
+    "location_name": "Sylva",
+    "title": "T. Sancti Fuscieni de Sylva.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "excellent man",
+        "dates": ""
+      }
+    ],
+    "step": 97
+  },
+  {
+    "titulus_id": 962,
+    "location_name": "Corbie, S. Pierre",
+    "title": "84 [68] S.d.\u2013 Corbie, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rege",
+        "role": "king",
+        "dates": ""
+      }
+    ],
+    "step": 98
+  },
+  {
+    "titulus_id": 963,
+    "location_name": "S. Quentin",
+    "title": "85 [71] S.d.\u2013[S. Quintin.] S. Quentin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 99
+  },
+  {
+    "titulus_id": 964,
+    "location_name": "Lihons, S. Pierre",
+    "title": "86 [69] S.d.\u2013 Lihons, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Altonitans",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 100
+  },
+  {
+    "titulus_id": 965,
+    "location_name": "P\u00e9ronne, S. Fursy",
+    "title": "87 [70] S.d.\u2013 P\u00e9ronne, S. Fursy.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Fursy",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 101
+  },
+  {
+    "titulus_id": 966,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "pastor/monk",
+        "dates": ""
+      }
+    ],
+    "step": 102
+  },
+  {
+    "titulus_id": 967,
+    "location_name": "Marchiennes",
+    "title": "91 [75] S.d.- Marchiennes.\nT. cenobii Marciensis (a).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 103
+  },
+  {
+    "titulus_id": 968,
+    "location_name": "S. Amand",
+    "title": "92 [76] S.d.- S. Amand.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Father/God",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 104
+  },
+  {
+    "titulus_id": 969,
+    "location_name": "Lille, S. Pierre",
+    "title": "93 [78] S.d.- Lille, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "Father/Abbot",
+        "dates": ""
+      }
+    ],
+    "step": 105
+  },
+  {
+    "titulus_id": 970,
+    "location_name": "Messines, N.-D.",
+    "title": "94 [79] S.d.- Messines, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 106
+  },
+  {
+    "titulus_id": 971,
+    "location_name": null,
+    "title": "Poscere; celestis donet tibi premia regni.\nQuo tecum fratres nostri sint atque sorores.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 107
+  },
+  {
+    "titulus_id": 972,
+    "location_name": "Formosella (Voormezele)",
+    "title": "T. Sancte Marie Formosellensis ecclesie.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 108
+  },
+  {
+    "titulus_id": 973,
+    "location_name": "Brugge",
+    "title": "S. Donaas.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 109
+  },
+  {
+    "titulus_id": 974,
+    "location_name": "Mileto",
+    "title": "S.d.- Mileto [Vecchia], du\u00f2mo (S. Nic\u00f2la)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 110
+  },
+  {
+    "titulus_id": 975,
+    "location_name": "Poitiers, cath\u00e9drale (S. Pierre)",
+    "title": "98 [143] S.d.- Poitiers, cath\u00e9drale (S. Pierre).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Peter of Poitiers",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 111
+  },
+  {
+    "titulus_id": 976,
+    "location_name": "Poitiers, N.D.[-la-Grande]",
+    "title": "99 [144] S.d.- Poitiers, N.D.[-la-Grande]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Blessed Mary",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 112
+  },
+  {
+    "titulus_id": 977,
+    "location_name": "Poitiers, S. Hilaire[-de-la-Celle]",
+    "title": "100 [145] S.d.- Poitiers, S. Hilaire[-de-la-Celle] (1).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Hilary",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 113
+  },
+  {
+    "titulus_id": 978,
+    "location_name": "S. I. Poitiers, S. Hilaire-de-la-Celle",
+    "title": "101 [46] S.d.-S. I.[Poitiers, S. Hilaire-de-la-Celle]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 114
+  },
+  {
+    "titulus_id": 979,
+    "location_name": "Poitiers, S. Radegonde",
+    "title": "102 [147] S.d.- Poitiers, S. Radegonde.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Radegund",
+        "role": "queen of the Picts",
+        "dates": ""
+      }
+    ],
+    "step": 115
+  },
+  {
+    "titulus_id": 980,
+    "location_name": "[Poitiers,] S. Cyprien",
+    "title": "103 [148] S.d.-[Poitiers,] S. Cyprien.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Cyprian",
+        "role": "martyr",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 116
+  },
+  {
+    "titulus_id": 981,
+    "location_name": "[Poitiers,] Montierneuf, S. Jean-\u00c9vang\u00e9liste",
+    "title": "104 [149] S.d.-[Poitiers,] Montierneuf], S. Jean-\u00c9vang\u00e9liste.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "John",
+        "role": "evangelist of Poitiers",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 117
+  },
+  {
+    "titulus_id": 982,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 118
+  },
+  {
+    "titulus_id": 983,
+    "location_name": "Vierzon, S. Pierre",
+    "title": "105 [173] S.d.- Vierzon, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 119
+  },
+  {
+    "titulus_id": 984,
+    "location_name": "Plaimpied, S. Martin",
+    "title": "106 [174] S.d.- Plaimpied, S. Martin.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 120
+  },
+  {
+    "titulus_id": 985,
+    "location_name": "Micy, S. Mesmin",
+    "title": "107 [171] S.d.- Micy, S. Mesmin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 121
+  },
+  {
+    "titulus_id": 986,
+    "location_name": "[Micy, S. Mesmin]",
+    "title": "108 [172] S.d.- S.l. [Micy, S. Mesmin]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 122
+  },
+  {
+    "titulus_id": 987,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 123
+  },
+  {
+    "titulus_id": 988,
+    "location_name": "Reuais, S. Pierre",
+    "title": "110 [168] S.d.- Reuais, S. Pierre. T. Sancti Petri Rebascens.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 124
+  },
+  {
+    "titulus_id": 989,
+    "location_name": "Lagny[sur-Marne]",
+    "title": "111 [169] S.d.- Lagny[sur-Marne], S. Pierre. T. Sancti Petri Latiniacensis (a)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Adam",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 125
+  },
+  {
+    "titulus_id": 990,
+    "location_name": "Nicastro",
+    "title": "112 [177] S.d.\u2013 Nicastro, du\u00f2mo (S. Pietro) (1). T. Sancti Petri Neocastrensis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "patron/monk",
+        "dates": ""
+      }
+    ],
+    "step": 126
+  },
+  {
+    "titulus_id": 991,
+    "location_name": null,
+    "title": "324",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 127
+  },
+  {
+    "titulus_id": 992,
+    "location_name": "Falaise, S. Trinit\u00e9",
+    "title": "113 [125] S.d.-Falaise, S. Trinit\u00e9.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 128
+  },
+  {
+    "titulus_id": 993,
+    "location_name": "Falaise, S. Gervais",
+    "title": "114 [126] S.d.\u2013[Falaise,] S. Gervais (1).",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 129
+  },
+  {
+    "titulus_id": 994,
+    "location_name": "Gent",
+    "title": "115 [77] S.d.\u2013 Tournai, cath\u00e9drale (N.-D.)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Peter",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 130
+  },
+  {
+    "titulus_id": 995,
+    "location_name": "[Pr\u00e9aux]",
+    "title": "117 [114] S.d.\u2013 [Pr\u00e9aux,] S. L\u00e9ger (1).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Leodegar",
+        "role": "martyr",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 131
+  },
+  {
+    "titulus_id": 996,
+    "location_name": "Gent",
+    "title": "118 [82] S.d.\u2013 Gent, S. Baafs.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Bavo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "king",
+        "dates": ""
+      }
+    ],
+    "step": 132
+  },
+  {
+    "titulus_id": 997,
+    "location_name": "Coventry",
+    "title": "T. Sanct\u00e6 Marie Convatrensis (a) ecclesie in Anglia.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "King",
+        "dates": ""
+      }
+    ],
+    "step": 133
+  },
+  {
+    "titulus_id": 998,
+    "location_name": "S. Omer",
+    "title": "120 [104] S.d.- S. Omer.\nT. sancti Audomari episcopi.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Audomar",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 134
+  },
+  {
+    "titulus_id": 999,
+    "location_name": "London",
+    "title": "121 [85] S.d.- London, cathedral (S. Paul).\nT. sancti Pauli apostoli Londoniensis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "master/lord",
+        "dates": ""
+      },
+      {
+        "name": "Regenerus",
+        "role": "archdeacon",
+        "dates": ""
+      },
+      {
+        "name": "Walter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Quintilian",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert Durandus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Theobald",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Arternus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Mary of Canterbury/Calabria",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 135
+  },
+  {
+    "titulus_id": 1000,
+    "location_name": "Cassel, S. Pierre",
+    "title": "122 [105] S.d.\u2013 Cassel, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "God/Father",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 136
+  },
+  {
+    "titulus_id": 1001,
+    "location_name": "Arras, cath\u00e9drale (N.-D.)",
+    "title": "123 [106] S.d.\u2013 Arras, cath\u00e9drale (N.-D.).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Jesse",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 137
+  },
+  {
+    "titulus_id": 1002,
+    "location_name": "Arras, cath\u00e9drale (N.-D.)",
+    "title": "124 [107] S.d.\u2013[Arras, cath\u00e9drale (N.-D.)].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 138
+  },
+  {
+    "titulus_id": 1003,
+    "location_name": "Arras, S. Vaast",
+    "title": "125 [108] S.d.\u2013 Arras, S. Vaast.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vedast",
+        "role": "bishop",
+        "dates": ""
+      }
+    ],
+    "step": 139
+  },
+  {
+    "titulus_id": 1004,
+    "location_name": null,
+    "title": "126 [109] S.d.-S.l.[Arras, S. Vaast]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "master/teacher",
+        "dates": ""
+      },
+      {
+        "name": "Father (God)",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 140
+  },
+  {
+    "titulus_id": 1005,
+    "location_name": "Moreuil",
+    "title": "127 [110] S.d.- Moreuil (?), N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 141
+  },
+  {
+    "titulus_id": 1006,
+    "location_name": "Canterbury",
+    "title": "128 [84] S.d.- [Canterbury,] S. Peter, S. Augustine.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Augustine",
+        "role": "apostle of the English",
+        "dates": ""
+      }
+    ],
+    "step": 142
+  },
+  {
+    "titulus_id": 1007,
+    "location_name": "Bury St Edmunds",
+    "title": "129 [86] S.d.- [Bury] S. Edmunds.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Edmund",
+        "role": "king and martyr",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "father and hermit",
+        "dates": ""
+      }
+    ],
+    "step": 143
+  },
+  {
+    "titulus_id": 1008,
+    "location_name": "Bury St Edmunds",
+    "title": "130 [87] S.d.-S.l. [Bury S. Edmunds]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 144
+  },
+  {
+    "titulus_id": 1009,
+    "location_name": "Spalding",
+    "title": "131 [88] S.d.- Spalding, S. Mary et S. Nicholas (3).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Nicholas",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 145
+  },
+  {
+    "titulus_id": 1010,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Mary",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 146
+  },
+  {
+    "titulus_id": 1011,
+    "location_name": "Lincoln, cathedral (S. Mary)",
+    "title": "132 [89] S.d.\u2013 Lincoln, cathedral (S. Mary).\nT. Sanct\u00e6 Mari\u00e6 ecclesi\u00e6 Lincolniensis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 147
+  },
+  {
+    "titulus_id": 1012,
+    "location_name": "York, S. Mary",
+    "title": "133 [90] S.d.\u2013 York, S. Mary.\nT. Beate Marie Eboracensis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 148
+  },
+  {
+    "titulus_id": 1013,
+    "location_name": "York, S. Mary",
+    "title": "134 [91] S.d.\u2013 S.l.[York, S. Mary]\nAlius ejusdem.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 149
+  },
+  {
+    "titulus_id": 1014,
+    "location_name": "York, cathedral (S. Peter)",
+    "title": "135 [92]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 150
+  },
+  {
+    "titulus_id": 1015,
+    "location_name": "York, cathedral (S. Peter)",
+    "title": "136 [93]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 151
+  },
+  {
+    "titulus_id": 1016,
+    "location_name": "Beverley, S. John",
+    "title": "137 [99] S.d.- Beverley, S. John.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "John",
+        "role": "Archbishop of Beverly",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 152
+  },
+  {
+    "titulus_id": 1017,
+    "location_name": "York, cathedral (S. Peter)",
+    "title": "138 [94] S.d.- S.l. [York, cathedral (S. Peter)].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Richard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 153
+  },
+  {
+    "titulus_id": 1018,
+    "location_name": "York, cathedral (S. Peter)",
+    "title": "139 [95] S.d.-S.l. [York, cathedral (S. Peter)].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 154
+  },
+  {
+    "titulus_id": 1019,
+    "location_name": "York, cathedral (S. Peter)",
+    "title": "140 [96] S.d.-S.l. [York, cathedral (S. Peter)].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Turstanus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 155
+  },
+  {
+    "titulus_id": 1020,
+    "location_name": "York, cathedral (S. Peter)",
+    "title": "141 [97] S.d.-S.l. [York, cathedral (S. Peter)].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Richard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Eve",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 156
+  },
+  {
+    "titulus_id": 1021,
+    "location_name": "York, et cathedral (S. Peter)",
+    "title": "142 [98] S.d.-S.l. [York, cathedral (S. Peter)].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "William",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 157
+  },
+  {
+    "titulus_id": 1022,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Phoebus",
+        "role": "Apollo/Sun god",
+        "dates": ""
+      }
+    ],
+    "step": 158
+  },
+  {
+    "titulus_id": 1023,
+    "location_name": "Chester",
+    "title": "143 [100] S.d.- Chester, S. Peter.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "monk/hermit",
+        "dates": ""
+      },
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 159
+  },
+  {
+    "titulus_id": 1024,
+    "location_name": "Chester",
+    "title": "144 [101] S.d.-L.[Chester, S. Peter].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 160
+  },
+  {
+    "titulus_id": 1025,
+    "location_name": "Malmesbury",
+    "title": "145 [103] S.d.- Malmesbury, S. Mary, S. Aldhelm.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Aldhelm",
+        "role": "bishop and confessor",
+        "dates": ""
+      }
+    ],
+    "step": 161
+  },
+  {
+    "titulus_id": 1026,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 162
+  },
+  {
+    "titulus_id": 1027,
+    "location_name": null,
+    "title": "Cujus magnifice quoniam seriem pietatis\nNemo referre valet, autesque pie bonitatis,\nHis permissis, precipibus nos invigilemus,\nAtque Patrem summum devota mente rogemus,\nUt Pater eximius vitali luce fluatur,\nJustus et agrimnus justorum consocierut.\nNos Rothomagenses metropolis ecclesie canonici singulis annis venerabilis viri Brunonis anniversarium faciemus.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 163
+  },
+  {
+    "titulus_id": 1028,
+    "location_name": "Rouen, S. Trinit\u00e9-du-Mont",
+    "title": "147 [112] S.d.- Rouen, S. Trinit\u00e9-du-Mont.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 164
+  },
+  {
+    "titulus_id": 1029,
+    "location_name": "[Pr\u00e9aux,] S. L\u00e9ger",
+    "title": "148 [115] S.d.- [Pr\u00e9aux,] S. L\u00e9ger (1).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Leodegar",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 165
+  },
+  {
+    "titulus_id": 1030,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 166
+  },
+  {
+    "titulus_id": 1031,
+    "location_name": "Bajocensis",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 167
+  },
+  {
+    "titulus_id": 1032,
+    "location_name": "Bayeux",
+    "title": "152 [119] S.d.\u2013[Bayeux,]S. Georges.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 168
+  },
+  {
+    "titulus_id": 1033,
+    "location_name": null,
+    "title": "T. Sancti Vigoris Cerasiaci cenobii.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Vigor",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 169
+  },
+  {
+    "titulus_id": 1034,
+    "location_name": null,
+    "title": "T. Sancte Marie Constantiiensis ecclesie.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "divinity",
+        "dates": ""
+      }
+    ],
+    "step": 170
+  },
+  {
+    "titulus_id": 1035,
+    "location_name": null,
+    "title": "Versus scholaris ejusdem urbis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "teacher of grammar",
+        "dates": ""
+      }
+    ],
+    "step": 171
+  },
+  {
+    "titulus_id": 1036,
+    "location_name": null,
+    "title": "T. Sancti Michaelis de periculo maris.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Michael",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "man of religion",
+        "dates": ""
+      }
+    ],
+    "step": 172
+  },
+  {
+    "titulus_id": 1037,
+    "location_name": "Chezal-Benoft, S. Pierre",
+    "title": "158 [175] S.d.- Chezal-Benoft, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 173
+  },
+  {
+    "titulus_id": 1038,
+    "location_name": "Lonlay-[l'Abbaye]",
+    "title": "159 [124] S.d.- Lonlay-[l'Abbaye], N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "hermit",
+        "dates": ""
+      }
+    ],
+    "step": 174
+  },
+  {
+    "titulus_id": 1039,
+    "location_name": "Le Mans, cath\u00e9drale (S. Julien)",
+    "title": "160 [127] S.d.- Le Mans, cath\u00e9drale (S. Julien).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 175
+  },
+  {
+    "titulus_id": 1040,
+    "location_name": "Le Mans, cath\u00e9drale (S. Julien)",
+    "title": "161 [128] S.d.- Le Mans, cath\u00e9drale (S. Julien).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 176
+  },
+  {
+    "titulus_id": 1041,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Proteus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 177
+  },
+  {
+    "titulus_id": 1042,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rebus/Rex",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 178
+  },
+  {
+    "titulus_id": 1043,
+    "location_name": "S. Vincent Cenomanensis",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 179
+  },
+  {
+    "titulus_id": 1044,
+    "location_name": "Prato (S. Julien-du-Pr\u00e9)",
+    "title": "T. ecclesie Beati Juliani de Prato.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christum",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 180
+  },
+  {
+    "titulus_id": 1045,
+    "location_name": "Angers (S. Maurice)",
+    "title": "166 [133] S.d.- Angers, cath\u00e9drale (S. Maurice).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Marinus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Plato",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 181
+  },
+  {
+    "titulus_id": 1046,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 182
+  },
+  {
+    "titulus_id": 1047,
+    "location_name": "S. Florent-le-Vieil",
+    "title": "T. Sancti Florenti Glommensis (a) cenobii.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "king/ruler of the catholic church",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 183
+  },
+  {
+    "titulus_id": 1048,
+    "location_name": "S. Nicolas (Angers)",
+    "title": "168 [134] S.d.- [Angers,] S. Nicolas.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Lambert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Aristotle",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Socrates",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Plato",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 184
+  },
+  {
+    "titulus_id": 1049,
+    "location_name": "D\u00e9ols",
+    "title": "169 [151] S.d.- D\u00e9ols, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 185
+  },
+  {
+    "titulus_id": 1050,
+    "location_name": "S. Michel-l'Herm.",
+    "title": "170 [137] S.d.- S. Michel-l'Herm.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Eve",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 186
+  },
+  {
+    "titulus_id": 1051,
+    "location_name": "Lu\u00e7on",
+    "title": "171 [138] S.d.- Lu\u00e7on, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Reginald",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 187
+  },
+  {
+    "titulus_id": 1052,
+    "location_name": "S. l.[Nieul-sur-l'Autise, S. Vincent]",
+    "title": "175 [142] S.d.- S.l.[Nieul-sur-l'Autise, S. Vincent]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 188
+  },
+  {
+    "titulus_id": 1053,
+    "location_name": "Cormeny",
+    "title": "176 [152] 1er novembre 1102 - Mainard, abb\u00e9 de Cormeny.",
+    "date": [
+      1102,
+      11,
+      1,
+      "1er novembre 1102"
+    ],
+    "date_display": "1er novembre 1102",
+    "entities": [
+      {
+        "name": "Mainard",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 189
+  },
+  {
+    "titulus_id": 1054,
+    "location_name": "Dolensis",
+    "title": "T. Sancti Salvatoris mundi sanctique Gildasii, confessoris Dolensis,",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gildas",
+        "role": "confessor",
+        "dates": ""
+      }
+    ],
+    "step": 190
+  },
+  {
+    "titulus_id": 1055,
+    "location_name": "Tropeiensis",
+    "title": "T. Sancte Marie Tropeiensis ecclesie.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bruno",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 191
+  },
+  {
+    "titulus_id": 1056,
+    "location_name": "Rennes",
+    "title": "II : po\u00e8me de Rom\u00e8de, \u00e9v\u00eaque de Rennes",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Rom\u00e8de",
+        "role": "bishop",
+        "dates": ""
+      }
+    ],
+    "step": 192
+  },
+  {
+    "titulus_id": 1057,
+    "location_name": "Moine de S. Aubin d'Angers",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Milon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Girard",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Urban II",
+        "role": "pope",
+        "dates": ""
+      }
+    ],
+    "step": 193
+  },
+  {
+    "titulus_id": 1058,
+    "location_name": "Lyon",
+    "title": "2 S.d.- Lyon, S. Alban.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Milo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 194
+  },
+  {
+    "titulus_id": 1059,
+    "location_name": "Lyon",
+    "title": "3 S.d.- Lyon, S. Georges.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Milo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 195
+  },
+  {
+    "titulus_id": 1060,
+    "location_name": "Chuny",
+    "title": "4 S.d.- Chuny.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "Apostle",
+        "dates": ""
+      },
+      {
+        "name": "Paul",
+        "role": "Apostle",
+        "dates": ""
+      },
+      {
+        "name": "Renco",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Raymond",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ilu",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Arman",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wiglo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Senebrunus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Pontius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Letaud",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Vidus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Opizzo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Oggier",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Theodoric",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Raymond",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Dalmatian",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Milo",
+        "role": "bishop and apostolic legate",
+        "dates": ""
+      }
+    ],
+    "step": 196
+  },
+  {
+    "titulus_id": 1061,
+    "location_name": null,
+    "title": "fragment original",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "deity",
+        "dates": ""
+      },
+      {
+        "name": "Romanus",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 197
+  }
+]

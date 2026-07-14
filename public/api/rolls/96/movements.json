@@ -1,0 +1,26 @@
+[
+  {
+    "titulus_id": 797,
+    "location_name": "Ligug\u00e9",
+    "title": "S.d.- Ligug\u00e9, S. Martin.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 0
+  },
+  {
+    "titulus_id": 798,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "titulus_id": 679,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guifredo",
+        "role": "soldier/knight",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 680,
+    "location_name": null,
+    "title": "Item.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Benedict",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 681,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guifredo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Servatius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Martin",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 682,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guifred",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "God/Lord",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "king",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 683,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guifredo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Maria",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Canig\u00f3",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 684,
+    "location_name": null,
+    "title": "Cur lugetis eum, qui felix vivet in evum ?\nQuare non vit\u00e8 cernitis acta su\u00e6 ?\nLetificat mundum requiescens arce polorum,\nExemplar vivis, palma recens superis.\nItem.\nMundi luxurias imitandus respuit abbas\nGuifredus, nullis subditus illecebris.\nSepius orabat, poterat quis subveniebat,\nPostremo cunctis consulo mit iser.\nSed pro magnificis sortis premia factis,\nQua primum venit, nunc patriam repetit.\u2026",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guifredo",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 5
+  },
+  {
+    "titulus_id": 685,
+    "location_name": "Aachen, \u00e9glise ind\u00e9termin\u00e9e",
+    "title": "78 [74] S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 6
+  }
+]

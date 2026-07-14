@@ -1,0 +1,41 @@
+[
+  {
+    "titulus_id": 53,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Germain d'Auxerre",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 54,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  },
+  {
+    "titulus_id": 55,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Germain d'Auxerre",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  }
+]

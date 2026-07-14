@@ -1,0 +1,417 @@
+[
+  {
+    "titulus_id": 1794,
+    "location_name": "Chartres",
+    "title": "24 S.d.- Chartres, S. Ch\u00e9ron.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Saint Carauinus of Chartres",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1795,
+    "location_name": "Tiron",
+    "title": "25 S.d.- Tiron, S. Sauveur.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Saint Savior of Tiron",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 1796,
+    "location_name": "Bonneval",
+    "title": "26 S.d.- Bonneval, S. Florentin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Saint Florentinus of Bonneval",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 1797,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Odo",
+        "role": "master/magister",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 1798,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Herbert",
+        "role": "Abbot of Saint-\u00c9tienne de Dijon",
+        "dates": ""
+      },
+      {
+        "name": "Garnier IV de Blaisy",
+        "role": "secular abbot",
+        "dates": ""
+      },
+      {
+        "name": "Josseran",
+        "role": "Bishop of Langres",
+        "dates": ""
+      },
+      {
+        "name": "Guillence",
+        "role": "Bishop of Langres",
+        "dates": ""
+      },
+      {
+        "name": "Innocent II",
+        "role": "Pope",
+        "dates": ""
+      },
+      {
+        "name": "Rendulf III",
+        "role": "Count of Burgundy",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 1799,
+    "location_name": "S. Andr\u00e9, Bonneval-l\u00e8s-Thouars",
+    "title": "1 S.d.-[Bonneval-l\u00e8s-Thouars,] S. Andr\u00e9.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Andr\u00e9",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 5
+  },
+  {
+    "titulus_id": 1800,
+    "location_name": "Asni\u00e8res (Bellay), Notre-Dame",
+    "title": "2 S.d.-Asni\u00e8res[Bellay], N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Herbert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "G\u00e9rard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Goslen",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Giraut Berbi",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 6
+  },
+  {
+    "titulus_id": 1801,
+    "location_name": "Fontevraud, Sainte Marie-Madeleine",
+    "title": "3 S.d.- Fontevraud, S. Marie-Madeleine.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Marie Madeleine",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 7
+  },
+  {
+    "titulus_id": 1802,
+    "location_name": "Fontevraud, Notre-Dame",
+    "title": "4 S.d.- Fontevraud, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Herbert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "master/magister",
+        "dates": ""
+      }
+    ],
+    "step": 8
+  },
+  {
+    "titulus_id": 1803,
+    "location_name": "Cunault, Notre-Dame",
+    "title": "5 S.d.- Cunault, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Marie de Cunault",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 9
+  },
+  {
+    "titulus_id": 1804,
+    "location_name": "Saint-Maur-sur-Loire",
+    "title": "6 S.d.- S. Maur[sur-Loire].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Maur",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 10
+  },
+  {
+    "titulus_id": 1805,
+    "location_name": "Ungiacum",
+    "title": "T. Sanctae Marie Ungiaci.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Herbert",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 11
+  },
+  {
+    "titulus_id": 1806,
+    "location_name": "Figeac",
+    "title": "9 S.d.- Figeac, S. Sauveur.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Herbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Mary",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Vivian",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Deodatus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bertrand",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Deodatus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Raymond",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Arnold",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guillermo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 12
+  },
+  {
+    "titulus_id": 1807,
+    "location_name": "Obazine",
+    "title": "12 S.d.- Obazine, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Herbert",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 13
+  },
+  {
+    "titulus_id": 1808,
+    "location_name": "Brive",
+    "title": "13 S.d.- Brive, S. Martin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Martin",
+        "role": "saint/martyr",
+        "dates": ""
+      }
+    ],
+    "step": 14
+  },
+  {
+    "titulus_id": 1809,
+    "location_name": "Noyers",
+    "title": "[2\u00b0 fragment] 14 S.d.- Noyers, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Herbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rainald",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Stoccanus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gaudefridus",
+        "role": "brother",
+        "dates": ""
+      }
+    ],
+    "step": 15
+  },
+  {
+    "titulus_id": 1810,
+    "location_name": "Ducelio",
+    "title": "15 S.d.- Ducelio, S. Michel.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Herbert",
+        "role": "servant/monk",
+        "dates": ""
+      }
+    ],
+    "step": 16
+  },
+  {
+    "titulus_id": 1811,
+    "location_name": "Eliguanensis ecclesia",
+    "title": "16 S.d.- Eliguanensis ecclesia, S. Pierre, S. Paul.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "apostle/saint",
+        "dates": ""
+      },
+      {
+        "name": "Paul",
+        "role": "apostle/saint",
+        "dates": ""
+      },
+      {
+        "name": "Arbert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 17
+  }
+]

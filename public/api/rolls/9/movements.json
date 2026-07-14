@@ -1,0 +1,37 @@
+[
+  {
+    "titulus_id": 14,
+    "location_name": null,
+    "title": "Pro defuncto",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Cinehard",
+        "role": "bishop",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 15,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Lull",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Cinehard",
+        "role": "bishop",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

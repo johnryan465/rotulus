@@ -1,0 +1,27 @@
+[
+  {
+    "titulus_id": 786,
+    "location_name": null,
+    "title": "Titre de Baudri de Bourgueil :",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Durand",
+        "role": "bishop of Clermont",
+        "dates": "1077-1095"
+      },
+      {
+        "name": "Arverni",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Urban II",
+        "role": "pope",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

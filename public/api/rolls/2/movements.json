@@ -1,0 +1,47 @@
+[
+  {
+    "titulus_id": 2,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Wihtberht",
+        "role": "priest",
+        "dates": ""
+      },
+      {
+        "name": "Quaergyth",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Eddu",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 3,
+    "location_name": null,
+    "title": "(Crimson) Domino gloriosissimo et cum omni honoris affectu venerantissimo S Bonifatius archiepiscopo Aelfwaldus, Aestanglorum Deo donante regia potestate fratus, simili et tot ablatia cum omni congregazioni servorum Dei in nostra provincia ... salutem ... In primis itaque scire te volumus, o dilectissime, quod",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boniface",
+        "role": "archbishop",
+        "dates": ""
+      },
+      {
+        "name": "Aelwald",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

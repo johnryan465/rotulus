@@ -1,0 +1,42 @@
+[
+  {
+    "titulus_id": 208,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bernat Tallaferra",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Pierre Pissin\u00e9",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 209,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Michael the Archangel",
+        "role": "archangel",
+        "dates": ""
+      },
+      {
+        "name": "Oliba",
+        "role": "knight/monk",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

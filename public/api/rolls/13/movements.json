@@ -1,0 +1,22 @@
+[
+  {
+    "titulus_id": 19,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Lul",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Gudbert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "titulus_id": 1092,
+    "location_name": "Gu\u00eetres",
+    "title": "T. (a) Sancte Marie Aequistrensis cenobii.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Fulcon",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1093,
+    "location_name": null,
+    "title": "Signino (1) abbati, Stephano abbati, Fortoni abbati, Martino monacho, <......> monacho, Gaucelmo monacho, Lamberto monacho, Fortoni monacho, Petro monacho, ceterisque fratribus.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Stephen",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Fortun",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Martin",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Gaucelm",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Lambert",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Fortun",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 1094,
+    "location_name": "Souin-de-Marnes",
+    "title": "TITULUS (b) SANCTI JOHANNIS EVANGELISTAE ET BEATORUM CONFESSORUM M[ARTINI] ET JOVINI ATQUE ABBATUM <.......>.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 2
+  },
+  {
+    "titulus_id": 1095,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Orderic Vitalis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "William II of Rouet",
+        "role": "abbot",
+        "dates": "died 1107"
+      },
+      {
+        "name": "Hubert",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Drogon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert the Magnificent",
+        "role": "duke",
+        "dates": ""
+      },
+      {
+        "name": "William the Conqueror",
+        "role": "king",
+        "dates": ""
+      },
+      {
+        "name": "Manasser Arsic",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Philip of Brienne",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Aubert",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  }
+]

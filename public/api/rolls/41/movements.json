@@ -1,0 +1,86 @@
+[
+  {
+    "titulus_id": 69,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Stephen",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "original_name': 'Christi', 'original_title': '', 'footnote_num': null, 'normalized_name': 'Christ', 'normalized_role': '', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Pauli', 'original_title': 'apostoli', 'footnote_num': null, 'normalized_name': 'Paul', 'normalized_role': 'apostle', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Anastasium', 'original_tit\u2026",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 70,
+    "location_name": null,
+    "title": "orphaned_tituli': [], ",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  },
+  {
+    "titulus_id": 71,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Nazarius, Nabor, Cyrinus, and Celsus",
+        "role": "saints",
+        "dates": ""
+      },
+      {
+        "name": "Rouvrais",
+        "role": "abbot",
+        "dates": "died 979-02-16"
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 72,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Virgin Mary",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rhadamanthus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Jesus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Olympus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  }
+]

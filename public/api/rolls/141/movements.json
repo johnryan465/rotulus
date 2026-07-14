@@ -1,0 +1,156 @@
+[
+  {
+    "titulus_id": 1755,
+    "location_name": null,
+    "title": "1 S.d.- Poitiers, S. Cyprien.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "\u00c9bles de Turenne",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Pierre",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Rainaud",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Pierre",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Pierre",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Ancelin",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "\u00c9bles de Turenne",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1756,
+    "location_name": null,
+    "title": "2 S.d.- [Paris], S. Martin-des-Champs.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  },
+  {
+    "titulus_id": 1757,
+    "location_name": "Montmartre, S. Denis",
+    "title": "3 S.d.-[Paris.] Montmartre, S. Denis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Denis",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 1758,
+    "location_name": "Poitiers, S. Radegulos",
+    "title": "4 S.d.-Poitiers, S. Radegonde.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Ebalus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Radegund",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 1759,
+    "location_name": "Aiermy, Chartres",
+    "title": "5 S.d.-Aiermy, chanoine de Chartres.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Haemerius",
+        "role": "canon",
+        "dates": ""
+      },
+      {
+        "name": "Ebalus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 1760,
+    "location_name": "S. Maur-des-Foss\u00e9s, S. Pierre",
+    "title": "6",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Eblon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Burchard",
+        "role": "count",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rinaldo",
+        "role": "pope/bishop",
+        "dates": ""
+      },
+      {
+        "name": "Guilferio",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Theobald",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Philip",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 5
+  }
+]

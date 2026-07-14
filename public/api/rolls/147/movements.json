@@ -1,0 +1,37 @@
+[
+  {
+    "titulus_id": 1828,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "German",
+        "role": "abbot",
+        "dates": "died 1160"
+      },
+      {
+        "name": "St Albans",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Tynemouth",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Walter",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

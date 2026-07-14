@@ -1,0 +1,17 @@
+[
+  {
+    "titulus_id": 35,
+    "location_name": null,
+    "title": "20",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hrodulf",
+        "role": "abbot and count",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "titulus_id": 39,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Grimbald",
+        "role": "provost",
+        "dates": ""
+      },
+      {
+        "name": "Saint Fulco",
+        "role": "archbishop and abbot",
+        "dates": ""
+      },
+      {
+        "name": "Fulk",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

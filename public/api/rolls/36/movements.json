@@ -1,0 +1,37 @@
+[
+  {
+    "titulus_id": 62,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "deity",
+        "dates": ""
+      },
+      {
+        "name": "God",
+        "role": "deity",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 63,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Persius",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

@@ -1,0 +1,1166 @@
+[
+  {
+    "titulus_id": 1100,
+    "location_name": null,
+    "title": "2 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es (N.-D.)",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 0
+  },
+  {
+    "titulus_id": 1101,
+    "location_name": "Valenciennes",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  },
+  {
+    "titulus_id": 1102,
+    "location_name": "Valenciennes",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 2
+  },
+  {
+    "titulus_id": 1103,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 3
+  },
+  {
+    "titulus_id": 1104,
+    "location_name": "Tournai, cath\u00e9drale",
+    "title": "1 [ ] S.d.-[Tournai, cath\u00e9drale.]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guarmund",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guarmund",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 1105,
+    "location_name": "Tournai, S. Martin",
+    "title": "2 S.d.- Tournai, S. Martin.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 5
+  },
+  {
+    "titulus_id": 1106,
+    "location_name": "Caen, S. \u00c9tienne",
+    "title": "3 S.d.- Caen, S. \u00c9tienne.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Giselbert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Herbert",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Nicholas",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Samuel",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Roger",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ragnold",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Audbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gozeline",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 6
+  },
+  {
+    "titulus_id": 1107,
+    "location_name": "Beauvais, S. Quentin",
+    "title": "4 S.d.- Beauvais, S. Quentin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Walter Galimondo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 7
+  },
+  {
+    "titulus_id": 1108,
+    "location_name": "Noyon, S. \u00c9loi",
+    "title": "5 S.d.- Noyon, S. \u00c9loi.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hugh",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 8
+  },
+  {
+    "titulus_id": 1109,
+    "location_name": null,
+    "title": "[7]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Remigius",
+        "role": "monk",
+        "dates": "died 1035"
+      },
+      {
+        "name": "Albert II",
+        "role": "monk",
+        "dates": "early 12th century"
+      }
+    ],
+    "step": 9
+  },
+  {
+    "titulus_id": 1110,
+    "location_name": "Laon, cath\u00e9drale (N.-D.)",
+    "title": "6 S.d.- Laon, cath\u00e9drale (N.-D.)",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 10
+  },
+  {
+    "titulus_id": 1111,
+    "location_name": null,
+    "title": "Orate p. n., Helinando (3), Ingerlanno (4) episcopis, Fulchardo (5), Wascelino, alberto (b)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Helinand",
+        "role": "bishop",
+        "dates": "1052 to 1096"
+      },
+      {
+        "name": "Ingelram",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Fulchad",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wascelyn",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Albert",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 11
+  },
+  {
+    "titulus_id": 1112,
+    "location_name": "Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "title": "7 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 12
+  },
+  {
+    "titulus_id": 1113,
+    "location_name": "Ess\u00f4mes[sur-Marne]",
+    "title": "8 S.d.-Ess\u00f4mes[sur-Marne] S. Ferr\u00e9ol.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Ferr\u00e9ol",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Rodther",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "\u00c9tienne",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Otard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rodulf",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Arduin",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 13
+  },
+  {
+    "titulus_id": 1114,
+    "location_name": "Longpont[sur-Orge]",
+    "title": "9 S.d.-Longpont[sur-Orge], N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 14
+  },
+  {
+    "titulus_id": 1115,
+    "location_name": "Le Montel",
+    "title": "10 S.d.-Le Montel, S. Michel.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Michel",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Aic",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ra\u00efmond",
+        "role": "patron/kinsman",
+        "dates": ""
+      },
+      {
+        "name": "Bernardo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Durannus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "G\u00e9rard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bertrand",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Pierre",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Iterius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Jean",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "G\u00e9rard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugues le pur",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Odoin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Seguin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bertrand?",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 15
+  },
+  {
+    "titulus_id": 1116,
+    "location_name": "S. Nicolas-aux-Bois",
+    "title": "11 S.d.-S. Nicolas-aux-Bois.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "deity",
+        "dates": ""
+      },
+      {
+        "name": "Letbald",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Odo",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Tetbald",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 16
+  },
+  {
+    "titulus_id": 1117,
+    "location_name": "Soissons",
+    "title": "12 S.d.- Soissons, S. M\u00e9dard, S. S\u00e9bastien, S. Gr\u00e9goire.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Medard",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Sebastian",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Gregory",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Marinus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 17
+  },
+  {
+    "titulus_id": 1118,
+    "location_name": "S. Bertin",
+    "title": "13 S.d.- S. Bertin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bertin",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 18
+  },
+  {
+    "titulus_id": 1119,
+    "location_name": "S. Ravano",
+    "title": "T. SANCTI RAVANO,",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hunocho",
+        "role": "donor",
+        "dates": ""
+      }
+    ],
+    "step": 19
+  },
+  {
+    "titulus_id": 1120,
+    "location_name": null,
+    "title": "25 [IV] T. (d) sancte Columbi virginis et martyris. Anime Hugonis et anime o. f. d. r. i. p.\nAmen.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Columba",
+        "role": "virgin and martyr",
+        "dates": ""
+      },
+      {
+        "name": "Hugo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 20
+  },
+  {
+    "titulus_id": 1121,
+    "location_name": "Reims, S. Nicaise",
+    "title": "T. SANCTI (a) <.......>",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Remigius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Johannes",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Sifredo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Dodona",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rodulfus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 21
+  },
+  {
+    "titulus_id": 1122,
+    "location_name": "Ch\u00e2lons-en-Champagne, S. Pierre[-aux-Monts]",
+    "title": "17 S.d.- Ch\u00e2lons-en-Champagne, S. Pierre[ -aux-Monts].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hugo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 22
+  },
+  {
+    "titulus_id": 1123,
+    "location_name": "Catalaunensis",
+    "title": "T. SANCTI MEMMI, PRIMI CATALAUNENSIS EPISCOPI.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hugo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "Jesus",
+        "dates": ""
+      }
+    ],
+    "step": 23
+  },
+  {
+    "titulus_id": 1124,
+    "location_name": "Riquier",
+    "title": "19 S.d.-S. Riquier.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Richard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "King of Riquier",
+        "role": "king",
+        "dates": ""
+      }
+    ],
+    "step": 24
+  },
+  {
+    "titulus_id": 1125,
+    "location_name": "Rouen",
+    "title": "20 S.d.- Rouen, cath\u00e9drale (N.D.).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Saint",
+        "dates": ""
+      }
+    ],
+    "step": 25
+  },
+  {
+    "titulus_id": 1126,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Amandus",
+        "role": "pastor/abbot",
+        "dates": ""
+      }
+    ],
+    "step": 26
+  },
+  {
+    "titulus_id": 1127,
+    "location_name": "Cluny",
+    "title": "21 S.-d. - Cluny, S. Pierre, S. Paul.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "Apostle",
+        "dates": ""
+      },
+      {
+        "name": "Paul",
+        "role": "Apostle",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "God",
+        "dates": ""
+      }
+    ],
+    "step": 27
+  },
+  {
+    "titulus_id": 1128,
+    "location_name": "Tournus",
+    "title": "T. SANCTE MARIE et Sanctorum Valeriani atque Philiberti Trenorchensis coenobii. Anima eius et anime (a) omnium fidelium defunctorum r. i. p. Orate p. n., pro Petro (1), Ardagno (2), Guillemo (3), Giraldo (4) abbatibus, Vulrico, Guilelmo, Roberto, Bernardo, Frotergio, Pontio, Garino, Otgerio, Stephano (5) cantore, Galterio, Heudo, Fulcherio, Ansello, Rolanno, Ebrado, Pipino, Rannulfo, Gaufredo, Ite\u2026",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Pierre",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Ardaud",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Guillaume",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Giraud",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Ulric",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Guillaume",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Frodegon",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Pontius",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Garin",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Otger",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "\u00c9tienne",
+        "role": "cantor",
+        "dates": ""
+      },
+      {
+        "name": "Gauthier",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Eudes",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Fulcher",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Anselme",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Roland",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "\u00c9bras",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Pepin",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Rannulf",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Godefroy",
+        "role": null,
+        "dates": ""
+      },
+      {
+        "name": "Iterius",
+        "role": null,
+        "dates": ""
+      }
+    ],
+    "step": 28
+  },
+  {
+    "titulus_id": 1129,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 29
+  },
+  {
+    "titulus_id": 1130,
+    "location_name": "Ch\u00e9zy[sur-Marne]",
+    "title": "24 S.d.- Ch\u00e9zy[sur-Marne], S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Jean",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Aybert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Giselbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Thibaud",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Herbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lambert",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 30
+  },
+  {
+    "titulus_id": 1131,
+    "location_name": "Jouarre",
+    "title": "25 S.d.- Jouarre, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mathilde",
+        "role": "abbess",
+        "dates": ""
+      },
+      {
+        "name": "\u00c9lisabeth",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ermesinde",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ad\u00e9la\u00efde",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 31
+  },
+  {
+    "titulus_id": 1132,
+    "location_name": "Meaux",
+    "title": "26 S.d.- Meaux, cath\u00e9drale (S. \u00c9tienne).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "\u00c9tienne",
+        "role": "martyr",
+        "dates": ""
+      }
+    ],
+    "step": 32
+  },
+  {
+    "titulus_id": 1133,
+    "location_name": "Meaux",
+    "title": "27 S.d.- Meaux, S. Crois, S. Faron.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Faron",
+        "role": "bishop and confessor",
+        "dates": ""
+      },
+      {
+        "name": "Landric",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Jean",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugues",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 33
+  },
+  {
+    "titulus_id": 1134,
+    "location_name": "Lagny[sur-Marne]",
+    "title": "28 S.d.- Lagny[sur-Marne], S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 34
+  },
+  {
+    "titulus_id": 1135,
+    "location_name": "Orl\u00e9ans",
+    "title": "29 S.d.- Orleans. S. Laurent[des-Orgerils].",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 35
+  },
+  {
+    "titulus_id": 1136,
+    "location_name": "[Clermont]",
+    "title": "30 S.d.- [Clermont,] S. Allyre.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 36
+  },
+  {
+    "titulus_id": 1137,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 37
+  },
+  {
+    "titulus_id": 1138,
+    "location_name": null,
+    "title": "[VIIs]",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 38
+  },
+  {
+    "titulus_id": 1139,
+    "location_name": null,
+    "title": "[VIII]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Rachel",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Jacob",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Leah",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Leah",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 39
+  },
+  {
+    "titulus_id": 1140,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Aldo",
+        "role": "Abbot",
+        "dates": ""
+      },
+      {
+        "name": "Hieronymus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gottran",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guarin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Baldwin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ingelbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Albrico",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 40
+  },
+  {
+    "titulus_id": 1141,
+    "location_name": null,
+    "title": "10 <.................................................>",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 41
+  },
+  {
+    "titulus_id": 1142,
+    "location_name": "Hautvillers",
+    "title": "33 S.d.-[Hautvillers].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hugh",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Nocherus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Goderanus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Jocelinus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Norius",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Baldwin",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Miles",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Girard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Jocelin",
+        "role": "deacon",
+        "dates": ""
+      },
+      {
+        "name": "Girard",
+        "role": "deacon",
+        "dates": ""
+      },
+      {
+        "name": "Bartholomew",
+        "role": "deacon",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "deacon",
+        "dates": ""
+      }
+    ],
+    "step": 42
+  },
+  {
+    "titulus_id": 1143,
+    "location_name": "Vertus, Saint-Sauveur",
+    "title": "34 S.d.- Vertus, S. Sauveur.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 43
+  },
+  {
+    "titulus_id": 1144,
+    "location_name": "Th\u00e9rouanne, Saint-Jean",
+    "title": "35 S.d.[- Th\u00e9rouanne, S. Jean.]",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 44
+  }
+]

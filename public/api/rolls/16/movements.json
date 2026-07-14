@@ -1,0 +1,26 @@
+[
+  {
+    "titulus_id": 24,
+    "location_name": "Salisburgensi",
+    "title": "[XLVII (15.)]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Salzburg",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 25,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  }
+]

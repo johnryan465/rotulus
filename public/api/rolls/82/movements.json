@@ -1,0 +1,3030 @@
+[
+  {
+    "titulus_id": 594,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Benedict",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 595,
+    "location_name": "Ripoll",
+    "title": "10 [76] S.d.- Ripoll",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  },
+  {
+    "titulus_id": 596,
+    "location_name": null,
+    "title": "...[continuation from previous page]",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 2
+  },
+  {
+    "titulus_id": 597,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guifr\u00e9",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guisla",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Elisabeth",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Saint-Martin-du-Canig<0xC2>on",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 598,
+    "location_name": "S. Martin-du-Canigou",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint-Martin-du-Canigou",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lagrasse",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Saint-Azat-le-Buffard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Sant Pere de Besal\u00fa",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 599,
+    "location_name": null,
+    "title": "L'itin\u00e9raire se divise en deux parties... [continued text] ...il se retrouve \u00e0 S. Pierre-de-Besal\u00fa.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 5
+  },
+  {
+    "titulus_id": 600,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 6
+  },
+  {
+    "titulus_id": 601,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guifredo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 7
+  },
+  {
+    "titulus_id": 602,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bonifatius",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Wilhelm",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gottfried",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Widfred",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Isimbert",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Sinfredo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 8
+  },
+  {
+    "titulus_id": 603,
+    "location_name": "Ripoll",
+    "title": "1 [17] S.d.- Ripoll.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Domnus Miron",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Martin",
+        "role": "priest/bishop",
+        "dates": ""
+      },
+      {
+        "name": "Guifredo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Perlicto",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 9
+  },
+  {
+    "titulus_id": 604,
+    "location_name": "Caprodron, S. Pere",
+    "title": "2 [18] S.d.- Caprodron, S. Pere.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 10
+  },
+  {
+    "titulus_id": 605,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guifredo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Carcassonne",
+        "role": "bishop",
+        "dates": ""
+      }
+    ],
+    "step": 11
+  },
+  {
+    "titulus_id": 606,
+    "location_name": "Arles-sur-Tech",
+    "title": "3 [10] S. d.- Arles-sur-Tech. N. d.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Miron",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Martin",
+        "role": "sacristan",
+        "dates": ""
+      },
+      {
+        "name": "Arnaud",
+        "role": "abbess/mother of monastery",
+        "dates": ""
+      },
+      {
+        "name": "Guibert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Wifred",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Alve",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 12
+  },
+  {
+    "titulus_id": 607,
+    "location_name": null,
+    "title": "5 [20] S.d.-S.I. [Montolieu]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guifredo",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Saint John the Baptist",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 13
+  },
+  {
+    "titulus_id": 608,
+    "location_name": "Rehais",
+    "title": "20",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gaufrid",
+        "role": "count",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "Jesus Christ",
+        "dates": ""
+      }
+    ],
+    "step": 14
+  },
+  {
+    "titulus_id": 609,
+    "location_name": "S. Genis-des-Fontaines",
+    "title": "8 [2] 9 mars [1051].\u2014S. Genis-des-Fontaines.",
+    "date": [
+      1051,
+      3,
+      9,
+      "9 mars 1051"
+    ],
+    "date_display": "9 mars 1051",
+    "entities": [
+      {
+        "name": "Teddmus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Sentimirus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Sanctus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Bedulf",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Adalulf",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Trasodrius",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Tedmarus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wimar",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Magnatius",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Adalbert",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 15
+  },
+  {
+    "titulus_id": 610,
+    "location_name": "[Sor\u00e8de,] S. Andr\u00e9",
+    "title": "9 [3] 9 mars [1051].\u2014[Sor\u00e8de,] S. Andr\u00e9.",
+    "date": [
+      1051,
+      3,
+      9,
+      "9 mars 1051"
+    ],
+    "date_display": "9 mars 1051",
+    "entities": [
+      {
+        "name": "Andrew",
+        "role": "apostle",
+        "dates": ""
+      },
+      {
+        "name": "Wilfrid",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Miron",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 16
+  },
+  {
+    "titulus_id": 622,
+    "location_name": null,
+    "title": "23 [9] 17 mars [1051]. \u2013 S. Lloren\u00e7 del Mont.",
+    "date": [
+      1051,
+      3,
+      17,
+      "17 mars 1051"
+    ],
+    "date_display": "17 mars 1051",
+    "entities": [
+      {
+        "name": "Laurent",
+        "role": "saint/martyr",
+        "dates": ""
+      },
+      {
+        "name": "Tassio",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Guifredo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Sigoboldo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ricimero",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 17
+  },
+  {
+    "titulus_id": 611,
+    "location_name": "Roses, S. Maria",
+    "title": "11 [5] S.-d.- Roses, S. Maria.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 18
+  },
+  {
+    "titulus_id": 623,
+    "location_name": null,
+    "title": "24 [10] 19 mars [1051]. \u2013 Casseres (5)",
+    "date": [
+      1051,
+      3,
+      19,
+      "19 mars 1051"
+    ],
+    "date_display": "19 mars 1051",
+    "entities": [
+      {
+        "name": "Bonifacio",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 19
+  },
+  {
+    "titulus_id": 624,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Solomon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Oliver",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Sumiarus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Good man",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Amatus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Sancia",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 20
+  },
+  {
+    "titulus_id": 625,
+    "location_name": "S.-M. Miguel del Fray",
+    "title": "26 [24] S.-M. Miguel del Fray",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Udalric",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Michael the Archangel",
+        "role": "archangel",
+        "dates": ""
+      },
+      {
+        "name": "Jesus Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 21
+  },
+  {
+    "titulus_id": 626,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Michael",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wifredo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 22
+  },
+  {
+    "titulus_id": 627,
+    "location_name": null,
+    "title": "27 [15] S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hunbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Albericus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rodolfo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rodolfo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hamo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Odo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 23
+  },
+  {
+    "titulus_id": 628,
+    "location_name": "S.-Lloren\u00e7 del Munt",
+    "title": "29 [28] 27 mars [1051]. S.-Lloren\u00e7 del Munt (2)",
+    "date": [
+      1051,
+      3,
+      27,
+      "27 mars 1051"
+    ],
+    "date_display": "27 mars 1051",
+    "entities": [
+      {
+        "name": "Mironi",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 24
+  },
+  {
+    "titulus_id": 629,
+    "location_name": "S.d.- Poitiers, S. Cyprien.",
+    "title": "31 [28]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 25
+  },
+  {
+    "titulus_id": 630,
+    "location_name": "Tav\u00e8rroles, S. Sadurni",
+    "title": "30 [16]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Widref",
+        "role": "prince and monk",
+        "dates": ""
+      },
+      {
+        "name": "Saturninus",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Amelius",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Pontius",
+        "role": "archbishop and abbot",
+        "dates": ""
+      },
+      {
+        "name": "Vivendus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Lupus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Lawrence",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Ermengaud",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Siegfried",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 26
+  },
+  {
+    "titulus_id": 631,
+    "location_name": "Poitiers, cath\u00e9drale",
+    "title": "32 [29] S.d.- Poitiers, cath\u00e9drale.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mainguard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Arrardus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Pierre",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rorgue",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gauthier",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 27
+  },
+  {
+    "titulus_id": 632,
+    "location_name": "Metz, cath\u00e9drale",
+    "title": "34 [77] S.d.- Metz, cath\u00e9drale.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Wifred",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Waldric",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Thierry",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Constantin",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 28
+  },
+  {
+    "titulus_id": 633,
+    "location_name": "S. Nicolas",
+    "title": "36 [56] S.d.- S. Nicolas (1).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Nicholas",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guifredo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 29
+  },
+  {
+    "titulus_id": 634,
+    "location_name": "Orl\u00e9ans, cath\u00e9drale",
+    "title": "37 [39] S.d.\u2013 Orl\u00e9ans, cath\u00e9drale.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Rothertus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rodulfus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guarinus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Constablus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hersindis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Emma",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Werna",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Orieldis",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 30
+  },
+  {
+    "titulus_id": 635,
+    "location_name": "Orl\u00e9ans, S. Aignan",
+    "title": "38 [40] S.d.\u2013 Orl\u00e9ans, S. Aignan.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Anianus",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Letaldus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ledogearius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Haimo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 31
+  },
+  {
+    "titulus_id": 636,
+    "location_name": "Poitiers, S. Radegonde",
+    "title": "39 [31] S.d.- Poitiers, S. Radegonde.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Radegund",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guifredo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Stephen",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Aymeric",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Durand",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Reynold",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hannibal",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Denier",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernier",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 32
+  },
+  {
+    "titulus_id": 637,
+    "location_name": "Tours, cath\u00e9drale",
+    "title": "40 [35] S.d.- Tours, cath\u00e9drale.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Widfried",
+        "role": "patron/abbot",
+        "dates": ""
+      },
+      {
+        "name": "Maurice",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "deity",
+        "dates": ""
+      }
+    ],
+    "step": 33
+  },
+  {
+    "titulus_id": 638,
+    "location_name": "S. Martin-devent-Metz",
+    "title": "41 [79] S.d.- [Le B\u00e2-S. Martin,] S. Martin[-devent-Metz]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Nanter",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Sigilo",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Volfrid",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Everel",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Constantine",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Givaud",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Jospert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hilprie",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ripald",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Nanter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hildemann",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bertold",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Goderam",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guy",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Renaud",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Blidulf",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Girard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Thierry",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Roselin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Albrecht",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gisbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Herbold",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 34
+  },
+  {
+    "titulus_id": 639,
+    "location_name": "Poitiers, S. Radegonde",
+    "title": "39 [31] S.d.- Poitiers, S. Radegonde.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guatfredo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Stephen",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Aymeric",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Durandus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Raimund",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ranulf",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Deviers",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernart",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 35
+  },
+  {
+    "titulus_id": 640,
+    "location_name": "Tours, cath\u00e9drale",
+    "title": "40 [33] S.d.- Tours, cath\u00e9drale.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Widfrid",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Maurice",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 36
+  },
+  {
+    "titulus_id": 641,
+    "location_name": "S. Martin devent-Metz",
+    "title": "41 [79] S.d.- [Le Ban-S. Martin,] S. Martin[devent-Metz].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Anterus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Sigio",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Volfridus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Berardus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Everellus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Constantinus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Givardus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Jozpertus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hilpricius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ripaldus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Nanterus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hildemannus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bertaldus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Goderamnus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wido",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Raynardus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Blidulfus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Girardus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Teodericus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rezelinus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Albertus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gislebertus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hereboldus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wicardus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ligandus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Menardus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Imiza",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lanzelinus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Berengarius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lanzelinus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 37
+  },
+  {
+    "titulus_id": 642,
+    "location_name": null,
+    "title": "Turone titulus.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Wilfrid",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Martin",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Apollo",
+        "role": "god",
+        "dates": ""
+      }
+    ],
+    "step": 38
+  },
+  {
+    "titulus_id": 643,
+    "location_name": null,
+    "title": "43 [35] S.d.- Tours, S. Venant.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Venantius",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Wilfrid",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 39
+  },
+  {
+    "titulus_id": 644,
+    "location_name": "Toul",
+    "title": "44 [82] S.d.- Toul, cath\u00e9drale.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Warner",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernhard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Elerverdus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Everard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Dagobert I",
+        "role": "king",
+        "dates": "629-639"
+      },
+      {
+        "name": "Acelinus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Waldulf",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "John",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Nanter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Goderic",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 40
+  },
+  {
+    "titulus_id": 645,
+    "location_name": "Metz, S. Symphorien",
+    "title": "45 [80] S.d.- Metz, S. Symphorien.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guifric",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 41
+  },
+  {
+    "titulus_id": 646,
+    "location_name": "Toul, S. Epvre",
+    "title": "46 [83] S.d.- Toul, S. Epvre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Martin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Leuco",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Apre",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Paul",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guifredo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 42
+  },
+  {
+    "titulus_id": 647,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Warnier",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Rothbert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Widric",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Herbert",
+        "role": "primicerius and monk",
+        "dates": ""
+      },
+      {
+        "name": "Gubernius",
+        "role": "primicerius",
+        "dates": ""
+      },
+      {
+        "name": "Eve",
+        "role": "countess",
+        "dates": ""
+      },
+      {
+        "name": "Norbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Henry",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 43
+  },
+  {
+    "titulus_id": 648,
+    "location_name": "Blois, S. Laumer",
+    "title": "48 [37] S. d.- Blois, S. Laumer.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Rothbert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Sussalon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Warnier",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Otmar",
+        "role": "monument/monk",
+        "dates": ""
+      },
+      {
+        "name": "Rothbert",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Gauzbert",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Ast\u00e9",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Rothbert",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Herbert",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Jean",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Herbald",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Achard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Aynard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Hilgier",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Osmond",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Otbert",
+        "role": "layman",
+        "dates": ""
+      }
+    ],
+    "step": 44
+  },
+  {
+    "titulus_id": 649,
+    "location_name": "Paris, S. Germain[-des-Pr\u00e9s]",
+    "title": "49 [42] S.d.- Paris, S. Germain[-des-Pr\u00e9s]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Germanus",
+        "role": "bishop of Paris",
+        "dates": ""
+      },
+      {
+        "name": "Childeric",
+        "role": "king",
+        "dates": "511-556"
+      },
+      {
+        "name": "Morard",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Willelm",
+        "role": "abbot",
+        "dates": "d. 1036"
+      },
+      {
+        "name": "Ingo",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 45
+  },
+  {
+    "titulus_id": 650,
+    "location_name": "Micy, S. Mesmin",
+    "title": "50 [38] S.d.- Micy, S. Mesmin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Drogo",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Albert",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Anselm",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Gozfrid",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Warwin",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 46
+  },
+  {
+    "titulus_id": 651,
+    "location_name": "Toul, S. Mansuy",
+    "title": "51 [84] S.d.- Toul, S. Mansuy.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter of Mansuy",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 47
+  },
+  {
+    "titulus_id": 652,
+    "location_name": "S. Magloire",
+    "title": "52 [48] S.d.-[Paris,] S. Magloire.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Heronius",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Hardunus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Rothbertus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Rothbertus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Aaso",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Adam",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Everardus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Norbertus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Warinus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Otto",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Galernanus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Foleraus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Senfredus",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 48
+  },
+  {
+    "titulus_id": 653,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 49
+  },
+  {
+    "titulus_id": 654,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Wifredo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugo",
+        "role": "decanus",
+        "dates": ""
+      },
+      {
+        "name": "Adon",
+        "role": "sacerdos",
+        "dates": ""
+      },
+      {
+        "name": "Johannes",
+        "role": "sacerdos",
+        "dates": ""
+      },
+      {
+        "name": "Lisiernus",
+        "role": "diaconus",
+        "dates": ""
+      },
+      {
+        "name": "Walter",
+        "role": "diaconus",
+        "dates": ""
+      },
+      {
+        "name": "Warinus",
+        "role": "subdiaconus",
+        "dates": ""
+      },
+      {
+        "name": "Walter",
+        "role": "puer",
+        "dates": ""
+      }
+    ],
+    "step": 50
+  },
+  {
+    "titulus_id": 655,
+    "location_name": "Paris, \u00e9glise ind\u00e9termin\u00e9e",
+    "title": "54 [45] S.d.- Paris, \u00e9glise ind\u00e9termin\u00e9e (1).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Ardradus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Durandus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Herbertus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Manasses",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ansoldus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 51
+  },
+  {
+    "titulus_id": 656,
+    "location_name": "Meaux, cath\u00e9drale",
+    "title": "56 [49] S.d.- Meaux, cath\u00e9drale.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Meldicus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Barcelona residents",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wifred",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Giselbert",
+        "role": "priest/bishop",
+        "dates": ""
+      },
+      {
+        "name": "Macharius",
+        "role": "priest/bishop",
+        "dates": ""
+      },
+      {
+        "name": "Bernier",
+        "role": "priest/bishop",
+        "dates": ""
+      },
+      {
+        "name": "Watto",
+        "role": "dean",
+        "dates": ""
+      },
+      {
+        "name": "Wibold",
+        "role": "cantor",
+        "dates": ""
+      }
+    ],
+    "step": 52
+  },
+  {
+    "titulus_id": 657,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 53
+  },
+  {
+    "titulus_id": 658,
+    "location_name": "Soissons",
+    "title": "59 [53] S.-d.- Soissons, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Martin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Mary of Soissons",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wifred",
+        "role": "count",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Erenburg",
+        "role": "abbess",
+        "dates": ""
+      },
+      {
+        "name": "Ermendis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Elizabeth",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hildeburg",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Fagaela",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Berninga",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Adelaide",
+        "role": "thaularia",
+        "dates": ""
+      },
+      {
+        "name": "Isitburg",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Richilde",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hildeburg",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rosmoda",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 54
+  },
+  {
+    "titulus_id": 659,
+    "location_name": "[Soissons]",
+    "title": "60 [54] S.d.-[Soissons], S. Cr\u00e9pin[-le-Grand], S. Cr\u00e9pinien.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Crispus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Crispinianus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Benedictus",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 55
+  },
+  {
+    "titulus_id": 660,
+    "location_name": "Reims, cath\u00e9drale",
+    "title": "61 [57] S.d.- Reims, cath\u00e9drale.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Alberic",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hilderic",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Haduin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ascelin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Stephen",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Adam",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 56
+  },
+  {
+    "titulus_id": 661,
+    "location_name": "Reims [, S. Pierre-le-Haut]",
+    "title": "62 [58] S.d.- Reims [, S. Pierre-le-Haut].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guifred",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Erlenda",
+        "role": "abbess",
+        "dates": ""
+      },
+      {
+        "name": "Gertrude",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lutgardis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Landrada",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Adelaide",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ida",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Regina",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Haduvia",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rothilde",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hildegard",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 57
+  },
+  {
+    "titulus_id": 662,
+    "location_name": "Cluny",
+    "title": "63 [87] S.d.- Cluny.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hugh",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Odo",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Stephen",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Francon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "John",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bladin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Berald",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Durannus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bracingus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 58
+  },
+  {
+    "titulus_id": 663,
+    "location_name": "S. Remi",
+    "title": "64 [59] S.d.- [Reims,] S. Remi.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Remigius",
+        "role": "saint/patron",
+        "dates": ""
+      },
+      {
+        "name": "Aytard",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Theodoric",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Tetbald",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Raynald",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 59
+  },
+  {
+    "titulus_id": 612,
+    "location_name": "Colera, S. Quirze",
+    "title": "10 [4] S.-d.-Colera, S. Quirze.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 60
+  },
+  {
+    "titulus_id": 664,
+    "location_name": "Saxouilles",
+    "title": "65 [90] S.d.- Saxouilles.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 61
+  },
+  {
+    "titulus_id": 665,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bernard",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "secretary",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Desideratus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Durand",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Walter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bertram",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 62
+  },
+  {
+    "titulus_id": 666,
+    "location_name": "Florennes",
+    "title": "66 [60] S.d.- Florennes [S. Jean-Baptiste].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "John",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Martin",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Phoebus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 63
+  },
+  {
+    "titulus_id": 667,
+    "location_name": "Fosse",
+    "title": "67 [62] S.d.- Fosse, S. Feuillien.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Foillian",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Canigonian",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 64
+  },
+  {
+    "titulus_id": 668,
+    "location_name": "Namur",
+    "title": "68 [63] S.d.- Namur, \u00e9glise ind\u00e9termin\u00e9e.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Canigonian",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Hesterbold",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Folrad",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Godfrey",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Alberic",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Stephen",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hetholin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bertram",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gerold",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Theodoric",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 65
+  },
+  {
+    "titulus_id": 669,
+    "location_name": "Le Puy",
+    "title": "69 [93] S.d.- Le Puy [. S. Pierre-de-la-Tour].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Anician",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Widref",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 66
+  },
+  {
+    "titulus_id": 670,
+    "location_name": null,
+    "title": "Servum de domino, vacuum de divite tanto...",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Wilfrid",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 67
+  },
+  {
+    "titulus_id": 671,
+    "location_name": "Le Monastier(-sur-Gazaille)",
+    "title": "70 [94] S.d.- Le Monastier(-sur-Gazaille), S. Chaffre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Theodfred",
+        "role": "martyr",
+        "dates": ""
+      },
+      {
+        "name": "Eudo",
+        "role": "confessor",
+        "dates": ""
+      },
+      {
+        "name": "Wibert",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 68
+  },
+  {
+    "titulus_id": 672,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "William",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 69
+  },
+  {
+    "titulus_id": 673,
+    "location_name": "Soissons, S. Medard",
+    "title": "71 [55]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Martin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Medard",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 70
+  },
+  {
+    "titulus_id": 674,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Odeleus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Boso",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Richardus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Rodulfus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Theodoric",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Milo",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Gozlinus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 71
+  },
+  {
+    "titulus_id": 675,
+    "location_name": "Lagny[-sur-Marne]",
+    "title": "73 [47] S.d.-Lagny[-sur-Marne].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Wilfrid",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Waldo",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Herbert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Herbert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Arnuulf",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Lescelyn",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Amel",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Odo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wido",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Henry",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Raimundus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gamarel",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Girald",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rotald",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Roger",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Waldo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Cariatus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ascelyn",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 72
+  },
+  {
+    "titulus_id": 676,
+    "location_name": "S. Urbain[-sur-Marne]",
+    "title": "74 [85] S.d.- S. Urbain[-sur-Marne] (1),",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Urbani",
+        "role": "martyr/saint",
+        "dates": ""
+      }
+    ],
+    "step": 73
+  },
+  {
+    "titulus_id": 677,
+    "location_name": "Trier, S. Maximin",
+    "title": "75 [76] S.d.- Trier, S. Maximin.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 74
+  },
+  {
+    "titulus_id": 678,
+    "location_name": "Metz, S. Arnoul",
+    "title": "76 [81] S.d.- Metz, S. Arnoul.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Arnulfi",
+        "role": "bishop/presul",
+        "dates": ""
+      },
+      {
+        "name": "Willemo",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Benedicto",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Oddoni",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Warino",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Raimbaldo",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Alcuino",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 75
+  },
+  {
+    "titulus_id": 613,
+    "location_name": "Rodes, S. Pere",
+    "title": "12 [6] S.d.- Rodes, S. Pere.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 76
+  },
+  {
+    "titulus_id": 621,
+    "location_name": "Besal\u00fa",
+    "title": "VIII [kalendas] aprilis, Celebriantibus, hora sexta, adit porttitor vester limina apostoli precis Petri Besal\u0301\u00fasenibus concedi, qui requiescet (sic) gloriosissim\u0301us martyris primus, atque Cononris, Ardeletensis archiepiscopus, necnon et beatissimus confessor Christi Marinus et alia nunnulla corpora sanctorum, ut abbi\u0301s demus abbas Adalbertus (6) vidueret presse, cuncti vero fratres sub regula patr\u2026",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "Apostle",
+        "dates": ""
+      },
+      {
+        "name": "Conon",
+        "role": "archbishop",
+        "dates": ""
+      },
+      {
+        "name": "Marinus",
+        "role": "confessor",
+        "dates": ""
+      },
+      {
+        "name": "Adalbert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 77
+  },
+  {
+    "titulus_id": 614,
+    "location_name": "Banyoles",
+    "title": "13 [7] S.d.- Banyoles, S. Esteve.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Stephen",
+        "role": "martyr",
+        "dates": ""
+      },
+      {
+        "name": "Oliva",
+        "role": "priest and monk",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "master of scholars",
+        "dates": ""
+      },
+      {
+        "name": "Bonifilius",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 78
+  },
+  {
+    "titulus_id": 615,
+    "location_name": "Nouaille",
+    "title": "14 [22] S.d.- Nouaill\u00e9.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Stephen",
+        "role": "martyr",
+        "dates": ""
+      },
+      {
+        "name": "Michael the Archangel",
+        "role": "archangel",
+        "dates": ""
+      },
+      {
+        "name": "Guifred",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 79
+  },
+  {
+    "titulus_id": 616,
+    "location_name": "Thomis",
+    "title": "16 [23] S.d.- Thomis",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Antoninus",
+        "role": "martyr",
+        "dates": ""
+      },
+      {
+        "name": "], ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 80
+  },
+  {
+    "titulus_id": 620,
+    "location_name": "Burscheid",
+    "title": "5 Domino abba\u021bi Mironi, collegium fratrum peregrinorum de sancto Johanne Balthisia et denar Aquensis palati, divina salutation.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Miron",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "John of Balthe",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Carus",
+        "role": "vicar/official",
+        "dates": ""
+      },
+      {
+        "name": "Benedict",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Theodoric",
+        "role": "priest",
+        "dates": ""
+      }
+    ],
+    "step": 81
+  },
+  {
+    "titulus_id": 617,
+    "location_name": "Nanteuil-en-Vall\u00e9e",
+    "title": "18 [25] S.d.- Nanteuil-en-Vall\u00e9e.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Aimery",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Constantine",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Theodoric",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 82
+  },
+  {
+    "titulus_id": 618,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vivian",
+        "role": "monk and priest",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "levite and monk",
+        "dates": ""
+      },
+      {
+        "name": "Aymer",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "priest",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Odilo",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Gaufrid",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Audoin",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Glaucus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "G.",
+        "role": "layman",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 83
+  },
+  {
+    "titulus_id": 619,
+    "location_name": "Quincay, S. Beno\u00eet",
+    "title": "20 [32] 3 juin [1051].\u2014 Quincay, S. Beno\u00eet.",
+    "date": [
+      1051,
+      6,
+      3,
+      "3 juin 1051"
+    ],
+    "date_display": "3 juin 1051",
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Froger",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 84
+  }
+]

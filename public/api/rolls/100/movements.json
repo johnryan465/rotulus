@@ -1,0 +1,131 @@
+[
+  {
+    "titulus_id": 806,
+    "location_name": null,
+    "title": "(c. e.)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Paul",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Inquilinus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Grausfredus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Stephen",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 807,
+    "location_name": "Bourges",
+    "title": "S.d.- [Bourges,] S. Ursin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Ursinus",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 808,
+    "location_name": "Bourgueil",
+    "title": "S.d.- Bourgueil, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Peter the Apostle of Bourgueil",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Raymond",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Giselbert",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Pontius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gyrolus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lucas",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Audoin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Achard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Godfrey",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Augerius",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 809,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 3
+  }
+]

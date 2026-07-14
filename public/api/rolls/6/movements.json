@@ -1,0 +1,27 @@
+[
+  {
+    "titulus_id": 12,
+    "location_name": null,
+    "title": "Epistula funebris.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Virgilius",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Adalpert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Candold",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

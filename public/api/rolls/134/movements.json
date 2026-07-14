@@ -1,0 +1,36 @@
+[
+  {
+    "titulus_id": 1723,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 0
+  },
+  {
+    "titulus_id": 1724,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Paul",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Odo",
+        "role": "abbot/lord",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

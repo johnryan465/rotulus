@@ -1,0 +1,42 @@
+[
+  {
+    "titulus_id": 793,
+    "location_name": null,
+    "title": "[Premi\u00e8re formule]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Ingelbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Adam",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 794,
+    "location_name": null,
+    "title": "[Deuxi\u00e8me formule]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Frederick",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

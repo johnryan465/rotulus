@@ -1,0 +1,37 @@
+[
+  {
+    "titulus_id": 1,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Coengilsus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Ingeldus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Wiertbertus",
+        "role": "priest",
+        "dates": ""
+      },
+      {
+        "name": "Aldunus",
+        "role": "father/patron",
+        "dates": ""
+      },
+      {
+        "name": "Coenburga",
+        "role": "abbess",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

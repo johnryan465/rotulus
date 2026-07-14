@@ -1,0 +1,121 @@
+[
+  {
+    "titulus_id": 27,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Florbert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Saint Bavon",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 28,
+    "location_name": null,
+    "title": "orphaned_footnotes\ub098 [ {",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  },
+  {
+    "titulus_id": 29,
+    "location_name": "Gandavo castro",
+    "title": "Tytulus (ric) sancti Bavonis nobilissimi confessoris in Gandavo castro (hystoria, non fabula).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Amandus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Florbertus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lambertus",
+        "role": "pastor",
+        "dates": ""
+      },
+      {
+        "name": "Wilfrid",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Eildrif",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Einard",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 30,
+    "location_name": "S. Pieres",
+    "title": "S.d.- Gent. S. Pieres.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Amandus",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Amandus",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Florbertus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Bavon",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Amandus",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Milo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Blandinus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Florbertus",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  }
+]

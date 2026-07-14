@@ -1,0 +1,22 @@
+[
+  {
+    "titulus_id": 1427,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Virgin Mary",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "D\u00e9ols",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

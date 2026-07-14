@@ -1,0 +1,197 @@
+[
+  {
+    "titulus_id": 1096,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Vital",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Allo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Vital of Ordice",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1097,
+    "location_name": null,
+    "title": "Quelques mois plus tard, le nouvel abb\u00e9 de F\u00e9camp, Roger d'Angers, confia \u00e0 Alleume l'accueil de Bandri de Bourg\u00e9t... ",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Roger of Anjou",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Allo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bandry de Bourget",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "William II of Rhodes",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 1098,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "William the Conqueror",
+        "role": "King of England",
+        "dates": "r. 1066-1087"
+      },
+      {
+        "name": "Lanfranc of Bec",
+        "role": "Archbishop of Canterbury",
+        "dates": "1063-1070"
+      },
+      {
+        "name": "Gilbert Callidus",
+        "role": "",
+        "dates": "1079-1101"
+      },
+      {
+        "name": "William I",
+        "role": "Abbot/Duke",
+        "dates": "d. 1110"
+      },
+      {
+        "name": "Robert I",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gilbert Callidus",
+        "role": "",
+        "dates": "1101"
+      },
+      {
+        "name": "Robert Courthebert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Richard II of Dover",
+        "role": "Bishop",
+        "dates": ""
+      },
+      {
+        "name": "William II of Rots",
+        "role": "Abbot",
+        "dates": "d. 1107"
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 1099,
+    "location_name": "S.-Mortain, S. Trinit\u00e9",
+    "title": "1 S.-Mortain, S. Trinit\u00e9 (1)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Rainfred",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Richard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Amund",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rode",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Herbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ranulf",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Godfrey",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Emma",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ermesinde",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Edmond",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lawrence",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Theobald",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ansfried",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  }
+]

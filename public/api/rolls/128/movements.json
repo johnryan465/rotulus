@@ -1,0 +1,496 @@
+[
+  {
+    "titulus_id": 1640,
+    "location_name": "Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es",
+    "title": "[I, c. c.] 1 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christian",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Durant",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Harvey",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gautier",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Supplice",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Girard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Haimeric",
+        "role": "clerk",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1641,
+    "location_name": "cath\u00e9drale (N.-D.)",
+    "title": "2 S.d.- cath\u00e9drale (N.-D.).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "\u00c9tienne",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "\u00c9tienne",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Hunald",
+        "role": "archdeacon",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "archdeacon",
+        "dates": ""
+      },
+      {
+        "name": "Emon",
+        "role": "archpriest",
+        "dates": ""
+      },
+      {
+        "name": "Jean",
+        "role": "archpriest",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 1642,
+    "location_name": "[Clermont,] S. Allyre",
+    "title": "3 S.d.- [Clermont,] S. Allyre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guillaume",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 1643,
+    "location_name": "Issoire, S. Austremoine",
+    "title": "4 S.d.- Issoire, S. Austremoine.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Austremonius",
+        "role": "bishop of Auvergne",
+        "dates": ""
+      },
+      {
+        "name": "Aymon",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Arbert",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Raoul",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Guillaume",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "\u00c9tienne",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 1644,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 4
+  },
+  {
+    "titulus_id": 1645,
+    "location_name": "Caen, S. \u00c9tienne",
+    "title": "7 S.d.\u2013 Caen, S. \u00c9tienne.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Stephen of Caen",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Ragnold",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Stephen",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Richard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Fulcon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Roger",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Walterio",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Nigel",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ralph",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 5
+  },
+  {
+    "titulus_id": 1646,
+    "location_name": "Caen, la Trinit\u00e9",
+    "title": "8 S.d.\u2013 Caen, la Trinit\u00e9.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Matilda",
+        "role": "queen",
+        "dates": ""
+      },
+      {
+        "name": "Adelaide",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Matilda",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Adela",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hildegard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Catherine",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hildegard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Adelaide",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ida/Isburg",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Adelaide",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ascelina",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gisela",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Henseline",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Adelaide",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 6
+  },
+  {
+    "titulus_id": 1647,
+    "location_name": "Locality et \u00e9glise ind\u00e9termin\u00e9es",
+    "title": "9 S.d.- Locality et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Excellinus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 7
+  },
+  {
+    "titulus_id": 1648,
+    "location_name": "Dijon, S. \u00c9tienne",
+    "title": "11 S.d.- Dijon, S. \u00c9tienne.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guillaume",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Warin",
+        "role": "provost",
+        "dates": ""
+      },
+      {
+        "name": "Waudier",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Arard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Goncelin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bertrand",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Foulcon",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 8
+  },
+  {
+    "titulus_id": 1649,
+    "location_name": "Vergy, S. Vivant",
+    "title": "12 S.d.- Vergy, S. Vivant.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guillaume",
+        "role": "servant of the monastery",
+        "dates": ""
+      }
+    ],
+    "step": 9
+  },
+  {
+    "titulus_id": 1650,
+    "location_name": "Vergy, S. Denis",
+    "title": "13 S.d.- Vergy, S. Denis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Ascherio",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Aimario",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hengilbertus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Habardus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bivinus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wido",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hunbertus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gaufridus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 10
+  },
+  {
+    "titulus_id": 1651,
+    "location_name": "\u00c9vaux, S. Pierre",
+    "title": "14 S.d.- \u00c9vaux, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Willelmus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernardo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Rotgerius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Geraldus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ungus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Amelius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Radulfus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 11
+  },
+  {
+    "titulus_id": 1652,
+    "location_name": "Bourgueil",
+    "title": "II : po\u00e8me de Baudri de Bourgueil",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Guillelmus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Guillelmus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 12
+  }
+]

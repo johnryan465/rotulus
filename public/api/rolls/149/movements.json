@@ -1,0 +1,52 @@
+[
+  {
+    "titulus_id": 1831,
+    "location_name": null,
+    "title": "T. (a) Sancti Martini of Campus.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Denis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Urs",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Thibaud",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Odilon",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Mathieu",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Albin",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Thibaud",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Odilon",
+        "role": "prior",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

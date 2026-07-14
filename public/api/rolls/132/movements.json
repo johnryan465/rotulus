@@ -1,0 +1,45 @@
+[
+  {
+    "titulus_id": 1718,
+    "location_name": "Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es",
+    "title": "1 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 0
+  },
+  {
+    "titulus_id": 1719,
+    "location_name": "Arras, cath\u00e9drale (N.-D.)",
+    "title": "2 S.d.- Arras, cath\u00e9drale (N.-D.).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Plato",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Vulgrin of Mauricella",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 1720,
+    "location_name": "Tetbaldi Garnestunensis",
+    "title": "Versus Tetbaldi Garnestunensis.\n<...> viris defunctis scribere scribat\n<...> soni qui <...> atque libens\n<........................> talia <...>\"",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 2
+  }
+]

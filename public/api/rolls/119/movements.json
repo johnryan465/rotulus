@@ -1,0 +1,27 @@
+[
+  {
+    "titulus_id": 1425,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gerard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Waselin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Fulcoid",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

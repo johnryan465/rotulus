@@ -1,0 +1,206 @@
+[
+  {
+    "titulus_id": 31,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Floribert",
+        "role": "abbot of Blandinium",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 32,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  },
+  {
+    "titulus_id": 33,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Ebo",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Jonas",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Ungerus",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Fredberhtus",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Herminus",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Arnaldus",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Rothaldus",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Ermenfridus",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Adventus",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Atto",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Abbo",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Aenus",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Gislebertus",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Guntibertus",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Rathbertus",
+        "role": "bishop",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 34,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Agis",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Hildegar",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Hincmar",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Erchenrau",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Rodebert",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Herluin",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Hildebrand",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Arard",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Walbert",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Godeleuch",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Abbo",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Groidingus",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Isaac",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Erchenbert",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Lupus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Frodonin",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Everard",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  }
+]

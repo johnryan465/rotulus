@@ -1,0 +1,62 @@
+[
+  {
+    "titulus_id": 1826,
+    "location_name": "Pictaviense/Nannetiensis/Burgundaliensis",
+    "title": "1\u00b0 \u00ab Ex epibus [Calonis] rotulo, ad quum adversur in ecclesia Pictaviensa, multi de ipso dictimissim\u00e6 alinde minime nota: quod nobilis genere esset ac nobilio fide; quod sororem habuerit Belotam, sanctimonialem et priorissam in monasterio Sanctae Mariae de Rivis, quae ipse superstes eius obitum anniversiam flexit lavricis. Ex die obitus ipsius nepotis, eius, Hugo monach\u00e6 Uzerchiensis, alter, Guill\u2026",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Calon",
+        "role": "Bishop of Poitiers",
+        "dates": "d. 1157"
+      },
+      {
+        "name": "Belota",
+        "role": "prioress",
+        "dates": ""
+      },
+      {
+        "name": "Hugues",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Guillaume",
+        "role": "clerk",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1827,
+    "location_name": "Pictaviensi",
+    "title": "2\u00b0 \u00ab Rainaudus, Bartholomaeus et Petrus, abbates alumni ante annum 1157, quippe qui commemoratur in rotulo Calonis, episcopi Pictavensi, \u00bb ",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Rainaud",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Bartholomew",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Calon",
+        "role": "bishop of Poitiers",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

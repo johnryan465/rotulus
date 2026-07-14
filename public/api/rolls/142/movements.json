@@ -1,0 +1,215 @@
+[
+  {
+    "titulus_id": 1761,
+    "location_name": null,
+    "title": "10",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gilbert de la Porr\u00e9e",
+        "role": "bishop",
+        "dates": "d. 1154"
+      },
+      {
+        "name": "Laurent",
+        "role": "bishop of Poitiers",
+        "dates": "1159-1161"
+      },
+      {
+        "name": "Gilbert de la Porr\u00e9e",
+        "role": "master/bishop",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1762,
+    "location_name": null,
+    "title": "I",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  },
+  {
+    "titulus_id": 1763,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gislebert",
+        "role": "bishop/abbot",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 1764,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Savior",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 1765,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Spouse",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Daughter of the King",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hilary",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ambrose",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "   {",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 1766,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Anastasius",
+        "role": "",
+        "dates": "died 1155"
+      },
+      {
+        "name": "Lucius",
+        "role": "Pope",
+        "dates": ""
+      },
+      {
+        "name": "Henry",
+        "role": "King of the Franks",
+        "dates": ""
+      },
+      {
+        "name": "Geoffrey",
+        "role": "Archbishop of Bordeaux",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "Bishop",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "Bishop",
+        "dates": ""
+      },
+      {
+        "name": "H\u00e9lie",
+        "role": "Bishop",
+        "dates": ""
+      }
+    ],
+    "step": 5
+  },
+  {
+    "titulus_id": 1767,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 6
+  },
+  {
+    "titulus_id": 1768,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Paul",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Pavia",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 7
+  },
+  {
+    "titulus_id": 1769,
+    "location_name": "S. Aubin d\u2019Angers",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": "1127-1154"
+      },
+      {
+        "name": "Ambrose",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Girard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Hugh of Cleves",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "abbot",
+        "dates": "died 1154"
+      }
+    ],
+    "step": 8
+  }
+]

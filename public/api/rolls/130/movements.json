@@ -1,0 +1,1898 @@
+[
+  {
+    "titulus_id": 1656,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Caesar",
+        "role": "Emperor/Leader",
+        "dates": ""
+      },
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1657,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Durand de Bredons",
+        "role": "abbot",
+        "dates": "1048 to 1072/1073"
+      },
+      {
+        "name": "Gregorious of Aster",
+        "role": "abbot and bishop",
+        "dates": ""
+      },
+      {
+        "name": "Boson",
+        "role": "bishop or abbot",
+        "dates": ""
+      },
+      {
+        "name": "Saint Solutor",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Boson",
+        "role": "abbot",
+        "dates": "died 1137"
+      },
+      {
+        "name": "U. Gherner",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Artmanus",
+        "role": "",
+        "dates": "reigned until 1098"
+      },
+      {
+        "name": "Anselmus II",
+        "role": "",
+        "dates": "reigned from 1137"
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 1658,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 2
+  },
+  {
+    "titulus_id": 1659,
+    "location_name": "Sausam",
+    "title": "[I]\n<........> Qui te dilexi, Sausam, dum bex restit.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Sausam",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 1660,
+    "location_name": "S. Thib\u00e9ry",
+    "title": "[II]\n2 [17] S.d.- S.l.[S. Thib\u00e9ry].\n\u00ab Absolve, Domine, animam famuli tui Bosonis et animas famulorum famularumque tuarum, fratrum nostrum omniumque fidelium defunctorum ab omni 5 vinculo delictorum, ut in resurrectionis gloria inter sanctos et electos tuos resuscitatus sic resist. Per \u00bb (1) Oravimus pro vestro abbate, orate p. n., scilicet Atilio (2) et Deodato (3), Udalgerio (4), Modario (5), abb\u2026",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bosonis",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Atilio",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Deodato",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Udalgerio",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Modario",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Raimundo de Calmis",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Petro Riberis",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Petro de Beciano",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Deodato Passer",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Dalmacio",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Bertrando",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 1661,
+    "location_name": "Cassan, N.-D.",
+    "title": "3 [18] S.d.- Cassan, N.-D.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 5
+  },
+  {
+    "titulus_id": 1662,
+    "location_name": "B\u00e9ziers",
+    "title": "4 [19] S.d.- B\u00e9ziers, S. Pierre, S. Paul, S. Aphrodise, S. Caralipus, S. Agape, S. Eus\u00e8be.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "S. Pierre",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "S. Paul",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "S. Aphrodise",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "S. Caralipus",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "S. Agape",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "S. Eus\u00e8be",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 6
+  },
+  {
+    "titulus_id": 1663,
+    "location_name": "S.-Arnaud, archev\u00eaque de Narbonne.",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Arnald",
+        "role": "Archbishop of Narbonne and papal legate",
+        "dates": ""
+      },
+      {
+        "name": "Boson",
+        "role": "Abbot",
+        "dates": ""
+      }
+    ],
+    "step": 7
+  },
+  {
+    "titulus_id": 1664,
+    "location_name": "Toulouse, cath\u00e9drale (S. \u00c9tienne)",
+    "title": "6 [21] S.d.\u2013 Toulouse, cath\u00e9drale (S. \u00c9tienne).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Triflus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Boson",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Saint Stephen",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 8
+  },
+  {
+    "titulus_id": 1665,
+    "location_name": "Toulouse, S. Gernin",
+    "title": "7 [22] S.d.\u2013 Toulouse, S. Gernin.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Saturninus",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 9
+  },
+  {
+    "titulus_id": 1666,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 10
+  },
+  {
+    "titulus_id": 1667,
+    "location_name": "Tholosa Deauratae",
+    "title": "TITULUS SANCT\u00c6 MARI\u00c6 THOLOS\u00c6 DEAURAT\u00c6.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Boson",
+        "role": "Lord/Domnus",
+        "dates": ""
+      },
+      {
+        "name": "Boso",
+        "role": "pastor/monk leader",
+        "dates": ""
+      }
+    ],
+    "step": 11
+  },
+  {
+    "titulus_id": 1668,
+    "location_name": "S. P\u00e9-de-Bigorre, S. P\u00e9-de-Gen\u00e9r\u00e8s",
+    "title": "T. SANCTI PETRI GENERENSIS.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Judas",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Boso",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 12
+  },
+  {
+    "titulus_id": 1669,
+    "location_name": "Bigorre",
+    "title": "10 [26] S.d.- Carri\u00f3n (de los Condes), S. Zoilo.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gregory",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "normalized_dates/': '', ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 13
+  },
+  {
+    "titulus_id": 1670,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Paul",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Satan",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Leviathan",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 14
+  },
+  {
+    "titulus_id": 1671,
+    "location_name": "S. Geny",
+    "title": "12 [28] S.d.- [Lectoure,] S. Geny.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 15
+  },
+  {
+    "titulus_id": 1672,
+    "location_name": "Moissac",
+    "title": "13 [29] S.d.- Moissac.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boson",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ansquillius",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Helias",
+        "role": "sacristan",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "armarius",
+        "dates": ""
+      },
+      {
+        "name": "Arnold",
+        "role": "cellarer",
+        "dates": ""
+      },
+      {
+        "name": "Arnold",
+        "role": "worker",
+        "dates": ""
+      },
+      {
+        "name": "Archambald",
+        "role": "almoner",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "William Bonabraget",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Garrison",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Seguin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Garsind",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 16
+  },
+  {
+    "titulus_id": 1673,
+    "location_name": "Conhensis",
+    "title": "T. CONCHENSIS.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boso",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 17
+  },
+  {
+    "titulus_id": 1674,
+    "location_name": "Calmiensis Cenobii",
+    "title": "T. SANCTI OEHTFREDI CALMIENSIS CENOBII.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boso",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Jarentent",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guido",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ponce",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Eberardo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Pierre",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Pierre",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Umbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guillaume",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gauthier",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Arimand",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Jarentent",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Guillaume",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Henri",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 18
+  },
+  {
+    "titulus_id": 1675,
+    "location_name": "Mari\u00e6 Anienciensis Ecclesi\u00e6",
+    "title": "TITULUS GLORIOSISSIME SEMPER VIRGINIS, DEI GENITRICIS, MARI\u00c6 ANIENCIENSIS ECCLESI\u00c6.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boso",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Secusinesos",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 19
+  },
+  {
+    "titulus_id": 1676,
+    "location_name": "S. Pierre[-de-la-Tour]",
+    "title": "17 [33] S.d.- Le Puy, S. Pierre[-de-la-Tour].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boso",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 20
+  },
+  {
+    "titulus_id": 1677,
+    "location_name": "La Chaise-Dieu",
+    "title": "18 [34] S.d.- La Chaise-Dieu.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boso",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 21
+  },
+  {
+    "titulus_id": 1678,
+    "location_name": "S.-Germin[l'Herm]",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Durand",
+        "role": "abbot",
+        "dates": "1067-1078"
+      },
+      {
+        "name": "Seguin d'Escotay",
+        "role": "abbot",
+        "dates": "1078-1094"
+      },
+      {
+        "name": "Pona de Tournon",
+        "role": "abbot",
+        "dates": "1094-1122"
+      },
+      {
+        "name": "Umbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Garnier",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Stephen",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 22
+  },
+  {
+    "titulus_id": 1679,
+    "location_name": "Celsiniacus",
+    "title": "TITULUS SANCTORUM APOSTOLORUM PETRI ET PAULI ET SANCTI JOHANNIS AEVANGELIST\u00c6 CENOBII (c) Celsiniacensis (b)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boso",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Bertrand",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gauzbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Artman",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Maurice",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Odilo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Stephen",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Artman",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "count/comite",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Geraldo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "John",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Stephen",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bertrand",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Godfrey",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Reginald",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wido",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 23
+  },
+  {
+    "titulus_id": 1680,
+    "location_name": "Manglieu",
+    "title": "21 [37] S.d.- Manglieu, S. S\u00e9bastien.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boso",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Odilo",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Albert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Aimon",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Maurice",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 24
+  },
+  {
+    "titulus_id": 1681,
+    "location_name": "Issoire, Saint-Austremoine",
+    "title": "[VII] TITULUS (c) SANCTI (e) AUSTREMONII YCIODORENSIS (e) CENOBII.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boso",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Boso",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Pontius",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Robertus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Stephanus",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Guido",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Bertram",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Bernardus",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Mauricius",
+        "role": "prior",
+        "dates": ""
+      }
+    ],
+    "step": 25
+  },
+  {
+    "titulus_id": 1682,
+    "location_name": "Clermont",
+    "title": "23 [40] S.d.- Clermont, S. Allyre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Illidius",
+        "role": "bishop",
+        "dates": ""
+      },
+      {
+        "name": "Boson",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 26
+  },
+  {
+    "titulus_id": 1683,
+    "location_name": "Mozac",
+    "title": "24 [41] S.d.- Mozac, S. Austroemoine.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boson",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Arnald",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wido Emblafra",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Attalus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Aimon",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Aimon",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Durans",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Emma",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 27
+  },
+  {
+    "titulus_id": 1684,
+    "location_name": "Corbigny; S. Pierre; S. Paul; S. L\u00e9onard",
+    "title": "29 [46] S.d.- Corbigny, S. Pierre, S. Paul, S. L\u00e9onard.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "Apostle",
+        "dates": ""
+      },
+      {
+        "name": "Paul",
+        "role": "Apostle",
+        "dates": ""
+      },
+      {
+        "name": "Leonard",
+        "role": "Saint",
+        "dates": ""
+      }
+    ],
+    "step": 28
+  },
+  {
+    "titulus_id": 1685,
+    "location_name": null,
+    "title": "Versus. Morte pia justus moritur, sed iniquus iniqua. Nam justus transit, quo gloria emerat.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 29
+  },
+  {
+    "titulus_id": 1686,
+    "location_name": "SILVINACENSIS",
+    "title": "TITULUS SANCTI PETRI SANCTI MAIOLI SILVINACENSIS. Anima domni Bosonis abbatis et anime o. f. d. r. i. p. Oravimus p. v., orate p. n., scilicet dunno Francone (1) abbate, Gaufrido (2) priore nostro, Stephano, Petro, Stephano, David, Petro, Stephano, Benedicto, Bladino.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boso",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Franco",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Geoffrey",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Stephen",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "David",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Benedict",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bladin",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 30
+  },
+  {
+    "titulus_id": 1687,
+    "location_name": null,
+    "title": "TITULUS MALguino priore, Raimaldo (d) monacho, Arnulfo monacho; Willelmo monacho, Poncio monacho, Archibaldlo, Willelmo (e) clerico Arnulfo, Petro, Ermengarde, Gondrada. Aureia aliquis omnibus.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Malguin",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Raymond",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Arnulf",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Ponce",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Archibald",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "cleric",
+        "dates": ""
+      },
+      {
+        "name": "Arnulf",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ermengard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gundrada",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 31
+  },
+  {
+    "titulus_id": 1688,
+    "location_name": "RIVIERANI",
+    "title": "TANCTI RIVIERANI. Anima domni Bosonis abbatis et a o. f. d. r. in Christo. Oravimus p. v., orate p. n., scilicet pro (g) Pontio (4) abbate, pro demo Petro priore, Ricardo priore, Leone priore, Gaufrido monacho, Bernardo",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boso",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Ponce",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Richard",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Leo",
+        "role": "prior",
+        "dates": ""
+      },
+      {
+        "name": "Geoffrey",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 32
+  },
+  {
+    "titulus_id": 1689,
+    "location_name": null,
+    "title": "15 monacho. Hugone monacho, Willelmo monacho, Bernardo monacho et pro aliis",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Hugh",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 33
+  },
+  {
+    "titulus_id": 1690,
+    "location_name": "Sulpice",
+    "title": "EX HEREMO SANCTI SULPICII.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boso",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Lord",
+        "role": "God",
+        "dates": ""
+      }
+    ],
+    "step": 34
+  },
+  {
+    "titulus_id": 1691,
+    "location_name": "V\u00e9zelay",
+    "title": "TITULUS SANCT\u00c6 MARI\u00c6 MAGDALEN\u00c6 VIZELACIENSIS.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Artaldo",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Bernon",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Stephen",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Joceran",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "John",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Wido",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Rodulf",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 35
+  },
+  {
+    "titulus_id": 1692,
+    "location_name": "Cluny",
+    "title": "[T]ITULUS [S]ANCTORUM APOSTOLORUM PETRI ET PAULI CLUNIENSIS (9) CENOBI.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Peter",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Paul",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 36
+  },
+  {
+    "titulus_id": 1693,
+    "location_name": "Prin",
+    "title": "10 [IX] T. BEATE MARIE de ospitale (sic) PRI NI.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 37
+  },
+  {
+    "titulus_id": 1694,
+    "location_name": "Rambret",
+    "title": "33 [51] S.d.- Rambret[-en-Bugey].",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Ragnebert",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 38
+  },
+  {
+    "titulus_id": 1695,
+    "location_name": null,
+    "title": "[XII]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Just and Maurus",
+        "role": "saints",
+        "dates": ""
+      },
+      {
+        "name": "God",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 39
+  },
+  {
+    "titulus_id": 1696,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 40
+  },
+  {
+    "titulus_id": 1697,
+    "location_name": "Oulx",
+    "title": "HUMILIS CONVENTUS SANCTI LAURENTII DE PLEBE MARTIRUM ECCLESI\u00c6. Bosoni, Secusienis ecclesi\u0119 defuncto abbati, induimus sacrifitiis (sc) in elemosinis per omnes ecclesias nostras nunc et in \u00e6ternum, quantum possumus et nostrum est largiri, partem societatem concedimus. Nos quoque in tempore obitus sui per spatium XXX$^{a}$ dierum, ut decet fratres, officium suum 10 assidue complevimus.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boson",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 41
+  },
+  {
+    "titulus_id": 1698,
+    "location_name": "Embrun",
+    "title": "T. BEAT\u00c6 MARI\u00c6 EBREDUNENSIS ECCLESIE. Anima ejus requiescat i. p.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 42
+  },
+  {
+    "titulus_id": 1699,
+    "location_name": "Tallard",
+    "title": "ECCLESI\u00c6 (c) SANCTI GREGORII TALARNENSIS. Mors ferit cunctos (d) simul- 15 que devotos ut inimicos. Vestris et nostris de gaudis Conditor orbis. Vivant in \u00e6ternum Regem regendo supernum.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gregory",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 43
+  },
+  {
+    "titulus_id": 1700,
+    "location_name": "Ganogabie",
+    "title": "T. Sanct\u00e6 Mari\u0119 de Podio Canogabi\u00e6 (e) anim\u00e6 (f) domni Bosonis abbatis et anim\u0119 o. f. d. r. i. p. Amen. Orate pro fratribus n., Petro (g) cognomento Trudberto, 20 Petro, Astramudo, Petro, Girardo, Giraldo, Humberto.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Mary",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Boson",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Trudbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Astramundus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hubert",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 44
+  },
+  {
+    "titulus_id": 1701,
+    "location_name": "Aix-en-Provence",
+    "title": "T. Aquensis ecclesi\u0119. Anima ejus requiescat i. p.\nQuidam fratrum ecclesi\u0119 Sancti Salvatoris conventui Secusienusi,\n25 Sic in fine tibi succurrat gloria Christi.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Holy Savior",
+        "role": "saint",
+        "dates": ""
+      }
+    ],
+    "step": 45
+  },
+  {
+    "titulus_id": 1702,
+    "location_name": "Marseille, S. Victor",
+    "title": "41 [6] S.d.- Marseille, S. Victor.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bosonis",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 46
+  },
+  {
+    "titulus_id": 1703,
+    "location_name": "Marseille, cath\u00e9drale (N.-D.)",
+    "title": "42 [7] S.d.- Marseille, cath\u00e9drale (N.-D.).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boso",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "master/god",
+        "dates": ""
+      },
+      {
+        "name": "Raymond",
+        "role": "prelate",
+        "dates": ""
+      }
+    ],
+    "step": 47
+  },
+  {
+    "titulus_id": 1704,
+    "location_name": "Arles, cath\u00e9drale",
+    "title": "43 [8] S.d.- Arles, cath\u00e9drale.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 48
+  },
+  {
+    "titulus_id": 1705,
+    "location_name": "Montjoie-Saint-Pierre",
+    "title": "TITULUS CENOBII SANCTI (e) MARIE ET SANCTI PETRI MONTIS MAJORIS (b).",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boson",
+        "role": "abbot of Secusia",
+        "dates": ""
+      }
+    ],
+    "step": 49
+  },
+  {
+    "titulus_id": 1706,
+    "location_name": "Saint-Gilles",
+    "title": "T. monasterii sancti Aegydii abbatis.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boson",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Berold",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Odilon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Stephen",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Dalmatius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Elbradus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Miles",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hubilin",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Frotardus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hubilotus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Benedict",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Stephen",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Galtherius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Emeneus",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 50
+  },
+  {
+    "titulus_id": 1707,
+    "location_name": "Nemausus",
+    "title": "T. cenobii sanctorum Stephani et Baudili, nemausis martiris. Morem p. v. completivus et ut vos p. n. oretis postulamus, pro demo Duranto (3), Poncio, Umberto, Garnerio, Augerio, Petro, Ugone, Silvio, Bernardo, Benedicto, Poncio, Petro.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Stephen",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Baudilus",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Durant",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Ponce",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Umbert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Garnier",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Auger",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugh",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Silvius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Benedict",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Boso",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Bernard the boy",
+        "role": "son of a viscount",
+        "dates": ""
+      }
+    ],
+    "step": 51
+  },
+  {
+    "titulus_id": 1708,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Raymond",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Boso",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 52
+  },
+  {
+    "titulus_id": 1709,
+    "location_name": null,
+    "title": "[XV] Carta vetus.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boso",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Baudilus",
+        "role": "martyr",
+        "dates": ""
+      },
+      {
+        "name": "Mary",
+        "role": "Virgin Mary",
+        "dates": ""
+      },
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Marcus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 53
+  },
+  {
+    "titulus_id": 1710,
+    "location_name": "Beaumont, S. Pierre",
+    "title": "[XIV] 47 [39] S.d.- Beaumont, S. Pierre.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boson",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Austoria",
+        "role": "abbess",
+        "dates": ""
+      },
+      {
+        "name": "Joanna",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Benaja",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Beatrice",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "count",
+        "dates": ""
+      },
+      {
+        "name": "William",
+        "role": "son of count Robert",
+        "dates": ""
+      },
+      {
+        "name": "Falcon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Beatrice",
+        "role": "wife of William",
+        "dates": ""
+      },
+      {
+        "name": "Goffredo",
+        "role": "son of William and Beatrice",
+        "dates": ""
+      }
+    ],
+    "step": 54
+  },
+  {
+    "titulus_id": 1711,
+    "location_name": "Leire",
+    "title": "[XV] 48 [25] S.d.- Leire.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boson",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 55
+  },
+  {
+    "titulus_id": 1712,
+    "location_name": "Ambronay, N.-D.",
+    "title": "49 [50] S.d.- Ambronay, N.-D. TITULU (sic)(d) SANCT\u00c6 MARI\u00c6 AMBRONIACENSIS ecclesie. Bosoniabbati missas et vigilias et helemosinas, quae facturi sumus alliis fidelibus, condescidem. Oravimus p. v., orate p. n.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boson",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 56
+  },
+  {
+    "titulus_id": 1713,
+    "location_name": "N\u00eemes, cath\u00e9drale",
+    "title": "50 [12] S.d.- N\u00eemes, cath\u00e9drale (N.-D). T. BASILICE beatissime MARIE VIRGINIS NEMAUSINS SEDIS. Anima domni Bosonis abbatis et anim\u00e6 o. f. d., in Christi nomine, semper r. i. p. Oravimus pro domno abbate et vos orate p. n., G.(4) decano, W. de Brociano, P. beate memorie monaca. R. Bernicensi milite. P. milite ceterisque confratribus nostris.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boson",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "G.",
+        "role": "dean",
+        "dates": ""
+      },
+      {
+        "name": "William of Brocchio",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "P.",
+        "role": "nun",
+        "dates": ""
+      },
+      {
+        "name": "R.",
+        "role": "knight",
+        "dates": ""
+      }
+    ],
+    "step": 57
+  },
+  {
+    "titulus_id": 1714,
+    "location_name": "Maguelone, cath\u00e9drale.",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Boson",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 58
+  },
+  {
+    "titulus_id": 1715,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 59
+  }
+]

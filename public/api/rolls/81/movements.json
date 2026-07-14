@@ -1,0 +1,20 @@
+[
+  {
+    "titulus_id": 592,
+    "location_name": null,
+    "title": "1 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 0
+  },
+  {
+    "titulus_id": 593,
+    "location_name": "Fleury",
+    "title": "2 S.d.- Fleury ?",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  }
+]

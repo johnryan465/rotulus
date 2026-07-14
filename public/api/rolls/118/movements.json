@@ -1,0 +1,177 @@
+[
+  {
+    "titulus_id": 1417,
+    "location_name": "Laon, cath\u00e9drale (N.-D.)",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Ingelram",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Walther",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hamon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Drogo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Robert",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 1418,
+    "location_name": "Laon, S. Vincent.",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  },
+  {
+    "titulus_id": 1419,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 2
+  },
+  {
+    "titulus_id": 1420,
+    "location_name": "Blois, S. Laurmer.",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Maurice",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Gauthier",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Raher",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Heim\u00e9ric",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "G\u00e9ry",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Eustorge",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Amalric",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Malger",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Odon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hugo",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  },
+  {
+    "titulus_id": 1421,
+    "location_name": "Bonneval",
+    "title": "5 S.d.-[Bonneval,]S. Florentin.",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 4
+  },
+  {
+    "titulus_id": 1422,
+    "location_name": "Waltham, Holy Cross",
+    "title": "[Iv] 6 S.d.-Waltham, Holy Cross.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Walter",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Harold",
+        "role": "dean",
+        "dates": ""
+      },
+      {
+        "name": "Adalard",
+        "role": "master",
+        "dates": ""
+      },
+      {
+        "name": "Osgoed",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 5
+  },
+  {
+    "titulus_id": 1423,
+    "location_name": "S. Mary",
+    "title": "7 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es (S. Mary).",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 6
+  },
+  {
+    "titulus_id": 1424,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 7
+  }
+]

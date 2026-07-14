@@ -1,0 +1,26 @@
+[
+  {
+    "titulus_id": 799,
+    "location_name": null,
+    "title": "(c.\u00a0c.)",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Maria",
+        "role": "Virgin Mary",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 800,
+    "location_name": null,
+    "title": "(c.\u00a0p.)",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  }
+]

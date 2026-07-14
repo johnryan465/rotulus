@@ -1,0 +1,37 @@
+[
+  {
+    "titulus_id": 78,
+    "location_name": "Auxerre, cath\u00e9drale (S. \u00c9tienne)",
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gozbert",
+        "role": "dean",
+        "dates": ""
+      },
+      {
+        "name": "Saint \u00c9tienne d'Auxerre",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 79,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gozbert",
+        "role": "dean",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

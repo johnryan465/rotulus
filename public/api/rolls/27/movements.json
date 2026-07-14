@@ -1,0 +1,32 @@
+[
+  {
+    "titulus_id": 45,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bernardo",
+        "role": "decanus",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 46,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bernardo",
+        "role": "decanus",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

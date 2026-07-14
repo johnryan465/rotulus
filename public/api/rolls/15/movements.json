@@ -1,0 +1,26 @@
+[
+  {
+    "titulus_id": 22,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 0
+  },
+  {
+    "titulus_id": 23,
+    "location_name": null,
+    "title": "16",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Sinthertus",
+        "role": "bishop and abbot",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  }
+]

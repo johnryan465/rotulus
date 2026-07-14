@@ -1,0 +1,82 @@
+[
+  {
+    "titulus_id": 126,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Arbode",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 127,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Martin",
+        "role": "Saint",
+        "dates": ""
+      },
+      {
+        "name": "Gausbert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 128,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Arbode",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Gerard",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  },
+  {
+    "titulus_id": 129,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Martin of Tours",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Gausbert",
+        "role": "abbot",
+        "dates": ""
+      }
+    ],
+    "step": 3
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "titulus_id": 210,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Jesus Christ",
+        "role": "saint",
+        "dates": ""
+      },
+      {
+        "name": "Daniel",
+        "role": "priest",
+        "dates": ""
+      },
+      {
+        "name": "Odo",
+        "role": "lay brother",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "lay brother",
+        "dates": ""
+      },
+      {
+        "name": "Udalgarius",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Francus",
+        "role": "monk",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

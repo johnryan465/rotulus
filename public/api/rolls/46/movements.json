@@ -1,0 +1,164 @@
+[
+  {
+    "titulus_id": 84,
+    "location_name": null,
+    "title": "Texte \u00e9dit\u00e9 d'apr\u00e8s a.",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Christ",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Apostle",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 85,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Aetleldreda",
+        "role": "queen",
+        "dates": ""
+      }
+    ],
+    "step": 1
+  },
+  {
+    "titulus_id": 86,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 2
+  },
+  {
+    "titulus_id": 87,
+    "location_name": null,
+    "title": "locum",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 3
+  },
+  {
+    "titulus_id": 88,
+    "location_name": "Beaulieu-sur-Dordogne",
+    "title": "1 23 ...",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Diedni trucis",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 4
+  },
+  {
+    "titulus_id": 89,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Bernard",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 5
+  },
+  {
+    "titulus_id": 90,
+    "location_name": "Aurillac",
+    "title": "3 [IV]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Dominus",
+        "role": "God",
+        "dates": ""
+      }
+    ],
+    "step": 6
+  },
+  {
+    "titulus_id": 91,
+    "location_name": "Moissac",
+    "title": "[I]",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Jesus Christ",
+        "role": "Lord",
+        "dates": ""
+      },
+      {
+        "name": "Gauzbert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Gilbert",
+        "role": "abbot",
+        "dates": ""
+      },
+      {
+        "name": "Arnold",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Avitus",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Bernold",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Bernard",
+        "role": "monk",
+        "dates": ""
+      },
+      {
+        "name": "Hugo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Aigarnus",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 7
+  },
+  {
+    "titulus_id": 92,
+    "location_name": "Ripoll",
+    "title": "4 S.-d.- Ripoll",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 8
+  }
+]

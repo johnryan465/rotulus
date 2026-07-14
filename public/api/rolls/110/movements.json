@@ -1,0 +1,32 @@
+[
+  {
+    "titulus_id": 1073,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Gregory",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Milo",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Simon",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Peter",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  }
+]

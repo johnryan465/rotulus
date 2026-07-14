@@ -1,0 +1,46 @@
+[
+  {
+    "titulus_id": 36,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Amand",
+        "role": "",
+        "dates": ""
+      }
+    ],
+    "step": 0
+  },
+  {
+    "titulus_id": 37,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [],
+    "step": 1
+  },
+  {
+    "titulus_id": 38,
+    "location_name": null,
+    "title": "",
+    "date": null,
+    "date_display": null,
+    "entities": [
+      {
+        "name": "Saint Richard",
+        "role": "",
+        "dates": ""
+      },
+      {
+        "name": "Hrodulf",
+        "role": "count",
+        "dates": ""
+      }
+    ],
+    "step": 2
+  }
+]
