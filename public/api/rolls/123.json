@@ -1,0 +1,94 @@
+{
+  "roll": {
+    "id": 123,
+    "roll_num": 120,
+    "date_str": "S.d. [avant le 11 septembre 1123 (1)]",
+    "title": "Marbode, \u00e9v\u00eaque de Rennes : \u00ab Ad nutium mortis \u00bb.",
+    "manuscripts": "10 A. Original perdu.",
+    "pdf_source": "3",
+    "pdf_pages": "82",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1428,
+      "roll_id": 123,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Ad nutium mortis.\nBubo ferum nomen, dirum mortalibus omen,\nUt Maro testatur, dum cantat, fata minatur.\nIllius cantum damn\u0101t genus omnne volantum,\nAtque pari voto scelus hoc fugat aero teie.\nNoctes ergo colit, cum lucis tempora nolint,\nNoctibus appareat, quoniam si luce volaret,\nJam caput invismu molto foret ungue recisum\nMembraque cum plumis divisaque sparsaque dumis,\nCarpere pennata cupientibus omnia vatis,\nVatis tam dirae, dignae mala fata subire.\nHuic volupti foedae simul, procul ergo recede,\nChartae funebris lator, damnande tenebris,\nQui vice bonibus non unquam laeta reponis,\nSemper moesta canis non discussurus inanis :",
+      "pdf_page": 82,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 5993,
+          "titulus_id": 1428,
+          "original_name": "Maro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Marinus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1429,
+      "roll_id": 123,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Hec est amice confederationis societas inter ecclesiam Beati Petri de Cultura et ecclesiam\nBeati Petri Andegavensis. Siquidem omnium fratrum suorum infra annam orbitam defuncto-\nrum in festo Beati Albini, quos pridie kl. julii, nobis brevem transmittent ... Similiter\nfacient illi nostri ... et in festivitate beati Juliani breve nostrum eis transmittemus ...\n5 Breviger vero de Cultura, quando ad nos veniet, duodecim denarios andegavenses\nhabebit et breviger noster totidem habebit apud illos...",
+      "pdf_page": 82,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 5994,
+          "titulus_id": 1429,
+          "original_name": "Beati Petri",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 5995,
+          "titulus_id": 1429,
+          "original_name": "Beati Albini",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Albin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 5996,
+          "titulus_id": 1429,
+          "original_name": "beati Juliani",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Julian",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 1646,
+      "roll_id": 123,
+      "pdf_page": 82,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Cette date est celle de la mort de Marbode."
+    }
+  ]
+}

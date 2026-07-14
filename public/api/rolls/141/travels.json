@@ -1,0 +1,71 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": null,
+    "date_str": "S. d.",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) d'\u00c8bles de Turenn..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Tulle",
+    "coords": null,
+    "year": null,
+    "date_str": "S. d.",
+    "is_approximate": true,
+    "description": "\u00c9bles de Turenne (abbot)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Montmartre, S. Denis",
+    "coords": null,
+    "year": null,
+    "date_str": "S. d.",
+    "is_approximate": true,
+    "description": "Titulus Header: Montmartre, S. Denis"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": null,
+    "date_str": "S. d.",
+    "is_approximate": false,
+    "description": "Radegund (saint)"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Chartres, France",
+    "coords": [
+      48.4472,
+      1.4875
+    ],
+    "year": null,
+    "date_str": "S. d.",
+    "is_approximate": false,
+    "description": "Haemerius (canon)"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "S. Maur-des-Foss\u00e9s, S. Pierre",
+    "coords": null,
+    "year": null,
+    "date_str": "S. d.",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Maur-des-Foss\u00e9s, S. Pierre"
+  }
+]

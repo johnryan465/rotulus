@@ -1,0 +1,66 @@
+{
+  "roll": {
+    "id": 91,
+    "roll_num": 87,
+    "date_str": "S.d.[1097, apr\u00e8s le 17 janvier]",
+    "title": "Rouleau mortuaire de G\u00e9raud, abb\u00e9 de Montierneuf (\u2020 17 janvier 1097, n. st.).",
+    "manuscripts": "Document perdu (4), mentionn\u00e9 dans le titre de Baudri de Bourgueil pour le rouleau mortuaire d'Audebert, archev\u00eague de Bourges (5). G\u00e9raud, abb\u00e9 de Montierneuf, mourut le 17 janvier 1097 (n. st.) (6).",
+    "pdf_source": "2",
+    "pdf_pages": "41",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 787,
+      "roll_id": 91,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Nimirum, patri plus quam vobis doluistis.\nNec (a) mirum lacrimas extorsit viscus amoris.\nSed cadat iste dolor : Deus est medicina doloris.\nPatri consulite pia pro patre vota movendo (b)\nNecnon et vobis jam de patre substituendo.",
+      "pdf_page": 41,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 947,
+      "roll_id": 91,
+      "pdf_page": 41,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "Ce vers, oubli\u00e9, a \u00e9t ajout\u00e9 en marge par la main du texte B. \u2013 (b) vivendo corrig\u00e9 en ovogendo par exfontuation du i et addition du o en interligne B."
+    },
+    {
+      "id": 948,
+      "roll_id": 91,
+      "pdf_page": 41,
+      "pdf_half": "right",
+      "footnote_num": "b",
+      "text": ""
+    },
+    {
+      "id": 944,
+      "roll_id": 91,
+      "pdf_page": 41,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": ""
+    },
+    {
+      "id": 945,
+      "roll_id": 91,
+      "pdf_page": 41,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": ""
+    },
+    {
+      "id": 946,
+      "roll_id": 91,
+      "pdf_page": 41,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": ""
+    }
+  ]
+}

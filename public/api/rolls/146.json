@@ -1,0 +1,150 @@
+{
+  "roll": {
+    "id": 146,
+    "roll_num": 143,
+    "date_str": "S. d. [1157, apr\u00e8s le 4 novembre]",
+    "title": "Rouleau mortuaire de Calon, \u00e9v\u00eaque de Poitiers (\u2020 4 novembre 1157). \nCalon, archidiacre de Thouars, a succ\u00e9d\u00e9 \u00e0 Gilbert de La Porr\u00e9e comme \u00e9v\u00eaque de Poitiers de 1155 \u00e0 1157 ; il est fort mal connu (\u00b9). \nGr\u00e2ce \u00e0 deux mentions du Gallia christiana (t. II, col. 1179 et 143), on sait que le rouleau mortuaire mis en circulation pour Calon, aujourd'hui perdu (\u00b2) \u00e9tait encore au XVIIIe s. \nElles font \u00e9tat de l'origine \u2014 de ce personnage, ainsi que de divers membres de sa famille, de sa s\u0153ur Belota, prieure de N.-D. de Rives, et de ses neveux, Hugues, moine d'Uzerche, et Guillaume, clerc de l'\u00e9glise de Nantes. Du coup, elles semblent indiquer que des titres furent appos\u00e9s, entre 10 et 12, par l'\u00e9v\u00eaque de Bordeaux, par l'\u00e9glise de Massay et, sans doute, par l'\u00e9glise de Clermont :",
+    "manuscripts": "",
+    "pdf_source": "4",
+    "pdf_pages": "74",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1826,
+      "roll_id": 146,
+      "title": "1\u00b0 \u00ab Ex epibus [Calonis] rotulo, ad quum adversur in ecclesia Pictaviensa, multi de ipso dictimissim\u00e6 alinde minime nota: quod nobilis genere esset ac nobilio fide; quod sororem habuerit Belotam, sanctimonialem et priorissam in monasterio Sanctae Mariae de Rivis, quae ipse superstes eius obitum anniversiam flexit lavricis. Ex die obitus ipsius nepotis, eius, Hugo monach\u00e6 Uzerchiensis, alter, Guillemus dictus, clericus, ut videetur, ecclesie Nannetiensis, Calonem clerici militiae addictum in ecclesia Burgundaliensis putamus; quae videlet ipsum filium sua alia haec haberent in ejus commendationem non spernda: 'Iipso die sui obitus triginta pauperes pavimus, necnon unum pauperem assidue passcum, quod ipse adhuc vivens a nobis inter plura poposcit.' ",
+      "location_name": "Pictaviense/Nannetiensis/Burgundaliensis",
+      "latin_text": "Ex epibus [Calonis] rotulo, ad quum adversur in ecclesia Pictaviensa, multi de ipso dictimissim\u00e6 alinde minime nota: quod nobilis genere esset ac nobilio fide; quod sororem habuerit Belotam, sanctimonialem et priorissam in monasterio Sanctae Mariae de Rivis, quae ipse superstes eius obitum anniversiam flexit lavricis. Ex die obitus ipsius nepotis, eius, Hugo monach\u00e6 Uzerchiensis, alter, Guillemus dictus, clericus, ut videetur, ecclesie Nannetiensis, Calonem clerici militiae addictum in ecclesia Burgundaliensis putamus; quae videlet ipsum filium sua alia haec haberent in ejus commendationem non spernda: 'Iipso die sui obitus triginta pauperes pavimus, necnon unum pauperem assidue passcum, quod ipse adhuc vivens a nobis inter plura poposcit.' ",
+      "pdf_page": 74,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7436,
+          "titulus_id": 1826,
+          "original_name": "Calonis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Calon",
+          "normalized_role": "Bishop of Poitiers",
+          "normalized_dates": "d. 1157",
+          "location_name": "Poitiers"
+        },
+        {
+          "id": 7437,
+          "titulus_id": 1826,
+          "original_name": "Belotam",
+          "original_title": "priorissam in monasterio Sanctae Mariae de Rivis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Belota",
+          "normalized_role": "prioress",
+          "normalized_dates": "",
+          "location_name": "Rives"
+        },
+        {
+          "id": 7438,
+          "titulus_id": 1826,
+          "original_name": "Hugo",
+          "original_title": "monach\u00e6 Uzerchiensis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugues",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": "Uzerche"
+        },
+        {
+          "id": 7439,
+          "titulus_id": 1826,
+          "original_name": "Guillemus",
+          "original_title": "clericus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillaume",
+          "normalized_role": "clerk",
+          "normalized_dates": "",
+          "location_name": "Nantes"
+        }
+      ]
+    },
+    {
+      "id": 1827,
+      "roll_id": 146,
+      "title": "2\u00b0 \u00ab Rainaudus, Bartholomaeus et Petrus, abbates alumni ante annum 1157, quippe qui commemoratur in rotulo Calonis, episcopi Pictavensi, \u00bb ",
+      "location_name": "Pictaviensi",
+      "latin_text": "Rainaudus, Bartholomaeus et Petrus, abbates alumni ante annum 1157, quippe qui commemoratur in rotulo Calonis, episcopi Pictavensi, ",
+      "pdf_page": 74,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7440,
+          "titulus_id": 1827,
+          "original_name": "Rainaudus",
+          "original_title": "abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rainaud",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7441,
+          "titulus_id": 1827,
+          "original_name": "Bartholomaeus",
+          "original_title": "abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bartholomew",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7442,
+          "titulus_id": 1827,
+          "original_name": "Petrus",
+          "original_title": "abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7443,
+          "titulus_id": 1827,
+          "original_name": "Calonis",
+          "original_title": "episcopi Pictavensi",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Calon",
+          "normalized_role": "bishop of Poitiers",
+          "normalized_dates": "",
+          "location_name": "Poitiers"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 2233,
+      "roll_id": 146,
+      "pdf_page": 74,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "A son sujet, cf. Gallia christiana, t. II, col. 1179 ; N. M. H\u00e4ring, \u00ab Bischof Gilbert II. von Poitiers (1142-1154) und seine Eradikone \u00bb, dans Deutsches Archiv f\u00fcr Erforschung des Mittelalters, t. 21, 1965, p. 153, 170."
+    },
+    {
+      "id": 2234,
+      "roll_id": 146,
+      "pdf_page": 74,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Cf. L. Delisle, Rouleaux des morts du IXe au XVe s., p. 370, n\u00b0 LI; G. Zappert, Verbindungsb\u00fccher II, p. 25, n. 102."
+    }
+  ]
+}

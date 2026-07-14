@@ -1,14 +1,102 @@
 {
   "roll": {
     "id": 43,
-    "roll_num": "80",
-    "date_str": "S.d.",
-    "title": "S.d [1089 ,  apr\u00e8s le 28 mai] Rouleau , mortuaire de Lanfranc; ' archev\u00eaque , 20 de Rouleau Canterbury mortuaire perdu (t 28 mai 1089 )  mentionp\u00e9 par Orderic ` Beccensis Vital autem dans - son Anselmus Historia memoriam heroico , ecclesiastica carmine suprascriptam volumini ' Jacrimabiliter  compatriotae 'indidit. sui [Lanfranci] Doyen de la moine cath\u00e9drale de S. Trinit\u00e9 C de du-Mont Rouen, de puis est abb\u00e9 en 1054 ; \u00e0 Rouen, compter dont i] de cf. Beatriz,  cette charge 1059,= il cumule Anselme, ' femme avec celle dabb\u00e9 L de meurt en 1078, du p 137, II, p Robert, soit le Tr\u00e9port - il n. ] . 494 comte Cf 25 janvier; soit le 18 L. dEu Gallia Cf,  Delisle, 6 christiana, V L. XI, ayril L Gazeau, col 125 au XV\" Delisle, I op. cit., Abb\u00e9s b\u00e9n\u00e9dictins, et 248 = 288. 823 P 137 , Rouleaux _ p 209 et 287 - \u00c9d, M. n? XXIV. des morts tory of Chibnall , du IX P Orderic 170. The Vitalis, ecclesiastical Oxford, t his- IV, 1973 [1076]",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "37",
+    "roll_num": 48,
+    "date_str": "S.d.[965-985]",
+    "title": "Rouleau mortuaire (fragmentaire) anonyme, probablement de S. Martial de Limoges.",
+    "manuscripts": "A. Paris, B. N. F., lat. 2394 A, fol. 250. Parchemin (gris\u00e2tre). Un fragment (rogn\u00e9) opisthographe.\nLongeur: 18 cm; largeur: 31,5 cm.\na. L. Delisle, Rouleaux des morts du IX\u00ba au XV\u00ba s., p. 12, n\u00ba VIII, d'apr\u00e8s A.\nLe ss. Paris, B. N. F., lat. 2394 A provient de S. Martial de Limoges (1) et le fragment, utilis\u00e9 comme feuille de garde, a vraisemblablement la m\u00eame origine.",
+    "pdf_source": "1",
+    "pdf_pages": "30",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": []
+  "tituli": [
+    {
+      "id": 76,
+      "roll_id": 43,
+      "title": "1 9 mai... - Poitiers, S. Hilaire.",
+      "location_name": "Poitiers",
+      "latin_text": "<..................> de qua morte ad vitam, a corruptione ad incorruptionem existit transitus. Qua spedia fiducia, frates amabiles, vos animorum relevatos fieri exultantes, vester signimanicus dilectionis horum bajulum <...> VII idus mai valvas attingisse illius ipsiusque egregii Hylarii fama super haecra noti, luciferine inter reliqua estra fulgentes <..................>",
+      "pdf_page": 30,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 231,
+          "titulus_id": 76,
+          "original_name": "Hylarii",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hilaire",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Poitiers"
+        },
+        {
+          "id": 232,
+          "titulus_id": 76,
+          "original_name": "Hylarii fama",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hilaire",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "roll_id": 43,
+      "title": "2 S.d.- Auxerre, S. Germain.",
+      "location_name": "Auxerre",
+      "latin_text": "<..................> eum tradidit, qui simpla morte sua nos liberavit a dupla. hac igitur conditione coacti hac ivomem mutus quia dirigendis geminas. Il nonas juli vestre sanctitatis suscipere litteras, et atque vestre legationis mandato, pratellare studuimus ineffabilem Clementim altiformi officiis, ut, expati clunacum scelerum maculis, mearentur perfrui celibustis gaudios. Noverit denique nostri loci, fundati propter memoria Autrice urbis, in honore beati Germani, egregii Christi confessoris, Ayri-",
+      "pdf_page": 30,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 233,
+          "titulus_id": 77,
+          "original_name": "Clementim",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Cl\u00e9ment",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 234,
+          "titulus_id": 77,
+          "original_name": "Germani",
+          "original_title": "beati ... confessoris",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Germain",
+          "normalized_role": "confessor",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 178,
+      "roll_id": 43,
+      "pdf_page": 30,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Cf. B. N. Catalogue g\u00e9n\u00e9ral des manuscrits latins, t. II, p. 442; D. Garbot-Chopin, La d\u00e9coration des manuscrits..., p. 198."
+    },
+    {
+      "id": 179,
+      "roll_id": 43,
+      "pdf_page": 30,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Cf. Gallia christiana, t. XII, col. 376."
+    }
+  ]
 }

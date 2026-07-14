@@ -1,0 +1,419 @@
+{
+  "roll": {
+    "id": 118,
+    "roll_num": 115,
+    "date_str": "S. d. [1115, apr\u00e8s ao\u00fbt]",
+    "title": "Rouleau mortuaire (fragmentaire) de Turgot, \u00e9v\u00eaque de S. Andreus (\u2020 31 ao\u00fbt 1115).",
+    "manuscripts": "A. London, British Library, Harley 491 \u00b2 (fol. 47 et 48 \u00b2). Deux fragments opisthographes, bien conserv\u00e9s pour le c. m., mais tr\u00e8s m\u00e9diocrement pour le c. p., d'une longueur totale de 34,5 cm, d'une largeur (l\u00e9g\u00e8rement rogn\u00e9e) de 12 cm :\n- I : fol. 47 : Parchemin (assez \u00e9pais ; c. c. gris\u00e2tre ; c. p. jaun\u00eatre). Longueur, 17 cm ; largeur, 12 cm ;\n- II : fol. 48 : Parchemin (assez \u00e9pais ; c. c. gris\u00e2tre ; c. p. jaun\u00eatre). Longueur, 17/17,5 cm ; largeur, 12 cm.\na. J. Harrison, Turgot of Durham.",
+    "pdf_source": "3",
+    "pdf_pages": "78,79",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1417,
+      "roll_id": 118,
+      "title": "",
+      "location_name": "Laon, cath\u00e9drale (N.-D.)",
+      "latin_text": "TITULUS SANCTAE MARIE LAUDUNENSIS ECCLESIAE. A. o. f. d. r. i.\np. Amen. Orate p. n., Ingerlanmo, Waldrico, Haimone, [D]rogone, Roberto,\nHugone.\nDic mihi, dives homo, quid vana laude superbis,\nNon tibi vita datur que suis revocabilis herbis (a).\nOmne, quod est mundo, velut umbra fugit pereund[o].\nNam quod laudatur, transit, perit, adnichilatur.",
+      "pdf_page": 79,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 5966,
+          "titulus_id": 1417,
+          "original_name": "Ingerlanmo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ingelram",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5967,
+          "titulus_id": 1417,
+          "original_name": "Waldrico",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Walther",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5968,
+          "titulus_id": 1417,
+          "original_name": "Haimone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hamon",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5969,
+          "titulus_id": 1417,
+          "original_name": "[D]rogone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Drogo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5970,
+          "titulus_id": 1417,
+          "original_name": "Roberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5971,
+          "titulus_id": 1417,
+          "original_name": "Hugone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1418,
+      "roll_id": 118,
+      "title": "",
+      "location_name": "Laon, S. Vincent.",
+      "latin_text": "TITULUS SANCTI VINCENTII LAU[DUNENSIS]...",
+      "pdf_page": 79,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1419,
+      "roll_id": 118,
+      "title": "",
+      "location_name": "",
+      "latin_text": "T[itulu]s Sancti Laudi <.......>.\nNig-[... ]s et species et suntia gloria ponp\n<...> forent fir[m]ja quos fallunt sede tenerent\nSed quia fluxa (b) fluunt et corum mansio nulla.\nHinc inte, sit nobis mansio Christus. Amen.",
+      "pdf_page": 79,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1420,
+      "roll_id": 118,
+      "title": "",
+      "location_name": "Blois, S. Laurmer.",
+      "latin_text": "TITULUS SANCTI LAUNO[M] AJRI BLESIS. Anima ejus requiascat i. p. Orate p. n., Mauricio abbate, Gauterio, Raherio, Heimerc[o], <...>gerio, Eustorgio, Amalric[o] (c), Malgerio, Odone, [H]ugone, Willeldo, Guittramo, H[u]berto, Hamel[-]",
+      "pdf_page": 79,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 5972,
+          "titulus_id": 1420,
+          "original_name": "Mauricio",
+          "original_title": "abbate",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Maurice",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5973,
+          "titulus_id": 1420,
+          "original_name": "Gauterio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gauthier",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5974,
+          "titulus_id": 1420,
+          "original_name": "Raherio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Raher",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5975,
+          "titulus_id": 1420,
+          "original_name": "Heimerc[o]",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Heim\u00e9ric",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5976,
+          "titulus_id": 1420,
+          "original_name": "<...>gerio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "G\u00e9ry",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5977,
+          "titulus_id": 1420,
+          "original_name": "Eustorgio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Eustorge",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5978,
+          "titulus_id": 1420,
+          "original_name": "Amalric[o] (c)",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Amalric",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5979,
+          "titulus_id": 1420,
+          "original_name": "Malgerio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Malger",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5980,
+          "titulus_id": 1420,
+          "original_name": "Odone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Odon",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5981,
+          "titulus_id": 1420,
+          "original_name": "[H]ugone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1421,
+      "roll_id": 118,
+      "title": "5 S.d.-[Bonneval,]S. Florentin.",
+      "location_name": "Bonneval",
+      "latin_text": "TITULUS SANCTI FLORENT[INI BONI VALLIS]. (1) <.................................>",
+      "pdf_page": 79,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1422,
+      "roll_id": 118,
+      "title": "[Iv] 6 S.d.-Waltham, Holy Cross.",
+      "location_name": "Waltham, Holy Cross",
+      "latin_text": "",
+      "pdf_page": 79,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 5982,
+          "titulus_id": 1422,
+          "original_name": "Waltero",
+          "original_title": "",
+          "footnote_num": "2",
+          "footnote_text": null,
+          "normalized_name": "Walter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5983,
+          "titulus_id": 1422,
+          "original_name": "Harold[do]",
+          "original_title": "decano",
+          "footnote_num": "6",
+          "footnote_text": null,
+          "normalized_name": "Harold",
+          "normalized_role": "dean",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5984,
+          "titulus_id": 1422,
+          "original_name": "Adalardo",
+          "original_title": "magistro",
+          "footnote_num": "3",
+          "footnote_text": null,
+          "normalized_name": "Adalard",
+          "normalized_role": "master",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5985,
+          "titulus_id": 1422,
+          "original_name": "Osgoto",
+          "original_title": "",
+          "footnote_num": "3",
+          "footnote_text": null,
+          "normalized_name": "Osgoed",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1423,
+      "roll_id": 118,
+      "title": "7 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es (S. Mary).",
+      "location_name": "S. Mary",
+      "latin_text": "TITULUS SANCTE MARIE ECCLESIE (c) [........] et [.......] f. re[quiescant] i. 10 p[ac]le. A[men].",
+      "pdf_page": 79,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1424,
+      "roll_id": 118,
+      "title": "",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 79,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 1622,
+      "roll_id": 118,
+      "pdf_page": 78,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Le ms. Harley 491, contenant essentiellement les Gesta Normanorum durum de Guillaume de Juirr\u00e9es, dat du XII\u00b2 s. \u00b2 (3). Il d\u00e9bute par un fragment (pli\u00e9) de commentaire de l'Eriture (formant deux feuilles de garde) et s'ach\u00e8ve par ces deux fragments de rouleau mortuaire, ne faisant pas suite (formant aussi deux feuilles de garde). Il appartient a la cath\u00e9drale de Durham (\u00e9 Liber Sancti Cuthberti de Dunelm), ex-liberis XII\u00b2 s., fol. 1), puis au Robert de Brexancy (ex-libris du XIV\u00e2 s.), fol. 3).\nLa date indiqu\u00e9e pour ce document est bas\u00e9e sur l'identification de deux personnages pour lesquels des titres sollicit\u00e9ent des pr\u00e9s : Iaginfanus et Waldricus sont certainement deux \u00e9v\u00eaves de Laon, en charge respective de 1096 \u00e0 1104 et de 1106 \u00e0 25 avril 1112 \u00b2 (4): Hugues, successeur de Waldricus, que ne cite la prie de la cath\u00e9drale de Laon, mourut au bout de six mois, \u00e0 la fin de 1112. De plus, Maurice, abb\u00e9 de S. Laumer de Blois, atteste en 1107, mourut avant 1119, dat\u00e9 \u00e0 laquelle son successeur, Petrus I de Firmitate, est comm\u00e9 pour la premi\u00e8re fois \u00b2 (5)."
+    },
+    {
+      "id": 1623,
+      "roll_id": 118,
+      "pdf_page": 78,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": ""
+    },
+    {
+      "id": 1624,
+      "roll_id": 118,
+      "pdf_page": 78,
+      "pdf_half": "right",
+      "footnote_num": "(3)",
+      "text": ""
+    },
+    {
+      "id": 1625,
+      "roll_id": 118,
+      "pdf_page": 78,
+      "pdf_half": "right",
+      "footnote_num": "(4)",
+      "text": ""
+    },
+    {
+      "id": 1626,
+      "roll_id": 118,
+      "pdf_page": 78,
+      "pdf_half": "right",
+      "footnote_num": "(5)",
+      "text": ""
+    },
+    {
+      "id": 1627,
+      "roll_id": 118,
+      "pdf_page": 78,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Sur ce ms., cf. R. A. B. Mynors, Durham cathedral manuscripts to the end of the twelfth century, Oxford, 1939, p. 64, \u201c n. 84."
+    },
+    {
+      "id": 1628,
+      "roll_id": 118,
+      "pdf_page": 78,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "Je dois cette r\u00e9f\u00e9rence \u00e0 l'amabilit\u00e9 de M. Michael Guillick."
+    },
+    {
+      "id": 1629,
+      "roll_id": 118,
+      "pdf_page": 78,
+      "pdf_half": "right",
+      "footnote_num": "(3)",
+      "text": "Sur ce ms., cf. A. Catalogue of the Herleman manuscripts in the British Museum, London, t. I, 1808, p. 327 ; J. Marx, Gesta Normanorum durum, Paris, 1914, p. XXXI."
+    },
+    {
+      "id": 1630,
+      "roll_id": 118,
+      "pdf_page": 78,
+      "pdf_half": "right",
+      "footnote_num": "(4)",
+      "text": "A leur sujet, cf. A. Dufour-Malbezin Actes des \u00e9v\u00eaves de Laon des origines \u00e0 1151 Paris, 2001, p. 16-17"
+    },
+    {
+      "id": 1631,
+      "roll_id": 118,
+      "pdf_page": 78,
+      "pdf_half": "right",
+      "footnote_num": "(5)",
+      "text": "A ce sujet, cf. Gallia christiana, t. VIII, col. 1356."
+    }
+  ]
+}

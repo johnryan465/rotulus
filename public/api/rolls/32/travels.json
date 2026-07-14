@@ -1,0 +1,28 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "coords": [
+      48.8542,
+      2.3332
+    ],
+    "year": null,
+    "date_str": "S.d. [premier quart du X\u00ba s.]",
+    "is_approximate": false,
+    "description": "Origin: Formul\u00e9 de bref mortuaire \u00e0 l'usage de S. Germain ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Auxerre, France",
+    "coords": [
+      47.8,
+      3.5667
+    ],
+    "year": null,
+    "date_str": "S.d. [premier quart du X\u00ba s.]",
+    "is_approximate": false,
+    "description": "Saint Germain d'Auxerre (saint)"
+  }
+]

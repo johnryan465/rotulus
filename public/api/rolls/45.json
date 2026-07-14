@@ -1,14 +1,195 @@
 {
   "roll": {
     "id": 45,
-    "roll_num": "82",
-    "date_str": "S.d.",
-    "title": "S.d. [1096, apr\u00e8s _ le 5 mai] Baudri de Bourgueil pour le rouleau mortuaire de No\u00ebl [I' ],abb\u00e9 de Titre compos\u00e9 par S. Nicolas d Angers. 20 A. Original perdu. B. Vaticano; Reg lat. 1351, fol. 26 (XIIS s)  Paris, t. IV, 1641, P. 251, 0 ex veteri codice ms. a. A. Duchesne; Historiae Francorum scriptores; col. 671, dapr\u00e8s a (\u00e9d. partielle) . =c. PL, Alexandri Petavii \" 6. Gallia christiana, t. XIV, po\u00e9tiques de Baudri de Bourgueil (1046- t. CLXVI, col. 1181. d. P. Abrahams; Les \u00e6uvres Vatican.  , Paris, 1926, p. 56-58, n 0a XLIX; L et 25 1130 ). \u00c9dition critique , publi\u00e9e  japr\u00e8s le ms. du Burgulianus: Carmina, Heidelberg; 1979, 44, n? 14 ; LI, dapr\u00e8s B.- e K Hilbert, Baldricus Paris, t. I, 1998, 03 15et 16, dapr\u00e8s B. ~ f J-Y Tilliette, Baudri de Bourgueil. Po\u00e8mess P. 45, n p. 39, n 14. TRADUCTION : J-Y. Tilliette, loc: cit. XXVI. ~ L. Delisle, Notes 3 L Delisle; Rouleaux des morts du IX\" au XVE S.; P 144, n INDIQU\u00c9 31, n? XLIX. de Baudri; abb\u00e9 de Bourgueil % dans Romania; L I, 1872, P sur les po\u00e9sies 2 7 E.1. E. Raby, A history of christian latin poerrg, L Delisle; Vital de Savigny; P. 10, n. dans la France de Bouest, L.L p 239. 280 . ~J-3.Foulon, La r\u00e9forme de V\u00c9glise  Oxford, 1927, P.",
+    "roll_num": 50,
+    "date_str": "[975, juillet \u2013 992, fin f\u00e9vrier]",
+    "title": "Bref ou rouleau mortuaire de S. \u00c6thelreda [d'Ely].",
     "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "38,39",
+    "pdf_source": "1",
+    "pdf_pages": "31",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": []
+  "tituli": [
+    {
+      "id": 80,
+      "roll_id": 45,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Document perdu, mentionn\u00e9 par la Vita sancti Oswaldi, archiepiscopi Eboracensis (2). Difficile \u00e0 dater avec pr\u00e9cision, il est post\u00e9rieur \u00e0 la mort du roi Edgar (8 juillet 975) (3), relat\u00e9e pr\u00e9c\u00e9demment par l'auteur de la Vita (4), et ant\u00e9rieur \u00e0 la mort d'Oswald (29 f\u00e9vrier 992) (5) ; donc r\u00e9dig\u00e9 durant l'abbatie de Brihtnod (970/996-999) (2) qui concerne de simples moines.",
+      "pdf_page": 31,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 238,
+          "titulus_id": 80,
+          "original_name": "sancti Oswaldi",
+          "original_title": "archiepiscopi Eboracensis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Oswald",
+          "normalized_role": "Archbishop of York",
+          "normalized_dates": "",
+          "location_name": "York"
+        },
+        {
+          "id": 239,
+          "titulus_id": 80,
+          "original_name": "Edgar",
+          "original_title": "roi",
+          "footnote_num": "3",
+          "footnote_text": "",
+          "normalized_name": "Edgar the Peaceable",
+          "normalized_role": "King",
+          "normalized_dates": "died 8 July 975",
+          "location_name": ""
+        },
+        {
+          "id": 240,
+          "titulus_id": 80,
+          "original_name": "Oswald",
+          "original_title": "",
+          "footnote_num": "5",
+          "footnote_text": "",
+          "normalized_name": "Oswald",
+          "normalized_role": "",
+          "normalized_dates": "died 29 February 992",
+          "location_name": ""
+        },
+        {
+          "id": 241,
+          "titulus_id": 80,
+          "original_name": "Brihtnod",
+          "original_title": "",
+          "footnote_num": "2",
+          "footnote_text": "\u00c9d. J. Raine, The histories of the church of York and its archbisop, London, 1879, t. I, p. 453 ; \u00e0 ce sujet, cf. Th. Symons, Regularis concordia Anglicae nationis monachorum sanctimonialiumque, London, 1953, p. 66, n. 6.",
+          "normalized_name": "Brihtnod",
+          "normalized_role": "Abbot",
+          "normalized_dates": "970/996-999",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "roll_id": 45,
+      "title": "[I]",
+      "location_name": "S.d.-Issoire [, S. Austremoine].",
+      "latin_text": "<...>forus vester ad Yciodorensse monasterium <...> [sancti Austremoonii], primi Arvernorum abbatis, undi robus Robertus <...>; nuncis nobis lamentabile funus fratris vestri <...>; praes fundimus <...>; vero preca- sur patrimoni vestri <...>",
+      "pdf_page": 31,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 242,
+          "titulus_id": 81,
+          "original_name": "Robertus",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "",
+          "normalized_name": "Robert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "roll_id": 45,
+      "title": "[II]",
+      "location_name": "S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "latin_text": "<...> quorum nomina <...>, Bernardus <...>, Beraldus, Gir<...> , Bernardus <...> Vale, fratres in Christo. Amen.",
+      "pdf_page": 31,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 243,
+          "titulus_id": 82,
+          "original_name": "Bernardus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 244,
+          "titulus_id": 82,
+          "original_name": "Beraldus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Berald",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 245,
+          "titulus_id": 82,
+          "original_name": "Bernardus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "roll_id": 45,
+      "title": "[III]",
+      "location_name": "S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "latin_text": "<........................> pondere carnis\nCongruit alterutris <.......> cartatis\nQua <...> iter qua dextra vocat repetit\nLinguentis leuum baratri quod ducit\nA quo cuneti <...> toris genitum mittendo\n<........................> sibi similem <....>",
+      "pdf_page": 31,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 186,
+      "roll_id": 45,
+      "pdf_page": 31,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": ""
+    },
+    {
+      "id": 182,
+      "roll_id": 45,
+      "pdf_page": 31,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "\u00c9d. J. Raine, The histories of the church of York and its archbisop, London, 1879, t. I, p. 453 ; \u00e0 ce sujet, cf. Th. Symons, Regularis concordia Anglicae nationis monachorum sanctimonialiumque, London, 1953, p. 66, n. 6."
+    },
+    {
+      "id": 183,
+      "roll_id": 45,
+      "pdf_page": 31,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": ""
+    },
+    {
+      "id": 184,
+      "roll_id": 45,
+      "pdf_page": 31,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": ""
+    },
+    {
+      "id": 185,
+      "roll_id": 45,
+      "pdf_page": 31,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": ""
+    }
+  ]
 }

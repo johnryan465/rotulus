@@ -1,39 +1,74 @@
 {
   "roll": {
     "id": 40,
-    "roll_num": "75",
-    "date_str": "S.d.",
-    "title": "S.d. [vers 1055] Rouleau mortuaire ( fragmentaire ) dHugues, moine de Corbie. A. Original perdu. 0 , Du Cange, Glossarium, L. V; p. 810 (\u00e9d. partielle titre de $. Maur-des-Foss\u00e9s) . 6. J. Bouillart, 5 Paris, S. Germain-des-Pr\u00e9s, P.31,n. (\u00e9d. partielle titres dune \u00e9glise ind\u00e9termin\u00e9e de Paris et de S. Germain-des-Pr\u00e9s) . c.L Delisle, Rouleaux des morts du IX' au XVE 5 , P. 134, n? XXII, dapr\u00e8s a etb IvDIQu\u00c9 A. Molinier; Sources, t. IL, p. 43, n 1136. On ne sait rien de Hugues, moine de Corbie; pour lequel ce rouleau circula. 10 Les trois titres actuellement conserv\u00e9s ont \u00e9t\u00e9 sans doute trouv\u00e9s dans les gardes dun ms. de 5. Germain-des-Pr\u00e9s Le titre de $ Maur-des-Foss\u00e9s mentionne le nom de plusieurs abb\u00e9s d\u00e9funts le dernier dentre eux, Cunterius, \u00e9tait \u00e0 la t\u00eate de cette abbaye en 1043 Pour L. Delisle (loc. cit.), il faudrait donc placer le rouleau de ce moine de Corbie vers 1070. En fait, je crois que /on peut le situer plus pr\u00e9cis\u00e9ment vers 1055, sous [abbatiat de Robert successeur de Cunterius. 15",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "26",
+    "roll_num": 45,
+    "date_str": "S.d. [968-977]",
+    "title": "Rouleau mortuaire (fragmentaire) de Gauzbert, religieux de S. Martial de Limoges.",
+    "manuscripts": "A. Paris, B. N. F., lat. 2262, fol. 2. Parchemin (assez \u00e9pais et rigide; c. a. [recto] blanch\u00e2tre; c. p. [verso] jaune). Un fragment (fragmentaire) opisthographe (reli\u00e9 dans le sens de la largeur et pli\u00e9). 5 Longueur, 36 cm ; largeur, 25,5/26 cm.",
+    "pdf_source": "1",
+    "pdf_pages": "26,27",
     "is_verified": 0
   },
-  "tituli": [],
+  "tituli": [
+    {
+      "id": 68,
+      "roll_id": 40,
+      "title": "[e. c.]",
+      "location_name": "",
+      "latin_text": "... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "pdf_page": 27,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
   "footnotes": [
     {
-      "id": 35762,
+      "id": 166,
       "roll_id": 40,
       "pdf_page": 26,
       "pdf_half": "right",
       "footnote_num": "1",
-      "text": "LsapDe UC 0 LANulu6099e"
+      "text": "B. N. Catalogues g\u00e9n\u00e9ral des manuscrits latins, Paris, t. II, 1940, p. 378;"
     },
     {
-      "id": 35763,
+      "id": 167,
       "roll_id": 40,
       "pdf_page": 26,
       "pdf_half": "right",
       "footnote_num": "2",
-      "text": "862 \u00e0 869 par le Gallia christiana (. VII, col. 286) ."
+      "text": "Rouleaux des morts du IX au XV au XII s., p. 9."
     },
     {
-      "id": 35764,
+      "id": 168,
       "roll_id": 40,
       "pdf_page": 26,
       "pdf_half": "right",
       "footnote_num": "3",
-      "text": "le Gallia christiana (t. VII, col. 284 et suiv) ."
+      "text": "Gallia christiana, t. XII, col. 31;"
+    },
+    {
+      "id": 169,
+      "roll_id": 40,
+      "pdf_page": 26,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Commemoratio abbatum basilicae sancti Martialis, dans H. Duplessis-Agier, Chroniques de Saint-Martial de Limoges publi\u00e9es d'apr\u00e8s les manuscrits originaux, Paris, 1874, p. 5."
+    },
+    {
+      "id": 170,
+      "roll_id": 40,
+      "pdf_page": 26,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "Ch. de Lasteyrie, l'Abbaye de Saint Martial de Limoges, Paris, 1901, p. 64."
+    },
+    {
+      "id": 171,
+      "roll_id": 40,
+      "pdf_page": 26,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "Mourir \u00e0 S. Martial, p. 331-332."
     }
   ]
 }

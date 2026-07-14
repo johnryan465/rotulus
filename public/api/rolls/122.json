@@ -1,0 +1,23 @@
+{
+  "roll": {
+    "id": 122,
+    "roll_num": 119,
+    "date_str": "S.d. [vers 1120]",
+    "title": "Echange de brefs annuels institu\u00e9 entre S. Pierre-de-la-Couture [du Mans] et S. Aubin d\u2019Angers \u00e0 des dates pr\u00e9cises (respectivement \u00e0 la S. Julien [27 janvier] et \u00e0 la S. Aubin [30 juin]).",
+    "manuscripts": "A. Original perdu.",
+    "pdf_source": "3",
+    "pdf_pages": "81",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 1645,
+      "roll_id": 122,
+      "pdf_page": 81,
+      "pdf_half": "right",
+      "footnote_num": "",
+      "text": "A mon avis, cette confraternit\u00e9 n'est pas des ann\u00e9es 1200 (comme l'indique a), mais de 1120 environ, car elle est r\u00e9dig\u00e9e selon le m\u00eame formulaire que les deux associations de pri\u00e8res publi\u00e9es ci-dessus (n\u00ba 117 et 118)."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Fleury / Saint-Beno\u00eet-sur-Loire, France",
+    "coords": [
+      47.81,
+      2.305
+    ],
+    "year": 1004,
+    "date_str": "S.d. [fin 1004-d\u00e9but 1005]",
+    "is_approximate": false,
+    "description": "Origin: Bref mouvement sollicitant de prier pour Abb\u00e9on, a..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Canterbury",
+    "coords": null,
+    "year": 1004,
+    "date_str": "S.d. [fin 1004-d\u00e9but 1005]",
+    "is_approximate": true,
+    "description": "Dunstan (Archbishop of Canterbury)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Fleury / Saint-Beno\u00eet-sur-Loire, France",
+    "coords": [
+      47.81,
+      2.305
+    ],
+    "year": 1004,
+    "date_str": "S.d. [fin 1004-d\u00e9but 1005]",
+    "is_approximate": false,
+    "description": "Robert II ()"
+  }
+]

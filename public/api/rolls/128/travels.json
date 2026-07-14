@@ -1,0 +1,135 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Vatican City",
+    "coords": [
+      41.9022,
+      12.4539
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113-1127]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) d\u2019un abb\u00e9 Guillau..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113-1127]",
+    "is_approximate": true,
+    "description": "Titulus Header: Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "cath\u00e9drale (N.-D.)",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113-1127]",
+    "is_approximate": true,
+    "description": "Titulus Header: cath\u00e9drale (N.-D.)"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "[Clermont,] S. Allyre",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113-1127]",
+    "is_approximate": true,
+    "description": "Titulus Header: [Clermont,] S. Allyre"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Issoire",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113-1127]",
+    "is_approximate": true,
+    "description": "Saint Austremonius (bishop of Auvergne)"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Caen",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113-1127]",
+    "is_approximate": true,
+    "description": "Saint Stephen of Caen (saint)"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Caen, la Trinit\u00e9",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113-1127]",
+    "is_approximate": true,
+    "description": "Titulus Header: Caen, la Trinit\u00e9"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Locality et \u00e9glise ind\u00e9termin\u00e9es",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113-1127]",
+    "is_approximate": true,
+    "description": "Titulus Header: Locality et \u00e9glise ind\u00e9termin\u00e9es"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Dijon, S. \u00c9tienne",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113-1127]",
+    "is_approximate": true,
+    "description": "Titulus Header: Dijon, S. \u00c9tienne"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Vergy, S. Vivant",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113-1127]",
+    "is_approximate": true,
+    "description": "Titulus Header: Vergy, S. Vivant"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Vergy, S. Denis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113-1127]",
+    "is_approximate": true,
+    "description": "Titulus Header: Vergy, S. Denis"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "\u00c9vaux, S. Pierre",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113-1127]",
+    "is_approximate": true,
+    "description": "Titulus Header: \u00c9vaux, S. Pierre"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Bourgueil",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113-1127]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bourgueil"
+  }
+]

@@ -1,14 +1,91 @@
 {
   "roll": {
     "id": 8,
-    "roll_num": "14",
-    "date_str": "S.d.",
-    "title": "S.d. [754-octobre 786 0\"] Doto, abbas $. Petri (2) demande \u00e0 Lul, \u00e9v\u00eaque [de Mainz], de lui communiquer  20 par un bref mortuaire les noms de ses amis d\u00e9funts. (1) Ces dates sont celles de l\u00e9piscopat  de 225) , Dapr\u00e8s M. Tangl (op cit  P 271, n. I),la latinit\u00e9   du document Cl la   presencc dun Lul ; cf. Lul \u00f8 dans Lexikon des Miltelalters, chrisme  font  penser Un abb\u00e9 franc plut\u00f4t VI, col. 12 (T. Struve) . Doto serait un abb\u00e9 de Luxeuil selon les qu'anglo-saxon. Annales ordinis sancti Benedicti (. II, P. 189,",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "8",
+    "roll_num": 9,
+    "date_str": "S.d. [756-759/778 (2)]",
+    "title": "\u00c9change de noms de clercs d\u00e9funts entre L\u00fcl, \u00e9v\u00eaque (de Mainz), et \u00ab Cinehardus s, \u00e9v\u00eaque de Winchester, afin qu'ils soient communiqu\u00e9s aux \u00e9tablissements religieux de leurs dioc\u00e8ses respectifs.",
+    "manuscripts": "A. Original perdu.\nB. Wien, \u00d6sterreichische Nationalbib., lat. 751, fol. 48 (milieu du IX s.).\na. M. Tangl, Bonifatius, p. 246, n\u00b0 114.",
+    "pdf_source": "1",
+    "pdf_pages": "7",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": []
+  "tituli": [
+    {
+      "id": 13,
+      "roll_id": 8,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Alfredus rex Aegina lo, venerabili episcopo regina Lulls, amicitia copulato, in Christo salutem . . . Nos . . . simul cum nominibus nostrum amicorum et propinquorum, quae hic subscripta sunt (1), litterarum custodia facias contineri orationibusque et missarum celebrationibus perpetuis Dei patrociniis commendemur. Eodem modo ab nobis et de nominibus ad nos delatis 10 secundum vestram petitionem facere curavimus; et in cunctis monasteriis nostris ditionibus subjectis perpetuis litterarum monumentis commendantur et orationum subsidiis Deo cotidie presentatur.",
+      "pdf_page": 7,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 83,
+          "titulus_id": 13,
+          "original_name": "Alfredus rex",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Alfred the Great",
+          "normalized_role": "king",
+          "normalized_dates": "",
+          "location_name": "Aegina"
+        },
+        {
+          "id": 84,
+          "titulus_id": 13,
+          "original_name": "Lulls",
+          "original_title": "episcopo",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lull",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Mainz"
+        },
+        {
+          "id": 85,
+          "titulus_id": 13,
+          "original_name": "Christo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "deity",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 86,
+          "titulus_id": 13,
+          "original_name": "Deo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "God",
+          "normalized_role": "deity",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 69,
+      "roll_id": 8,
+      "pdf_page": 7,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Pour M. Tangl (op. cit., p. 257, n. 2), le fait que ces noms n'apparaissent pas en fin de lettre semble indiquer qu'ils se trouveraient sur une"
+    },
+    {
+      "id": 70,
+      "roll_id": 8,
+      "pdf_page": 7,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "Ces dates limites sont celles de l'\u00e9piscopat de Cinehardus ; cf. infra, p. 13, n. 1."
+    }
+  ]
 }

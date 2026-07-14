@@ -1,0 +1,48 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1000,
+    "date_str": "S.d. [vers 1000]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) anonyme, probable..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Saint-Denis, France",
+    "coords": [
+      48.9356,
+      2.3539
+    ],
+    "year": 1000,
+    "date_str": "S.d. [vers 1000]",
+    "is_approximate": false,
+    "description": "Denis (saint)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Orbais",
+    "coords": null,
+    "year": 1000,
+    "date_str": "S.d. [vers 1000]",
+    "is_approximate": true,
+    "description": "Titulus Header: Orbais"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Limoges/Aquitaine",
+    "coords": null,
+    "year": 1000,
+    "date_str": "S.d. [vers 1000]",
+    "is_approximate": true,
+    "description": "Saint Martial (patron saint of Limoges and Aquitaine)"
+  }
+]

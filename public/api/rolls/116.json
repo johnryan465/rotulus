@@ -1,0 +1,221 @@
+{
+  "roll": {
+    "id": 116,
+    "roll_num": 113,
+    "date_str": "",
+    "title": "",
+    "manuscripts": "",
+    "pdf_source": "3",
+    "pdf_pages": "21,22",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1151,
+      "roll_id": 116,
+      "title": "",
+      "location_name": "",
+      "latin_text": "tionis quam optima morum institutione a seculvo revocabat. Inter harum insignia virtutatum castimatem in eo laudare superfluum \u017fuprum, cujus vita etiam ante conversionem pro continentia quam habeat cunctis fuit in exemplo. Et quoque tempore, hoc est ante conversionem, ut ad priora redeem, ita quasis, quasi nullam si crederet habere quidem, res qui eum in exercitio scripturarum arripusset laborem. Erat quippe fundatus grammatica, rhetorica ornans, armatus dialectica. Et his studiis eum indecentem occupatum multa discipulorum turba sequebatur, qui ad famam tanti vari undique congregati, eius disciplina sitebant informari, magi\u017ftre io erudi. Hic forsan aliquis remoraretur et diceret quam ardentes fiuisset ingenii, quam tenacis memori\u0119, quam tempranis jam tune in moribus, in verbis sobrius, in doctrina sollicitus, in disputationibus cautus, in solvendis questionibus promptus. Tanta denique in \u017fcolis eius qu\u00e6, tanta par inter disciplinas et vit\u0119 compo\u017fito per eius diligentiam (a) habeatur, ut non tam magister litterarum quam epi\u017fcopus ex primis agoce\u017f\u017fet. Po\u017ftquam vero libri aati Augu\u017ftini al merito pesso mitte doci videretur. Po\u017ftquam vero regi in religione in mansu et manu venerunt, statim mutatus in virum alium, cepit odre que ante (b) dixerat et diligere que prius erat. Ihesu bone ! Quanta hominis tumulto ! Fit in pauperes Chri\u017fti rerum distractio, cbi et post abstinentia, carnis macerato et omne studium quod in \u017fcorbulis discipulis in\u017fempraet, in verem convertens philosophiam, de di\u017fci- pulis suis \u017fociis fecit, exemplo sui et doctrina mulis converti et po\u017ftmodum, relicto \u017foris clero, monachus e\u017ftoft, monacterium quod dicto ad Sanctum Martinum Tornaci extraxit (c). Ab omnibus qui per eum vel co um mundum reliquerant in abbatem eligert, consecratur. Muita pretero, qua multum (d) fe- tino. Tune vero aliqui novum lumen in regione \u017filu vis omm es tri. Populus enim ad eius prejudicatione converterunt. Inter conjuncta conuens utri\u017fque partie fie- bant sancta divitia. Populus enim ad eius prejudicatione converterunt. Inter conjuncta conuens utri\u017fque partie fiebant sancta divitia. Populus enim ad eius prejudicatione converterunt. Inter conjuncta conuens utri\u017fque partie fiebant sancta conuens utrisque parte fiebat sancta divitia.",
+      "pdf_page": 22,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3355,
+          "titulus_id": 1151,
+          "original_name": "Augustini",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Augustinus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3356,
+          "titulus_id": 1151,
+          "original_name": "Chri\u017fti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1152,
+      "roll_id": 116,
+      "title": "orphaned_footnotes\ub098fiesterly: [{\"footnote_num\": \"a\", \"text\": \"disciplinam c.\"}, {\"footnote_num\": \"b\", \"text\": \"ante omis c.\"}, {\"footnote_num\": \"c\", \"text\": \"construxit c.\"}, {\"footnote_num\": \"d\", \"text\": \"ad alia au lieu de multum bc.\"}], ",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 22,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 1278,
+      "roll_id": 116,
+      "pdf_page": 21,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "(a) praesent\u00e6 ce. (b) enunciare ce. (c) gerebat c."
+    },
+    {
+      "id": 1277,
+      "roll_id": 116,
+      "pdf_page": 21,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "(1) A ce sujet, cf. Gesta episcoporum Cameracensium, ed. G. Waits, dans M.G.H., SS., t. XIV, p. 211, cap. 3 : \u00ab [Paschalis] papa episcopia sibi concupiscit ch\u0113ta. \u00bb"
+    },
+    {
+      "id": 1279,
+      "roll_id": 116,
+      "pdf_page": 21,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "(2) Cf. Ps., XLVII, 9 : \u00ab Sicut audivimus, sic vidimus in civitate Domini \u00bb."
+    },
+    {
+      "id": 1280,
+      "roll_id": 116,
+      "pdf_page": 21,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "(3) Cf. Exod., III, 3 : \u00ab Vadam et videbo visionem hac magnam \u00bb."
+    },
+    {
+      "id": 1281,
+      "roll_id": 116,
+      "pdf_page": 21,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "(4) Cf. Eccli., XXVIII, 28 : \u00ab Sepi aureus tuas spinis, linguam nequam non solum audire \u00bb."
+    },
+    {
+      "id": 1282,
+      "roll_id": 116,
+      "pdf_page": 21,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "(5) Cf. Prov., XVIII, 8 : \u00ab Verba bilinguis, quasi simplicia: et ipsa pervenient usque ad interiora ventricis \u00bb."
+    },
+    {
+      "id": 1283,
+      "roll_id": 116,
+      "pdf_page": 21,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "(6) Cf. Petr. III, 9 : \u00ab non reddentes malum pro malo, nec maledictum pro maledicto \u00bb."
+    },
+    {
+      "id": 1284,
+      "roll_id": 116,
+      "pdf_page": 21,
+      "pdf_half": "right",
+      "footnote_num": "7",
+      "text": "(7) Cf. Rom., XII, 17 : \u00ab providete bona non tantum coram Deo, sed etiam coram omnibus hominibus \u00bb."
+    },
+    {
+      "id": 1285,
+      "roll_id": 116,
+      "pdf_page": 21,
+      "pdf_half": "right",
+      "footnote_num": "8",
+      "text": "(8) [No text provided for footnote marker (8), likely continues on next page or is part of the main body's citation structure]"
+    },
+    {
+      "id": 1289,
+      "roll_id": 116,
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "(a) omis c."
+    },
+    {
+      "id": 1290,
+      "roll_id": 116,
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "footnote_num": "b",
+      "text": "(b) detractionis omis c."
+    },
+    {
+      "id": 1291,
+      "roll_id": 116,
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "footnote_num": "c",
+      "text": "(c) taceam al lieu de non sileam c."
+    },
+    {
+      "id": 1292,
+      "roll_id": 116,
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "footnote_num": "d",
+      "text": "(d) ille c."
+    },
+    {
+      "id": 1293,
+      "roll_id": 116,
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "footnote_num": "e",
+      "text": "(e) Ici fin de B."
+    },
+    {
+      "id": 1294,
+      "roll_id": 116,
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "footnote_num": "e",
+      "text": "(e)"
+    },
+    {
+      "id": 1295,
+      "roll_id": 116,
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "footnote_num": "f",
+      "text": "(f)"
+    },
+    {
+      "id": 1296,
+      "roll_id": 116,
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "footnote_num": "g",
+      "text": "(g)"
+    },
+    {
+      "id": 1286,
+      "roll_id": 116,
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "(1) Cf. Luc., XXII, 31 : \u00ab ecce Satanas expelli vit vos ut cribraret triticum \u00bb."
+    },
+    {
+      "id": 1287,
+      "roll_id": 116,
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "(2) Joh., VI., 67."
+    },
+    {
+      "id": 1288,
+      "roll_id": 116,
+      "pdf_page": 22,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "(3) Cf. Matth., V, 15 : \u00ab neque accendunt lucernam et ponunt eam sub medio, sed super candelabrum, ut luceat omnibus qui in domo sunt \u00bb."
+    }
+  ]
+}

@@ -1,23 +1,863 @@
 {
   "roll": {
     "id": 19,
-    "roll_num": "31",
-    "date_str": "S.d.",
-    "title": "puie \u00e9v\u00eaque de Laon en 921, mort en 930 Ainsi; ' sur des feuillets non utilis\u00e9s du ms. Paris B,Ainf _ Datte forrgule,conmela plupart de celles lat. 11379, daterait du ajout\u00e9es premnier quart du X & X kal. aprilis venit gerulus apicum vestrorum gius pontifex ill. pastorali funglitur officio] in mfonte] Lauduni; [ubi] egre- illi Jargito[r   Precamur   venerJabillem]   paternitatem praepositurae; ill. dapsilis 7 Bernardo decano ill . thesaurario, | atque . fraternitatem   vestram 5 ad contigua loca innot[escere eorum nomina [Domini misericordiJam exoretis et faciatis] 31 S.d. [premier quart du X' &] Troisi\u00e8me formule de r\u00e9ponse aux brefs mortuaires \u00e0 lusage ' de Laon. 10 A. Original perdu. B. Paris, B. N. F. lat. 11379, fol. 15 (endommag\u00e9 ; addition du X' s). a. E. de Rozi\u00e8re, Formules, 2 partie; P. 962, n' 694. 6. K. Zeumcr, Formulae merowingici et karolini aevi ( M. G. H , Leges) P. 518,n\" 13.~c.JJ Contreni; Le formulaire de Laon. Source pour lhistoire de l\u00e9cole de Laon au d\u00e9but du X' s % dans Scriptorium, L. XXVII, 1973, 15 P. 26, dapr\u00e8s b_ Sur lidentification de Bernard, doyen de Laon, cf. supra, P. 30.",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "17",
+    "roll_num": 21,
+    "date_str": "859, 14 juin.",
+    "title": "Institution de \u00ab litter\u00e6 currentes \u00bb lors du concile de Savonni\u00e8res.",
+    "manuscripts": "A. Original perdu.",
+    "pdf_source": "1",
+    "pdf_pages": "12,13",
     "is_verified": 0
   },
-  "tituli": [],
+  "tituli": [
+    {
+      "id": 31,
+      "roll_id": 19,
+      "title": "",
+      "location_name": "",
+      "latin_text": "fuere personis. Translationem proinde sancti Floriberi, primi Blandiniensis cenobii abbatis, apud nos factam corroborat autoria una (a) cum sigillis antistitum Novomagnum, confirmavit etiam lapis grecis quam latinis litteris scriptus, et quod majus, ejusdam mulieris contractae ad ipsam ejusdem patris curaciam he loquitur, non ut falsa loquuntur prefatos fratres, et utinam in Christo fratres, increscemus, sed ut noscipueras verba dicendo excusemus. Ceterum de fundatione loci nostri tacamus, dum plur\u00e2 in aliis cenobiis scripta que pro nobis loquantur habeamus.",
+      "pdf_page": 12,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 142,
+          "titulus_id": 31,
+          "original_name": "sancti Floriberi",
+          "original_title": "sancti",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Floribert",
+          "normalized_role": "abbot of Blandinium",
+          "normalized_dates": "",
+          "location_name": "Blandinium"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "roll_id": 19,
+      "title": "",
+      "location_name": "",
+      "latin_text": "XIII. Placid omnibus, ut creditus intestinu divino, qui ad universali concilium in vacuum Tullensium confluxerunt, quoniam calamitatis tedio laborabant, qui invenirent alibid, ut habis consoniis gratia respirarent. Statuerunt ita possunt que ut pro se invicem omnes, dum adverbent, press bisignossi frequentaret. Sic ultet singuli ut pingui per conventus singulis edomadas, fera querta, missa elementari brabrent. Post vocationem autem cujuslibet corum, superstitis obrinient, ut pro se qui decessit in sedibus septenaria missae totidemque Domino persolvantur, praesbiteris monasterium sive villarum tres missae totidemque 10 vigilia deperantur. Exitus autem uniusquisque vicissim pios currentibus littis reinnoscat. Praesentes etiam oblates in tum probatula societate recepti, eadem se conditione junxerunt.",
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 33,
+      "roll_id": 19,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Ebo (1) Gratianopolitannus episcopus.\nJonas (2) Accolum episcopus.\nUngerus (3) Traiectensis episcopus.\nFredberhtus (4) Basiliensis episcopus.\nHerminus (5) Silvanectensis episcopus.\nArnaldus (6) Tullensis episcopus.\nRothaldus (7) Suessionum episcopus.\nErmenfridus (8) Bellovacensis episcopus.\nAdventus (9) Metensis episcopus.\nAtto (10) Verdunensis episcopus.\nAbbo (11) Auxerreensis episcopus.\nAenus (12) Parisiensis episcopus.\nGislebertus (13) Carnotensis episcopus.\nGuntibertus (14) Ebricensis episcopus.\nRathbertus (15) Valentinensis episcopus.",
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 143,
+          "titulus_id": 33,
+          "original_name": "Ebo",
+          "original_title": "episcopus",
+          "footnote_num": "1",
+          "footnote_text": "Coloniensis ecclesiae metropolitanus episcopus.",
+          "normalized_name": "Ebo",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Gratianopolis"
+        },
+        {
+          "id": 144,
+          "titulus_id": 33,
+          "original_name": "Jonas",
+          "original_title": "episcopus",
+          "footnote_num": "2",
+          "footnote_text": "Bituricensis metropolitanus episcopus.",
+          "normalized_name": "Jonas",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Accolum"
+        },
+        {
+          "id": 145,
+          "titulus_id": 33,
+          "original_name": "Ungerus",
+          "original_title": "episcopus",
+          "footnote_num": "3",
+          "footnote_text": "Remorum archiepiscopus.",
+          "normalized_name": "Ungerus",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Traiectum"
+        },
+        {
+          "id": 146,
+          "titulus_id": 33,
+          "original_name": "Fredberhtus",
+          "original_title": "episcopus",
+          "footnote_num": "4",
+          "footnote_text": "Treverenssis archiepiscopus.",
+          "normalized_name": "Fredberhtus",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Basilia"
+        },
+        {
+          "id": 147,
+          "titulus_id": 33,
+          "original_name": "Herminus",
+          "original_title": "episcopus",
+          "footnote_num": "5",
+          "footnote_text": "Lugdunensis archiepiscopus.",
+          "normalized_name": "Herminus",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Silvanectum"
+        },
+        {
+          "id": 148,
+          "titulus_id": 33,
+          "original_name": "Arnaldus",
+          "original_title": "episcopus",
+          "footnote_num": "6",
+          "footnote_text": "Turonensis archiepiscopus.",
+          "normalized_name": "Arnaldus",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Tullum"
+        },
+        {
+          "id": 149,
+          "titulus_id": 33,
+          "original_name": "Rothaldus",
+          "original_title": "episcopus",
+          "footnote_num": "7",
+          "footnote_text": "Rotomagensis archiepiscopus.",
+          "normalized_name": "Rothaldus",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Suessionum"
+        },
+        {
+          "id": 150,
+          "titulus_id": 33,
+          "original_name": "Ermenfridus",
+          "original_title": "episcopus",
+          "footnote_num": "8",
+          "footnote_text": "Darentiagus episcopus.",
+          "normalized_name": "Ermenfridus",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Bellovacensis"
+        },
+        {
+          "id": 151,
+          "titulus_id": 33,
+          "original_name": "Adventus",
+          "original_title": "episcopus",
+          "footnote_num": "9",
+          "footnote_text": "Novigomagus episcopus.",
+          "normalized_name": "Adventus",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Metis"
+        },
+        {
+          "id": 152,
+          "titulus_id": 33,
+          "original_name": "Atto",
+          "original_title": "episcopus",
+          "footnote_num": "10",
+          "footnote_text": "chesne, op. cit., t. I, p. 9.",
+          "normalized_name": "Atto",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Verdunensis"
+        },
+        {
+          "id": 153,
+          "titulus_id": 33,
+          "original_name": "Abbo",
+          "original_title": "episcopus",
+          "footnote_num": "11",
+          "footnote_text": "(8) Cet \u00e9v\u00eaque de Beauvais, en charge depuis",
+          "normalized_name": "Abbo",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Auxerreensis"
+        },
+        {
+          "id": 154,
+          "titulus_id": 33,
+          "original_name": "Aenus",
+          "original_title": "episcopus",
+          "footnote_num": "12",
+          "footnote_text": "847 (cf. L. Duchesne, op. cit., t. III, p. 121),",
+          "normalized_name": "Aenus",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Parisiensis"
+        },
+        {
+          "id": 155,
+          "titulus_id": 33,
+          "original_name": "Gislebertus",
+          "original_title": "episcopus",
+          "footnote_num": "13",
+          "footnote_text": "aurait \u00e9t\u00e9 massacr\u00e9 par les Normands le 25 juin",
+          "normalized_name": "Gislebertus",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Carnotensis"
+        },
+        {
+          "id": 156,
+          "titulus_id": 33,
+          "original_name": "Guntibertus",
+          "original_title": "episcopus",
+          "footnote_num": "14",
+          "footnote_text": "859 (cf. F. Lot, op. cit., p. 33, n. 3).",
+          "normalized_name": "Guntibertus",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Ebricensis"
+        },
+        {
+          "id": 157,
+          "titulus_id": 33,
+          "original_name": "Rathbertus",
+          "original_title": "episcopus",
+          "footnote_num": "15",
+          "footnote_text": "(9) \u00c9v\u00eaque de Metz, en charge du 7 ao\u00fbt 853",
+          "normalized_name": "Rathbertus",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Valentinensis"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "roll_id": 19,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Franco (1) Tungrensis episcopus.\nAgius (2) Aurelianorum episcopus.\nHildegaris (3) Meldensis episcopus.\nHincmarus (4) Laudunensis episcopus.\nErchenraus (5) Catalamensis episcopus.\nRodebertus (6) Cenomanensis episcopus.\nHerluuinus (7) Comantiensis episcopus.\nHildebrindus (8) Sagensis episcopus.\nArardus (9) Lincornensis episcopus.\nWaltbertus (10) Abrincatensis episcopus.\nGodelschu (11) Cabillonensis episcopus.\nAbbo (12) Maurogensis episcopus.\nGroidingus (13) Madsenis episcopus.\nIsaac (14) Lingenensis episcopus.\nErchenbertus (15) Bajocacensis episcopus.\nLupus (16) abba.\nFrodoninus (17) abba.\nEverardus (18) abba.",
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 158,
+          "titulus_id": 34,
+          "original_name": "Franco",
+          "original_title": "Aurelianorum episcopus",
+          "footnote_num": "2",
+          "footnote_text": "Bituricensis metropolitanus episcopus.",
+          "normalized_name": "Agis",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Orl\u00e9ans"
+        },
+        {
+          "id": 159,
+          "titulus_id": 34,
+          "original_name": "Hildegaris",
+          "original_title": "Meldensis episcopus",
+          "footnote_num": "3",
+          "footnote_text": "Remorum archiepiscopus.",
+          "normalized_name": "Hildegar",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Meldun"
+        },
+        {
+          "id": 160,
+          "titulus_id": 34,
+          "original_name": "Hincmarus",
+          "original_title": "Laudunensis episcopus",
+          "footnote_num": "4",
+          "footnote_text": "Treverenssis archiepiscopus.",
+          "normalized_name": "Hincmar",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Laon"
+        },
+        {
+          "id": 161,
+          "titulus_id": 34,
+          "original_name": "Erchenraus",
+          "original_title": "Catalamensis episcopus",
+          "footnote_num": "5",
+          "footnote_text": "Lugdunensis archiepiscopus.",
+          "normalized_name": "Erchenrau",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Chartres"
+        },
+        {
+          "id": 162,
+          "titulus_id": 34,
+          "original_name": "Rodebertus",
+          "original_title": "Cenomanensis episcopus",
+          "footnote_num": "6",
+          "footnote_text": "Turonensis archiepiscopus.",
+          "normalized_name": "Rodebert",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Le Mans"
+        },
+        {
+          "id": 163,
+          "titulus_id": 34,
+          "original_name": "Herluuinus",
+          "original_title": "Comantiensis episcopus",
+          "footnote_num": "7",
+          "footnote_text": "Rotomagensis archiepiscopus.",
+          "normalized_name": "Herluin",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Compi\u00e8gne"
+        },
+        {
+          "id": 164,
+          "titulus_id": 34,
+          "original_name": "Hildebrindus",
+          "original_title": "Sagensis episcopus",
+          "footnote_num": "8",
+          "footnote_text": "Darentiagus episcopus.",
+          "normalized_name": "Hildebrand",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Saumur"
+        },
+        {
+          "id": 165,
+          "titulus_id": 34,
+          "original_name": "Arardus",
+          "original_title": "Lincornensis episcopus",
+          "footnote_num": "9",
+          "footnote_text": "Novigomagus episcopus.",
+          "normalized_name": "Arard",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Lincoln"
+        },
+        {
+          "id": 166,
+          "titulus_id": 34,
+          "original_name": "Waltbertus",
+          "original_title": "Abrincatensis episcopus",
+          "footnote_num": "10",
+          "footnote_text": "chesne, op. cit., t. I, p. 9.",
+          "normalized_name": "Walbert",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Abrincat"
+        },
+        {
+          "id": 167,
+          "titulus_id": 34,
+          "original_name": "Godelschu",
+          "original_title": "Cabillonensis episcopus",
+          "footnote_num": "11",
+          "footnote_text": "(8) Cet \u00e9v\u00eaque de Beauvais, en charge depuis",
+          "normalized_name": "Godeleuch",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Chablis"
+        },
+        {
+          "id": 168,
+          "titulus_id": 34,
+          "original_name": "Abbo",
+          "original_title": "Maurogensis episcopus",
+          "footnote_num": "12",
+          "footnote_text": "847 (cf. L. Duchesne, op. cit., t. III, p. 121),",
+          "normalized_name": "Abbo",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Maurogis"
+        },
+        {
+          "id": 169,
+          "titulus_id": 34,
+          "original_name": "Groidingus",
+          "original_title": "Madsenis episcopus",
+          "footnote_num": "13",
+          "footnote_text": "aurait \u00e9t\u00e9 massacr\u00e9 par les Normands le 25 juin",
+          "normalized_name": "Groidingus",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Maden"
+        },
+        {
+          "id": 170,
+          "titulus_id": 34,
+          "original_name": "Isaac",
+          "original_title": "Lingenensis episcopus",
+          "footnote_num": "14",
+          "footnote_text": "859 (cf. F. Lot, op. cit., p. 33, n. 3).",
+          "normalized_name": "Isaac",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Lingen"
+        },
+        {
+          "id": 171,
+          "titulus_id": 34,
+          "original_name": "Erchenbertus",
+          "original_title": "Bajocacensis episcopus",
+          "footnote_num": "15",
+          "footnote_text": "(9) \u00c9v\u00eaque de Metz, en charge du 7 ao\u00fbt 853",
+          "normalized_name": "Erchenbert",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Bayeux"
+        },
+        {
+          "id": 172,
+          "titulus_id": 34,
+          "original_name": "Lupus",
+          "original_title": "abba",
+          "footnote_num": "16",
+          "footnote_text": "au 31 ao\u00fbt 875, date de sa mort; cf. L. Du-",
+          "normalized_name": "Lupus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 173,
+          "titulus_id": 34,
+          "original_name": "Frodoninus",
+          "original_title": "abba",
+          "footnote_num": "17",
+          "footnote_text": "chesne, op. cit., t. III, p. 38.",
+          "normalized_name": "Frodonin",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 174,
+          "titulus_id": 34,
+          "original_name": "Everardus",
+          "original_title": "abba",
+          "footnote_num": "18",
+          "footnote_text": "(10) \u00c9v\u00eaque de Verdun, en charge de 847 au",
+          "normalized_name": "Everard",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
   "footnotes": [
     {
-      "id": 35571,
+      "id": 87,
       "roll_id": 19,
-      "pdf_page": 17,
+      "pdf_page": 12,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "A. Original perdu."
+    },
+    {
+      "id": 88,
+      "roll_id": 19,
+      "pdf_page": 12,
       "pdf_half": "right",
       "footnote_num": "1",
-      "text": "f,VurourmaldceilyaCleJ UCr CuCyCy"
+      "text": "Coloniensis ecclesiae metropolitanus episcopus."
+    },
+    {
+      "id": 89,
+      "roll_id": 19,
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Bituricensis metropolitanus episcopus."
+    },
+    {
+      "id": 90,
+      "roll_id": 19,
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Remorum archiepiscopus."
+    },
+    {
+      "id": 91,
+      "roll_id": 19,
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Treverenssis archiepiscopus."
+    },
+    {
+      "id": 92,
+      "roll_id": 19,
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "Lugdunensis archiepiscopus."
+    },
+    {
+      "id": 93,
+      "roll_id": 19,
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "Turonensis archiepiscopus."
+    },
+    {
+      "id": 94,
+      "roll_id": 19,
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "footnote_num": "7",
+      "text": "Rotomagensis archiepiscopus."
+    },
+    {
+      "id": 95,
+      "roll_id": 19,
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "footnote_num": "8",
+      "text": "Darentiagus episcopus."
+    },
+    {
+      "id": 96,
+      "roll_id": 19,
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "footnote_num": "9",
+      "text": "Novigomagus episcopus."
+    },
+    {
+      "id": 116,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "",
+      "text": "1er janvier 870, date de sa mort; cf. L. Du-"
+    },
+    {
+      "id": 97,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "grande invasion de 856-862; dans"
+    },
+    {
+      "id": 98,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "B.F.R.H., t. LXXIV, 1908, p. 33, n. 3) por lo que"
+    },
+    {
+      "id": 99,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "l'on \u0644\u0645\u0639ass\u00e9 par les Normands en 859;"
+    },
+    {
+      "id": 100,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": "comme l'indiquent les Annales de Senon-"
+    },
+    {
+      "id": 101,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": "sini, et la mention de son nom"
+    },
+    {
+      "id": 102,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "6",
+      "text": "dans les actes du comte de Tours est le r\u00e9sultat"
+    },
+    {
+      "id": 103,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "7",
+      "text": "d'une incursion"
+    },
+    {
+      "id": 106,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "7",
+      "text": ""
+    },
+    {
+      "id": 104,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "8",
+      "text": "d'une incursion (sain) \u00e0 son \u00e2ge. Cf. D.L.F.G., t. XXV, col. 935-936"
+    },
+    {
+      "id": 105,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "9",
+      "text": "(R. Aubert)."
+    },
+    {
+      "id": 107,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "10",
+      "text": "chesne, op. cit., t. I, p. 9."
+    },
+    {
+      "id": 108,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "11",
+      "text": "(8) Cet \u00e9v\u00eaque de Beauvais, en charge depuis"
+    },
+    {
+      "id": 109,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "12",
+      "text": "847 (cf. L. Duchesne, op. cit., t. III, p. 121),"
+    },
+    {
+      "id": 110,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "13",
+      "text": "aurait \u00e9t\u00e9 massacr\u00e9 par les Normands le 25 juin"
+    },
+    {
+      "id": 111,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "14",
+      "text": "859 (cf. F. Lot, op. cit., p. 33, n. 3)."
+    },
+    {
+      "id": 112,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "15",
+      "text": "(9) \u00c9v\u00eaque de Metz, en charge du 7 ao\u00fbt 853"
+    },
+    {
+      "id": 113,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "16",
+      "text": "au 31 ao\u00fbt 875, date de sa mort; cf. L. Du-"
+    },
+    {
+      "id": 114,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "17",
+      "text": "chesne, op. cit., t. III, p. 38."
+    },
+    {
+      "id": 115,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "18",
+      "text": "(10) \u00c9v\u00eaque de Verdun, en charge de 847 au"
+    },
+    {
+      "id": 117,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "20",
+      "text": "chesne, op. cit., t. III, p. 74."
+    },
+    {
+      "id": 118,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "21",
+      "text": "(11) \u00c9v\u00eaque d'Auxerre, en charge de 857 au"
+    },
+    {
+      "id": 119,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "22",
+      "text": "3 d\u00e9cembre 869 (cf. L. Duchesne, op. cit., t. II,"
+    },
+    {
+      "id": 120,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "23",
+      "text": "p. 451; F. Lot, op. cit., p. 33, n. 3);"
+    },
+    {
+      "id": 121,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "24",
+      "text": "(12) \u00c9v\u00eaque de Paris, en charge de 857 au"
+    },
+    {
+      "id": 122,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "25",
+      "text": "27 d\u00e9cembre 870, date de sa mort; cf. L. Du-"
+    },
+    {
+      "id": 123,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "26",
+      "text": "chesne, op. cit., t. II, p. 475."
+    },
+    {
+      "id": 124,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "27",
+      "text": "(13) \u00c9v\u00eaque de Chartres (859-878); cf."
+    },
+    {
+      "id": 125,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "28",
+      "text": "L. Duchesne, op. cit., t. II, p. 430."
+    },
+    {
+      "id": 126,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "29",
+      "text": "(14) \u00c9v\u00eaque d'Auxerre (856-869); cf. L. Du-"
+    },
+    {
+      "id": 127,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "30",
+      "text": "chesne, op. cit., t. II, p. 229."
+    },
+    {
+      "id": 128,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "31",
+      "text": "(15) \u00c9v\u00eaque de Valence (859-879); cf. L. Du-"
+    },
+    {
+      "id": 129,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "32",
+      "text": "chesne, op. cit., t. I, p. 225."
+    },
+    {
+      "id": 130,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "\u00c9v\u00eaque de Tongeren [Li\u00e8ge de 858 au 9 juin 901, jour de sa mort; cf. L. Duchesne, op. cit., t. II, p. 463."
+    },
+    {
+      "id": 131,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "\u00c9v\u00eaque de Maurennne (858-860); cf. L. Duchesne, op. cit., t. I, p. 241."
+    },
+    {
+      "id": 132,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Goidingus (ou Braindingus), \u00e9v\u00eaque de Macon (853-862); cf. L. Duchesne, op. cit., t. II, p. 198."
+    },
+    {
+      "id": 133,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "\u00c9v\u00eaque de Langres, tu\u00e9 de 856 au 17 juillet 880, date de sa mort; cf. L. Duchesne, op. cit., t. I, p. 198."
+    },
+    {
+      "id": 134,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "\u00c9v\u00eaque de Bayeux (859-876); cf. L. Duchesne, op. cit., t. II, p. 221."
+    },
+    {
+      "id": 135,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "Abb\u00e9 de Ferri\u00e8res (840-862); cf. L. Le Villain, Georges, Correspondance de Loup de Ferri\u00e8res, Paris, t. I, 1957, p. IIIX."
+    },
+    {
+      "id": 136,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "footnote_num": "7",
+      "text": "Peut-\u00eatre abb\u00e9 de Sulpice de Bourges, b\u00e9n\u00e9ficiaire d'un dipl\u00f4me de Charles le Chauve, le 25 septembre 855 (ed. G. Tessier, op. cit., t. I, 1943, p. 469, n\u00b0 178)."
+    },
+    {
+      "id": 137,
+      "roll_id": 19,
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "footnote_num": "8",
+      "text": "\u00c9v\u00eaque de Chalon-sur-Sa\u00f4ne (843-862);"
     }
   ]
 }

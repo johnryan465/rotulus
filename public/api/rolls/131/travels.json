@@ -1,0 +1,35 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Redon Abbey, France",
+    "coords": [
+      47.6534,
+      -2.085
+    ],
+    "year": 1133,
+    "date_str": "S. d. [vers 1133]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire de Herv\u00e9, abb\u00e9 [de Redon]...."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Chuny",
+    "coords": null,
+    "year": 1133,
+    "date_str": "S. d. [vers 1133]",
+    "is_approximate": true,
+    "description": "monks of Chuny (monk)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Liege",
+    "coords": null,
+    "year": 1133,
+    "date_str": "S. d. [vers 1133]",
+    "is_approximate": true,
+    "description": "Li\u00e8ge ()"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "roll": {
+    "id": 15,
+    "roll_num": 17,
+    "date_str": "800, 20 janvier.",
+    "title": "Institution de \u00ab litterae \u00bb mortuaires lors du concile de Salzburg.",
+    "manuscripts": "A. Original perdu.",
+    "pdf_source": "1",
+    "pdf_pages": "9",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 22,
+      "roll_id": 15,
+      "title": "",
+      "location_name": "",
+      "latin_text": "ae luce migravit, ad credimus, ad Christum. Quus ex re obnixe obsecramus almatem vestram, ut pro iptius anima is sic jubemini agere de psalmis ad missis adque vigiliis seu ingens bonitas vestra consuevit. Obtamvs vos semper bene valere.",
+      "pdf_page": 9,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 23,
+      "roll_id": 15,
+      "title": "16",
+      "location_name": "",
+      "latin_text": "Domino retroversum episcopo. Sinthertus, gracia Dei vocatus episcopus atque abba monasterii, unacum fratribu, gracia Dei vocatus episcopus atque abba monasterii, unacum fratribu, eternam in Christo Domino nostro salutem. De certo comperat beatitudo vestra eo quod frater Ihesu vester, nomine ille, calendas idus exoramus, ut credimus, ad Christum. Qua de causa supplices exoramus sanctitatem vestram, ut pro ejus anima de psalmis seu missis vigilisse taliter agatis ut optima continet consuetudo vestra, et ut apices in antea remaneare facsimile postulamus.",
+      "pdf_page": 9,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 101,
+          "titulus_id": 23,
+          "original_name": "Sinthertus",
+          "original_title": "gracia Dei vocatus episcopus atque abba monasterii",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Sinthertus",
+          "normalized_role": "bishop and abbot",
+          "normalized_dates": "",
+          "location_name": "Murbach"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 76,
+      "roll_id": 15,
+      "pdf_page": 9,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "(1) Sur cette date, cf. supra, p. 16, n. 1."
+    },
+    {
+      "id": 77,
+      "roll_id": 15,
+      "pdf_page": 9,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "(792 [1])"
+    }
+  ]
+}

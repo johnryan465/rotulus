@@ -1,0 +1,48 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": null,
+    "date_str": "S.d. [X\u00ba s.]",
+    "is_approximate": false,
+    "description": "Origin: Titres compos\u00e9s \u00e0 S. Mesmin de Micy et \u00e0 S. Laumer..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Sherborne",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d. [X\u00ba s.]",
+    "is_approximate": true,
+    "description": "Saint Dunstan (bishop)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": null,
+    "date_str": "S.d. [X\u00ba s.]",
+    "is_approximate": false,
+    "description": "Paris ()"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Blois, S. Laumer",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d. [X\u00ba s.]",
+    "is_approximate": true,
+    "description": "Titulus Header: Blois, S. Laumer"
+  }
+]

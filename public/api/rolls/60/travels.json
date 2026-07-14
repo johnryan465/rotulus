@@ -1,0 +1,344 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Ripoll, Spain",
+    "coords": [
+      42.1997,
+      2.1911
+    ],
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire de Seniofredus, abb\u00e9 de Ripoll (..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Arles-sur-Tech, France",
+    "coords": [
+      42.4564,
+      2.6347
+    ],
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": false,
+    "description": "Saint Mary of Arles ()"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Sor\u00e8de",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Saint Andrew ()"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Rosellon",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Saint Stephen ()"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "S.d.- S. Est\u00e8ve",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: S.d.- S. Est\u00e8ve"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Fenouillet",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Saint Paul ()"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Montlieu",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: Montlieu"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Sor\u00e8ze",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: Sor\u00e8ze"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Alet",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: Alet"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Castres",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: Castres"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Varisnense",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Mary (Saint)"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "Varen",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: Varen"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Conques",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: Conques"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "Concesse",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: Concesse"
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "Bellilocense",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: Bellilocense"
+  },
+  {
+    "step": 15,
+    "type": "stop",
+    "name": "Soligniencse",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: Soligniencse"
+  },
+  {
+    "step": 16,
+    "type": "stop",
+    "name": "S\u00aa Maria",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: S\u00aa Maria"
+  },
+  {
+    "step": 17,
+    "type": "stop",
+    "name": "Rocetiense or Rodenenense",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: Rocetiense or Rodenenense"
+  },
+  {
+    "step": 18,
+    "type": "stop",
+    "name": "Uzerche",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: Uzerche"
+  },
+  {
+    "step": 19,
+    "type": "stop",
+    "name": "S. Amant-de-Boixe",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Amant-de-Boixe"
+  },
+  {
+    "step": 20,
+    "type": "stop",
+    "name": "Angoul\u00eame",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: Angoul\u00eame"
+  },
+  {
+    "step": 21,
+    "type": "stop",
+    "name": "Brant\u00f4me",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: Brant\u00f4me"
+  },
+  {
+    "step": 22,
+    "type": "stop",
+    "name": "Sor\u00e8de",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Saint Andr\u00e9 ()"
+  },
+  {
+    "step": 23,
+    "type": "stop",
+    "name": "Tomolac",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Sainte Marie ()"
+  },
+  {
+    "step": 24,
+    "type": "stop",
+    "name": "Exins",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Saint Gervais ()"
+  },
+  {
+    "step": 25,
+    "type": "stop",
+    "name": "Agen",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Saint Maurin ()"
+  },
+  {
+    "step": 26,
+    "type": "stop",
+    "name": "Moissac.",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: Moissac."
+  },
+  {
+    "step": 27,
+    "type": "stop",
+    "name": "Cayrac",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Saint Pierre ()"
+  },
+  {
+    "step": 28,
+    "type": "stop",
+    "name": "Tasconense",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Saint Martin ()"
+  },
+  {
+    "step": 29,
+    "type": "stop",
+    "name": "Rodes",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: Rodes"
+  },
+  {
+    "step": 30,
+    "type": "stop",
+    "name": "Roses",
+    "coords": null,
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": true,
+    "description": "Titulus Header: Roses"
+  },
+  {
+    "step": 31,
+    "type": "stop",
+    "name": "Toulouse, France",
+    "coords": [
+      43.6047,
+      1.4442
+    ],
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": false,
+    "description": "Saturninus ()"
+  },
+  {
+    "step": 32,
+    "type": "stop",
+    "name": "Besal\u00fa, Spain",
+    "coords": [
+      42.1994,
+      2.6967
+    ],
+    "year": 1008,
+    "date_str": "1008, mi-audit \u2013 1009, mi-avril",
+    "is_approximate": false,
+    "description": "Peter ()"
+  }
+]

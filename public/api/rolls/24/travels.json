@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Vatican City",
+    "coords": [
+      41.9022,
+      12.4539
+    ],
+    "year": null,
+    "date_str": "S.d. [IX^e s.]",
+    "is_approximate": false,
+    "description": "Origin: Formule de bref mortuaire...."
+  }
+]

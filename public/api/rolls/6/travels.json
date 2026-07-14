@@ -1,0 +1,28 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Lettret",
+    "coords": [
+      44.468333333333,
+      6.0611111111111
+    ],
+    "year": 769,
+    "date_str": "S.d. [sept. 769-770]",
+    "is_approximate": false,
+    "description": "Origin: Lettre circulaire adress\u00e9e par \u00ab Virgilius \u00bb, \u00e9v\u00eaq..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Salzburg, Austria",
+    "coords": [
+      47.8095,
+      13.055
+    ],
+    "year": 769,
+    "date_str": "S.d. [sept. 769-770]",
+    "is_approximate": false,
+    "description": "Virgilius (bishop)"
+  }
+]

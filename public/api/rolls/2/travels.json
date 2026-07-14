@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Lettret",
+    "coords": [
+      44.468333333333,
+      6.0611111111111
+    ],
+    "year": 747,
+    "date_str": "S.d. [747-749]",
+    "is_approximate": false,
+    "description": "Origin: Lettre d'Aelfwold, du East Anglia, au Boniface lui..."
+  }
+]

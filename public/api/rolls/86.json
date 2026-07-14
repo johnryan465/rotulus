@@ -1,55 +1,168 @@
 {
   "roll": {
     "id": 86,
-    "roll_num": "143",
-    "date_str": "S.d.",
-    "title": "S.d. [1157, apr\u00e8s le 4 novembre] Rouleau mortuaire de Calon, \u00e9v\u00eaque de Poitiers (t novembre 1157) . [Calon; archidiacre de Thouars, a succ\u00e8d\u00e9 \u00e0 Cilbert de La Porr\u00e9e comme \u00e9v\u00eaque de Poitiers de 1155 \u00e0 1157 il est fort mal connu 5 Gr\u00e2ce \u00e0 deux mentions du Gallia christiana (. II, col. 1179 et 143), on sait que le rouleau mortuaire mis en circulation pour Calon, aujourd hui perdu \u20ac , \u00e9tait encore conserv\u00e9 au XVIII & Elles font \u00e9tat de [origine noble de ce personnage, ainsi que de divers membres de sa famille, de sa s\u0153ur Belota; prieure de N.D.de Rives et de ses neveux, Hugues, moine d Uzerche; et Guillaume, clerc de l\u00e9glise de Nantes. De plus, elles semblent indiquer que des titres furent appos\u00e9s, entre 10 autres; par [hospice de Loudun; par P\u00e9glise de Bordeaux; par Fabbaye de Massay et, sans doute, par P\u00e9glise de Clermont",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (4)",
-    "pdf_pages": "74,75",
+    "roll_num": 81,
+    "date_str": "S.d.[1096, apr\u00e8s le 21 janvier]",
+    "title": "Titres compos\u00e9s par Baudri de Bourgueil pour le rouleau mortuaire de Renaud [I\" du Bellay], archev\u00eaque de Reims.",
+    "manuscripts": "A. Original perdu.\nB. Vaticano, Reg. lat. 1351, fol. 27 et 37v (deux mains diff\u00e9rentes du XII\u00aa s.).\na. Duchesne, Historiae Francorum scriptores, pars, t. IV, 1641, p. 252 et 267, \u00ab ex vetere codice ms. Alexandri Petavi. \u00bb .\nb. Gallia christiana, t. IX, col. 77, d'apr\u00e8s a (ed. partielle). - c. P. L. CLXVI, col. 1183 et 1197. - d. P. Abraham, Les oeuvres po\u00e9tiques de Baudri de Bourgueil, Paris, 1926, p. 59, n\u00ba LII et p. 25 (1046-1130). Edition critique publi\u00e9e d'apr\u00e8s le ms. du Vatican... .",
+    "pdf_source": "2",
+    "pdf_pages": "37,38,39",
     "is_verified": 0
   },
-  "tituli": [],
+  "tituli": [
+    {
+      "id": 778,
+      "roll_id": 86,
+      "title": "",
+      "location_name": "",
+      "latin_text": "\u00ab Lanfrancus itaque primus Cadomadens abbas factus est, sed paulo post ad Cantuariensem episcopatum promotus est. Erat idem natione Langobardus, liberum artium eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditionem affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi arum eruditione affluentem Langobardus, liberi",
+      "pdf_page": 37,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 779,
+      "roll_id": 86,
+      "title": "",
+      "location_name": "Raimildi Remensis",
+      "latin_text": "In rotulo Raimildi Remensis.\nSi quid defunctos posset mea\u1042 musa juvare,\nDeberamus musam re vera continuar\u0113.\nSed pro defunctis potius duo sint facienda,\nUsque qu\u00e6 nobis et jus designat agenda.\nNam pro defunctis jus et compassu plorat\nEt pro salvandis animabus proximus orat.\nErgo, brevem musam ponamus pro monumento\nPro te nostra mediam, pater optime, fluctibus ora.\nOramus pro te; pro nobis, que usmos, ora.",
+      "pdf_page": 38,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2522,
+          "titulus_id": 779,
+          "original_name": "Raimildi Remensis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Raimold of Reims",
+          "normalized_role": "Bishop/Cleric",
+          "normalized_dates": "",
+          "location_name": "Reims"
+        }
+      ]
+    },
+    {
+      "id": 780,
+      "roll_id": 86,
+      "title": "",
+      "location_name": "",
+      "latin_text": "In rotulo Natalis abbatis.\n\n15 In rotulo multi, cum sollicitudine quadratum\nDicendi seriem semper metantur ad Adam.\nAt, dum pro primi plasmati crimine plorant,\nSepuie incrassum subnectere multa laborant.\nSed pro Natali nunc est albo loquendum;\n20 Ergo, quod prosit scriptu fiunt adjiciendum.\nCulter Natalis monachorum religiosis\nCeli jugatur, Christo miserere, colonis.\nHunc, Nicholae, tuus precipuis meritisque tueu,\nQuem sibi patronum vivens delegit lubere.\n25 Nos pro Natali carnem faceremus ambeli,\nSi multum carnem posset prodessse fideli;\nSed quia non prosunt odarum garrulitates \n(a)\nOdarum, quibus, sequamos levitates.",
+      "pdf_page": 39,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2523,
+          "titulus_id": 780,
+          "original_name": "Adam",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Adam",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2524,
+          "titulus_id": 780,
+          "original_name": "Christo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2525,
+          "titulus_id": 780,
+          "original_name": "Nicholae",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Nicholas",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
   "footnotes": [
     {
-      "id": 36171,
+      "id": 911,
       "roll_id": 86,
-      "pdf_page": 75,
+      "pdf_page": 38,
       "pdf_half": "left",
       "footnote_num": "1",
-      "text": "VCrs, oc 76) puis des deux suivants;  @-orhis B. puis des denx suivants () c-cssc R. (a) Notc interlincaire vel orbis B."
+      "text": "Ed. Gallia christiana, t. X, instr. col. 29,"
     },
     {
-      "id": 36172,
+      "id": 912,
       "roll_id": 86,
-      "pdf_page": 75,
+      "pdf_page": 38,
       "pdf_half": "left",
       "footnote_num": "2",
-      "text": "sujet, cf, of Knowles/ Teligious / 'Brookr; Hvads 96, houses England and Wales; 109"
+      "text": "n\u00b0 XXV ; cf. Jaff\u00e9, p. 5415 (4042)."
     },
     {
-      "id": 36173,
+      "id": 913,
       "roll_id": 86,
-      "pdf_page": 75,
+      "pdf_page": 38,
       "pdf_half": "left",
       "footnote_num": "3",
-      "text": "\u00c9d. supra"
+      "text": "A ce sujet, cf. A. Fl\u00e8che, Le r\u00e8gne de Philippe Ier (1060-1108), Paris, 1912, p. 47, 52 et passim."
     },
     {
-      "id": 36174,
+      "id": 914,
       "roll_id": 86,
-      "pdf_page": 75,
+      "pdf_page": 38,
       "pdf_half": "left",
       "footnote_num": "4",
-      "text": "B. en commun, sont (crites"
+      "text": "Cf. P.-R. Gauvin, L'abbaye de La Chaise-Dieu (1043-1518), Paris, 1962, p. 137."
     },
     {
-      "id": 36175,
+      "id": 915,
       "roll_id": 86,
-      "pdf_page": 75,
+      "pdf_page": 38,
       "pdf_half": "left",
       "footnote_num": "5",
-      "text": "132. 638 A 580. n' 123 et p"
+      "text": "Sur cette restauration, cf. notamment B. Delmaire, Le dioc\u00e8se d\u2019Arras au milieu du XIVe s., Arras, 1994, p. 41-53."
+    },
+    {
+      "id": 916,
+      "roll_id": 86,
+      "pdf_page": 38,
+      "pdf_half": "left",
+      "footnote_num": "6",
+      "text": "Cf. Gallia christiana, t. IX, col. 77."
+    },
+    {
+      "id": 917,
+      "roll_id": 86,
+      "pdf_page": 38,
+      "pdf_half": "left",
+      "footnote_num": "7",
+      "text": "Op. cit., t. I, p. XXIX."
+    },
+    {
+      "id": 918,
+      "roll_id": 86,
+      "pdf_page": 38,
+      "pdf_half": "right",
+      "footnote_num": "",
+      "text": "TRADUCTION : J.-Y. Tillotte, loc. cit."
+    },
+    {
+      "id": 919,
+      "roll_id": 86,
+      "pdf_page": 39,
+      "pdf_half": "left",
+      "footnote_num": "(a)",
+      "text": "garrulatas (sic) corrigi garrulitates ex expunctione du n B."
     }
   ]
 }

@@ -1,0 +1,35 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Bref",
+    "coords": null,
+    "year": 956,
+    "date_str": "S.d. [apr\u00e8s le 1\u00ba janvier 956]",
+    "is_approximate": true,
+    "description": "Origin: Bref mortuaire envoy\u00e9 par l'abbaye de S. Gallen \u00e0 ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "S. Gallen",
+    "coords": null,
+    "year": 956,
+    "date_str": "S.d. [apr\u00e8s le 1\u00ba janvier 956]",
+    "is_approximate": true,
+    "description": "Liuprand (priest)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "St. Gallen, Switzerland",
+    "coords": [
+      47.4239,
+      9.3747
+    ],
+    "year": 956,
+    "date_str": "S.d. [apr\u00e8s le 1\u00ba janvier 956]",
+    "is_approximate": false,
+    "description": "St. Gallen ()"
+  }
+]

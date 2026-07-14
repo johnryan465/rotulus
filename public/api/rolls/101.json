@@ -1,0 +1,87 @@
+{
+  "roll": {
+    "id": 101,
+    "roll_num": 98,
+    "date_str": "S.d. (fin XIe s., d\u00e9but XIIe s.)",
+    "title": "Encyclique (fragmentaire) sollicitant de prier pour un religieux de D\u00e9ols.",
+    "manuscripts": "A. Paris, B. N. F., nouv. aq. lat. 1630 (anc. Libri 85), fol. 24 (1). Parch\u00e9min (espais ; c. et c. p. jaun\u00eates) (2). Un fragment anopisthographe. Longueur, 21,5 cm ; largeur, 31 cm.\na. L. Delisle, B. N. Catalogue des mss. des fonds Libri et Barrois, 1888, p. 104, d'apr\u00e8s A.",
+    "pdf_source": "2",
+    "pdf_pages": "51",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 810,
+      "roll_id": 101,
+      "title": "",
+      "location_name": "",
+      "latin_text": "INEFFABILIS (3) ET INCOMPREHENSIBILIS DEI OMNIPOTENTIS MAJESTATI IN ARVO SUBJECTIS, PATRIBUS VIDELICET AMIS, adelphis queo carissimis neore sororibus 10 perspicuis, illibate teethonac MARIAS apostolorumque PETRI ET PAULI Dolensis coenobii addele collegium, presentis stati de horde triumptum demumque rutilantia in choreis supernorum civum omnis. Omnis liber omnibus pagina catholici auctoritatis veritate subnexa, fere in suis omnibus paginis, protoplasti prevari- cationis monumenta verissima assertione, quam antiquis illique politiae sedes- 15 tor ac fraterni contubernii lividus accusator primis terrigenis anguina per organa susurravit in are, distinctis juridici veritate <.......>.",
+      "pdf_page": 51,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2592,
+          "titulus_id": 810,
+          "original_name": "MARIAS",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2593,
+          "titulus_id": 810,
+          "original_name": "PETRI",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2594,
+          "titulus_id": 810,
+          "original_name": "PAULI",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Paul",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 974,
+      "roll_id": 101,
+      "pdf_page": 51,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Le fol. 24 constitue le sixi\u00e8me fragment de ce ms. composite."
+    },
+    {
+      "id": 975,
+      "roll_id": 101,
+      "pdf_page": 51,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "On a copi\u00e9 au verso, au XIIe s., le d\u00e9but de"
+    },
+    {
+      "id": 976,
+      "roll_id": 101,
+      "pdf_page": 51,
+      "pdf_half": "right",
+      "footnote_num": "(3)",
+      "text": "Les deux premi\u00e8res lignes, en capitales hautes de 3,2 cm pour l'une, en onciales et minuscules de 1 \u00e0 2,2 cm pour l'autre, sont compos\u00e9es de lettres parfois enlaci\u00e9es. L'initiale I, dessin\u00e9e, du mot Ineffabilis mesure 16 cm de haut sur 4,5 cm de large.\u2014 (b) La suite de ce texte est tronqu\u00e9e."
+    }
+  ]
+}

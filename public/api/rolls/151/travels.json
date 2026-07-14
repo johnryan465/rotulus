@@ -1,0 +1,4527 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Angers, France",
+    "coords": [
+      47.4736,
+      -0.5542
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Origin: Echange de brefs institu\u00e9 entre Pierre, abb\u00e9 de S...."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Saint-Maxent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Peter (abbot)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Saint-Albin",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "William (abbot)"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Alet",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Alet"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Angoul\u00eame",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Angoul\u00eame"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Arles-sur-Tech, France",
+    "coords": [
+      42.4564,
+      2.6347
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Arles-sur-Tech"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Autun",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Autun"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Beaujeu-sur-Dordogne",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Beaujeu-sur-Dordogne"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "B\u00e9lau",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: B\u00e9lau"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Brant\u00f4me",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Brant\u00f4me"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Castres",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Castres"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "Cavaillon",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Cavaillon"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Charraz",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Charraz"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "Coloma",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Coloma"
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "Conques",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Conques"
+  },
+  {
+    "step": 15,
+    "type": "stop",
+    "name": "Eysses",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Eysses"
+  },
+  {
+    "step": 16,
+    "type": "stop",
+    "name": "Figues",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Figues"
+  },
+  {
+    "step": 17,
+    "type": "stop",
+    "name": "Fons",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Fons"
+  },
+  {
+    "step": 18,
+    "type": "stop",
+    "name": "Issigeac",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Issigeac"
+  },
+  {
+    "step": 19,
+    "type": "stop",
+    "name": "Maurs",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Maurs"
+  },
+  {
+    "step": 20,
+    "type": "stop",
+    "name": "Moissac",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Moissac"
+  },
+  {
+    "step": 21,
+    "type": "stop",
+    "name": "Montauban",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Montauban"
+  },
+  {
+    "step": 22,
+    "type": "stop",
+    "name": "Montlieu",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Montlieu"
+  },
+  {
+    "step": 23,
+    "type": "stop",
+    "name": "Paume",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Paume"
+  },
+  {
+    "step": 24,
+    "type": "stop",
+    "name": "P\u00e9rigueux",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: P\u00e9rigueux"
+  },
+  {
+    "step": 25,
+    "type": "stop",
+    "name": "Rodes",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Rodes"
+  },
+  {
+    "step": 26,
+    "type": "stop",
+    "name": "Roses",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Roses"
+  },
+  {
+    "step": 27,
+    "type": "stop",
+    "name": "S. Amant-de-Boixe",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Amant-de-Boixe"
+  },
+  {
+    "step": 28,
+    "type": "stop",
+    "name": "S. Est\u00e8ve",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Est\u00e8ve"
+  },
+  {
+    "step": 29,
+    "type": "stop",
+    "name": "S. Hilaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Hilaire"
+  },
+  {
+    "step": 30,
+    "type": "stop",
+    "name": "S. Maurin",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Maurin"
+  },
+  {
+    "step": 31,
+    "type": "stop",
+    "name": "S. Paul-de-Fenouillet",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Paul-de-Fenouillet"
+  },
+  {
+    "step": 32,
+    "type": "stop",
+    "name": "Solignac",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Solignac"
+  },
+  {
+    "step": 33,
+    "type": "stop",
+    "name": "Sor\u00e8de",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Sor\u00e8de"
+  },
+  {
+    "step": 34,
+    "type": "stop",
+    "name": "Sor\u00e8ze",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Sor\u00e8ze"
+  },
+  {
+    "step": 35,
+    "type": "stop",
+    "name": "Toulouse, France",
+    "coords": [
+      43.6047,
+      1.4442
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Toulouse"
+  },
+  {
+    "step": 36,
+    "type": "stop",
+    "name": "Tr\u00e9molat",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Tr\u00e9molat"
+  },
+  {
+    "step": 37,
+    "type": "stop",
+    "name": "Uzerche",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Uzerche"
+  },
+  {
+    "step": 38,
+    "type": "stop",
+    "name": "Varen",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Varen"
+  },
+  {
+    "step": 39,
+    "type": "stop",
+    "name": "Albi",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Albi"
+  },
+  {
+    "step": 40,
+    "type": "stop",
+    "name": "Alet",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Alet"
+  },
+  {
+    "step": 41,
+    "type": "stop",
+    "name": "Anyls-Duc",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Anyls-Duc"
+  },
+  {
+    "step": 42,
+    "type": "stop",
+    "name": "Arques-Tech",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Arques-Tech"
+  },
+  {
+    "step": 43,
+    "type": "stop",
+    "name": "Arras-Pompador",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Arras-Pompador"
+  },
+  {
+    "step": 44,
+    "type": "stop",
+    "name": "Autun",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Autun"
+  },
+  {
+    "step": 45,
+    "type": "stop",
+    "name": "Bages",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bages"
+  },
+  {
+    "step": 46,
+    "type": "stop",
+    "name": "L\u00e9sirge",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: L\u00e9sirge"
+  },
+  {
+    "step": 47,
+    "type": "stop",
+    "name": "Lligu\u00e9",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Lligu\u00e9"
+  },
+  {
+    "step": 48,
+    "type": "stop",
+    "name": "Llimanes",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Llimanes"
+  },
+  {
+    "step": 49,
+    "type": "stop",
+    "name": "Marmorasse",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Marmorasse"
+  },
+  {
+    "step": 50,
+    "type": "stop",
+    "name": "Manlleu",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Manlleu"
+  },
+  {
+    "step": 51,
+    "type": "stop",
+    "name": "Moines",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Moines"
+  },
+  {
+    "step": 52,
+    "type": "stop",
+    "name": "Monaster-sur-Garrelle (Le)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Monaster-sur-Garrelle (Le)"
+  },
+  {
+    "step": 53,
+    "type": "stop",
+    "name": "Montsalvat",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Montsalvat"
+  },
+  {
+    "step": 54,
+    "type": "stop",
+    "name": "Montserrat",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Montserrat"
+  },
+  {
+    "step": 55,
+    "type": "stop",
+    "name": "Nostra-de-Bernassone",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Nostra-de-Bernassone"
+  },
+  {
+    "step": 56,
+    "type": "stop",
+    "name": "Noyau",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Noyau"
+  },
+  {
+    "step": 57,
+    "type": "stop",
+    "name": "Potiers",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Potiers"
+  },
+  {
+    "step": 58,
+    "type": "stop",
+    "name": "Pay (Le)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Pay (Le)"
+  },
+  {
+    "step": 59,
+    "type": "stop",
+    "name": "Reilhac",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Reilhac"
+  },
+  {
+    "step": 60,
+    "type": "stop",
+    "name": "Rodes",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Rodes"
+  },
+  {
+    "step": 61,
+    "type": "stop",
+    "name": "Roses",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Roses"
+  },
+  {
+    "step": 62,
+    "type": "stop",
+    "name": "S. Amand-de-Coly",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Amand-de-Coly"
+  },
+  {
+    "step": 63,
+    "type": "stop",
+    "name": "S. Antonin",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Antonin"
+  },
+  {
+    "step": 64,
+    "type": "stop",
+    "name": "S. Cugat del Vall\u00e8s",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Cugat del Vall\u00e8s"
+  },
+  {
+    "step": 65,
+    "type": "stop",
+    "name": "S. Cyprien",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Cyprien"
+  },
+  {
+    "step": 66,
+    "type": "stop",
+    "name": "S. Genis-des-Fontaines",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Genis-des-Fontaines"
+  },
+  {
+    "step": 67,
+    "type": "stop",
+    "name": "S. Guillem-le-D\u00e9sert",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Guillem-le-D\u00e9sert"
+  },
+  {
+    "step": 68,
+    "type": "stop",
+    "name": "S. Hilaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Hilaire"
+  },
+  {
+    "step": 69,
+    "type": "stop",
+    "name": "S. Junien",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Junien"
+  },
+  {
+    "step": 70,
+    "type": "stop",
+    "name": "S. Lloren\u00e7 del Munt",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Lloren\u00e7 del Munt"
+  },
+  {
+    "step": 71,
+    "type": "stop",
+    "name": "Terrassa",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Sant Lloren\u00e7 del Munt ()"
+  },
+  {
+    "step": 72,
+    "type": "stop",
+    "name": "S. Martin-du-Canigou",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Martin-du-Canigou"
+  },
+  {
+    "step": 73,
+    "type": "stop",
+    "name": "S. Paul-de-Fenouillet",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Paul-de-Fenouillet"
+  },
+  {
+    "step": 74,
+    "type": "stop",
+    "name": "S. Polvacre",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Polvacre"
+  },
+  {
+    "step": 75,
+    "type": "stop",
+    "name": "S. Pons-de-Thomi\u00e8res",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Pons-de-Thomi\u00e8res"
+  },
+  {
+    "step": 76,
+    "type": "stop",
+    "name": "S. Thib\u00e9ry",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Thib\u00e9ry"
+  },
+  {
+    "step": 77,
+    "type": "stop",
+    "name": "Sarlat",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Sarlat"
+  },
+  {
+    "step": 78,
+    "type": "stop",
+    "name": "Sauxillanges",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Sauxillanges"
+  },
+  {
+    "step": 79,
+    "type": "stop",
+    "name": "Serrateis",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Serrateis"
+  },
+  {
+    "step": 80,
+    "type": "stop",
+    "name": "Seu d'Urgell",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Seu d'Urgell"
+  },
+  {
+    "step": 81,
+    "type": "stop",
+    "name": "Solignac",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Solignac"
+  },
+  {
+    "step": 82,
+    "type": "stop",
+    "name": "Sor\u00e8de",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Sor\u00e8de"
+  },
+  {
+    "step": 83,
+    "type": "stop",
+    "name": "Sor\u00e8ze",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Sor\u00e8ze"
+  },
+  {
+    "step": 84,
+    "type": "stop",
+    "name": "Souillac",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Souillac"
+  },
+  {
+    "step": 85,
+    "type": "stop",
+    "name": "Tav\u00e9rnoles",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Tav\u00e9rnoles"
+  },
+  {
+    "step": 86,
+    "type": "stop",
+    "name": "Uzerche",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Uzerche"
+  },
+  {
+    "step": 87,
+    "type": "stop",
+    "name": "Varen",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Varen"
+  },
+  {
+    "step": 88,
+    "type": "stop",
+    "name": "Vic, Spain",
+    "coords": [
+      41.93,
+      2.2544
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Vic"
+  },
+  {
+    "step": 89,
+    "type": "stop",
+    "name": "Vielmur-sur-Agout",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Vielmur-sur-Agout"
+  },
+  {
+    "step": 90,
+    "type": "stop",
+    "name": "Vigeois",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Vigeois"
+  },
+  {
+    "step": 91,
+    "type": "stop",
+    "name": "Villelsin",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Villelsin"
+  },
+  {
+    "step": 92,
+    "type": "stop",
+    "name": "Villemagne",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Villemagne"
+  },
+  {
+    "step": 93,
+    "type": "stop",
+    "name": "Aachen",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Aachen"
+  },
+  {
+    "step": 94,
+    "type": "stop",
+    "name": "Ambl\u00e8ve",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ambl\u00e8ve"
+  },
+  {
+    "step": 95,
+    "type": "stop",
+    "name": "Arlon-Tech",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Arlon-Tech"
+  },
+  {
+    "step": 96,
+    "type": "stop",
+    "name": "Baesolt",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Baesolt"
+  },
+  {
+    "step": 97,
+    "type": "stop",
+    "name": "Baun-Molin (Le)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Baun-Molin (Le)"
+  },
+  {
+    "step": 98,
+    "type": "stop",
+    "name": "Bavay",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bavay"
+  },
+  {
+    "step": 99,
+    "type": "stop",
+    "name": "Beaul",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Beaul"
+  },
+  {
+    "step": 100,
+    "type": "stop",
+    "name": "Beize",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Beize"
+  },
+  {
+    "step": 101,
+    "type": "stop",
+    "name": "Blate",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Blate"
+  },
+  {
+    "step": 102,
+    "type": "stop",
+    "name": "Briande",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Briande"
+  },
+  {
+    "step": 103,
+    "type": "stop",
+    "name": "Bruy\u00e8re",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bruy\u00e8re"
+  },
+  {
+    "step": 104,
+    "type": "stop",
+    "name": "Burtscheid",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Burtscheid"
+  },
+  {
+    "step": 105,
+    "type": "stop",
+    "name": "Cambron",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Cambron"
+  },
+  {
+    "step": 106,
+    "type": "stop",
+    "name": "Cassel",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Cassel"
+  },
+  {
+    "step": 107,
+    "type": "stop",
+    "name": "Charroux",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Charroux"
+  },
+  {
+    "step": 108,
+    "type": "stop",
+    "name": "Cluny, France",
+    "coords": [
+      46.4351,
+      4.6592
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Cluny"
+  },
+  {
+    "step": 109,
+    "type": "stop",
+    "name": "Colmar",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Colmar"
+  },
+  {
+    "step": 110,
+    "type": "stop",
+    "name": "Flavigny Abbey, France",
+    "coords": [
+      47.5126,
+      4.5312
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Flavigny"
+  },
+  {
+    "step": 111,
+    "type": "stop",
+    "name": "Floreignes",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Floreignes"
+  },
+  {
+    "step": 112,
+    "type": "stop",
+    "name": "Fosse",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Fosse"
+  },
+  {
+    "step": 113,
+    "type": "stop",
+    "name": "Gaille",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Gaille"
+  },
+  {
+    "step": 114,
+    "type": "stop",
+    "name": "Gosselies",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Gosselies"
+  },
+  {
+    "step": 115,
+    "type": "stop",
+    "name": "Laguay-sur-Marne",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Laguay-sur-Marne"
+  },
+  {
+    "step": 116,
+    "type": "stop",
+    "name": "Lagrasse",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Lagrasse"
+  },
+  {
+    "step": 117,
+    "type": "stop",
+    "name": "Li\u00e8ge",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Li\u00e8ge"
+  },
+  {
+    "step": 118,
+    "type": "stop",
+    "name": "Lyon, France",
+    "coords": [
+      45.7597,
+      4.8422
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Lyon"
+  },
+  {
+    "step": 119,
+    "type": "stop",
+    "name": "Maastricht",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Maastricht"
+  },
+  {
+    "step": 120,
+    "type": "stop",
+    "name": "Monastier",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Monastier"
+  },
+  {
+    "step": 121,
+    "type": "stop",
+    "name": "Meaux, France",
+    "coords": [
+      48.95,
+      2.9
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Meaux"
+  },
+  {
+    "step": 122,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.1203,
+      6.1778
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Metz"
+  },
+  {
+    "step": 123,
+    "type": "stop",
+    "name": "Micy",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Micy"
+  },
+  {
+    "step": 124,
+    "type": "stop",
+    "name": "Monastier-sur-Gazelle (Le)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Monastier-sur-Gazelle (Le)"
+  },
+  {
+    "step": 125,
+    "type": "stop",
+    "name": "Montlieu",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Montlieu"
+  },
+  {
+    "step": 126,
+    "type": "stop",
+    "name": "Namur",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Namur"
+  },
+  {
+    "step": 127,
+    "type": "stop",
+    "name": "Nanteuil-en-Vall\u00e9e",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Nanteuil-en-Vall\u00e9e"
+  },
+  {
+    "step": 128,
+    "type": "stop",
+    "name": "Nouill\u00e9",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Nouill\u00e9"
+  },
+  {
+    "step": 129,
+    "type": "stop",
+    "name": "Orl\u00e9ans, France",
+    "coords": [
+      47.9025,
+      1.909
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Orl\u00e9ans"
+  },
+  {
+    "step": 130,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Paris"
+  },
+  {
+    "step": 131,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Poitiers"
+  },
+  {
+    "step": 132,
+    "type": "stop",
+    "name": "Psalmody",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Psalmody"
+  },
+  {
+    "step": 133,
+    "type": "stop",
+    "name": "Puy (Le)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Puy (Le)"
+  },
+  {
+    "step": 134,
+    "type": "stop",
+    "name": "Quincoy",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Quincoy"
+  },
+  {
+    "step": 135,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.25,
+      4.0333
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Reims"
+  },
+  {
+    "step": 136,
+    "type": "stop",
+    "name": "Villemagne",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Saint Martin and Saint Majan (saints)"
+  },
+  {
+    "step": 137,
+    "type": "stop",
+    "name": "Jean-\u00c9vang\u00e9liste-en-l'Ile",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Jean-\u00c9vang\u00e9liste-en-l'Ile"
+  },
+  {
+    "step": 138,
+    "type": "stop",
+    "name": "S. Laurent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Laurent"
+  },
+  {
+    "step": 139,
+    "type": "stop",
+    "name": "S. Pierre",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Pierre"
+  },
+  {
+    "step": 140,
+    "type": "stop",
+    "name": "Lyon, France",
+    "coords": [
+      45.7597,
+      4.8422
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Lyon"
+  },
+  {
+    "step": 141,
+    "type": "stop",
+    "name": "Maastricht",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Maastricht"
+  },
+  {
+    "step": 142,
+    "type": "stop",
+    "name": "Marne",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Marne"
+  },
+  {
+    "step": 143,
+    "type": "stop",
+    "name": "Meaux, France",
+    "coords": [
+      48.95,
+      2.9
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Meaux"
+  },
+  {
+    "step": 144,
+    "type": "stop",
+    "name": "Metz, France",
+    "coords": [
+      49.1203,
+      6.1778
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Metz"
+  },
+  {
+    "step": 145,
+    "type": "stop",
+    "name": "Micy",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Micy"
+  },
+  {
+    "step": 146,
+    "type": "stop",
+    "name": "Monastier-sur-Gazelle (Le)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Monastier-sur-Gazelle (Le)"
+  },
+  {
+    "step": 147,
+    "type": "stop",
+    "name": "Montlieu",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Montlieu"
+  },
+  {
+    "step": 148,
+    "type": "stop",
+    "name": "Namur",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Namur"
+  },
+  {
+    "step": 149,
+    "type": "stop",
+    "name": "Nanteuil-en-Vall\u00e9e",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Nanteuil-en-Vall\u00e9e"
+  },
+  {
+    "step": 150,
+    "type": "stop",
+    "name": "Nouill\u00e9",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Nouill\u00e9"
+  },
+  {
+    "step": 151,
+    "type": "stop",
+    "name": "Orl\u00e9ans, France",
+    "coords": [
+      47.9025,
+      1.909
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Orl\u00e9ans"
+  },
+  {
+    "step": 152,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Paris"
+  },
+  {
+    "step": 153,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Poitiers"
+  },
+  {
+    "step": 154,
+    "type": "stop",
+    "name": "Salmody",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Salmody"
+  },
+  {
+    "step": 155,
+    "type": "stop",
+    "name": "Puy (Le)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Puy (Le)"
+  },
+  {
+    "step": 156,
+    "type": "stop",
+    "name": "Quincay",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Quincay"
+  },
+  {
+    "step": 157,
+    "type": "stop",
+    "name": "Rebais Abbey, France",
+    "coords": [
+      48.8471,
+      3.2323
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Rebais"
+  },
+  {
+    "step": 158,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.25,
+      4.0333
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Reims"
+  },
+  {
+    "step": 159,
+    "type": "stop",
+    "name": "Ripoll, Spain",
+    "coords": [
+      42.1997,
+      2.1911
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Ripoll"
+  },
+  {
+    "step": 160,
+    "type": "stop",
+    "name": "Rodes",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Rodes"
+  },
+  {
+    "step": 161,
+    "type": "stop",
+    "name": "Roses",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Roses"
+  },
+  {
+    "step": 162,
+    "type": "stop",
+    "name": "S. Amant-de-Boixe",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Amant-de-Boixe"
+  },
+  {
+    "step": 163,
+    "type": "stop",
+    "name": "S. Antonin",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Antonin"
+  },
+  {
+    "step": 164,
+    "type": "stop",
+    "name": "S. Cugat del Vall\u00e8s",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Cugat del Vall\u00e8s"
+  },
+  {
+    "step": 165,
+    "type": "stop",
+    "name": "S. Denis",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Denis"
+  },
+  {
+    "step": 166,
+    "type": "stop",
+    "name": "S. Gravis-des-Fontaines",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Gravis-des-Fontaines"
+  },
+  {
+    "step": 167,
+    "type": "stop",
+    "name": "S. Guilhem-le-D\u00e9sert",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Guilhem-le-D\u00e9sert"
+  },
+  {
+    "step": 168,
+    "type": "stop",
+    "name": "S. Laurent-de-Cerdans",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Laurent-de-Cerdans"
+  },
+  {
+    "step": 169,
+    "type": "stop",
+    "name": "S. Lloren\u00e7 del Munt",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Lloren\u00e7 del Munt"
+  },
+  {
+    "step": 170,
+    "type": "stop",
+    "name": "S. Lloren\u00e7 del Munt (pr\u00e8s de Terrassa)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Lloren\u00e7 del Munt (pr\u00e8s de Terrassa)"
+  },
+  {
+    "step": 171,
+    "type": "stop",
+    "name": "S. Michel-de-Cuex",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Michel-de-Cuex"
+  },
+  {
+    "step": 172,
+    "type": "stop",
+    "name": "S. Miquel del Fai",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Miquel del Fai"
+  },
+  {
+    "step": 173,
+    "type": "stop",
+    "name": "S. Pons-de-Thomi\u00e8res",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Pons-de-Thomi\u00e8res"
+  },
+  {
+    "step": 174,
+    "type": "stop",
+    "name": "S. Urbain-sur-Marne",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Urbain-sur-Marne"
+  },
+  {
+    "step": 175,
+    "type": "stop",
+    "name": "Saussanges",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Saussanges"
+  },
+  {
+    "step": 176,
+    "type": "stop",
+    "name": "Soissons",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Soissons"
+  },
+  {
+    "step": 177,
+    "type": "stop",
+    "name": "Sor\u00e8ze",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Sor\u00e8ze"
+  },
+  {
+    "step": 178,
+    "type": "stop",
+    "name": "Tavernes",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Tavernes"
+  },
+  {
+    "step": 179,
+    "type": "stop",
+    "name": "Toul, France",
+    "coords": [
+      48.675,
+      5.8917
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Toul"
+  },
+  {
+    "step": 180,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3833,
+      0.6833
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Tours"
+  },
+  {
+    "step": 181,
+    "type": "stop",
+    "name": "Trier, Germany",
+    "coords": [
+      49.759,
+      6.644
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Trier"
+  },
+  {
+    "step": 182,
+    "type": "stop",
+    "name": "Vie",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Vie"
+  },
+  {
+    "step": 183,
+    "type": "stop",
+    "name": "Villemagne",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Villemagne"
+  },
+  {
+    "step": 184,
+    "type": "stop",
+    "name": "Ala\u00f3",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ala\u00f3"
+  },
+  {
+    "step": 185,
+    "type": "stop",
+    "name": "Aniane",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Aniane"
+  },
+  {
+    "step": 186,
+    "type": "stop",
+    "name": "Arles",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Arles"
+  },
+  {
+    "step": 187,
+    "type": "stop",
+    "name": "Arles-Tech",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Arles-Tech"
+  },
+  {
+    "step": 188,
+    "type": "stop",
+    "name": "B\u00e9ziers",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: B\u00e9ziers"
+  },
+  {
+    "step": 189,
+    "type": "stop",
+    "name": "Cardona",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Cardona"
+  },
+  {
+    "step": 190,
+    "type": "stop",
+    "name": "Carcassonne, France",
+    "coords": [
+      43.2167,
+      2.35
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Carcassonne"
+  },
+  {
+    "step": 191,
+    "type": "stop",
+    "name": "Fabrezas",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Fabrezas"
+  },
+  {
+    "step": 192,
+    "type": "stop",
+    "name": "Gerri",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Gerri"
+  },
+  {
+    "step": 193,
+    "type": "stop",
+    "name": "Huesca",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Huesca"
+  },
+  {
+    "step": 194,
+    "type": "stop",
+    "name": "Irache",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Irache"
+  },
+  {
+    "step": 195,
+    "type": "stop",
+    "name": "Jaca",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Jaca"
+  },
+  {
+    "step": 196,
+    "type": "stop",
+    "name": "Lagrasse",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Lagrasse"
+  },
+  {
+    "step": 197,
+    "type": "stop",
+    "name": "Leire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Leire"
+  },
+  {
+    "step": 198,
+    "type": "stop",
+    "name": "L\u00e9rida",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: L\u00e9rida"
+  },
+  {
+    "step": 199,
+    "type": "stop",
+    "name": "Maguelone, France",
+    "coords": [
+      43.5119,
+      3.8831
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Maguelone"
+  },
+  {
+    "step": 200,
+    "type": "stop",
+    "name": "Moissac",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Moissac"
+  },
+  {
+    "step": 201,
+    "type": "stop",
+    "name": "Montolieu",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Montolieu"
+  },
+  {
+    "step": 202,
+    "type": "stop",
+    "name": "Najac",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Najac"
+  },
+  {
+    "step": 203,
+    "type": "stop",
+    "name": "Nachos",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Nachos"
+  },
+  {
+    "step": 204,
+    "type": "stop",
+    "name": "Orgagnac",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Orgagnac"
+  },
+  {
+    "step": 205,
+    "type": "stop",
+    "name": "Palencia",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Palencia"
+  },
+  {
+    "step": 206,
+    "type": "stop",
+    "name": "Pamplona",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Pamplona"
+  },
+  {
+    "step": 207,
+    "type": "stop",
+    "name": "Portella (La)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Portella (La)"
+  },
+  {
+    "step": 208,
+    "type": "stop",
+    "name": "Psalmody",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Psalmody"
+  },
+  {
+    "step": 209,
+    "type": "stop",
+    "name": "R\u00e9os (La)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: R\u00e9os (La)"
+  },
+  {
+    "step": 210,
+    "type": "stop",
+    "name": "Rod\u00e8s",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Rod\u00e8s"
+  },
+  {
+    "step": 211,
+    "type": "stop",
+    "name": "S. Gilles",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Gilles"
+  },
+  {
+    "step": 212,
+    "type": "stop",
+    "name": "N\u00e1jera",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: N\u00e1jera"
+  },
+  {
+    "step": 213,
+    "type": "stop",
+    "name": "S.-de-la-Pe\u00f1a",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S.-de-la-Pe\u00f1a"
+  },
+  {
+    "step": 214,
+    "type": "stop",
+    "name": "S. Martin-de-l'Arcon",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Martin-de-l'Arcon"
+  },
+  {
+    "step": 215,
+    "type": "stop",
+    "name": "S. Martin-du-Canigou",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Martin-du-Canigou"
+  },
+  {
+    "step": 216,
+    "type": "stop",
+    "name": "S. Pons-de-Thomi\u00e8res",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Pons-de-Thomi\u00e8res"
+  },
+  {
+    "step": 217,
+    "type": "stop",
+    "name": "S. Victoria",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Victoria"
+  },
+  {
+    "step": 218,
+    "type": "stop",
+    "name": "Serrabona",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Serrabona"
+  },
+  {
+    "step": 219,
+    "type": "stop",
+    "name": "Seu d'Urgel",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Seu d'Urgel"
+  },
+  {
+    "step": 220,
+    "type": "stop",
+    "name": "Sureza",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Sureza"
+  },
+  {
+    "step": 221,
+    "type": "stop",
+    "name": "Tavernoles",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Tavernoles"
+  },
+  {
+    "step": 222,
+    "type": "stop",
+    "name": "Toulouse, France",
+    "coords": [
+      43.6047,
+      1.4442
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Toulouse"
+  },
+  {
+    "step": 223,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4736,
+      -0.5542
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Saint Maurice (saint)"
+  },
+  {
+    "step": 224,
+    "type": "stop",
+    "name": "Arras",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Notre-Dame ()"
+  },
+  {
+    "step": 225,
+    "type": "stop",
+    "name": "Auxerre, France",
+    "coords": [
+      47.8,
+      3.5667
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Saint \u00c9tienne (saint)"
+  },
+  {
+    "step": 226,
+    "type": "stop",
+    "name": "Bayeux, France",
+    "coords": [
+      49.2794,
+      -0.7028
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Notre-Dame ()"
+  },
+  {
+    "step": 227,
+    "type": "stop",
+    "name": "Beauvais, France",
+    "coords": [
+      49.4333,
+      2.0833
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Notre-Dame ()"
+  },
+  {
+    "step": 228,
+    "type": "stop",
+    "name": "Beaucourt",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Lucien ()"
+  },
+  {
+    "step": 229,
+    "type": "stop",
+    "name": "Bernay",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Notre-Dame de la Couture ()"
+  },
+  {
+    "step": 230,
+    "type": "stop",
+    "name": "Beverley",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Saint Jean (saint)"
+  },
+  {
+    "step": 231,
+    "type": "stop",
+    "name": "B\u00e9ze",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Saint Pierre (saint)"
+  },
+  {
+    "step": 232,
+    "type": "stop",
+    "name": "Blois",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Notre-Dame de Bourgron ()"
+  },
+  {
+    "step": 233,
+    "type": "stop",
+    "name": "Bruges",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bruges"
+  },
+  {
+    "step": 234,
+    "type": "stop",
+    "name": "Avranches",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Avranches"
+  },
+  {
+    "step": 235,
+    "type": "stop",
+    "name": "Barking",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Barking"
+  },
+  {
+    "step": 236,
+    "type": "stop",
+    "name": "Bassac",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bassac"
+  },
+  {
+    "step": 237,
+    "type": "stop",
+    "name": "Bath",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bath"
+  },
+  {
+    "step": 238,
+    "type": "stop",
+    "name": "Battle",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Battle"
+  },
+  {
+    "step": 239,
+    "type": "stop",
+    "name": "Bayeux, France",
+    "coords": [
+      49.2794,
+      -0.7028
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Bayeux"
+  },
+  {
+    "step": 240,
+    "type": "stop",
+    "name": "Beaulieu-les-Loches",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Beaulieu-les-Loches"
+  },
+  {
+    "step": 241,
+    "type": "stop",
+    "name": "Beaumont-l'Age",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Beaumont-l'Age"
+  },
+  {
+    "step": 242,
+    "type": "stop",
+    "name": "Beaumont-les-Tours",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Beaumont-les-Tours"
+  },
+  {
+    "step": 243,
+    "type": "stop",
+    "name": "Bec-Heulion (Ley)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bec-Heulion (Ley)"
+  },
+  {
+    "step": 244,
+    "type": "stop",
+    "name": "B\u00e9nac B\u00e9arn",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: B\u00e9nac B\u00e9arn"
+  },
+  {
+    "step": 245,
+    "type": "stop",
+    "name": "Bernossey",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bernossey"
+  },
+  {
+    "step": 246,
+    "type": "stop",
+    "name": "Bec-N.D.-de-la-Couture",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bec-N.D.-de-la-Couture"
+  },
+  {
+    "step": 247,
+    "type": "stop",
+    "name": "Berne",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Berne"
+  },
+  {
+    "step": 248,
+    "type": "stop",
+    "name": "Bithy",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bithy"
+  },
+  {
+    "step": 249,
+    "type": "stop",
+    "name": "Bonneval",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bonneval"
+  },
+  {
+    "step": 250,
+    "type": "stop",
+    "name": "Bourges, France",
+    "coords": [
+      47.0833,
+      2.4
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Bourges"
+  },
+  {
+    "step": 251,
+    "type": "stop",
+    "name": "Bourguicq",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bourguicq"
+  },
+  {
+    "step": 252,
+    "type": "stop",
+    "name": "Bouteville",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bouteville"
+  },
+  {
+    "step": 253,
+    "type": "stop",
+    "name": "Burton upon Trent (Modwenstow)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Burton upon Trent (Modwenstow)"
+  },
+  {
+    "step": 254,
+    "type": "stop",
+    "name": "Caen",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Caen"
+  },
+  {
+    "step": 255,
+    "type": "stop",
+    "name": "Canterbury",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Canterbury"
+  },
+  {
+    "step": 256,
+    "type": "stop",
+    "name": "Caen",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Caen"
+  },
+  {
+    "step": 257,
+    "type": "stop",
+    "name": "Ch\u00e2teureux",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ch\u00e2teureux"
+  },
+  {
+    "step": 258,
+    "type": "stop",
+    "name": "Chelles",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Chelles"
+  },
+  {
+    "step": 259,
+    "type": "stop",
+    "name": "Ch\u00e9zy-sur-Marne",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ch\u00e9zy-sur-Marne"
+  },
+  {
+    "step": 260,
+    "type": "stop",
+    "name": "Chichester",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Chichester"
+  },
+  {
+    "step": 261,
+    "type": "stop",
+    "name": "Cognac",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Cognac"
+  },
+  {
+    "step": 262,
+    "type": "stop",
+    "name": "Coincy",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Coincy"
+  },
+  {
+    "step": 263,
+    "type": "stop",
+    "name": "Corligny",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Corligny"
+  },
+  {
+    "step": 264,
+    "type": "stop",
+    "name": "Cormeilles",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Cormeilles"
+  },
+  {
+    "step": 265,
+    "type": "stop",
+    "name": "Cormey",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Cormey"
+  },
+  {
+    "step": 266,
+    "type": "stop",
+    "name": "Coulomba",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Coulomba"
+  },
+  {
+    "step": 267,
+    "type": "stop",
+    "name": "Coutances",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Coutances"
+  },
+  {
+    "step": 268,
+    "type": "stop",
+    "name": "Coventry",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Coventry"
+  },
+  {
+    "step": 269,
+    "type": "stop",
+    "name": "Croix-S. Leufroy (La)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Croix-S. Leufroy (La)"
+  },
+  {
+    "step": 270,
+    "type": "stop",
+    "name": "Crowland",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Crowland"
+  },
+  {
+    "step": 271,
+    "type": "stop",
+    "name": "Lestersp",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Lestersp"
+  },
+  {
+    "step": 272,
+    "type": "stop",
+    "name": "Lewes",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Lewes"
+  },
+  {
+    "step": 273,
+    "type": "stop",
+    "name": "Limoges",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Limoges"
+  },
+  {
+    "step": 274,
+    "type": "stop",
+    "name": "Lincoln",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Lincoln"
+  },
+  {
+    "step": 275,
+    "type": "stop",
+    "name": "Lisieux",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Lisieux"
+  },
+  {
+    "step": 276,
+    "type": "stop",
+    "name": "London",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: London"
+  },
+  {
+    "step": 277,
+    "type": "stop",
+    "name": "Longueville-sur-Scie",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Longueville-sur-Scie"
+  },
+  {
+    "step": 278,
+    "type": "stop",
+    "name": "Laon, France",
+    "coords": [
+      49.5667,
+      3.6167
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Laon"
+  },
+  {
+    "step": 279,
+    "type": "stop",
+    "name": "Lyre",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Lyre"
+  },
+  {
+    "step": 280,
+    "type": "stop",
+    "name": "Maillezais",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Maillezais"
+  },
+  {
+    "step": 281,
+    "type": "stop",
+    "name": "Malling",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Malling"
+  },
+  {
+    "step": 282,
+    "type": "stop",
+    "name": "Malmesbury",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Malmesbury"
+  },
+  {
+    "step": 283,
+    "type": "stop",
+    "name": "Mans (Le)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Mans (Le)"
+  },
+  {
+    "step": 284,
+    "type": "stop",
+    "name": "Massay",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Massay"
+  },
+  {
+    "step": 285,
+    "type": "stop",
+    "name": "Meaux, France",
+    "coords": [
+      48.95,
+      2.9
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Meaux"
+  },
+  {
+    "step": 286,
+    "type": "stop",
+    "name": "M\u00e9oubec",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: M\u00e9oubec"
+  },
+  {
+    "step": 287,
+    "type": "stop",
+    "name": "Milton",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Milton"
+  },
+  {
+    "step": 288,
+    "type": "stop",
+    "name": "Montacute",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Montacute"
+  },
+  {
+    "step": 289,
+    "type": "stop",
+    "name": "Montebourg",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Montebourg"
+  },
+  {
+    "step": 290,
+    "type": "stop",
+    "name": "Monts-S. Michel (Le)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Monts-S. Michel (Le)"
+  },
+  {
+    "step": 291,
+    "type": "stop",
+    "name": "Muchelney",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Muchelney"
+  },
+  {
+    "step": 292,
+    "type": "stop",
+    "name": "Nantes",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Nantes"
+  },
+  {
+    "step": 293,
+    "type": "stop",
+    "name": "Nanteuil-en-Vall\u00e9e",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Nanteuil-en-Vall\u00e9e"
+  },
+  {
+    "step": 294,
+    "type": "stop",
+    "name": "Neauple-le-Vieux",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Neauple-le-Vieux"
+  },
+  {
+    "step": 295,
+    "type": "stop",
+    "name": "Nevers, France",
+    "coords": [
+      46.9936,
+      3.1592
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Nevers"
+  },
+  {
+    "step": 296,
+    "type": "stop",
+    "name": "Niort-sur-Aulne",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Niort-sur-Aulne"
+  },
+  {
+    "step": 297,
+    "type": "stop",
+    "name": "Nogent-de-Rotrou",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Nogent-de-Rotrou"
+  },
+  {
+    "step": 298,
+    "type": "stop",
+    "name": "Nogent-sous-Courcy",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Nogent-sous-Courcy"
+  },
+  {
+    "step": 299,
+    "type": "stop",
+    "name": "Norwich",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Norwich"
+  },
+  {
+    "step": 300,
+    "type": "stop",
+    "name": "Nousill\u00e9",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Nousill\u00e9"
+  },
+  {
+    "step": 301,
+    "type": "stop",
+    "name": "Noyers",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Noyers"
+  },
+  {
+    "step": 302,
+    "type": "stop",
+    "name": "Painmont",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Painmont"
+  },
+  {
+    "step": 303,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Paris"
+  },
+  {
+    "step": 304,
+    "type": "stop",
+    "name": "Saint Germain-des-Pr\u00e9s",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Saint Germain-des-Pr\u00e9s"
+  },
+  {
+    "step": 305,
+    "type": "stop",
+    "name": "S. Magloire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Magloire"
+  },
+  {
+    "step": 306,
+    "type": "stop",
+    "name": "Pershore",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Pershore"
+  },
+  {
+    "step": 307,
+    "type": "stop",
+    "name": "Peterborough",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Peterborough"
+  },
+  {
+    "step": 308,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Poitiers"
+  },
+  {
+    "step": 309,
+    "type": "stop",
+    "name": "S. Croix",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Croix"
+  },
+  {
+    "step": 310,
+    "type": "stop",
+    "name": "Cluny, France",
+    "coords": [
+      46.4351,
+      4.6592
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Saint Cyprian (saint)"
+  },
+  {
+    "step": 311,
+    "type": "stop",
+    "name": "La Celle",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Saint Hilaire (saint)"
+  },
+  {
+    "step": 312,
+    "type": "stop",
+    "name": "S. Radegonde",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Radegonde"
+  },
+  {
+    "step": 313,
+    "type": "stop",
+    "name": "S. Trinit\u00e9",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Trinit\u00e9"
+  },
+  {
+    "step": 314,
+    "type": "stop",
+    "name": "Pont\u00e9craft",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Pont\u00e9craft"
+  },
+  {
+    "step": 315,
+    "type": "stop",
+    "name": "Pr\u00e9aux",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Pr\u00e9aux"
+  },
+  {
+    "step": 316,
+    "type": "stop",
+    "name": "Quincay",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Quincay"
+  },
+  {
+    "step": 317,
+    "type": "stop",
+    "name": "Ramsey",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ramsey"
+  },
+  {
+    "step": 318,
+    "type": "stop",
+    "name": "Rebais Abbey, France",
+    "coords": [
+      48.8471,
+      3.2323
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Rebais"
+  },
+  {
+    "step": 319,
+    "type": "stop",
+    "name": "Redon Abbey, France",
+    "coords": [
+      47.6534,
+      -2.085
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Redon"
+  },
+  {
+    "step": 320,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.25,
+      4.0333
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Notre Dame ()"
+  },
+  {
+    "step": 321,
+    "type": "stop",
+    "name": "Rennes",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Rennes"
+  },
+  {
+    "step": 322,
+    "type": "stop",
+    "name": "Rochester, England",
+    "coords": [
+      51.39,
+      0.505
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Rochester"
+  },
+  {
+    "step": 323,
+    "type": "stop",
+    "name": "Romsey",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Romsey"
+  },
+  {
+    "step": 324,
+    "type": "stop",
+    "name": "Rouen",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Rouen"
+  },
+  {
+    "step": 325,
+    "type": "stop",
+    "name": "Albans",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Albans"
+  },
+  {
+    "step": 326,
+    "type": "stop",
+    "name": "Amant-de-Boixe",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Amant-de-Boixe"
+  },
+  {
+    "step": 327,
+    "type": "stop",
+    "name": "Baune",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Baune"
+  },
+  {
+    "step": 328,
+    "type": "stop",
+    "name": "Benet de Hulme",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Benet de Hulme"
+  },
+  {
+    "step": 329,
+    "type": "stop",
+    "name": "Saint-Denis, France",
+    "coords": [
+      48.9356,
+      2.3539
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Denis"
+  },
+  {
+    "step": 330,
+    "type": "stop",
+    "name": "\u00c9vrout",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: \u00c9vrout"
+  },
+  {
+    "step": 331,
+    "type": "stop",
+    "name": "Florent-l\u00e8s-Saumur",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Florent-l\u00e8s-Saumur"
+  },
+  {
+    "step": 332,
+    "type": "stop",
+    "name": "Florent-de-Vier",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Florent-de-Vier"
+  },
+  {
+    "step": 333,
+    "type": "stop",
+    "name": "Gabriel",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Gabriel"
+  },
+  {
+    "step": 334,
+    "type": "stop",
+    "name": "Genou",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Genou"
+  },
+  {
+    "step": 335,
+    "type": "stop",
+    "name": "Gildas-des-Bois",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Gildas-des-Bois"
+  },
+  {
+    "step": 336,
+    "type": "stop",
+    "name": "L\u00e9onard-de-Noblat",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: L\u00e9onard-de-Noblat"
+  },
+  {
+    "step": 337,
+    "type": "stop",
+    "name": "Liguaire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Liguaire"
+  },
+  {
+    "step": 338,
+    "type": "stop",
+    "name": "Maixent",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Maixent"
+  },
+  {
+    "step": 339,
+    "type": "stop",
+    "name": "Maur-des-Foss\u00e9s",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Maur-des-Foss\u00e9s"
+  },
+  {
+    "step": 340,
+    "type": "stop",
+    "name": "Maur-sur-Loire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Maur-sur-Loire"
+  },
+  {
+    "step": 341,
+    "type": "stop",
+    "name": "Memmie",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Memmie"
+  },
+  {
+    "step": 342,
+    "type": "stop",
+    "name": "Michel-en-l'Herm",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Michel-en-l'Herm"
+  },
+  {
+    "step": 343,
+    "type": "stop",
+    "name": "Neots",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Neots"
+  },
+  {
+    "step": 344,
+    "type": "stop",
+    "name": "Nicolas-aux-Bois",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Nicolas-aux-Bois"
+  },
+  {
+    "step": 345,
+    "type": "stop",
+    "name": "Pierre-sur-Dives",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Pierre-sur-Dives"
+  },
+  {
+    "step": 346,
+    "type": "stop",
+    "name": "Sauveur-le-Vicomte",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Sauveur-le-Vicomte"
+  },
+  {
+    "step": 347,
+    "type": "stop",
+    "name": "Sever-[Calvados]",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Sever-[Calvados]"
+  },
+  {
+    "step": 348,
+    "type": "stop",
+    "name": "Thierry",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Thierry"
+  },
+  {
+    "step": 349,
+    "type": "stop",
+    "name": "Victor-l'Abbaye",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Victor-l'Abbaye"
+  },
+  {
+    "step": 350,
+    "type": "stop",
+    "name": "Vigor-le-Grand",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Vigor-le-Grand"
+  },
+  {
+    "step": 351,
+    "type": "stop",
+    "name": "S. Wandrille",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Wandrille"
+  },
+  {
+    "step": 352,
+    "type": "stop",
+    "name": "Saintes",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Saintes"
+  },
+  {
+    "step": 353,
+    "type": "stop",
+    "name": "Salisbury",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Salisbury"
+  },
+  {
+    "step": 354,
+    "type": "stop",
+    "name": "Selby",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Selby"
+  },
+  {
+    "step": 355,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.2,
+      3.2833
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Sens"
+  },
+  {
+    "step": 356,
+    "type": "stop",
+    "name": "Shaftesbury",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Shaftesbury"
+  },
+  {
+    "step": 357,
+    "type": "stop",
+    "name": "Soissons",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Soissons"
+  },
+  {
+    "step": 358,
+    "type": "stop",
+    "name": "Solignac",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Solignac"
+  },
+  {
+    "step": 359,
+    "type": "stop",
+    "name": "Southwark",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Southwark"
+  },
+  {
+    "step": 360,
+    "type": "stop",
+    "name": "Spalding",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Spalding"
+  },
+  {
+    "step": 361,
+    "type": "stop",
+    "name": "Tewkesbury",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Tewkesbury"
+  },
+  {
+    "step": 362,
+    "type": "stop",
+    "name": "Thenary",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Thenary"
+  },
+  {
+    "step": 363,
+    "type": "stop",
+    "name": "Thorne",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Thorne"
+  },
+  {
+    "step": 364,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3833,
+      0.6833
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Tours"
+  },
+  {
+    "step": 365,
+    "type": "stop",
+    "name": "Troarn",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Troarn"
+  },
+  {
+    "step": 366,
+    "type": "stop",
+    "name": "Troyes, France",
+    "coords": [
+      48.3,
+      4.0833
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Troyes"
+  },
+  {
+    "step": 367,
+    "type": "stop",
+    "name": "Tutsury",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Tutsury"
+  },
+  {
+    "step": 368,
+    "type": "stop",
+    "name": "Abingdon",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Abingdon"
+  },
+  {
+    "step": 369,
+    "type": "stop",
+    "name": "Almendea",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Almendea"
+  },
+  {
+    "step": 370,
+    "type": "stop",
+    "name": "Amesbury",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Amesbury"
+  },
+  {
+    "step": 371,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4736,
+      -0.5542
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Angers"
+  },
+  {
+    "step": 372,
+    "type": "stop",
+    "name": "Aunelle",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Aunelle"
+  },
+  {
+    "step": 373,
+    "type": "stop",
+    "name": "Auburn",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Auburn"
+  },
+  {
+    "step": 374,
+    "type": "stop",
+    "name": "Aumtin",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Aumtin"
+  },
+  {
+    "step": 375,
+    "type": "stop",
+    "name": "Ascot",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ascot"
+  },
+  {
+    "step": 376,
+    "type": "stop",
+    "name": "Asperne",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Asperne"
+  },
+  {
+    "step": 377,
+    "type": "stop",
+    "name": "Atrebatia",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Atrebatia"
+  },
+  {
+    "step": 378,
+    "type": "stop",
+    "name": "Argentueil",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Argentueil"
+  },
+  {
+    "step": 379,
+    "type": "stop",
+    "name": "Bar-sur-Aube",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bar-sur-Aube"
+  },
+  {
+    "step": 380,
+    "type": "stop",
+    "name": "Evesham",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Saint Egwin (saint)"
+  },
+  {
+    "step": 381,
+    "type": "stop",
+    "name": "\u00c9vreux",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Notre-Dame ()"
+  },
+  {
+    "step": 382,
+    "type": "stop",
+    "name": "Ely",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Saint Pierre (saint)"
+  },
+  {
+    "step": 383,
+    "type": "stop",
+    "name": "Eynsham",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Saint Marie (saint)"
+  },
+  {
+    "step": 384,
+    "type": "stop",
+    "name": "F\u00e9camp",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "La Trinit\u00e9 ()"
+  },
+  {
+    "step": 385,
+    "type": "stop",
+    "name": "Fleury / Saint-Beno\u00eet-sur-Loire, France",
+    "coords": [
+      47.81,
+      2.305
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Fleury"
+  },
+  {
+    "step": 386,
+    "type": "stop",
+    "name": "Pontoise",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Pontoise"
+  },
+  {
+    "step": 387,
+    "type": "stop",
+    "name": "Pr\u00e6ux",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Pr\u00e6ux"
+  },
+  {
+    "step": 388,
+    "type": "stop",
+    "name": "Ramerupt",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ramerupt"
+  },
+  {
+    "step": 389,
+    "type": "stop",
+    "name": "Ramsey",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ramsey"
+  },
+  {
+    "step": 390,
+    "type": "stop",
+    "name": "Reading",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Reading"
+  },
+  {
+    "step": 391,
+    "type": "stop",
+    "name": "Reines",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Reines"
+  },
+  {
+    "step": 392,
+    "type": "stop",
+    "name": "Aux-en-Provence",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Aux-en-Provence"
+  },
+  {
+    "step": 393,
+    "type": "stop",
+    "name": "Ambieny",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ambieny"
+  },
+  {
+    "step": 394,
+    "type": "stop",
+    "name": "Aniane",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Aniane"
+  },
+  {
+    "step": 395,
+    "type": "stop",
+    "name": "Arles",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Arles"
+  },
+  {
+    "step": 396,
+    "type": "stop",
+    "name": "Beaumont",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Beaumont"
+  },
+  {
+    "step": 397,
+    "type": "stop",
+    "name": "B\u00e9rier",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: B\u00e9rier"
+  },
+  {
+    "step": 398,
+    "type": "stop",
+    "name": "Castillo de los Grades",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Castillo de los Grades"
+  },
+  {
+    "step": 399,
+    "type": "stop",
+    "name": "Caunes (Ruff)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Caunes (Ruff)"
+  },
+  {
+    "step": 400,
+    "type": "stop",
+    "name": "Ch\u00e2teauneuf (La)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ch\u00e2teauneuf (La)"
+  },
+  {
+    "step": 401,
+    "type": "stop",
+    "name": "Clermont-Ferrand, France",
+    "coords": [
+      45.7772,
+      3.087
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Clermont"
+  },
+  {
+    "step": 402,
+    "type": "stop",
+    "name": "Cluny, France",
+    "coords": [
+      46.4351,
+      4.6592
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Cluny"
+  },
+  {
+    "step": 403,
+    "type": "stop",
+    "name": "Condom",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Condom"
+  },
+  {
+    "step": 404,
+    "type": "stop",
+    "name": "Corogne",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Corogne"
+  },
+  {
+    "step": 405,
+    "type": "stop",
+    "name": "Embrun",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Embrun"
+  },
+  {
+    "step": 406,
+    "type": "stop",
+    "name": "Garrigue",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Garrigue"
+  },
+  {
+    "step": 407,
+    "type": "stop",
+    "name": "Grande-Chartreuse (La)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Grande-Chartreuse (La)"
+  },
+  {
+    "step": 408,
+    "type": "stop",
+    "name": "Issoire",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Issoire"
+  },
+  {
+    "step": 409,
+    "type": "stop",
+    "name": "Lectoure",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Lectoure"
+  },
+  {
+    "step": 410,
+    "type": "stop",
+    "name": "Leiria",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Leiria"
+  },
+  {
+    "step": 411,
+    "type": "stop",
+    "name": "Maguelone, France",
+    "coords": [
+      43.5119,
+      3.8831
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Maguelone"
+  },
+  {
+    "step": 412,
+    "type": "stop",
+    "name": "Marcellais",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Marcellais"
+  },
+  {
+    "step": 413,
+    "type": "stop",
+    "name": "Moissac",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Moissac"
+  },
+  {
+    "step": 414,
+    "type": "stop",
+    "name": "Monastier-sur-Gazelle (Le)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Monastier-sur-Gazelle (Le)"
+  },
+  {
+    "step": 415,
+    "type": "stop",
+    "name": "Montpazier",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Montpazier"
+  },
+  {
+    "step": 416,
+    "type": "stop",
+    "name": "N\u00eemes, France",
+    "coords": [
+      43.8333,
+      4.35
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: N\u00eemes"
+  },
+  {
+    "step": 417,
+    "type": "stop",
+    "name": "Quercy",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Quercy"
+  },
+  {
+    "step": 418,
+    "type": "stop",
+    "name": "Prin",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Prin"
+  },
+  {
+    "step": 419,
+    "type": "stop",
+    "name": "Psalmodie",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Psalmodie"
+  },
+  {
+    "step": 420,
+    "type": "stop",
+    "name": "Puy (Le)",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Puy (Le)"
+  },
+  {
+    "step": 421,
+    "type": "stop",
+    "name": "Pierre-de-la-Tour",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Pierre-de-la-Tour"
+  },
+  {
+    "step": 422,
+    "type": "stop",
+    "name": "Riom",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Riom"
+  },
+  {
+    "step": 423,
+    "type": "stop",
+    "name": "S. Germain d'Herm",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Germain d'Herm"
+  },
+  {
+    "step": 424,
+    "type": "stop",
+    "name": "S. Gilles",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Gilles"
+  },
+  {
+    "step": 425,
+    "type": "stop",
+    "name": "S. P\u00e9-de-Rigorre",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. P\u00e9-de-Rigorre"
+  },
+  {
+    "step": 426,
+    "type": "stop",
+    "name": "S. Pour\u00e7ain-sur-Sioule",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Pour\u00e7ain-sur-Sioule"
+  },
+  {
+    "step": 427,
+    "type": "stop",
+    "name": "S. Rambet-en-Bugey",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Rambet-en-Bugey"
+  },
+  {
+    "step": 428,
+    "type": "stop",
+    "name": "S. R\u00e9verien",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. R\u00e9verien"
+  },
+  {
+    "step": 429,
+    "type": "stop",
+    "name": "S. Sulpice",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Sulpice"
+  },
+  {
+    "step": 430,
+    "type": "stop",
+    "name": "S. Thib\u00e9ry",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Thib\u00e9ry"
+  },
+  {
+    "step": 431,
+    "type": "stop",
+    "name": "Saussaignes",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Saussaignes"
+  },
+  {
+    "step": 432,
+    "type": "stop",
+    "name": "Souvigny",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Souvigny"
+  },
+  {
+    "step": 433,
+    "type": "stop",
+    "name": "Tallard",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: Tallard"
+  },
+  {
+    "step": 434,
+    "type": "stop",
+    "name": "Toulouse, France",
+    "coords": [
+      43.6047,
+      1.4442
+    ],
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": false,
+    "description": "Titulus Header: Toulouse"
+  },
+  {
+    "step": 435,
+    "type": "stop",
+    "name": "V\u00e9zelay",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S.d. [1157-1180]",
+    "is_approximate": true,
+    "description": "Titulus Header: V\u00e9zelay"
+  }
+]

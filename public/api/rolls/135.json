@@ -1,0 +1,23 @@
+{
+  "roll": {
+    "id": 135,
+    "roll_num": 132,
+    "date_str": "[1143, apr\u00e8s le 28 f\u00e9vrier]",
+    "title": "Vers en l'honneur de Walter, abb\u00e9 de Selby (\u2020 28 f\u00e9vrier 1143).",
+    "manuscripts": "A. Original perdu.\nB. Paris, B. N. F., lat. 10940, fol. 29v.\na. Ph. Labbe, Nova bibliotheca manuscriptorum, Paris, t. I, 1617, p. 613, d'apr\u00e8s B.",
+    "pdf_source": "4",
+    "pdf_pages": "55",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 2115,
+      "roll_id": 135,
+      "pdf_page": 55,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "jour de sa mort (1)."
+    }
+  ]
+}

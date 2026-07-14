@@ -1,87 +1,87 @@
 {
   "roll": {
     "id": 90,
-    "roll_num": "148",
-    "date_str": "S.d.",
-    "title": "S.d. [1157-1180] abb\u00e9 de 25 Echange de brefs institu\u00e9 entre Pierre, abb\u00e9 de S. Maixen'; et Guillaume; F S Aubin d Angers, ann\u00e9e avant la S. Maixent [26  juin]. chaque A. Original perdu . B. Angers; B. M 29 ms. 831 (747 n\u00e9crologe de S. Aubin d'Angers (), p. 58.",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (4)",
-    "pdf_pages": "78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94",
+    "roll_num": 86,
+    "date_str": "S.d.[vers 1096]",
+    "title": "Rouleau mortuaire de Durand, \u00e9v\u00eaque de Clermont.",
+    "manuscripts": "Document perdu (1), mentionn\u00e9 dans le titre de Baudri de Bourgueil pour le rouleau mortuaire d'Audebert, archev\u00eaque de Bourges (2). Durant fut \u00e9v\u00eaque de Clermont entre 1077 et 1095 (3).",
+    "pdf_source": "2",
+    "pdf_pages": "41",
     "is_verified": 0
   },
-  "tituli": [],
+  "tituli": [
+    {
+      "id": 786,
+      "roll_id": 90,
+      "title": "Titre de Baudri de Bourgueil :",
+      "location_name": "",
+      "latin_text": "\u00ab Durandi sequidem pallentes vidimus artus, Cum nos Arvernis Urbana papa vocasset. \u00bb",
+      "pdf_page": 41,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2534,
+          "titulus_id": 786,
+          "original_name": "Durandi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Durand",
+          "normalized_role": "bishop of Clermont",
+          "normalized_dates": "1077-1095",
+          "location_name": "Clermont"
+        },
+        {
+          "id": 2535,
+          "titulus_id": 786,
+          "original_name": "Arvernis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arverni",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Auvergne"
+        },
+        {
+          "id": 2536,
+          "titulus_id": 786,
+          "original_name": "Urbana",
+          "original_title": "papa",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Urban II",
+          "normalized_role": "pope",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    }
+  ],
   "footnotes": [
     {
-      "id": 36180,
+      "id": 941,
       "roll_id": 90,
-      "pdf_page": 78,
+      "pdf_page": 41,
       "pdf_half": "right",
       "footnote_num": "1",
-      "text": "corrig\u00e9 en penetrare par a. Cf. I infirmus; Cor., IX, 22 ut Factus sum infirmis omnia infirmos factus lucri facerem. Omnibus sum 9 ."
+      "text": "Cf. L. Delisle, Rouleaux des morts du IXe au XVe s., p. 144, n\u00ba XXVI."
     },
     {
-      "id": 36181,
+      "id": 942,
       "roll_id": 90,
-      "pdf_page": 78,
+      "pdf_page": 41,
       "pdf_half": "right",
       "footnote_num": "2",
-      "text": "16. R\u00e9pertoire; Joh., I, JL Lema\u00eetre; _ Sur ce ms, cf: t. I, p. 372,n 674."
+      "text": "Ed. infra, p. 236, n\u00ba 88. Baudri de Bourgueil composa en outre deux epitaphes pour Durand (ed. J.-Y. Tilliette, op. cit., t. I, p. 57, n\u00ba 50; p. 58, n\u00ba 51)."
     },
     {
-      "id": 36182,
+      "id": 943,
       "roll_id": 90,
-      "pdf_page": 79,
-      "pdf_half": "left",
-      "footnote_num": "1",
-      "text": "Ils'agit  S soit de Petrus Raimundi, abb\u00e9 de Maixent de 1134 \u00e0 1158/1163, soit de son successeur Petrus de Turre 1180) = cf. (vers 1175 ; Gallia  mars christiana, t. II, col. 1255."
-    },
-    {
-      "id": 36183,
-      "roll_id": 90,
-      "pdf_page": 79,
-      "pdf_half": "left",
-      "footnote_num": "2",
-      "text": "Angers de S. Aubin (2) Guillelmus, abb\u00e9 mortuaire un rouleau (1157-1189), pour lequel II, n? 151). fut mis en circulation (\u00e9d. t."
-    },
-    {
-      "id": 36184,
-      "roll_id": 90,
-      "pdf_page": 86,
+      "pdf_page": 41,
       "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "; 1"
-    },
-    {
-      "id": 36185,
-      "roll_id": 90,
-      "pdf_page": 88,
-      "pdf_half": "left",
-      "footnote_num": "1",
-      "text": "Ducuicus"
-    },
-    {
-      "id": 36186,
-      "roll_id": 90,
-      "pdf_page": 88,
-      "pdf_half": "left",
-      "footnote_num": "2",
-      "text": "LCrie"
-    },
-    {
-      "id": 36187,
-      "roll_id": 90,
-      "pdf_page": 88,
-      "pdf_half": "left",
       "footnote_num": "3",
-      "text": "Durc"
-    },
-    {
-      "id": 36188,
-      "roll_id": 90,
-      "pdf_page": 89,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "Odsr"
+      "text": "Cf. Gallia christiana, t. II, col. 263."
     }
   ]
 }

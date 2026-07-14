@@ -1,14 +1,218 @@
 {
   "roll": {
     "id": 87,
-    "roll_num": "144",
-    "date_str": "S.d.",
-    "title": "Vir vite speculum; pietatis formula, morum Exemplar; tumulum sortitur sorte reorum. Laude virum cupiens attolere tam specialem Deficio nequiens hominem describere talem . Quem scio; quem video; majorem laudis honore; Quam volo; quam valeo perstringere mente; vel ore Hoc precor ergo sibi pro laudis honore dicetur; Quod nequit ascribi sua quod pia vita meretur: Dicere me liceat quod non retinere licebit. Sic licet intereat caro, spiritus astra tenebit . Vermibus esca datur hec, hic collega supernis; Jure coaptatur; hic celis; ista cavernis. 679 10",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (4)",
-    "pdf_pages": "75",
+    "roll_num": 83,
+    "date_str": "[1096, apr\u00e8s le 29 juillet]",
+    "title": "Titre compos\u00e9 par Baudri de Bourgueil pour le rouleau mortuaire de Jo\u00ebl [d\u2019Antins], abb\u00e9 de la Couture du Mans, et de Ho\u00ebl, \u00e9v\u00eaque du Mans (\u2020 29 juillet 1096)",
+    "manuscripts": "A. Original perdu.\nB. Vaticano, Reg. lat. 1351, fol. 27 (XII\u00ba s.).\na. Duchesne, Historiae Francorum scriptores, Paris, t. IV, 1641, p. 252, \u00ab ex vereti codice ms. Alexandri Petuvi \u00bb. - b. Annales ordinii sancti Benedicti, t. V, p. 377 (\u00e9d. partielle). - c. P.L., t. CLXVI, col. 1183. - d. P. Abraham, Les oeuvres po\u00e9tiques de Baudri de Bourgueil (1046-1130).\nEdition critique publi\u00e9e d'apr\u00e8s le ms. du Vatican..., Paris, 1926, p. 60, n\u00b0 LIII, d'apr\u00e8s B. - e. K. Hilbert, Baldricus Burgundus... Carmina, Heidelberg, 1979, p. 47, n\u00b0 18, d'apr\u00e8s B. - f. J.Y. Tilliete, Baudri de Bourgueil. Po\u00e8mes, Paris, t. I, 1998, p. 41, n\u00b0 18.",
+    "pdf_source": "2",
+    "pdf_pages": "39,40",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": []
+  "tituli": [
+    {
+      "id": 781,
+      "roll_id": 87,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Jo\u00ebl d'Antins, abb\u00e9 de la Couture, d\u00e9c\u00e9da s. Nicolai \u00e0 Ho\u00ebl, \u00e9v\u00e9que du Mans; il serait mort le 2 juin 1096 (1).",
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2526,
+          "titulus_id": 781,
+          "original_name": "Jo\u00ebl d'\u2019Antins",
+          "original_title": "abb\u00e9 de la Couture",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Jo\u00ebl d'Antins",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2527,
+          "titulus_id": 781,
+          "original_name": "Nicolai",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Nicholas",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2528,
+          "titulus_id": 781,
+          "original_name": "Ho\u00ebl",
+          "original_title": "\u00e9v\u00e9que du Mans",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ho\u00ebl",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Le Mans"
+        }
+      ]
+    },
+    {
+      "id": 782,
+      "roll_id": 87,
+      "title": "",
+      "location_name": "Celenoamensi",
+      "latin_text": "In rotulo Celenoamensi.\nSingulatus duplex rotulis pagina prefect:\nPrimum nanque Johel, & demique fleveit Hoel.\nAbbas alter erat, alter fuit ordine precens :\nHi Ci Cenomanni sollicet exteriant.\nHoc quoique morte subito Deus attigit ambos,\nUt sant translati sidera magna poli.\nAmborum pariter nobis exempla replegent,\nAmbe nunc nostras irradiant tenebras.\nSi vero manulas dedit illis quilibet error,\nErrora veniam Cunctipotionis det eis.\nInterea, tardis urbis desolata patronis,\nPro te funde praeces atque imento tui.\nEligit quos navis, tamen elige qui tibi prosint,",
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2529,
+          "titulus_id": 782,
+          "original_name": "Johel",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Joel",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2530,
+          "titulus_id": 782,
+          "original_name": "Hoel",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hodel",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 920,
+      "roll_id": 87,
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Ho\u00ebl (\u00b2), d'origine bretonne, s. pauper clericus, sed nobilis et bene morigeratus \u203a (3), d'abord yon du Mans, est \u00e9l\u00e9v\u00e9 de cette cit\u00e9 en 1081/1082, mais par suite de l'opposition du comte d'Anjou, 23"
+    },
+    {
+      "id": 921,
+      "roll_id": 87,
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "A son sujet, cf. \" Ho\u00ebl, \u00e9v\u00e9que du Mans \u00bb dans D.H.C.E., t. XXIV, col. 738-739."
+    },
+    {
+      "id": 922,
+      "roll_id": 87,
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "footnote_num": "(3)",
+      "text": ""
+    },
+    {
+      "id": 923,
+      "roll_id": 87,
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "footnote_num": "(e)",
+      "text": "sit ei celestis remplac\u00e9 vivat mens ejus, ajout\u00e9 en interligne B."
+    },
+    {
+      "id": 924,
+      "roll_id": 87,
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "footnote_num": "(e)",
+      "text": "sit ei celestis remplac\u00e9 vivat mens ejus, ajout\u00e9 en interligne B."
+    },
+    {
+      "id": 925,
+      "roll_id": 87,
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "footnote_num": "[1096]",
+      "text": ""
+    },
+    {
+      "id": 926,
+      "roll_id": 87,
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Foulques IV le R\u00e9chin, ne pas conscient avant 1085 (1)."
+    },
+    {
+      "id": 927,
+      "roll_id": 87,
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "Il meurt le 29 juillet 1096 (2)."
+    },
+    {
+      "id": 928,
+      "roll_id": 87,
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "footnote_num": "(3)",
+      "text": "Sur l'\u00e9lection de Hoel, cf.: Ordo Ricardi: Vital. loc. cit., p. 300-302 et p. 302, n. i; R. Latouche, Histoire du comt\u00e9 du Maine pendant le X\u1d27 et le XI\u1d27 s., Paris, 1910, p. 79 et 86."
+    },
+    {
+      "id": 929,
+      "roll_id": 87,
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "footnote_num": "(4)",
+      "text": "En plus de la pi\u00e8ce publi\u00e9e ici, Baudri de Bourgeuil \u00e9crit des \u00e9pitaphes en l'honneur de Hoel (3)."
+    },
+    {
+      "id": 930,
+      "roll_id": 87,
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "footnote_num": "(5)",
+      "text": ""
+    },
+    {
+      "id": 931,
+      "roll_id": 87,
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "footnote_num": "(6)",
+      "text": ""
+    },
+    {
+      "id": 932,
+      "roll_id": 87,
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "footnote_num": "(7)",
+      "text": ""
+    },
+    {
+      "id": 933,
+      "roll_id": 87,
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "footnote_num": "(8)",
+      "text": ""
+    },
+    {
+      "id": 934,
+      "roll_id": 87,
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "footnote_num": "(9)",
+      "text": ""
+    }
+  ]
 }

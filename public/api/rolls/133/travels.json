@@ -1,0 +1,25 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Corbie, France",
+    "coords": [
+      49.9089,
+      2.5117
+    ],
+    "year": 1142,
+    "date_str": "[1142, apr\u00e8s le 21 janvier]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) de Robert, abb\u00e9 d..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Duaco",
+    "coords": null,
+    "year": 1142,
+    "date_str": "[1142, apr\u00e8s le 21 janvier]",
+    "is_approximate": true,
+    "description": "Gualterus de Duaco ()"
+  }
+]

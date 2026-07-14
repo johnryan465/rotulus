@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Mainz, Germany",
+    "coords": [
+      50.0,
+      8.2667
+    ],
+    "year": 754,
+    "date_str": "754-octobre 786",
+    "is_approximate": false,
+    "description": "Origin: \u00ab Doto, abb\u00e9s S. Petri \u00bb (2), demande \u00e0 Lul, \u00e9v\u00eaqu..."
+  }
+]

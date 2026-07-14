@@ -1,0 +1,35 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": 840,
+    "date_str": "S.d. [apr\u00e8s 840]",
+    "is_approximate": false,
+    "description": "Origin: Fragmenti de rouleau mortuaire d'un abb\u00e9 Lambert...."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Gandavo castro",
+    "coords": null,
+    "year": 840,
+    "date_str": "S.d. [apr\u00e8s 840]",
+    "is_approximate": true,
+    "description": "Titulus Header: Gandavo castro"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "S. Pieres",
+    "coords": null,
+    "year": 840,
+    "date_str": "S.d. [apr\u00e8s 840]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Pieres"
+  }
+]

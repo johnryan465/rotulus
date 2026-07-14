@@ -1,0 +1,25 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1160,
+    "date_str": "[1160, apr\u00e8s le 23 novembre]",
+    "is_approximate": false,
+    "description": "Origin: Vers en l'honneur de German, abb\u00e9 de Selby (\u2126 23 n..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Selby",
+    "coords": null,
+    "year": 1160,
+    "date_str": "[1160, apr\u00e8s le 23 novembre]",
+    "is_approximate": true,
+    "description": "German (abbot)"
+  }
+]

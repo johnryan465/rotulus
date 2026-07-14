@@ -1,79 +1,75 @@
 {
   "roll": {
     "id": 28,
-    "roll_num": "46",
-    "date_str": "S.d.",
-    "title": "S.d. [apr\u00e8s fevricr 979] Titre versifi\u00e9 \u00e9crit \u00e0 Fleury: A. Original perdu. B. Paris, B.N. F.,lat. 8674, fol. 112 (fin X'-d\u00e9but XI 6) a. L. Delisle; Rouleaux des morts du [X' au XV & , P 19,n\" X(2), dapres B. 25",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "27,28",
+    "roll_num": 32,
+    "date_str": "S.d. [premier quart du X\u00ba s.]",
+    "title": "Encyclique sollicitant de prier pour Gerbert et l'archidiacre Gauttier, membres du chapitre de Reims.",
+    "manuscripts": "A. Original perdu.\nB. Paris, B. N. F., lat. 11379, fol. 18r. (addition du X\u00ba s.).\na. E. de Rouvrier, Formules, 2\u00ba partie, p. 556, n\u00ba 687. \u2014 b. L. Delisle, Rouleaux des morts du IX\u00ba au XV\u00ba s., p. 5\u00ba, n\u00ba V, d'Apr\u00e8s B. \u2014 c. K. Zeumer, Formulae merovingici et carolini awei (M. G. H., Leges), p. 515, n\u00ba 6.",
+    "pdf_source": "1",
+    "pdf_pages": "18",
     "is_verified": 0
   },
-  "tituli": [],
+  "tituli": [
+    {
+      "id": 47,
+      "roll_id": 28,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Honorabiliter venerandis ac venerabiliter honorandis patribus et fratribus sororibusque Deo sub sacra institutionis norma degentibus, humilis grex canonicorum alme alumni Dei gentricis Mariae ecclesiae, instanti avis gaudium et 15 \u00e6ternae felicitatis bravium \u00ba (1). Quoniam omnium Creator rerum protoplasto Adae solum os hodiscentibus nota (2) demjntisse legitur << in vui sultus sudore Duo x\u00ba, non magnope nobis stupendum existit, dum esse innumeris afficiri malis, quae in erruma hujus corruptibilibus ac labilibus awei posit, non solum in exequendis filiis malis negligentibus sum, sed etiam immenso peccato 20 torum pandere gravamur. Verum, quia <...> da idem pater plus ingentia pietatis suae ad <...> enta mediamina, per copiam scelest\u00e6 olemosinarus, <...> rem panem comedamus \u00ba (2), non que lacrimarum atque assiduitatem orationem, oportet nos, juxta praeceptum beati Jacopi apostoli << orare pro incipem \u00ba (3), quatinus et hic, quandiu substituiremus, ab hostium visibilibus et invisibilibus infestationibus protegi, et in futuro 25 pariter <<...>bus de gloria aeternae retributionis mereamur <...> [cum]ulari. Intimamus itaque benignissimae caritati [vestrae obitum quorumdam fratrum nostrummore illorum, Gerberti et Walteri archidiacon, quorum unus V idus juli, alter VIII kalendas hominem exu[erunt], pro quorum animarum absolutione]",
+      "pdf_page": 18,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 190,
+          "titulus_id": 47,
+          "original_name": "Gerberti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gerbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 191,
+          "titulus_id": 47,
+          "original_name": "Walteri",
+          "original_title": "archidiacon",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Walter",
+          "normalized_role": "archdeacon",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
   "footnotes": [
     {
-      "id": 35589,
+      "id": 145,
       "roll_id": 28,
-      "pdf_page": 27,
-      "pdf_half": "right",
+      "pdf_page": 18,
+      "pdf_half": "left",
       "footnote_num": "1",
-      "text": "passage necnonque Cngisll, Ouulllulllol haute duS de Sole. (b) Diverses variantes, abtegees et plac\u00e9cs en interlignc parenth\u00e8ses."
+      "text": "bravium \u00ba"
     },
     {
-      "id": 35590,
+      "id": 146,
       "roll_id": 28,
-      "pdf_page": 27,
-      "pdf_half": "right",
+      "pdf_page": 18,
+      "pdf_half": "left",
       "footnote_num": "2",
-      "text": "CE. GaL, VI, 2: Alter alterius oncra por- late ."
+      "text": "nota \u00ba"
     },
     {
-      "id": 35591,
+      "id": 147,
       "roll_id": 28,
-      "pdf_page": 27,
-      "pdf_half": "right",
+      "pdf_page": 18,
+      "pdf_half": "left",
       "footnote_num": "3",
-      "text": "Sens Inc tiana, t XIL eol 109<"
-    },
-    {
-      "id": 35592,
-      "roll_id": 28,
-      "pdf_page": 27,
-      "pdf_half": "right",
-      "footnote_num": "4",
-      "text": "ulecs eu enure"
-    },
-    {
-      "id": 35593,
-      "roll_id": 28,
-      "pdf_page": 27,
-      "pdf_half": "right",
-      "footnote_num": "5",
-      "text": "du Callla chris'"
-    },
-    {
-      "id": 35594,
-      "roll_id": 28,
-      "pdf_page": 28,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "D ; Coinbez lraliscchucio; B ; corrigez patrono. (d) Dapr\u00e8s a,il faut peut-\u00eatre"
-    },
-    {
-      "id": 35595,
-      "roll_id": 28,
-      "pdf_page": 28,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "lire exanimus."
-    },
-    {
-      "id": 35596,
-      "roll_id": 28,
-      "pdf_page": 28,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "B ;corrigez amnis,"
+      "text": "orare pro incipem \u00ba"
     }
   ]
 }

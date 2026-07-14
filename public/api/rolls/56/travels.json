@@ -1,0 +1,61 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 988,
+    "date_str": "S.d. [988-1004]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) mis en circulatio..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Sancte Marie Mettensis",
+    "coords": null,
+    "year": 988,
+    "date_str": "S.d. [988-1004]",
+    "is_approximate": true,
+    "description": "Odilia (abbess)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "S. Maixent",
+    "coords": null,
+    "year": 988,
+    "date_str": "S.d. [988-1004]",
+    "is_approximate": true,
+    "description": "Saint Maixent (patriarch and pontiff)"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 988,
+    "date_str": "S.d. [988-1004]",
+    "is_approximate": false,
+    "description": "Virgin Mary ()"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Fleury / Saint-Beno\u00eet-sur-Loire, France",
+    "coords": [
+      47.81,
+      2.305
+    ],
+    "year": 988,
+    "date_str": "S.d. [988-1004]",
+    "is_approximate": false,
+    "description": "Titulus Header: Fleury"
+  }
+]

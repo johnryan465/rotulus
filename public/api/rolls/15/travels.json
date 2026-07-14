@@ -1,0 +1,28 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Salzburg, Austria",
+    "coords": [
+      47.8095,
+      13.055
+    ],
+    "year": 800,
+    "date_str": "800, 20 janvier.",
+    "is_approximate": false,
+    "description": "Origin: Institution de \u00ab litterae \u00bb mortuaires lors du con..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Murbach Abbey, France",
+    "coords": [
+      47.9234,
+      7.1581
+    ],
+    "year": 800,
+    "date_str": "800, 20 janvier.",
+    "is_approximate": false,
+    "description": "Sinthertus (bishop and abbot)"
+  }
+]

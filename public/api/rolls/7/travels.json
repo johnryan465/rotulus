@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Mainz, Germany",
+    "coords": [
+      50.0,
+      8.2667
+    ],
+    "year": 773,
+    "date_str": "S.d. [773, fin mai 781]",
+    "is_approximate": false,
+    "description": "Origin: \u00c9change de \u00ab litterae [pro defuncis] \u00bb entre d'une..."
+  }
+]

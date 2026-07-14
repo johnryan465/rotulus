@@ -1,14 +1,34 @@
 {
   "roll": {
     "id": 26,
-    "roll_num": "42",
-    "date_str": "S.d.",
-    "title": "S.d [vcrs 972] Troisi\u00e8me variante de la formule de . d\u00eda de Dunstan. bref mortuaire ins\u00e9r\u00e9e dans la Regularis concor- A Original perdu: 20 E.London, British Library; Cotton Tiberius A 3,fol. 177v (fin X? &) . 0, Th-Symons; Regularis = 1953, p 68,n.b, concordia Anglicae nationis  dapr\u00e8s B. monachorum sanctimonialiumque; London; InDIQv\u00c9  Th. Symons; op. cil., p LIV Gratia miserationis Dei 25 Christi archiepiscopus omnibus  Ecclesiae ill. fidelibus omnisque salutem. congregatio Ecclesiae Cum omnes diem mortis nostrae [972]",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "25,26",
+    "roll_num": 28,
+    "date_str": "S.d. [IX\u00ba s.]",
+    "title": "Formule de bref mortuaire (peut-\u00eatre \u00e0 l'usage de S. Baafs de Gent).",
+    "manuscripts": "A. Original perdu.\nB. Paris, B. N. F., lat. 11379, fol. 16v [IX\u00ba s.].\na. A. Tenlet, (\u0152uvres compl\u00e8tes d'\u00e9poques), Paris, t. II, 1843, appendix I, p. 146, n\u00ba III. \u2013 b. E. de Rossi\u00e9, Z\u00e2me, p. 952, n\u00ba 662. \u2013 c. K. Zoumer, Formulae merovingici et carolini aevi (M. G. H., L\u00e9ger), p. 514, n\u00ba 4.",
+    "pdf_source": "1",
+    "pdf_pages": "16,17",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": []
+  "tituli": [
+    {
+      "id": 44,
+      "roll_id": 26,
+      "title": "",
+      "location_name": "",
+      "latin_text": "regnum quod vobis paratum est ab origine mundi * (1). Sic exinde agit\u00e9, qualiter in vos bere confidimus in omnibus.",
+      "pdf_page": 16,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 143,
+      "roll_id": 26,
+      "pdf_page": 16,
+      "pdf_half": "right",
+      "footnote_num": "*",
+      "text": "venant sans doute de S. Bavon de Gand \u2013 sans"
+    }
+  ]
 }

@@ -1,0 +1,732 @@
+{
+  "roll": {
+    "id": 109,
+    "roll_num": 106,
+    "date_str": "",
+    "title": "",
+    "manuscripts": "",
+    "pdf_source": "3",
+    "pdf_pages": "1,2,3",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1062,
+      "roll_id": 109,
+      "title": "2 S.d.- Lyon, S. Alban.",
+      "location_name": "Lyon",
+      "latin_text": "T. SANCTI ALBANI INFRA MUROS LUGDUNI,\nSi Milo salvari potuisset carmine nostro,\nTunc mea musa sibi scribisset (sic) carmina pluria.",
+      "pdf_page": 1,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3056,
+          "titulus_id": 1062,
+          "original_name": "Milo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Milo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1063,
+      "roll_id": 109,
+      "title": "3 S.d.- Lyon, S. Georges.",
+      "location_name": "Lyon",
+      "latin_text": "T. GEORGII EXTRA MUROS LUGDUNI.\nDum pro legato Romano carmina fingo,\nPectore de nostro curas expellere tempto.\nMoribus hic varus Vir Milo fuit avec nasus,\nQui mortis \u062f\u0631\u062c narratur fata subesse.",
+      "pdf_page": 1,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3057,
+          "titulus_id": 1063,
+          "original_name": "Milo",
+          "original_title": "Vir",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Milo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1064,
+      "roll_id": 109,
+      "title": "[col. 2] 4 S.d.- Cluny.",
+      "location_name": "Cluny",
+      "latin_text": "TITULUS BEATORUM APOSTOLORUM PRETI ET PAULI CLUNIACENSIS CENOBI (b).\nAnima eius et animam[c] (o. f. defunctorum requies) [cant i. p. Orat. p. [nostris: Renco. (1) Raimundus, Iltus, Armannus, Wigo, Senebrunus, Pontius, Letaldus, Vidus, Opizo, Arbertus, Oggerius, Theodoricus] [legatus, dispositione Dei et misericordia apud nos obiit et [in] monasterio nostro Marciniaco honorifice sep[ul]tus est atque ad tumbam ejus altare novum levatum memoriam ipsius insignem facit ac celebrem. Cujus vita honesta moresque religione pariter a[c] probitate prae- diti, cum abili etiam, qui eum nec cogoverant ver nec indoctum, vir immerito praedica[cent][ur], multo amplius decet nos et praedicare eum et commendare qui bus et notus erat et karissimus atque in legatione commiss[a] specialiter nobis direc- tus. Quicunque igitur subscripturi estis in hoc thomo, psagi pie anim\u0119",
+      "pdf_page": 1,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3058,
+          "titulus_id": 1064,
+          "original_name": "Raimundus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Raymond",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3059,
+          "titulus_id": 1064,
+          "original_name": "Iltus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Iltus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3060,
+          "titulus_id": 1064,
+          "original_name": "Armannus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arman",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3061,
+          "titulus_id": 1064,
+          "original_name": "Wigo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3062,
+          "titulus_id": 1064,
+          "original_name": "Senebrunus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Senebrunus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3063,
+          "titulus_id": 1064,
+          "original_name": "Pontius",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pontius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3064,
+          "titulus_id": 1064,
+          "original_name": "Letaldus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Letaud",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3065,
+          "titulus_id": 1064,
+          "original_name": "Vidus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Vidus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3066,
+          "titulus_id": 1064,
+          "original_name": "Opizo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Opizo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3067,
+          "titulus_id": 1064,
+          "original_name": "Arbertus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3068,
+          "titulus_id": 1064,
+          "original_name": "Oggerius",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ogger",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3069,
+          "titulus_id": 1064,
+          "original_name": "Theodoricus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Thierry",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1065,
+      "roll_id": 109,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Jam mil terrenum sed habere Deum cupienti.\nConcinnans versus sine commoditate paratur.\nQuo tantum juvenum lascivia sola notatur\n<...>le (a) Deus nostra de parte rogatur\nSpiritus, ut caelo Milonis suscipiatur.",
+      "pdf_page": 1,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3070,
+          "titulus_id": 1065,
+          "original_name": "Milo",
+          "original_title": null,
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mili",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1066,
+      "roll_id": 109,
+      "title": "",
+      "location_name": "",
+      "latin_text": "cardinal-\u00e9v\u00eaque de Palestrina. Il prit part \u00e0 la cons\u00e9cration du pascal II, le 14 ao\u00fbt 1099 (1). En\n1102 ou 1103 (2), le nouveau pape, qui semble avoir tenu en haute estime (3), l'envoya comme\nl\u00e9gat en France, afin de r\u00e9gler le diff\u00e9rend opposant un parte V\u00e9zelay et Cluny et d'autre part\nNorv\u00e8ge, \u00e9v\u00eaque d'Autun.\nOn ignore la date de la mort de Milon de Palestrina; pour certains (4), elle serait survenue en 1101,\npour d'autres (5) en 1112; en r\u00e9alit\u00e9, elle doit \u00eatre situ\u00e9e en 1104 (6), car Conrad, successeur\na ce Milon, si\u00e8ge au cardinale de Palestrina, \u00e9tait d\u00e9j\u00e0 en charge de la fin de 1105 (7). De toute\nmode, Milon mourut \u00e0 Cluny et fut inhum\u00e9 \u00e0 Margency: on leva un autel pr\u00e8s de sa tombe pour\nassurer la primaut\u00e9 de sa m\u00e9moire (8).\nMilon \u00e0 \u0645\u0630illon \u00e9 \u00e9tait une personne de Marbois rendant hommage \u00e0 Milon, d'apr\u00e8s un ms. de S. Aubin\nd'Angers qui \u00e9crit sans doute \u00e0 l'occasion du passage du rodeau mortuaire \u00e0 Angers, o\u00f9 il r\u00e9sida le\n20 plus savoir, que l'\u00e9v\u00eaque de Bernes il composa ; aussi je crois bon de le publier ici.",
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3071,
+          "titulus_id": 1066,
+          "original_name": "pascal II",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Paschal II",
+          "normalized_role": "pope",
+          "normalized_dates": "c. 1099",
+          "location_name": null
+        },
+        {
+          "id": 3072,
+          "titulus_id": 1066,
+          "original_name": "Milon de Palestrina",
+          "original_title": "cardinal-\u00e9v\u00eaque",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Milo of Palestrina",
+          "normalized_role": "cardinal-bishop",
+          "normalized_dates": "",
+          "location_name": "Palestrina"
+        },
+        {
+          "id": 3073,
+          "titulus_id": 1066,
+          "original_name": "Conrad",
+          "original_title": "successeur a ce Milon",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Conrad",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1067,
+      "roll_id": 109,
+      "title": "1 S.-Lyon, S. Romain.",
+      "location_name": "S.-Lyon, S. Romain",
+      "latin_text": "Nam non exaudis tam ludicra carmina, Christe.\nEt sicut modo fit, fieri non ante solebat.\nImmo primis peccis sua carmina medicamina sunt morienti.",
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3074,
+          "titulus_id": 1067,
+          "original_name": "Christe",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1068,
+      "roll_id": 109,
+      "title": "2 S.d.- Lyon, S. Alban.",
+      "location_name": "Lyon; S. Alban",
+      "latin_text": "[...I ALBINI INFRA MUROS LUGDUNI. salvari potuisset carmine nostro, ea musa sibi scribisset (sic) carmina plura.]",
+      "pdf_page": 2,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1069,
+      "roll_id": 109,
+      "title": "3 S.d.- Lyon, S. Georges.",
+      "location_name": "Lyon; S. Georges",
+      "latin_text": "[...I GEORGII EXTRA MUROS LUGDUNI. o legato Romano carmina fingo, o nostro curas expellere tempto. hic clarus vir Milo fuit nec avarus, tis dire narratur fata subisse.]",
+      "pdf_page": 2,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3075,
+          "titulus_id": 1069,
+          "original_name": "Milo",
+          "original_title": "clarus vir",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Milo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1070,
+      "roll_id": 109,
+      "title": "4 S.d.- Cluny.",
+      "location_name": "Cluny",
+      "latin_text": "[BEATORUM APOSTOLORUM PETRI et PAULI CLUNIACENSIS CENOBII(b).] jus et anim[c] (o. f. defunc[torum requies] cant i. Orate p. [nostris]: Raimundus, Ildus, Armannus, Wiglo, Senebrunus, Pontius, Letaldus, zo, Arbertus, Oggerius, Theoderi[cus], Raimund, Dalmatius et alii p[20]. n nomina Deum scit. Vir be mnemonic, laude dignus, domnus Mil, Pre- episcopus et apostolic[e] Sed[is]legatus, dispositione Dei et miseri- tumb ejus altare novum levatum memoriam ipsium insignem ebrem. Cujus vita honesta moresque religione pariter a[e] probitate prae-[25] libilis etiam, qui eum nec cognoverant nec viderant, im nemo praedi- multo amplius decet nos et praedicare eum et commendare qui- as erat et karissimos atque in legatione commiss[a] specialiter nobis direc- que igitur subscripturi estis in hoc thomo, qui pro suffragiis pi\u00e8 anim\u0119]",
+      "pdf_page": 2,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3076,
+          "titulus_id": 1070,
+          "original_name": "PETRI",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "Apostle",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3077,
+          "titulus_id": 1070,
+          "original_name": "PAULI",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Paul",
+          "normalized_role": "Apostle",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3078,
+          "titulus_id": 1070,
+          "original_name": "Raimundus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Raymond",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3079,
+          "titulus_id": 1070,
+          "original_name": "Ildus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ildebrand",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3080,
+          "titulus_id": 1070,
+          "original_name": "Armannus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arman",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3081,
+          "titulus_id": 1070,
+          "original_name": "Wiglo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Wiglo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3082,
+          "titulus_id": 1070,
+          "original_name": "Senebrunus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Senebrunus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3083,
+          "titulus_id": 1070,
+          "original_name": "Pontius",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pontius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3084,
+          "titulus_id": 1070,
+          "original_name": "Letaldus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Letaud",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3085,
+          "titulus_id": 1070,
+          "original_name": "Arbertus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3086,
+          "titulus_id": 1070,
+          "original_name": "Oggerius",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Oggerio",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3087,
+          "titulus_id": 1070,
+          "original_name": "Theoderi[cus]",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Theodoric",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3088,
+          "titulus_id": 1070,
+          "original_name": "Raimund",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Raymond",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3089,
+          "titulus_id": 1070,
+          "original_name": "Dalmatius",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Dalmatian",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3090,
+          "titulus_id": 1070,
+          "original_name": "Mil",
+          "original_title": "Pre- episcopus et apostolic[e] Sed[is]legatus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Milo",
+          "normalized_role": "Bishop and Apostolic Legate",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1071,
+      "roll_id": 109,
+      "title": "imperdiens circumfertur, omnes vos roga[mus], in nomine Domini et beatorum apostolorum Petri (sie) et Pauli, ut unia queque frivola declinantes, seria tan- tum scribat et honos, ea scilicet que precum habeant et exemplum praebeant\nbeant. Nemio adnostoria h\u00e6 superflua vobis videatur arrogans, quo-\ns niam, sic nobiscum advercere potestatis, multi quod dolendum est and dampnan-\ndum ipsum istum ercur(i)merendi per defuncti rollos, quem pietas instituit, in abu-\nsionem verterunt et irrissionem. Quam gernii peccandi nec in isto themne plevi-\n[la]tum est. Sed ne amplius fiat, vos meliores ac prudentiores omnio studio providete.",
+      "location_name": "",
+      "latin_text": "imperdiens circumfertur, omnes vos roga[mus], in nomine Domini et beatorum apostolorum Petri (sie) et Pauli, ut unia queque frivola declinantes, seria tan- tum scribat et honos, ea scilicet que precum habeant et exemplum praebeant beant. Nemio adnostoria h\u00e6 superflua vobis videatur arrogans, quo- s niam, sic nobiscum advercere potestatis, multi quod dolendum est and dampnan- dum ipsum istum ercur(i)merendi per defuncti rollos, quem pietas instituit, in abu- sionem verterunt et irrissionem. Quam gernii peccandi nec in isto themne plevi- [la]tum est. Sed ne amplius fiat, vos meliores ac prudentiores omnio studio providete.",
+      "pdf_page": 3,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3091,
+          "titulus_id": 1071,
+          "original_name": "Petri",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3092,
+          "titulus_id": 1071,
+          "original_name": "Pauli",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Paul",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1072,
+      "roll_id": 109,
+      "title": "S.d.- Angers, \u00e9glise ind\u00e9termin\u00e9e.",
+      "location_name": "Angers",
+      "latin_text": "Roma beata nimis, quae sic excrevit ab imis,\nUt jam dicatur florens suis habetur\nEcclesiae lumen, summum mundique cacumen,\nLucem regalem vibrans et pontificalem ;\nCujus doctrina fulciret nostra ruinam,\nCernens ecclesiam turbari per simoniam,\nMist legatum per Gallica regna probatum :\nContra Simonem iugnare mulonem.\nEcclesiae pressae lapsaque juberet adesse,\nPresse turlam, lapse donando medelam.\nHe gladius Petri dics impetit agmina treti,\nIndignique daturus superent pontificatus,\nEt datur imarginis sedes sine munere dignis.\nProper vendentes non exessant ementes,\nUtilis adventus erat, ut res postulat eas.\nNam sunt praelati vigilantes utilitati,\nQui faciunt aquestum, si dona Dei, manifestum,\nEt Christum vendunt, nec esse ali\u2019 reprehendunt,\nQuidam terrore tolerant aliique favore.\nNulli donatus gratis pontificatus.\nSi sit farta manus, fiet puer ile decanus,\nEt bene nummati sunt ilico canonicati.\nProvicitur census, vilet sine nomine sensus,\nEst sensa plena nummis impleta crumen\nAmnia divitiae vincunt documenta sophiae.",
+      "pdf_page": 3,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3093,
+          "titulus_id": 1072,
+          "original_name": "Marbode",
+          "original_title": "\u00e9v\u00eave de Rennes",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Marbod of Rennes",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Rennes"
+        },
+        {
+          "id": 3094,
+          "titulus_id": 1072,
+          "original_name": "Simonem",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Simon Magus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3095,
+          "titulus_id": 1072,
+          "original_name": "Petri",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3096,
+          "titulus_id": 1072,
+          "original_name": "Christum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 1145,
+      "roll_id": 109,
+      "pdf_page": 1,
+      "pdf_half": "right",
+      "footnote_num": "(a)",
+      "text": "Le parchemin est ici tr\u00e8s endommag\u00e9."
+    },
+    {
+      "id": 1146,
+      "roll_id": 109,
+      "pdf_page": 1,
+      "pdf_half": "right",
+      "footnote_num": "(b)",
+      "text": "les diverses majeuscules de cette mention sont rubriques."
+    },
+    {
+      "id": 1147,
+      "roll_id": 109,
+      "pdf_page": 1,
+      "pdf_half": "right",
+      "footnote_num": "(c)",
+      "text": "Les derni\u00e8res lettres de plusieurs lignes de cette colonne ont pris au moins du moins disparu en raison du mauvais traitement du document.."
+    },
+    {
+      "id": 1148,
+      "roll_id": 109,
+      "pdf_page": 1,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Pour G. Morin (op. cit., p. 246, n. 1), il pourrait s'agir du personnage que Hugues, abb\u00e9 de Cluny, avait donn\u00e9 pour guide \u00e0 la communaut\u00e9 des moniales de Marcigny."
+    },
+    {
+      "id": 1149,
+      "roll_id": 109,
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Cf. L. Delisle, Liber pontificalis, t. II,\nParis, 1892, p. 296."
+    },
+    {
+      "id": 1150,
+      "roll_id": 109,
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Sur cette date, cf. G. Morin, op. cit.,\np. 243, n. 3."
+    },
+    {
+      "id": 1151,
+      "roll_id": 109,
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "Th. Schieffelin, Pr\u00e9konsulat\nl\u00e9giens en Fruskirchen zum Erbe von Mer-\nsen (1570) nach Hans Schunman von 1590,"
+    },
+    {
+      "id": 1152,
+      "roll_id": 109,
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": "Par exemple Ughelli, Italia sacra, t. I,\n1717, p. 196."
+    },
+    {
+      "id": 1153,
+      "roll_id": 109,
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": "Par exemple P. Frison, Gallia purpurea,\nParis, 1638, p. 116."
+    },
+    {
+      "id": 1154,
+      "roll_id": 109,
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "footnote_num": "6",
+      "text": "Cf. P. A. Petini, Memorie prenestine dis-\nposte in numero annali, 1795, p. 117."
+    },
+    {
+      "id": 1155,
+      "roll_id": 109,
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "footnote_num": "7",
+      "text": "Cf. Guim. les \u00e9dit."
+    },
+    {
+      "id": 1156,
+      "roll_id": 109,
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "footnote_num": "8",
+      "text": "Cf. infra, p. 351, je titre du cl\u00f9 \u00e0 Clonny."
+    },
+    {
+      "id": 1157,
+      "roll_id": 109,
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "footnote_num": "9",
+      "text": "A noter que l'auteur du titre de Cluny sur\nle rodeau mortuaire de Hugues Ier, abb\u00e9 de\nS. Amand, fait les m\u00eames recommandations;\ncf. infra, p. 377."
+    }
+  ]
+}

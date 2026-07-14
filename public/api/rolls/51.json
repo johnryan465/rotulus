@@ -1,103 +1,34 @@
 {
   "roll": {
     "id": 51,
-    "roll_num": "89",
-    "date_str": "S.d.",
-    "title": "S.d [110O, apr\u00e8s le 7 avril] Encyclique 20 (+ 7 avril sollicitant de prier pour 1100) _ Bernard [de S Venant] , abb\u00e9 de Marmoutier A Paris, B. N E, Coll. Un Baluze; fragment vol 388, anopisthographe. pi\u00e8ce 326. Parchemin Longueur; 43 cm (\u00e9pais ; c. c. B. Paris, largeur; gris\u00e2tre B. N E, 10/10,5 cm ; c. p. jaun\u00e2tre) . dapr\u00e8s lat. 12878 (Dom A. Mart\u00e8ne, Preuves de lhistoire 25 a. ms. de Annales ordinis sancti Marmoutier) , fol. 360, 75, dapr\u00e8s 4. Benedicti, C. L. tV,p Delisle, 668, Rouleaux dapr\u00e8s _ des A.-6. Gallia = morts du IX\" au XVI christiana, TRADUCTIox (partielle) t. XIV, L. S., instr , Delisle; P. 153, col. Vital . de n? Savigny, XXX; INDIQu\u00c9 p. 12. dapr\u00e8s A. Du Cange, C. Glossarium, Chevalier; t. Tours; VIII, 30 t. I, 1874, P: 115. P. 230. P. 536. Ed. ~ A Molinier; Brossier-C Mart\u00e8ne; Sources, Geray, Histoire tIL, p. 82,n9 1335 _ Guy [er de abb\u00e9 Marmoutier, (ann. 1108) . de S \u00e9d. ~L. Delisle; P\u00e8re Vital de Chartres, de Audeberto . Savigny, p. 12 corrig\u00e9 en Audeberte par 'exponctuation . du 0 et addition en interligne du e B. [1097]",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "43,44,45",
+    "roll_num": 58,
+    "date_str": "",
+    "title": "",
+    "manuscripts": "A. Original perdu.\nB. Paris, B. N. F., inst. 8674, fol. 114 (X\u2020 s.).",
+    "pdf_source": "1",
+    "pdf_pages": "38",
     "is_verified": 0
   },
-  "tituli": [],
+  "tituli": [
+    {
+      "id": 107,
+      "roll_id": 51,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Qu praestanti trabi Domino sine fine queatis\nPossitique Dei viribus, oro, frui.\nDeuntes esse officio obsceno carmine damos\nScriptura, offert hunc integer et numerus.",
+      "pdf_page": 38,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
   "footnotes": [
     {
-      "id": 35791,
+      "id": 212,
       "roll_id": 51,
-      "pdf_page": 43,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "14o"
-    },
-    {
-      "id": 35793,
-      "roll_id": 51,
-      "pdf_page": 43,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "A son sujet, cf. Gallia christiana, t. col. 208-212 Ed. Mart\u00e8ne; Ilistoire de moutier, \u00e9d. C. Chevalier;  Tours; t. I, 1 p. 471 et suiv. Bernard de Marmoutier %, DHGE., t. VIII, col. 686-687 (P. Calendin (2)   Cf. Jaff\u00e9, n\" 5435 (4056)~ (3) \u00c9d. M. Prou, Recueil des actes de"
-    },
-    {
-      "id": 35792,
-      "roll_id": 51,
-      "pdf_page": 43,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "scripturae testimoniis cognovim"
-    },
-    {
-      "id": 35794,
-      "roll_id": 51,
-      "pdf_page": 43,
-      "pdf_half": "right",
-      "footnote_num": "4",
-      "text": "1S, ei aliquid carneae rubiginis; quod purgato-"
-    },
-    {
-      "id": 35795,
-      "roll_id": 51,
-      "pdf_page": 43,
-      "pdf_half": "right",
-      "footnote_num": "5",
-      "text": "IV, [ar- 374, lans i)."
-    },
-    {
-      "id": 35796,
-      "roll_id": 51,
-      "pdf_page": 43,
-      "pdf_half": "right",
-      "footnote_num": "6",
-      "text": "IF' , P. 333, n? CXXXII () Ibid , P. 345,n\" CXXXVII, \u00c9d. J Leclercq, Yves de Chartres_ P.1o, n 4. (6) Rouleaux des morts du [Xe au XVG p. 153. Cf. peut-\u00eatre [ Cor , XII, 26."
-    },
-    {
-      "id": 35797,
-      "roll_id": 51,
-      "pdf_page": 43,
-      "pdf_half": "right",
-      "footnote_num": "7",
-      "text": "Phi-"
-    },
-    {
-      "id": 35798,
-      "roll_id": 51,
-      "pdf_page": 44,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "VCUlUrAI 12"
-    },
-    {
-      "id": 35799,
-      "roll_id": 51,
-      "pdf_page": 44,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "Fuo"
-    },
-    {
-      "id": 35800,
-      "roll_id": 51,
-      "pdf_page": 44,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "deux noms sont \u00e9crits en marge B. ajout\u00e9 en interligne B."
-    },
-    {
-      "id": 35801,
-      "roll_id": 51,
-      "pdf_page": 44,
-      "pdf_half": "right",
-      "footnote_num": "9",
-      "text": "(b) Ces deux noms sont \u00e9crits en marge B. mora"
+      "pdf_page": 38,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "D'apr\u00e8s a, un vers doit manquer ici. - (a) D'apr\u00e8s a, ce vers est incomplet d'un pied."
     }
   ]
 }

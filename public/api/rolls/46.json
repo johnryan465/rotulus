@@ -1,55 +1,356 @@
 {
   "roll": {
     "id": 46,
-    "roll_num": "83",
-    "date_str": "S.d.",
-    "title": "5 S.d. [1096, apr\u00e8s le 29 juillet] Titre compos\u00e9 par Baudri de Bourgueil pour le rouleau mortuaire de Jo\u00ebl [d Antins] , abb\u00e9 de la Couture du Mans, et de Ho\u00ebl, \u00e9v\u00eaque du Mans (t 29 juillet 1096) A. Original perdu. B. Vaticano; Reg lat. 1351, fol. 27 (XIIS s.) . 10 a. A. Duchesne, Historiae Francorum scriptores; Paris; t. IV, 1641, P. 252, * ex veteri codice ms. Alexandri Petavii 0 6. Annales ordinis sancti Benedicti, L. V, p.377 (\u00e9d. partielle) . c.PL.,t. CLXVI, col. 1183. d. P. Abrahams, Les \u0153uvres po\u00e9tiques de Baudri de Bourgueil 1046-1130) _ \u00c9dition critique publi\u00e9e dapr\u00e8s le ms. du Vatican  , Paris, 1926, p. 60,n LIII, dapr\u00e8s B.-eK. Hilbert, Baldricus Burgulianus.  Carmina, Heidelberg, 1979, p. 47, n 18, dapr\u00e8s B. - f J-Y 15 Tilliette, Baudri de Bourgueil. Po\u00e8mes, Paris, t. I, 1998, p. 41, n' 18. TRADUCTION J-Y. Tilliette, loc. cit. INDIQU\u00c9 J Raine, William Ebchester and John Burnby P. VIL. ~L. Delisle, Rouleaux des morts du IX au XV* s, P. 144, n\" XXVI L. Delisle; Notes   sur les po\u00e9sies de Baudri, abb\u00e9 de Bourgueil %, dans Romania, t. 1, 1872, p. 31,n? LIIL. ~J-H. Foulon, La r\u00e9forme de V\u00c9glise dans   20 la France de Vouest, t. I, p. 239. Jo\u00ebl d'Antins, abb\u00e9 de la Couture, d\u00e9dia ses Miracula s. Nicolai \u00e0 Ho\u00ebl, \u00e9v\u00eaque du Mans ; il serait mort le 2juin 1096 (1)- pauper clericus; sed nobilis et bene morigeratus dabord doyen Ho\u00ebl (2) , dorigine bretonne; 1001 /1009 maic nar euite dePonnosition du comte &Aniou, 25",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "39,40",
+    "roll_num": 51,
+    "date_str": "S.d. [994, apr\u00e8s le 11 mai]",
+    "title": "Formule de titre, mentionnant Mayeul, abb\u00e9 de Cluny (\u2020 11 mai 994).",
+    "manuscripts": "A. Original perdu.",
+    "pdf_source": "1",
+    "pdf_pages": "31,32,33",
     "is_verified": 0
   },
-  "tituli": [],
+  "tituli": [
+    {
+      "id": 84,
+      "roll_id": 46,
+      "title": "Texte \u00e9dit\u00e9 d'apr\u00e8s a.",
+      "location_name": "",
+      "latin_text": "Domino illustrismo suae venerationis abbati super gregem Christi labores 2) strenuissimos dediussique cunctique suae illius mandatis illustrissimi abbatis, servus servorumorum Christi, cui sibi creditis omnibus, ubiqu\u012b usquam beatus. Cum totius sanctissimae ordinis christianitatis hoc solae karitatis vinculo, scilicet teste Apostolo (2), perfectiones tentare compagine, ut, licet locorum vastissima",
+      "pdf_page": 31,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 246,
+          "titulus_id": 84,
+          "original_name": "Christi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 247,
+          "titulus_id": 84,
+          "original_name": "Apostolo",
+          "original_title": "",
+          "footnote_num": "2",
+          "footnote_text": "Abb\u00e8 de Moissac (vers 980-990), mentionn\u00e9 \u00e0 la date du 29 septembre par le notaire de Moissac; cf. Ses Martyrolog. Necrolog on Moissac/ Durasel, \u0628\u0631\u06af. A. M\u00fcssigbrod, J. Wollasch, M\u00fcnchen, 1988, p. 86.",
+          "normalized_name": "Apostle",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "roll_id": 46,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Advenit quidam gerulus ex pretiosae Aetheldrydae reginae monasterio, qui ei cujusdam fratris repentina morte nutriaret... Praeceptit mox advenire Ramisensis loci fratres, quos precatus ut humili prece, ut sollicite ter denis diebus missus et vigilias pro eo facerent; quod et fecerunt.",
+      "pdf_page": 31,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 248,
+          "titulus_id": 85,
+          "original_name": "Aetheldrydae",
+          "original_title": "reginae",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Aetleldreda",
+          "normalized_role": "queen",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "roll_id": 46,
+      "title": "",
+      "location_name": "",
+      "latin_text": "seu condiciumium dividantur intercapedne, cor tamen et animam unam ut habeant, omnimodis elaborare operea precum sit : tum vero permaxime isili inter spiritualium carismata dominorum primarium [locum",
+      "pdf_page": 32,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 87,
+      "roll_id": 46,
+      "title": "locum",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 32,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 88,
+      "roll_id": 46,
+      "title": "1 23 ...",
+      "location_name": "Beaulieu-sur-Dordogne",
+      "latin_text": "<...?> patrum excidium. Sigillum diedni trucis incendii defendi deputari, su<...> solos erga nos exuberante clementia, magnamorum opum effimissimo possessores, relicianum circa theoriae appellatum proximum errata fratricidio vivamus magnam salutarem decido.",
+      "pdf_page": 32,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 249,
+          "titulus_id": 88,
+          "original_name": "diedni trucis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Diedni trucis",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "roll_id": 46,
+      "title": "",
+      "location_name": "",
+      "latin_text": "tores, sub patri Bernardi trucione degentes, ut comperimus latorem vestrae\ntristiciae, dignum decrevum fore aliquantulum vestris fratribus auxiliandum.\nQuod offitiose exegimus X kalendas aprilis, obnixe petentes nostris adelphis\nsimile munus impercendium. Valete.",
+      "pdf_page": 33,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 250,
+          "titulus_id": 89,
+          "original_name": "Bernardi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "roll_id": 46,
+      "title": "3 [IV]",
+      "location_name": "Aurillac",
+      "latin_text": "Septemas revocante aprilis mare kalendas,\nCum populus salvatus optimus celebraret ovenant,\nScilicet aeterni Domini mortem, salvatus ab ipso,\nPost palmas terram lucem de more rotante\nSole, Aurelicia cohors lugubria recepit\nGramata quae notant vestrorum funera fratrum.\nPro quibus unalemens puscant Domini pietatem,\nPer quibus aeternae valeat evadere casus,\nAudituque malo haud timeant, potus sed herilem\nPercipientque vocem, capiant qua praemia justa\nA dextris poste sine favente cela.",
+      "pdf_page": 33,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 251,
+          "titulus_id": 90,
+          "original_name": "Domini",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Dominus",
+          "normalized_role": "God",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "roll_id": 46,
+      "title": "[I]",
+      "location_name": "Moissac",
+      "latin_text": "Exemplum Jesu Christi Domini quaum cum discipulis suis perlactus est\npride quam patetere, nobis exeas celebrantes, probitur hujus indiculi adve-\n20 nit, lugobrusum funeris patriis vestri nostri[?] fratri denuncians. Nos vero\ninter nostrum patrum hac<...>.> pro que his agnibus obsequiis iter eos nostris bene-\nficiis conspua <.......>. Exp[s]imus itaque annis vestris nobilitatem, ut pro\nnostris non pigat evadere faciem illi qui nos de tenebris ignorantiae, videlicet\nper Gauzberto abbe, per Gilberto abbe, per Arnaldo monacho, pro Avito\n25 monacho, pro Bernoni monacho, pro Bernardo monacho, pro Uggo[ne]<...>, pro\nAigarno <...>. et aliorum qui[?]orum nomine illi sunt nota cui concia.",
+      "pdf_page": 33,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 252,
+          "titulus_id": 91,
+          "original_name": "Jesu Christi",
+          "original_title": "Domini",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Jesus Christ",
+          "normalized_role": "Lord",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 253,
+          "titulus_id": 91,
+          "original_name": "Gauzberto",
+          "original_title": "abbe",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gauzbert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 254,
+          "titulus_id": 91,
+          "original_name": "Gilberto",
+          "original_title": "abbe",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gilbert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 255,
+          "titulus_id": 91,
+          "original_name": "Arnaldo",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arnold",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 256,
+          "titulus_id": 91,
+          "original_name": "Avito",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Avitus",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 257,
+          "titulus_id": 91,
+          "original_name": "Bernoni",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernold",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 258,
+          "titulus_id": 91,
+          "original_name": "Bernardo",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 259,
+          "titulus_id": 91,
+          "original_name": "Uggo[ne]",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 260,
+          "titulus_id": 91,
+          "original_name": "Aigarno",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Aigarnus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "roll_id": 46,
+      "title": "4 S.-d.- Ripoll",
+      "location_name": "Ripoll",
+      "latin_text": "Clandestinis nefarious tergiversationis prestigio naturis humanae conditionis\naddicta, indeflexibile sui defectus detrintum, in deteriora semper patitur\n30 voluptamas (sic), cum procul dubio hunc repentina calamitas perpetuae infelicitati\ndiformarit addict, illum gravis animadversio superbe examinationis, exiguentibus\nmeritorum qualificatio, graviter feriat. Et quidem omnia que ad nostrum nobis\ncaelitus collata sunt vitae ad nostrum sic [...]",
+      "pdf_page": 33,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
   "footnotes": [
     {
-      "id": 35775,
+      "id": 187,
       "roll_id": 46,
-      "pdf_page": 39,
+      "pdf_page": 31,
+      "pdf_half": "right",
+      "footnote_num": "i",
+      "text": "L'hypoth\u00e8se de H. Tribout de Moremert (op. cit., p. 192-193), selon laquelle le ms. Metz, B. M., 377 aurait pour origine non S. AvoId, mais Falda, me semble sans fondement."
+    },
+    {
+      "id": 188,
+      "roll_id": 46,
+      "pdf_page": 31,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "E. Sackur (op. cit.), cet \u00e9crit aurait \u00e9t\u00e9 adress\u00e9 par un abb\u00e9 d'un monast\u00e8re du dioc\u00e8se de Metz, peut-\u00eatre celui de S. AvoId (1), \u00e0 un abb\u00e9 ind\u00e9termin\u00e9 (identifi\u00e9 avec Odilon, abb\u00e9 de Cluny, par 15 H. Tribout de Moremert, loc. cit.), apr\u00e8s r\u00e9ception du breve annon\u00e7ant le d\u00e9c\u00e8s de Mayeul (survenu le 11 mai 994). Ampt\u00e9 de la liste des d\u00e9funts annonc\u00e9e in fine, il aurait \u00e9t\u00e9 re\u00e7u par la suite pour servir de mod\u00e8le."
+    },
+    {
+      "id": 189,
+      "roll_id": 46,
+      "pdf_page": 32,
       "pdf_half": "right",
       "footnote_num": "1",
-      "text": "Mans; est elu eveque UC Celle CilC U1 v"
+      "text": "Cf. B. N. F. Catalogue g\u00e9n\u00e9ral des manuscrits, t. I, p. 393; D. Gauthier-Chopin, La d\u00e9cr\u00e9tion des manuscrits..., p. 184."
     },
     {
-      "id": 35776,
+      "id": 190,
       "roll_id": 46,
-      "pdf_page": 39,
+      "pdf_page": 32,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Abb\u00e8 de Moissac (vers 980-990), mentionn\u00e9 \u00e0 la date du 29 septembre par le notaire de Moissac; cf. Ses Martyrolog. Necrolog on Moissac/ Durasel, \u0628\u0631\u06af. A. M\u00fcssigbrod, J. Wollasch, M\u00fcnchen, 1988, p. 86."
+    },
+    {
+      "id": 191,
+      "roll_id": 46,
+      "pdf_page": 32,
       "pdf_half": "right",
       "footnote_num": "3",
-      "text": "sit ei celestis remplac\u00e9 , par vivat mens ejus, ajo"
+      "text": "E. Rupin (l'Abbaye et les clo\u00eetres de Moissac, Paris, 1897, p. 40) ne fait \u00e0 tort qu'un seul personnage de Gaussbertus et Gilbertus"
     },
     {
-      "id": 35777,
+      "id": 192,
       "roll_id": 46,
-      "pdf_page": 39,
+      "pdf_page": 32,
       "pdf_half": "right",
       "footnote_num": "4",
-      "text": "Cf. Annales   ordinis   sancti Benedicti, t. V, p. 377. (2) A son sujet, cf. < Ho\u00ebl, \u00e9v\u00eaque du Mans % DHGE , t. XXIV, coL 738-739 dans"
+      "text": "Sur ce personnage, \u00e9galement abb\u00e9 de Solignac et \u00e9v\u00eaque de Cahors, cf. J. Dufour, Les \u00e9v\u00eaques de Cahors, et de Rodes des origines \u00e0 la fin du XIIe s., Paris, 1989, p. 58-59."
     },
     {
-      "id": 35778,
+      "id": 193,
       "roll_id": 46,
-      "pdf_page": 39,
-      "pdf_half": "right",
-      "footnote_num": "6",
-      "text": "en interligne B."
+      "pdf_page": 33,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "La fin de ce titre est illisible. Quelques mots ont \u00e9t\u00e9 d\u00e9chiffr\u00e9s par a (p. 32, n. 1) = [...] Pari\ncalamo brevetor succincter ([...] communis cantatis [...] Completorum quod mandatis [...] talonem\nutique nobis in hoc [...] \u00bb"
     },
     {
-      "id": 35779,
+      "id": 194,
       "roll_id": 46,
-      "pdf_page": 39,
-      "pdf_half": "right",
-      "footnote_num": "7",
-      "text": "(R. Aubert) . (3)   Orderic Vital, Historia ecclesiastica, ed. M. Chibnall, t. II, P. 300."
+      "pdf_page": 33,
+      "pdf_half": "left",
+      "footnote_num": "(6)",
+      "text": "..."
     }
   ]
 }

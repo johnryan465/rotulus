@@ -1,0 +1,1753 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Auxerre, France",
+    "coords": [
+      47.8,
+      3.5667
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (incomplet) de Bruno (\u2020 6 octobr..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Vallis Sigerii",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Vallis Sigerii"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Arles-sur-Tech, France",
+    "coords": [
+      42.4564,
+      2.6347
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Titulus Header: Arles-sur-Tech"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Toulouse, France",
+    "coords": [
+      43.6047,
+      1.4442
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Titulus Header: Toulouse"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Sor\u00e8ze",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Mary of Sor\u00e8ze ()"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "S. Bruno ne et des autres Cartusiens",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Bruno ne et des autres Cartusiens"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "K\u00f6ln",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Saint Cunibert ()"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.25,
+      4.0333
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Massencys (Archbishop of Reims)"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Rome, Italy",
+    "coords": [
+      41.9028,
+      12.4964
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Urban II (Pope)"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Sicily",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Roger I of Sicily (Count/Great Count of Sicily)"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "S. Maria della Torre",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Maria della Torre"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "Saint-Omer",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Saint-Omer ()"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Cassel",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Cassel ()"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "Arras",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Arras ()"
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "Rouen",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Rouen ()"
+  },
+  {
+    "step": 15,
+    "type": "stop",
+    "name": "Normandy",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Normandy ()"
+  },
+  {
+    "step": 16,
+    "type": "stop",
+    "name": "Caen",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Caen ()"
+  },
+  {
+    "step": 17,
+    "type": "stop",
+    "name": "Bayeux, France",
+    "coords": [
+      49.2794,
+      -0.7028
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Bayeux ()"
+  },
+  {
+    "step": 18,
+    "type": "stop",
+    "name": "Mont Saint-Michel",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Mont Saint-Michel ()"
+  },
+  {
+    "step": 19,
+    "type": "stop",
+    "name": "Falaise",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Falaise ()"
+  },
+  {
+    "step": 20,
+    "type": "stop",
+    "name": "Saint-Michel-en-l'Herm",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Saint-Michel-en-l'Herm ()"
+  },
+  {
+    "step": 21,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Poitiers ()"
+  },
+  {
+    "step": 22,
+    "type": "stop",
+    "name": "Blois",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Blois ()"
+  },
+  {
+    "step": 23,
+    "type": "stop",
+    "name": "Chartres, France",
+    "coords": [
+      48.4472,
+      1.4875
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Chartres ()"
+  },
+  {
+    "step": 24,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Paris ()"
+  },
+  {
+    "step": 25,
+    "type": "stop",
+    "name": "Meaux, France",
+    "coords": [
+      48.95,
+      2.9
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Meaux ()"
+  },
+  {
+    "step": 26,
+    "type": "stop",
+    "name": "Orl\u00e9ans, France",
+    "coords": [
+      47.9025,
+      1.909
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Orl\u00e9ans ()"
+  },
+  {
+    "step": 27,
+    "type": "stop",
+    "name": "Vierzon",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Vierzon ()"
+  },
+  {
+    "step": 28,
+    "type": "stop",
+    "name": "Pierjac",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Pierjac ()"
+  },
+  {
+    "step": 29,
+    "type": "stop",
+    "name": "Ch\u00e2lons-sur-Marne",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Ch\u00e2lons-sur-Marne ()"
+  },
+  {
+    "step": 30,
+    "type": "stop",
+    "name": "Calabria",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Bruno (founder/monk)"
+  },
+  {
+    "step": 31,
+    "type": "stop",
+    "name": "Fuccechio",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Fuccechio"
+  },
+  {
+    "step": 32,
+    "type": "stop",
+    "name": "Lucca",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Rangerius (bishop of Lucca)"
+  },
+  {
+    "step": 33,
+    "type": "stop",
+    "name": "Piacenza",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Mary (saint)"
+  },
+  {
+    "step": 34,
+    "type": "stop",
+    "name": "Petra",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Saint Martin (saint)"
+  },
+  {
+    "step": 35,
+    "type": "stop",
+    "name": "La Chiusa",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: La Chiusa"
+  },
+  {
+    "step": 36,
+    "type": "stop",
+    "name": "Grenoble, cath\u00e9drale",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Grenoble, cath\u00e9drale"
+  },
+  {
+    "step": 37,
+    "type": "stop",
+    "name": "[La Grande-]Chartreuse",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: [La Grande-]Chartreuse"
+  },
+  {
+    "step": 38,
+    "type": "stop",
+    "name": "Cornillon",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Cornillon"
+  },
+  {
+    "step": 39,
+    "type": "stop",
+    "name": "La C\u00f4te-S. Andr\u00e9",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: La C\u00f4te-S. Andr\u00e9"
+  },
+  {
+    "step": 40,
+    "type": "stop",
+    "name": "Lyon, Ainay",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Lyon, Ainay"
+  },
+  {
+    "step": 41,
+    "type": "stop",
+    "name": "Lyon, cath\u00e9drale",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Lyon, cath\u00e9drale"
+  },
+  {
+    "step": 42,
+    "type": "stop",
+    "name": "Blois, N.D.-de-Bourgmoyen",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Blois, N.D.-de-Bourgmoyen"
+  },
+  {
+    "step": 43,
+    "type": "stop",
+    "name": "Cluny, S. Pierre",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Cluny, S. Pierre"
+  },
+  {
+    "step": 44,
+    "type": "stop",
+    "name": "Lyon, France",
+    "coords": [
+      45.7597,
+      4.8422
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Titulus Header: Lugdunensis"
+  },
+  {
+    "step": 45,
+    "type": "stop",
+    "name": "Chalon-sur-Sa\u00f4ne, cath\u00e9drale (S. Vincent)",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Chalon-sur-Sa\u00f4ne, cath\u00e9drale (S. Vincent)"
+  },
+  {
+    "step": 46,
+    "type": "stop",
+    "name": "Beaune, N.-D.",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Beaune, N.-D."
+  },
+  {
+    "step": 47,
+    "type": "stop",
+    "name": "Conty",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Conty"
+  },
+  {
+    "step": 48,
+    "type": "stop",
+    "name": "Sancti Petri Carnotis",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancti Petri Carnotis"
+  },
+  {
+    "step": 49,
+    "type": "stop",
+    "name": "areopagite",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Saint Denis ()"
+  },
+  {
+    "step": 50,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Titulus Header: Paris"
+  },
+  {
+    "step": 51,
+    "type": "stop",
+    "name": "Saint-Pierre de Foss\u00e9s",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Saint-Pierre de Foss\u00e9s"
+  },
+  {
+    "step": 52,
+    "type": "stop",
+    "name": "Meaux, France",
+    "coords": [
+      48.95,
+      2.9
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Titulus Header: Meaux"
+  },
+  {
+    "step": 53,
+    "type": "stop",
+    "name": "Ch\u00e9zy[-sur-Marne]",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Ch\u00e9zy[-sur-Marne]"
+  },
+  {
+    "step": 54,
+    "type": "stop",
+    "name": "Chartres, France",
+    "coords": [
+      48.4472,
+      1.4875
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Titulus Header: Chartres"
+  },
+  {
+    "step": 55,
+    "type": "stop",
+    "name": "S. Marguerite",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Marguerite"
+  },
+  {
+    "step": 56,
+    "type": "stop",
+    "name": "C\u00eeteaux",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: C\u00eeteaux"
+  },
+  {
+    "step": 57,
+    "type": "stop",
+    "name": "Dijon, France",
+    "coords": [
+      47.3167,
+      5.0167
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "B\u00e9nigne (Saint)"
+  },
+  {
+    "step": 58,
+    "type": "stop",
+    "name": "[Dijon,] S. \u00c9tienne",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: [Dijon,] S. \u00c9tienne"
+  },
+  {
+    "step": 59,
+    "type": "stop",
+    "name": "B\u00e8ze",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Pierre (Saint)"
+  },
+  {
+    "step": 60,
+    "type": "stop",
+    "name": "Castellionensis",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Saint Mary (saint)"
+  },
+  {
+    "step": 61,
+    "type": "stop",
+    "name": "Langres, France",
+    "coords": [
+      47.8667,
+      5.3333
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Robert I of Burgundy (bishop)"
+  },
+  {
+    "step": 62,
+    "type": "stop",
+    "name": "Molesme",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Molesme"
+  },
+  {
+    "step": 63,
+    "type": "stop",
+    "name": "Tornodrensis",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": " ()"
+  },
+  {
+    "step": 64,
+    "type": "stop",
+    "name": "Autisiodorensis",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Saint Germanus ()"
+  },
+  {
+    "step": 65,
+    "type": "stop",
+    "name": "Moutiers-S. Jean",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Moutiers-S. Jean"
+  },
+  {
+    "step": 66,
+    "type": "stop",
+    "name": "Pothi\u00e8res",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Lambert (monk/procurator)"
+  },
+  {
+    "step": 67,
+    "type": "stop",
+    "name": "Arenaremensis cenobii",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Arenaremensis cenobii"
+  },
+  {
+    "step": 68,
+    "type": "stop",
+    "name": "Trecorum",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Trecorum"
+  },
+  {
+    "step": 69,
+    "type": "stop",
+    "name": "Insule germanice",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Insule germanice"
+  },
+  {
+    "step": 70,
+    "type": "stop",
+    "name": "Ch\u00e2lons-en-Champagne, cath\u00e9drale (S. \u00c9tienne)",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Ch\u00e2lons-en-Champagne, cath\u00e9drale (S. \u00c9tienne)"
+  },
+  {
+    "step": 71,
+    "type": "stop",
+    "name": "S. Pierre-aux-Monts",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Pierre-aux-Monts"
+  },
+  {
+    "step": 72,
+    "type": "stop",
+    "name": "S. Basle",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Basle"
+  },
+  {
+    "step": 73,
+    "type": "stop",
+    "name": "Reims, cath\u00e9drale (N.-D.)",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Reims, cath\u00e9drale (N.-D.)"
+  },
+  {
+    "step": 74,
+    "type": "stop",
+    "name": "Remens",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Remens"
+  },
+  {
+    "step": 75,
+    "type": "stop",
+    "name": "Andegavia",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Saint Serge (saint)"
+  },
+  {
+    "step": 76,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.25,
+      4.0333
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Titulus Header: Reims"
+  },
+  {
+    "step": 77,
+    "type": "stop",
+    "name": "Remens",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Saint Symphorien (saint)"
+  },
+  {
+    "step": 78,
+    "type": "stop",
+    "name": "S. Trinit\u00e9",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Trinit\u00e9"
+  },
+  {
+    "step": 79,
+    "type": "stop",
+    "name": "S. Denis",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Denis"
+  },
+  {
+    "step": 80,
+    "type": "stop",
+    "name": "S. Remi",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Remi"
+  },
+  {
+    "step": 81,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.25,
+      4.0333
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Nicolas (archbishop)"
+  },
+  {
+    "step": 82,
+    "type": "stop",
+    "name": "Thierry",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Thierry"
+  },
+  {
+    "step": 83,
+    "type": "stop",
+    "name": "Laon, France",
+    "coords": [
+      49.5667,
+      3.6167
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Mary ()"
+  },
+  {
+    "step": 84,
+    "type": "stop",
+    "name": "Saltu Vedocii",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Saltu Vedocii"
+  },
+  {
+    "step": 85,
+    "type": "stop",
+    "name": "Noviandi",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Noviandi"
+  },
+  {
+    "step": 86,
+    "type": "stop",
+    "name": "Blois",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Blois"
+  },
+  {
+    "step": 87,
+    "type": "stop",
+    "name": "Blois/Calais",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Blois/Calais"
+  },
+  {
+    "step": 88,
+    "type": "stop",
+    "name": "Bernay",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Bernay"
+  },
+  {
+    "step": 89,
+    "type": "stop",
+    "name": "Orl\u00e9ans, cath\u00e9drale (S. Croix)",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Orl\u00e9ans, cath\u00e9drale (S. Croix)"
+  },
+  {
+    "step": 90,
+    "type": "stop",
+    "name": "Soissons",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Peter (abbot of St. John's in Soissons)"
+  },
+  {
+    "step": 91,
+    "type": "stop",
+    "name": "Belvacensis",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Belvacensis"
+  },
+  {
+    "step": 92,
+    "type": "stop",
+    "name": "Belvagorum",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Belvagorum"
+  },
+  {
+    "step": 93,
+    "type": "stop",
+    "name": "Sylva",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Sylva"
+  },
+  {
+    "step": 94,
+    "type": "stop",
+    "name": "Corbie, S. Pierre",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Corbie, S. Pierre"
+  },
+  {
+    "step": 95,
+    "type": "stop",
+    "name": "S. Quentin",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Quentin"
+  },
+  {
+    "step": 96,
+    "type": "stop",
+    "name": "Alton",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Altonitans ()"
+  },
+  {
+    "step": 97,
+    "type": "stop",
+    "name": "P\u00e9ronne",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Fursy (saint)"
+  },
+  {
+    "step": 98,
+    "type": "stop",
+    "name": "Marchiennes",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Marchiennes"
+  },
+  {
+    "step": 99,
+    "type": "stop",
+    "name": "S. Amand",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Amand"
+  },
+  {
+    "step": 100,
+    "type": "stop",
+    "name": "Lille, S. Pierre",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Lille, S. Pierre"
+  },
+  {
+    "step": 101,
+    "type": "stop",
+    "name": "Messines, N.-D.",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Messines, N.-D."
+  },
+  {
+    "step": 102,
+    "type": "stop",
+    "name": "Formosella (Voormezele)",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Formosella (Voormezele)"
+  },
+  {
+    "step": 103,
+    "type": "stop",
+    "name": "Brugge",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Brugge"
+  },
+  {
+    "step": 104,
+    "type": "stop",
+    "name": "Mileto",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Mileto"
+  },
+  {
+    "step": 105,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Saint Peter of Poitiers ()"
+  },
+  {
+    "step": 106,
+    "type": "stop",
+    "name": "S. I. Poitiers, S. Hilaire-de-la-Celle",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: S. I. Poitiers, S. Hilaire-de-la-Celle"
+  },
+  {
+    "step": 107,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Radegund (queen of the Picts)"
+  },
+  {
+    "step": 108,
+    "type": "stop",
+    "name": "[Poitiers,] S. Cyprien",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: [Poitiers,] S. Cyprien"
+  },
+  {
+    "step": 109,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "John (evangelist of Poitiers)"
+  },
+  {
+    "step": 110,
+    "type": "stop",
+    "name": "Vierzon, S. Pierre",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Vierzon, S. Pierre"
+  },
+  {
+    "step": 111,
+    "type": "stop",
+    "name": "Plaimpied, S. Martin",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Plaimpied, S. Martin"
+  },
+  {
+    "step": 112,
+    "type": "stop",
+    "name": "Micy, S. Mesmin",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Micy, S. Mesmin"
+  },
+  {
+    "step": 113,
+    "type": "stop",
+    "name": "[Micy, S. Mesmin]",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: [Micy, S. Mesmin]"
+  },
+  {
+    "step": 114,
+    "type": "stop",
+    "name": "Reuais, S. Pierre",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Reuais, S. Pierre"
+  },
+  {
+    "step": 115,
+    "type": "stop",
+    "name": "Lagny[sur-Marne]",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Lagny[sur-Marne]"
+  },
+  {
+    "step": 116,
+    "type": "stop",
+    "name": "Nicastro",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Nicastro"
+  },
+  {
+    "step": 117,
+    "type": "stop",
+    "name": "Falaise, S. Trinit\u00e9",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Falaise, S. Trinit\u00e9"
+  },
+  {
+    "step": 118,
+    "type": "stop",
+    "name": "Falaise, S. Gervais",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Falaise, S. Gervais"
+  },
+  {
+    "step": 119,
+    "type": "stop",
+    "name": "Ghent, Belgium",
+    "coords": [
+      51.0543,
+      3.7174
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Titulus Header: Gent"
+  },
+  {
+    "step": 120,
+    "type": "stop",
+    "name": "[Pr\u00e9aux]",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: [Pr\u00e9aux]"
+  },
+  {
+    "step": 121,
+    "type": "stop",
+    "name": "Gandavo",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Saint Bavo ()"
+  },
+  {
+    "step": 122,
+    "type": "stop",
+    "name": "Coventry",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Coventry"
+  },
+  {
+    "step": 123,
+    "type": "stop",
+    "name": "S. Omer",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Audomar (bishop)"
+  },
+  {
+    "step": 124,
+    "type": "stop",
+    "name": "London",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: London"
+  },
+  {
+    "step": 125,
+    "type": "stop",
+    "name": "Cassel, S. Pierre",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Cassel, S. Pierre"
+  },
+  {
+    "step": 126,
+    "type": "stop",
+    "name": "Arras, cath\u00e9drale (N.-D.)",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Arras, cath\u00e9drale (N.-D.)"
+  },
+  {
+    "step": 127,
+    "type": "stop",
+    "name": "Arras",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Vedast (bishop)"
+  },
+  {
+    "step": 128,
+    "type": "stop",
+    "name": "Morlivensis",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Mary ()"
+  },
+  {
+    "step": 129,
+    "type": "stop",
+    "name": "Hierusalem",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Bruno ()"
+  },
+  {
+    "step": 130,
+    "type": "stop",
+    "name": "Canterbury",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Canterbury"
+  },
+  {
+    "step": 131,
+    "type": "stop",
+    "name": "Bury St Edmunds",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Bury St Edmunds"
+  },
+  {
+    "step": 132,
+    "type": "stop",
+    "name": "Spalinge",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Mary ()"
+  },
+  {
+    "step": 133,
+    "type": "stop",
+    "name": "Andegavensis",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Nicholas (saint)"
+  },
+  {
+    "step": 134,
+    "type": "stop",
+    "name": "Lincoln, cathedral (S. Mary)",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Lincoln, cathedral (S. Mary)"
+  },
+  {
+    "step": 135,
+    "type": "stop",
+    "name": "York, S. Mary",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: York, S. Mary"
+  },
+  {
+    "step": 136,
+    "type": "stop",
+    "name": "York, cathedral (S. Peter)",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: York, cathedral (S. Peter)"
+  },
+  {
+    "step": 137,
+    "type": "stop",
+    "name": "Beverly",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "John (Archbishop of Beverly)"
+  },
+  {
+    "step": 138,
+    "type": "stop",
+    "name": "York, cathedral (S. Peter)",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: York, cathedral (S. Peter)"
+  },
+  {
+    "step": 139,
+    "type": "stop",
+    "name": "York, et cathedral (S. Peter)",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: York, et cathedral (S. Peter)"
+  },
+  {
+    "step": 140,
+    "type": "stop",
+    "name": "Chester",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Chester"
+  },
+  {
+    "step": 141,
+    "type": "stop",
+    "name": "Malmesbury",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Aldhelm (bishop and confessor)"
+  },
+  {
+    "step": 142,
+    "type": "stop",
+    "name": "Rouen, S. Trinit\u00e9-du-Mont",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Rouen, S. Trinit\u00e9-du-Mont"
+  },
+  {
+    "step": 143,
+    "type": "stop",
+    "name": "[Pr\u00e9aux,] S. L\u00e9ger",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: [Pr\u00e9aux,] S. L\u00e9ger"
+  },
+  {
+    "step": 144,
+    "type": "stop",
+    "name": "Bajocensis",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Bajocensis"
+  },
+  {
+    "step": 145,
+    "type": "stop",
+    "name": "Bayeux, France",
+    "coords": [
+      49.2794,
+      -0.7028
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Titulus Header: Bayeux"
+  },
+  {
+    "step": 146,
+    "type": "stop",
+    "name": "Cerisy",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Saint Vigor (saint)"
+  },
+  {
+    "step": 147,
+    "type": "stop",
+    "name": "Mont Saint-Michel",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Saint Michael (saint)"
+  },
+  {
+    "step": 148,
+    "type": "stop",
+    "name": "Chezal-Benoft, S. Pierre",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Chezal-Benoft, S. Pierre"
+  },
+  {
+    "step": 149,
+    "type": "stop",
+    "name": "Le Mans, France",
+    "coords": [
+      48.0,
+      0.2
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Bruno (hermit)"
+  },
+  {
+    "step": 150,
+    "type": "stop",
+    "name": "Le Mans, cath\u00e9drale (S. Julien)",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Le Mans, cath\u00e9drale (S. Julien)"
+  },
+  {
+    "step": 151,
+    "type": "stop",
+    "name": "S. Vincent Cenomanensis",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Vincent Cenomanensis"
+  },
+  {
+    "step": 152,
+    "type": "stop",
+    "name": "Prato (S. Julien-du-Pr\u00e9)",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Prato (S. Julien-du-Pr\u00e9)"
+  },
+  {
+    "step": 153,
+    "type": "stop",
+    "name": "Angers (S. Maurice)",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Angers (S. Maurice)"
+  },
+  {
+    "step": 154,
+    "type": "stop",
+    "name": "S. Florent-le-Vieil",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Florent-le-Vieil"
+  },
+  {
+    "step": 155,
+    "type": "stop",
+    "name": "S. Nicolas (Angers)",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Nicolas (Angers)"
+  },
+  {
+    "step": 156,
+    "type": "stop",
+    "name": "D\u00e9ols",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: D\u00e9ols"
+  },
+  {
+    "step": 157,
+    "type": "stop",
+    "name": "S. Michel-l'Herm.",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Michel-l'Herm."
+  },
+  {
+    "step": 158,
+    "type": "stop",
+    "name": "Lu\u00e7on",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Lu\u00e7on"
+  },
+  {
+    "step": 159,
+    "type": "stop",
+    "name": "S. l.[Nieul-sur-l'Autise, S. Vincent]",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: S. l.[Nieul-sur-l'Autise, S. Vincent]"
+  },
+  {
+    "step": 160,
+    "type": "stop",
+    "name": "Cormeny",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Mainard (abbot)"
+  },
+  {
+    "step": 161,
+    "type": "stop",
+    "name": "Dol",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Gildas (confessor)"
+  },
+  {
+    "step": 162,
+    "type": "stop",
+    "name": "Tropeiensis",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Titulus Header: Tropeiensis"
+  },
+  {
+    "step": 163,
+    "type": "stop",
+    "name": "Rennes",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Rom\u00e8de (bishop)"
+  },
+  {
+    "step": 164,
+    "type": "stop",
+    "name": "S. Aubin d'Angers",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Girard (abbot)"
+  },
+  {
+    "step": 165,
+    "type": "stop",
+    "name": "Lyon, France",
+    "coords": [
+      45.7597,
+      4.8422
+    ],
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": false,
+    "description": "Titulus Header: Lyon"
+  },
+  {
+    "step": 166,
+    "type": "stop",
+    "name": "Marciniaco",
+    "coords": null,
+    "year": 1101,
+    "date_str": "1101, fin octobre (?) - 1103, d\u00e9but",
+    "is_approximate": true,
+    "description": "Milo (bishop and apostolic legate)"
+  }
+]

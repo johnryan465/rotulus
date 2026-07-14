@@ -1,0 +1,304 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Ripoll, Spain",
+    "coords": [
+      42.1997,
+      2.1911
+    ],
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire de Bernat, abb\u00e9 de Ripoll (\u2020 20 ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "S. Victor de Marseille",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Bernard of Millau (abbot)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Fabr\u00e9s",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Bernat (abbot)"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Roda",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Titulus Header: Roda"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "La Portella",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Peter ()"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Urgel",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Mary (Saint)"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Ala\u00f3, S. Maria",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ala\u00f3, S. Maria"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Irache",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Mary (Saint)"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Fabricae",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Mary (Saint)"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Cardona",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Bernardo (abbot)"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Huesca",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Titulus Header: Huesca"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "Orga\u00f1a",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Santa Mar\u00eda de Orga\u00f1a (saint)"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Gerri",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Arnaldo III (abbot)"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "S. Victoria",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Victoria"
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "Jaca",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Titulus Header: Jaca"
+  },
+  {
+    "step": 15,
+    "type": "stop",
+    "name": "Ripoll, Spain",
+    "coords": [
+      42.1997,
+      2.1911
+    ],
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": false,
+    "description": "Ripollensis cenobi abbati (abbot)"
+  },
+  {
+    "step": 16,
+    "type": "stop",
+    "name": "Anianense",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Titulus Header: Anianense"
+  },
+  {
+    "step": 17,
+    "type": "stop",
+    "name": "Ripoll, Spain",
+    "coords": [
+      42.1997,
+      2.1911
+    ],
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": false,
+    "description": "Titulus Header: Ripoll"
+  },
+  {
+    "step": 18,
+    "type": "stop",
+    "name": "Carri\u00f3n [de los Condes]",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Titulus Header: Carri\u00f3n [de los Condes]"
+  },
+  {
+    "step": 19,
+    "type": "stop",
+    "name": "S. Isidoro",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Isidoro"
+  },
+  {
+    "step": 20,
+    "type": "stop",
+    "name": "Nazareth",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Saint Mary ()"
+  },
+  {
+    "step": 21,
+    "type": "stop",
+    "name": "Jaca",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Peter (bishop)"
+  },
+  {
+    "step": 22,
+    "type": "stop",
+    "name": "S. Martin-de-l'Ar\u00e7on",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Martin-de-l'Ar\u00e7on"
+  },
+  {
+    "step": 23,
+    "type": "stop",
+    "name": "S. Guilhem[-le-D\u00e9sert]",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Guilhem[-le-D\u00e9sert]"
+  },
+  {
+    "step": 24,
+    "type": "stop",
+    "name": "S. Gilles",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Gilles"
+  },
+  {
+    "step": 25,
+    "type": "stop",
+    "name": "Arles",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Titulus Header: Arles"
+  },
+  {
+    "step": 26,
+    "type": "stop",
+    "name": "B\u00e9ziers",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Jaime Bitterense (saint)"
+  },
+  {
+    "step": 27,
+    "type": "stop",
+    "name": "Narbonne, France",
+    "coords": [
+      43.1833,
+      3.0
+    ],
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": false,
+    "description": "Paul of Narbonne (saint)"
+  },
+  {
+    "step": 28,
+    "type": "stop",
+    "name": "Lagrasse",
+    "coords": null,
+    "year": 1102,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "is_approximate": true,
+    "description": "Titulus Header: Lagrasse"
+  }
+]

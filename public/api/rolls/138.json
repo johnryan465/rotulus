@@ -1,0 +1,358 @@
+{
+  "roll": {
+    "id": 138,
+    "roll_num": 135,
+    "date_str": "S. d. [vers 1150]",
+    "title": "Rouleau mortuaire (fragmentaire) de Renaud, abb\u00e9 de [S. Maur-sur-Loire?].",
+    "manuscripts": "A. Angers, B. M., ms. 149 (141) (1), feuille de garde, non foliot\u00e9e (2). Parchemin (\u00e9pais; verso = c. c.) blanch\u00e2tre; recto = [c. p.] jaun\u00e2tre. Un fragment \u00e9pigraphique, endommag\u00e9. Longueur: 26 cm; 5 largeur (rugneuse), 16,5 cm.",
+    "pdf_source": "4",
+    "pdf_pages": "57,58",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1727,
+      "roll_id": 138,
+      "title": "(c. e.)",
+      "location_name": "Troorn, S. Martin",
+      "latin_text": "1 [ ] S.d.- Troorn, S. Martin.\n[Titulis Sancti Martini Troarni. Anima dom(i) Rainaudi abbatis et] a. o. f. d. 15\nrescui[scant in pace] orat(us) p. v., orate p. n., pro domino Durand(o) (3), [domno\nArnulfo (6), domno (a) Ricardo (7), abbatibus (b), pro Rogerio (8) comite (6), pro\nMabilia (9) comitissa, pro Radulfo <........................> ma et pro aliis omnibus\nbenefactoribus nostris.",
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7218,
+          "titulus_id": 1727,
+          "original_name": "Rainaudi",
+          "original_title": "abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Renaud",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7219,
+          "titulus_id": 1727,
+          "original_name": "footnotes_orphaned_none: [], ",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "footnotes_orphaned_none: [], ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1728,
+      "roll_id": 138,
+      "title": "TITULUS (a) Sancti Ste[phani] <....................> ",
+      "location_name": "S. \u00c9tienne",
+      "latin_text": "[Anima] domni Rainaudi abbatis et a o. [fidelium defunckorum requies]cant i. p. Amen. Oravimus p. v., orate [pro nostris].",
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7220,
+          "titulus_id": 1728,
+          "original_name": "Rainaudi",
+          "original_title": "domni ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1729,
+      "roll_id": 138,
+      "title": "TITULUS SANCTI STE[PHANI CADOMENSIS]",
+      "location_name": "S. \u00c9tienne de Caen",
+      "latin_text": "Anima domni Rainaldi abbatis et a o. f.[defunckorum in] i. p. Amen. Oravimus p. v., orate n.. pro Guillelmo (1) re[ge, fundatore] ecclesie nostre, pro Lanfranco (2), primo abbate nostro et episcopisco Cant[uarienssi] <.................................................> et monachis et fratribus et sororibus omnibus benefactoribus nostris.",
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7221,
+          "titulus_id": 1729,
+          "original_name": "Rainaldi",
+          "original_title": "domni ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7222,
+          "titulus_id": 1729,
+          "original_name": "Guillelmo",
+          "original_title": "re[ge, fundatore]",
+          "footnote_num": "1",
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "king/founder",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7223,
+          "titulus_id": 1729,
+          "original_name": "Lanfranco",
+          "original_title": "primo abbate nostro et episcopisco [Cantuariensis]",
+          "footnote_num": "2",
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "abbot and bishop",
+          "normalized_dates": "",
+          "location_name": "Canterbury"
+        }
+      ]
+    },
+    {
+      "id": 1730,
+      "roll_id": 138,
+      "title": "[TI]TULUS [de] Castello.",
+      "location_name": "Castellum",
+      "latin_text": "Animam famuli Tui Rainaudi, \u00ab ab omni vinculo delicto, [Ut in resurrecti]oni gloria inter sanctos et electos tuos resuscitati \u00bb (4). <..................>berto, Osmundo, Roberto (b) monacho, Willelmo fratre (c), re (d), Ema, Lescelina, Maugerio, Orengia. Mauricio, Petro, Willermo, Rogerio. Roberto monacho (e).",
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7224,
+          "titulus_id": 1730,
+          "original_name": "Rainaudi",
+          "original_title": "famuli Tui",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7225,
+          "titulus_id": 1730,
+          "original_name": "berto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7226,
+          "titulus_id": 1730,
+          "original_name": "Osmundo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7227,
+          "titulus_id": 1730,
+          "original_name": "Roberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7228,
+          "titulus_id": 1730,
+          "original_name": "Willelmo",
+          "original_title": "monacho ... fratre",
+          "footnote_num": "c",
+          "footnote_text": "(c) abr\u00e9g\u00e9, \u00e9crit en interligne.",
+          "normalized_name": "",
+          "normalized_role": "monk/brother",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7229,
+          "titulus_id": 1730,
+          "original_name": "Ema",
+          "original_title": "",
+          "footnote_num": "d",
+          "footnote_text": "(d) monacho, abr\u00e9g\u00e9, \u00e9crit en interlinge.",
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7230,
+          "titulus_id": 1730,
+          "original_name": "Lescelina",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7231,
+          "titulus_id": 1730,
+          "original_name": "Maugerio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7232,
+          "titulus_id": 1730,
+          "original_name": "Orengia",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7233,
+          "titulus_id": 1730,
+          "original_name": "Mauricio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7234,
+          "titulus_id": 1730,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7235,
+          "titulus_id": 1730,
+          "original_name": "Willermo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7236,
+          "titulus_id": 1730,
+          "original_name": "Rogerio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7237,
+          "titulus_id": 1730,
+          "original_name": "Roberto",
+          "original_title": "monacho",
+          "footnote_num": "e",
+          "footnote_text": "(e) sororis, abr\u00e9g\u00e9, \u00e9crit en interlinge.",
+          "normalized_name": "",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1731,
+      "roll_id": 138,
+      "title": "",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 2119,
+      "roll_id": 138,
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "(a) Mot traduit. Ce texte, aujourd'hui tronqu\u00e9, plac\u00e9 entre deux de Troarn et de S. \u00c9tienne de Caen, fut certainement appuy\u00e9 par l'abbaye de Fontenay-le-Marmion, plac\u00e9e sous le vocable de s."
+    },
+    {
+      "id": 2120,
+      "roll_id": 138,
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "- (b) Roberto corrig\u00e9 \u00e0 tort en Robertus --"
+    },
+    {
+      "id": 2121,
+      "roll_id": 138,
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "footnote_num": "c",
+      "text": "(c) abr\u00e9g\u00e9, \u00e9crit en interligne."
+    },
+    {
+      "id": 2122,
+      "roll_id": 138,
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "footnote_num": "d",
+      "text": "(d) monacho, abr\u00e9g\u00e9, \u00e9crit en interlinge."
+    },
+    {
+      "id": 2123,
+      "roll_id": 138,
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "footnote_num": "e",
+      "text": "(e) sororis, abr\u00e9g\u00e9, \u00e9crit en interlinge."
+    },
+    {
+      "id": 2124,
+      "roll_id": 138,
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "footnote_num": "*",
+      "text": "L. de ce mot a \u00e9t\u00e9 ajout\u00e9 au recopier les m\u00eames vers, d'autres vers, \u00e9trangers \u00e0 ce accus de r\u00e9ception, et des essais de plume ont \u00e9t\u00e9 ajout\u00e9s \u00e0 l'envers sur le m\u00eame episcle, soit par quelqu'un d'autre."
+    }
+  ]
+}

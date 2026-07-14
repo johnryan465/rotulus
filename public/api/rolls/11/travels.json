@@ -1,0 +1,25 @@
+[
+  {
+    "step": 0,
+    "type": "stop",
+    "name": "Mainz, Germany",
+    "coords": [
+      50.0,
+      8.2667
+    ],
+    "year": 764,
+    "date_str": "S.d. [764-octobre 786 \u2071)]",
+    "is_approximate": false,
+    "description": "Lul (bishop)"
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Monkwearmouth and Jarrosy",
+    "coords": null,
+    "year": 764,
+    "date_str": "S.d. [764-octobre 786 \u2071)]",
+    "is_approximate": true,
+    "description": "Guthbert (abbot)"
+  }
+]

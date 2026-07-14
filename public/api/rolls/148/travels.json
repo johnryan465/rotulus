@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Saint-Denis, France",
+    "coords": [
+      48.9356,
+      2.3539
+    ],
+    "year": 1173,
+    "date_str": "[1173, apr\u00e8s le 14 f\u00e9vrier]",
+    "is_approximate": false,
+    "description": "Origin: Encyclique sollicitant de prier pour Yves [II], ab..."
+  }
+]

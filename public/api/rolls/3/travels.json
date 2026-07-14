@@ -1,0 +1,25 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Montecassino, Italy",
+    "coords": [
+      41.49,
+      13.814
+    ],
+    "year": 750,
+    "date_str": "S.d. [750-754, 5 juin]",
+    "is_approximate": false,
+    "description": "Origin: Communication de noms de d\u00e9funts entre Montecassin..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Monte Cassino",
+    "coords": null,
+    "year": 750,
+    "date_str": "S.d. [750-754, 5 juin]",
+    "is_approximate": true,
+    "description": "Optatus (abbot)"
+  }
+]

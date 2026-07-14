@@ -1,0 +1,165 @@
+{
+  "roll": {
+    "id": 4,
+    "roll_num": 4,
+    "date_str": "S.d. [732-754, 5 juin]",
+    "title": "Mention de \u00ab litterae [pro defunctis] \u00bb adress\u00e9es par Boniface \u00e0 l'abb\u00e9 \u00ab Aldherius \u00bb",
+    "manuscripts": "A. Original perdu.\n5 B. Karlsruhe, Badische Landesbibl.. Rastatt 22, fol. 106v. \u2013 C. Wien. \u00d6sterreichische Nationalbibl. lat. 751, fol. 17 (milieu du IX\u00ba s.).\na. M. Tangl, Bonifatius, p. 63, n\u00ba 38. \u2013 b. R. Rau, Briefe des Bonifatius. Willibalds Lehren des Bonifatius ... Darmstadt, 1968, p. 116, n\u00ba 38.",
+    "pdf_source": "1",
+    "pdf_pages": "3,4",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 6,
+      "roll_id": 4,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Venerando fratri Aldherio abbati Bonifagiux, exiguus servus Dei, in Christo salutem ... Similiter ut pro dormientium fratrum animabus, qui nobiscam laborabant in Domino, orationum adjuvamina et missarum solemnia celebrare faciatis precamur, quorum nomina harum litterarum demonstrabit.",
+      "pdf_page": 3,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 13,
+          "titulus_id": 6,
+          "original_name": "Aldherio",
+          "original_title": "abbati",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Aldherius",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 14,
+          "titulus_id": 6,
+          "original_name": "Bonifagiux",
+          "original_title": "servus Dei",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boniface",
+          "normalized_role": "servant of God",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "roll_id": 4,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Les premiers rouleaux mortuaires furent certainement mis \u00e0 circulation \u00e0 l'\u00e9poque o\u00f9 apparut l'institution de confraternit\u00e9s faisant les pri\u00e8res les plus r\u00e9centes \u00e0 chaque cat\u00e9gorie de d\u00e9funts.",
+      "pdf_page": 3,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 4,
+      "roll_id": 4,
+      "pdf_page": 3,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Hrodeganus,"
+    },
+    {
+      "id": 5,
+      "roll_id": 4,
+      "pdf_page": 3,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Lullo"
+    },
+    {
+      "id": 6,
+      "roll_id": 4,
+      "pdf_page": 3,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Maguntici"
+    },
+    {
+      "id": 7,
+      "roll_id": 4,
+      "pdf_page": 3,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Lupus"
+    },
+    {
+      "id": 8,
+      "roll_id": 4,
+      "pdf_page": 3,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "Baldberhtus"
+    },
+    {
+      "id": 9,
+      "roll_id": 4,
+      "pdf_page": 3,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "Vulframnus"
+    },
+    {
+      "id": 10,
+      "roll_id": 4,
+      "pdf_page": 3,
+      "pdf_half": "right",
+      "footnote_num": "7",
+      "text": "Meldis"
+    },
+    {
+      "id": 11,
+      "roll_id": 4,
+      "pdf_page": 3,
+      "pdf_half": "right",
+      "footnote_num": "8",
+      "text": "Rodoma"
+    },
+    {
+      "id": 12,
+      "roll_id": 4,
+      "pdf_page": 3,
+      "pdf_half": "right",
+      "footnote_num": "9",
+      "text": "Maurinus"
+    },
+    {
+      "id": 13,
+      "roll_id": 4,
+      "pdf_page": 3,
+      "pdf_half": "right",
+      "footnote_num": "10",
+      "text": "Laudom. Hildigandus"
+    },
+    {
+      "id": 14,
+      "roll_id": 4,
+      "pdf_page": 4,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "\u00c9v\u00eaque de Nevers (757-762); cf. L. Delisle, Rouleaux des morts du IXe au XVe s., p. 89, n\u00b0 V."
+    },
+    {
+      "id": 15,
+      "roll_id": 4,
+      "pdf_page": 4,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "\u00c9v\u00eaque de Wissant (817-777)."
+    },
+    {
+      "id": 16,
+      "roll_id": 4,
+      "pdf_page": 4,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": ""
+    }
+  ]
+}

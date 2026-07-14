@@ -1,14 +1,52 @@
 {
   "roll": {
     "id": 55,
-    "roll_num": "95",
-    "date_str": "S.d.",
-    "title": "S.d. [XIS s] Rouleau mortuaire ( fragmentaire) de Renaud, abb\u00e9 de Fleury: 4 Original perdu  5 B. Vaticano; Reg lat. 596, fol. JOv (XIIS 5.) . @.E Duemmler; Carmen in obitu dapr\u00e8s B.= 6L. Rainaldi Floriacensis m, dans Delisle; Vital de Neues Savigny, Archiv; p. 26, n? 2, dapr\u00e8s t. V, 1880, a (\u00e9d. partielle) . P 635, Ip\u0131ov\u00c9 : L. Delisle, Vital de E Savigny; p. 26, n\" 2. Pellegrin; Membra Obituaires disjecta Floriacensia de la province de 10 4 Vidier; D, dans B.\u00c9 Sens, t. Ch., t. III, P Lhistoriographie = CXVII, 146. p 65 \u00e0 Saint-Beno\u00eet-sur-Loire . 1959, ;P 120et n. 48. p. 16, n. 5. et les miracles de saint_ Beno\u00eet, Paris, 1965, Un po\u00e8me de Renaud quatre-vingt-quatre Les derniers  vers adoniques; auteur vers indiquent qu'il fut s\u00e9partis en strophes de six verss c\u00e9l\u00e8bre \u00e9tait \u00e9tranger a compos\u00e9 pour un rouleau Tabb\u00e9 15 anponc\u00e9e. Fleury = E. en effet, Duemmler une liste des mortuaire et aussi que son de Reims (loc: cit.) rapproche; \u00e0 juste propres d\u00e9funts de l\u00e9tablissement vigit\u00e9 = titre; est On ne sait rien cette pi\u00e8ce dun autre po\u00e8me d\u00fb \u00e0 S. Revsi 5 de Renaud Beno\u00eet-sur-Loire sa comm\u00e9moraison est plac\u00e9e au 7 d\u00e9cembre par deux obituaires de Texte 20 \u00e9tabli dapr\u00e8s a. Floriacensis Contio; mestis Pro Rainaldi Funere= patris Fulgida = 25 summi Gaudia regni - Desine  Flere , questus diurnos; C, supta, P 41, n9 39 , des abb\u00e9s , pereonnage de ni Fleury < appara\u00eet - donn\u00e9e 5 pas dans  la tiana (t. liste VIII, (3) col. par le 1541). Gallia chris- Obituaires P 151, 161 de la province de cf. A. Sens, Vidier; t. III, op. cit., P. 120, n. 48.",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "48,49",
+    "roll_num": 62,
+    "date_str": "S. d. [d\u00e9but XIe s.]",
+    "title": "Liste de religieuses de S. Marie-aux-Nonnains transmise \u00e0 Fleury.",
+    "manuscripts": "15. A. Original perdu.\nB. Vaticano, Reg. lat. 566, fol. 38 (d\u00e9but XIe s.).\na. W. Wiegand, \u00ab Ein Nonnen-Verzeichnis der Abtei Ste. Marie in Metz \u00bb, dans Jahrbuch der Gesellschaft f\u00fcr Lothringische Geschichte und Altertumkunde, t. I, 1888-1889, p. 269, d'apr\u00e8s B.",
+    "pdf_source": "1",
+    "pdf_pages": "40",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": []
+  "tituli": [
+    {
+      "id": 112,
+      "roll_id": 55,
+      "title": "15. A. Original perdu.",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 113,
+      "roll_id": 55,
+      "title": "",
+      "location_name": "",
+      "latin_text": "pro scripturas ?) sepis. Dum opiculat (affert) tedam (lucernam) apis (sx, pro ex qua\nfit ceria) respondent vestigia (scripturas pro scripturas ?) sepis (licterae). Orgia\nnostra somate functis mitte laboremine supertium voto ruticante cum prece.\nOrgia (obsequiae) nostris somate (corpore) functis mitte laboremine supertium\n5 (auxiliini) voto (pl. : pluribus ?) ruticante (rutilante) cum prece neque (bestia)\nnostra nechi (infernii) mallicet tremor stulmo sennali).\nSol roseis apis passtricam (regess\u00e6) <........>\nCetuda sancti ill. illic vos optat undimus (diabolus) ad ima omnique chero\nfeliciora.\n10 Ostendit callum rigidos algore clientis\nHinc digitos dum sorbet pagina littera tali.",
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 219,
+      "roll_id": 55,
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "footnote_num": "",
+      "text": "Fol. 38 du ms. Vaticano, Reg. lat. 566, fol. 38 (d\u00e9but XIe s.).\nComme ce fol. a une origine c\u00e9r\u00e9ale tr\u00e8s probable, cela atteste que les moniales de S. Marie-aux-\nNonnains de Metz transmettent aux religieuses de Fleury une liste de leurs s\u0153urs d\u00e9c\u00e9d\u00e9es, afin qu'elles\nb\u00e9n\u00e9ficient de leurs pri\u00e8res. Ni l'abbesse Odila, ni aucune de ces moniales n'est identifiable ;\n25 je suppose que la communication de ce nomsic ne fut peu de temps avant leur transcription sur ce\nfol.\nJe donne cette liste, comme celle de monines du Mont-S-Michel (\u00e9d. infra, p. 101, n\u00b0 68), \u00e0 titre\nd'exemple, en sachant que bien d'autres auraient pu \u00eatre retenues."
+    },
+    {
+      "id": 218,
+      "roll_id": 55,
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Sur ce ms., cf. A. Vidiet, op. cit., pp. 63-66 et passim."
+    }
+  ]
 }

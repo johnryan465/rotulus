@@ -1,31 +1,50 @@
 {
   "roll": {
     "id": 25,
-    "roll_num": "40",
-    "date_str": "S.d.",
-    "title": "S.d. [vers 972] Premi\u00e8re variante de la formule de bref mortuaire ins\u00e9r\u00e9e dans la \u20ac Regularis concor- dia de Dunstan. La date indiqu\u00e9e est celle de la r\u00e9daction de la \u00f8 Regularis concordia ^",
-    "manuscripts": "A. Original perdu. B. London; British Library; Cotton Faustina B 3, fol. 198v (fin X' &) 10 a. Th. Symons, Regularis concordia Anglicae nationis monachorum sanctimonialiumque; London; 1953, p 66, n. f, japr\u00e8s B. INDIQU\u00c9 Th. Symons; op. cit., P. LIIL",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "24",
+    "roll_num": 27,
+    "date_str": "S.d. [IX\u00ba s.]",
+    "title": "Formule de bref mortuaire.",
+    "manuscripts": "A. Original perdu.\n5 B. Kopenhavn. Koninklijke Bibliothec. Gl. Kjdl. S. 1943, 4\u2116 (1), 4\u2116 (IX\u00ba s.; copie incompl\u00e8te).\n\u2013 C. M\u00fcnchen. Bayer. Staatsbibl., Clm 4650 (2) (fin IX\u00ba s.) (3).",
+    "pdf_source": "1",
+    "pdf_pages": "16",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": [
+  "tituli": [
     {
-      "id": 35585,
+      "id": 43,
       "roll_id": 25,
-      "pdf_page": 24,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "Perse; Satires,  I, 27, \u00e9d. A. Cartault, Paris; 1920, P. 17."
-    },
-    {
-      "id": 35586,
-      "roll_id": 25,
-      "pdf_page": 24,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": ", V, 16."
+      "title": "Indiculum a fratribus (2).",
+      "location_name": "",
+      "latin_text": "10 Reventissimus fratribus nostris (4) in monasterio illo (e) commorantibus, nos sequidem minimi omnium servorum Dei (d) servuli vestri ex congregatione Sancti illius (f) perennem vobis in Dominico salutem. De relicvo vero nostrum factimus alimultati vestrae quod aliquis frater nomine illo, (g) ex hac luce, de quo fecit monaci illius, illis vis erat commiseresse (h). Unde petimus bienvolentiam vestram in primo ipso studietis commemori vos (i), ad Deum fundere preces tan in psalmis quam in missarum solemnibus (j) seu in illis assiduis orationibus vestris, quatenus eum amatorum benignitas integris tan sanctos et electos (k) quos collocare dignetur partemque habere jubent cum + his qui a diebus eras enunt (l) et vocem illam, o quam desiderabilem audire intonantis (m): \u2030: Venite, benedicti Patris mei, percipite",
+      "pdf_page": 16,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 186,
+          "titulus_id": 43,
+          "original_name": "Dei",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "God",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 187,
+          "titulus_id": 43,
+          "original_name": "Patris mei",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "my Father",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
     }
-  ]
+  ],
+  "footnotes": []
 }

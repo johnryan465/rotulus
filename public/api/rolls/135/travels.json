@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1143,
+    "date_str": "[1143, apr\u00e8s le 28 f\u00e9vrier]",
+    "is_approximate": false,
+    "description": "Origin: Vers en l'honneur de Walter, abb\u00e9 de Selby (\u2020 28 f..."
+  }
+]

@@ -1,0 +1,283 @@
+{
+  "roll": {
+    "id": 100,
+    "roll_num": 97,
+    "date_str": "S. d. [fin XII$^e$ s.-d\u00e9but XIII$^e$ s.]",
+    "title": "Rouleau mortuaire (fragmentaire) anonyme.",
+    "manuscripts": "A. Milano, Biblioteca Ambrosiana, C.51 sup. de *Sententiae diversorum Patrum de primatu Romanae Ecclesie* ($x$, XI$^e$ s.), fol. ii ([reli\u00e9 en haut]) $^{(4)}$. Parch\u00e9min (tr\u00e8s \u00e9pais ; c.c. [$=$ verso] blanc ; c. p. $5$ [$=$ recto] jaune). Un fragment opisgraphique. Longueur, 22,5 cm ; largeur (rogn\u00e9e), 13 cm. Mauvais \u00e9tat de conservation\na. L. Delisle, *Vitav de Savigny*, p. 26, n$\textdegree o$ 3, d'apr\u00e8s $A$ (\u00e9d. partielle).\nInnov\u00e9 : G. Nicolai, *Cultura e pressi di notoi premieriani*, Milano, 1991, p. 104.",
+    "pdf_source": "2",
+    "pdf_pages": "50,51",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 806,
+      "roll_id": 100,
+      "title": "(c. e.)",
+      "location_name": "",
+      "latin_text": "1 S.d.- Tourtorac, S. Pierre, S. Paul.\nT. sanctorum apostolorum Petri et Pauli Tustuariensis. <...> fratrum coetus cessent diffundere fictus <...> pro defuncto depostat tempore coctus <...> prece fratra frater frater <...> pac[e] superna <...> Inquilino $^{(a)}$ abbate $^{(b)}$, Grausfredo abbate $^{(b)}$, Stephanus $^{(b)}$ abbate <...> [alliorum mutorum, quorum scit Ille nomina <...>].",
+      "pdf_page": 50,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2574,
+          "titulus_id": 806,
+          "original_name": "Petri",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2575,
+          "titulus_id": 806,
+          "original_name": "Pauli",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Paul",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2576,
+          "titulus_id": 806,
+          "original_name": "Inquilino",
+          "original_title": "abbate",
+          "footnote_num": "a",
+          "footnote_text": "Les trois mots de ce titre, ajout\u00e9s apr\u00e8s coup, sont appos\u00e9s entre la premi\u00e8re et deuxi\u00e8me lignes du titre de Tourtirac.",
+          "normalized_name": "Inquilinus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2577,
+          "titulus_id": 806,
+          "original_name": "Grausfredo",
+          "original_title": "abbate",
+          "footnote_num": "b",
+          "footnote_text": null,
+          "normalized_name": "Grausfredus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2578,
+          "titulus_id": 806,
+          "original_name": "Stephanus",
+          "original_title": "abbate",
+          "footnote_num": "b",
+          "footnote_text": null,
+          "normalized_name": "Stephen",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 807,
+      "roll_id": 100,
+      "title": "S.d.- [Bourges,] S. Ursin.",
+      "location_name": "Bourges",
+      "latin_text": "T. (a) Sancti Ursini.",
+      "pdf_page": 51,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2579,
+          "titulus_id": 807,
+          "original_name": "Sancti Ursini",
+          "original_title": "",
+          "footnote_num": "a",
+          "footnote_text": "Les trois mots de ce titre, ajout\u00e9s apr\u00e8s coup, sont appos\u00e9s entre la premi\u00e8re et deuxi\u00e8me lignes du titre de Tourtirac.",
+          "normalized_name": "Saint Ursinus",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 808,
+      "roll_id": 100,
+      "title": "S.d.- Bourgueil, S. Pierre.",
+      "location_name": "Bourgueil",
+      "latin_text": "T. sancti Petri apostoli Burguliensis. Antea quam <...> lega-<...>, quod decuit vestro fratri per solvimus. Ergo mutua reddatis pietat[e] (<...) scili- demo Raimundo abbate, Giscleberto monacho,(b) Pontio, Girole, Luc[a], <...>mo, Audoino, Bernardo, Robertro, Achardo, Goffrido, Bernardo, Augerio[o], <...> Pontio et aliorum omnium, quorum nomina soli \u00ab Deo vivo et vero \u00bb cognita <...>.",
+      "pdf_page": 51,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2580,
+          "titulus_id": 808,
+          "original_name": "Sancti Petri apostoli Burguliensis",
+          "original_title": "apostol",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Peter the Apostle of Bourgueil",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Bourgueil"
+        },
+        {
+          "id": 2581,
+          "titulus_id": 808,
+          "original_name": "Raimundo",
+          "original_title": "abbate",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Raymond",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2582,
+          "titulus_id": 808,
+          "original_name": "Giscleberto",
+          "original_title": "monacho",
+          "footnote_num": "b",
+          "footnote_text": null,
+          "normalized_name": "Giselbert",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2583,
+          "titulus_id": 808,
+          "original_name": "Pontio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pontius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2584,
+          "titulus_id": 808,
+          "original_name": "Girole",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gyrolus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2585,
+          "titulus_id": 808,
+          "original_name": "Luc[a]",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lucas",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2586,
+          "titulus_id": 808,
+          "original_name": "Audoino",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Audoin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2587,
+          "titulus_id": 808,
+          "original_name": "Bernardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2588,
+          "titulus_id": 808,
+          "original_name": "Robertro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2589,
+          "titulus_id": 808,
+          "original_name": "Achardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Achard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2590,
+          "titulus_id": 808,
+          "original_name": "Goffrido",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Godfrey",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2591,
+          "titulus_id": 808,
+          "original_name": "Augerio[o]",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Augerius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 809,
+      "roll_id": 100,
+      "title": "",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 51,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 973,
+      "roll_id": 100,
+      "pdf_page": 51,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "Les trois mots de ce titre, ajout\u00e9s apr\u00e8s coup, sont appos\u00e9s entre la premi\u00e8re et deuxi\u00e8me lignes du titre de Tourtirac."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1160,
+    "date_str": "S.d. [1160, juillet - 1174, 13 avril (1)]",
+    "is_approximate": false,
+    "description": "Origin: Formule de bref mortuaire, mis en circulation par ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Albanensis",
+    "coords": null,
+    "year": 1160,
+    "date_str": "S.d. [1160, juillet - 1174, 13 avril (1)]",
+    "is_approximate": true,
+    "description": "Albin (bishop)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1160,
+    "date_str": "S.d. [1160, juillet - 1174, 13 avril (1)]",
+    "is_approximate": false,
+    "description": "Thibaud (bishop)"
+  }
+]

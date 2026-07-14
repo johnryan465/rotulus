@@ -1,0 +1,570 @@
+{
+  "roll": {
+    "id": 145,
+    "roll_num": 142,
+    "date_str": "[1157, apr\u00e8s le 6 avril]",
+    "title": "Rouleau mortuaire (fragmentaire) de Hugues, abb\u00e9 de S. Aubin d\u2019Angers (\u2020 6 avril 1157).",
+    "manuscripts": "A. Angers, B. M., ms. 45 (38) (1).\nfeuilles de degr\u00e9 [A-B et C-D], sous forme de bifolios; pli\u00e9s dans le sens de la hauteur, d'une part au d\u00e9but, d'autre part \u00e0 la fin du ms.\nParchemin (c. blanc ; c. gris\u00e2tre, pige\u00e2tre)\nDeux fragments conserv\u00e9s, opisthographes. Longueur totale, 57,5 cm ; largeur (incompl\u00e8te), 22/2,5 cm ;\nA : bifolio [A-B]. Longueur, 29 cm ; largeur (incompl\u00e8te), 22 cm ;\nB : bifolio [C-D]. Longueur, 28,5 cm ; largeur (incompl\u00e8te), 22,5 cm .",
+    "pdf_source": "4",
+    "pdf_pages": "72,73,74",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1812,
+      "roll_id": 145,
+      "title": "17 S.d.- Montolieu, S. Jean-Baptiste.",
+      "location_name": "Montolieu, S. Jean-Baptiste",
+      "latin_text": "T. Sancti Joannis Baptistae Vallis Sigeriensis cenobii. Anima istius Herberti et a. o. f. d., per m. D., r. i. p. Amen. Oravimus v. nobis, orate p. nobis. Pro eo officium plenarie explevimus.",
+      "pdf_page": 72,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7407,
+          "titulus_id": 1812,
+          "original_name": "Herberti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Herbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7408,
+          "titulus_id": 1812,
+          "original_name": "S. Jean-Baptiste",
+          "original_title": "Saint",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "John the Baptist",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Montolieu"
+        }
+      ]
+    },
+    {
+      "id": 1813,
+      "roll_id": 145,
+      "title": "18 S.d.- Tournus.",
+      "location_name": "Tournus",
+      "latin_text": "[Titulus] Tornusii....",
+      "pdf_page": 72,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1814,
+      "roll_id": 145,
+      "title": "19 S.d.- Soissons, \u00e9glise ind\u00e9termin\u00e9e.",
+      "location_name": "Soissons",
+      "latin_text": "[Titulus] Suessionens....",
+      "pdf_page": 72,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1815,
+      "roll_id": 145,
+      "title": "20 S.d.- Noyon, S. \u00c9loi.",
+      "location_name": "Noyon, S. \u00c9loi",
+      "latin_text": "[Titulus] Sancti Eligi Noviomensis....",
+      "pdf_page": 72,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7409,
+          "titulus_id": 1815,
+          "original_name": "S. \u00c9loi",
+          "original_title": "Saint",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Eligius",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Noyon"
+        }
+      ]
+    },
+    {
+      "id": 1816,
+      "roll_id": 145,
+      "title": "1 [S.d.-",
+      "location_name": "",
+      "latin_text": "Magnus in orbe fuit \u2041\u200b rolu[tus] <...> \nEt quia morte mortem docet este tim-<...> \nFunerae sedes \u2042\u200b cavet hic partesque ma-<...> \nEtherea sedes petia bon summa pi-<...> \nVitet in eternum \u2043\u200b, quia sprevit munera v[eta], \nNesciret innumen nec viset regna proph[eta]. \nVersus Stephani.\nAnchora justicie \u2044\u200b, via fte, pons piet[atis]\nFortis perfidie destructor, lux bonit[atis],\nHugo migravit sua quem bona vita beavit.\nHinc et sanctorem grex non \u2045\u200b dolet monacorum.\nNon moritur \u2046\u200b, quoniam fruitur \u2047\u200b regno superorum \u2048\u200b\nNon igitur sapientis queritur nec turba decorum.",
+      "pdf_page": 72,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7410,
+          "titulus_id": 1816,
+          "original_name": "Hugo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1817,
+      "roll_id": 145,
+      "title": "",
+      "location_name": "",
+      "latin_text": "VERSUS I[SEM]BERTI\nSensu (a) Marone prestantior.\nPatri Herberto vite de munere certo\nEloquio jacet hic Hugo compl[ater]\nGratia virtutis datis si pignuse (b)\nPro Hugone, Ascelina, Dera, <...>, Guarino, Ricardo et aliis benefactoribus.",
+      "pdf_page": 73,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7411,
+          "titulus_id": 1817,
+          "original_name": "Marone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Marinus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7412,
+          "titulus_id": 1817,
+          "original_name": "Herberto",
+          "original_title": "Patri",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Herbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7413,
+          "titulus_id": 1817,
+          "original_name": "Hugo",
+          "original_title": "compl[ater]",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7414,
+          "titulus_id": 1817,
+          "original_name": "Hugone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7415,
+          "titulus_id": 1817,
+          "original_name": "Ascelina",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ascelin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7416,
+          "titulus_id": 1817,
+          "original_name": "Dera",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Dera",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7417,
+          "titulus_id": 1817,
+          "original_name": "Guarino",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guarinus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7418,
+          "titulus_id": 1817,
+          "original_name": "Ricardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ricardus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1818,
+      "roll_id": 145,
+      "title": "2 S.d.-[Issoudun, N.-D.",
+      "location_name": "Issoudun",
+      "latin_text": "[D-Cv, c. c.]\nT[titulus] (c) <...>. Anima domni Ugonis et a. o. defunct[orum] r. i. p. Oravimus p. v., orate p. n., p. Giraudo abbate, p. Letericio abbate et alii, quorum nomina Deus [scit].",
+      "pdf_page": 73,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7419,
+          "titulus_id": 1818,
+          "original_name": "Ugonis",
+          "original_title": "domni",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7420,
+          "titulus_id": 1818,
+          "original_name": "Giraudo",
+          "original_title": "abbate",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Giraldus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7421,
+          "titulus_id": 1818,
+          "original_name": "Letericio",
+          "original_title": "abbate",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Letericus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1819,
+      "roll_id": 145,
+      "title": "3 S.d.- Chezal-Beno\u00eet, S. Pierre.",
+      "location_name": "Chezal-Beno\u00eet",
+      "latin_text": "TITULUS Sancti Petri Casalis Benedicti. Anima domni Hugonis abbatis et a. o. [fideliun] d. r. i. p. Amen. Oravimus (d) pro v., orate p. n., p. domino Andrea (2) abbate, p. domino Geraldo (3) abbate, p. domino Isemberto (4) abbate.",
+      "pdf_page": 73,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7422,
+          "titulus_id": 1819,
+          "original_name": "Hugonis",
+          "original_title": "domni... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugo",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7423,
+          "titulus_id": 1819,
+          "original_name": "Andrea",
+          "original_title": "domino... abbate",
+          "footnote_num": "2",
+          "footnote_text": "Peut-\u00eatre Clamecy (Aisne, arr. Soissons,\necca Vailly-sur-Aisne; cf. J.-Cl. Malys, Les noms\nde lieu du d\u00e9partement de l'Aisne, Paris, t. I,\n1999, p. 268), \u00ab b\u00e9n\u00e9fice d\u00e9pendant de l'abbaye\ndes B\u00e9n\u00e9dictins de S. Cr\u00e9pin-le-Grand de",
+          "normalized_name": "Andreas",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7424,
+          "titulus_id": 1819,
+          "original_name": "Geraldo",
+          "original_title": "domino... abbate",
+          "footnote_num": "3",
+          "footnote_text": null,
+          "normalized_name": "Geraldus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7425,
+          "titulus_id": 1819,
+          "original_name": "Isemberto",
+          "original_title": "domino... abbate",
+          "footnote_num": "4",
+          "footnote_text": null,
+          "normalized_name": "Isembertus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1820,
+      "roll_id": 145,
+      "title": "4 S.d.-La Pr\u00e9e[--sur-Arnon], N.-D.",
+      "location_name": "La Pr\u00e9e",
+      "latin_text": "T. Sancte Marie de Pratea.\nIn modico luctu tristicia nulla putatur (e).\nExigno placuto dolor ingens non satiatur.",
+      "pdf_page": 73,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7426,
+          "titulus_id": 1820,
+          "original_name": "Marie",
+          "original_title": "Sancte",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Maria",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1821,
+      "roll_id": 145,
+      "title": "5 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "",
+      "latin_text": "<...> Fermi regret in hede poli.",
+      "pdf_page": 73,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1822,
+      "roll_id": 145,
+      "title": "6 S.d.- Soissons, N.D.",
+      "location_name": "Soissons",
+      "latin_text": "[Titul]us cenobii Marie Suessionis ad sanctimoniales. Anima donat Hugonis[et] a. o. f. d. r. i. p. Oravimus p. v., orate pro nostris, Mathildi (1) abbatissa, Elisabeth, Helvidi et p. ceteris, quorum Deus numina novit.",
+      "pdf_page": 73,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7427,
+          "titulus_id": 1822,
+          "original_name": "Hugonis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7428,
+          "titulus_id": 1822,
+          "original_name": "Mathildi",
+          "original_title": "abbatissa",
+          "footnote_num": "1",
+          "footnote_text": "Ce ms. du XIIe s. contient une \u00e9glise anonyme sur les psaumes.",
+          "normalized_name": "Mathilde",
+          "normalized_role": "abbess",
+          "normalized_dates": "",
+          "location_name": "Soissons"
+        },
+        {
+          "id": 7429,
+          "titulus_id": 1822,
+          "original_name": "Elisabeth",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "\u00c9lisabeth",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7430,
+          "titulus_id": 1822,
+          "original_name": "Helvidi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Helvide",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1823,
+      "roll_id": 145,
+      "title": "7 S.d.- S.l.[Soissons,] \u00e9glise ind\u00e9termin\u00e9e.",
+      "location_name": "Soissons",
+      "latin_text": "<.................................> Clameci (2)\n<.................................> variis non credite reibus\n<.................................> affuat unda levis\n<.................................> mors imperat eque\n<.................................> dicione pari\n<.................................> mors invida leta ruinis\n<.................................> lit hora brevis\n<.................................> ngam facta probavit\n<.................................> - na vita decus\n<.................................> aula\n<.................................> clausa bono\n<.................................> scaecis\n<.................................> culpa dignus haberis\n<.................................> grave mente feror\n<.................................> nes an carmine culpem\n<.................................> tibi vita latet\n<.................................> ans et moribus hujus\n<.................................> [s]cribere jure duos\n<.................................> an illa vagetur in Orco\n<.................................> nec utrogue caret",
+      "pdf_page": 73,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1824,
+      "roll_id": 145,
+      "title": "10 S.d.-Pr\u00e9montr\u00e9, N.-D., S. Jean-Baptiste.",
+      "location_name": "S.d.-Pr\u00e9montr\u00e9, N.-D., S. Jean-Baptiste.",
+      "latin_text": "[Titulus] Sanct\u00e6 Marie Johannis Baptiste Pr\u00e9monstrat ecclesie.\n20) Anima domni Hugonis et alme omnium) f. d. r. i. p. Amen. Oravimus p. v.,orate\np. n.",
+      "pdf_page": 74,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7431,
+          "titulus_id": 1824,
+          "original_name": "Marie",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7432,
+          "titulus_id": 1824,
+          "original_name": "Johannis Baptiste",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "John the Baptist",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7433,
+          "titulus_id": 1824,
+          "original_name": "Hugonis",
+          "original_title": "domni",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "Lord/Domnus",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1825,
+      "roll_id": 145,
+      "title": "11 S.d.- Laon, cath\u00e9drale (N.-D.)",
+      "location_name": "S.d.- Laon, cath\u00e9drale (N.-D.)",
+      "latin_text": "T.(h) SANCTE MARIE LAUDUNENSIS ECC[L]ESIE. Anima Hugonis et anime o. f. <.......>",
+      "pdf_page": 74,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7434,
+          "titulus_id": 1825,
+          "original_name": "MARIE",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": "Laudunensis"
+        },
+        {
+          "id": 7435,
+          "titulus_id": 1825,
+          "original_name": "Hugonis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 2226,
+      "roll_id": 145,
+      "pdf_page": 72,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Ce ms. du XIIe s. contient une \u00e9glise anonyme sur les psaumes."
+    },
+    {
+      "id": 2227,
+      "roll_id": 145,
+      "pdf_page": 73,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "Cette pi\u00e8ce de vers est \u00e9crite sur deux colonnes."
+    },
+    {
+      "id": 2228,
+      "roll_id": 145,
+      "pdf_page": 73,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "pognus corrig\u00e9 en pignus par exponentuation du o et addition en interligne d'un i."
+    },
+    {
+      "id": 2229,
+      "roll_id": 145,
+      "pdf_page": 73,
+      "pdf_half": "left",
+      "footnote_num": "c",
+      "text": ""
+    },
+    {
+      "id": 2230,
+      "roll_id": 145,
+      "pdf_page": 73,
+      "pdf_half": "right",
+      "footnote_num": "",
+      "text": "Soissons \u00bb (cf. Cottenois, col. 800). L. Delisle\nattribu\u00e9 \u00e0 tort ces vers \u00e0 N.-D. de Soissons;\nen effet, on peut observer deux mains, l'une\nde gros module pour le titre de N.-D. de Sois-\nsons, l'autre plus petite pour les vers qui au-\nsent. Il s'agit cependant dans doute d'une \u00e9glise\nde Soissons, comme la pr\u00e9c\u00e9dente et la sui-\nvante."
+    },
+    {
+      "id": 2231,
+      "roll_id": 145,
+      "pdf_page": 73,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Mathildi I, abbesse de N.D. de Soissons,\ncit\u00e9e en 1125 par le Gallia christiana (t. IX,\ncol. 444). Mathildi II, qui lui succ\u00e9da, \u00e9tait\nencore en charge en 1160 et mourut en octobre\n1162 (cf. Gallia christiana, loc. cit.)."
+    },
+    {
+      "id": 2232,
+      "roll_id": 145,
+      "pdf_page": 73,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Peut-\u00eatre Clamecy (Aisne, arr. Soissons,\necca Vailly-sur-Aisne; cf. J.-Cl. Malys, Les noms\nde lieu du d\u00e9partement de l'Aisne, Paris, t. I,\n1999, p. 268), \u00ab b\u00e9n\u00e9fice d\u00e9pendant de l'abbaye\ndes B\u00e9n\u00e9dictins de S. Cr\u00e9pin-le-Grand de"
+    }
+  ]
+}

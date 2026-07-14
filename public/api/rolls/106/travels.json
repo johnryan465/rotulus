@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": null,
+    "date_str": "S. d. [d\u00e9but XII\u1d47 s.]",
+    "is_approximate": false,
+    "description": "Origin: Pi\u00e8ce versifi\u00e9e relative \u00e0 la mort d'un certain Fo..."
+  }
+]

@@ -1,14 +1,122 @@
 {
   "roll": {
     "id": 2,
-    "roll_num": "5",
-    "date_str": "S.d.",
-    "title": "S.d. [760-762] 20 Stetuts dune association de pri\u00e8res pour les d\u00e9funts \u00e9tablis lors du concile dAti gny 4. Original perdu, B. Vaticano, Palat, 577, fol.6 (VIII-IX' s) () son propos; cf entre autres (Winfrid) - Bonifatius LIL dans   Zexikon   des   Miuclaliers, col 4174421. ce sujet, cf notamment K, Schmnid, und Wirkune 0 G. Oexle: Voraussetzungen dans _ Francia des Gebetsbundes von Attigny 12 1974 p 71-122",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "3",
+    "roll_num": 2,
+    "date_str": "S.d. [747-749]",
+    "title": "Lettre d'Aelfwold, du East Anglia, au Boniface lui indiquant qu'il accepte l'association de pri\u00e8res avec lui-m\u00eame et ses compagnons, qu'il fait prier pour eux dans ses monast\u00e8res et qu'il se pr\u00e9occupe aussi de l'envoi des noms des d\u00e9funtes.",
+    "manuscripts": "A. Original perdu.\nB. M\u00fcnchen, Staatsbibl., Clm 8112, fol. 116. \u2013 C. Karlsruhe, Badische Landesbibl., Rastatt 22, fol. 96r. \u2013 W. Wien, \u00d6sterreichische Nationalbibl., lat. 751, fol. 49 (milieu du IXe s.).\na. M. Tangl, Bonifatius, p. 97, n\u00b0 81.\nb. R. Rau, Briefe des Bonifatius. Willibalds Leben des Bonifatius ... Darmstadt, 1968, p. 270, n\u00b0 81.",
+    "pdf_source": "1",
+    "pdf_pages": "2",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": []
+  "tituli": [
+    {
+      "id": 2,
+      "roll_id": 2,
+      "title": "",
+      "location_name": "",
+      "latin_text": "indiscreter habere horis, quibus intimastis, consentimus. Nomina quoque nostrum defunctorum sororum equo Cnueburg memorialiter te habere, o Wiehtberte presbiter fidelis, deprecore et omnibus circumquaque amicis transmittere. Quarum prima fuit Quaergyth, soror mea germana, et Eddu quae erat, cum adduc veret, in maior Essu. Aldhun qui tandem uti absit propinqu\u0119; quorum utique ambarum fuit in ore deposit\u0101, id est diebus septembris. Orantem pro nobis beatitudinem vestram. Dominus omnipotens custodire dignetere incolmem, delectissimi fratres et domini, per \u00e6vum Emmanuel. Saluta omnes circumquaque Christi servos nostris veracissimis verbis, delicatissime frater.",
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6,
+          "titulus_id": 2,
+          "original_name": "Wiehtberte",
+          "original_title": "presbiter fidelis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Wihtberht",
+          "normalized_role": "priest",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7,
+          "titulus_id": 2,
+          "original_name": "Quaergyth",
+          "original_title": "soror mea germana",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Quaergyth",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 8,
+          "titulus_id": 2,
+          "original_name": "Eddu",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Eddu",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "roll_id": 2,
+      "title": "(Crimson) Domino gloriosissimo et cum omni honoris affectu venerantissimo S Bonifatius archiepiscopo Aelfwaldus, Aestanglorum Deo donante regia potestate fratus, simili et tot ablatia cum omni congregazioni servorum Dei in nostra provincia ... salutem ... In primis itaque scire te volumus, o dilectissime, quod",
+      "location_name": "",
+      "latin_text": "(Crimson) Domino gloriosissimo et cum omni honoris affectu venerantissimo S Bonifatius archiepiscopo Aelfwaldus, Aestanglorum Deo donante regia potestate fratus, simili et tot ablatia cum omni congregazioni servorum Dei in nostra provincia ... salutem ... In primis itaque scire te volumus, o dilectissime, quod",
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 9,
+          "titulus_id": 3,
+          "original_name": "S Bonifatius",
+          "original_title": "archiepiscopo",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boniface",
+          "normalized_role": "archbishop",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 10,
+          "titulus_id": 3,
+          "original_name": "Aelfwaldus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Aelwald",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 2,
+      "roll_id": 2,
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Sint Chrodegaud et la r\u00e9forme de l'\u00c9glise fran\u00e7aise, dans Sint Chrodegaud. Communications pr\u00e9sent\u00e9es au colloque tenu \u00e0 Metz \u00e0 l'occasion du deuxi\u00e8me centenaire"
+    },
+    {
+      "id": 3,
+      "roll_id": 2,
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "Cf. R. Rau, op. cit., p. 271, n. 1; Handbook of British chronology, p. 9."
+    },
+    {
+      "id": 1,
+      "roll_id": 2,
+      "pdf_page": 2,
+      "pdf_half": "left",
+      "footnote_num": "20",
+      "text": "Tassin (allemande); R. Rau, op. cit., p. 271."
+    }
+  ]
 }

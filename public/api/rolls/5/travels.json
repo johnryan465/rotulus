@@ -1,0 +1,453 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Statuts",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Origin: Statuts d'une association de pri\u00e8res pour les d\u00e9fu..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Funtanella",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Withlecus (abbot)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Saint-Riquier Abbey, France",
+    "coords": [
+      50.1347,
+      1.9472
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": false,
+    "description": "Witmarus (abbot)"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Corbeia",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Lodharius (abbot)"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Novalicio",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Asinari (abbot)"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Sancto Johanne",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Waldo (abbot)"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Bushburno",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Ragindus (abbot)"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Rasbac",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Goddobert (abbot)"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Fabarias",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Thalbert (abbot)"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Sancta Columba",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Widuin (abbot)"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Aldaha",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Ebarsind (abbot)"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "Niviella",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Erdanus (abbot)"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Utica",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Ragingarius (abbot)"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "Susa",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Althafred (bishop)"
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "Saint-Maur",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Felice (bishop)"
+  },
+  {
+    "step": 15,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3833,
+      0.6833
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": false,
+    "description": "Theodulf (bishop)"
+  },
+  {
+    "step": 16,
+    "type": "stop",
+    "name": "Landes",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Hiddo (bishop)"
+  },
+  {
+    "step": 17,
+    "type": "stop",
+    "name": "Autun",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Hippolyte (bishop)"
+  },
+  {
+    "step": 18,
+    "type": "stop",
+    "name": "Egesta",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Jacques (bishop)"
+  },
+  {
+    "step": 19,
+    "type": "stop",
+    "name": "Garimund",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Gancelin (bishop)"
+  },
+  {
+    "step": 20,
+    "type": "stop",
+    "name": "Cologne",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Jean (bishop)"
+  },
+  {
+    "step": 21,
+    "type": "stop",
+    "name": "Cassano",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Wilbald (bishop)"
+  },
+  {
+    "step": 22,
+    "type": "stop",
+    "name": "Achel",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Hart (bishop)"
+  },
+  {
+    "step": 23,
+    "type": "stop",
+    "name": "Worms, Germany",
+    "coords": [
+      49.634,
+      8.358
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": false,
+    "description": "Madalino (bishop)"
+  },
+  {
+    "step": 24,
+    "type": "stop",
+    "name": "Bisentio",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Leudiniacus (bishop)"
+  },
+  {
+    "step": 25,
+    "type": "stop",
+    "name": "Beorna",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Eus\u00e8be (bishop)"
+  },
+  {
+    "step": 26,
+    "type": "stop",
+    "name": "Torrio",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "F\u00e9lix (bishop)"
+  },
+  {
+    "step": 27,
+    "type": "stop",
+    "name": "Coradido",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Mauriol (bishop)"
+  },
+  {
+    "step": 28,
+    "type": "stop",
+    "name": "Ancona",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Alfridus (bishop)"
+  },
+  {
+    "step": 29,
+    "type": "stop",
+    "name": "Saint-Denis, France",
+    "coords": [
+      48.9356,
+      2.3539
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": false,
+    "description": "Fularius (abbot)"
+  },
+  {
+    "step": 30,
+    "type": "stop",
+    "name": "Saint-Germain-des-Pr\u00e9s, France",
+    "coords": [
+      48.8542,
+      2.3332
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": false,
+    "description": "Lantfrid (abbot)"
+  },
+  {
+    "step": 31,
+    "type": "stop",
+    "name": "Saint-Cloud Abbey, France",
+    "coords": [
+      48.8413,
+      2.2185
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": false,
+    "description": "Jean (abbot)"
+  },
+  {
+    "step": 32,
+    "type": "stop",
+    "name": "Puntawilas",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Withiemus (abbot)"
+  },
+  {
+    "step": 33,
+    "type": "stop",
+    "name": "Saint-Riquier Abbey, France",
+    "coords": [
+      50.1347,
+      1.9472
+    ],
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": false,
+    "description": "Witmarus (abbot)"
+  },
+  {
+    "step": 34,
+    "type": "stop",
+    "name": "Corbeia",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Leodharus (abbot)"
+  },
+  {
+    "step": 35,
+    "type": "stop",
+    "name": "Flavinaco",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Manau (abbot)"
+  },
+  {
+    "step": 36,
+    "type": "stop",
+    "name": "Novalicio",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Asinarius (abbot)"
+  },
+  {
+    "step": 37,
+    "type": "stop",
+    "name": "Sancto Johanne",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Waldo (abbot)"
+  },
+  {
+    "step": 38,
+    "type": "stop",
+    "name": "Busbruno",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Rahigaudus (abbot)"
+  },
+  {
+    "step": 39,
+    "type": "stop",
+    "name": "Raschis",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Godobertus (abbot)"
+  },
+  {
+    "step": 40,
+    "type": "stop",
+    "name": "Fabarias",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Althafbertus (abbot)"
+  },
+  {
+    "step": 41,
+    "type": "stop",
+    "name": "Sancta Columba",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Widradus (abbot)"
+  },
+  {
+    "step": 42,
+    "type": "stop",
+    "name": "Utica",
+    "coords": null,
+    "year": 769,
+    "date_str": "S.d. [vers 769-770]",
+    "is_approximate": true,
+    "description": "Flarinsinus (abbot)"
+  }
+]

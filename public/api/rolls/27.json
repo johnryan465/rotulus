@@ -1,31 +1,70 @@
 {
   "roll": {
     "id": 27,
-    "roll_num": "45",
-    "date_str": "S.d.",
-    "title": "S.d. [968-977] Rouleau mortuaire ( fragmentaire) de Gauzbert, , religieux de S. Martial de _ Limoges. Paris, B: N: E., lat; 2262, fol. 2. Parchemin (assez [verso] jaun\u00e2tre). Un fragment (rogn\u00e9) opisthographe (reli\u00e9 aspais ctligide ; c c [recto] blanch\u00e2tre dans le sens de la 6cp Longueur; 36 cm ; largeur; 25,5/26 cm. largeur el pli\u00e9) . 5 a. L. Delisle; Rouleaux des morts du IX' au XVe 8, P. 8,n' VII, dapr\u00e8s A. FAc-SIMIL\u00c9 J.L. Lema\u00eetre; Mourir \u00e0 S. Martial, p. 657, pl. 10,. [NDIQU\u00c9 A. Lcroux, Les sources de \u00dchistoire du Limousin, Sources, t. II, P. 110, n\" 1479. Limoges; 1895, P. 174. H. Villetard, A. Molinier; premiers \u00e9v\u00eaques de Sens, Paris 1956, Office de saint Savinien e de saint Potentier;  10 P 106. J-L Lcma\u00eetre, Mourir \u00e0 S. Marial, P: 131,331 . Le ms: Paris, B. N. F lat. 2262 provient de S. Martial de Limoges pr\u00e9sent fragment de rouleau et Pon peut penser que le la m\u00eame origine. D'apr\u00e8s L Delisle ' (2) Gauzbert arriva sous le pontificat d'Anstaise; archev\u00eaque aae dont la mort probablemsenc [eonoincaauquen staismnaa rah Ch\u00eaqbannes = Sens, c'est-\u00e0-dire entre 968 ct 977 esl attribue la restauration de la ch\u00e2sse de saint   15 Martial, sous l'administration de Tabb\u00e9 Guigue (974.991) et la fabrication dune statuc bas-relief qui ou dun repr\u00e9sentait saint Martial b\u00e9nissant le peuple de la main droite et tenant de 6 main gauchele livre des Evangiles * Apr\u00e8s avoir pr\u00e9cis\u00e9 les circonstances (Fincendie de Ja crypte) etler\u00f4le de Gauzbert (restaurateur \u00e0 la fois de T\u00e9difice et de la statue de &. Martial) , J.-L, Lema\u00eetre note que Bernard Itier a retenu cet \u00e9v\u00e9nement dans son 'bloc-notes' pour ensuite se demander; \u00e0 juste  20 titre; si ce personnage peut \u00eatre identifi\u00e9 au moine pour lequel circula ce rouleau mortuaire Rien ne permet vraiment de Yaffirmer; car lencyclique; tout en vantant ses m\u00e9rites; n'\u00e9voque pas sa charge de chevecier du S\u00e9pulcre; mais le qualifier de p\u00e8re; de m\u00e8re; de colonne de la maison s'applique bien \u00e0 celui qui fait   refaire la crypte et la statue apr\u00e8s Pincendie destructeur.. Le moine Gauzbert fut certainement inscrit sur lc premier n\u00e9crologe de S. Martial; mais le pr\u00e9nom est fr\u00e9quent en 25 Limousin  L'absence de qualificatif interdit tout rapprochement 2 Les arguments avanc\u00e9s par (1) Cf. B. N Catalogue g\u00e9n\u00e9ral   des Ma- nuscrits latins, Paris, t. II, 1940, P. 378 ; D. Gaborit-Chopin; La d\u00e9coration des manus- crits \u00e0 Gaint 1854, P 57-62 ; 1 Baudot, Dictionnaire dhagiographie, Paris, 1925, P. 49. Cf. Commemoratio abbatum basilice MVarcialieJaneH Dunplee-Aaier Chro",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "26,27",
+    "roll_num": 31,
+    "date_str": "S.d. [premier quart du X s.]",
+    "title": "",
+    "manuscripts": "A. Original perdu.\nB. Paris, B. N. F., lat. 11379, fol. 15 (endommag\u00e9 ; addition du X$^e$ s.).\na. E. de Rosi\u00e8res, Formules, 2$^e$ partie, p. 962, n$^\text{o}$ 694. \u2013 b. K. Zeumer, Formulae merovingici et carolini acsi (M. G. H., Leges), p. 338, n$^\text{o}$ 13. \u2013 c. J. J. Continental, Le formulaire de Laon. Source pour l'histoire de l'\u00e9cole de Laon au d\u00e9but du X$^e$ s., dans Scriptorium, t. XXVII, 1973, 15 p. 26, d'apr\u00e8s b.",
+    "pdf_source": "1",
+    "pdf_pages": "17",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": [
+  "tituli": [
     {
-      "id": 35588,
+      "id": 45,
       "roll_id": 27,
-      "pdf_page": 26,
+      "title": "",
+      "location_name": "",
+      "latin_text": "XI kal. junias adit bajalus litterarum vestrarum <.......> ubi venerandus und pontificatus gerit [officium], ill. custodiam ecclesiae, ill. archidiaconatum. <........> ill, hospitalitatis custodiam. Precatur [pro fratribus nostris hoc] anno ab hac labili luce sublatis, Ber[nardo <.......>] dote atque decano, ci pro aliis tam canonicis <.........>bus ill., ut misericordiam Domini imploretis.",
+      "pdf_page": 17,
       "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "de Saint-Martial de Limoges publiles \u00e6apr\u00e8s les manuscrits originaux, Paris, 1874, P.5. C\u00ed. Ch. de Lasteyric; L'abbaye de Saint Martial de Limoges, Paris 1901, p.64. (6) Mourir \u00e0 $. Martial p. 331-332"
+      "entities": [
+        {
+          "id": 188,
+          "titulus_id": 45,
+          "original_name": "Ber[nardo",
+          "original_title": "decano",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernardo",
+          "normalized_role": "decanus",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
     },
     {
-      "id": 35587,
+      "id": 46,
       "roll_id": 27,
-      "pdf_page": 26,
+      "title": "",
+      "location_name": "",
+      "latin_text": "X kal. aprilis venit gerulus apicum vestrorum in m[onte] Lauduni, [ubi] egregius pontifex ill. pastorali fungitur [officio] <.......> ill. praepositurae, ill. dapsilis largito[e]. Precatur veneri[abilem] paternitatem atque fraternitatem vestram <...........> Bernardo decano, ill. thesaurario, [Domini misericordiam exoretis et ad contigua loca innot[escere eorum nomina faciatis].",
+      "pdf_page": 17,
       "pdf_half": "right",
-      "footnote_num": "64",
-      "text": "4lillug> 4 Guuuu sin du IX' s. au XII s , Paris; 1969, p. 196. Rouleaux des morts du IX au XV s , p. 9 ((3) Cf. Gallia christiana, L. XII, col. 31 ; Brull\u00e9e, ' Notice sur saint Anastase %, dans Bul letin de la Soci\u00e9t\u00e9 arch\u00e9ologique de Sens, L. Y,"
+      "entities": [
+        {
+          "id": 189,
+          "titulus_id": 46,
+          "original_name": "Bernardo",
+          "original_title": "decano",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernardo",
+          "normalized_role": "decanus",
+          "normalized_dates": "",
+          "location_name": "Lauduni"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 144,
+      "roll_id": 27,
+      "pdf_page": 17,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Cf. A. Dufour-Malbezin, Actes de \u00e9v\u00eaques de Laon des origines \u00e0 1151, Paris, 2001, p. 13."
     }
   ]
 }

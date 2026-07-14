@@ -1,0 +1,704 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Ripoll, Spain",
+    "coords": [
+      42.1997,
+      2.1911
+    ],
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) d'Oliba, avec la ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "S. Hilaire",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Hilaire"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Carcassona",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Saint Hilaire (saint)"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Lagrasse",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Lagrasse"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Maria",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Maria"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "S. Guilhem-le-D\u00e9sert",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Guilhem-le-D\u00e9sert"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Gellone",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Saint Salvador de Gellone ()"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Villemagne",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Villemagne"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Ville Magnensis",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Saint Martin (bishop)"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "S. Pons-de-Thomi\u00e8res",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Pons-de-Thomi\u00e8res"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Tomeriense",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Saint Ponce ()"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "Caunes",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Caunes"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Montlieu",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Montlieu"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "Vallsichare",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Saint Jean-Baptiste (saint)"
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "Sor\u00e8ze",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Sor\u00e8ze"
+  },
+  {
+    "step": 15,
+    "type": "stop",
+    "name": "Soricinense",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Sainte Marie ()"
+  },
+  {
+    "step": 16,
+    "type": "stop",
+    "name": "Bernassone",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Notre-Dame de Bernassone ()"
+  },
+  {
+    "step": 17,
+    "type": "stop",
+    "name": "Varnassonense",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Sainte Marie ()"
+  },
+  {
+    "step": 18,
+    "type": "stop",
+    "name": "Vielmur-sur-Agout",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Vielmur-sur-Agout"
+  },
+  {
+    "step": 19,
+    "type": "stop",
+    "name": "Varen",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Varen"
+  },
+  {
+    "step": 20,
+    "type": "stop",
+    "name": "Autun",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Andochi (saint)"
+  },
+  {
+    "step": 21,
+    "type": "stop",
+    "name": "Sauxillanges",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Peter (saint)"
+  },
+  {
+    "step": 22,
+    "type": "stop",
+    "name": "Brioude Abbey, France",
+    "coords": [
+      45.2933,
+      3.3847
+    ],
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": false,
+    "description": "Julian (saint)"
+  },
+  {
+    "step": 23,
+    "type": "stop",
+    "name": "Charlieu",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Stephen (saint)"
+  },
+  {
+    "step": 24,
+    "type": "stop",
+    "name": "Chanteuges",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Chanteuges"
+  },
+  {
+    "step": 25,
+    "type": "stop",
+    "name": "Chatojolese",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Chatojolese"
+  },
+  {
+    "step": 26,
+    "type": "stop",
+    "name": "Le Puy",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Le Puy"
+  },
+  {
+    "step": 27,
+    "type": "stop",
+    "name": "Aniciense",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Aniciense"
+  },
+  {
+    "step": 28,
+    "type": "stop",
+    "name": "S. Victor",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Victor"
+  },
+  {
+    "step": 29,
+    "type": "stop",
+    "name": "S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es."
+  },
+  {
+    "step": 30,
+    "type": "stop",
+    "name": "S.d.- [Sor\u00e8de,] S. Andr\u00e9.",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: S.d.- [Sor\u00e8de,] S. Andr\u00e9."
+  },
+  {
+    "step": 31,
+    "type": "stop",
+    "name": "Elna",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Berenguer (bishop)"
+  },
+  {
+    "step": 32,
+    "type": "stop",
+    "name": "S. Cugat del Vall\u00e8s.",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Cugat del Vall\u00e8s."
+  },
+  {
+    "step": 33,
+    "type": "stop",
+    "name": "S. Lorenzo in Monte altieri supra Terrassa",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Lorenzo in Monte altieri supra Terrassa"
+  },
+  {
+    "step": 34,
+    "type": "stop",
+    "name": "S. Lloren\u00e7 del Mont",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Lloren\u00e7 del Mont"
+  },
+  {
+    "step": 35,
+    "type": "stop",
+    "name": "Castres, S. Benoit",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Castres, S. Benoit"
+  },
+  {
+    "step": 36,
+    "type": "stop",
+    "name": "Sarlat",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Sarlat"
+  },
+  {
+    "step": 37,
+    "type": "stop",
+    "name": "Vallnobilense",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Vallnobilense"
+  },
+  {
+    "step": 38,
+    "type": "stop",
+    "name": "Caturcis",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Caturcis"
+  },
+  {
+    "step": 39,
+    "type": "stop",
+    "name": "Soliacense",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Soliacense"
+  },
+  {
+    "step": 40,
+    "type": "stop",
+    "name": "Cluny, France",
+    "coords": [
+      46.4351,
+      4.6592
+    ],
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": false,
+    "description": "Titulus Header: Cluny"
+  },
+  {
+    "step": 41,
+    "type": "stop",
+    "name": "Reilhac",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Reilhac"
+  },
+  {
+    "step": 42,
+    "type": "stop",
+    "name": "Bages, S. Benet",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Bages, S. Benet"
+  },
+  {
+    "step": 43,
+    "type": "stop",
+    "name": "Viguer",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Peter of Viguer (saint)"
+  },
+  {
+    "step": 44,
+    "type": "stop",
+    "name": "Uzerche",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Uzerche"
+  },
+  {
+    "step": 45,
+    "type": "stop",
+    "name": "Arnac-Pampadour, S. Pardoux",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Arnac-Pampadour, S. Pardoux"
+  },
+  {
+    "step": 46,
+    "type": "stop",
+    "name": "Limoges",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Saint Martial (bishop)"
+  },
+  {
+    "step": 47,
+    "type": "stop",
+    "name": "Starpenso",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Starpenso"
+  },
+  {
+    "step": 48,
+    "type": "stop",
+    "name": "Legudiacum",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Legudiacum"
+  },
+  {
+    "step": 49,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": false,
+    "description": "Saint Martin (bishop)"
+  },
+  {
+    "step": 50,
+    "type": "stop",
+    "name": "Pictavense",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Pictavense"
+  },
+  {
+    "step": 51,
+    "type": "stop",
+    "name": "Poitiers, S. Hilaire[-le-Grand]",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Poitiers, S. Hilaire[-le-Grand]"
+  },
+  {
+    "step": 52,
+    "type": "stop",
+    "name": "Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es"
+  },
+  {
+    "step": 53,
+    "type": "stop",
+    "name": "Autun",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Saint Martin (saint)"
+  },
+  {
+    "step": 54,
+    "type": "stop",
+    "name": "S. Radegonde",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Radegonde"
+  },
+  {
+    "step": 55,
+    "type": "stop",
+    "name": "S. Martin",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Martin"
+  },
+  {
+    "step": 56,
+    "type": "stop",
+    "name": "S. Loren\u00e7 del Munt",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Loren\u00e7 del Munt"
+  },
+  {
+    "step": 57,
+    "type": "stop",
+    "name": "Banyoles, S. Esteve",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Banyoles, S. Esteve"
+  },
+  {
+    "step": 58,
+    "type": "stop",
+    "name": "Arelate",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Primus (martyr)"
+  },
+  {
+    "step": 59,
+    "type": "stop",
+    "name": "Monasterio Caliminesse",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Monasterio Caliminesse"
+  },
+  {
+    "step": 60,
+    "type": "stop",
+    "name": "Pedro de Castro Serra",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Pedro de Castro Serra"
+  },
+  {
+    "step": 61,
+    "type": "stop",
+    "name": "Catedral de Auna",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Catedral de Auna"
+  },
+  {
+    "step": 62,
+    "type": "stop",
+    "name": "Serrateix",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Santa Maria de Serrateix ()"
+  },
+  {
+    "step": 63,
+    "type": "stop",
+    "name": "Pratense/Leo Karchari",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Pratense/Leo Karchari"
+  },
+  {
+    "step": 64,
+    "type": "stop",
+    "name": "Roses",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Saint Mary of Roses (saint)"
+  },
+  {
+    "step": 65,
+    "type": "stop",
+    "name": "Fontanas",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Fontanas"
+  },
+  {
+    "step": 66,
+    "type": "stop",
+    "name": "Anzy-le-Duc",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Anzy-le-Duc"
+  },
+  {
+    "step": 67,
+    "type": "stop",
+    "name": "Cormery, S. Paul",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Cormery, S. Paul"
+  },
+  {
+    "step": 68,
+    "type": "stop",
+    "name": "Monasterio Encakense",
+    "coords": null,
+    "year": 1046,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "is_approximate": true,
+    "description": "Titulus Header: Monasterio Encakense"
+  }
+]

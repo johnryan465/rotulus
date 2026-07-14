@@ -1,0 +1,560 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Hes",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Origin: Hes Incole GODESBERHE mittunt versus, siti in Aque..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Aquensi",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Marvin of Albert ()"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Li\u00e8ge, S. Barth\u00e9lemy",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: Li\u00e8ge, S. Barth\u00e9lemy"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "S. Pierre",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Pierre"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Brioude Abbey, France",
+    "coords": [
+      45.2933,
+      3.3847
+    ],
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": false,
+    "description": "Titulus Header: Brioude"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Florey",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "monks of Florey ()"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Ambierle, S. Martin",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: Ambierle, S. Martin"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Leodico",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "John (saint)"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Brogne",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: Brogne"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Li\u00e8ge",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: Li\u00e8ge"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "S. Pons-[de-Thomi\u00e8res]",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Pons-[de-Thomi\u00e8res]"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "S. Laurent-de-Cerdans",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Laurent-de-Cerdans"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Issoire",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Austremonius (bishop)"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "[Li\u00e8ge,] S. Croix.",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: [Li\u00e8ge,] S. Croix."
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "Li\u00e8ge, S. Laurent",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: Li\u00e8ge, S. Laurent"
+  },
+  {
+    "step": 15,
+    "type": "stop",
+    "name": "Li\u00e8ge",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Liegens/Li\u00e9geois ()"
+  },
+  {
+    "step": 16,
+    "type": "stop",
+    "name": "B\u00e8ze",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: B\u00e8ze"
+  },
+  {
+    "step": 17,
+    "type": "stop",
+    "name": "S. Guilhem-le-D\u00e9sert",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Guilhem-le-D\u00e9sert"
+  },
+  {
+    "step": 18,
+    "type": "stop",
+    "name": "Villemagne",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: Villemagne"
+  },
+  {
+    "step": 19,
+    "type": "stop",
+    "name": "S. Maur-des-Foss\".",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Maur-des-Foss\"."
+  },
+  {
+    "step": 20,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": false,
+    "description": "Titulus Header: Paris"
+  },
+  {
+    "step": 21,
+    "type": "stop",
+    "name": "Paris, S. Germain-des-Pr\u00e9s",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: Paris, S. Germain-des-Pr\u00e9s"
+  },
+  {
+    "step": 22,
+    "type": "stop",
+    "name": "B\u00e9ze",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: B\u00e9ze"
+  },
+  {
+    "step": 23,
+    "type": "stop",
+    "name": "Lyon, France",
+    "coords": [
+      45.7597,
+      4.8422
+    ],
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": false,
+    "description": "Titulus Header: Lyon"
+  },
+  {
+    "step": 24,
+    "type": "stop",
+    "name": "Tournus Abbey, France",
+    "coords": [
+      46.5647,
+      4.9111
+    ],
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": false,
+    "description": "Titulus Header: Tournus"
+  },
+  {
+    "step": 25,
+    "type": "stop",
+    "name": "Soissons",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Fulchon (bishop)"
+  },
+  {
+    "step": 26,
+    "type": "stop",
+    "name": "Suessionensis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: Suessionensis"
+  },
+  {
+    "step": 27,
+    "type": "stop",
+    "name": "Cormery",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Robert (abbot)"
+  },
+  {
+    "step": 28,
+    "type": "stop",
+    "name": "Cx\u00e9x",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Gasfred (abbot)"
+  },
+  {
+    "step": 29,
+    "type": "stop",
+    "name": "Sancti Albini",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Gerard (monk)"
+  },
+  {
+    "step": 30,
+    "type": "stop",
+    "name": "Cunault",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "G\u00e9rald (abbot)"
+  },
+  {
+    "step": 31,
+    "type": "stop",
+    "name": "Saumur",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Saint Florent ()"
+  },
+  {
+    "step": 32,
+    "type": "stop",
+    "name": "Bourgueil",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Saint Pierre ()"
+  },
+  {
+    "step": 33,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3833,
+      0.6833
+    ],
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": false,
+    "description": "Saint Julien ()"
+  },
+  {
+    "step": 34,
+    "type": "stop",
+    "name": "Beaumont",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Ermengarde ()"
+  },
+  {
+    "step": 35,
+    "type": "stop",
+    "name": "Corn\u00e9",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: Corn\u00e9"
+  },
+  {
+    "step": 36,
+    "type": "stop",
+    "name": "S. Beaufeu[-les-Loches]",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Beaufeu[-les-Loches]"
+  },
+  {
+    "step": 37,
+    "type": "stop",
+    "name": "S. Genou, S. Sauveur",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Genou, S. Sauveur"
+  },
+  {
+    "step": 38,
+    "type": "stop",
+    "name": "Dolens",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Mary ()"
+  },
+  {
+    "step": 39,
+    "type": "stop",
+    "name": "Minatensis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Menelau ()"
+  },
+  {
+    "step": 40,
+    "type": "stop",
+    "name": "Mozac, S. Austremo\u00efne",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: Mozac, S. Austremo\u00efne"
+  },
+  {
+    "step": 41,
+    "type": "stop",
+    "name": "S. Georges",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Georges"
+  },
+  {
+    "step": 42,
+    "type": "stop",
+    "name": "Arles, cath\u00e9drale",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: Arles, cath\u00e9drale"
+  },
+  {
+    "step": 43,
+    "type": "stop",
+    "name": "Montmajour, S. Pierre",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: Montmajour, S. Pierre"
+  },
+  {
+    "step": 44,
+    "type": "stop",
+    "name": "S. Romain[le-Puy]",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Romain[le-Puy]"
+  },
+  {
+    "step": 45,
+    "type": "stop",
+    "name": "Monte Adeon",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "San Andr\u00e9s ()"
+  },
+  {
+    "step": 46,
+    "type": "stop",
+    "name": "Maguelone, France",
+    "coords": [
+      43.5119,
+      3.8831
+    ],
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": false,
+    "description": "Titulus Header: Maguelone"
+  },
+  {
+    "step": 47,
+    "type": "stop",
+    "name": "Thib\u00e9ry",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: Thib\u00e9ry"
+  },
+  {
+    "step": 48,
+    "type": "stop",
+    "name": "B\u00e9ziers",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: B\u00e9ziers"
+  },
+  {
+    "step": 49,
+    "type": "stop",
+    "name": "Crasse",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: Crasse"
+  },
+  {
+    "step": 50,
+    "type": "stop",
+    "name": "Alet",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: Alet"
+  },
+  {
+    "step": 51,
+    "type": "stop",
+    "name": "S. Paul-de-Fenouillet",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Paul-de-Fenouillet"
+  },
+  {
+    "step": 52,
+    "type": "stop",
+    "name": "S. Michel-de-Cux\u00e0",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Gatfredus (abbot)"
+  },
+  {
+    "step": 53,
+    "type": "stop",
+    "name": "Metz, cath\u00e9drale (S. \u00c9tienne)",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+    "is_approximate": true,
+    "description": "Titulus Header: Metz, cath\u00e9drale (S. \u00c9tienne)"
+  }
+]

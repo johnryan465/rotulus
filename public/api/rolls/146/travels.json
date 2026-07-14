@@ -1,0 +1,58 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1157,
+    "date_str": "S. d. [1157, apr\u00e8s le 4 novembre]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire de Calon, \u00e9v\u00eaque de Poitiers (\u2020 ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Rives",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S. d. [1157, apr\u00e8s le 4 novembre]",
+    "is_approximate": true,
+    "description": "Belota (prioress)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Uzerche",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S. d. [1157, apr\u00e8s le 4 novembre]",
+    "is_approximate": true,
+    "description": "Hugues (monk)"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Nantes",
+    "coords": null,
+    "year": 1157,
+    "date_str": "S. d. [1157, apr\u00e8s le 4 novembre]",
+    "is_approximate": true,
+    "description": "Guillaume (clerk)"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1157,
+    "date_str": "S. d. [1157, apr\u00e8s le 4 novembre]",
+    "is_approximate": false,
+    "description": "Calon (bishop of Poitiers)"
+  }
+]

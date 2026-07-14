@@ -1,0 +1,75 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Rouleau",
+    "coords": null,
+    "year": 1107,
+    "date_str": "S. d. [1107, mars ou avril]",
+    "is_approximate": true,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) de Robert [F'], a..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "F\u00e9camp",
+    "coords": null,
+    "year": 1107,
+    "date_str": "S. d. [1107, mars ou avril]",
+    "is_approximate": true,
+    "description": "Roger of Anjou (abbot)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Rhodes",
+    "coords": null,
+    "year": 1107,
+    "date_str": "S. d. [1107, mars ou avril]",
+    "is_approximate": true,
+    "description": "William II of Rhodes ()"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "S. \u00c9tienne de Caen",
+    "coords": null,
+    "year": 1107,
+    "date_str": "S. d. [1107, mars ou avril]",
+    "is_approximate": true,
+    "description": "William I (Abbot/Duke)"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Bayeux, France",
+    "coords": [
+      49.2794,
+      -0.7028
+    ],
+    "year": 1107,
+    "date_str": "S. d. [1107, mars ou avril]",
+    "is_approximate": false,
+    "description": "Richard II of Dover (Bishop)"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "F\u00e9camp",
+    "coords": null,
+    "year": 1107,
+    "date_str": "S. d. [1107, mars ou avril]",
+    "is_approximate": true,
+    "description": "William II of Rots (Abbot)"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "S.-Mortain, S. Trinit\u00e9",
+    "coords": null,
+    "year": 1107,
+    "date_str": "S. d. [1107, mars ou avril]",
+    "is_approximate": true,
+    "description": "Titulus Header: S.-Mortain, S. Trinit\u00e9"
+  }
+]

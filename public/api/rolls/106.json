@@ -1,0 +1,34 @@
+{
+  "roll": {
+    "id": 106,
+    "roll_num": 103,
+    "date_str": "S. d. [d\u00e9but XII\u1d47 s.]",
+    "title": "Pi\u00e8ce versifi\u00e9e relative \u00e0 la mort d'un certain Foulques, suppos\u00e9e sans doute sur un rouleau mortuaire par un moine de F\u00e9camp.",
+    "manuscripts": "A. Original perdu.\nB. Paris, B. N. F., lat. 1928 (1), fol. 172v (XII\u1d47 s.).",
+    "pdf_source": "2",
+    "pdf_pages": "55",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 825,
+      "roll_id": 106,
+      "title": "",
+      "location_name": "",
+      "latin_text": "<..................>nalia venit <..................>\n<..................>na Sancte <..................\n<..................>ae lucion-<..................\n<..................>nus fratr-<..................\n<..................>piissi d-<..................\n<..................>ramus denique <..................>\n<..................>nis quatinus <..................\n<..................>subtractis <..................\n<..................>orum nomina <..................\n<..................>abbate <..................\n<..................><[d]ecano<...................>",
+      "pdf_page": 55,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 986,
+      "roll_id": 106,
+      "pdf_page": 55,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Ce ma. provient de F\u00e9camp : cf. L. Delisle, Cabinet des manuscrits, Paris, t. I, 1866, p. 322."
+    }
+  ]
+}

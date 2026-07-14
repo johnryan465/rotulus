@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Karlsruhe, Germany",
+    "coords": [
+      49.0069,
+      8.4037
+    ],
+    "year": 732,
+    "date_str": "S.d. [732-754, 5 juin]",
+    "is_approximate": false,
+    "description": "Origin: Mention de \u00ab litterae [pro defunctis] \u00bb adress\u00e9es ..."
+  }
+]

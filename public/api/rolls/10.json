@@ -1,0 +1,25 @@
+{
+  "roll": {
+    "id": 10,
+    "roll_num": 11,
+    "date_str": "S.d. [774-vers 786]",
+    "title": "Deuxi\u00e8me formule de bref mortuaire \u00e0 l'usage de Murbach.",
+    "manuscripts": "A. Original perdu.\n5. B. Sankt Gallen, Stiftsbibl., 550, p. 158 (IX\u00ba s.).\na. E. de Rosi\u00e8re, Formulae, publi\u00e9es d'apr\u00e9s un ms. de S. Gall, Paris, 1853, p. 22, n\u00ba 29 - b. E. de Rosi\u00e8re, Formulae, 2\u00ba partie, p. 961, n\u00ba 679. - c. K. Zeumer, Formulae merovingici et carolini acsi (M. G. H. Longis), p. 335, Formulae Borbagnacenses, n\u00ba 23.",
+    "pdf_source": "1",
+    "pdf_pages": "8",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 16,
+      "roll_id": 10,
+      "title": "10",
+      "location_name": "",
+      "latin_text": "Venerabilis in Christo fratribus nostris in cenobiis degentibus acsi indignus abbas, exiguus servorum Dei, salutem vobis in Domino distinemus. De cetero agnosceatis quoad frater nostrum, nomine ille, kal. [ill.] de acce luce migravit. Qua ex re supplices exoramus alimitem vestram, ut de eo faciatis sixtre vestre consuetudo bona est. Et istum spem in arvis remanere faciatis.",
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": []
+}

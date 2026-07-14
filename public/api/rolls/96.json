@@ -1,0 +1,65 @@
+{
+  "roll": {
+    "id": 96,
+    "roll_num": 92,
+    "date_str": "S.d. [dernier des XI\u00b2 s.]",
+    "title": "Titre de Ligug\u00e9 apparent sur un rouleau mortuaire anonyme.",
+    "manuscripts": "A. Original perdu.\n5 B. Paris, Bibl. Mazarine, ms. 776, fol. 244v (XII\u00b2 s.).\na. A. Molinier, catalogue des manuscrits de la Biblioth\u1ecbque Mazarine, Paris, t. I, 1885, p. 372.\nb. J. Coquet, Ligug\u00e9, p. 118.\nc. J. Coquet, Comtesse Aumode, p. 162,\nd'apr\u00e8s B.",
+    "pdf_source": "2",
+    "pdf_pages": "46,47",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 797,
+      "roll_id": 96,
+      "title": "S.d.- Ligug\u00e9, S. Martin.",
+      "location_name": "Ligug\u00e9",
+      "latin_text": "T. Sancti Martini Legudiaci, obi beatus vir, apo- stolis, divinu virtute meruit ibidem duos mortuos suscitare.",
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 798,
+      "roll_id": 96,
+      "title": "",
+      "location_name": "",
+      "latin_text": "num, quorum enormitate nimium gravamur quotidie, quae minima que agimus benefacta, nisi vestrorum sublevemur auxilio orationis, nobis non posse scimus sufficere. Si enim ipsi celia non sunt mundi De tremendo conspectui, quanto magis nos, qui, in iniquitatibus concepti, post sacri emundationem baptismi, mali versus contagis implicamur multidemis ? Quamobrem obnisi rognamus tantus acceptabilia vestrarum munera intercessionibus nobis pro voto suffragentur, ne debitis secundum actuum meritura subjaciam poneos. Pius enim condior rerum, nostre compatio fragilitati, petenda non annuit petituris, cum ipse apostoli ore precipiam dicens: \u00ab Orate pro invicem ut salvemini \u00bb (1). Unde scindem dum quod qui caritativa animi dilectione clementiam suure majestatis implorant pro proximorum absolutione, utrisque premium largiar salutavis etern\u00e6. Humilium igitur aspernentes famulorum preces, non tam nobis petimus, quibus in hujus vite statio adhuc consentibus patimur spatium non degustare penitentie, quantius nobis fraternitas caritatem inpendis, arando scilicet pro nostrorum oblatione latione reavum, quam his ingressi vium univers\u00e6 carnis sortiti sunt in medio nostrum hjuis dolore lacii [s] occasum (sic). Nostis quam \u00ab sanctim st et salubre ex peccatis mortuorum exorare, ut ab exortum lavantur nobis \u00bb (2). Ex his quemdam fratrem nostrum egregie probatilis monachum, sacerdoti atque officio functum, nomine illum, vestris precipie comitibus (sic) indesenti presse oblationibus, qui proprietor Dominus vestris intercessionibus cunctis iniquitatibus exus, et redimat de interitu inferi animarum ejus, qui coronat in se sperantes in misericordia et misericatione. Qui in ac (sic) cupiens luce laudabilem in Domino vitam ducere, spreti hujus seculi pommes, sumpsit habitum nostro professionis, per multos in Christi famulatu degens annos, quosque terrae mole deposita carnis, die illo, non sine multo meroer fratrum coram astantiam, hominem, vocante Deo, excessit. Fuerunt et alii nostri congregationis fratres, qui ex hujus lise vis mantes, quoniam nomine submitta anotata voces consucium dirigenda, sancte memorie, pro quibus, videlicet ilis atque illis, et pro aliis, nomina quorum si inscriberent, fastidium prebent leguntibus, petimus ut grati precum libamina fundatis Altissimo omnium, quatinus, si quas ex primi transgressione paren- tis contrarserint maculas peccatorum, quod omnino certissimum est (non est enim corruptibilis homo qui non peccet), sua pietate abstergendo eumund perpetuque 35 beatitudinis faciat esse consortes. Amen.",
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2568,
+          "titulus_id": 798,
+          "original_name": "Christi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 967,
+      "roll_id": 96,
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "(1) Jac., V, 16."
+    },
+    {
+      "id": 968,
+      "roll_id": 96,
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "(2) II Mach., XII, 46."
+    }
+  ]
+}

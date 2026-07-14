@@ -1,0 +1,72 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Rouleau",
+    "coords": null,
+    "year": 1115,
+    "date_str": "S. d. [1115, apr\u00e8s ao\u00fbt]",
+    "is_approximate": true,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) de Turgot, \u00e9v\u00eaque..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Laon, cath\u00e9drale (N.-D.)",
+    "coords": null,
+    "year": 1115,
+    "date_str": "S. d. [1115, apr\u00e8s ao\u00fbt]",
+    "is_approximate": true,
+    "description": "Titulus Header: Laon, cath\u00e9drale (N.-D.)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Laon, S. Vincent.",
+    "coords": null,
+    "year": 1115,
+    "date_str": "S. d. [1115, apr\u00e8s ao\u00fbt]",
+    "is_approximate": true,
+    "description": "Titulus Header: Laon, S. Vincent."
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Blois, S. Laurmer.",
+    "coords": null,
+    "year": 1115,
+    "date_str": "S. d. [1115, apr\u00e8s ao\u00fbt]",
+    "is_approximate": true,
+    "description": "Titulus Header: Blois, S. Laurmer."
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Bonneval",
+    "coords": null,
+    "year": 1115,
+    "date_str": "S. d. [1115, apr\u00e8s ao\u00fbt]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bonneval"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Waltham, Holy Cross",
+    "coords": null,
+    "year": 1115,
+    "date_str": "S. d. [1115, apr\u00e8s ao\u00fbt]",
+    "is_approximate": true,
+    "description": "Titulus Header: Waltham, Holy Cross"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "S. Mary",
+    "coords": null,
+    "year": 1115,
+    "date_str": "S. d. [1115, apr\u00e8s ao\u00fbt]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Mary"
+  }
+]

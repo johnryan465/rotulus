@@ -1,14 +1,44 @@
 {
   "roll": {
     "id": 38,
-    "roll_num": "73",
-    "date_str": "S.d.",
-    "title": "[premi\u00e8rc moiti\u00e9 du XI' s] S.d. dun rouleau mortuaire anonyme: Titres ~provenant Dcux tituli furent 'copi\u00e9s , en t\u00eate dun ms. provenant de S. Victor de Paris (comme Tindiquent les anciennes cotes \u20ac Saint-Victor DD 18, 92, 65 v). Compos\u00e9s de 14 et de 25 vers; ils sont anonymes. Pour L Delisle (loc ci:) dont jadopte lavis, ils dateraient de la premi\u00e8re moiti\u00e9 du XI' &. le second 10 aurait \u00e9t\u00e9 compos\u00e9 \u00e0 [abbaye de Fleury: S.d. - Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es. Si nil post obitum prodest commissa fateri Vec tua mutatur fixis sententia verbis; Hoc concede michi; nulla quod= Jege ~ vetatur 15 Fratres quinque modo descendens  'luce reliqui, His peto; mittatur qui vivos corrigat ante Intormenta cadunt quam talia carne soluti. Nam quamvis  duro Si persistant corde rebelles; 'tamen ohstructa 20 Credent , 'quisquam de morte rediret, Ille  Jexperto poenasque intrare timebunt. quidem poscens effectum non Nos  autem, dum vita cupit ullum. Olim manet, defuncti- dum` lege = perterret vigemus; Dum locus , nuntius est Adam, 25 flendi; Nec , dumn obduratis ` non injusta petuntur; 'pulsatur janua seris (id est tardis) . Hesit amore 2 pio S.d. - semper Fleury ` ? Grata  isalutiferis  medicamina deitatis = danti ab arce coronis; En  marge de B, variante 'discedens. (6) Num B. (0) Sic B.",
-    "manuscripts": "Original [ [perdu. B Paris B NE Jat. 14491, fol. (XI s) L Delisle, Rouleaux des monts du IX' au XV s, p 47,n9 XVIII, dapr\u00e8s B.",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "70",
+    "roll_num": 42,
+    "date_str": "S.d. [vers 972]",
+    "title": "Troisi\u00e8me variante de la formule de bref mortuaire ins\u00e9r\u00e9e dans la \u00ab Regularis concordia \u00bb de Dunstan.",
+    "manuscripts": "A. Original perdu.\nB. London, British Library, Cotton Tiberius A 3, fol. 177v (fin X\u00ba s.).\na. Th. Symons, Regularis concordia Anglicae nationis monachorum sanctimonialiumque, London, 1953, p. 68, n. h, d'apr\u00e8s B.",
+    "pdf_source": "1",
+    "pdf_pages": "25",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": []
+  "tituli": [
+    {
+      "id": 65,
+      "roll_id": 38,
+      "title": "25 Christi",
+      "location_name": "",
+      "latin_text": "Gratia misericordiae Dei archiepiscopus ill. omnisque congregatio Ecclesiae Christi omnibus Ecclesiae fidelibus salutem. Cum omnes diem mortis nostrae",
+      "pdf_page": 25,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 66,
+      "roll_id": 38,
+      "title": "",
+      "location_name": "",
+      "latin_text": "expectamus et necesse habemus utmus salvari precipibus, suppliciter petimus ut pro fratre nostro ill., monacho et sacerdote (vel levite), qui carnis ergastulo exiens N. (vel XI kal. febr.) hoc saeculum deseruit, intercedere dignissimi quatinus per vestra sacra suffragia ad aeterna spiritus eius perviniat gaudia. Vale\u00e9.",
+      "pdf_page": 25,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 162,
+      "roll_id": 38,
+      "pdf_page": 25,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "(1) Un autre bref mortuaire, intitul\u00e9 au nom de Christchurch de Canterbury, est ajout\u00e9 comme variante dans l'un des mss. du m\u00eame texte (X\u00b2 s.) : \u00e9d. Th. Symons, op. cit., p. 66 et n. f. ; cf. J. Dufour, Abbot, p. 28."
+    }
+  ]
 }

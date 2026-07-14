@@ -1,0 +1,127 @@
+{
+  "roll": {
+    "id": 119,
+    "roll_num": 116,
+    "date_str": "S. d. (1120, apr\u00e8s le 20 avril)",
+    "title": "Encyclique sollicitant de prier pour G\u00e9raud de Salles (\u2020 20 avril 1120).",
+    "manuscripts": "A. Original perdu.",
+    "pdf_source": "3",
+    "pdf_pages": "80",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1425,
+      "roll_id": 119,
+      "title": "",
+      "location_name": "",
+      "latin_text": "[O]rate p. n[ostris], Gerardo, Waselino, Ta-<...> <...> Frid.<...> , <...>--boldo, Fulcrado.\n\n10 S.d.-[S. Quentin.] S. Prix.\n[T]ITULUS SANCTI PRE[JECTI]. Anima] ejus et anim\u00f4 e. f.<...........>",
+      "pdf_page": 80,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 5986,
+          "titulus_id": 1425,
+          "original_name": "Gerardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gerard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5987,
+          "titulus_id": 1425,
+          "original_name": "Waselino",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Waselin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5988,
+          "titulus_id": 1425,
+          "original_name": "Fulcrado",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Fulcoid",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 1632,
+      "roll_id": 119,
+      "pdf_page": 80,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "A son sujet, cf. notamment \u00ab G\u00e9raud de Sales \u00bb, dans D.H.G.E., t.. XX, col. 839-840 (M. Standaert)."
+    },
+    {
+      "id": 1633,
+      "roll_id": 119,
+      "pdf_page": 80,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "\u00c9d. I. Verdon, Paris, 1979, p. 182, 188, 190."
+    },
+    {
+      "id": 1634,
+      "roll_id": 119,
+      "pdf_page": 80,
+      "pdf_half": "left",
+      "footnote_num": "(3)",
+      "text": "Op. cit., p. 9."
+    },
+    {
+      "id": 1635,
+      "roll_id": 119,
+      "pdf_page": 80,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Cf. Chronique de S. Maixent, \u00e9d. J. Verdon, p. 182."
+    },
+    {
+      "id": 1636,
+      "roll_id": 119,
+      "pdf_page": 80,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Sur ce monast\u00e8re, cf. M.-O. Lenglet, op. cit., p. 12, n. 27."
+    },
+    {
+      "id": 1637,
+      "roll_id": 119,
+      "pdf_page": 80,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Sur ce monast\u00e8re, cf. ibid., p. 12, n. 27."
+    },
+    {
+      "id": 1638,
+      "roll_id": 119,
+      "pdf_page": 80,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Sur ce monast\u00e8re, cf. ibid., p. 13."
+    },
+    {
+      "id": 1639,
+      "roll_id": 119,
+      "pdf_page": 80,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "Sur ce monast\u00e8re, cf. ibid., p. 8, 13."
+    }
+  ]
+}

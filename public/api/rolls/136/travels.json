@@ -1,0 +1,28 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Abbesses",
+    "coords": [
+      48.884444444444,
+      2.3386111111111
+    ],
+    "year": 1149,
+    "date_str": "[1149, apr\u00e8s le 25 avril]",
+    "is_approximate": false,
+    "description": "Origin: Encyclique sollicitant de prier pour P\u00e9tronille de..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4736,
+      -0.5542
+    ],
+    "year": 1149,
+    "date_str": "[1149, apr\u00e8s le 25 avril]",
+    "is_approximate": false,
+    "description": "Laud d'Angers ()"
+  }
+]

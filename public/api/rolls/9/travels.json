@@ -1,0 +1,25 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Murbach Abbey, France",
+    "coords": [
+      47.9234,
+      7.1581
+    ],
+    "year": 774,
+    "date_str": "S.d. [774-786]",
+    "is_approximate": false,
+    "description": "Origin: Premi\u00e8re formule de bref mortuaire \u00e0 l'usage de Mu..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Wintamiae",
+    "coords": null,
+    "year": 774,
+    "date_str": "S.d. [774-786]",
+    "is_approximate": true,
+    "description": "Cinehard (bishop)"
+  }
+]

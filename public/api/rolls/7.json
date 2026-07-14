@@ -1,0 +1,31 @@
+{
+  "roll": {
+    "id": 7,
+    "roll_num": 8,
+    "date_str": "S.d. [773, fin mai 781]",
+    "title": "\u00c9change de \u00ab litterae [pro defuncis] \u00bb entre d'une part Lul, \u00e9v\u00eaque [de Mainz], et d'autre part Ethelred, roi [de Northumbrie] (8) et la reine Osguifu (9) qui les feront circuler \u00e0 travers sa royaume.",
+    "manuscripts": "",
+    "pdf_source": "1",
+    "pdf_pages": "6",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 67,
+      "roll_id": 7,
+      "pdf_page": 6,
+      "pdf_half": "right",
+      "footnote_num": "8",
+      "text": "Ethelred, roi de Northumbrie"
+    },
+    {
+      "id": 68,
+      "roll_id": 7,
+      "pdf_page": 6,
+      "pdf_half": "right",
+      "footnote_num": "9",
+      "text": "et la reine Osguifu qui les feront circuler \u00e0 travers sa royaume."
+    }
+  ]
+}

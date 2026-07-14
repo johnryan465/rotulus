@@ -1,0 +1,250 @@
+{
+  "roll": {
+    "id": 18,
+    "roll_num": 20,
+    "date_str": "S.d. [apr\u00e8s 840]",
+    "title": "Fragmenti de rouleau mortuaire d'un abb\u00e9 Lambert.",
+    "manuscripts": "A. Original perdu.\nB. Gent, Bibl. der Rijksuniversiteit, G 12907, fol. 49 (XIVe s.).\nC. Bruxelles, Bibl. royale, ms. 16530-16540, p. 42, d'apr\u00e8s B (XVIIe s.).",
+    "pdf_source": "1",
+    "pdf_pages": "10,11",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 27,
+      "roll_id": 18,
+      "title": "",
+      "location_name": "",
+      "latin_text": "a. F. Vande Putte, Annales abbatiae Sancti Petri Blandinianensis, Gand, 1942, p. 26. \u2014 b. C. de Smeld, dans Acta sanctorum, Novembris, t. I, p. 360. \u2014 c. O. Holder-Egger, dans M. G. H., SS. t. XV, 2, p. 642, sous le titre: \u00ab Lambertus ibiliis de loco sepulture Florberti abbatis contra monachorum S. Bavonis \u00bb, d'apr\u00e8s a. \u2014 d. O. Holder-Egger, dans M. G. H., SS, t. XV, 2, p. 1317, d'apr\u00e8s b.",
+      "pdf_page": 11,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 126,
+          "titulus_id": 27,
+          "original_name": "Florberti",
+          "original_title": "abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Florbert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 127,
+          "titulus_id": 27,
+          "original_name": "S. Bavonis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Bavon",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "roll_id": 18,
+      "title": "orphaned_footnotes\ub098 [ {",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 11,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 29,
+      "roll_id": 18,
+      "title": "Tytulus (ric) sancti Bavonis nobilissimi confessoris in Gandavo castro (hystoria, non fabula).",
+      "location_name": "Gandavo castro",
+      "latin_text": "Quo sacer Amandus virtute beatificandus\nYdola destruitx et cenobium sibi sibrix\nCollectoque gregi servire Deo cupients\nPatrem Florbertum preferit laude refertum,\nCujus adhuc tumulorum Gandavum monstrat corpore onustum.\nHiis breviter scriptis, Lambertus pastor herilis\nVester, ut optamus, vivat super etra locatus \u24c9.\nQue petitris vestris, eadem persolvit nostris,\nFlorbertio prefato pastori primo, Wilfrido abbati, Eildrifo abbati, Einardo abbati \u24c9.",
+      "pdf_page": 11,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 128,
+          "titulus_id": 29,
+          "original_name": "Amandus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Amandus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 129,
+          "titulus_id": 29,
+          "original_name": "Florbertum",
+          "original_title": "Patrem",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Florbertus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 130,
+          "titulus_id": 29,
+          "original_name": "Lambertus",
+          "original_title": "pastor herilis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lambertus",
+          "normalized_role": "pastor",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 131,
+          "titulus_id": 29,
+          "original_name": "Wilfrido",
+          "original_title": "abbati",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Wilfrid",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 132,
+          "titulus_id": 29,
+          "original_name": "Eildrifo",
+          "original_title": "abbati",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Eildrif",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 133,
+          "titulus_id": 29,
+          "original_name": "Einardo",
+          "original_title": "abbati",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Einard",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "roll_id": 18,
+      "title": "S.d.- Gent. S. Pieres.",
+      "location_name": "S. Pieres",
+      "latin_text": "Omnibus sancte matris Ecclesiae his sancta Blandiniensis ecclesia in Gandavo, 15 olimo a beato Amando presume constricta principinque apostolorum tvulata, salu- tem. Habemus, karisimus, in ar\ub07cimia, in privilegiis auctoritate majorem roburata beatum Amandum Blandiniam cenobium in Gandavo olim fundasse monacho- rum caverum eo aggresase esse abbatem sagacis ingenii Florbertum prefatice. Quod nobis frastres de cenobio Sancti Bavonis invientes, so ut adrogant loco 20 ascresent ne vicitari Gandavum nisi locum suum. Quod quam si mendosum ex similibus collegite, omne suburbium seu territorium eodem appellari nomine quo urbis qui vocati Gandavum vari loci scriptis in inventur, cenobium Sancti Bavonis speciali vocando Gandavum vocari fiant, his qui diximus tam privile- gia nostra quiam sancti Amandi a Milone ejusdem sanctissimi patris monacho 25 surplus; in qua in hoc munde conterminet : Nam construxit monasterium quod dixit Blandinus, ad Gandavum, adrum et cetera. \u24c9 Quod qualum monachus de cenobio Sancti Bavonis \u24c9 apud Sanctum Amandum olim conversa- tus legens abserit, ita permutans : Nam construxit monasterium in nostro Gan- davo super Scaldam \u24c9 (et Legiam \u24c9. Quod ita absraunt et permutatum fecit adhuc 30 agnustim est in eadem vita sancti Amandi. Quod vero se abbatem Florbertum indice cum tuo tyllulo assertum habere, ea facilitate contemptur nia que asserit, quia nos qui hec loquimur ejusdem tytuli scriptorem semetipsum prodentem agnovi mus quibusque sepulcri validatoribus quendam sunt ossa de atrio in monasterium furtim translata non ignoravimus, semetipis accusantibus duabus qui \u24c9 inter- 35",
+      "pdf_page": 11,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 134,
+          "titulus_id": 30,
+          "original_name": "Amando",
+          "original_title": "beato",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Amandus",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 135,
+          "titulus_id": 30,
+          "original_name": "Amandus",
+          "original_title": "beatum",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Amandus",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 136,
+          "titulus_id": 30,
+          "original_name": "Florbertum",
+          "original_title": "abbatem",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Florbertus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 137,
+          "titulus_id": 30,
+          "original_name": "Sancti Bavonis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bavon",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 138,
+          "titulus_id": 30,
+          "original_name": "Amandi",
+          "original_title": "sancti",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Amandus",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 139,
+          "titulus_id": 30,
+          "original_name": "Milone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Milo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 140,
+          "titulus_id": 30,
+          "original_name": "Blandinus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Blandinus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 141,
+          "titulus_id": 30,
+          "original_name": "Florbertum",
+          "original_title": "abbatem",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Florbertus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

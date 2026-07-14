@@ -1,0 +1,78 @@
+{
+  "roll": {
+    "id": 148,
+    "roll_num": 145,
+    "date_str": "[1173, apr\u00e8s le 14 f\u00e9vrier]",
+    "title": "Encyclique sollicitant de prier pour Yves [II], abb\u00e9 de S. Denis (\u2020 14 f\u00e9vrier 1173, n. st.).",
+    "manuscripts": "A. Original perdu.\nB. Paris, B. N. F., lat. 14192, fol. 15v (XII\u00ba s.).\na. Ed. Mart\u00e8ne et U. Durand, Thesaurus, t. I, col. 571, d'apr\u00e8s B (<< ex ms. Cosliniano s.) - b. L. Delisle, Rouleaux des morts du IX\u1d47 au XI\u1d47 s., p. 372, n\u00ba LIV, d'apr\u00e8s B.",
+    "pdf_source": "4",
+    "pdf_pages": "75,76",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1829,
+      "roll_id": 148,
+      "title": "",
+      "location_name": "",
+      "latin_text": "[U]niversis matrim Ecclesie filii et fidelibus humilis et afflictus beatissimi martyris Dysonii conventus salutem et gaudium exoptat atque ab his mutuo solatii operam implorat. Justum etenim valde est ut qui unus domini sumus famili,",
+      "pdf_page": 75,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7449,
+          "titulus_id": 1829,
+          "original_name": "Dysonii",
+          "original_title": "beatissimi martyris",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Denis",
+          "normalized_role": "saint/martyr",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1830,
+      "roll_id": 148,
+      "title": "",
+      "location_name": "",
+      "latin_text": "ejusdem menbra capitis, invicem nobis compati debeamus et condolore expedit.\nIdeicco obitum vobis venerandi patris nostri hoe memorie Ivonis\nflentes dolentesque intimamus, ut, pietatis intuitu, iam universe carnis ingresso\norationium aliquod suffragium impendatis. Pro quo ut devotios apud communem\n5 Judicem intercedatis, aliqua illius bona que ex familiari conventu didicimus, brevi-\nter hic et fideliter perstringemus. Vis profecto fuit in quem, Deo volente, bona\nplurima nos concurrensire, in quem tam natura quam industria uberibus vitae\ntun sutt con guessessse munera. Fuit a primis annis bonis semper moribus fuitque\nverecundos, bone spiei, opinionis opto, consortia imperatorum studios\u00e8 decli-\n10 nans, bonorum amicitias amplectans. erat illius optim\u00e6 imbus, utrobique ser-\nmone, vulgi scilicet et latino quadis, qui pro commissa sibi ecclesia confiden-\nter usque ad ammirationem et prudenter loquens, in conspectu regnum non\nconfundetur. Fluoruerint in eo vite simul honestas et res maginanimitas, inten-\nsio sermio destutus et ab obsolecente remotus. Circa subjectos benignissimum, tardus\nad vindictam, pronus ad vindictem. Non erat actor vehemens, non rapax, non in\nreatibus investigandis perseguax. Ultio illius moderata, correcto, reprehenderit con\nunda, aliena magnopere rerum publicam extollebast, supprimebat propria. Assentatori-\nbus autem non accomodatum, delatores verbo vultoque repelletae, semper ad\n20 meliora priorum. Fuit illius assumptio reginae via in murci partagonia, familiaritas\nnon modica cum litteris, divinorum librorum lectio frequentissima, quos et stu-\ndios\u00e6 et magn\u00e6 expens\u012bs ipse concepit et pro thesauro grandi reliquit monasterio.\nVigebat in eo tanquam ad retinendum memoriae, ad dicendum protolo declasentissima.\nHunc talem cum a Deo nobis concessum diutius nos crederemus habituros, raptus\n25 est et revocatus in dimidio dierum suorum, in robore juventutis, annis junior,\nmaturior actu. Vis nobis quatuor praefit annis, multa egregie in rebus sibi com-\nmissis facturus, ut creditur, nisi morte cleroeri fuisset preventus. De cujus morte\njactarum tulimus gravissimam, si tamen jactura indica est boni pastoris ad\nDeum praemisso. Decessit valde juvenis, quod dolorem nostrum amplius exulce-\n30 rat, quia luxuosum metus geris que innatura accidit et errare; sed tam\nlonga tam iniquia cruciatus est valetudine, ut si quid in eo velut in homine purgari\noportebat, purgatum penitus tam mora temporis quam acerbitate languoris credi-\nbile sit, maxime cum inter continuo cruxatis justo semper Judici gratiae referet.\nDe cujus tr\u00e1nsito dubitari potest utrum fleri debeat et mors vocari, quae talis viri\n35 mortalitas finitio est quan vita. Nunc igitur, omnes qui, obrne boni viri, in quibus\nrespectus est humanitatis et pietas, condescendte dolore nostro; orate misericor-\nditer pro tali viro, ut et ipsius anima ex vestris precipibus sentire possit remedium et\nnobis aliquod impiertamus solatium vosque apud cordium inspectorem Deum\ncaritatis impense mercedem et humanitatis consequamur meritum.",
+      "pdf_page": 76,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7450,
+          "titulus_id": 1830,
+          "original_name": "Ivonis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ivan",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 2239,
+      "roll_id": 148,
+      "pdf_page": 75,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "A son sujet, cf. Gallia christiana, t. VII, col. 379-380."
+    },
+    {
+      "id": 2240,
+      "roll_id": 148,
+      "pdf_page": 75,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "Cf. notamment Obituaires de la province sii ."
+    }
+  ]
+}

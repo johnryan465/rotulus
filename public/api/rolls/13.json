@@ -1,0 +1,67 @@
+{
+  "roll": {
+    "id": 13,
+    "roll_num": 14,
+    "date_str": "754-octobre 786",
+    "title": "\u00ab Doto, abb\u00e9s S. Petri \u00bb (2), demande \u00e0 Lul, \u00e9v\u00eaque [de Mainz], de lui communiquer par un bref mortuaire les noms de ses amis d\u00e9funts.",
+    "manuscripts": "",
+    "pdf_source": "1",
+    "pdf_pages": "8",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 19,
+      "roll_id": 13,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Domino in Domino dilectissimo et fidelissimo amico Lullo episcopo Gudberct abbas salutm ... Nomina fratrum quae ad nos misisti cum nominibus hujus 15 monasterii fratrum dormientium in Christo scripta continentur, ita ut pro illis nonaginta et eo amplus missas facere praecipsi ...",
+      "pdf_page": 8,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 94,
+          "titulus_id": 19,
+          "original_name": "Lullo",
+          "original_title": "episcopo",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lul",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 95,
+          "titulus_id": 19,
+          "original_name": "Gudberct",
+          "original_title": "abbas",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gudbert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 74,
+      "roll_id": 13,
+      "pdf_page": 8,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Ces dates sont celles de l'episcopat de Lul ; cf. \u00ab Lul \u00bb, dans Lexikon des Mittelalters, t. VI, col. 1-2 (T. Struve)."
+    },
+    {
+      "id": 75,
+      "roll_id": 13,
+      "pdf_page": 8,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Doto serait un abb\u00e9 de Luxeuil selon les Annales ordinis sancti Benedicti (t. II, p. 189."
+    }
+  ]
+}

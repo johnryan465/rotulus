@@ -1,0 +1,47 @@
+{
+  "roll": {
+    "id": 23,
+    "roll_num": 25,
+    "date_str": "S.d. [IXe s.]",
+    "title": "Formule de rouleau mortuaire \u00e0 l'usage de Reichenau.",
+    "manuscripts": "15 A. Original perdu.\nB. Sankt Gallen, Stiftsbibl., 550, p. 110 (IXe s.).",
+    "pdf_source": "1",
+    "pdf_pages": "15",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 40,
+      "roll_id": 23,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Venerabili verisque felici abbati ill, et omnibus fratribus sub regula sancti Benedicti quem commemoratus illis exiguus et peccator mundi",
+      "pdf_page": 15,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 182,
+          "titulus_id": 40,
+          "original_name": "Benedicti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Benedict",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 141,
+      "roll_id": 23,
+      "pdf_page": 15,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "ment archev\u00eaque de Reims de 883 \u00e0 900 (cf. L. Duchesne, Fastes, t. III, p. 88)."
+    }
+  ]
+}

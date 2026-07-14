@@ -1,0 +1,35 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Winchester, England",
+    "coords": [
+      51.0632,
+      -1.308
+    ],
+    "year": 1129,
+    "date_str": "[1129, apr\u00e8s le 23 janvier]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) de William Giffar..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Whitby",
+    "coords": null,
+    "year": 1129,
+    "date_str": "[1129, apr\u00e8s le 23 janvier]",
+    "is_approximate": true,
+    "description": "Titulus Header: Whitby"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Reading",
+    "coords": null,
+    "year": 1129,
+    "date_str": "[1129, apr\u00e8s le 23 janvier]",
+    "is_approximate": true,
+    "description": "Titulus Header: Reading"
+  }
+]

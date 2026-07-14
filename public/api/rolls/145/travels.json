@@ -1,0 +1,124 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Angers, France",
+    "coords": [
+      47.4736,
+      -0.5542
+    ],
+    "year": 1157,
+    "date_str": "[1157, apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) de Hugues, abb\u00e9 d..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Montolieu",
+    "coords": null,
+    "year": 1157,
+    "date_str": "[1157, apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "John the Baptist (saint)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Tournus Abbey, France",
+    "coords": [
+      46.5647,
+      4.9111
+    ],
+    "year": 1157,
+    "date_str": "[1157, apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Titulus Header: Tournus"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Soissons",
+    "coords": null,
+    "year": 1157,
+    "date_str": "[1157, apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Titulus Header: Soissons"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Noyon, France",
+    "coords": [
+      49.5807,
+      2.9995
+    ],
+    "year": 1157,
+    "date_str": "[1157, apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Eligius (saint)"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Issoudun",
+    "coords": null,
+    "year": 1157,
+    "date_str": "[1157, apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Titulus Header: Issoudun"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Chezal-Beno\u00eet",
+    "coords": null,
+    "year": 1157,
+    "date_str": "[1157, apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Titulus Header: Chezal-Beno\u00eet"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "La Pr\u00e9e",
+    "coords": null,
+    "year": 1157,
+    "date_str": "[1157, apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Titulus Header: La Pr\u00e9e"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Soissons",
+    "coords": null,
+    "year": 1157,
+    "date_str": "[1157, apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Mathilde (abbess)"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "S.d.-Pr\u00e9montr\u00e9, N.-D., S. Jean-Baptiste.",
+    "coords": null,
+    "year": 1157,
+    "date_str": "[1157, apr\u00e8s le 6 avril]",
+    "is_approximate": true,
+    "description": "Titulus Header: S.d.-Pr\u00e9montr\u00e9, N.-D., S. Jean-Baptiste."
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Laon, France",
+    "coords": [
+      49.5667,
+      3.6167
+    ],
+    "year": 1157,
+    "date_str": "[1157, apr\u00e8s le 6 avril]",
+    "is_approximate": false,
+    "description": "Mary (Saint)"
+  }
+]

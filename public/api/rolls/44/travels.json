@@ -1,0 +1,28 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": null,
+    "date_str": "3 7 juillet",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) anonyme, probable..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Auxerre, France",
+    "coords": [
+      47.8,
+      3.5667
+    ],
+    "year": null,
+    "date_str": "3 7 juillet",
+    "is_approximate": false,
+    "description": "Saint \u00c9tienne d'Auxerre ()"
+  }
+]

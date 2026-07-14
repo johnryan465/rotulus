@@ -1,87 +1,118 @@
 {
   "roll": {
     "id": 53,
-    "roll_num": "93",
-    "date_str": "S.d.",
-    "title": "S.d. [XI s.] 10 Formule anonyme dencyclique. INDIQU\u00c9 J Stiennon, Guifred, P. 307. Cette formule constitue le n? 71 du rouleau mortuaire de Guifr\u00e9, recueil factice compos\u00e9 \u00e0 5. Martin-du-\u20ac Canigou D\u00e9j\u00e0 pour L. Delisle (2), elle \u00e9tait peut-\u00eatre plac\u00e9e ind\u00fbment au milieu de ce document je suis daccord avec J Stiennon (loc. cit.) pour la traiter \u00e0 part. Comme Dom Guillaume de Costa a \u00e9tabli sa copie \u00e0 partir dun original conserv\u00e9 dans les archives de S. Martin-du-Canigou; on peut supposer que cette lettre fut utilis\u00e9e par les moines de cette abbaye. Son style me la fait placer au XI 5., sans qu'il soit possible de pr\u00e9ciser davantage.",
-    "manuscripts": "A. Original perdu. B. Paris; B. N. F, Coll. Baluze; vol. 108, fol. 318v-319, dapr\u00e8s A (< ex archivo S. Martini Canigonen- sis % copie de Dom Guillaume de Costa, XVIIS s). 0 . L. Delisle; Rouleaux des morts du IX* au XVE s , P.89,dapr\u00e8s B.-b.J Dufour; Catalogne; P. 39, 15' n\" V, dapr\u00e8s @.",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "46,47",
+    "roll_num": 60,
+    "date_str": "S. d. [X^e s.]",
+    "title": "Eus\u00e8que sollicitait de prier pour Arnuis, Arduicus et Bernoinus, moines de Luxeuil.",
+    "manuscripts": "A. Original perdu.\nB. \u00c9pinal, B. m., 76 (fol. 2r [X^e s.])\u00b9\u2070.",
+    "pdf_source": "1",
+    "pdf_pages": "39",
     "is_verified": 0
   },
-  "tituli": [],
+  "tituli": [
+    {
+      "id": 109,
+      "roll_id": 53,
+      "title": "15",
+      "location_name": "Luxeuil",
+      "latin_text": "Reverendissimo domino desiderantissimoque patri domino Auund cuncta Luxovicos (sic) e\u0431\u043d\u043e subjuncta utrinque obedientis (sic) devotissimum Christo familiam. Vostro legato largit\u00e8 amenissimis apicibus ac [...] amplisbitis adopte, adomn\u016b triumphantes immensas omnipotenti Deo gratas. Ipsius obliue obsecrans clementiam, quitanus et hic vestram protelando vitam prospere custodiat et post meam instantis avi ad vitam feliciter perducat aeternam. Praecarum autem ut [...] gratiam, qui supernus Judes indulget [...] fratres",
+      "pdf_page": 39,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 292,
+          "titulus_id": 109,
+          "original_name": "Auund",
+          "original_title": "domino",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Aunund",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Luxeuil"
+        },
+        {
+          "id": 293,
+          "titulus_id": 109,
+          "original_name": "Judes",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Judes",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "roll_id": 53,
+      "title": "",
+      "location_name": "",
+      "latin_text": "sophi\u00e6 incompatibilit\u00e8r viguet et lacteo eloquenti\u00e6 fore debraatum est, sed humanam conversionem, que in tali indigna patrono exitit Christo gaudens perdidit, etiam domino suo perennius alii creditat, cum usura laudabilit\u00e8r ostendit illuc evangelique ecce regnat. Qui eum omnibus omnia factis sit, post patrem Benedictum monachorum institutionis pedagogus mirificus reparatos esse promiserit. Non ideo habereis utrius nostra sequia virim, ob directione praecipui, doctrina loculorum, gravitatis moderantem legiferum, consilium plenum. Duoque plenum. Cupis meritum vestre dignitoris orationes augere et, si quid superest illi dignum levo plena, ut sicut a Domino indulgatur sollicita intentionem divinae pulchrae elementae. Nam nemo est qui ita vivat, ut non aliquando delinquent et primorum iracione non agat. Ne latoris autem nostri imponamur fallati, pedatorum vestrorum nobis incertit \u2079 scribite et opem itineris conferre dignimini, quatimus ad nos prospere arcato officio reddare valet. Valete.",
+      "pdf_page": 39,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 294,
+          "titulus_id": 110,
+          "original_name": "Benedictum",
+          "original_title": "patrem",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Benedict",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 295,
+          "titulus_id": 110,
+          "original_name": "Christo",
+          "original_title": "patrono",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
   "footnotes": [
     {
-      "id": 35802,
+      "id": 215,
       "roll_id": 53,
-      "pdf_page": 46,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "ILLUS CulI8ICgauiu CuiIUA incremento virtutum. Cum nos"
-    },
-    {
-      "id": 35806,
-      "roll_id": 53,
-      "pdf_page": 46,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "trorum conscientia deterreamur peccami-"
-    },
-    {
-      "id": 35803,
-      "roll_id": 53,
-      "pdf_page": 46,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "(\") In albacens B corrigez Malliacens; (b) transcripsit corrig\u00e9 en transcripsi par g"
-    },
-    {
-      "id": 35804,
-      "roll_id": 53,
-      "pdf_page": 46,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "ce document, cf. supra; P. 138,"
-    },
-    {
-      "id": 35805,
-      "roll_id": 53,
-      "pdf_page": 46,
-      "pdf_half": "right",
-      "footnote_num": "5",
-      "text": "I"
-    },
-    {
-      "id": 35807,
-      "roll_id": 53,
-      "pdf_page": 46,
-      "pdf_half": "right",
-      "footnote_num": "7",
-      "text": "le propose J Coquet, Comtesse Aumode, p. 162. rattage du t final B."
-    },
-    {
-      "id": 35808,
-      "roll_id": 53,
-      "pdf_page": 46,
-      "pdf_half": "right",
-      "footnote_num": "8",
-      "text": "Op. cit., P. 91,n. 1."
-    },
-    {
-      "id": 35809,
-      "roll_id": 53,
-      "pdf_page": 47,
+      "pdf_page": 39,
       "pdf_half": "left",
-      "footnote_num": "1",
-      "text": "Jac , V,16."
+      "footnote_num": "a",
+      "text": "a \u00e9 ajout\u00e9 au-dessus de l'initiale de inerti B."
     },
     {
-      "id": 35810,
+      "id": 214,
       "roll_id": 53,
-      "pdf_page": 47,
+      "pdf_page": 39,
       "pdf_half": "left",
-      "footnote_num": "2",
-      "text": "Mach.,~ XII, 46 ."
+      "footnote_num": "9",
+      "text": "\u2079 scribite et opem itineris conferre dignimini, quatimus ad nos prospere arcato officio reddare valet. Valete."
+    },
+    {
+      "id": 213,
+      "roll_id": 53,
+      "pdf_page": 39,
+      "pdf_half": "left",
+      "footnote_num": "10",
+      "text": "\u00c9pinal, B. m., 76 (fol. 2r [X^e s.])\u00b9\u2070."
+    },
+    {
+      "id": 216,
+      "roll_id": 53,
+      "pdf_page": 39,
+      "pdf_half": "left",
+      "footnote_num": "10",
+      "text": "\u00b9\u2070 (Cette r\u00e9f\u00e9rence m'a \u00e9t\u00e9 aimablement communiqu\u00e9e par Bernhard Bischoff."
     }
   ]
 }

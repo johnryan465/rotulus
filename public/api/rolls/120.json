@@ -1,0 +1,91 @@
+{
+  "roll": {
+    "id": 120,
+    "roll_num": 117,
+    "date_str": "S.d.[vers 1120]",
+    "title": "Echange de brefs annuels institu\u00e9 entre S. Aubin d'Angers et S. Martin de Marmoutier \u00e0 des dates pr\u00e9cises (respectivement \u00e0 la Translation de s. Martin [4 juillet] et \u00e0 la S. Aubin [1\u00be mars].)",
+    "manuscripts": "A. Original perdu.\nB. Angers, B. M., ms. 831 (747 : n\u00e9crologe de S. Aubin d'Angers \u2071), p. 79. \u2014 C. Angers, B. M., ms. 288 (279 : recueil liturgique compos\u00e9 d'\u00e9l\u00e9ments de diverses \u00e9poques \u2072), fol. 17v.\na. Bertrand de Broussillon, Cartulaire de S. Aubin d'Angers, Angers, t. II, 1903, p. 42, n\u00ba CCC-EXXXXIII, d'apr\u00e9s BC.",
+    "pdf_source": "3",
+    "pdf_pages": "81",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1426,
+      "roll_id": 120,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Au cours du Moyen Age (et sp\u00e9cialement \u00e0 compter du XII\u00b0 s.), les confraternit\u00e9s concluent de leur \u00e9tablissement religieux fait \u00e9t\u00e9 de brevia (ou brevia) et des dispositions \u00e0 prendre lors de leur r\u00e9ception: c'\u00e9st le cas, entre autres, de l'association de pr\u00e9ries conclue entre Roger d'Argences \u2073, abb\u00e9 de la Trinit\u00e9 de F\u00e9camp (d\u00e9cembre 1107-1139) et Renaud \u2074, abb\u00e9 de S. Germain-des-Pr\u00e9s (1105/1108, puis 1110/1116 \u2075). Il est hors de question de dresser la liste de tels documents dans le cadre de cette publication. Plus int\u00e9ressants sont la pr\u00e9sente societas et les deux suivantes (\u2071n\u00ba 118 et 119) qui, inultus int\u00e9grant l'\u00e9change de brefs annuels. Toutes trois, r\u00e9dig\u00e9es d'apr\u00e8s un formulaire semblable, um mutatis mutandis la m\u00eame forme, sp\u00e9cialement pour les extraits donn\u00e9s ici: ces passages communs sont imprim\u00e9s en petit texte.",
+      "pdf_page": 81,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 5989,
+          "titulus_id": 1426,
+          "original_name": "Roger d'Argences",
+          "original_title": "abb\u00e9 de la Trinit\u00e9 de F\u00e9camp",
+          "footnote_num": "3",
+          "footnote_text": "Sur cet abb\u00e9, cf. H. Gourdon de Genouaille, Histoire de l'abbaye de F\u00e9camp et de ses abb\u00e9s, F\u00e9camp, 1873, p. 210-212; P. Zurfluh, \u00ab L'\u00e9raldique des abb\u00e9s de F\u00e9camp \u00bb, dans l'Abbaye benedictine de F\u00e9camp. Ouvrage",
+          "normalized_name": "Roger d'Argences",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "F\u00e9camp"
+        },
+        {
+          "id": 5990,
+          "titulus_id": 1426,
+          "original_name": "Renaud",
+          "original_title": "abb\u00e9 de S. Germain-des-Pr\u00e9s",
+          "footnote_num": "4",
+          "footnote_text": "",
+          "normalized_name": "Renaud",
+          "normalized_role": "abbot",
+          "normalized_dates": "1105/1108, puis 1110/1116",
+          "location_name": "Saint-Germain-des-Pr\u00e9s"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 1640,
+      "roll_id": 120,
+      "pdf_page": 81,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Sur ce ms., cf. J.-L. Lema\u00eatre, R\u00e9pertoire,"
+    },
+    {
+      "id": 1641,
+      "roll_id": 120,
+      "pdf_page": 81,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Sur ce ms., cf. ibid., t. I, p. 373, n\u00ba 676."
+    },
+    {
+      "id": 1642,
+      "roll_id": 120,
+      "pdf_page": 81,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "Sur cet abb\u00e9, cf. H. Gourdon de Genouaille, Histoire de l'abbaye de F\u00e9camp et de ses abb\u00e9s, F\u00e9camp, 1873, p. 210-212; P. Zurfluh, \u00ab L'\u00e9raldique des abb\u00e9s de F\u00e9camp \u00bb, dans l'Abbaye benedictine de F\u00e9camp. Ouvrage"
+    },
+    {
+      "id": 1643,
+      "roll_id": 120,
+      "pdf_page": 81,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": ""
+    },
+    {
+      "id": 1644,
+      "roll_id": 120,
+      "pdf_page": 81,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": ""
+    }
+  ]
+}

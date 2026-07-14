@@ -1,0 +1,119 @@
+{
+  "roll": {
+    "id": 147,
+    "roll_num": 144,
+    "date_str": "[1160, apr\u00e8s le 23 novembre]",
+    "title": "Vers en l'honneur de German, abb\u00e9 de Selby (\u2126 23 novembre 1160).",
+    "manuscripts": "A. Original perdu.\n5 B. Paris, B. N. F., lat. 10940, fol. 41.\na. Ph. Labbe, Nova bibliotheca manuscriptorum, Paris, t. I, 1617, p. 621, d\u2019apr\u00e8s B.",
+    "pdf_source": "4",
+    "pdf_pages": "75",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1828,
+      "roll_id": 147,
+      "title": "",
+      "location_name": "",
+      "latin_text": "D'abord moine de S. Albans, German fuit prior de Tynemouth jusqu'\u2019en 1152, enfin abb\u00e9 de Selby de 1152 jusqu'\u2019au 23 novembre 1160, jour de sa mort (1).\nLa m\u00eame remarque peut \u00eatre faite pour ce po\u00e8me et ceux pr\u00e9c\u00e9demment compos\u00e9s en l'honneur de les abb\u00e9s Hugh and Walter (2) : bien que rien n'indique que ce po\u00e8me ait \u00e9t\u00e9 appos\u00e9 sur un rouleau mortuaire, on peut remarquer que son style est proche de celle des pi\u00e8ces.\nTristis Ade io (a), vicii corrumprit urbis (b)\nQui ruix extio, lapsu, discramine morbis.\nMundus abit, nec habet, quod non abendo moretur,\nQuod tenet, ait quat, nec stat, nec stare meretur\nSic viget, ut pereat, sic est ut desinat esse (c).\nSic stat, ut intereat, subit hoc caro queque necesse\nSic huminum generi constat generale perire.\nSic nostro cineri, cinere commune subire\nOmnia preterent celeri mortalia fine,\nEt subito pereunt misera data sorte ruine.\nHec sors letalis, sors aspera condicionis,\nSors mala plena malis decus aufert religionis.\nOccidit et periiit decus et decor omnis (d) honoris,\nCum piu interit Germanus gemma decoris.",
+      "pdf_page": 75,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7444,
+          "titulus_id": 1828,
+          "original_name": "German",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "German",
+          "normalized_role": "abbot",
+          "normalized_dates": "died 1160",
+          "location_name": "Selby"
+        },
+        {
+          "id": 7445,
+          "titulus_id": 1828,
+          "original_name": "S. Albans",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "St Albans",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7446,
+          "titulus_id": 1828,
+          "original_name": "Tynemouth",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Tynemouth",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7447,
+          "titulus_id": 1828,
+          "original_name": "Hugh",
+          "original_title": "abb\u00e9",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7448,
+          "titulus_id": 1828,
+          "original_name": "Walter",
+          "original_title": "abb\u00e9",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Walter",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 2235,
+      "roll_id": 147,
+      "pdf_page": 75,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "A son sujet, cf. Knowles/Brooke, Heads of religious houses. England and Wales, p. 69, 96."
+    },
+    {
+      "id": 2236,
+      "roll_id": 147,
+      "pdf_page": 75,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "Ed. supra, p. 586, n\u00ba 123 et p. 638, n\u00ba 132."
+    },
+    {
+      "id": 2237,
+      "roll_id": 147,
+      "pdf_page": 75,
+      "pdf_half": "left",
+      "footnote_num": "(a)",
+      "text": "Les deux ou trois derni\u00e8res lettres avant la c\u00e9sure et les deux ou trois derni\u00e8res lettres des deux premiers vers, puis des deux suivants, puis des deux suivants ..., sont \u00e9crites en commun, B.-"
+    },
+    {
+      "id": 2238,
+      "roll_id": 147,
+      "pdf_page": 75,
+      "pdf_half": "left",
+      "footnote_num": "(b)",
+      "text": ""
+    }
+  ]
+}

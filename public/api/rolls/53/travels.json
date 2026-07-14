@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Luxeuil Abbey, France",
+    "coords": [
+      47.8178,
+      6.3117
+    ],
+    "year": null,
+    "date_str": "S. d. [X^e s.]",
+    "is_approximate": false,
+    "description": "Origin: Eus\u00e8que sollicitait de prier pour Arnuis, Arduicus..."
+  }
+]

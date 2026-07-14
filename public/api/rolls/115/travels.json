@@ -1,0 +1,52 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Encyclique",
+    "coords": null,
+    "year": 1112,
+    "date_str": "S. d.-[1112, apr\u00e8s le 21 janvier]",
+    "is_approximate": true,
+    "description": "Origin: Encyclique sollicitant de prier pour Andr\u00e9 de Vall..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Ham",
+    "coords": null,
+    "year": 1112,
+    "date_str": "S. d.-[1112, apr\u00e8s le 21 janvier]",
+    "is_approximate": true,
+    "description": "Gerald (abbot)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "S.d.- Mont-S. \u00c9loi, S. Vindicien.",
+    "coords": null,
+    "year": 1112,
+    "date_str": "S. d.-[1112, apr\u00e8s le 21 janvier]",
+    "is_approximate": true,
+    "description": "Titulus Header: S.d.- Mont-S. \u00c9loi, S. Vindicien."
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Cambrai",
+    "coords": null,
+    "year": 1112,
+    "date_str": "S. d.-[1112, apr\u00e8s le 21 janvier]",
+    "is_approximate": true,
+    "description": "Odon of Cambrai (bishop)"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Tournai",
+    "coords": null,
+    "year": 1112,
+    "date_str": "S. d.-[1112, apr\u00e8s le 21 janvier]",
+    "is_approximate": true,
+    "description": "Saint Martin of Tours (saint)"
+  }
+]

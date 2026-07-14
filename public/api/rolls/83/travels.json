@@ -1,0 +1,42 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Monogramme",
+    "coords": null,
+    "year": 1051,
+    "date_str": "13 ao\u00fbt [1051]",
+    "is_approximate": true,
+    "description": "Origin: (Monogramme (b)) Titulus plissimi Servati confesso..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Trajectum",
+    "coords": null,
+    "year": 1051,
+    "date_str": "13 ao\u00fbt [1051]",
+    "is_approximate": true,
+    "description": "Hugh (king)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Canig\u00f3",
+    "coords": null,
+    "year": 1051,
+    "date_str": "13 ao\u00fbt [1051]",
+    "is_approximate": true,
+    "description": "Canig\u00f3 ()"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Aachen, \u00e9glise ind\u00e9termin\u00e9e",
+    "coords": null,
+    "year": 1051,
+    "date_str": "13 ao\u00fbt [1051]",
+    "is_approximate": true,
+    "description": "Titulus Header: Aachen, \u00e9glise ind\u00e9termin\u00e9e"
+  }
+]

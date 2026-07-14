@@ -1,14 +1,90 @@
 {
   "roll": {
     "id": 44,
-    "roll_num": "81",
-    "date_str": "S.d.",
-    "title": "S.d. [1096, apr\u00e8s _ le 21 janvier] Titres compos\u00e9s par Baudri de Bourgueil pour le rouleau mortuaire de Renaud [ Ier du Bellay ] , archev\u00eaque de Reims. 20 A. Original perdu. B. Vaticano; Reg lat. 1351,fol. 27 et 37v (deux mains diff\u00e9rentes du XII' &) a. A. Duchesne, Historiae Francorum scriptores, Paris, t. IV, 1641, P. 252 et 267, \u20ac ex veteri codice Gallia christiana, t.IX, col. 77, dapr\u00e8s a (\u00e9d. partielle) . =C. PL, ms. Alexandri Petavii 6 CLXVI, col. 1183 et 1197. d. P. Abrahams, Les \u00e6uvres po\u00e9tiques de Baudri de Bourgueil t.. le ms. du Vatican.. Paris, 1926, P. 59, n' LII et P. 253 ( 1046-1130 ). \u00c9dition critique publi\u00e9e lbepr \u00e8Baldnisus Bwguciamnus . Carmina; Heidelberg 1979 % 105, n CXXXIII, dapr\u00e8s B. =e. K.Hilbert, B.-f J-Y. Tilliette; Baudri de Bourgueil. Po\u00e8mes; Pariss t. L, 1998, 46,n' 17 et p 73, n? 71, dapr\u00e8s P. 40, n? 17 et p. 66, n9 71. sonne et le r\u00f4le de Lanfranc,  cf. notamment (1) Canterbury; P. 110. [abbaye de Saint-\u00c9tienne   de (2) Historia ecclesiastica, \u00e9d. M. Chibnall, C.  Hippeau, Caen 1066-1790 ) , Caen, 1855, P. 17 M. Cib: Oxford, t. II, 1969, p. 146. Bec, Oxford, 1978 V. \u20ac\u00e0 () Il est difficile davancer que ce rouleau son, Lanfranc of Abb\u00e9s   b\u00e9nedictins, P 33-35 ; I E 1 mortuaire a servi \u00e0 [auteur anonyme . dun autre zeau, Cowdrey; Lanfranc, scholar; monk, archbishons portrait de Lanfranc (London; British Library, Claudius C. VI, fol. 173). Sur la per- Oxford , 2003. Cotton,",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "37,38",
+    "roll_num": 49,
+    "date_str": "3 7 juillet",
+    "title": "Rouleau mortuaire (fragmentaire) anonyme, probablement de S. Martial de Limoges.",
+    "manuscripts": "A. Paris, B. N. F., lat. 528 (1), fol. 1 et 182 (2). Parchemin (c. grise\u00e2tre ; c. p. jaun\u00e2tre). Deux fragments (rongn\u00e9s), l'un anopisthographe (I), l'autre (II) opisthographe, de une longueur totale de 37 cm et d'une largeur de 12 cm :\n- I : fol. 1 : Longueur, 18,5 cm ; largeur, 12 cm ;\n- II : fol. 181 : Longueur, 18,5 cm ; largeur, 12 cm ;",
+    "pdf_source": "1",
+    "pdf_pages": "30",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": []
+  "tituli": [
+    {
+      "id": 78,
+      "roll_id": 44,
+      "title": "",
+      "location_name": "Auxerre, cath\u00e9drale (S. \u00c9tienne)",
+      "latin_text": "Nonas julii hujus portitor rotulae attigit limina Sancti Stephani Autissioderensis, cui praest <...>",
+      "pdf_page": 30,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 235,
+          "titulus_id": 78,
+          "original_name": "Gozbertus",
+          "original_title": "decanie",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gozbert",
+          "normalized_role": "dean",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 236,
+          "titulus_id": 78,
+          "original_name": "Sancti Stephani Autissioderensis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint \u00c9tienne d'Auxerre",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Auxerre"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "roll_id": 44,
+      "title": "",
+      "location_name": "",
+      "latin_text": "cum duem Burgundie tenere regulam abbatis, posse (sic) <...> cognomine <...> cui preest prelature, Gozbertus decanie, ceteri pro qualitate morum coni[ssum] exofficium ettent. Ceterum vestram exposimus magnificentiam ut nostrorum defunctorum, corum nomina in celesti libro continentur scripta, habeatis memoriam. Valete. Amen.",
+      "pdf_page": 30,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 237,
+          "titulus_id": 79,
+          "original_name": "Gozbertus",
+          "original_title": "decanie",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gozbert",
+          "normalized_role": "dean",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 180,
+      "roll_id": 44,
+      "pdf_page": 30,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "(1) A son sujet, cf. E. D\u00fcmmel, \"Die handschriftliche Ueberlieferung der lateinischen Dichtungen aus der Zeit der Karolinger\", in Neues Archiv, t. IV, 1879, p. 104-106; B. N. Catalogue g\u00e9n\u00e9ral des manuscrits latins, Paris, t. I, 1989, p. 184."
+    },
+    {
+      "id": 181,
+      "roll_id": 44,
+      "pdf_page": 30,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "(2) Cette r\u00e9f\u00e9rence, \u00e9mise par L. Delisle (Rouleaux des morts du IXe au XVe s.), m'a \u00e9t\u00e9 signal\u00e9e par M. Jean-Loup Lemaitre."
+    }
+  ]
 }

@@ -1,0 +1,50 @@
+{
+  "roll": {
+    "id": 121,
+    "roll_num": 118,
+    "date_str": "S.d. [vers 1120]",
+    "title": "Echange de brefs annuels institu\u00e9 entre S. Aubin d\u2019Angers et N.-D. de D\u00e9ols \u00e0 des dates pr\u00e9cises (respectivement \u00e0 la Chandeleur [2 f\u00e9vrier] et \u00e0 la Nativit\u00e9 de la Vierge [8 septembre]).",
+    "manuscripts": "A. Original perdu.\nB. Angers, B. M., ms. 831 (747 : n\u00e9crologe de S. Aubin d'Angers), p. 55.\na. Bertrand de Broussillon, Cartulaire de S. Aubin d'Angers, Angers, t. II, 1903, p. 42, n\u00b0 CCCXXIV, d'apr\u00e8s B.",
+    "pdf_source": "3",
+    "pdf_pages": "81",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1427,
+      "roll_id": 121,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Hec est amice confederationis societas inter nos et ecclesiam Beate Marie Dolensis. Omnium 10 fratrum suorum infra anni orbitam defunctorum in Natativitate beate Marie nobis brevem transmittent... Similiter illi de nobis et in Purificationem beat\u00e6 Marie breve nostrum eis transmittemus ...",
+      "pdf_page": 81,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 5991,
+          "titulus_id": 1427,
+          "original_name": "Beate Marie",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Virgin Mary",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5992,
+          "titulus_id": 1427,
+          "original_name": "Dolensis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "D\u00e9ols",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "D\u00e9ols"
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,144 @@
+{
+  "roll": {
+    "id": 131,
+    "roll_num": 128,
+    "date_str": "S. d. [vers 1133]",
+    "title": "Rouleau mortuaire de Herv\u00e9, abb\u00e9 [de Redon].",
+    "manuscripts": "A. Original perdu.",
+    "pdf_source": "4",
+    "pdf_pages": "51",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1716,
+      "roll_id": 131,
+      "title": "10 B. Vaticano, Vat. lat. 1059, fol. 73v (XXII s.).",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 51,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1717,
+      "roll_id": 131,
+      "title": "",
+      "location_name": "",
+      "latin_text": "dit avoir l\u2019\u00e9crit de G\u00e9rard un rouleau mortuaire mis en circulation apr\u00e8s la mort de l\u2019abb\u00e9 Herv\u00e9 de Redon. \u00c9crit d\u2019un int\u00e9r\u00eat consid\u00e9rable, aussit\u00f4t-il, en raison de poids des arguments et aussi \u00e0 cause de sa subtilit\u00e9 et de sa vigueur. Malheureusement les moines de Chuny (ayant eu cette circulaire, le d\u00e9tachement du rouleau et l'envoy\u00e8rent \u00e0 Innocent II et Reimbald de ceindre cette... intol\u00e9rance ...).\nL\u2019encyclique est introduite ainsi :\n\u00ab In scismate, quo sub Anacleto et Innocento non modo universali, sed universa laborat et mutat\u00e6 Ecclesia, ut mos est Francigenis, a superioribus illis partibus Leodi\u00e6 allatus est, quo significatve de recenti abbatis apudjam exordii obitu Ere $\text{v}$ et orationibus, quae petebant, qu\u00e6que interrat, pro ei fieret, Nostri Leodienses, quibus quod sibi velaberet, adruptorum ad rotulum. Ego 10 vero Reimbaldum, perfecto persecuto terrore illos, fumem illum ut, aiutant, vors non incognus, sed et necessariis propriis non restitis, sed p\u00e8s adimodum ad hs creaturis ammonitiurus \u00bb.",
+      "pdf_page": 51,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7171,
+          "titulus_id": 1717,
+          "original_name": "G\u00e9rard",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gerard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7172,
+          "titulus_id": 1717,
+          "original_name": "Herv\u00e9 de Redon",
+          "original_title": "abb\u00e9",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Herve of Redon",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Redon"
+        },
+        {
+          "id": 7173,
+          "titulus_id": 1717,
+          "original_name": "moines de Chuny",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "monks of Chuny",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": "Chuny"
+        },
+        {
+          "id": 7174,
+          "titulus_id": 1717,
+          "original_name": "Innocent II",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Innocent II",
+          "normalized_role": "pope",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7175,
+          "titulus_id": 1717,
+          "original_name": "Reimbald",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Reimbold",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7176,
+          "titulus_id": 1717,
+          "original_name": "Anacleto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Anacletus",
+          "normalized_role": "antipope",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7177,
+          "titulus_id": 1717,
+          "original_name": "Innocento",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Innocent",
+          "normalized_role": "pope",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7178,
+          "titulus_id": 1717,
+          "original_name": "Leodi\u00e6",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Li\u00e8ge",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Liege"
+        },
+        {
+          "id": 7179,
+          "titulus_id": 1717,
+          "original_name": "Reimbaldum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Reimbold",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

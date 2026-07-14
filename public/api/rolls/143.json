@@ -1,0 +1,1213 @@
+{
+  "roll": {
+    "id": 143,
+    "roll_num": 140,
+    "date_str": "[1155]",
+    "title": "Texte \u00e9tabli d\u2019apr\u00e8s A et B.",
+    "manuscripts": "A et B.",
+    "pdf_source": "4",
+    "pdf_pages": "66,67,68,69",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1770,
+      "roll_id": 143,
+      "title": "1 S.d.-S. Gilles.",
+      "location_name": "S. Gilles",
+      "latin_text": "T. (a) monasterii sancti Egidii abbatis. Anima domni Roberti abbatis et a. o. f. d. r. i. p. Amen. Oravimus p. v.,orate p. n.\nO bone Rotberte, non jurabas nisi certe.\nCerte jurabas et crede midhi, sacer abbas,\nAbbas Rotbertus vir, quamdiu vivxit, honestus;\nEgidii precipibus fugiet mala damnus reatus.",
+      "pdf_page": 66,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7293,
+          "titulus_id": 1770,
+          "original_name": "Roberti",
+          "original_title": "domni ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "S. Gilles"
+        },
+        {
+          "id": 7294,
+          "titulus_id": 1770,
+          "original_name": "Rotberte",
+          "original_title": "bone",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7295,
+          "titulus_id": 1770,
+          "original_name": "Rotbertus",
+          "original_title": "Abbas",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1771,
+      "roll_id": 143,
+      "title": "2 S.d.-Psalmody, S. Pierre.",
+      "location_name": "S. Pierre",
+      "latin_text": "T. Sancti Petri Psalmodiensis. Anima domni Roberti abbatis et a. o. f. d. r. i. p.",
+      "pdf_page": 66,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7296,
+          "titulus_id": 1771,
+          "original_name": "Roberti",
+          "original_title": "domni ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1772,
+      "roll_id": 143,
+      "title": "3 S.d.-Maguelone, cath\u00e9drale (S. Pierre).",
+      "location_name": "Maguelone",
+      "latin_text": "T. Sancti Petri Magalonensis. Anima domni Roberti abbatis et a. o. f. d. r. i. p. Amen. Oravimus p. v. et vosorate p. n.",
+      "pdf_page": 66,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7297,
+          "titulus_id": 1772,
+          "original_name": "Roberti",
+          "original_title": "domni ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1773,
+      "roll_id": 143,
+      "title": "4 S.d [1155], d\u00e9but. \u2013 S.l. [Aniane].",
+      "location_name": "Aniane",
+      "latin_text": "T. [Anianensis monasterii]. <......> [anime omnium fidelium defunctorum requiescant] i. p. Amen. Oravimus p. v.,orate pro nostri pro domino Guillelmo (1) abbate, hoc anno VIII kal. januarii Romae defuncto, cujus vos memores esse suppliciter deprecarum.",
+      "pdf_page": 66,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7298,
+          "titulus_id": 1773,
+          "original_name": "Guillelmo",
+          "original_title": "domino ... abbate",
+          "footnote_num": "1",
+          "footnote_text": "\u00ab Le nom de cet abb\u00e9 n'a pas de t\u00e9moin \u00e0 proprement parler \u00e0 l\u2019\u00e9tablissement appartient la presse titre. Il ne peut s\u2019agir ici que de Guillaume, abb\u00e9 d\u2019Aniane, qui est tomb\u00e9 une ann\u00e9e d\u2019Adrien IV le 12 d\u00e9cembre 1154 [\u00e9d. H. G. L., t. V, preuves, col. 1155 ; cf. Jaff\u00e9, n\u00ba 9944] et dont le successeur Pierre \u00e9tait d\u00e9j\u00e0 en fonction au cours de l\u2019ann\u00e9e 1155 (cf. Gallia christiana, t. VI, col. 840). On",
+          "normalized_name": "Guillaume",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1774,
+      "roll_id": 143,
+      "title": "5 S.d.-S. Guillhem[de-D\u00e9sert].",
+      "location_name": "S. Guillhem de D\u00e9sert",
+      "latin_text": "T. Sancti WILLELMI. Anima domni Roberti abbatis et a. o. f. d. r. i. p. Amen. Oravimus p. v.,orate p. n. et pro domino Ugone (2) abbate.\nVersus magistri A'. Silvinotensis.\nVe tibi, qui sequeris mundum! Nam quod tibi quaeris\nOmnibus incertum fucit hinge, fugit inde reputem.\nVe clui floresci qui per se mundus arescit!",
+      "pdf_page": 66,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7299,
+          "titulus_id": 1774,
+          "original_name": "",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7300,
+          "titulus_id": 1774,
+          "original_name": "Roberti",
+          "original_title": "domni ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7301,
+          "titulus_id": 1774,
+          "original_name": "Ugone",
+          "original_title": "domino ... abbate",
+          "footnote_num": "2",
+          "footnote_text": "sans doute Hugo II, abb\u00e9 de S. Guillhem-le-D\u00e9sert, connu par une charte de 1046: cf. P. Tisset, L\u2019abbaye de Gellone au XIIe s., Paris, 1933, p. 105.",
+          "normalized_name": "Hugues",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1775,
+      "roll_id": 143,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Ve ! Ve cui mundus placet, ad nihilum redeundus !\nVe cui plus pena, cui plus nox atque cathena\nQuam requies, quam meridies, quam summa libertas !\nVe cui plus luctus mortisque per aspera ductus\nQuam congaudere, quam dulce solamen habere !\n\nQuod attendens beatus ROTBERTUS versificando inquit versificando (a) :\nPositus sum ex exilio,\nPro meo peccato,\nRedeam ad patriam,\nSed per regionem aliam.\n<.................................>\n\nPisus (b) gaudete, seva p-<...> m-<...>ti\nPlaudant anguillae, letetur et hostrea mille.\nNam cessit vere nec scivit morire [carere]\nMilia qui mille de vestris perdidit.\n\nResponsio.\nUnus si monachus morirut, quicumque <......>\nNon ido per est nobis ? Nam mille supersunt,\nArtifices glauae, qui retia tendere norunt.\nErgo, crede michi, duo vel tres cum moriuntur,\nUnus post alium moriendo veniret ad i-<......>.\n\nVersus Renaudi, cum venturunt (c).\nNon causa abbattis hos me cogit versus faciendi.\nSed rotuligerolac (d) qui rotulum vult replendi.\nNam fessus diuturno est michi multum itinere,\nEt cupit praeterea laudem am monachis habere.",
+      "pdf_page": 67,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7302,
+          "titulus_id": 1775,
+          "original_name": "ROTBERTUS",
+          "original_title": "",
+          "footnote_num": "a",
+          "footnote_text": "princ\u00edpium adversae paginae \u00bb B.",
+          "normalized_name": "Robert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7303,
+          "titulus_id": 1775,
+          "original_name": "Renaudi",
+          "original_title": "",
+          "footnote_num": "c",
+          "footnote_text": "- (c) \u00ab l\u2019expression cum venturunt signifie p. 368, n. 1).",
+          "normalized_name": "Renaud",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1776,
+      "roll_id": 143,
+      "title": "6 S.d.-Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "ind\u00e9termin\u00e9e",
+      "latin_text": "[Turpis (a) amor quam castor [quivis] amatur.\nNon sua dant, aliena vorant raptoque [fruunt ;\nPercim prium sibi supplicium mercantur ementes.\nEu(b) [Putei seu Tartarei mercantur hiatum.\nHas miseras has mortiferas hic tergere sordes,\nNe fetor tibi perpetuus veniat, spaciosa vorago !]",
+      "pdf_page": 67,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1777,
+      "roll_id": 143,
+      "title": "7 S.d.- Lod\u00e8ve, cath\u00e9drale (S. Geniez).",
+      "location_name": "Lod\u00e8ve",
+      "latin_text": "T. SANCTI GENESII SEDIS LODOVENSIS. Anima domni Roberti abbatis et o. f. d., in Christi nomine, semper r. i. p. Oravimus p. v., orate p. n. et p. Petro Duranti, precentore nostro.",
+      "pdf_page": 67,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7304,
+          "titulus_id": 1777,
+          "original_name": "Roberti",
+          "original_title": "domni ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7305,
+          "titulus_id": 1777,
+          "original_name": "Petro Duranti",
+          "original_title": "precentore nostrum",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pierre Durant",
+          "normalized_role": "precentor",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1778,
+      "roll_id": 143,
+      "title": "8 S.d.- Lod\u00e8ve, S. Sauveur.",
+      "location_name": "Lod\u00e8ve",
+      "latin_text": "T. SANCTI SALVATORIS MONASTERII LODOVE. Anima domni Roberti abbatis et a. o. f. d., in Christi nomime, semper r. i. p. Amen. Oravimus p. v.,orate p. n., domno Augerio (1) abbate et Berengario (2) abbate, Ugonis prior (sic), Rostagno monacho, Guillemo monacho, Petro (6) monacho, Guillemus et Petrus laicus, Ugo, Audina, Guisla (sic).",
+      "pdf_page": 67,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7306,
+          "titulus_id": 1778,
+          "original_name": "Roberti",
+          "original_title": "domni ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7307,
+          "titulus_id": 1778,
+          "original_name": "Augerio",
+          "original_title": "domno ... abbate",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Aur\u00e8le",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7308,
+          "titulus_id": 1778,
+          "original_name": "Berengario",
+          "original_title": "abbate",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "B\u00e9renger",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7309,
+          "titulus_id": 1778,
+          "original_name": "Ugonis",
+          "original_title": "prior",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugues",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7310,
+          "titulus_id": 1778,
+          "original_name": "Rostagno",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rostan",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7311,
+          "titulus_id": 1778,
+          "original_name": "Guillemo",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillaume",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7312,
+          "titulus_id": 1778,
+          "original_name": "Petro",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pierre",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7313,
+          "titulus_id": 1778,
+          "original_name": "Guillemus",
+          "original_title": "laicus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillaume",
+          "normalized_role": "layman",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7314,
+          "titulus_id": 1778,
+          "original_name": "Petrus",
+          "original_title": "laicus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pierre",
+          "normalized_role": "layman",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7315,
+          "titulus_id": 1778,
+          "original_name": "Ugo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugues",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7316,
+          "titulus_id": 1778,
+          "original_name": "Audina",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Audine",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7317,
+          "titulus_id": 1778,
+          "original_name": "Guisla",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gis\u00e8le",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1779,
+      "roll_id": 143,
+      "title": "9 S.d.- Joncels, S. Pierre.",
+      "location_name": "Joncels",
+      "latin_text": "T. (d) SANCTI PETRI JUNCELLIS MONASTERII. Anima domni Roberti abbatis et a. o. f. d., pro Berengerio (9) et pro Guillelmo (4), pro Berengario (5) abbatibus et pro Bernardo monacho et pro Geraldo monacho et pro Petro monacho et aliis omnibus.",
+      "pdf_page": 67,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7318,
+          "titulus_id": 1779,
+          "original_name": "Roberti",
+          "original_title": "domni ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7319,
+          "titulus_id": 1779,
+          "original_name": "Berengerio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "B\u00e9renger",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7320,
+          "titulus_id": 1779,
+          "original_name": "Guillelmo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillaume",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7321,
+          "titulus_id": 1779,
+          "original_name": "Berengario",
+          "original_title": "abbate",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "B\u00e9renger",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7322,
+          "titulus_id": 1779,
+          "original_name": "Bernardo",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7323,
+          "titulus_id": 1779,
+          "original_name": "Geraldo",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "G\u00e9rald",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7324,
+          "titulus_id": 1779,
+          "original_name": "Petro",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pierre",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1780,
+      "roll_id": 143,
+      "title": "",
+      "location_name": "",
+      "latin_text": "[Plu]ra studeremus componere si saperemus (a)\n[II. c. p.] [Si] per dictamen potuisset habere levamen.\n[Ju]s forex atque bonum tantum deflere patronum,\n[Si] per ploratus evaderet ipse reatus.\n[Ore]mus Christum, qui mundum continet istum,\n[Ut] dignet er praebere locum requiei.\n[Tot]am (b) si vellem possen conscribere pellem.",
+      "pdf_page": 68,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1781,
+      "roll_id": 143,
+      "title": "",
+      "location_name": "",
+      "latin_text": "domno Hugone (1), Morardo (2), Isembardo (3), Hugone (4), abbatiatus: Rotherto, Guiberto, Stephano, Willermo, Laurentio, Algario, Rogerio, Simone, Froneris, Johanne, Goschone, Theobauto, et pro aliis familiaribus fratris nostri, quorum animae requiescant in pace. Amen.",
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7325,
+          "titulus_id": 1781,
+          "original_name": "Hugone",
+          "original_title": "domno",
+          "footnote_num": "1",
+          "footnote_text": "\u00ab Le nom de cet abb\u00e9 n'a pas de t\u00e9moin \u00e0 proprement parler \u00e0 l\u2019\u00e9tablissement appartient la presse titre. Il ne peut s\u2019agir ici que de Guillaume, abb\u00e9 d\u2019Aniane, qui est tomb\u00e9 une ann\u00e9e d\u2019Adrien IV le 12 d\u00e9cembre 1154 [\u00e9d. H. G. L., t. V, preuves, col. 1155 ; cf. Jaff\u00e9, n\u00ba 9944] et dont le successeur Pierre \u00e9tait d\u00e9j\u00e0 en fonction au cours de l\u2019ann\u00e9e 1155 (cf. Gallia christiana, t. VI, col. 840). On",
+          "normalized_name": "Hugh",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7326,
+          "titulus_id": 1781,
+          "original_name": "Morardo",
+          "original_title": "",
+          "footnote_num": "2",
+          "footnote_text": "sans doute Hugo II, abb\u00e9 de S. Guillhem-le-D\u00e9sert, connu par une charte de 1046: cf. P. Tisset, L\u2019abbaye de Gellone au XIIe s., Paris, 1933, p. 105.",
+          "normalized_name": "Marmont",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7327,
+          "titulus_id": 1781,
+          "original_name": "Isembardo",
+          "original_title": "",
+          "footnote_num": "3",
+          "footnote_text": "Sur ce personnage, cf. supra, p. 474, n. 5.",
+          "normalized_name": "Isambard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7328,
+          "titulus_id": 1781,
+          "original_name": "Hugone",
+          "original_title": "",
+          "footnote_num": "4",
+          "footnote_text": "Hugo IV, abb\u00e9 de S. Germain-des-Pr\u00eats de 1148 \u00e0 1152; cf. R. Poupain, Recueil des chartes de l'abbaye de Saint-Germain-des-Pr\u00eats des origines au d\u00e9but du XIII\u00b0, Paris, t. I, 1909, p. 168, n. 1.",
+          "normalized_name": "Hugh",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1782,
+      "roll_id": 143,
+      "title": "13 S.d.- Paris, S. Pierre, S. Paul, S. Genevi\u00e8ve.",
+      "location_name": "Paris, S. Pierre, S. Paul, S. Genevi\u00e8ve",
+      "latin_text": "T. BEATORUM APOSTOLORUM PETRI et PAULI et sancte virginis Genevieve de Monte Parisius. Anima Roberti abbatis et anime o. f. d. per m. D, in Christi nomine, requiescant. AMEN. Oravimus p. v. et orate p. n.",
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7329,
+          "titulus_id": 1782,
+          "original_name": "PETRI",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "Apostle",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7330,
+          "titulus_id": 1782,
+          "original_name": "PAULI",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Paul",
+          "normalized_role": "Apostle",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7331,
+          "titulus_id": 1782,
+          "original_name": "Roberti",
+          "original_title": "abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1783,
+      "roll_id": 143,
+      "title": "14 S.d.- Paris, S. Victor.",
+      "location_name": "Paris, S. Victor",
+      "latin_text": "[Titulus Sancti Victoris Parisiensis. Anima domni Roberti abbatis et a. o. f. 10 defunctorum (sic) r. i. p. Amen.",
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7332,
+          "titulus_id": 1783,
+          "original_name": "Roberti",
+          "original_title": "abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1784,
+      "roll_id": 143,
+      "title": "15 S.d.- Paris, S. Magloire.",
+      "location_name": "Paris, S. Magloire",
+      "latin_text": "T. SANCTI MAGLORII Parisiensis. Anima domri Roberti abbatis et anime o. f. per m. D, in Christi nomine. Oravimus [pro] v, orate p. n.",
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7333,
+          "titulus_id": 1784,
+          "original_name": "MAGLORII",
+          "original_title": "Sancti",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Magloire",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": "Paris"
+        },
+        {
+          "id": 7334,
+          "titulus_id": 1784,
+          "original_name": "Roberti",
+          "original_title": "abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1785,
+      "roll_id": 143,
+      "title": "16 S.d.[apr\u00e8s 18 novembre 1154]. - [Paris], Montmartre, S. Denis.",
+      "location_name": "Paris, Montmartre, S. Denis",
+      "latin_text": "T. Sancti Dionisii Montis Martirium sanctimonialium. Anima domri abbatis et a. o. f. defunctorum (sic) requiescant (a) i. p. Amen. Oravimus p. v, orate p. nostris nobis abbatis et pro Ludovico (5) rege, fundatore ecclesiar not, et pro Adelaide (6), uxore ejus, et pro Philippo (7), eorum filo, et pro omnibus benefactoribus vivi et defuncti.",
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7335,
+          "titulus_id": 1785,
+          "original_name": "Dionisii",
+          "original_title": "Sancti",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Denis",
+          "normalized_role": "Saint/Martyr",
+          "normalized_dates": "",
+          "location_name": "Montmartre"
+        },
+        {
+          "id": 7336,
+          "titulus_id": 1785,
+          "original_name": "Ludovico",
+          "original_title": "rege",
+          "footnote_num": "5",
+          "footnote_text": "Louis VI, roi de France, mort le 1\u00be ao\u00fbt 1137.",
+          "normalized_name": "Louis",
+          "normalized_role": "king",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7337,
+          "titulus_id": 1785,
+          "original_name": "Adelaide",
+          "original_title": "uxore ejus",
+          "footnote_num": "6",
+          "footnote_text": "Ad\u00e9la\u00fde de Maurienne, morte en 1154, est",
+          "normalized_name": "Adelaide",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7338,
+          "titulus_id": 1785,
+          "original_name": "Philippo",
+          "original_title": "eorum filo",
+          "footnote_num": "7",
+          "footnote_text": "Philippe, fils a\u00edn\u00e9 de Louis VI et d'\u00c0laide de Maurienne, mort le 13 octobre 1331.",
+          "normalized_name": "Philip",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1786,
+      "roll_id": 143,
+      "title": "17 S.d.-S. Denis.",
+      "location_name": "S. Denis",
+      "latin_text": "T. (a) Sanctio Dionysii Ariopagite. Anima domni Roberti abbatis et anim\u00e6 f. [defu]nectorum per m. D., in Christi nomine r. i. p. Oravimus p. v., orate vs p. n. qui ex [seculo] transierunt, Dagoberto (1), Karolo (2), Ludovico (3), Roberto (4), regi-5 bus; Hildewino (5) , Furrado (6), Adam (7), Sugerio (8) [et] omnibus fratribus n.",
+      "pdf_page": 69,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7339,
+          "titulus_id": 1786,
+          "original_name": "Sanctio Dionysii Ariopagite",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Dionysius the Areopagite",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7340,
+          "titulus_id": 1786,
+          "original_name": "Roberti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7341,
+          "titulus_id": 1786,
+          "original_name": "Dagoberto",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "\u00ab Le nom de cet abb\u00e9 n'a pas de t\u00e9moin \u00e0 proprement parler \u00e0 l\u2019\u00e9tablissement appartient la presse titre. Il ne peut s\u2019agir ici que de Guillaume, abb\u00e9 d\u2019Aniane, qui est tomb\u00e9 une ann\u00e9e d\u2019Adrien IV le 12 d\u00e9cembre 1154 [\u00e9d. H. G. L., t. V, preuves, col. 1155 ; cf. Jaff\u00e9, n\u00ba 9944] et dont le successeur Pierre \u00e9tait d\u00e9j\u00e0 en fonction au cours de l\u2019ann\u00e9e 1155 (cf. Gallia christiana, t. VI, col. 840). On",
+          "normalized_name": "Dagobert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7342,
+          "titulus_id": 1786,
+          "original_name": "Karolo",
+          "original_title": "",
+          "footnote_num": "2",
+          "footnote_text": "sans doute Hugo II, abb\u00e9 de S. Guillhem-le-D\u00e9sert, connu par une charte de 1046: cf. P. Tisset, L\u2019abbaye de Gellone au XIIe s., Paris, 1933, p. 105.",
+          "normalized_name": "Charles",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7343,
+          "titulus_id": 1786,
+          "original_name": "Ludovico",
+          "original_title": "",
+          "footnote_num": "3",
+          "footnote_text": "Sur ce personnage, cf. supra, p. 474, n. 5.",
+          "normalized_name": "Louis",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7344,
+          "titulus_id": 1786,
+          "original_name": "Roberto",
+          "original_title": "",
+          "footnote_num": "4",
+          "footnote_text": "Hugo IV, abb\u00e9 de S. Germain-des-Pr\u00eats de 1148 \u00e0 1152; cf. R. Poupain, Recueil des chartes de l'abbaye de Saint-Germain-des-Pr\u00eats des origines au d\u00e9but du XIII\u00b0, Paris, t. I, 1909, p. 168, n. 1.",
+          "normalized_name": "Robert",
+          "normalized_role": "king",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7345,
+          "titulus_id": 1786,
+          "original_name": "Hildewino",
+          "original_title": "",
+          "footnote_num": "5",
+          "footnote_text": "Louis VI, roi de France, mort le 1\u00be ao\u00fbt 1137.",
+          "normalized_name": "Hildewin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7346,
+          "titulus_id": 1786,
+          "original_name": "Furrado",
+          "original_title": "",
+          "footnote_num": "6",
+          "footnote_text": "Ad\u00e9la\u00fde de Maurienne, morte en 1154, est",
+          "normalized_name": "Furaud",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7347,
+          "titulus_id": 1786,
+          "original_name": "Adam",
+          "original_title": "",
+          "footnote_num": "7",
+          "footnote_text": "Philippe, fils a\u00edn\u00e9 de Louis VI et d'\u00c0laide de Maurienne, mort le 13 octobre 1331.",
+          "normalized_name": "Adam",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7348,
+          "titulus_id": 1786,
+          "original_name": "Sugerio",
+          "original_title": "",
+          "footnote_num": "8",
+          "footnote_text": null,
+          "normalized_name": "Suger",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1787,
+      "roll_id": 143,
+      "title": "[I, c. p.] 18 S.d.- Deuil[la-Barre], S. Eug\u00e8ne.",
+      "location_name": "S. Eug\u00e8ne",
+      "latin_text": "T. Sancti Eugenii diogilo. Anima domni Roberti abbatis et a. o. f. d., per m. D., in Christi nomine r. i. p. Oramus p. vestris (b), orate p. n.",
+      "pdf_page": 69,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7349,
+          "titulus_id": 1787,
+          "original_name": "Eugenii",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Eugenius",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7350,
+          "titulus_id": 1787,
+          "original_name": "Roberti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1788,
+      "roll_id": 143,
+      "title": "10 T. Wallis(sic) Sancte Marie. Anima domni Roberti abbatis et a. o. f. d. r. i. p. Amen. Oravimus p. v., orate p. n.",
+      "location_name": "Wallis",
+      "latin_text": "T. Wallis(sic) Sancte Marie. Anima domni Roberti abbatis et a. o. f. d. r. i. p. Amen. Oravimus p. v., orate p. n.",
+      "pdf_page": 69,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7351,
+          "titulus_id": 1788,
+          "original_name": "Roberti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1789,
+      "roll_id": 143,
+      "title": "19 S.d.-Le Val-N.-D.",
+      "location_name": "Le Val-N.-D.",
+      "latin_text": "",
+      "pdf_page": 69,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1790,
+      "roll_id": 143,
+      "title": "20 S.d.-Coulombs, N.-D.",
+      "location_name": "Coulombs",
+      "latin_text": "T. Sancte Marie Columbis. Anima domni Roberti abbatis et a. o. f. d. r. i. p. Amen. Oramus p. [vestris, orate pro nostris](c).",
+      "pdf_page": 69,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7352,
+          "titulus_id": 1790,
+          "original_name": "Marie Columbis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary Columba",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7353,
+          "titulus_id": 1790,
+          "original_name": "Roberti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1791,
+      "roll_id": 143,
+      "title": "15.[B] 21 S.d.- Josaphat.",
+      "location_name": "Josaphat",
+      "latin_text": "T. Sanctae Mariae JOSAPHAT. Anima domni Roberti abbatis et a. o. f. d. r. i. p. Oravimus p. v., orate p. n.",
+      "pdf_page": 69,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7354,
+          "titulus_id": 1791,
+          "original_name": "Mariae JOSAPHAT",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary of Josaphat",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7355,
+          "titulus_id": 1791,
+          "original_name": "Roberti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1792,
+      "roll_id": 143,
+      "title": "22 S.d.- [Chartres], S. Jean[-en-Vall\u00e9e].",
+      "location_name": "[Chartres]",
+      "latin_text": "T. Sancti Joh[annis Carnotensis]. Anima domni Roberti abbatis et a. o. f. d. r. i. 20 p. Oravimus p. v., orate p. n.",
+      "pdf_page": 69,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7356,
+          "titulus_id": 1792,
+          "original_name": "Joh[annis Carnotensis]",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "John of Chartres",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Chartres"
+        }
+      ]
+    },
+    {
+      "id": 1793,
+      "roll_id": 143,
+      "title": "23 S.d.- Chartres, S. P\u00e8re[-en-Vall\u00e9e].",
+      "location_name": "Chartres",
+      "latin_text": "T. Sancti PETRI CARNOTENSIS. Anima domni Roberti abbatis et a. o. f. d. r. i. p. Oravimus p. v., orate p. n.",
+      "pdf_page": 69,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7357,
+          "titulus_id": 1793,
+          "original_name": "PETRI CARNOTENSIS",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter of Chartres",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Chartres"
+        },
+        {
+          "id": 7358,
+          "titulus_id": 1793,
+          "original_name": "Roberti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 2201,
+      "roll_id": 143,
+      "pdf_page": 66,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "princ\u00edpium adversae paginae \u00bb B."
+    },
+    {
+      "id": 2202,
+      "roll_id": 143,
+      "pdf_page": 66,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "\u00ab Le nom de cet abb\u00e9 n'a pas de t\u00e9moin \u00e0 proprement parler \u00e0 l\u2019\u00e9tablissement appartient la presse titre. Il ne peut s\u2019agir ici que de Guillaume, abb\u00e9 d\u2019Aniane, qui est tomb\u00e9 une ann\u00e9e d\u2019Adrien IV le 12 d\u00e9cembre 1154 [\u00e9d. H. G. L., t. V, preuves, col. 1155 ; cf. Jaff\u00e9, n\u00ba 9944] et dont le successeur Pierre \u00e9tait d\u00e9j\u00e0 en fonction au cours de l\u2019ann\u00e9e 1155 (cf. Gallia christiana, t. VI, col. 840). On"
+    },
+    {
+      "id": 2203,
+      "roll_id": 143,
+      "pdf_page": 66,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "sans doute Hugo II, abb\u00e9 de S. Guillhem-le-D\u00e9sert, connu par une charte de 1046: cf. P. Tisset, L\u2019abbaye de Gellone au XIIe s., Paris, 1933, p. 105."
+    },
+    {
+      "id": 2204,
+      "roll_id": 143,
+      "pdf_page": 67,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "(a) \u00ab il faut peut-\u00eatre supprimer ce mot \u00bb (a. p. 367, n. 1)."
+    },
+    {
+      "id": 2205,
+      "roll_id": 143,
+      "pdf_page": 67,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "- (b) \u00ab En B, les pi\u00e8ces [suivantes] sont ray\u00e9es de deux traits de plume. Il est possible que celles y aient \u00e9t\u00e9 cancell\u00e9es sur le rouleau original et, d\u00e8s le XII e s., on ait essay\u00e9 de supprimer ces vers plaisants qu'on est \u00e9tonn\u00e9 de rencontrer sur un rouleau fun\u00e9raire \u00bb (a. p. 367, n. 4)."
+    },
+    {
+      "id": 2206,
+      "roll_id": 143,
+      "pdf_page": 67,
+      "pdf_half": "left",
+      "footnote_num": "c",
+      "text": "- (c) \u00ab l\u2019expression cum venturunt signifie p. 368, n. 1)."
+    },
+    {
+      "id": 2207,
+      "roll_id": 143,
+      "pdf_page": 67,
+      "pdf_half": "left",
+      "footnote_num": "d",
+      "text": "- (d) \u00ab Mot deuxes dans les copies \u00bb (a. p. 368, n. 2)."
+    },
+    {
+      "id": 2208,
+      "roll_id": 143,
+      "pdf_page": 67,
+      "pdf_half": "right",
+      "footnote_num": "e",
+      "text": "(e) Les mots entre crochets sont restitu\u00e9s gr\u00e2ce \u00e0 B ; \u00ab Je suppose que les six vers suivants appartiennent \u00e0 une autre pi\u00e8ce que les pr\u00e9c\u00e9dents. Le premier est \u00e9videmment cit\u00e9 \u00e0 \u00ab A \u00bb, p. 367, n. 2. \u00bb"
+    },
+    {
+      "id": 2209,
+      "roll_id": 143,
+      "pdf_page": 67,
+      "pdf_half": "right",
+      "footnote_num": "",
+      "text": "(...) \u2014 \u00ab Ou En \u00bb, a (p. 367, n. 3). \u2014 (...) \u2014 Ce mot est fait de lettres hautes et de 5 cm bien d\u00e9cor\u00e9es. \u2014 (...) \u2014 En A, l'initiale de Titulus (haute de 6,5 cm) est rubriqu\u00e9e, puis la suite du titre jusqu'\u00e0 ce moi est faite de lettres noires rehauss\u00e9es de rouge."
+    },
+    {
+      "id": 2210,
+      "roll_id": 143,
+      "pdf_page": 68,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "(a) Des traits rubriques termin\u00e9 chaque vers de ce titre. A. - (b) Cette ligne est rubriqu\u00e9e, A. - (c) Sitis corrig\u00e9 en Siti par gr\u00e2ceage du s final, A. - (d) Amator ajout\u00e9 en interligne, A. - (e) Le scribe a \u00e9crit un seul mot pour les mots vite et lite, et Amator ajout\u00e9 entre les deux lignes, A. - (f) Le scribe a \u00e9crit un seul mot vers les deux lignes, A. - (e) Cette ligne est rong\u00e9e, A. - (b) Les mots restitu\u00e9s sont en grande partie rong\u00e9es, A."
+    },
+    {
+      "id": 2211,
+      "roll_id": 143,
+      "pdf_page": 68,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "(b) Totam"
+    },
+    {
+      "id": 2212,
+      "roll_id": 143,
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Pe\u00fbt-etre Hugo I Magnus, abb\u00e9 de S. Germain-des-Pr\u00eats, mort en 956; \u00e0 son sujet,"
+    },
+    {
+      "id": 2213,
+      "roll_id": 143,
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Sur ce personnage, cf. supra, p. 165, n. 2."
+    },
+    {
+      "id": 2214,
+      "roll_id": 143,
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Sur ce personnage, cf. supra, p. 474, n. 5."
+    },
+    {
+      "id": 2215,
+      "roll_id": 143,
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Hugo IV, abb\u00e9 de S. Germain-des-Pr\u00eats de 1148 \u00e0 1152; cf. R. Poupain, Recueil des chartes de l'abbaye de Saint-Germain-des-Pr\u00eats des origines au d\u00e9but du XIII\u00b0, Paris, t. I, 1909, p. 168, n. 1."
+    },
+    {
+      "id": 2216,
+      "roll_id": 143,
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "Louis VI, roi de France, mort le 1\u00be ao\u00fbt 1137."
+    },
+    {
+      "id": 2217,
+      "roll_id": 143,
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "Ad\u00e9la\u00fde de Maurienne, morte en 1154, est"
+    },
+    {
+      "id": 2218,
+      "roll_id": 143,
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "footnote_num": "7",
+      "text": "Philippe, fils a\u00edn\u00e9 de Louis VI et d'\u00c0laide de Maurienne, mort le 13 octobre 1331."
+    }
+  ]
+}

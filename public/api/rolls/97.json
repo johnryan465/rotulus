@@ -1,0 +1,57 @@
+{
+  "roll": {
+    "id": 97,
+    "roll_num": 94,
+    "date_str": "S.d. [XI\u02e1 s.]",
+    "title": "Rouleau mortuaire (fragmentaire) anonyme.",
+    "manuscripts": "A. Paris, B. N. F., lat. 5605, fol. 1. Parchemin (c. c. [= verso], gris\u00e9re ; c. p. [= recto], jaun\u00eatre). Un fragment opisthographe. Longueur : 16 cm ; largeur (incompl\u00e9te), 20,5 cm.",
+    "pdf_source": "2",
+    "pdf_pages": "47",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 799,
+      "roll_id": 97,
+      "title": "(c.\u00a0c.)",
+      "location_name": "",
+      "latin_text": "<...> Omini reverent\u00aditi clucu Deo servientibus <...> clerus. Oraminis et amoris karitatissimum munus <...> ellente infirmitate human\u00e9 fragilitatis ipso <...> sa. <...>tis omne incole hujus specie convocationis <...> unum immunditus, ut nullius spiritus liber a <...> egregiator corporis, oportet superstes nun<...> semper indispensens orientationis hostias offerre <...> . Quoecra nos sanctae Dei genitricis MARI servi cessu <...>, suscipientes rotulum ve[str\u00e9] legionis, domni <...> omnium inibi <...> Deo [servientium], nostro devotionis effectus. Unde 20 <...> triste salutis spiritali fraternita[ti] <...> .",
+      "pdf_page": 47,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2569,
+          "titulus_id": 799,
+          "original_name": "MARI",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Maria",
+          "normalized_role": "Virgin Mary",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 800,
+      "roll_id": 97,
+      "title": "(c.\u00a0p.)",
+      "location_name": "",
+      "latin_text": "<........................>\nArbiter omnipotens animas dictione gubernans,\nQuas revocat, superis sedibus ipse locat,\nCorporei que forte graves per tempora menstris\nSunt virtute leves ac meritis celeres,\nQuas Domini pietas illustrat lumine claro\nPost obitum sanctis cum reliquiis reminis\nInteritum quorum non deffendis morbe.",
+      "pdf_page": 47,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 969,
+      "roll_id": 97,
+      "pdf_page": 47,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Cf. L. Delisle, loc. cit."
+    }
+  ]
+}

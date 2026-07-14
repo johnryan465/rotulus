@@ -1,0 +1,38 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Vatican City",
+    "coords": [
+      41.9022,
+      12.4539
+    ],
+    "year": 1096,
+    "date_str": "[1096, apr\u00e8s le 29 juillet]",
+    "is_approximate": false,
+    "description": "Origin: Titre compos\u00e9 par Baudri de Bourgueil pour le roul..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Le Mans, France",
+    "coords": [
+      48.0,
+      0.2
+    ],
+    "year": 1096,
+    "date_str": "[1096, apr\u00e8s le 29 juillet]",
+    "is_approximate": false,
+    "description": "Ho\u00ebl (bishop)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Celenoamensi",
+    "coords": null,
+    "year": 1096,
+    "date_str": "[1096, apr\u00e8s le 29 juillet]",
+    "is_approximate": true,
+    "description": "Titulus Header: Celenoamensi"
+  }
+]

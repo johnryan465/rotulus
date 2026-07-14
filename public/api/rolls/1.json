@@ -1,31 +1,86 @@
 {
   "roll": {
     "id": 1,
-    "roll_num": "1",
-    "date_str": "S.d.",
-    "title": "OniginalF [penlu. B Micchea Bsjez StaatsbibL, Clm 8112,fol 116.~ C. Karlsruhe; Badische Landesbibl , Rastatt 22, W9l-D Mien Ostenreichische Nationalbibl , lat. 751, fol. 49 (milieu du IX\" s.) . JL Tenc Bonifatius; p 181, nP 81. 6R. Rau, Briefe des Bonifatius. Binifatius . Darmstedt, 1968, p 270,n\" 81. Willibalds Leben des Ixurcros '(ellerznde)  R. Rau;  op. cit , P 271. Ivie: 1 Ebncz _ Kl\u00e4sterlichen ,  Gebets-Verbr\u00fcderungen, E p. 77, n. 1. Crie oafralernii\u00e9 v institution p Imile C chronologiques ( Ktuliona typignement anglo-saxonne = selon r\u00e8gne d'Aelfwald (2) . Fexpression &E. Ewig (, a (Chrismon)  3 Domino  Bonifacio = 'gloriosissimo et cum omni achiepiscopo fretus Aelbwaldus; honoris affectu venerantissimo imul et tota abbatia Aestanglorum Deo prorinciz cum donante regia potestate salutem omni In primis congregationi  servorum Dei in nostra itaque scire te Si volumus; 0 dilectissime; quod \u00c9s Chrodegang franqpe ' et la \" dans r\u00e9forme Gsarakolion E Saint de Chrodegang sa mort, Jle: ` 'p\u00e9sent\u00e9es \u20ac Metz. 0 1967, p 32. [occasion Q du Qu icolloque ! tenu C R. \u00e0 Rau. douzi\u00e8me \u20ac op. cit.. p 271, n. 1 ; Hand- centenaire , book de 0f British chronology. p 9",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "2",
+    "roll_num": 1,
+    "date_str": "S.d. [729-vers 744]",
+    "title": "L'abbesse \u00ab Coenburga \u00bb, adresse ou pr\u00eatre \u00ab Wiertbertus \u00bb \u2014 ainsi qu'aux abb\u00e9s \u00ab Coengilsus \u00bb (de Glastonbury) et \u00ab Ingeldus \u00bb \u2014 le nom des s\u0153urs d\u00e9funtes de son monast\u00e8re, avec mission",
+    "manuscripts": "A. Original perdu.\nB. Wien, \u00d6sterreichische Nationalbib., fol. 32v (milieu du IXe s.).\na. M. Tangl, Bonifatius, p. 97, n\u00b0 5.",
+    "pdf_source": "1",
+    "pdf_pages": "1",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": [
+  "tituli": [
     {
-      "id": 35539,
+      "id": 1,
       "roll_id": 1,
-      "pdf_page": 2,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "(4uulraad sanctae congregationi sub cura illius regularil tius;   sine praerogativa  meritorum   nominatu caritatis salutem Diligenter quoque depreca tis inter nos sit et pro viventibus oratio cor saeculo   orationes et missarum sollemnia defunctorum inter nos mittantur."
-    },
-    {
-      "id": 35540,
-      "roll_id": 1,
-      "pdf_page": 2,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "normam custodienti Bonifa- 5 episcopus; obtabilem in Christo mur; ut familiaritas fraternae carita- nmonis et pro migrantibus de hoc 30 lebrentur; cum alternatim  nomina"
+      "title": "",
+      "location_name": "",
+      "latin_text": "Fratribus in Christo carissimis Coengilso et Ingeldo abbatihus et singulariter 20 cognato nostro Wiertberto presbyro omni congregatio trium monasteriorum, id est Alduni patri reverentissimi et Coenburg\u00e6 Christi familie necnon et Coenburga abbatissae, perennem atque insolubem in Domino salutem. Libanter tanque atque gratanter vostrae salutionis munuscula suscepimus Deoque adjuvante isdem digna recompensare desiderantes et eam quam circa nos 25 scribpsis habitis in orationibus communione bono animo et pura fide erga vos",
+      "pdf_page": 1,
+      "pdf_half": "full",
+      "entities": [
+        {
+          "id": 1,
+          "titulus_id": 1,
+          "original_name": "Coengilso",
+          "original_title": "abbatihus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Coengilsus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Glastonbury"
+        },
+        {
+          "id": 2,
+          "titulus_id": 1,
+          "original_name": "Ingeldo",
+          "original_title": "abbatihus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ingeldus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3,
+          "titulus_id": 1,
+          "original_name": "Wiertberto",
+          "original_title": "presbyro",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Wiertbertus",
+          "normalized_role": "priest",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 4,
+          "titulus_id": 1,
+          "original_name": "Alduni",
+          "original_title": "patri",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Aldunus",
+          "normalized_role": "father/patron",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 5,
+          "titulus_id": 1,
+          "original_name": "Coenburg\u00e6",
+          "original_title": "abbatissae",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Coenburga",
+          "normalized_role": "abbess",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
     }
-  ]
+  ],
+  "footnotes": []
 }

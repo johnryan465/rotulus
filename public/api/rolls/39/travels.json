@@ -1,0 +1,25 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Chartres, France",
+    "coords": [
+      48.4472,
+      1.4875
+    ],
+    "year": 954,
+    "date_str": "S.d. [954 - avant 972], 18 septembre.- S. Basle.",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) de S. P\u00e8re de Cha..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Remorum",
+    "coords": null,
+    "year": 954,
+    "date_str": "S.d. [954 - avant 972], 18 septembre.- S. Basle.",
+    "is_approximate": true,
+    "description": "Basil (saint/confessor)"
+  }
+]

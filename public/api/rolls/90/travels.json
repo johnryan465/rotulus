@@ -1,0 +1,25 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Clermont-Ferrand, France",
+    "coords": [
+      45.7772,
+      3.087
+    ],
+    "year": 1096,
+    "date_str": "S.d.[vers 1096]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire de Durand, \u00e9v\u00eaque de Clermont...."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Auvergne",
+    "coords": null,
+    "year": 1096,
+    "date_str": "S.d.[vers 1096]",
+    "is_approximate": true,
+    "description": "Arverni ()"
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": null,
+    "date_str": "S.d. [fin XIe s.-d\u00e9but XIIe s.]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) d'un abb\u00e9 nomm\u00e9 G..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Humolariensis",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d. [fin XIe s.-d\u00e9but XIIe s.]",
+    "is_approximate": true,
+    "description": "Girard (abbot)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "S.-Nicolas-aux-Bois",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d. [fin XIe s.-d\u00e9but XIIe s.]",
+    "is_approximate": true,
+    "description": "Titulus Header: S.-Nicolas-aux-Bois"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "S.-Vienne, S. Andr\u00e9[le-Bas]",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d. [fin XIe s.-d\u00e9but XIIe s.]",
+    "is_approximate": true,
+    "description": "Titulus Header: S.-Vienne, S. Andr\u00e9[le-Bas]"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "SANCTI AMANDI",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d. [fin XIe s.-d\u00e9but XIIe s.]",
+    "is_approximate": true,
+    "description": "Titulus Header: SANCTI AMANDI"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d. [fin XIe s.-d\u00e9but XIIe s.]",
+    "is_approximate": true,
+    "description": "Titulus Header: Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Pons-de-Thomi\u00e8res",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d. [fin XIe s.-d\u00e9but XIIe s.]",
+    "is_approximate": true,
+    "description": "Titulus Header: Pons-de-Thomi\u00e8res"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Conques",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d. [fin XIe s.-d\u00e9but XIIe s.]",
+    "is_approximate": true,
+    "description": "Stephanus II (abbot)"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Rodez",
+    "coords": null,
+    "year": null,
+    "date_str": "S.d. [fin XIe s.-d\u00e9but XIIe s.]",
+    "is_approximate": true,
+    "description": "Poncius (bishop)"
+  }
+]

@@ -1,14 +1,121 @@
 {
   "roll": {
     "id": 16,
-    "roll_num": "30",
-    "date_str": "S.d.",
-    "title": "S.d. [premier quart du X' s] Deuzi\u00e8me formule de r\u00e9ponse auz brefs mortuaires \u00e0 Uusage de Laon. 4. Original perdu, 2 B. Paris, B N. F, lat, 11379, fol. 15 [ (endommag\u00e9 ; 'addition du X' s). 0 E. d Rozi\u00e8re; Formules; 2 partie, karolini aevi P. 962, n\" 693. (M \u20ac 6.K. H,  Leges), Zeumer; Formulae p 518, n merowingici et verbr\u00fcderungen P 81,n.3 (dapr\u00e8s b2 ~d,2 12. C. A.  Ebner;   Kl\u00f6sterlichen Gebets- Fhistoire de T\u00e9cole de Laon au d\u00e9but du Z JJ Contreni;, Le formulaire de 25 Xe s Laon. Source pour 6 (avec corrections) . dans Scriptorium; t. XXVII, 1973, p. 25, dapr\u00e8s PFaue 1 Contreni (loc cit) il faudrait  \u00e9col\u00e2tre de Laon (847-903) ; identifer le doyen Faddition serait de Bernard, son mentionn\u00e9 ici, avec Bernard, successeur; Alleaume; ordonn\u00e9 pr\u00eatre en 892,",
+    "roll_num": 18,
+    "date_str": "S.d. [VIII^s.]",
+    "title": "",
     "manuscripts": "",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "17",
+    "pdf_source": "1",
+    "pdf_pages": "10",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": []
+  "tituli": [
+    {
+      "id": 24,
+      "roll_id": 16,
+      "title": "[XLVII (15.)]",
+      "location_name": "Salisburgensi",
+      "latin_text": "Conventi igitur in sancta synodo [Salisburgensi] ut, quando quis, Deo juvente, de hoc saeculo migravit, sive episcopus sive abbas seu monachus sive presbyter seu femina, de ipso loco vel monasterio dirigantur litterae ad singulas domos episcopales. Et ipse episcopus in diocesi sua habeat commendatum, qui ipsas litteras suscipiat, et ceteris abbatibus vel abbatissis ad necnon et omnibus presbyteris per ipsa anima orandum litteris suis notum faciat nomen et tempus.",
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 102,
+          "titulus_id": 24,
+          "original_name": "Salisburgensi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Salzburg",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Salzburg"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "roll_id": 16,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Sanctis et venerabilibus fratribus illi leproso omnibusque sibi in Christo subjectis fratres ex monasterio illi in Christo salutem nostrumur nuper defunctorum nomina, ut corum in vestris sanctis orationibus solito more memoriam habeatis et ad cetera deinceps monasteria eadem nomina 25 scripta dirigantur, sicut et nos facimus, quotidies de vobis sive de ceteris monasteriis defunctorum fratrum nomina veniunt. Hoc est reliqua.",
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 79,
+      "roll_id": 16,
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "footnote_num": "d.",
+      "text": "A. Baurio, M. G. H., Cap. I, t. I, p. 280 (ann. 799)."
+    },
+    {
+      "id": 80,
+      "roll_id": 16,
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "footnote_num": "e.",
+      "text": "A. Worminghoff, Concilia aevi Merovingici et Carolini (M. G. H., Conc.), II, 1, 1906, p. 213."
+    },
+    {
+      "id": 81,
+      "roll_id": 16,
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "footnote_num": "Images",
+      "text": "A. Elsen, Kl\u00f6sterliches Geben Verirrungen, p. 76. - Hefele/Leclercq, t. III, p. 733. - J. Dufour, Rouleaux des morts, p. 309."
+    },
+    {
+      "id": 83,
+      "roll_id": 16,
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "footnote_num": "B.",
+      "text": "Wien, \u00d6sterreichische Nationalbibl., lat. 751, fol. 71v (milieu du IX^e s.)."
+    },
+    {
+      "id": 84,
+      "roll_id": 16,
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "footnote_num": "a.",
+      "text": "M. Tangl, Bonifatius, p. 233, n\u00b0 150."
+    },
+    {
+      "id": 85,
+      "roll_id": 16,
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "footnote_num": "Images",
+      "text": "a. B. Haefner, Commemoratio defunctorum, p. 793. - L. Delisle, Vital de Sauvigny, p. 8 et n. 6."
+    },
+    {
+      "id": 82,
+      "roll_id": 16,
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "footnote_num": "15",
+      "text": "A. Original perdu."
+    },
+    {
+      "id": 86,
+      "roll_id": 16,
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "footnote_num": "20",
+      "text": ""
+    },
+    {
+      "id": 78,
+      "roll_id": 16,
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "footnote_num": "47",
+      "text": "ann. 799)."
+    }
+  ]
 }

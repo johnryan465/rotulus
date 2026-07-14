@@ -1,0 +1,908 @@
+{
+  "roll": {
+    "id": 111,
+    "roll_num": 108,
+    "date_str": "S. d. [1106 ou peu apr\u00e8s]",
+    "title": "Rouleau mortuaire (fragmentaire) de Foulques, abb\u00e9 de Corbie (\u2020 5 d\u00e9cembre 1095).",
+    "manuscripts": "",
+    "pdf_source": "3",
+    "pdf_pages": "4,5,6,7",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1074,
+      "roll_id": 111,
+      "title": "",
+      "location_name": "",
+      "latin_text": "a. M. Frou et A. Vidier, Recueil des chartes de l'abbaye de Saint-Benolt-sur-Loire, Paris, t. I, 1900-1907, p. 243, n\u00b0 XCIII (avec les dates de 1087-1105 ou des 1123-1126). \u2014 b. Obituaires de la province de Sens, t. III, p. 145, n. 8, d'apr\u00e8s (\u00e9d. partielle). \u2014 c. A. Vidier, L'Historiographie \u00e0 Saint-Benolt-sur-Loire et les miracles de saint Beno\u00eet, Paris, 1965, p. 120, n. 46, d'apr\u00e8s (\u00e9d. partielle).\n\nIndiqu\u00e9 : Obituaires de la province de Sens, t. III, p. 144, n. 2 (avec les dates 1085-1105). \u2014 A. Vidier, op. cit., p. 118, n. 31. \u2014 N. Huyhelbrandt, Documents n\u00e9crologiques, p. 27, n. 5.\n\nSelon la pr\u00e9sence peut \u00eatre l'une ou l'autre des deux abb\u00e9s de Montecassino, honnymes, tous deux cardinaux. Mais, pour b, \u00ab l\u2019association de pri\u00e8res ayant \u00e9t\u00e9 n\u00e9goci\u00e9e par le m\u00eame moine qu'\u00e0 Subiaco, il faut vraisemblablement attribuer la lettre au premier des deux Oderisius, qui fut abb\u00e9 en 1087 \u00e0 1105, vers le temps o\u00f9 le moine Gautier se rendit \u00e0 Subiaco \u00bb.\nCet \u00e9change participera lui de destins mais aussi de vivants s'apparente \u00e0 certains brefs mortuaires.\nOderisius, Dei gratia cardinalis et abbas, cum omnibus fratibus Cassinensis congregationis sancto et venerabili abbati illustri ordine virgi con Congregationi Floriacensi canonicis beatam vir et heresmal coelestem... Siquidem et omnia novium nostrum ad praesens vobis scripta, nostra inter vesta novis invicem dirigenda nomina desiderabiliter expectamus, ut nostra inter vestra et vestra inter nostra considerantibus, quantus et viventes et defuncti alterius intervenientibus meritis et orationibus a Domino progenitorum.",
+      "pdf_page": 4,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3101,
+          "titulus_id": 1074,
+          "original_name": "M. Frou",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "M. Frou",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3102,
+          "titulus_id": 1074,
+          "original_name": "A. Vidier",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "A. Vidier",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3103,
+          "titulus_id": 1074,
+          "original_name": "Oderisius",
+          "original_title": "cardinalis et abbas",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Oderisius",
+          "normalized_role": "cardinal and abbot",
+          "normalized_dates": "1087-1105",
+          "location_name": "Monte Cassino"
+        },
+        {
+          "id": 3104,
+          "titulus_id": 1074,
+          "original_name": "Gautier",
+          "original_title": "moine",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gautier",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": "Subiaco"
+        }
+      ]
+    },
+    {
+      "id": 1075,
+      "roll_id": 111,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Folques$^{1}$ ($\text{qui bien}^2$ en demeure, eut fait chose en $1048$ pour succ\u00e9der \u00e0 la t\u00f4re de Corbie \u00e0 l'abb\u00e9 Richard. Presque imm\u00e9diatement, il confirma une confraternit\u00e9 sin monast\u00e8re \u00e0 Hambourg et enrui ordn\u00e9 abb\u00e9 d'Argent, archev\u00eaque de cette cit\u00e9, les reliques de s. Ansachie. Moine de corbie, puis fondateur et premier \u00e9v\u00eaque de Hambourg. En $1049$, il participa au concile de Reims, pr\u00e9sid\u00e9 par L\u00e9on IX, puis suivit en $1056$ le pape en Italie ; ordonn\u00e9 pr\u00eatre se ses mains, il obtint le droit de porter cette arme lors un incident durant l'abbat de son predecessor $^{3}$. De retour \u00e0 Corbie, ce moine de ravissant l'\u00e9glise d\u00e9truite comme elle annte lors des attaques de l'abbat de son predecessors $^{4}$, il s'opposait, avec l'aide du comte de Flandre Baudoin V, aux insurg\u00e9s de Gautier du monasterio, puis d\u00e9fendit l'immunit\u00e9 de is commune lors des attaques de l'abbaye. En $1064$, il s'occupe l'acte de fondation de l'abbaye sur les terres de l'abbayes de Hassban $^{5}$. En $1074$, il transperce la flamme des reliques de s. Adalhard et, comme il l'esp\u00e9rait, le tore Robert, fletch abb\u00e9 de Corbie a recepta de ses reliques, qu'il avait en pris \u00e0 Corbie. Foulques mourut en l'an $1095$. En son action de son remarque le Gremie lors d'un meurs de sa vie au Flandre \u00e0 l'ext\u00e9rieur \u00e0 qui l'exterieur, il m\u00e9rit\u00e2 le surnom de Gremie.",
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3105,
+          "titulus_id": 1075,
+          "original_name": "Folques",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "Sur ce personnage, cf. Gallia christiana,",
+          "normalized_name": "Folques",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3106,
+          "titulus_id": 1075,
+          "original_name": "Richard",
+          "original_title": "abb\u00e9",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Richard",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Corbie"
+        },
+        {
+          "id": 3107,
+          "titulus_id": 1075,
+          "original_name": "Ansachie",
+          "original_title": "s.",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ansachie",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3108,
+          "titulus_id": 1075,
+          "original_name": "L\u00e9on IX",
+          "original_title": "pape",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Leo IX",
+          "normalized_role": "pope",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3109,
+          "titulus_id": 1075,
+          "original_name": "Baudoin V",
+          "original_title": "comte de Flandre",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Baldwin V",
+          "normalized_role": "count of Flanders",
+          "normalized_dates": "",
+          "location_name": "Flanders"
+        },
+        {
+          "id": 3110,
+          "titulus_id": 1075,
+          "original_name": "Gautier",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gauthier",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3111,
+          "titulus_id": 1075,
+          "original_name": "Adalhard",
+          "original_title": "s.",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Adalhard",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3112,
+          "titulus_id": 1075,
+          "original_name": "Robert",
+          "original_title": "abb\u00e9 de Corbie",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Corbie"
+        }
+      ]
+    },
+    {
+      "id": 1076,
+      "roll_id": 111,
+      "title": "TITULUS SANCTI BAVONIS IN GANDAVO.",
+      "location_name": "GANDAVO",
+      "latin_text": "Heu Francorum decarum atque decor monachorum\nUnde repente ruis, Fulco, dolende tuis?\nmore virens floris, viri multis plenus honoris,\nVive bien floreas,umbra fugis quaor edes.\nQua dolor hic: summis? Puro aevo, more senilis,\nCaru vinum \u0644\u0646\u0627, his rosa tua cinis.\nSic quae triasti, redimi nec ab hoc poetis,\nsic Corbiea dolet, mater ut orba solet,\nFlandria flet pro te, tanto privata nepote,\nEt gemit ut vidua Francia morte tua.\nEt nos devote possemus plagere pro te,\nSi posses poni flebitus arce poli.\nSed tua vita cinis quae tendit ad ultima finis,\nEt florum species conterit una dies,\nFlos lapis floris asat medicina doloris, Amen.\nItem de eodem.\nQui sumus aura levis, qui labilis est caro quaeris,\nHinc casu juvenium cernimus, inde senum.\nSic caro, parta lutea, pede que stetat male tuto,\nVilet, et ut vita florat \u00e6ret ita\nHinc dolore, hine fleto et quam fueras homo laetus\nRaptus morte tuis tristior ipse huic.\nNec mora sorte pari te conspicior improperati,\nNec mora tu nobis unus et alter obis.",
+      "pdf_page": 5,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3113,
+          "titulus_id": 1076,
+          "original_name": "Fulco",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Fulco",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3114,
+          "titulus_id": 1076,
+          "original_name": "Francia",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "France",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1077,
+      "roll_id": 111,
+      "title": "",
+      "location_name": "",
+      "latin_text": "uis modus in fatis ? Quis honor, quae nobilitas\nSumma superstes erit? Mors ca de cuncta terit.\ntque breves flos florens vix pervenit aestas,\nSeparat at tabes dulce quod, ob vir, habes.\nce juvenutis, utrum cum fine salutis\nNescio, flos cecidit, mixtaque turba gemit.\nlerus enim qualis planctus, laicus quoque tales,\nhinc simul und uole, continuare solet.\nu tamen, o juvenis, mortis subductus habenis,\nDeponens hominem, verteris in cinerem.\nolvis et in fletus nostros ex ordine coetus,\nut prosit gemitus ti tibi cum precipibus. Amen.\nOrate p. n. domino Alardo (1) abbate, Rainero, Folcaldo et ceteris.\nQui sunt defuncti vivant ut in ethere cuncti.",
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3115,
+          "titulus_id": 1077,
+          "original_name": "Alardo",
+          "original_title": "abbate",
+          "footnote_num": "1",
+          "footnote_text": "Sur ce personnage, cf. Gallia christiana,",
+          "normalized_name": "Alard",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3116,
+          "titulus_id": 1077,
+          "original_name": "Rainero",
+          "original_title": " ",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rainer",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3117,
+          "titulus_id": 1077,
+          "original_name": "Folcaldo",
+          "original_title": " ",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Folcald",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1078,
+      "roll_id": 111,
+      "title": "2 S.d.- Oudenburg, S. Pieters.",
+      "location_name": "Oudenburg",
+      "latin_text": "Sancti Petri Aldeburgensis ecclesie.\nOrate p. n. domino Arnulfo (2) episcopo, Rodberto, Fulcranno, Aramaro, Tancranto, Eremberto, Ringero, Erembaldo, Alnotho, Mainardo, Heramaro, Ringero, nfrido, Alfrido <...>.",
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3118,
+          "titulus_id": 1078,
+          "original_name": "Arnulfo",
+          "original_title": "episcopo",
+          "footnote_num": "2",
+          "footnote_text": "",
+          "normalized_name": "Arnulf",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3119,
+          "titulus_id": 1078,
+          "original_name": "Rodberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3120,
+          "titulus_id": 1078,
+          "original_name": "Fulcranno",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Fulcran",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3121,
+          "titulus_id": 1078,
+          "original_name": "Aramaro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Aramar",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3122,
+          "titulus_id": 1078,
+          "original_name": "Tancranto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Tancred",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3123,
+          "titulus_id": 1078,
+          "original_name": "Eremberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Embert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3124,
+          "titulus_id": 1078,
+          "original_name": "Ringero",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ringer",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3125,
+          "titulus_id": 1078,
+          "original_name": "Erembaldo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ermembold",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3126,
+          "titulus_id": 1078,
+          "original_name": "Alnotho",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Alnot",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3127,
+          "titulus_id": 1078,
+          "original_name": "Mainardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mainard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3128,
+          "titulus_id": 1078,
+          "original_name": "Heramaro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Heramar",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3129,
+          "titulus_id": 1078,
+          "original_name": "Ringero",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ringer",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3130,
+          "titulus_id": 1078,
+          "original_name": "nfrido",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "nfrid",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3131,
+          "titulus_id": 1078,
+          "original_name": "Alfrido",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Alfred",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1079,
+      "roll_id": 111,
+      "title": "3 S.d.- Ieper, S. Maarten.",
+      "location_name": "Ieper",
+      "latin_text": "",
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1080,
+      "roll_id": 111,
+      "title": "4 S.d.- Voormezele, O.-L. Vrouw.",
+      "location_name": "Voormezele",
+      "latin_text": "T. Sanctae Mariae Formosellensis ecclesiae.\n<.................................................>",
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3132,
+          "titulus_id": 1080,
+          "original_name": "Mariae",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1081,
+      "roll_id": 111,
+      "title": "5 S.d.- Bergues, S. Winoc.",
+      "location_name": "Bergues",
+      "latin_text": "TITULUS SANCTI WINNOCGI BERGENSIS ECCLESIAE.\nMors homini nutu Domini data sic dominatur\nUt leviter cadat et breviter vivens moriatur.\nEgreditur sed conteritur quasi flos homo natus,",
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3133,
+          "titulus_id": 1081,
+          "original_name": "Winoc",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Winoc",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Bergues"
+        }
+      ]
+    },
+    {
+      "id": 1082,
+      "roll_id": 111,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Et miseris restat cineris cumulus reprobatus.\nProgenies tamen et species et dulcis honestas\nSi facet ne tot raperet tam seva potestas,\nConsilio vigil, auxilio pius, hans superasses;\nInteritum proterum meritum tibi non generasses.\nVir celebris non in tenebris Fulco latuisti,\nPerpetuo splendore tuo cuncti placuisti.\nExterioris bonus interium fratria corona :\nVos habilis fuit et facilis cum laude sonora ;\nCor sapiens, talis faciens quod erat faciendum.\nEst igitur, si conspicitur res, compatiendum.\nFloruerat quoque quae fuerat tibi porna decenter,\nForma recens, sed ipsa decens nimium revererent.\nIle color, color illo dolor fit major armis.",
+      "pdf_page": 6,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1083,
+      "roll_id": 111,
+      "title": "6 S.d.- Watten, N.-D.",
+      "location_name": "Watten",
+      "latin_text": "TITULUS SANCTE MARIE DE WATANIS.\nAnima ejus, etc. Orate p. n., quia oravimus p. v., Ricolfo (1) episcopo, Ofrido,\nfuino, Ri-<......>, Reinoldo, Rodolfo, Reinero, Wicelo, Lanberto.",
+      "pdf_page": 6,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3134,
+          "titulus_id": 1083,
+          "original_name": "Ricolfo",
+          "original_title": "episcopo",
+          "footnote_num": "1",
+          "footnote_text": "Sur ce personnage, cf. Gallia christiana,",
+          "normalized_name": "Ricolfo",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3135,
+          "titulus_id": 1083,
+          "original_name": "Ofrido",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ofrido",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3136,
+          "titulus_id": 1083,
+          "original_name": "fuino",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Fuino",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3137,
+          "titulus_id": 1083,
+          "original_name": "Reinoldo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Reinold",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3138,
+          "titulus_id": 1083,
+          "original_name": "Rodolfo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rudolf",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3139,
+          "titulus_id": 1083,
+          "original_name": "Reinero",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Reinero",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3140,
+          "titulus_id": 1083,
+          "original_name": "Wicelo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Wicelo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3141,
+          "titulus_id": 1083,
+          "original_name": "Lanberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lanbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1084,
+      "roll_id": 111,
+      "title": "7 S.d.-S. Omer.",
+      "location_name": "S. Omer",
+      "latin_text": "T. Sancti Audomari.\nAngelici cives, gaudete; novos modo miles,\nPro vitae meritis sidera Fulco petit,\nQuorum civis erat, dum presens vita manebat,\nMundi jure fruens, sidera mente colens.\nFratres qui colitis Corbeiam, credite, vobis<........................>",
+      "pdf_page": 6,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3142,
+          "titulus_id": 1084,
+          "original_name": "Fulco",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Fulco",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1085,
+      "roll_id": 111,
+      "title": "8 S.d.- Beauvais, S. Quentin.",
+      "location_name": "Beauvais",
+      "latin_text": "T. Sancti Quintini Belvacensis.\nFratri noster amor jam solvit debita [vestro].\nCui maneat jugis requies in pace [henni].",
+      "pdf_page": 6,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3143,
+          "titulus_id": 1085,
+          "original_name": "Quintini",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Quintin",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Belvacensis"
+        }
+      ]
+    },
+    {
+      "id": 1086,
+      "roll_id": 111,
+      "title": "9 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "",
+      "latin_text": "[I]<...>\u2014SIS MONASTERII HQI TITULUS.<...> gaudendum nostris <...> occasum oliote <...> exemplum<...>.",
+      "pdf_page": 6,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1087,
+      "roll_id": 111,
+      "title": "10 S.d.- Bouteville (2), N.-D.",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 6,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1088,
+      "roll_id": 111,
+      "title": "11 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "",
+      "latin_text": "T. ejusdem ecclesiae.\nVos (*) qui conuntorum colitis Dominum dominorum,\nNoscere debeatis queud Christi nem habenis,\nChristus, id est uncus, pro nostro crimine functus\nMorte crucis, dira qua debet vetus ira.\nCumque tenebamus vinci, jam tunc relevamur;\nA <...> artem volet dum carnis tegimine sovelit.\nHic pius abbati per qui sumus edificati\n[Concepat thirmo coelesti vivere dono;\nEli scissent qui sunt et non verserunt.\n<...> qui fletur abbas semper reputetur\nFulco, cui celi spes est quic ditur Eli.\nFlethibus iratis hoc quod vos rogitatis,\nNostris donare leti nolite negare.",
+      "pdf_page": 7,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3144,
+          "titulus_id": 1088,
+          "original_name": "Fulco",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Fulco",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3145,
+          "titulus_id": 1088,
+          "original_name": "Eli",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Eli",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1089,
+      "roll_id": 111,
+      "title": "Item.",
+      "location_name": "",
+      "latin_text": "O major mundo, clamamus corde profundo,\nPeccatum dele, tocius casue medae.\nAtique vetustates et nostras impietates,\nEt queuid sordis sustentat sessio cordis.\nHis alisque malis Fulconi sis venialis.\nOmnes electi Dominum pie cogite flecti,\nVersus Uberti sunt dictoris aperti.",
+      "pdf_page": 7,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3146,
+          "titulus_id": 1089,
+          "original_name": "Fulconi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Fulcon",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3147,
+          "titulus_id": 1089,
+          "original_name": "Uberti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Uberti",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1090,
+      "roll_id": 111,
+      "title": "Item.",
+      "location_name": "",
+      "latin_text": "Detrahe unctorum precor, o Deus alme, rogatu\nHunc infernorum defunctum a cruciatu.",
+      "pdf_page": 7,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1091,
+      "roll_id": 111,
+      "title": "Rursus.",
+      "location_name": "",
+      "latin_text": "Hic monacus fuit egregius doctor socorum,\nNanque sibi mores derendant <......>.\nUt fratrum flos eis fieret splendens aliorum,\nUtque regens facile laudem meruerat eorum.\nUnde meos socios queso simul atque magistros\nUt regent sibi <...> veniam cum carmin <.....>.",
+      "pdf_page": 7,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 1159,
+      "roll_id": 111,
+      "pdf_page": 4,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Deux fragments \u2014 I : fol. 208, Parchmin. (c. c. = verso) et c. p. = recto, tr\u00e8s effac\u00e9) jaun\u00e2tres (\u00b2). Longueur, 37 cm ; largeur, 24 cm ;"
+    },
+    {
+      "id": 1160,
+      "roll_id": 111,
+      "pdf_page": 4,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "\u2014 II: fol. 273, Parchmin. (c. c. = recto) blanch\u00e2tre ; c. p. = verso) jaun\u00e2tre. Longueur, 37 cm ; largeur, 22,5 x 23 cm."
+    },
+    {
+      "id": 1158,
+      "roll_id": 111,
+      "pdf_page": 4,
+      "pdf_half": "left",
+      "footnote_num": "25",
+      "text": "A Paris, B. N. f., lat. 13636 (anc. S. Germain-des-Pr\u00e9s, n\u00ba 327), fol. 208 et 273 (\u00b9)."
+    },
+    {
+      "id": 1161,
+      "roll_id": 111,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Sur ce personnage, cf. Gallia christiana,"
+    },
+    {
+      "id": 1162,
+      "roll_id": 111,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": ""
+    },
+    {
+      "id": 1163,
+      "roll_id": 111,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "L. Delisle, Rouleaux des morts du IX$^{e}$ au XV$^{e}$ s., p. 89, n$^{\\circ}$ V."
+    },
+    {
+      "id": 1164,
+      "roll_id": 111,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": ""
+    },
+    {
+      "id": 1165,
+      "roll_id": 111,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": ""
+    },
+    {
+      "id": 1166,
+      "roll_id": 111,
+      "pdf_page": 5,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Sur cette oeuvre, cf. M. Coens, op. cit."
+    },
+    {
+      "id": 1167,
+      "roll_id": 111,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Au sujet de ce personnage, cf. supra, p. 355 et n. 4."
+    },
+    {
+      "id": 1168,
+      "roll_id": 111,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "Arnulfus, \u00e9v\u00eaque de Soissons (1081-"
+    },
+    {
+      "id": 1169,
+      "roll_id": 111,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "(a)",
+      "text": "Cette mention et les initiales de tous les vers du titre sont rubriqu\u00e9es."
+    },
+    {
+      "id": 1170,
+      "roll_id": 111,
+      "pdf_page": 6,
+      "pdf_half": "left",
+      "footnote_num": "(3)",
+      "text": "Abb\u00e9 de S. Wino de Bergues de 1083 au 22 f\u00e9vrier 1966, date de sa mort; cf. \"Bergues-Saint-Wino\", dans D.H.G.E., t. VII, col. 475 (F. Baix et L. Jardin)."
+    },
+    {
+      "id": 1171,
+      "roll_id": 111,
+      "pdf_page": 6,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "Ingelberius, petit-fils de Godefroy II le Barbu, abb\u00e9 de S. Wino de Bergues vers 1078,"
+    },
+    {
+      "id": 1172,
+      "roll_id": 111,
+      "pdf_page": 6,
+      "pdf_half": "left",
+      "footnote_num": "(5)",
+      "text": "prie de 1083 \u00e0 1104; cf. \"Bergues-Saint-Winos\", loc. cit."
+    },
+    {
+      "id": 1173,
+      "roll_id": 111,
+      "pdf_page": 6,
+      "pdf_half": "left",
+      "footnote_num": "(4)",
+      "text": "Abb\u00e9 de S. Wino de Bergues \u00e0 la mort de Ramuldois, d\u00e9pos\u00e9 en 1078, puis \u00e0 nouveau en charge de 1104 \u00e0 1106; cf. \"Bergues-Saint-Winos\", loc. cit."
+    },
+    {
+      "id": 1174,
+      "roll_id": 111,
+      "pdf_page": 7,
+      "pdf_half": "left",
+      "footnote_num": "(6)",
+      "text": "Les vers de ce titre sont \u00e9crits sur deux colonnes."
+    }
+  ]
+}

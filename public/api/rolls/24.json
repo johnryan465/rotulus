@@ -1,39 +1,82 @@
 {
   "roll": {
     "id": 24,
-    "roll_num": "38",
-    "date_str": "S.d.",
-    "title": "S.d. [epr\u00e8s le 18 juin 956] Bref mortuaire envoy\u00e9 par labbaye - Purchard . de $. Callen \u00e0 Voccasion du d\u00e9c\u00e8s du sous-diacre 20 A. Original perdu. B.Sankt Gallen; Stiftsbibl, 915, p 18 (X? XI' s). a.B. Haeftenus, Commemoratio tatum Sancs Gammemoralo dsfatatoenss P 798 (\u00e9d; partielle) . 6.P Fabariensis (M.G.I, Piper; Libri confraterni- Necro ) * P 143. CE. E. D\u00fcmmler; H. ler Wartmann; Todtenbuch  und St. Gal- Verbr\u00fcderungen t.XI, 1869, P 29. Mittheilungen  8 dans (2) 'zurvaterl\u00e4ndischen ( Geschichte, Ibid., P. 89. [956]",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "22,23,24",
+    "roll_num": 26,
+    "date_str": "S.d. [IX^e s.]",
+    "title": "Formule de bref mortuaire.",
+    "manuscripts": "A. Original perdu.\nB. Vaticano, Reg. lat. 612, fol. 32v (IX^e s.).\na. E. de Rozi\u00e8re, Formules, 2^e partie, p. 952, n\u00b0. 681. - b. K. Zeumer, Formulae merovingici et karolini aevi (M. G. H. Leges), p. 261, n\u00b0. 60.",
+    "pdf_source": "1",
+    "pdf_pages": "15",
     "is_verified": 0
   },
-  "tituli": [],
+  "tituli": [
+    {
+      "id": 41,
+      "roll_id": 24,
+      "title": "Indiculum de consortio",
+      "location_name": "",
+      "latin_text": "Dilectissimi fratrumbris nostri de cenubio illi, in Dei nomen, frates de congregazione Sancti illii, illo cenubio, destinamus vobis salutem perennem in Domino. De certo cognoscatis una ex fratribus nostris, nomen illi, IIII^to non. juli de hac luce migravit. Proinde supplicamus vobis et missas et psalmodia seu sacris orationis Domini misericordia pro ipsius animae implorare faciatis, subito scit inter nos et vos consuetudaria est bono.",
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 183,
+          "titulus_id": 41,
+          "original_name": "Sancti illii",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Illy",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "roll_id": 24,
+      "title": "",
+      "location_name": "",
+      "latin_text": "preopto salutem. Norverit quidem prona benevolentia vostra quia ego, in quantum vires paritatis meae supputant, in missarum celebremtibus et psalmodiis seu et ceteris supplicationibus pro vobis divisam deposco clemenciam, quantum vos aetemne clentia hi ad meam et ad multorum consolationem longevis conservet temporibus, novissime ad gaudia paradiasi perdut. Vester enim fratrum 5 nomina, que sparsim atque habere, pto ulent unumque fratrum abre (sic) mercer, qua nostrorum fratrum nomina jam multo tempore habuisti; deprecor scelest et vos una omnes patres et abbatem, et commendetis me vestrae sacri congregetioni, et ut familiariter habet, perficte, maxime in sacris orationibus, siicut Jacobus apostolus ammonet: Orate pro invicem, ut salverim n 10; quia, siicut optime nostis, omni humana consilio destritus sum proter vos et tales pro Dei amore aliquid refrigerium et auxilium mihi faciat. Quiquid enim mihi indigno injunxeratis, paratus sum ad exsequenda, quantum vires divina gratia mihi attribuit et utinam tam utiliter quam liberter! Nomina 15 fratrum defunctorum liberti animo suscepte et preces consuetudinarias facite et ad vicina monasteria dirigite. Sancta Trinitas vos custodiat in eum.",
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 184,
+          "titulus_id": 42,
+          "original_name": "Jacobus apostolus",
+          "original_title": "apostolus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "James the Apostle",
+          "normalized_role": "apostle",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 185,
+          "titulus_id": 42,
+          "original_name": "Sancta Trinitas",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Holy Trinity",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
   "footnotes": [
     {
-      "id": 35582,
+      "id": 142,
       "roll_id": 24,
-      "pdf_page": 22,
+      "pdf_page": 15,
       "pdf_half": "right",
       "footnote_num": "1",
-      "text": "PICCC CSlnnilallon ien CuMUC Uu OcPcae rythme; soit huit syllabes (avec comme dernier mot un paroxyton, Chr\u00edst\u00ed) suivies de sept syllabes (avec comme dernier mot un proparoxyton; Remtgii) '"
-    },
-    {
-      "id": 35583,
-      "roll_id": 24,
-      "pdf_page": 22,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "Ibid , P.44. Ibid.,  p. 91. Cf. infra; P. 51,n? 46 ; p.54,n? 47 ; p.69, n\" 57 ; P 72, n\" 58."
-    },
-    {
-      "id": 35584,
-      "roll_id": 24,
-      "pdf_page": 22,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "ce sujel, cf. D. Norberg Introduction \u00e0 la versification latine m\u00e9di\u00e9vale; Stockholm; 1958, P. 113 et suiv."
+      "text": "(1) Jac., V, 16."
     }
   ]
 }

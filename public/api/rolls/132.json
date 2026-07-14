@@ -1,0 +1,123 @@
+{
+  "roll": {
+    "id": 132,
+    "roll_num": 129,
+    "date_str": "S. d. [1137]",
+    "title": "Rouleau mortuaire (fragmentaire) de Boson, abb\u00e9 de Fleury (\u2020 1137 (2)).",
+    "manuscripts": "A. Orleans, M\u00e9d., mss. 72 (69), ais de boy sup\u00e9rieur. Longueur, 32,5 cm ; largeur, 23 cm. Mauvais \u00e9tat de conservation.",
+    "pdf_source": "4",
+    "pdf_pages": "52",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1718,
+      "roll_id": 132,
+      "title": "1 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es",
+      "latin_text": "<........> fratrum defunctorum.",
+      "pdf_page": 52,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1719,
+      "roll_id": 132,
+      "title": "2 S.d.- Arras, cath\u00e9drale (N.-D.).",
+      "location_name": "Arras, cath\u00e9drale (N.-D.)",
+      "latin_text": "T. \u24c7 SANCTAE MARIAE ATREBATENSIS.\n[A, col. 1] Utque Plato scripsisse videtur \u24c2\n<...> vixit post <....................> pace fruetur,\nJudicio reprobus vixit qui meretur.\n[Hc vi\u0301lic vivet, nec penis comminuerat,\n<...> -sis scriptis in oribus nisi continuet.\nBoso pie sine vacans <...>\n<...> De dei serata patent ejus faci <...>\nQuanti sit <...> hic latae pau <...>\n<...> -tici perpetuum manet <...>\n<...> sunt vera mea pectora <....>\n\n[Versus] Vulgrini de Mauricella.\nIllius in sulco jacet en <...> tus talia <...>\nEcce quasi boso, Boso sive bono <...>\nDoctrina sibi subi <...> -as <...>\nAratrum Christi traxit bosque <...> boum\n<...> vires a vore namen habet.",
+      "pdf_page": 52,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7180,
+          "titulus_id": 1719,
+          "original_name": "Plato",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Plato",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7181,
+          "titulus_id": 1719,
+          "original_name": "Vulgrini de Mauricella",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Vulgrin of Mauricella",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Mauricella"
+        },
+        {
+          "id": 7182,
+          "titulus_id": 1719,
+          "original_name": "Christi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1720,
+      "roll_id": 132,
+      "title": "Versus Tetbaldi Garnestunensis.\n<...> viris defunctis scribere scribat\n<...> soni qui <...> atque libens\n<........................> talia <...>\"",
+      "location_name": "Tetbaldi Garnestunensis",
+      "latin_text": "<...> viris defunctis scribere scribat\n<...> soni qui <...> atque libens\n<........................> talia <...>",
+      "pdf_page": 52,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 2096,
+      "roll_id": 132,
+      "pdf_page": 52,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "D'apr\u00e8s M. Prou et A. Vidier (Recueil des chartes de Saint-Benoit-sur-Loire, Paris, t. I, 1900, p. 255, n. 1), ce personnage serait peut-\u00eatre mort le 21 ao\u00fbt 1137, car son nom \u00ab figure \u00e0 ce jour dans l'obituare de l'abbaye s. \u00bb"
+    },
+    {
+      "id": 2097,
+      "roll_id": 132,
+      "pdf_page": 52,
+      "pdf_half": "right",
+      "footnote_num": "\u24c7",
+      "text": "L'ais du ms. 72 (69) d'\u00d4rl\u00e9ans ..."
+    },
+    {
+      "id": 2098,
+      "roll_id": 132,
+      "pdf_page": 52,
+      "pdf_half": "right",
+      "footnote_num": "\u24c2",
+      "text": "... abbaye de Fleury (1107-1137). Entre 1107 et 1133, ce religieux conclut des confraternit\u00e9s avec les abbayes de S. Maur-des-Foss\u00e9s \u24c7 et de Pontlieu \u24c2."
+    },
+    {
+      "id": 2099,
+      "roll_id": 132,
+      "pdf_page": 52,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "\u00c9d. M. Prou et A. Vidier, op. cit., p. 255, n\u00ba XCIX."
+    },
+    {
+      "id": 2100,
+      "roll_id": 132,
+      "pdf_page": 52,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "Ibid., p. 256, n\u00ba C. Sur ces deux associations de pri\u00e8res, cf. ibid., p. LXXXIX."
+    }
+  ]
+}

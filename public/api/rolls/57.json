@@ -1,39 +1,215 @@
 {
   "roll": {
     "id": 57,
-    "roll_num": "97",
-    "date_str": "S.d.",
-    "title": "S.d. [fin XI &.-d\u00e9but XIIS &.] Rouleau mortuaire ( fragmentaire) anonyme. a.L. Delisle, Vital de Savigny, P. 26, n? 3, dapr\u00e8s (\u00e9d. partielle) . INDIQU\u00c9 G. Nicolaj, Cultura e 'prassi di notai preirneriani, Milano; 1991, P. 104. Les divers titres furent appos\u00e9s par des \u00e9tablissements religieux du P\u00e9rigord (Tourtoirac; S. Front 10 de P\u00e9rigueux), du Berry (S. Ursin de Bourges), dAnjou (Bourgueil), du Poitou (Charroux) et du Limousin (Lesterps) . Trois dentre eux font part du nom de leurs d\u00e9funts Tourtoirac; de ses abb\u00e9s Inguilinus, Causfredus et Stephanus Bourgueil, de labb\u00e9 Raimundus (1060-1079) Charroux; de labb\u00e9 Fulcradus (1077-1088) 15 Autant qu'on peut en juger dapr\u00e8s ce fragment; le pr\u00e9sent rouleau mortuaire circula donc apr\u00e8s 1088. Il n'est gu\u00e8re possible de d\u00e9terminer son itin\u00e9raire.",
-    "manuscripts": "A. Milano; Biblioteca Ambrosiana; C 51 sup. Sententiae diversorum Patrum de primatu Romanae Ecclesiae w, XI' &.), fol. II (reli\u00e9 haut en bas)  Parchemin (tr\u00e8s \u00e9pais ; c. c. [= verso] blanc ; c. P. 5 [= recto] jaune). Un fragment  opisthographe. Longueur; 22,5 cm largeur (rogn\u00e9e), 13 cm. Mauvais \u00e9tat de conservation",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "50,51",
+    "roll_num": 64,
+    "date_str": "S.d. [fin 1004-d\u00e9but 1005]",
+    "title": "Bref mouvement sollicitant de prier pour Abb\u00e9on, abb\u00e9 de Fleury (13 novembre 1004).",
+    "manuscripts": "A. Original perdu.",
+    "pdf_source": "1",
+    "pdf_pages": "42,43,44",
     "is_verified": 0
   },
-  "tituli": [],
+  "tituli": [
+    {
+      "id": 120,
+      "roll_id": 57,
+      "title": "",
+      "location_name": "",
+      "latin_text": "5 B. Vatican. Reg. lat. 1586, fol. 1 (X\u02c6 s.) - C. Paris, B. N. f. lat. 2858, fol. 69v (X\u02c6 s.) \u00b9.",
+      "pdf_page": 42,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 121,
+      "roll_id": 57,
+      "title": "",
+      "location_name": "",
+      "latin_text": "D. Paris, B. N. F., Coll. Duchesne, vol. 56, fol. 416r, d'apr\u00e8s \u0299 (XVII s.) - E. Orl\u00e9ans, B. M., ms. 490-491 (270) lex, (277) (d'apr\u00e8s le 272), par Dom Chaignac.",
+      "pdf_page": 42,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 122,
+      "roll_id": 57,
+      "title": "",
+      "location_name": "",
+      "latin_text": "a. E. Balue, Muri\u00e9tienne... in\u2072r, Paris, t. i, 1876, p. 411. - B. E. Martenez, De antiquis monasteriis, relicta, p. 867, - Anno sanctarum omnium sancti Benedicti, t. IV, p. 722, sanda indication de source - M\u00e8re m\u00e9turgue, fol. 159, d'apr\u00e8s - f. R. H. F. t, X p. 442, d'apr\u00e8s - z. E. Balue, Muri\u00e9tienne... in-fol, Lucas, t. II, 1761, p. 114, d'apr\u00e8s - a. h. P. L., t. XXXVII, col. 385, d'apr\u00e8s e. q. 1. - V. Rochec, Histoire de l'abbaye royale de Sa\u00e9s Ben\u00e9t de Louv\u00e9s, Orl\u00e9ans, 1885, t. IV, d'apr\u00e8s - e. J. Delisle, Rouleaux des morts du IXe au XVe s., p. 35, n. 38, d'apr\u00e8s e. G. de \u00c9v\u00e9, Rouleaux des morts du IXe au XVe s., p. 35, n. 38, d'apr\u00e8s.",
+      "pdf_page": 42,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 123,
+      "roll_id": 57,
+      "title": "",
+      "location_name": "",
+      "latin_text": "N\u00e9 \u00e0 Orl\u00e9ans vers 940. Abbot from Fleury, etc. (French text continuation). Nomm\u00e9 \u00e9colastre vers 960, il va compl\u00e9ter sa formation \u00e0 Paris, puis \u00e0 Reims. De retour en Angleterre, il reprend sa charge d'\u00e9col\u017etre qu'il garde jusqu'\u2019en 985, laquelle il est oblig\u00e9 de s'\u201cxiler' en Angleterre, pr\u00e9cisement au monast\u00e8re de Ramsey (Hunts), normalement trouv\u00e9. Il entre alors en relation avec Dunstan, Archev\u00ech\u00e9 de Canterbury. Revenu en 987, il est alors abb\u00e9 en 988. Il gouverne sa propre abbaye, avec intelligence, en donnant toujours \u00e0 concilier ses droits envers le saint S\u00e9bastien. R\u00e9formateur \u00e0 l'aune de Dunstan, il lutte contre la minerie et la d\u00e9t\u00e9rion de liens eccl\u00e9siastiques par des laics. Parmi de Robert II de Fleury, il est dans son nom plusieurs voyageurs \u00e0 d'importantes privil\u00e8ges \u00e0 son monast\u00e8re. Toujours destin\u00e9 d'\u00e9partir dans diverses abbayes, il se rend en novembre 1004 La R\u00e9de (\u00e9t\u00e9rente de Fleury, \u00f4bl\u00ec) et il est lui \u00e0 l'\u2019une rise entre des moines (15 novembre 1004). Son corps est ramen\u00e9 \u00e0 Fleury, \u00f4bl\u00ec les religieux d\u00e9cident de r\u00e9diger le document publi\u00e9 ici, afin de solliciter de pri\u00e8res \u00e0 son institution. Polyrgraphe, Abbots a laiss\u00e9 de ses oeuvres entre d'historiographes (Vita Sancti Edmundi), de grammaire, de comput. Son disciple Ancon a r\u00e9dig\u00e9 sa Vita.",
+      "pdf_page": 42,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 317,
+          "titulus_id": 123,
+          "original_name": "Dunstan",
+          "original_title": "Archev\u00e9ch\u00e9 de Canterbury",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Dunstan",
+          "normalized_role": "Archbishop of Canterbury",
+          "normalized_dates": "",
+          "location_name": "Canterbury"
+        },
+        {
+          "id": 318,
+          "titulus_id": 123,
+          "original_name": "Robert II de Fleury",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert II",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Fleury"
+        },
+        {
+          "id": 319,
+          "titulus_id": 123,
+          "original_name": "Edmundi",
+          "original_title": "Sancti",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Edmund",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 320,
+          "titulus_id": 123,
+          "original_name": "Ancon",
+          "original_title": "disciple",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ancon",
+          "normalized_role": "monk/scribe",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "roll_id": 57,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Omnibus Deo verendis congregationibus, canonicae sive normaliter Christo summo pasturei sub religiosis patribus atque sub Deo dicis abbatissis militantis- humilis caverna monachorum Sancti Remigi. Remorum archiepiscopi. Fran- corum apostoli, omnium virtutum optimam protectem. Cum primitivi fructus caritatum numquam sint extra munus geminae dilectionis, non dubitamus vos replessos esse spiritatis pietas, qui non est sine primipendi commodo apostolicae compassionis, quae est intima perpetuo alterni infirmitatis. Quibus enim est, secundum doctorem gentium, communis affectus compatiendi, erit communis gloria regnandi\u00b2 (\u00b2). Cum enim per lapsum mortalitatis cotidie transit huma- num genus in ariditatem crimen, postremitis est omnium malorum figere mentsis regressum in delectatione rerum transeuntium.",
+      "pdf_page": 43,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 321,
+          "titulus_id": 124,
+          "original_name": "Christo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 322,
+          "titulus_id": 124,
+          "original_name": "Sancti Remigi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Remigius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "roll_id": 57,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Nascimur in mundo nudi, morimur peregrini.\nSciendum namque est quia pris vita via est, est non patria. Cum enim irrevocabilis bona possent possere vit\u00e6 aliquam amplitudinem, est esse compellitur, qui evanescit, corntibus rebus inligatur.\nInficientes mentem habens non praeterentes.\nSed cum velocitas gravis luminare non possit aliquis habitate subsistere, in illo nos operit omnem plenitudinem desiderii nostri ponere qui solus potest super mortis occasum posterne ascendere.\nSub velo vitae traduntur corpora terrae.\nSi rex virtutum mortis calcavit abyssum.\nFiducialiter ego opertor nos condari de casu dissolutionis corporae, qui minimum capillus non perferiet. In tam pmolloso mundo perelli.\nPer mundum spase scibile terra capillus;\nQuos regis omni, divina potentia reddit.\nSed lugubres meditationes corium nond pendent ex fratrum dormitione, sed ex divini judicii appensione. Licet namique habitemus in acrumna mundani carere, optima est spaes nostrae consolationis, quia sanguis Christi clavis est paradisi. In enim invictissime divinissim\u00e6 havo perforata est Laetithian maxilla serpenti tortuosa, extensa est auctoritate apostoli pro defunctis lecitia contris.\nVendo laetithian.\nVicto Laetithan, mors est decernit fata;\nEst in sporir in tumulis, cum fit consupio carnis.\nQue hoc habet progressui humani generis ut revertatur in materiam suae originis.\nSi medet occasum fieri quos prodit ortus.\nAlterius pulchrum vit\u00e6 venenum ad ortum.\nNam omnimodis dependere sunt mortalitatis nostrae querelae, et si in sino seu testis est Repositum esse gloriosum quem resurrectionis suae.\nVisurus regem factorem, reg jocrandatus.\nSperat pelle sua risus membra tegenda.\nExemplum prestant frumenti mortua grana:\nNon est ambiguum de limo surgere fructum.\nQu\u012b ergo mortificationem seminum considerat, et fructum mortificationis visu, manuit, altus, gusto probat, ut quid de vivificatione funerum dubitat?\nSperat imojs fidei semen de semine nasci.\nNec credit carnem de morte resurgere posse.",
+      "pdf_page": 44,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 323,
+          "titulus_id": 125,
+          "original_name": "Christi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 324,
+          "titulus_id": 125,
+          "original_name": "Laetithian",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Laetithian",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
   "footnotes": [
     {
-      "id": 35816,
+      "id": 226,
       "roll_id": 57,
-      "pdf_page": 50,
+      "pdf_page": 42,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "B. Vatican. Reg. lat. 1586, fol. 1 (X\u02c6 s.) - C. Paris, B. N. f. lat. 258, fol. 69v (X\u02c6 s.) \u00b9."
+    },
+    {
+      "id": 227,
+      "roll_id": 57,
+      "pdf_page": 42,
       "pdf_half": "right",
       "footnote_num": "1",
-      "text": "rtcrences QuC _ 74or"
+      "text": "Ed. H. Zimmermann, Papsturkunden (896-1046), Wien, II, 1985, p. 655, n\u00ba 33 (13 novembre 996); cf. Jaff\u00e9, n\u00ba 2872 (1961);"
     },
     {
-      "id": 35817,
+      "id": 228,
       "roll_id": 57,
-      "pdf_page": 50,
+      "pdf_page": 42,
       "pdf_half": "right",
       "footnote_num": "2",
-      "text": "explicitement, m'a \u00e9t\u00e9 aimablement com- muniqu\u00e9e par Mme Mirella Ferrari. (2) Cf. Gallia christiana, t. XIV; col. 657. Cf. Gallia christiana, t. II, col. 1280 ; son nom appara\u00eet notamment en 1079 dans la date dun acte de Philippe IFr (\u00e9d. M. Prou, Recueil des actes de Philippe I' , Paris, 1908, P. 221,"
+      "text": "A son sujet et sur sa r\u00e9gion, cf. notamment A. Notter et A. Bose, \u00e9d. Lumi\u00e8res de l'an mil en Orl\u00e9anais. Autour du mill\u00e9naire d'Abbaye de Fleury, Turnhout, 2004; l'abbaye"
     },
     {
-      "id": 35818,
+      "id": 229,
       "roll_id": 57,
-      "pdf_page": 50,
+      "pdf_page": 43,
       "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "P. CXCIX, n.)  (4) Inguilinus et Gausfredus n 'apparaissent pas dans la liste incompl\u00e8te des abb\u00e9s de Tour- toirac   fournie pour es XI' et XII\" $ par Ic Gallia christiana (t. II, col. 1496) . (5) Peut-\u00eatre premier abb\u00e9 de Tourtoirac, cit\u00e9 en 1020 par le Gallia christiana (loc. cit:)."
+      "footnote_num": "1",
+      "text": "INDIQU\u00c9 : \u00c9. Lesne, Histoire de la propri\u00e9t\u00e9 eccl\u00e9siasque en France, Lille, t. V, 1940, p. 296."
+    },
+    {
+      "id": 230,
+      "roll_id": 57,
+      "pdf_page": 44,
+      "pdf_half": "left",
+      "footnote_num": "01",
+      "text": "Cf. Cl., XXI, 18: et capillus de capitis cerebro vestro non peribit o."
     }
   ]
 }

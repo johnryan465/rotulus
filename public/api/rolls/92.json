@@ -1,0 +1,234 @@
+{
+  "roll": {
+    "id": 92,
+    "roll_num": 88,
+    "date_str": "[1097, apr\u00e8s le 6 septembre]",
+    "title": "Titre de Baudri de Bourgueil : Titre compos\u00e9 par Baudri de Bourgueil pour le rouleau mortuaire d'Audebert, achev\u00e9 de Bourges et abb\u00e9 de D\u00e9ols (\u2020 6 septembre 1097).",
+    "manuscripts": "A. Original perdu.",
+    "pdf_source": "2",
+    "pdf_pages": "42",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 788,
+      "roll_id": 92,
+      "title": "",
+      "location_name": "",
+      "latin_text": "\u201c Pictava Geraldum Cenomannisque Johelum,\nAndegavis vero Natalem deflet obisse.\u201d ",
+      "pdf_page": 42,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2537,
+          "titulus_id": 788,
+          "original_name": "Geraldum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gerold",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Pictavum"
+        },
+        {
+          "id": 2538,
+          "titulus_id": 788,
+          "original_name": "Johelum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Joel",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Cenomannia"
+        },
+        {
+          "id": 2539,
+          "titulus_id": 788,
+          "original_name": "Natalem",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Nathaniel",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Andegavis"
+        }
+      ]
+    },
+    {
+      "id": 789,
+      "roll_id": 92,
+      "title": "In rotulo prearchiepiscopo Biturigensio.",
+      "location_name": "Biturigo (modern Bourges)",
+      "latin_text": "In rotulo prearchiepiscopo Biturigensio.\nCum velut examen rotulorum venerit ad nos\n(Mortem, non vitum, rotulus michi (6) nunciat omnis :\nMortem Remensis rotulus dixit Raginaldi,\nDurandi siquidem pallidem vidimus artus,\nCum nos Arvernis Urbanus papa vocasset\nNos Cenomannisque rotulus commovit Hoelis:\nAurelianis superest jam carta Johannis.\nSi tarnen abbates adnumerare velimus,\nMultos abbates rotularis pagina deflet :\nPictava Geraldum Cenomannisque Johelum,\nAndegavis vero Natalem deflet obisse.\nMultos pretereo, vel quos incuria tollit,\nVel quos res (5) alias curanti oblivio demit.\nVenit ad extremum rotulus de presule magno,\nQuem michi precipui res commendabat amoris.\nIs, quia proprio, duplici fugatlibet honore,",
+      "pdf_page": 42,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2540,
+          "titulus_id": 789,
+          "original_name": "Raginaldi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Reginald",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Reims"
+        },
+        {
+          "id": 2541,
+          "titulus_id": 789,
+          "original_name": "Durandi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Durand",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2542,
+          "titulus_id": 789,
+          "original_name": "Urbanus papa",
+          "original_title": "papa",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Urban II",
+          "normalized_role": "pope",
+          "normalized_dates": "",
+          "location_name": "Arverne/Auvergne"
+        },
+        {
+          "id": 2543,
+          "titulus_id": 789,
+          "original_name": "Hoelis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hodel",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Cenomannia/Maine"
+        },
+        {
+          "id": 2544,
+          "titulus_id": 789,
+          "original_name": "Johannis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "John",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Aurelianis/Orleans"
+        },
+        {
+          "id": 2545,
+          "titulus_id": 789,
+          "original_name": "Geraldum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gerald",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Pictava/Poitiers"
+        },
+        {
+          "id": 2546,
+          "titulus_id": 789,
+          "original_name": "Johelum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Joel",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2547,
+          "titulus_id": 789,
+          "original_name": "Natalem",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Nathaniel",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Andegavia/Anjou"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 949,
+      "roll_id": 92,
+      "pdf_page": 42,
+      "pdf_half": "left",
+      "footnote_num": "*",
+      "text": ""
+    },
+    {
+      "id": 950,
+      "roll_id": 92,
+      "pdf_page": 42,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Ce sont les rouleaux mortuaires de Renard Ier du Bellay, archev\u00eaque de Reims (cf. supra, p. 227, n\u00ba 81), de No\u00ebl Ier, abb\u00e9 de S. Nicolas d'Angers (cf. supra, p. 229, n\u00ba 82), ainsi que de Jo\u00ebl d'Antins, abb\u00e9 de la Couture du Mans et de Ho\u00ebl (cf. supra, p. 231, n\u00ba 83)."
+    },
+    {
+      "id": 952,
+      "roll_id": 92,
+      "pdf_page": 42,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "connus (1) ou inconnus (2)"
+    },
+    {
+      "id": 951,
+      "roll_id": 92,
+      "pdf_page": 42,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Ce sont les rouleaux mortuaires de Jean, \u00e9v\u00eaque d'Orl\u00e9ans (cf. supra, p. 233, n\u00ba 84), et de Durand, \u00e9v\u00eaque de Clermont (cf. supra, p. 235, n\u00ba 86)."
+    },
+    {
+      "id": 953,
+      "roll_id": 92,
+      "pdf_page": 42,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "notamment \u00e0 celui de G\u00e9raud, abb\u00e9 de Montierneuf (3), d\u00e9c\u00e9d\u00e9 le 17 janvier 1097 (n. st.)."
+    },
+    {
+      "id": 954,
+      "roll_id": 92,
+      "pdf_page": 42,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Baudri de Bourgueil composa en outre plusieurs \u00e9pitaphes pour Audebert (4)."
+    },
+    {
+      "id": 955,
+      "roll_id": 92,
+      "pdf_page": 42,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "Vel quos res (5) alias curanti oblivio demit."
+    },
+    {
+      "id": 956,
+      "roll_id": 92,
+      "pdf_page": 42,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "(Mortem, non vitum, rotulus michi (6) nunciat omnis :"
+    }
+  ]
+}

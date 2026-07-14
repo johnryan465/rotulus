@@ -1,0 +1,39 @@
+{
+  "roll": {
+    "id": 137,
+    "roll_num": 134,
+    "date_str": "S. d.[premi\u00e8re moiti\u00e9 du XII$^e$ s.]",
+    "title": "Rouleau mortuaire de l\u2019abbaye [de S. Pierre] de Pr\u00e9aux.",
+    "manuscripts": "",
+    "pdf_source": "4",
+    "pdf_pages": "57",
+    "is_verified": 0
+  },
+  "tituli": [],
+  "footnotes": [
+    {
+      "id": 2116,
+      "roll_id": 137,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "A son sujet, cf. D. Rouet, Le cartulaire... de Saint-Pierre de Pr\u00e9aux (1034-1227), Paris, 2005, p. XLII et n. 181."
+    },
+    {
+      "id": 2117,
+      "roll_id": 137,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "Mathildis de Couvy, abbesse de Jouarre,"
+    },
+    {
+      "id": 2118,
+      "roll_id": 137,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(3)",
+      "text": "attes\u00e9e en 1103 ;"
+    }
+  ]
+}

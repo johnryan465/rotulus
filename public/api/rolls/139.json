@@ -1,0 +1,211 @@
+{
+  "roll": {
+    "id": 139,
+    "roll_num": 136,
+    "date_str": "S. d. [vers 1150]",
+    "title": "Encyclique sollicitant de prier pour Selvo, abb\u00e9 de Susa.",
+    "manuscripts": "A. Torino, Archivio di Stato, Corte. Materie ecclesiasticie. Abbazia di S. Giusto di Susa, mazzo 2 bis, fasc. 1, feuilles X et XI. Parchemin (\u00e9pais; c. jaune \u00e2pre; c. p. jaune fonc\u00e9).\nX : Longueur, 41 cm ; largeur, 16 cm ;\nXl : Longueur, 6 cm ; largeur, 16 cm .",
+    "pdf_source": "4",
+    "pdf_pages": "58,59",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1732,
+      "roll_id": 139,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Universis Sancte Ecclesie religiosissimis [fjde]ibus, ad quos] heo secula fuerit per lata, congregatio [Sanctorum Justi] and Mauri Secusiniensis monasterii <........> Dei <......>-ram, a cujus < dextris astrit reg[ina in vestu destacado], circundata varie-",
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1733,
+      "roll_id": 139,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Hostis perfidi juris amicus obit.\nIlle pater, pater ile, pius Renaudus obit qui\nGaudet habere polum, dum legit ossa solum.",
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7238,
+          "titulus_id": 1733,
+          "original_name": "Renaudus",
+          "original_title": "pius",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Renaud",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1734,
+      "roll_id": 139,
+      "title": "",
+      "location_name": "",
+      "latin_text": "tate \u00bb (1). Una (est (6 columba Christi, dilectissimi, una est mater nostra) catholica, videlicet Ecclesia per orbem terrarum [diffusa, que natos ad mortem, ad vitam",
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1735,
+      "roll_id": 139,
+      "title": "que fidel",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1736,
+      "roll_id": 139,
+      "title": "Domini servi sumus",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1737,
+      "roll_id": 139,
+      "title": "unius Regis laicimiam bajulamus",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1738,
+      "roll_id": 139,
+      "title": "mulique quippe est via hominis super terram",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1739,
+      "roll_id": 139,
+      "title": "quia \u00ab in convalle lac[rimarum",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1740,
+      "roll_id": 139,
+      "title": "dum in hoc ecorpore turbitelli conversar",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1741,
+      "roll_id": 139,
+      "title": "animales incessant passionem",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1742,
+      "roll_id": 139,
+      "title": "es patimur",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1743,
+      "roll_id": 139,
+      "title": "quibus in vestib",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1744,
+      "roll_id": 139,
+      "title": "labore hujus vite mi",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1745,
+      "roll_id": 139,
+      "title": "niente",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1746,
+      "roll_id": 139,
+      "title": "prie",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 2125,
+      "roll_id": 139,
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "\u00c9d. supra, p. 600, n\u00b0 127."
+    },
+    {
+      "id": 2126,
+      "roll_id": 139,
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "\u00c9d. C. Cipolla, \u300c Le pi\u00f9 antiche carte diplomatiche del monasterio di S. Giusto di"
+    },
+    {
+      "id": 2127,
+      "roll_id": 139,
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "footnote_num": "*",
+      "text": "Susa (1029-1212) s., dans Bulletin dell'Istituto storico italiano per il medio evo, t. 18, 1896, p. 94, n\u00ba VII."
+    },
+    {
+      "id": 2128,
+      "roll_id": 139,
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "footnote_num": "*",
+      "text": "Susa (1029-1212) s., dans Bulletin dell'Istituto storico italiano per il medio evo, t. 18, 1896, p. 94, n\u00ba VII."
+    }
+  ]
+}

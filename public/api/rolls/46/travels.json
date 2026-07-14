@@ -1,0 +1,58 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Cluny, France",
+    "coords": [
+      46.4351,
+      4.6592
+    ],
+    "year": 994,
+    "date_str": "S.d. [994, apr\u00e8s le 11 mai]",
+    "is_approximate": false,
+    "description": "Origin: Formule de titre, mentionnant Mayeul, abb\u00e9 de Clun..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Beaulieu-sur-Dordogne",
+    "coords": null,
+    "year": 994,
+    "date_str": "S.d. [994, apr\u00e8s le 11 mai]",
+    "is_approximate": true,
+    "description": "Titulus Header: Beaulieu-sur-Dordogne"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Aurillac",
+    "coords": null,
+    "year": 994,
+    "date_str": "S.d. [994, apr\u00e8s le 11 mai]",
+    "is_approximate": true,
+    "description": "Titulus Header: Aurillac"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Moissac",
+    "coords": null,
+    "year": 994,
+    "date_str": "S.d. [994, apr\u00e8s le 11 mai]",
+    "is_approximate": true,
+    "description": "Titulus Header: Moissac"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Ripoll, Spain",
+    "coords": [
+      42.1997,
+      2.1911
+    ],
+    "year": 994,
+    "date_str": "S.d. [994, apr\u00e8s le 11 mai]",
+    "is_approximate": false,
+    "description": "Titulus Header: Ripoll"
+  }
+]

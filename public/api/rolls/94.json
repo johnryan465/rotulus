@@ -1,0 +1,126 @@
+{
+  "roll": {
+    "id": 94,
+    "roll_num": 90,
+    "date_str": "S.d.[vers 1100]",
+    "title": "Formules de titres \u00e0 l'usage de S. P\u00e8re de Melun.",
+    "manuscripts": "",
+    "pdf_source": "2",
+    "pdf_pages": "44",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 793,
+      "roll_id": 94,
+      "title": "[Premi\u00e8re formule]",
+      "location_name": "",
+      "latin_text": "Quos simplex titulat deixis numen et ornat,\nMorte patris mestis, gaudia post lacrimas\nQuid mortis totius casum geminare necesse est,\nAtque recens vulnus crescere dum renovas?\nLex deflere vetat, cunctis aque subeunda.\nConditio mortis omnibus est similis.\nSolvimus ecce pati quod vis fraterna coegit.\nNostris (Ingelberto, Adam (a) ergo vicem reddite vos itidem.",
+      "pdf_page": 44,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2556,
+          "titulus_id": 793,
+          "original_name": "Ingelberto",
+          "original_title": "",
+          "footnote_num": "a",
+          "footnote_text": "L. Delisle, Rouleaux des morts du IXe au XVe s., p. 151, n\u00b0 XXIX, d'apr\u00e8s B.",
+          "normalized_name": "Ingelbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2557,
+          "titulus_id": 793,
+          "original_name": "Adam",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Adam",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 794,
+      "roll_id": 94,
+      "title": "[Deuxi\u00e8me formule]",
+      "location_name": "",
+      "latin_text": "Alii\nFratribus et dominis aetern\u00e6 gaudia lucis.\nCorbidus a veris singultus ponite patris.\nHoc petimus solio valeatis scandere summo.\nDebita qu\u00e9 petitis nostris concedite defunctis (Friderico, Hugoni (b)).",
+      "pdf_page": 44,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2558,
+          "titulus_id": 794,
+          "original_name": "Friderico",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Frederick",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2559,
+          "titulus_id": 794,
+          "original_name": "Hugoni",
+          "original_title": "",
+          "footnote_num": "b",
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 959,
+      "roll_id": 94,
+      "pdf_page": 44,
+      "pdf_half": "left",
+      "footnote_num": "B",
+      "text": "Paris, B. N. F., lat. 1691 (3), fol. II (X11 s.)."
+    },
+    {
+      "id": 961,
+      "roll_id": 94,
+      "pdf_page": 44,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "L. Delisle, Rouleaux des morts du IXe au XVe s., p. 151, n\u00b0 XXIX, d'apr\u00e8s B."
+    },
+    {
+      "id": 962,
+      "roll_id": 94,
+      "pdf_page": 44,
+      "pdf_half": "left",
+      "footnote_num": "j",
+      "text": "van Moolenbroek, Vital de Savigny, p. 331, n. 49."
+    },
+    {
+      "id": 960,
+      "roll_id": 94,
+      "pdf_page": 44,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": ""
+    },
+    {
+      "id": 958,
+      "roll_id": 94,
+      "pdf_page": 44,
+      "pdf_half": "left",
+      "footnote_num": "25",
+      "text": "A. Original perdu."
+    }
+  ]
+}

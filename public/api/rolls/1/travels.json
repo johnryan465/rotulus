@@ -1,0 +1,28 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Abbesses",
+    "coords": [
+      48.884444444444,
+      2.3386111111111
+    ],
+    "year": 729,
+    "date_str": "S.d. [729-vers 744]",
+    "is_approximate": false,
+    "description": "Origin: L'abbesse \u00ab Coenburga \u00bb, adresse ou pr\u00eatre \u00ab Wiert..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Glastonbury, England",
+    "coords": [
+      51.1473,
+      -2.7186
+    ],
+    "year": 729,
+    "date_str": "S.d. [729-vers 744]",
+    "is_approximate": false,
+    "description": "Coengilsus (abbot)"
+  }
+]

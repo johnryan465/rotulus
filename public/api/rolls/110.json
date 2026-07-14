@@ -1,0 +1,74 @@
+{
+  "roll": {
+    "id": 110,
+    "roll_num": 107,
+    "date_str": "S. d.",
+    "title": "Annonce de l'envoi d'une liste de d\u00e9funts par l'abbaye de Montecassino \u00e0 celle de Fleury, par l'interm\u00e9diaire de Gautier, moine de Fleury.",
+    "manuscripts": "",
+    "pdf_source": "3",
+    "pdf_pages": "3",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1073,
+      "roll_id": 110,
+      "title": "",
+      "location_name": "",
+      "latin_text": "cedunt diti delirio verbo periti.\nlus est dona dare quam veris falsa probare,\nsacris summis assurgunt undique nummis.\nllis decretis damnantur dona locupletis,\nlus valet argentum quam Gregorii documentum.\nunce status in donis est omnis religionis,\nam sunt buccarum pastores, non animarum.\nmus in absconso jus dat dimittere sponso,\ni velt uxorem vel socios docere nobiliorem.\ngi bonus esse velis sociis dominoque fidelis,\nncipies fieri derisio maxima cleri.\nast ascetator sociorum, fraudis amator,\nHic formidator et ab omnibus hic veneratur.\nHis plenus vitis est totus Gallicus orbis,\nSed fidei pilo penetravit ad intima Milo :\nXenia nulla bonum nec amor flexere patronum.\nMens sibi fortis erat, si vis a corpore deerat.\nEmptores vidi verbi mucrone recidi ;\nEt Simon immundus sibi succubuit pudibundus.\nGaudia quanta bonis virtus dedit illa Milonis,\nEt multo plura nobis foret illa datura\nEt foret invictus, sed mors sibi sustulit ictus.\nMens minimum tuta Petrumque rigore segura,\nNunc capis in caelis tua praemia, serve fidelis :\nNunc super astra situs, diademate nunc redimitus,\nNostros oratus audi solvendo reatus !",
+      "pdf_page": 3,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3097,
+          "titulus_id": 1073,
+          "original_name": "Gregorii",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gregory",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3098,
+          "titulus_id": 1073,
+          "original_name": "Milo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Milo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3099,
+          "titulus_id": 1073,
+          "original_name": "Simon",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Simon",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3100,
+          "titulus_id": 1073,
+          "original_name": "Petrumque",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

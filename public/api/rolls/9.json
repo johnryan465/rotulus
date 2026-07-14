@@ -1,0 +1,90 @@
+{
+  "roll": {
+    "id": 9,
+    "roll_num": 10,
+    "date_str": "S.d. [774-786]",
+    "title": "Premi\u00e8re formule de bref mortuaire \u00e0 l'usage de Murbach.",
+    "manuscripts": "A. Original perdu.\nB. Sankt Gallen, Stiftsbibl., 550, p. 149 (N.S.).\na. E. de Reiti\u00e8re, Formules, 2\u00b0 partie, p. 952, n\u00b0. 30.\u2014b. E. de Reiti\u00e8re, Formules, 2\u00b0 partie, p. 952, n\u00b0. 30.\u2014c. K. Zeumer, Formular Merovingici et is Carolini comes (M. G. H. Legend.), p. 331; Formular Morbacenses, n\u00b0. 7.",
+    "pdf_source": "1",
+    "pdf_pages": "7",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 14,
+      "roll_id": 9,
+      "title": "Pro defuncto",
+      "location_name": "",
+      "latin_text": "Domino reverentissimo illo abbate illis abba in Domino salutem. De cetero intomosscimus beatitudine virtue, quo quad frater nostre nimis ille ill. kal. de ac luce migravit. Qua de causa exoramus sanctitatem vestram, ut pro ejus anime de 25 psalmis sem missis vigilisius taliter agatis, quatenus obituet continet consuetudo vestra.",
+      "pdf_page": 7,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 87,
+          "titulus_id": 14,
+          "original_name": "Cinehardus",
+          "original_title": "episcopo",
+          "footnote_num": "1",
+          "footnote_text": "Cinehardus, \u00e9v\u00eaque de Wintamiae",
+          "normalized_name": "Cinehard",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Wintamiae"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "roll_id": 9,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Domino dignissime venerando... Lullae episcopo Cinehardus(1) indignus, ut vereor, episcopus Wintamiae civitatis ... salutem. Nomina quoque presbyterorum vestrorum diocoronorumque a monasterium vel monacharum sile ceterorum, que missis, per monasteria et per ecclesia nostrae diocese direximus ad celebrandum pro eis missas solemnia et orationum suffragia. Id ipsum facere strenuitatem suppliciter exoramus pro eis, quorum nomina nobis habendum dirigenda et nominatim cum personis suis scribenda, eorum sollicet qui multi proprie atque huic ecclesiae, cui servicio, amicissimis vel subdiiti fiebant vel predati.",
+      "pdf_page": 7,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 88,
+          "titulus_id": 15,
+          "original_name": "Lullae",
+          "original_title": "episcopo",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lull",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 89,
+          "titulus_id": 15,
+          "original_name": "Cinehardus",
+          "original_title": "episcopo",
+          "footnote_num": "1",
+          "footnote_text": "Cinehardus, \u00e9v\u00eaque de Wintamiae",
+          "normalized_name": "Cinehard",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Wintamiae"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 71,
+      "roll_id": 9,
+      "pdf_page": 7,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Cinehardus, \u00e9v\u00eaque de Wintamiae"
+    },
+    {
+      "id": 72,
+      "roll_id": 9,
+      "pdf_page": 7,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Cinehardus, \u00e9v\u00eaque de Wintamiae"
+    }
+  ]
+}

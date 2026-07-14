@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Saint-Riquier Abbey, France",
+    "coords": [
+      50.1347,
+      1.9472
+    ],
+    "year": 866,
+    "date_str": "S.d. [866, apr\u00e8s le 6 janvier]",
+    "is_approximate": false,
+    "description": "Origin: Encyclique sollicitant de prier pour le comte Rodo..."
+  }
+]

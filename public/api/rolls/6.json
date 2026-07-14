@@ -1,31 +1,62 @@
 {
   "roll": {
     "id": 6,
-    "roll_num": "15",
-    "date_str": "S.d.",
-    "title": "\u00c9change , de noms de clercs d\u00e9funts entre Lul, \u00e9v\u00eaque [de Mainz] , et Cineheardus \u00e9v\u00eaque de Winchester; afin qu'ils soient communiqu\u00e9s aux \u00e9tablissements leurs dioc\u00e8ses respectifs. religieux de 1. Original perdu. B. Wien, \u00dcsterreichische Nationalbibl, lat. 751, fol. 48 (milieu du IX\" &). 20 @.M. Tangl, Bonifatius, P. 246,nP 114. INDIQu\u00c9 B. HaeftenusCommemoratio defunctorum, P. 793. Verbr\u00fcderungen, P. 76, n. 3 A. Ebner; Kl\u00f6sterlichen  Gebets- M. Tangl, , Studien zur Neuausgabe der Bonifatius- Tcil) = dans Neues Archiv der Cesellschaf\u0131 f\u00fcr \u00e4ltere deutsche Briefe (IL p.65,n? 60.-0.G. Oexle, - Geschichtskunde; L XLI, 1919, Memoria und 25 Memorialuberlieferung im fr\u00fcheren Mittelalter ,, dans Fr\u00fchmittelalterliche Studien. Jahrbuch des Instituts f\u00fcr _ t\u00e0t M\u00fcnster, 10, 1976, p. 90. Fr\u00fchmittelalterforschung der Universi- Pour M, Tangl (op, = cil , p 257,n. 2),le fait que ces noms feuille n'apparaissent pas en fin de lettre de parchemin (ou un rouleau) s\u00e9par\u00e9e. semble indiquer qu'ils se trouvaient Ces dates limites sont celles de [\u00e9piscopat SUr une de Cinheardus cf. infra, p. 13, n. 1. [773]",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "7,8",
+    "roll_num": 7,
+    "date_str": "S.d. [sept. 769-770]",
+    "title": "Lettre circulaire adress\u00e9e par \u00ab Virgilius \u00bb, \u00e9v\u00eaque [de Salzbourg], pour annoncer le d\u00e9c\u00e8s du moine Candold, survenu le 10 octobre.",
+    "manuscripts": "A. Original perdu.",
+    "pdf_source": "1",
+    "pdf_pages": "6",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": [
+  "tituli": [
     {
-      "id": 35547,
+      "id": 12,
       "roll_id": 6,
-      "pdf_page": 7,
+      "title": "Epistula funebris.",
+      "location_name": "",
+      "latin_text": "Apostolico apostolorumque imitatione colendo domino patri Virgiliene episcopo ego Adalpert aliisque contribulis nostrum salutem et me necosse omnes in vestris sacris orationibus commendo. De cetero cognosceri vos volo quod monachis nostrum una vitae obitum fecit N. Candold VI idus octembris et apices hae minime in uno retinent loco, donec suum cursam pergant, rogamus. Valete.",
+      "pdf_page": 6,
       "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "CllciecCillr,chUCUC P 223."
-    },
-    {
-      "id": 35548,
-      "roll_id": 6,
-      "pdf_page": 7,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "("
+      "entities": [
+        {
+          "id": 80,
+          "titulus_id": 12,
+          "original_name": "Virgiliene",
+          "original_title": "episcopo",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Virgilius",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Salzburg"
+        },
+        {
+          "id": 81,
+          "titulus_id": 12,
+          "original_name": "Adalpert",
+          "original_title": "ego",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Adalpert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 82,
+          "titulus_id": 12,
+          "original_name": "N. Candold",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Candold",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
     }
-  ]
+  ],
+  "footnotes": []
 }

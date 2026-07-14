@@ -1,0 +1,153 @@
+{
+  "roll": {
+    "id": 129,
+    "roll_num": 126,
+    "date_str": "[1129, apr\u00e8s le 23 janvier]",
+    "title": "Rouleau mortuaire (fragmentaire) de William Giffard, \u00e9v\u00eaque de Winchester (\u2020 23 janvier 1129).",
+    "manuscripts": "A. Original originaire.\nB. London, Lambeth Palace, ms. 183 (Th. Rudburn, Historia major Wintoniensis), fol. 193 (fin XV\u00ba s.) \u2073.\na. H. Wharton, Anglia sacra, sive collectio historiarum ... de archiepiscopis et episcopis Angli\u00e6, London, t. I, 1691, p. 279, d'apr\u00e8s B.",
+    "pdf_source": "4",
+    "pdf_pages": "34,35",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1653,
+      "roll_id": 129,
+      "title": "1 S.d.- Whitby.",
+      "location_name": "Whitby",
+      "latin_text": "Gallia \u207a flet prolem, Wyntonia filia patrem;\nQui venit magne de semine Karolomagni.\nNobilitando genos clarum de sydere sydus,",
+      "pdf_page": 34,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6905,
+          "titulus_id": 1653,
+          "original_name": "Karolomagni",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Charlemagne",
+          "normalized_role": "king",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1654,
+      "roll_id": 129,
+      "title": "2 [1129]",
+      "location_name": "Reading",
+      "latin_text": "Dum (a) misero mundo mortem dedit Adae;\nMordentem potuit sub iniqua ponere clade :\nUnius mortos communem fundere mortem,\nInnotuit natis et in unam dorcere sortem.\nOmnes inde rei sumus, ut pariter moriamur,\nPeccantisque patris vestigia dura sequamur.\nQuid juvat ergo reos fatos per sorte parentis\nDivitiae, census and abyssus plurima mentis ?\nQuid juvat immensas ventris protendere pestes ?\nQuid juvat intactas afro perquirere vestes ?\nSi sensus, si divitiae, si splendida coena\nPropagare necis possent restringere fraena.\nNestoreos plusques dies hic continuasset,\nEt formare dies per saecula multa parasset.\nSed valet his minime spatiosum tempus haberi.\nNil igitur possit pro praedia longa teneri.\nDivides enim pariter subit hanc cum paupere sortem.",
+      "pdf_page": 35,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6906,
+          "titulus_id": 1654,
+          "original_name": "Adae",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Adam",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1655,
+      "roll_id": 129,
+      "title": "",
+      "location_name": "",
+      "latin_text": "De paribus memores capiunt sibi fata futuri.\nNon gerit exemplum solus generis perituri,\nTotus in exemplo mundus fugit : ast fugientem\nCurrit ad hune homo, sed sequitur tuxa poena sequentem.\nHis ergo memo est tuo sortisque propinqueae.\nExitium fugiens ver gaudia tanta relinque.\nSed memorate pater, quem vita pudica probavit,\nQuem pia simplicitas dignum Dignate paravit.\nElias hic carpe vias sedesque priorum :\nTartareas nunquam subeas, poenasve malorum.\nNobilis ordo patruum, cor, dextra, facetia, virtus.\nTe vir honeste nimis vivere non facunt.\nDives eras Wilhelme, probus, pietatis amator.\nExtendere dies non tamen ita tuos.\nContemptor laudius, laudanda sequendo beatus,\nEcclesiae sanctae tutor amicus eras.\nMulta tibi species fuit et sapientia multa.\nCultus honestatis sobrietasque comes.\nFormasom faciem, procerum corpus habebas.\nLaetitiam vultus moribus exuperans.\nTu miseros pasti, gazas super asta levasti.\nEt largus cunctis et tibi pauper eras.\nOdisti mundum, lutulenta negotia mundi.\nJustitia fervens, turbipus asper eras.\nPraesulis officio, pastoris honore levatus,\nSubiectis socius, inferior sociis.\nPes fueras claudis, caecis mutabile lumen,\nPortans invalidos, qui cecidere levans,\nOs tu plebis eras, Regis secretur auris;\nIllum subiectis, se sibi concilians.\nEcce subito mortem : quam nulla scientia tollit\nDeliatae nullae, nullus honoris amor.\nTransitus iste gravis, grave hac mutatio carnis ;\nCum caro fit vermis, et ipse cinis.\nIndiscreta Trias te super astra ferat.\nWilhelmus fratres naturae debita solvit ;\nEcclesiae praesul Wyntoniensis erat.\nHoc in honore virum sese prudenter agebat,",
+      "pdf_page": 35,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6907,
+          "titulus_id": 1655,
+          "original_name": "Wilhelme",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Wilhelm",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6908,
+          "titulus_id": 1655,
+          "original_name": "Wilhelmus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Wilhelm",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 1984,
+      "roll_id": 129,
+      "pdf_page": 34,
+      "pdf_half": "right",
+      "footnote_num": "*",
+      "text": "Guillelmo parce, Redemptor *"
+    },
+    {
+      "id": 1985,
+      "roll_id": 129,
+      "pdf_page": 34,
+      "pdf_half": "right",
+      "footnote_num": "\u2073",
+      "text": "London, Lambeth Palace, ms. 183 (Th. Rudburn, Historia major Wintoniensis), fol. 193 (fin XV\u00ba s.) \u2073."
+    },
+    {
+      "id": 1986,
+      "roll_id": 129,
+      "pdf_page": 34,
+      "pdf_half": "right",
+      "footnote_num": "\u207a",
+      "text": "flet prolem"
+    },
+    {
+      "id": 1987,
+      "roll_id": 129,
+      "pdf_page": 34,
+      "pdf_half": "right",
+      "footnote_num": "\u207c",
+      "text": "Iste Wilhelmus Giffard ex cancellario regni Henrici et regni Angli\u00e6 factus est episcopus Wyntoniae; qui, qualis, quantus fuerit in Ecclesia Dei et quod vir alti sanguinis exterit, ostendit titulus monasterii Sancti Benedicti et Sanctae Hildae Wytenesiis ecclesiae, metriice in ejus laude sic compositus \u207c"
+    },
+    {
+      "id": 1988,
+      "roll_id": 129,
+      "pdf_page": 34,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Cette r\u00e9f\u00e9rence m'\u00e9t\u00e9 aimablement communiqu\u00e9e par M. Julian Harrison."
+    },
+    {
+      "id": 1989,
+      "roll_id": 129,
+      "pdf_page": 34,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "William Giffard, nomm\u00e9 \u00e9v\u00e9que de Winchester en ao\u00fbt 1100, fut consacr\u00e9 seulement le 11 au\u00fbt 1107 ; il mourut le 23 janvier 1129 \u2072."
+    },
+    {
+      "id": 1990,
+      "roll_id": 129,
+      "pdf_page": 34,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "A son sujet, cf. Handbook of British chronology, p. 276."
+    }
+  ]
+}

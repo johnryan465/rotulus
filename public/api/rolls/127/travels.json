@@ -1,0 +1,62 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Bref",
+    "coords": null,
+    "year": 1117,
+    "date_str": "S. d. [1117-1126]",
+    "is_approximate": true,
+    "description": "Origin: Bref mortuaire adress\u00e9 par S. Michael de Siegburg ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Cologne",
+    "coords": null,
+    "year": 1117,
+    "date_str": "S. d. [1117-1126]",
+    "is_approximate": true,
+    "description": "Anno (archbishop and founder of the monastery)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Siegburg",
+    "coords": null,
+    "year": 1117,
+    "date_str": "S. d. [1117-1126]",
+    "is_approximate": true,
+    "description": "Erpho (monk and abbot of St. Michael's Siegborg)"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Poland",
+    "coords": null,
+    "year": 1117,
+    "date_str": "S. d. [1117-1126]",
+    "is_approximate": true,
+    "description": "Heinrich (priest, monk, and Bishop of Poland)"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Utrecht",
+    "coords": null,
+    "year": 1117,
+    "date_str": "S. d. [1117-1126]",
+    "is_approximate": true,
+    "description": "Gerricus (priest, monk, and abbot of Saint Paul in Utrecht)"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Tuit",
+    "coords": null,
+    "year": 1117,
+    "date_str": "S. d. [1117-1126]",
+    "is_approximate": true,
+    "description": "Marcward (priest, monk, and abbot of St. Mary's Tuit)"
+  }
+]

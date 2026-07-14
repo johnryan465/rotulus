@@ -1,0 +1,2763 @@
+{
+  "roll": {
+    "id": 114,
+    "roll_num": 111,
+    "date_str": "[1107 apr\u00e8s le 8 septembre]",
+    "title": "Rouleau motuaire (fragmentaire) de Hugues I\u207b, abb\u00e9 de S. Amand (\u2020 8 septembre 1107).",
+    "manuscripts": "",
+    "pdf_source": "3",
+    "pdf_pages": "10,11,12,13,14,15,16,17,18",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1100,
+      "roll_id": 114,
+      "title": "2 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es (N.-D.)",
+      "location_name": "",
+      "latin_text": "T. SANCTE MARIE <........> \u202f(a)\n3 S.d.- Stavelot, St. Remacle \u202f(1).\nT. SANCTI PETRI et SANCTI REMACLI in STABLAUS.\nCarnea lex Ade scelerum circumdata clade\nEst dolor et gemitus carnis et interitus.\nAd vit\u00e6 num trium possidet hic homo tutum.\nMotibus est fragilis, sensibus instabilis.\nEt qui sic miser est, quico viver predicet\nQui trahit ob meritum semet ad interitum?\nNon ergo fiendus patet, nec jure dolendus<...................>",
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1101,
+      "roll_id": 114,
+      "title": "",
+      "location_name": "Valenciennes",
+      "latin_text": "",
+      "pdf_page": 11,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1102,
+      "roll_id": 114,
+      "title": "",
+      "location_name": "Valenciennes",
+      "latin_text": "",
+      "pdf_page": 11,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1103,
+      "roll_id": 114,
+      "title": "",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 11,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1104,
+      "roll_id": 114,
+      "title": "1 [ ] S.d.-[Tournai, cath\u00e9drale.]",
+      "location_name": "Tournai, cath\u00e9drale",
+      "latin_text": "<..................> alti (a).\nGuarmundum (3) clarum diffatumque magistrum,\nGuarmundum florem Tornacensemque decorem,\nAc ut picam mundi tuncio honorem.\nQui nunquam potuit quod dixit falsificari,\nQui nunquam potuit quod non erat esse probari,\nQuoque volante fuit visum quod non erat esse,\nQuoque volante fuit falsum quod debuit esse,\nQuarum conversas fuerat cio promptus habere,\nConcludens aliis, mors, conclusus fuit a te.\nQuam bene, mors, esset tibi si concludere posset!\nGuarmindo vivo vivit pars magna sophy.\nQuo moriente riut pars maxima philosophic.\nA lacrimosa dies, in qua mortem subiere\nHugo, Guarmundus! O quo bona lune periere!",
+      "pdf_page": 11,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3196,
+          "titulus_id": 1104,
+          "original_name": "Guarmundum",
+          "original_title": "magistrum",
+          "footnote_num": "3",
+          "footnote_text": "Guillaume le Conquerant, fondateur de S. \u00c9tienne de Caen en 1063.",
+          "normalized_name": "Guarmund",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3197,
+          "titulus_id": 1104,
+          "original_name": "Hugo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3198,
+          "titulus_id": 1104,
+          "original_name": "Guarmundus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guarmund",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1105,
+      "roll_id": 114,
+      "title": "2 S.d.- Tournai, S. Martin.",
+      "location_name": "Tournai, S. Martin",
+      "latin_text": "T. Sancti Martini Tornacensis (a). <........>.",
+      "pdf_page": 12,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1106,
+      "roll_id": 114,
+      "title": "3 S.d.- Caen, S. \u00c9tienne.",
+      "location_name": "Caen, S. \u00c9tienne",
+      "latin_text": "T. (b) Sancti Stephani de Cadono. Anima o. f. d. r. i. p. Amen. Orate p. n., dommo abbate Gisleberto (1), Roberto (2) abbate (1), herberto monacho, Roberto, Nicholau, Samuele, Roberto, Rogerio, Ramnullo, Bernardo, Auffredo, Willemo (3) regre, nostri cenobii fundatore, et ceteris amicis et familiaribus nostris. Obierunt Gozelina, Willelmus.",
+      "pdf_page": 12,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3199,
+          "titulus_id": 1106,
+          "original_name": "Gisleberto",
+          "original_title": "dommo abbate",
+          "footnote_num": "1",
+          "footnote_text": "Comme l'a remarqu\u00e9 le chanoine H. Platelle (1), le rouleau mortuaire de Hugues Ier, ainsi que d'autres documents, furent d\u00e9pec\u00e9s d\u00e8s le XIIe s., soit peu de temps apr\u00e8s la date o\u00f9 ces actes avaient vu le jour, par les moines de S. Amand pour servir de renfort aux airs de nouvelles reliquires ; cette campagne importante de r\u00e9novation de la biblioth\u00e8que (2) doit sans doute \u00eatre rattach\u00e9e \u00e0 l'action de l'armurien Gautier, qui r\u00e9digea \u00e9galement le premier cartulaire de S. Amand en 1117 s.",
+          "normalized_name": "Giselbert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3200,
+          "titulus_id": 1106,
+          "original_name": "Roberto",
+          "original_title": "",
+          "footnote_num": "2",
+          "footnote_text": "On conserve encore sept reliquaires de",
+          "normalized_name": "Robert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3201,
+          "titulus_id": 1106,
+          "original_name": "herberto",
+          "original_title": "monacho",
+          "footnote_num": "1",
+          "footnote_text": "Comme l'a remarqu\u00e9 le chanoine H. Platelle (1), le rouleau mortuaire de Hugues Ier, ainsi que d'autres documents, furent d\u00e9pec\u00e9s d\u00e8s le XIIe s., soit peu de temps apr\u00e8s la date o\u00f9 ces actes avaient vu le jour, par les moines de S. Amand pour servir de renfort aux airs de nouvelles reliquires ; cette campagne importante de r\u00e9novation de la biblioth\u00e8que (2) doit sans doute \u00eatre rattach\u00e9e \u00e0 l'action de l'armurien Gautier, qui r\u00e9digea \u00e9galement le premier cartulaire de S. Amand en 1117 s.",
+          "normalized_name": "Herbert",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3202,
+          "titulus_id": 1106,
+          "original_name": "Roberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3203,
+          "titulus_id": 1106,
+          "original_name": "Nicholau",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Nicholas",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3204,
+          "titulus_id": 1106,
+          "original_name": "Samuele",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Samuel",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3205,
+          "titulus_id": 1106,
+          "original_name": "Roberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3206,
+          "titulus_id": 1106,
+          "original_name": "Rogerio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Roger",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3207,
+          "titulus_id": 1106,
+          "original_name": "Ramnullo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ragnold",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3208,
+          "titulus_id": 1106,
+          "original_name": "Bernardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3209,
+          "titulus_id": 1106,
+          "original_name": "Auffredo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Audbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3210,
+          "titulus_id": 1106,
+          "original_name": "Willemo",
+          "original_title": "",
+          "footnote_num": "3",
+          "footnote_text": "Guillaume le Conquerant, fondateur de S. \u00c9tienne de Caen en 1063.",
+          "normalized_name": "William",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3211,
+          "titulus_id": 1106,
+          "original_name": "Gozelina",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gozeline",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3212,
+          "titulus_id": 1106,
+          "original_name": "Willelmus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1107,
+      "roll_id": 114,
+      "title": "4 S.d.- Beauvais, S. Quentin.",
+      "location_name": "Beauvais, S. Quentin",
+      "latin_text": "T. Sancti Quintini Belvacensis. ANIMA ejus et anima o. f. d. r. i. p. Amen, Waltero Galimondo, Petro, cum ceteris.",
+      "pdf_page": 12,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3213,
+          "titulus_id": 1107,
+          "original_name": "Waltero Galimondo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Walter Galimondo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3214,
+          "titulus_id": 1107,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1108,
+      "roll_id": 114,
+      "title": "5 S.d.- Noyon, S. \u00c9loi.",
+      "location_name": "Noyon, S. \u00c9loi",
+      "latin_text": "T. (d) SANCTI ELIGI EPISCOPI ET CONFESSORI NOVIOMI. O quam plangendum cum <...> Hugo dolendus <........> mentis pater inlus et <.......> Si lacrimis reddi gemituque vect revocati, Sed nil ad hoc lacrime sed vota genuine, Ut requiem det ei qui nos de morte redemit. Amen (e)",
+      "pdf_page": 12,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3215,
+          "titulus_id": 1108,
+          "original_name": "Hugo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1109,
+      "roll_id": 114,
+      "title": "[7]",
+      "location_name": "",
+      "latin_text": "Orate (a) p. n., domno silicet (sic) Remigio (1), Ingelberto adque (sic) Alberto (2) monachis nostris, Ingerlanno, Ainardo, Benedicto, Walterio, Antonio, Guidone, sone, Evremundo, Fulberto, Roberto atque Rogero.",
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3216,
+          "titulus_id": 1109,
+          "original_name": "Remigio",
+          "original_title": "monachus",
+          "footnote_num": "1",
+          "footnote_text": "Comme l'a remarqu\u00e9 le chanoine H. Platelle (1), le rouleau mortuaire de Hugues Ier, ainsi que d'autres documents, furent d\u00e9pec\u00e9s d\u00e8s le XIIe s., soit peu de temps apr\u00e8s la date o\u00f9 ces actes avaient vu le jour, par les moines de S. Amand pour servir de renfort aux airs de nouvelles reliquires ; cette campagne importante de r\u00e9novation de la biblioth\u00e8que (2) doit sans doute \u00eatre rattach\u00e9e \u00e0 l'action de l'armurien Gautier, qui r\u00e9digea \u00e9galement le premier cartulaire de S. Amand en 1117 s.",
+          "normalized_name": "Remigius",
+          "normalized_role": "monk",
+          "normalized_dates": "died 1035",
+          "location_name": "Noyon"
+        },
+        {
+          "id": 3217,
+          "titulus_id": 1109,
+          "original_name": "Alberto",
+          "original_title": "monachus",
+          "footnote_num": "2",
+          "footnote_text": "On conserve encore sept reliquaires de",
+          "normalized_name": "Albert II",
+          "normalized_role": "monk",
+          "normalized_dates": "early 12th century",
+          "location_name": "Noyon"
+        }
+      ]
+    },
+    {
+      "id": 1110,
+      "roll_id": 114,
+      "title": "6 S.d.- Laon, cath\u00e9drale (N.-D.)",
+      "location_name": "Laon, cath\u00e9drale (N.-D.)",
+      "latin_text": "T. Sanct\u00e6 Mari Laudunensis ecclesi\u00e6.\nSi redimi lacrimis erat sub singitibus imis\nVita diru genus, vir prudentibus virque benignus.\nIstandum lacrimis reor aut singitibus imis.\nMortua vivificans, l\u00e6tum propellet amarum.\nSola salus igitur precibus deposcere Christum,\nEthereis socia choris dignetur ut istem.",
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1111,
+      "roll_id": 114,
+      "title": "Orate p. n., Helinando (3), Ingerlanno (4) episcopis, Fulchardo (5), Wascelino, alberto (b)",
+      "location_name": "",
+      "latin_text": "Orate p. n., Helinando (3), Ingerlanno (4) episcopis, Fulchardo (5), Wascelino, alberto (b)",
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3218,
+          "titulus_id": 1111,
+          "original_name": "Helinando",
+          "original_title": "episcopus",
+          "footnote_num": "3",
+          "footnote_text": "Guillaume le Conquerant, fondateur de S. \u00c9tienne de Caen en 1063.",
+          "normalized_name": "Helinand",
+          "normalized_role": "bishop",
+          "normalized_dates": "1052 to 1096",
+          "location_name": "Laon"
+        },
+        {
+          "id": 3219,
+          "titulus_id": 1111,
+          "original_name": "Ingerlanno",
+          "original_title": "episcopus",
+          "footnote_num": "4",
+          "footnote_text": null,
+          "normalized_name": "Ingelram",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3220,
+          "titulus_id": 1111,
+          "original_name": "Fulchardo",
+          "original_title": "",
+          "footnote_num": "5",
+          "footnote_text": null,
+          "normalized_name": "Fulchad",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3221,
+          "titulus_id": 1111,
+          "original_name": "Wascelino",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Wascelyn",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3222,
+          "titulus_id": 1111,
+          "original_name": "alberto",
+          "original_title": "",
+          "footnote_num": "b",
+          "footnote_text": "Ce titre et le suivant ont \u00e9t\u00e9 ajout\u00e9s dans un emplacement rot\u00e9 inscc\u00e9pt, \u00e0 droite de la pi\u00e8ce de vers mentionnant l'\u00e9col\u00e2tre Garmundus.",
+          "normalized_name": "Albert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1112,
+      "roll_id": 114,
+      "title": "7 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "latin_text": "< .................................. >estum\n< .................................. >Christum\n<\n < ................................ >eramus\n< ................................ >v\u00e8que\n< ................................ >-dam luxus\n< ................................ >-tenti\n< ................................ >-riture\n< ................................ >ruinis",
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1113,
+      "roll_id": 114,
+      "title": "8 S.d.-Ess\u00f4mes[sur-Marne] S. Ferr\u00e9ol.",
+      "location_name": "Ess\u00f4mes[sur-Marne]",
+      "latin_text": "T. (a) sancti Ferreoli martiris Essom[ensis]. ANIMA ejus r. i. p. [Amen] Orate p. n., Rodthero, Stephano, Ge<....>, Otardo, Bernardo, Rodulfo, Ardui[no] et ceteris fratribus n. defunctus.",
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3223,
+          "titulus_id": 1113,
+          "original_name": "S. Ferreoli",
+          "original_title": "martiris",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Ferr\u00e9ol",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Ess\u00f4mes"
+        },
+        {
+          "id": 3224,
+          "titulus_id": 1113,
+          "original_name": "Rodthero",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rodther",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3225,
+          "titulus_id": 1113,
+          "original_name": "Stephano",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "\u00c9tienne",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3226,
+          "titulus_id": 1113,
+          "original_name": "Otardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Otard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3227,
+          "titulus_id": 1113,
+          "original_name": "Bernardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3228,
+          "titulus_id": 1113,
+          "original_name": "Rodulfo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rodulf",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3229,
+          "titulus_id": 1113,
+          "original_name": "Ardui[no]",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arduin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1114,
+      "roll_id": 114,
+      "title": "9 S.d.-Longpont[sur-Orge], N.-D.",
+      "location_name": "Longpont[sur-Orge]",
+      "latin_text": "",
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1115,
+      "roll_id": 114,
+      "title": "10 S.d.-Le Montel, S. Michel.",
+      "location_name": "Le Montel",
+      "latin_text": "T. (a) Sancti Michaelis in cella que [dictur] MONTICULUS. Quod petitis v., id n. <.....> cunet[is]. ANIMA ejus a. o. fi Defui[deorum] r. i. p. Orate p. n., scilicet A<....>, Aicie, Raimoldi patruis, Bernardo, Durani[o], Gerardo, Bertramo, Petro, Iterio, Johanni, Gerardo, Hugone puro (b) [Odoni, Seguinno, Ber<.....> fratribus et familiaribus.]",
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3230,
+          "titulus_id": 1115,
+          "original_name": "Sancti Michaelis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Michel",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Monticulus"
+        },
+        {
+          "id": 3231,
+          "titulus_id": 1115,
+          "original_name": "Aicie",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Aic",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3232,
+          "titulus_id": 1115,
+          "original_name": "Raimoldi",
+          "original_title": "patruis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ra\u00efmond",
+          "normalized_role": "patron/kinsman",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3233,
+          "titulus_id": 1115,
+          "original_name": "Bernardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernardo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3234,
+          "titulus_id": 1115,
+          "original_name": "Durani[o]",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Durannus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3235,
+          "titulus_id": 1115,
+          "original_name": "Gerardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "G\u00e9rard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3236,
+          "titulus_id": 1115,
+          "original_name": "Bertramo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bertrand",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3237,
+          "titulus_id": 1115,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pierre",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3238,
+          "titulus_id": 1115,
+          "original_name": "Iterio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Iterius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3239,
+          "titulus_id": 1115,
+          "original_name": "Johanni",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Jean",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3240,
+          "titulus_id": 1115,
+          "original_name": "Gerardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "G\u00e9rard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3241,
+          "titulus_id": 1115,
+          "original_name": "Hugone puro",
+          "original_title": "",
+          "footnote_num": "b",
+          "footnote_text": "Ce titre et le suivant ont \u00e9t\u00e9 ajout\u00e9s dans un emplacement rot\u00e9 inscc\u00e9pt, \u00e0 droite de la pi\u00e8ce de vers mentionnant l'\u00e9col\u00e2tre Garmundus.",
+          "normalized_name": "Hugues le pur",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3242,
+          "titulus_id": 1115,
+          "original_name": "Odoni",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Odoin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3243,
+          "titulus_id": 1115,
+          "original_name": "Seguinno",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Seguin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3244,
+          "titulus_id": 1115,
+          "original_name": "Ber<.....>",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bertrand?",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1116,
+      "roll_id": 114,
+      "title": "11 S.d.-S. Nicolas-aux-Bois.",
+      "location_name": "S. Nicolas-aux-Bois",
+      "latin_text": "[TI]TULUS SANCTI NICHOLAI de SALT[u](a).\n[Pr]o, pater digne dotare munere vit\u00e9\n[Et] tibi perpetuo qui continet omnia palmo\nDulce! sic requiem \u010deli super asta perhennem\n[Et] tibi si qua sunt operum commissa malorum(b)\n[Pro] meritis igne non sentias exciales,\n[Sed] fece purgatus Christo miserante reatus,\nPa\u015frs tibi cum superis sit civibus atque beatis,\nT[um] regnes vit\u00e9 ditate dotus supr\u00e9me.\n[Et] vos pro nostris orate subtilisquam,\nLetb[aldo](1) (abbate, Hugone, Petro, Odone prior(c), Tetbaldo, <...>no, anne, Tetbaldo et ceteris omnibus.]",
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3245,
+          "titulus_id": 1116,
+          "original_name": "Christo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "deity",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3246,
+          "titulus_id": 1116,
+          "original_name": "Letbaldo",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "Comme l'a remarqu\u00e9 le chanoine H. Platelle (1), le rouleau mortuaire de Hugues Ier, ainsi que d'autres documents, furent d\u00e9pec\u00e9s d\u00e8s le XIIe s., soit peu de temps apr\u00e8s la date o\u00f9 ces actes avaient vu le jour, par les moines de S. Amand pour servir de renfort aux airs de nouvelles reliquires ; cette campagne importante de r\u00e9novation de la biblioth\u00e8que (2) doit sans doute \u00eatre rattach\u00e9e \u00e0 l'action de l'armurien Gautier, qui r\u00e9digea \u00e9galement le premier cartulaire de S. Amand en 1117 s.",
+          "normalized_name": "Letbald",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3247,
+          "titulus_id": 1116,
+          "original_name": "Hugone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3248,
+          "titulus_id": 1116,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3249,
+          "titulus_id": 1116,
+          "original_name": "Odone",
+          "original_title": "prior",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Odo",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3250,
+          "titulus_id": 1116,
+          "original_name": "Tetbaldo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Tetbald",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1117,
+      "roll_id": 114,
+      "title": "12 S.d.- Soissons, S. M\u00e9dard, S. S\u00e9bastien, S. Gr\u00e9goire.",
+      "location_name": "Soissons",
+      "latin_text": "[TI]TULUS SANCTO M[EDARDI] et [SEBASTIANI et GR]EGO RII SESSIONSIS.\nH[ujus] vita viri, dignissima laude poliri.\n[Qui] nostros plausus, nostros exedit et ausus.\n[Div]i Maronis, seu spiritus ille Salonis\n[Aemulus hic] esset ora organa nostra replesset.",
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3251,
+          "titulus_id": 1117,
+          "original_name": "M\u00e9dard",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Medard",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Soissons"
+        },
+        {
+          "id": 3252,
+          "titulus_id": 1117,
+          "original_name": "S\u00e9bastien",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Sebastian",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3253,
+          "titulus_id": 1117,
+          "original_name": "Gr\u00e9goire",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gregory",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3254,
+          "titulus_id": 1117,
+          "original_name": "Maronis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Marinus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1118,
+      "roll_id": 114,
+      "title": "13 S.d.- S. Bertin.",
+      "location_name": "S. Bertin",
+      "latin_text": "[VJ] T. SANCTI BERTINI.\nSi quis laudetur, h\u00e9c per tria signa probetur :\nPrimum laudetur, bona si semper meditetur.\nMox extollatur, bene si bona verba loquatur.\nTercio laudetur, si qu\u00e8 bona sunt operetur.\nDignus erit laude, facit h\u00e9c tria qui sine fraude.\nExtistit insignis sed in his tribus hic homo signis.\nCorde retractabat sine fine bonum quod amabat.\nSicque fuit mentis simplex lux recta videns.\nUt corpus totum tenebris foret usque remotum,\nLingua loquebatur quod ei de corde dabatur.",
+      "pdf_page": 13,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3255,
+          "titulus_id": 1118,
+          "original_name": "Bertini",
+          "original_title": "Sancti",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bertin",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1119,
+      "roll_id": 114,
+      "title": "T. SANCTI RAVANO,",
+      "location_name": "S. Ravano",
+      "latin_text": "Summi (e) dona brati donator Hunochoni\nEt requiem det ei gratia magna Dei.\nVersus scholarum\nQuid monachi luctus et ab uno pectore ductus.\nQuid prosunt gemitus? Est vester in ethere sumptus",
+      "pdf_page": 14,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3256,
+          "titulus_id": 1119,
+          "original_name": "Hunochoni",
+          "original_title": "donator",
+          "footnote_num": "e",
+          "footnote_text": "",
+          "normalized_name": "Hunocho",
+          "normalized_role": "donor",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1120,
+      "roll_id": 114,
+      "title": "25 [IV] T. (d) sancte Columbi virginis et martyris. Anime Hugonis et anime o. f. d. r. i. p.\nAmen.",
+      "location_name": "",
+      "latin_text": "sancte Columbi virginis et martyris. Anime Hugonis et anime o. f. d. r. i. p.\nAmen.",
+      "pdf_page": 14,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3257,
+          "titulus_id": 1120,
+          "original_name": "Columbi",
+          "original_title": "virginis et martyris",
+          "footnote_num": "d",
+          "footnote_text": "Cette mention est constitu\u00e9e de lettres ablat\u00e9es ; le syllabe \u00ab titulus \u00bb des titres et le mot ELIGI sont trac\u00e9s en vert.-",
+          "normalized_name": "Columba",
+          "normalized_role": "virgin and martyr",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3258,
+          "titulus_id": 1120,
+          "original_name": "Hugonis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1121,
+      "roll_id": 114,
+      "title": "T. SANCTI (a) <.......>",
+      "location_name": "Reims, S. Nicaise",
+      "latin_text": "ANIMA ejus et anim\u00e6 o. f. d. r. i. p. Amen. Orate p. n., Remigio, Johanne abbatis, Sitfredo, Dodone, Rodulfo ceterisque.",
+      "pdf_page": 14,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3259,
+          "titulus_id": 1121,
+          "original_name": "Remigio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Remigius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3260,
+          "titulus_id": 1121,
+          "original_name": "Johanne",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Johannes",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3261,
+          "titulus_id": 1121,
+          "original_name": "Sitfredo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Sifredo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3262,
+          "titulus_id": 1121,
+          "original_name": "Dodone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Dodona",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3263,
+          "titulus_id": 1121,
+          "original_name": "Rodulfo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rodulfus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1122,
+      "roll_id": 114,
+      "title": "17 S.d.- Ch\u00e2lons-en-Champagne, S. Pierre[ -aux-Monts].",
+      "location_name": "Ch\u00e2lons-en-Champagne, S. Pierre[-aux-Monts]",
+      "latin_text": "T. SANCTI PETRI CATALAUNENSI (b). Quid (c) turbata feras, vel que solamina queras, Carta, refer: quero, quod me non perdere spero. Et quamvis sero, tanjem adjutoria quero. Et si vis scire, monuit que causa venire, Perlegie quid portem : pastoris muntio mortem. Sit meriti cujus hic, obsecro, spiritus ejus. Dicere si vellem, totam depingere pellem Possem; sed niveis Domino dominante chores Insertum credo ; sic esse per omnia cedo. Dicam pauca tamen, quia tendo claudere carmen.<.................................................> Pater eternum Hugoni sacrende regnum. Amen.",
+      "pdf_page": 14,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3264,
+          "titulus_id": 1122,
+          "original_name": "Hugoni",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1123,
+      "roll_id": 114,
+      "title": "T. SANCTI MEMMI, PRIMI CATALAUNENSIS EPISCOPI.",
+      "location_name": "Catalaunensis",
+      "latin_text": "Hugo, dum vixit, \u00e6xpte utpotte cartula dixit,\nCulpa qua, degit, et teq temerarius egit.\nSe peccasse minim, plangendo cordis in imis,\nDigne componetus, divino munere functus.\nPenitit; stratum fletu lacrimis rigatum\nHugonis maestrat, quod sic sua crimina lavit.\nLaudemus Christum, sibi qui converterat istum.\nHi\u00e6 vivo isto; vivit sine crimine nemo.\nTe petimus, Christe, que vis ad atra ad te,\nIn cruce exparnas, pietatis munere motus.\nSi quid deliquit dimitte miseris Hugoni.",
+      "pdf_page": 15,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3265,
+          "titulus_id": 1123,
+          "original_name": "Hugoni",
+          "original_title": "none",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3266,
+          "titulus_id": 1123,
+          "original_name": "Christe",
+          "original_title": "none",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "Jesus",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1124,
+      "roll_id": 114,
+      "title": "19 S.d.-S. Riquier.",
+      "location_name": "Riquier",
+      "latin_text": "T. SANCTI RICHARDI, Pontivorum patrio[nil],\nlnnumeras daret in lacrimas rex Richariensis,\nHas sed linquentes rectvae via gradiantes.\nInsimul eremus and consonant vosa regnum.\nDextra Dei quod donet ei sedem requiei.\nQue petitis wrestis regiturn nostrae nostris,",
+      "pdf_page": 15,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3267,
+          "titulus_id": 1124,
+          "original_name": "Richardi",
+          "original_title": "none",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Richard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Pontivorum"
+        },
+        {
+          "id": 3268,
+          "titulus_id": 1124,
+          "original_name": "rex Richariensis",
+          "original_title": "king",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "King of Riquier",
+          "normalized_role": "king",
+          "normalized_dates": "",
+          "location_name": "Riquier"
+        }
+      ]
+    },
+    {
+      "id": 1125,
+      "roll_id": 114,
+      "title": "20 S.d.- Rouen, cath\u00e9drale (N.D.).",
+      "location_name": "Rouen",
+      "latin_text": "T. SANCTE MARIE ROTOMAGENSIS ECCLESIAE.",
+      "pdf_page": 15,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3269,
+          "titulus_id": 1125,
+          "original_name": "MARIE",
+          "original_title": "none",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": "Rotomagensis"
+        }
+      ]
+    },
+    {
+      "id": 1126,
+      "roll_id": 114,
+      "title": "",
+      "location_name": "",
+      "latin_text": "RSUS cujusdam discipuli.\nconstritarer constritandoque gravarer,\nic nil prodesset, michi sed fortasse noceret.\n> constritarer, sibi si prodere viderer.\nSed (a) quia nil videor prodere sibi lacrimando,\nm en postonatur trists effundere fletus ;\nt opus assiduis precipibus, quibus adnichilentur\nimina, dum vivt mundo que crimina fecit.\ngo preco dignus si quis peccator habetur\nfaciat, precum, huic non sit vors ulla baratri.\nollocet hunc Christus, quo nemo locatur iniquus\ntquo tempories etern\u0119 lucis habetur.\narum sancte precum sis confirmator Amande.\nuffragare tuo famulo, pastor venerande.\nuem coluit secumque tibi servire coegit.\nficci sacri quos dignos munere legit.\nictus totus amor, solamen, sola cupido\nicuic fuit abati servire tibi sibi fidio.\ncquid, Amande, tuo meritum jam \u0631\u062fde clienti\nescio (b) <.................................> rollifer audis (c).",
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3270,
+          "titulus_id": 1126,
+          "original_name": "Christus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3271,
+          "titulus_id": 1126,
+          "original_name": "Amande",
+          "original_title": "pastor venerande",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Amandus",
+          "normalized_role": "pastor/abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1127,
+      "roll_id": 114,
+      "title": "21 S.-d. - Cluny, S. Pierre, S. Paul.",
+      "location_name": "Cluny",
+      "latin_text": "|v] MEMORIA CLUNIACENSIS COENOBII IN HONORE BEATORUM APOSTOLORUM PETRI ET PAULI DICATI.\nSi ratio dictaret vel usus deposcaret, possemus et nos metricare et hanc pellem sibus implere. Sed quia superfluum est videtur et inutil de dinoscitur, breviter [25] nemus, dilectissimi, sanctitatem vestram ut cramna metrorum vertatis in sanctam orationem. Et, scit nos pro requie patris vestri Domino obtulenti ss suffragia precum, et ita vos p. n. defunctis reddi illa voca placibium secrationum, quorum quorum nomina non annotavimus, quia pene innumerabili sunt. Christus, Deus noster, det illis requiem sempiternam. Amen.",
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3272,
+          "titulus_id": 1127,
+          "original_name": "PETRI",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "Apostle",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3273,
+          "titulus_id": 1127,
+          "original_name": "PAULI",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Paul",
+          "normalized_role": "Apostle",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3274,
+          "titulus_id": 1127,
+          "original_name": "Christus",
+          "original_title": "Deus noster",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "God",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1128,
+      "roll_id": 114,
+      "title": "T. SANCTE MARIE et Sanctorum Valeriani atque Philiberti Trenorchensis coenobii. Anima eius et anime (a) omnium fidelium defunctorum r. i. p. Orate p. n., pro Petro (1), Ardagno (2), Guillemo (3), Giraldo (4) abbatibus, Vulrico, Guilelmo, Roberto, Bernardo, Frotergio, Pontio, Garino, Otgerio, Stephano (5) cantore, Galterio, Heudo, Fulcherio, Ansello, Rolanno, Ebrado, Pipino, Rannulfo, Gaufredo, Iterio, Sa<....>. Bernardo.",
+      "location_name": "Tournus",
+      "latin_text": "T. SANCTE MARIE et Sanconorum Valeriani atque Philiberti Trenorchensis coenobii. Anima eius et anime (a) omnium fidelium defunctorum r. i. p. Orate p. n., pro Petro (1), Ardagno (2), Guillemo (3), Giraldo (4) abbatibus, Vulrico, Guilelmo, Roberto, Bernardo, Frotergio, Pontio, Garino, Otgerio, Stephano (5) cantore, Galterio, Heudo, Fulcherio, Ansello, Rolanno, Ebrado, Pipino, Rannulfo, Gaufredo, Iterio, Sa<....>. Bernardo.",
+      "pdf_page": 16,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3275,
+          "titulus_id": 1128,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "Comme l'a remarqu\u00e9 le chanoine H. Platelle (1), le rouleau mortuaire de Hugues Ier, ainsi que d'autres documents, furent d\u00e9pec\u00e9s d\u00e8s le XIIe s., soit peu de temps apr\u00e8s la date o\u00f9 ces actes avaient vu le jour, par les moines de S. Amand pour servir de renfort aux airs de nouvelles reliquires ; cette campagne importante de r\u00e9novation de la biblioth\u00e8que (2) doit sans doute \u00eatre rattach\u00e9e \u00e0 l'action de l'armurien Gautier, qui r\u00e9digea \u00e9galement le premier cartulaire de S. Amand en 1117 s.",
+          "normalized_name": "Pierre",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3276,
+          "titulus_id": 1128,
+          "original_name": "Ardagno",
+          "original_title": "",
+          "footnote_num": "2",
+          "footnote_text": "On conserve encore sept reliquaires de",
+          "normalized_name": "Ardaud",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3277,
+          "titulus_id": 1128,
+          "original_name": "Guillemo",
+          "original_title": "",
+          "footnote_num": "3",
+          "footnote_text": "Guillaume le Conquerant, fondateur de S. \u00c9tienne de Caen en 1063.",
+          "normalized_name": "Guillaume",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3278,
+          "titulus_id": 1128,
+          "original_name": "Giraldo",
+          "original_title": "abbatis",
+          "footnote_num": "4",
+          "footnote_text": null,
+          "normalized_name": "Giraud",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3279,
+          "titulus_id": 1128,
+          "original_name": "Vulrico",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ulric",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3280,
+          "titulus_id": 1128,
+          "original_name": "Guilelmo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillaume",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3281,
+          "titulus_id": 1128,
+          "original_name": "Roberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3282,
+          "titulus_id": 1128,
+          "original_name": "Bernardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3283,
+          "titulus_id": 1128,
+          "original_name": "Frotergio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Frodegon",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3284,
+          "titulus_id": 1128,
+          "original_name": "Pontio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pontius",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3285,
+          "titulus_id": 1128,
+          "original_name": "Garino",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Garin",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3286,
+          "titulus_id": 1128,
+          "original_name": "Otgerio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Otger",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3287,
+          "titulus_id": 1128,
+          "original_name": "Stephano",
+          "original_title": "cantore",
+          "footnote_num": "5",
+          "footnote_text": null,
+          "normalized_name": "\u00c9tienne",
+          "normalized_role": "cantor",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3288,
+          "titulus_id": 1128,
+          "original_name": "Galterio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gauthier",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3289,
+          "titulus_id": 1128,
+          "original_name": "Heudo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Eudes",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3290,
+          "titulus_id": 1128,
+          "original_name": "Fulcherio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Fulcher",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3291,
+          "titulus_id": 1128,
+          "original_name": "Ansello",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Anselme",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3292,
+          "titulus_id": 1128,
+          "original_name": "Rolanno",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Roland",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3293,
+          "titulus_id": 1128,
+          "original_name": "Ebrado",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "\u00c9bras",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3294,
+          "titulus_id": 1128,
+          "original_name": "Pipino",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pepin",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3295,
+          "titulus_id": 1128,
+          "original_name": "Rannulfo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rannulf",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3296,
+          "titulus_id": 1128,
+          "original_name": "Gaufredo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Godefroy",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3297,
+          "titulus_id": 1128,
+          "original_name": "Iterio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Iterius",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1129,
+      "roll_id": 114,
+      "title": "",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 16,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1130,
+      "roll_id": 114,
+      "title": "24 S.d.- Ch\u00e9zy[sur-Marne], S. Pierre.",
+      "location_name": "Ch\u00e9zy[sur-Marne]",
+      "latin_text": "[VII][US] SANCTI PREI CA[SSENS]. <...> perhempti <...> [Orate pro nostris], <...> nostro, Johanne, Ayberto (2) abbattis, Gisleberto 10 <...>, Bernardo, Tetbaudo, Herberto, Lamberto <...>. ",
+      "pdf_page": 16,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3298,
+          "titulus_id": 1130,
+          "original_name": "Johanne",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Jean",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3299,
+          "titulus_id": 1130,
+          "original_name": "Ayberto",
+          "original_title": "abbattis",
+          "footnote_num": "2",
+          "footnote_text": "On conserve encore sept reliquaires de",
+          "normalized_name": "Aybert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3300,
+          "titulus_id": 1130,
+          "original_name": "Gisleberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Giselbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3301,
+          "titulus_id": 1130,
+          "original_name": "Bernardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3302,
+          "titulus_id": 1130,
+          "original_name": "Tetbaudo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Thibaud",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3303,
+          "titulus_id": 1130,
+          "original_name": "Herberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Herbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3304,
+          "titulus_id": 1130,
+          "original_name": "Lamberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lambert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1131,
+      "roll_id": 114,
+      "title": "25 S.d.- Jouarre, N.-D.",
+      "location_name": "Jouarre",
+      "latin_text": "[TITULUS] SANCTE MARIE JOST <...> [orate pro nostris, Mathild] di (3) abba- tissa, Elisabeth, Ermensendi, Adelaida. Anima ejus et a o. [fidelium defunto- rum] r. i. p. Amen.",
+      "pdf_page": 16,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3305,
+          "titulus_id": 1131,
+          "original_name": "Mathild",
+          "original_title": "abbatissa",
+          "footnote_num": "3",
+          "footnote_text": "Guillaume le Conquerant, fondateur de S. \u00c9tienne de Caen en 1063.",
+          "normalized_name": "Mathilde",
+          "normalized_role": "abbess",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3306,
+          "titulus_id": 1131,
+          "original_name": "Elisabeth",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "\u00c9lisabeth",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3307,
+          "titulus_id": 1131,
+          "original_name": "Ermensendi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ermesinde",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3308,
+          "titulus_id": 1131,
+          "original_name": "Adelaida",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ad\u00e9la\u00efde",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1132,
+      "roll_id": 114,
+      "title": "26 S.d.- Meaux, cath\u00e9drale (S. \u00c9tienne).",
+      "location_name": "Meaux",
+      "latin_text": "[TITULUS] sancti STEPHA[NI] martiris Meldensis ecclesie. Anima ejus et ani[me o. f.] d. r. i. p. Amen.",
+      "pdf_page": 16,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3309,
+          "titulus_id": 1132,
+          "original_name": "STEPHA[NI]",
+          "original_title": "martiris",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "\u00c9tienne",
+          "normalized_role": "martyr",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1133,
+      "roll_id": 114,
+      "title": "27 S.d.- Meaux, S. Crois, S. Faron.",
+      "location_name": "Meaux",
+      "latin_text": "T. (5) SANCT\u00c6 CRUCIS (6) SANCT\u00c6 FARONIS EPISCOFI et confessoris. Anima ejus 20 cum o. f. d. animabus r. i. p. Amen. Orate p. n., Landrico (8) Johanne, Hugo",
+      "pdf_page": 16,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3310,
+          "titulus_id": 1133,
+          "original_name": "FARONIS",
+          "original_title": "EPISCOFI et confessoris",
+          "footnote_num": "6",
+          "footnote_text": "p 151, qui le cite pour les ann\u00e9es 1048, 1066.",
+          "normalized_name": "Faron",
+          "normalized_role": "bishop and confessor",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3311,
+          "titulus_id": 1133,
+          "original_name": "Landrico",
+          "original_title": "",
+          "footnote_num": "8",
+          "footnote_text": null,
+          "normalized_name": "Landric",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3312,
+          "titulus_id": 1133,
+          "original_name": "Johanne",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Jean",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3313,
+          "titulus_id": 1133,
+          "original_name": "Hugo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugues",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1134,
+      "roll_id": 114,
+      "title": "28 S.d.- Lagny[sur-Marne], S. Pierre.",
+      "location_name": "Lagny[sur-Marne]",
+      "latin_text": "T. Sancti Petri Latiniacensis. Anima ejus et anime o. f. d. in Christi nomine r. i. p. Orate p. n., scilicet pro abbate Herberto (2), Rotgero (3) abbate, Rodulfo (4) abbate, Arnulfo (5) abbate et pro fratribus Rainelmo monacho, Gisleberto monacho, Wandelberto monacho, Ivone monacho, Stephano monacho, Balduino monacho, Bernardo monacho, Teodorico monacho, Hunfredo monacho, Serloni 10 monacho, Evrando monacho, Rainoldo monacho.",
+      "pdf_page": 17,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1135,
+      "roll_id": 114,
+      "title": "29 S.d.- Orleans. S. Laurent[des-Orgerils].",
+      "location_name": "Orl\u00e9ans",
+      "latin_text": "T. SANCTI LAURENTII AURELIANENSIS (6). Anima ejus et anime o. f. d. r. i. p. Amen. Oravimus p. v., orate p. n.",
+      "pdf_page": 17,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1136,
+      "roll_id": 114,
+      "title": "30 S.d.- [Clermont,] S. Allyre.",
+      "location_name": "[Clermont]",
+      "latin_text": "T. (9) SANCTI ILLIDI EPISCOPI. Requies hujus perpetua Christus.",
+      "pdf_page": 17,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1137,
+      "roll_id": 114,
+      "title": "",
+      "location_name": "",
+      "latin_text": "abbatius, Alveredo, Hugone, Wibaudo, Radulfo, Balduino, Rainaldo, Adam, Helberto, Otgerio, Gimone, Gaufrido monachis ceterisque defunctis nostris, quorum nomina sint in \u00ab libro vit\u00e9 \u00bb (1).",
+      "pdf_page": 17,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1138,
+      "roll_id": 114,
+      "title": "[VIIs]",
+      "location_name": "",
+      "latin_text": "<...> re h\u00e6ra tabularium scindere eram. <...> de .......> dictantis dicta ferentem.\nSed ... fratres placuit quos dicere patres\nNobis mittentes lacrimas in pelle loquentes\nScribere compellunt mihi grata silentia vellunt.\nGaudia depellis merorum muntia pellis.",
+      "pdf_page": 17,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1139,
+      "roll_id": 114,
+      "title": "[VIII]",
+      "location_name": "",
+      "latin_text": "Rachel (1) formosa, soror ejus erat nebulosa.\nIn quibus exquista datur hoc in tempore vita.\nVia suboscurea nec semper grata futura.\nVita fit humana volvens cum corpore vana.\nOmnibus incerta, merore, labore referta.\nRachel que cara vel amabilis utpone clara,\nDignor est vita sublimibus usque petita.\nHas pariter nactus ubi Jacob Hugo per actus.\nRexit utramque favens, illis sua debita solvens.\nRachel namque piam sic fovit et in grege Liam.\nRedderet utquoque pro jure petentibus eque.\nHanc tamen hanc Lie doctricem philosophic.\nRachelem dico, potior que subito amico.",
+      "pdf_page": 17,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3314,
+          "titulus_id": 1139,
+          "original_name": "Rachel",
+          "original_title": null,
+          "footnote_num": "1",
+          "footnote_text": "Comme l'a remarqu\u00e9 le chanoine H. Platelle (1), le rouleau mortuaire de Hugues Ier, ainsi que d'autres documents, furent d\u00e9pec\u00e9s d\u00e8s le XIIe s., soit peu de temps apr\u00e8s la date o\u00f9 ces actes avaient vu le jour, par les moines de S. Amand pour servir de renfort aux airs de nouvelles reliquires ; cette campagne importante de r\u00e9novation de la biblioth\u00e8que (2) doit sans doute \u00eatre rattach\u00e9e \u00e0 l'action de l'armurien Gautier, qui r\u00e9digea \u00e9galement le premier cartulaire de S. Amand en 1117 s.",
+          "normalized_name": "Rachel",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3315,
+          "titulus_id": 1139,
+          "original_name": "Jacob",
+          "original_title": null,
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Jacob",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3316,
+          "titulus_id": 1139,
+          "original_name": "Hugo",
+          "original_title": null,
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3317,
+          "titulus_id": 1139,
+          "original_name": "Liam",
+          "original_title": null,
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Leah",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3318,
+          "titulus_id": 1139,
+          "original_name": "Lie",
+          "original_title": null,
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Leah",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1140,
+      "roll_id": 114,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Pretulit, elegit, illi sua colla subegit.\nHesit in amplexu, te stringens perpete nexu.\nQuem si fuscavit, quavis vel parte notavit\nAsperitas Lie, plus fructus honora Marie.\nTolle, lava, christe, tibi vivat monace iste.\nDomno (a) abbate Aldo (1) Herierro, Gotranno, Guarino, Balduino, Ingelberto,\nBernardo, Albrico, Guilelmo, Gualberto, Arnulfo, Aleguino, Geraldo et ceteris\nomnibus. Orate pro nostris fratribus.",
+      "pdf_page": 18,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3319,
+          "titulus_id": 1140,
+          "original_name": "Marie",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3320,
+          "titulus_id": 1140,
+          "original_name": "Aldo",
+          "original_title": "abbate",
+          "footnote_num": "1",
+          "footnote_text": "Comme l'a remarqu\u00e9 le chanoine H. Platelle (1), le rouleau mortuaire de Hugues Ier, ainsi que d'autres documents, furent d\u00e9pec\u00e9s d\u00e8s le XIIe s., soit peu de temps apr\u00e8s la date o\u00f9 ces actes avaient vu le jour, par les moines de S. Amand pour servir de renfort aux airs de nouvelles reliquires ; cette campagne importante de r\u00e9novation de la biblioth\u00e8que (2) doit sans doute \u00eatre rattach\u00e9e \u00e0 l'action de l'armurien Gautier, qui r\u00e9digea \u00e9galement le premier cartulaire de S. Amand en 1117 s.",
+          "normalized_name": "Aldo",
+          "normalized_role": "Abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3321,
+          "titulus_id": 1140,
+          "original_name": "Herierro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hieronymus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3322,
+          "titulus_id": 1140,
+          "original_name": "Gotranno",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gottran",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3323,
+          "titulus_id": 1140,
+          "original_name": "Guarino",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guarin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3324,
+          "titulus_id": 1140,
+          "original_name": "Balduino",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Baldwin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3325,
+          "titulus_id": 1140,
+          "original_name": "Ingelberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ingelbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3326,
+          "titulus_id": 1140,
+          "original_name": "Bernardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3327,
+          "titulus_id": 1140,
+          "original_name": "Albrico",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Albrico",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3328,
+          "titulus_id": 1140,
+          "original_name": "",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1141,
+      "roll_id": 114,
+      "title": "10 <.................................................>",
+      "location_name": "",
+      "latin_text": "Sontes dampnari, justos sine fine beari.\nCui sic pensamus, cui sic quod transamus.\nCur non perspicimus, quod tam velociter imus.\nImus functuri, non ulterius redituri.\nSi requiescam vel opus si quod faciam.\nTendimus ad mortem, detud hanc pro crimine sortem.\nOmnibus ile nas, peripenti male parens.\nos fermentumtavit, quia mandatum violavit.\nLumen cecatur, vis interior vacuatum.\nQueritur, at non in mundo gloria, non est.\nAlta poli superat, vir eam prudentis ibi querat.\nVersu laudato, dictamine glorificato,\nCelica laudatus, terrestris vituperantur.\nSed vice conversa, mens turpis ad infamia (c) versa.\nSperit laudata, complectens vituperata.\nO bone dictator laudandeque versificador,\nInflamis vare, nomen dulcesit inane.",
+      "pdf_page": 18,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1142,
+      "roll_id": 114,
+      "title": "33 S.d.-[Hautvillers].",
+      "location_name": "Hautvillers",
+      "latin_text": "<.................................................>\nSpes gregis Hugo tui, venerande pater, bone pastor,\nTe gemit et plorat, de te bona multa perorat.\nAltivallarensis etiam chorus et tua laudat\nEt de laude tua vitam quam promueristi\nEt de laude tua melius quam promueristi.\nPostulat ut vitam merari habere perennem.\nOrate p. n., Nochero (1) abbate, Goderanno (2) abbate, Jocelino (3) abbate,\nNorio(4) abbate, pro presbiteris Balduino monacho, Milone monacho, Gyrardo\nmonacho, Hugone monacho, pro diaconibus Johcelino, Gyrardo, Bartholomeo, 15\nBonardo et pro ceteris omnibus.",
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3329,
+          "titulus_id": 1142,
+          "original_name": "Hugo",
+          "original_title": "pater, bone pastor",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3330,
+          "titulus_id": 1142,
+          "original_name": "Nochero",
+          "original_title": "abbate",
+          "footnote_num": "1",
+          "footnote_text": "Comme l'a remarqu\u00e9 le chanoine H. Platelle (1), le rouleau mortuaire de Hugues Ier, ainsi que d'autres documents, furent d\u00e9pec\u00e9s d\u00e8s le XIIe s., soit peu de temps apr\u00e8s la date o\u00f9 ces actes avaient vu le jour, par les moines de S. Amand pour servir de renfort aux airs de nouvelles reliquires ; cette campagne importante de r\u00e9novation de la biblioth\u00e8que (2) doit sans doute \u00eatre rattach\u00e9e \u00e0 l'action de l'armurien Gautier, qui r\u00e9digea \u00e9galement le premier cartulaire de S. Amand en 1117 s.",
+          "normalized_name": "Nocherus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3331,
+          "titulus_id": 1142,
+          "original_name": "Goderanno",
+          "original_title": "abbate",
+          "footnote_num": "2",
+          "footnote_text": "On conserve encore sept reliquaires de",
+          "normalized_name": "Goderanus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3332,
+          "titulus_id": 1142,
+          "original_name": "Jocelino",
+          "original_title": "abbate",
+          "footnote_num": "3",
+          "footnote_text": "Guillaume le Conquerant, fondateur de S. \u00c9tienne de Caen en 1063.",
+          "normalized_name": "Jocelinus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3333,
+          "titulus_id": 1142,
+          "original_name": "Norio",
+          "original_title": "abbate",
+          "footnote_num": "4",
+          "footnote_text": null,
+          "normalized_name": "Norius",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3334,
+          "titulus_id": 1142,
+          "original_name": "Balduino",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Baldwin",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3335,
+          "titulus_id": 1142,
+          "original_name": "Milone",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Miles",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3336,
+          "titulus_id": 1142,
+          "original_name": "Gyrardo",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Girard",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3337,
+          "titulus_id": 1142,
+          "original_name": "Hugone",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3338,
+          "titulus_id": 1142,
+          "original_name": "Johcelino",
+          "original_title": "diaconibus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Jocelin",
+          "normalized_role": "deacon",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3339,
+          "titulus_id": 1142,
+          "original_name": "Gyrardo",
+          "original_title": "diaconibus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Girard",
+          "normalized_role": "deacon",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3340,
+          "titulus_id": 1142,
+          "original_name": "Bartholomeo",
+          "original_title": "diaconibus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bartholomew",
+          "normalized_role": "deacon",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3341,
+          "titulus_id": 1142,
+          "original_name": "Bonardo",
+          "original_title": "diaconibus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "deacon",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1143,
+      "roll_id": 114,
+      "title": "34 S.d.- Vertus, S. Sauveur.",
+      "location_name": "Vertus, Saint-Sauveur",
+      "latin_text": "T.(a) SANCTI SALVATORIS VIRTUENSS cenobii.\nSi per quem fletum pastoris flectere letum\nPossem, vixisset non tim cito fata subisset.\nAut si per luctum se Christo reddere sanctum\nNunquam cessarem, donec super astra loquarem.",
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3342,
+          "titulus_id": 1143,
+          "original_name": "Christo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1144,
+      "roll_id": 114,
+      "title": "35 S.d.[- Th\u00e9rouanne, S. Jean.]",
+      "location_name": "Th\u00e9rouanne, Saint-Jean",
+      "latin_text": "<.................................................>\nO quam lugendens cunect es atque emendatus.\nQuantus cunctorum fletus magis et monachorum.\nQuos hic nutrivit ce quoque semper amavit.\nSed quia nil luctus, hi nec prosunt sibi versus\nInterpellemus Regem regumque petamus,",
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 1199,
+      "roll_id": 114,
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "footnote_num": "(a)",
+      "text": "La suite de t\u00e9rit est tronqu\u00e9e."
+    },
+    {
+      "id": 1200,
+      "roll_id": 114,
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Monom (doc. cit.) c\u00e9l\u00e8re que l'\u2019on ne conna\u00eet pas la relation de rapports entre cette \u00e9glise et S. Edmond de Caen, mais qu'il y aurait de nombreux contacts, indubitablement avec li\u00e9ge a cette \u00e9poque: Guillaume le Conqu\u00e9rant, en particulier, enverrait beaucoup de gens de ce son entourage dans cette cit\u00e9."
+    },
+    {
+      "id": 1201,
+      "roll_id": 114,
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "Ces divers fragments sont inventori\u00e9s dans la seconde logique des comptes des morts, qui les"
+    },
+    {
+      "id": 1202,
+      "roll_id": 114,
+      "pdf_page": 10,
+      "pdf_half": "left",
+      "footnote_num": "*",
+      "text": "(indiquant pour quoi circula le rouleau mortuaire), une analyse du XIV \u00ba s.: \"Glose super libros Prudentii et Prisciani, de nomina, pronomine et verbo. Itin prima editio Donati et secunda * et la cote * K. 256 .\""
+    },
+    {
+      "id": 1203,
+      "roll_id": 114,
+      "pdf_page": 10,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "Au verso de ce fol., mention du XVII$^{\text{e}}$ s.:"
+    },
+    {
+      "id": 1204,
+      "roll_id": 114,
+      "pdf_page": 10,
+      "pdf_half": "right",
+      "footnote_num": "(3)",
+      "text": "Alme ecclesie S. Amandi in Pabula s."
+    },
+    {
+      "id": 1205,
+      "roll_id": 114,
+      "pdf_page": 10,
+      "pdf_half": "right",
+      "footnote_num": "*",
+      "text": "Ordre r\u00e9el de ces deux fragments est le suivant : fol. 67 (VI) et fol. Av (V) d'une part, fol. V (IV) et fol. A. (V) d'autre part."
+    },
+    {
+      "id": 1206,
+      "roll_id": 114,
+      "pdf_page": 10,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "L'ordre r\u00e9el de ces deux fragments est le suivant : fol. 141 (IV) et fol. A (IV) d'une part, et fol. A (IV) et fol. A (IV) d'autre part."
+    },
+    {
+      "id": 1207,
+      "roll_id": 114,
+      "pdf_page": 10,
+      "pdf_half": "right",
+      "footnote_num": "(4)",
+      "text": "A noter qu'il peut manquer un petit morceau de parchemin entre les deux fragments, qui aurait disparu lors du d\u00e9coupage de la feuille."
+    },
+    {
+      "id": 1208,
+      "roll_id": 114,
+      "pdf_page": 11,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "l'ordre r\u00e9el de ces deux fragments est le suivant: fol. I (VII) et fol. 138 (VIII) d'une part; fol. 1v (IV) et fol. 138 (VII) d'autre part."
+    },
+    {
+      "id": 1209,
+      "roll_id": 114,
+      "pdf_page": 11,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "La tr\u00e8s grande diff\u00e9rence comprise entre 18/19 cm et 26,5/27 cm (2)."
+    },
+    {
+      "id": 1210,
+      "roll_id": 114,
+      "pdf_page": 11,
+      "pdf_half": "left",
+      "footnote_num": "(4)",
+      "text": "Sur cet et au r\u00f4le mortuaire qui circula \u00e0 l'occasion de son d\u00e9c\u00e8s, cf. supra,"
+    },
+    {
+      "id": 1211,
+      "roll_id": 114,
+      "pdf_page": 11,
+      "pdf_half": "left",
+      "footnote_num": "(5)",
+      "text": ""
+    },
+    {
+      "id": 1212,
+      "roll_id": 114,
+      "pdf_page": 11,
+      "pdf_half": "left",
+      "footnote_num": "(6)",
+      "text": ""
+    },
+    {
+      "id": 1213,
+      "roll_id": 114,
+      "pdf_page": 11,
+      "pdf_half": "left",
+      "footnote_num": "(7)",
+      "text": ""
+    },
+    {
+      "id": 1215,
+      "roll_id": 114,
+      "pdf_page": 11,
+      "pdf_half": "right",
+      "footnote_num": "*",
+      "text": "Gerraardsbergen, Herlinckhoeve, Gent et Tournai\nB. M., nss. 33 (27), 49 (42), 86 (79), 156 (148),\n163 (155), 170 (162), 392 (375)."
+    },
+    {
+      "id": 1218,
+      "roll_id": 114,
+      "pdf_page": 11,
+      "pdf_half": "right",
+      "footnote_num": "*",
+      "text": "Gerraardsbergen, Herlinckhoeve, Gent et Tournai\nB. M., nss. 33 (27), 49 (42), 86 (79), 156 (148),\n163 (155), 170 (162), 392 (375)."
+    },
+    {
+      "id": 1214,
+      "roll_id": 114,
+      "pdf_page": 11,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Comme l'a remarqu\u00e9 le chanoine H. Platelle (1), le rouleau mortuaire de Hugues Ier, ainsi que d'autres documents, furent d\u00e9pec\u00e9s d\u00e8s le XIIe s., soit peu de temps apr\u00e8s la date o\u00f9 ces actes avaient vu le jour, par les moines de S. Amand pour servir de renfort aux airs de nouvelles reliquires ; cette campagne importante de r\u00e9novation de la biblioth\u00e8que (2) doit sans doute \u00eatre rattach\u00e9e \u00e0 l'action de l'armurien Gautier, qui r\u00e9digea \u00e9galement le premier cartulaire de S. Amand en 1117 s."
+    },
+    {
+      "id": 1216,
+      "roll_id": 114,
+      "pdf_page": 11,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Saint-Amand, p. 8 et n. 18 bis."
+    },
+    {
+      "id": 1217,
+      "roll_id": 114,
+      "pdf_page": 11,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "On conserve encore sept reliquaires de"
+    },
+    {
+      "id": 1219,
+      "roll_id": 114,
+      "pdf_page": 12,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "Saude substituite pour le entire ligne \u00e0 lettres enlac\u00e9es.."
+    },
+    {
+      "id": 1220,
+      "roll_id": 114,
+      "pdf_page": 12,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "Ce titre et le suivant ont \u00e9t\u00e9 ajout\u00e9s dans un emplacement rot\u00e9 inscc\u00e9pt, \u00e0 droite de la pi\u00e8ce de vers mentionnant l'\u00e9col\u00e2tre Garmundus."
+    },
+    {
+      "id": 1221,
+      "roll_id": 114,
+      "pdf_page": 12,
+      "pdf_half": "left",
+      "footnote_num": "c",
+      "text": "Les mots et abbate (abr\u00e9g\u00e9) sont \u00e9crits en interligne."
+    },
+    {
+      "id": 1222,
+      "roll_id": 114,
+      "pdf_page": 12,
+      "pdf_half": "left",
+      "footnote_num": "d",
+      "text": "Cette mention est constitu\u00e9e de lettres ablat\u00e9es ; le syllabe \u00ab titulus \u00bb des titres et le mot ELIGI sont trac\u00e9s en vert.-"
+    },
+    {
+      "id": 1223,
+      "roll_id": 114,
+      "pdf_page": 12,
+      "pdf_half": "left",
+      "footnote_num": "e",
+      "text": ""
+    },
+    {
+      "id": 1224,
+      "roll_id": 114,
+      "pdf_page": 12,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Sur est abb\u00e9 de S. Etienne de Caen, cf. supra, p. 364."
+    },
+    {
+      "id": 1225,
+      "roll_id": 114,
+      "pdf_page": 12,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Sur est abb\u00e9 de S. Etienne de Caen, pour lequel un rouleau mortuaire lui est mis en circula."
+    },
+    {
+      "id": 1226,
+      "roll_id": 114,
+      "pdf_page": 12,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "Guillaume le Conquerant, fondateur de S. \u00c9tienne de Caen en 1063."
+    },
+    {
+      "id": 1227,
+      "roll_id": 114,
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "La fin du titre est \u00e9crite \u00e0 droite des vers."
+    },
+    {
+      "id": 1228,
+      "roll_id": 114,
+      "pdf_page": 12,
+      "pdf_half": "right",
+      "footnote_num": "b",
+      "text": "Une derni\u00e8re ligne est presque enti\u00e8rement rogn\u00e9e; la lecture du mot decanis, propos\u00e9e par a, n'est pas du tout s\u00fbre."
+    },
+    {
+      "id": 1229,
+      "roll_id": 114,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "Ce titre et les deux suivants, omis par a et b, se trouvent \u00e0 droite de la pi\u00e8ce vers ci-dessus."
+    },
+    {
+      "id": 1230,
+      "roll_id": 114,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "Cette mention est faite de lettres encrass\u00e9es. (..\u2076) Ce titre est d\u00e9plac\u00e9. (..\u2076) Hugone puro ajout\u00e9 en"
+    },
+    {
+      "id": 1231,
+      "roll_id": 114,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Archambaud III de Bourbon, du Montel, lieu de sa s\u00e9pulture ; cf. Anselme, t. III,"
+    },
+    {
+      "id": 1232,
+      "roll_id": 114,
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "6",
+      "text": "p 151, qui le cite pour les ann\u00e9es 1048, 1066."
+    },
+    {
+      "id": 1233,
+      "roll_id": 114,
+      "pdf_page": 14,
+      "pdf_half": "left",
+      "footnote_num": "(a)",
+      "text": "Les vers suivants appartiennent au istre de S. Bertin, \u00e9crit enti\u00e8rement par la m\u00eame main, \u00e0 l'exception de la derniere ligne mentionnant des noms de defuntos."
+    },
+    {
+      "id": 1234,
+      "roll_id": 114,
+      "pdf_page": 14,
+      "pdf_half": "left",
+      "footnote_num": "(b)",
+      "text": "Ca inutile apr\u00e8s ce moi.-"
+    },
+    {
+      "id": 1235,
+      "roll_id": 114,
+      "pdf_page": 14,
+      "pdf_half": "left",
+      "footnote_num": "(c)",
+      "text": "Ce istre est d\u00e0 \u00e0 une seule mais; toutefois, ce premier vers est d'un module plus petit."
+    },
+    {
+      "id": 1236,
+      "roll_id": 114,
+      "pdf_page": 14,
+      "pdf_half": "left",
+      "footnote_num": "(d)",
+      "text": "Ce de S. Bertin."
+    },
+    {
+      "id": 1237,
+      "roll_id": 114,
+      "pdf_page": 14,
+      "pdf_half": "left",
+      "footnote_num": "(e)",
+      "text": ""
+    },
+    {
+      "id": 1238,
+      "roll_id": 114,
+      "pdf_page": 14,
+      "pdf_half": "left",
+      "footnote_num": "(f)",
+      "text": ""
+    },
+    {
+      "id": 1242,
+      "roll_id": 114,
+      "pdf_page": 15,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "Au-dessus de ce mot, gloss est id aut, -"
+    },
+    {
+      "id": 1243,
+      "roll_id": 114,
+      "pdf_page": 15,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "Cette mention est faite de lettres capitales et minuscules \u00e9clat\u00e9es."
+    },
+    {
+      "id": 1244,
+      "roll_id": 114,
+      "pdf_page": 15,
+      "pdf_half": "left",
+      "footnote_num": "(c)",
+      "text": "cf. M. Bus, La formation du comt\u00e9 de Champagne (v. 950 \u2013 v. 1150), Nancy, 1977, p. 230, n. 131."
+    },
+    {
+      "id": 1239,
+      "roll_id": 114,
+      "pdf_page": 15,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Personne cit\u00e9e en 1065, dans la Gallia christiana (t. IX, col. 944)."
+    },
+    {
+      "id": 1240,
+      "roll_id": 114,
+      "pdf_page": 15,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Philippe de Champagne, \u00e9v\u00eaque de Ch\u00e2lons-en-Champagne en 1093, consacr\u00e9 seulement en 1098, mort avant le 11 novembre"
+    },
+    {
+      "id": 1241,
+      "roll_id": 114,
+      "pdf_page": 15,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": ""
+    },
+    {
+      "id": 1245,
+      "roll_id": 114,
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "Les vers suivants appartiennent au titre de la cath\u00e9drale de Rouen, \u00e9crit enti\u00e8rement par la m\u00eame main."
+    },
+    {
+      "id": 1246,
+      "roll_id": 114,
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "footnote_num": "b",
+      "text": "La suite de ce vers est effac\u00e9e."
+    },
+    {
+      "id": 1247,
+      "roll_id": 114,
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "footnote_num": "c",
+      "text": "Ce vers, tr\u00e8s effac\u00e9, est \u00e9crit par une autre main."
+    },
+    {
+      "id": 1248,
+      "roll_id": 114,
+      "pdf_page": 17,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Apo..., III, 5."
+    },
+    {
+      "id": 1249,
+      "roll_id": 114,
+      "pdf_page": 17,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "Abbe de S. Pierre de Lagny au d\u00e9but du XIe s.; cf. Gallia christiana, t. VII, col. 492-493."
+    },
+    {
+      "id": 1250,
+      "roll_id": 114,
+      "pdf_page": 17,
+      "pdf_half": "left",
+      "footnote_num": "(3)",
+      "text": ""
+    },
+    {
+      "id": 1251,
+      "roll_id": 114,
+      "pdf_page": 17,
+      "pdf_half": "left",
+      "footnote_num": "(4)",
+      "text": "Abb\u00e9 de S. Pierre de Lagny cit\u00e9 en 1053 par le Gallia christiana (loc. cit.)."
+    },
+    {
+      "id": 1252,
+      "roll_id": 114,
+      "pdf_page": 17,
+      "pdf_half": "left",
+      "footnote_num": "(5)",
+      "text": "Arnulfus, abb\u00e9 de S. Pierre de Lagny et de S. Colombe de Sens \u00e0 partir de 1078, mort le 28 f\u00e9vrier 1106 (ibid.)."
+    },
+    {
+      "id": 1253,
+      "roll_id": 114,
+      "pdf_page": 17,
+      "pdf_half": "left",
+      "footnote_num": "(6)",
+      "text": ""
+    },
+    {
+      "id": 1254,
+      "roll_id": 114,
+      "pdf_page": 17,
+      "pdf_half": "left",
+      "footnote_num": "(9)",
+      "text": ""
+    },
+    {
+      "id": 1255,
+      "roll_id": 114,
+      "pdf_page": 17,
+      "pdf_half": "left",
+      "footnote_num": "(a)",
+      "text": "Cette mention, faite de lettres capitales enclav\u00e9es, est rubriqu\u00e9e."
+    },
+    {
+      "id": 1256,
+      "roll_id": 114,
+      "pdf_page": 17,
+      "pdf_half": "left",
+      "footnote_num": "(b)",
+      "text": "Ce titre est omis par a et b."
+    },
+    {
+      "id": 1257,
+      "roll_id": 114,
+      "pdf_page": 17,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "Actuellement, la partie inf\u00e9rieur gauche de ce fol. est d\u00e9chir\u00e9e; les mots ou lettres, plac\u00e9s entre crochets carr\u00e9s, sont restitu\u00e9s d'apr\u00e8s a."
+    },
+    {
+      "id": 1258,
+      "roll_id": 114,
+      "pdf_page": 17,
+      "pdf_half": "right",
+      "footnote_num": "b",
+      "text": "Ce vers et les vers suivants, \u00e9crits par la m\u00eame main que les vers pr\u00e9c\u00e9dents, appartiennent au m\u00eame titre qu'eux."
+    },
+    {
+      "id": 1259,
+      "roll_id": 114,
+      "pdf_page": 18,
+      "pdf_half": "left",
+      "footnote_num": "(b)",
+      "text": "(b)."
+    },
+    {
+      "id": 1260,
+      "roll_id": 114,
+      "pdf_page": 18,
+      "pdf_half": "left",
+      "footnote_num": "(c)",
+      "text": "(c)"
+    },
+    {
+      "id": 1261,
+      "roll_id": 114,
+      "pdf_page": 18,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "Le d\u00e9but de cette mention est fait de lettres capitales enclav\u00e9es."
+    }
+  ]
+}

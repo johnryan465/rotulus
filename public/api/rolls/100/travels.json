@@ -1,0 +1,35 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Rouleau",
+    "coords": null,
+    "year": null,
+    "date_str": "S. d. [fin XII$^e$ s.-d\u00e9but XIII$^e$ s.]",
+    "is_approximate": true,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) anonyme...."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Bourges, France",
+    "coords": [
+      47.0833,
+      2.4
+    ],
+    "year": null,
+    "date_str": "S. d. [fin XII$^e$ s.-d\u00e9but XIII$^e$ s.]",
+    "is_approximate": false,
+    "description": "Titulus Header: Bourges"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Bourgueil",
+    "coords": null,
+    "year": null,
+    "date_str": "S. d. [fin XII$^e$ s.-d\u00e9but XIII$^e$ s.]",
+    "is_approximate": true,
+    "description": "Saint Peter the Apostle of Bourgueil (saint)"
+  }
+]

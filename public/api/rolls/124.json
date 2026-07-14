@@ -1,0 +1,1006 @@
+{
+  "roll": {
+    "id": 124,
+    "roll_num": 121,
+    "date_str": "S.d. [1123, apr\u00e8s le 4 novembre]",
+    "title": "Encyclique sollicitant de prier pour Marbode, \u00e9v\u00eaque de Rennes (\u2020 11 septembre 1123).",
+    "manuscripts": "A. Original perdu.\nB. Angers, B. M., ss. 327 (318), fol. 13, sans doute d'apr\u00e8s \u00e0 (copie partielle du XVII$^s$).\na. Incipit lib\u00e9r Marbodi, quondam nominatissimi presuli Redonensis, ..., Rennes, 1524, p. A II,\nsans indication de source (\u00e9d. partielle).\nb. D. Beaugendre, Venerabilis Hildeberti opera, Paris, 1708, col. 1383, \u00ab ex archivo S. Albini Andegav., et ex exemplari anni 1524; Redonis excuse, jussu Yvonis episcopi, Redonensis episcopi, quod asservatur in Bibliotheca Collegii Mazarinensis \u00bb.\nc. Ed. Mart\u00e8ne et U. Durand, Thesaurus, t. I, col. 355, \u00ab ex ms. S. Albini Andegavensis \u00bb.\nd. H. Morice, M\u00e9moires pour servir de preuves d'histoire eccl\u00e9siastique et civile de Bretagne.",
+    "pdf_source": "3",
+    "pdf_pages": "82,83,84,85,86,87,88,89",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1430,
+      "roll_id": 124,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Nam cum nil portes, nisi tristitiam, nisi mortes,\nCeu bene regesta petis es cum voce molesta,\nEt ne lacescas soccos petis, exigis escas,\nPropter defunctum soleas damus, addimus unctum.\nBis nos contristas, mala dans res accipis istas ;\nSic importunus vendis mihi munere funus.\nImprobe, vade foras, superas quid pollius oras ?\nQuid tibi cum vivis, barathri terrecrime vivis,\nVernula Plutonis, legato perditionis ?\nQuid nos infestas veros iterando molestias ?\nConveniat coetus, gemitus date, fundite fletus,\nAcreaqua pulsantes clamate velut Corybantes,\nCantica funer\u00e9is lugubria ferte choraes,\nCarmina moeta date, loca verstra diemque notate,\nTandem expensam, largam mihi ponite mensam.\nEscarum gurges, quid nos tot talibus urges?\nFle qui flere jubes, plue distillans quabi nubes,\nPotum moreris bibe, vescere pane doloris,\nQuem mala delectant, mala te simul omnia plentant;\nNos sine laetari, Christumque Patremque precari\nUt vitae munus det nobis trinus et unus.",
+      "pdf_page": 82,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 5997,
+          "titulus_id": 1430,
+          "original_name": "Christum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 5998,
+          "titulus_id": 1430,
+          "original_name": "Patrem",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Father (God)",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1431,
+      "roll_id": 124,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Universis nuouis Sacrosancte Ecclesie filiis, humilis congregatio beati Albini,\nAndegavornum episcopi, plenam de Hoste victoriam et de victoria coronam. Apos-\ntolica nos informat authoritas ut, \u00ab pro imcevine orantes \u00bb (3), \u00ab alter alteria onera\nportemus et sic adimplebimus legem Christi \u00bb (4) [Legem igitur Christi nos, servi\nChristi, pia sollicitudine adipere salvatenges, denunciamus vobis obitum domini\nMarbodi, venerabilis episcopi, semper cum laude memorandi, lingua facundi,\nreligione precipui, morum honestate predari, litterarum eruditione doctissimi,\n25 cujus sermo saepe semper conditus erat, et ex ore illius omni dolore mille flebuat\norato et: quavis eodem tempore varius studiis tota Gallia resonat, ipse tamen,\ndoratorum rex, Gallicane erem eloquentie specialiter obtinebat. Tertio siquidem\nildus septembris, anno Domini millesimo centesimo vigesimo tertio, infirmatus\ncarne, sed spiritu fortior, excedens a sello, vivens in Christo, sua nos vivaduit\n30 presentia et amoris su jaculuro valentuos intolerabili (a) dolore confecit. Qui post\nlonga (b) liberalium studiorum longo lateque vernantium exercutia, quibus in",
+      "pdf_page": 83,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 5999,
+          "titulus_id": 1431,
+          "original_name": "Albini",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Albinus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Angers"
+        },
+        {
+          "id": 6000,
+          "titulus_id": 1431,
+          "original_name": "Marbodi",
+          "original_title": "episcopi",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Marbodus",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 6001,
+          "titulus_id": 1431,
+          "original_name": "Gallia",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gaul",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1432,
+      "roll_id": 124,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Andegavensi civitate, qui famosus os nominatissime exitit magister, efficacissime claruit, electus a reverendissimo papa Urbano, in Turonensi consilio (stc), sancte Sedis Redonensis (a) ecclesie, annuente Domino, pontifex ordinatus est. Quam ipse dignitatem, immo onus, acrinclus gladiio Spiritus Sancti, licet inter barbaros et naturali quadam armatos feritare, per annos viginti octo fideliter prudenterque gubernans, superorum sua possessura censura perdormit, augendo, obscurando, increpando, dispatiante pacificavit; tandemque longove functus est, plenum dirum, in sancta confessione, ut premissum est, in Domino requirret. ingressurus itaque ivm univers carne, mortem viginam praesentens, onere pontifici deoato, sanctissimi Benedicti habiti humilitatemque susceptit Io monachum proposque beato Almo se tradidit, at sic ex onerousatus, pauperem Christum pauper et ipse sequatus est. Anque autem, id quarta, Sollicitus erat et occupatus erga plurima; nunc velim, velut altera Maria, \u00ab unum essexarum necessarium cognoscens, optimam partem eliget, que laudaret ab eo \u00bb (1). \n Commendandis etiam orationibus vestris transmuti domini Girardi, fratris nostris, viri plane mirabilis, qui profecto tempore nobis nostris prodimus traxisse martyrium. Rexis pauper, merits dives, parcus sibi, largus egenis, cuius honesta conversatio in ecclesia erit, dum angelicam in terra vivat gerendae. \u00ab Ubi enim erat thesaurus eius, ibi et cor tuum \u00bb (2), quij, juxta Apostolo, \u00ab semetipsum exhibuit hostiam viventem, sanctam, Deo placentem \u00bb (3), cui, lejando, viginti-do lando et orando jogor assistens, oneratus ferro vinctesque catenis, rationabile reddidit indefessus obsequium et, ut magna breviter explicemus, mirabilem vitam mirabiliret innocuit et mirabilibus consumnavit, bonis meliora, melioribusque semper adjicens optima. Obilt autem eodem anno, pridie nonas novembris, in senectute bona, virtutum floribus adornatus, coeloquum spiritum reddens, terram 2 terre mandavit.",
+      "pdf_page": 83,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6002,
+          "titulus_id": 1432,
+          "original_name": "Urbano",
+          "original_title": "papa",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Urban",
+          "normalized_role": "pope",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 6003,
+          "titulus_id": 1432,
+          "original_name": "S. Sedis Redonensis",
+          "original_title": "",
+          "footnote_num": "a",
+          "footnote_text": "ecclesie Redonensis h.",
+          "normalized_name": "Saintes of Rennes",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Rennes"
+        }
+      ]
+    },
+    {
+      "id": 1433,
+      "roll_id": 124,
+      "title": "II : suite du rouleau mortuaire",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 84,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1434,
+      "roll_id": 124,
+      "title": "",
+      "location_name": "",
+      "latin_text": "\u2014 III : Parchemin (assez \u00e9pide et rigide ; c.c. blanch\u00e2tre ; c. p. gris\u00eatre). Longueur, 80 cm ; largeur,\n23/23,5 cm ;\n\u2014 IV : Parchemin (\u00e9pide et rigide ; c. c. blanch\u00e2tre ; c. p. gris\u00eatre). Longueur, 76,5 cm ; largeur,\n22/22,5 cm ;\n\u2014 V : Parchemin (assez \u00e9pide et rigide ; c. e. et c. p. gris\u00eatre). Longueur, 67 cm ; largeur, 21/22 cm ;\n\u2014 VI : Parchemin (si mince que 23 cm du c. du pas sont rest\u00e9s inutilis\u00e9s ; rigide ; c.c. blanch\u00e2tre ; c. p.\ngris\u00eatre). Longueur, 61 cm ; largeur, 22,5/23 cm ;\n\u2014 VII : Parchemin (mince et rigide ; c.c. blanch\u00e2tre ; c. p. jaun\u00eatre). Longueur, 56 cm ; largeur,\n22,5/23 cm ;\n\u2014 VIII : Parchemin (\u00e9pide et rigide ; c.c. blanch\u00e2tre ; c. p. jaun\u00eatre). Longueur, 67 cm ; largeur, 10\n22/23 cm ;\n\u2014 IX : Parchemin (mince et rigide ; c.c. blanch\u00e2tre ; c. p. gris\u00eatre). Longueur, 66 cm ; largeur,\n22/23 cm ;\n\u2014 X : Parchemin (mince et souple ; c.c. blanch\u00e2tre ; c. p. gris\u00eatre). Longueur, 53 cm ; largeur,\n22/23 cm ;\n\u2014 XI : Parchemin (assez \u00e9pide et rigide ; c.c. blanch\u00e2tre ; c. p. gris\u00eatre). Longueur, 72 cm ; largeur,\n21,5 cm ;\n\u2014 XII : Parchemin (mince et rigide ; c.c. blanch\u00e2tre ; c. p. jaun\u00eatre). Longueur, 56 cm ; largeur,\n22,5/23 cm ;\n\u2014 XIII : Parchemin (mince et souple ; c. e. et c. p. jaun\u00eatre). Longueur, 63 cm ; largeur, 21 / 20\n21,5 cm ;\n\u2014 XIV : Parchemin (mince et rigide ; c. c. gris\u00eatre ; c. p. jaun\u00eatre). Longueur, 63 cm ; largeur,\n20,5/21,5 cm ;\n\u2014 XV : Parchemin (mince et souple ; c. e. et c. p. jaun\u00eatre). Longueur, 41 cm ; largeur, 20,5/\n21 cm \u27e9",
+      "pdf_page": 84,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1435,
+      "roll_id": 124,
+      "title": "10",
+      "location_name": "S.d.- Ripoll",
+      "latin_text": "",
+      "pdf_page": 85,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1436,
+      "roll_id": 124,
+      "title": "",
+      "location_name": "Tierc\u00e9ville",
+      "latin_text": "Ne \u00e0 Tierc\u00e9ville, \u00e0 une date inconnue, Vital, ordonn\u00e9 pr\u00eatre, est vers 1290, choisi comme chapelain par Robert de Montfort (fr\u00e8re de Guillaume le Conoparc) ; il est la suite chanoine de l\u2019\u00e9glise de Mortain, o\u00f9 il occupe la charge de vicaire. 1285 y d\u00e9c\u00e8de.",
+      "pdf_page": 85,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6004,
+          "titulus_id": 1436,
+          "original_name": "Vital",
+          "original_title": "ordonn\u00e9 pr\u00eatre",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Vital",
+          "normalized_role": "priest",
+          "normalized_dates": "c. 1290",
+          "location_name": null
+        },
+        {
+          "id": 6005,
+          "titulus_id": 1436,
+          "original_name": "Robert de Montfort",
+          "original_title": "chapelain",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert de Montfort",
+          "normalized_role": "chaplain",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6006,
+          "titulus_id": 1436,
+          "original_name": "Guillaume le Conoparc",
+          "original_title": "fr\u00e8re de Robert de Montfort",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillaume le Conoparc",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1437,
+      "roll_id": 124,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Vitalis vit\u00e6 pur et vir virtutis hona : \n\n20. Canonicorum primus, post heremuta bonus.\nCoeobionum Savigneti construxit, et abbas\nPrimus in hoc sancte vixit et utilitet.\nJejunans, vigilans, orans, sic membra sublegit\nQuod caro spiritus subida jure fuit.\n25 Vox clamantis erat spargendo semina verbi;\nverus Praeco dei seduto atque libens.\nIpse die postquam decessit nocte secunda,\nObliterat Domino sacer saceress.\nPsalleabat Domino fratres, psallebat et ipse.",
+      "pdf_page": 86,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6007,
+          "titulus_id": 1437,
+          "original_name": "Vitalis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Vitalis",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6008,
+          "titulus_id": 1437,
+          "original_name": "Savigneti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Savinian",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Savigny"
+        }
+      ]
+    },
+    {
+      "id": 1438,
+      "roll_id": 124,
+      "title": "",
+      "location_name": "",
+      "latin_text": "vit\u0101li nostro dic, nostrum carmen, evita\nDic, quod eum deceat, dic, sibi, quod placeat.\nMe tibi graciatia, cupio sibi gratificari,\nQuern melio complexum viscera nostra fovent.\nVinceribus nostra prae cautie solus inhebit,\nSolus pra concula per genibus tetigit.\nSi vero queris, quid in hoc geode potuerit:\nMores, mobilitas, forma, decus, probitas,\nSimplicitas astuta simulque statua simplex\nAltera res decus est et decor alterius.\nCallidi ut serpens, simplex ut rauca columba\nArtulam superat proper utrique suam.\nPretera pareum facunda sunt replevit.\nVix ut Vitalis Tullius equiperet.",
+      "pdf_page": 86,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6009,
+          "titulus_id": 1438,
+          "original_name": "Vitalis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Vitalis",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6010,
+          "titulus_id": 1438,
+          "original_name": "Tullius",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Tullius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1439,
+      "roll_id": 124,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Vital de Savigny avait atteint par sa pr\u00e9dication un grand nombre de personnes; toutefois ce rouleau mortuaire d\u00e9passa et de loin cette ann\u00e9e d\u2019influence, pour inscrire son itin\u00e9raire dans l\u2019ensemble des possessions normandes de part et d\u2019autre de la Manche.\nD\u00e9terminer l\u2019\u00e9poque exacte \u00e0 laquelle ce rouleau fut trouv\u00e9 pr\u00e9sente, par aucun titre n'est \u00e9t\u00e9\n\u00e9. La date de l\u2019incarnation. Les \u00e9l\u00e9ments chronologiques suivants sont toutefois \u00e0 retenir : Vital est\ncomm, comme cela a d\u00e9j\u00e0 \u00e9t\u00e9 indiqu\u00e9, le 16 septembre 1122; en outre, en un des premiers titres\nactuellement conserv\u00e9s, celui de Bayeux, a \u00e9t\u00e9 aupr\u00e8s des alentours de P\u00e2ques, tr\u00e8s\nvraisemblablement en 1223 (soit vers le 15 avl.). enfin, l\u2019acceuil de la r\u00e9ception de S. Peter d\u2019Ely,\ninscrit aupr\u00e8s la fin du voyage du rotulifer, s\u2019ach\u00e8ve par la mention du d\u00e9c\u00e8s de $\\text{\\textsf{W}}$ alterus,\n10 monachoe professeurs et scados sur le \u09e8\u09e6\u09e7\u09e7 (peut-\u00eatre en 1124). On peut en d\u00e9duire que le\nrouleau de Vital circulait probablement entre avril 1223 et l'\u00e9t\u00e9 1124.",
+      "pdf_page": 87,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6011,
+          "titulus_id": 1439,
+          "original_name": "Vital",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Vital of Savigny",
+          "normalized_role": "",
+          "normalized_dates": "d. c. 1124",
+          "location_name": ""
+        },
+        {
+          "id": 6012,
+          "titulus_id": 1439,
+          "original_name": "S. Peter d\u2019Ely",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Peter of Ely",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Ely"
+        }
+      ]
+    },
+    {
+      "id": 1440,
+      "roll_id": 124,
+      "title": "Pour le contenu, l\u2019enqu\u00eate r\u00e9v\u00e8le, d\u2019apr\u00e8s L. Delisle (1), un faible int\u00e9r\u00eat litt\u00e9raire, car le froid pan\u00e9gyrique de Vital en peut y \u00eatre inf\u00e9rieur au cas consacr\u00e9 \u00e0 ce personnage tant par Geoffroy les Gros, dans sa Vita beati Vitalis Bernodien (2), par Etienne de Foug\u00e8res (3) que par souligne cependant son caract\u00e8re hagiographique : $\\text{\\textsf{b}}$ le moine lettr\u00e9, auteur de cette missive, a",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 87,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6013,
+          "titulus_id": 1440,
+          "original_name": "L. Delisle",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "\u00ab unum essexarum necessarium cognoscens, optimam partem eliget, que laudaret ab eo \u00bb",
+          "normalized_name": "L\u00e9on Delisle",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6014,
+          "titulus_id": 1440,
+          "original_name": "Geoffroy les Gros",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Geoffrey the Stout",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6015,
+          "titulus_id": 1440,
+          "original_name": "Vital",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Vital of Savigny",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6016,
+          "titulus_id": 1440,
+          "original_name": "Etienne de Foug\u00e8res",
+          "original_title": "",
+          "footnote_num": "3",
+          "footnote_text": "\u00ab semetipsum exhibuit hostiam viventem, sanctam, Deo placentem \u00bb",
+          "normalized_name": "Stephen of Foug\u00e8res",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Foug\u00e8res"
+        }
+      ]
+    },
+    {
+      "id": 1441,
+      "roll_id": 124,
+      "title": "",
+      "location_name": "",
+      "latin_text": "... Igitur patet ... ab infantia disciplinis liberalibus eruditus, postquam ad virilem aetatem pervenit, in reum habuitanda possidit, coepit amauperta 10 tem, simulque illud evangelicum ante oculos ponens : \u00ab Qui non renuntiat omni bus quae possidet, non potest meus discipulus \u00bb (6), sicut se beato Benedicto dicitur, \u00ab quoniam aridum mundum cum flore despexit \u00bb (7). Hic igitur divinae miserationis manu a labentes saculi hujus reuna eriptus, eremiticus vitam, in loco qui Domini Petra dicitur, decem et septem annos strenne duxit, non sine 15 frequenti visitatione probationum honestarumque sui temporis personarum, domni videlici Robert de Arxel, quo conobiem quod Fons Ebraudi dicitur acidificavit, et domni Bernardi de Tyron, cui allis clarissimis ejusdem professionis perenni ss: in praedicto loco Domini Petrae, amore sanctorum patrum, collatio- nes perpessimantes faciento, de sanctae Ecclesiae statu et animarum utilitatibus 20 disseberant. In qua professione quam sancte se habuerit, quantum quamuli contemplor et pauperitatis amator, quantum quamlibus largus egetibus, quantum vigilis, jejunis, oribonibus et alis sanctis operibus intensus fuitert, supradicta-",
+      "pdf_page": 88,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6017,
+          "titulus_id": 1441,
+          "original_name": "Benedicto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Benedict",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6018,
+          "titulus_id": 1441,
+          "original_name": "Petra",
+          "original_title": "Domini",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6019,
+          "titulus_id": 1441,
+          "original_name": "Robert de Arxel",
+          "original_title": "domni videlici",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert of Arxel",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6020,
+          "titulus_id": 1441,
+          "original_name": "Bernardi de Tyron",
+          "original_title": "domni",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard of Tyrone",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1442,
+      "roll_id": 124,
+      "title": "",
+      "location_name": "",
+      "latin_text": "rum ad eum personarum familiaris et frequens conventus indicat, dicente proph\u00e9ta : \u00ab Cum sanctus sanctus eris \u00bb (1). Quantum vero divini viri fidelis atque indefessus exteritii dispensator, comprobatur fratrum suorum, qui eum comitantur, labore intolerabili et ex labore defectu, cum, ipsis sedetibus et in suis obsequio ilibi invicet sucedentibus, ipum in praedicatione numquam sumere, 5 defessisque saepe auditoribus, numquam viderent defecerre. In quo officio si quis veris comprehendere velit, quot nequam hominum insidias, quos famis et sitis contumelias, quat aestuas aliique aeris intemperies toleraverit, quos famis et consumptis defectis. Hic tamen terri archeni appetens, \u00ab non quae sua sunt, sed quae Jesu Christi, quaerebat \u00bb (2), ad hoc tantum labarum, ut inter discordantes 10 pacem restitueret, egebimus vitium et vestimentum, vagis hospitium, res veniam, meriturectis legitima conjugia, leprosis domos necessaria necessaria proprios videre ; cui Dominus tantam gratiam conferat, ut licet difficilia et impossibilia aggrederetur. Dei adjutorium numquam dererat effectu. Dum igitur hiis et hujus modi sanctitatis operibus per decem et septem annos desserviret, tandem, precum 15 bus fratrum coaction, quorum sanctitas eius causa non minima ad eum multitudo confluxerat, plusque septem viginti sexus utriusque pater effectus est personarum, praestuantis, juxta Georgium, judicans \u00ab multis prodesse, quos soli sibi vivere \u00bb (3) ; nec tamen, in regimine postis, pristinam pauperitatem deseruit, praedicationi nihilobrevum incunabulum, ecclesiarum maximus reprensessor, pauperum cons- 20 tantissimos defensor, tyrannorum acerrimus repulsor, gregis sibi commissi rectus ac modestus pastor et piissimus provisor.",
+      "pdf_page": 88,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6021,
+          "titulus_id": 1442,
+          "original_name": "Georgium",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "George",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6022,
+          "titulus_id": 1442,
+          "original_name": "Jesu Christi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Jesus Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1443,
+      "roll_id": 124,
+      "title": "",
+      "location_name": "",
+      "latin_text": "et Roberto (1), abbatibus, et aliis fratribus, parentibus, amicis et benefactoribus nostris, quibus omnibus Deus vitam eternam. Amen.\nOrate (a) pro consanguineis ejusdem Vitalis, Rainfredo patre ejus, Rohae matre ejus, Ricardo, Rainaldo, Turstino, Adelina, Avenida, Awnda, Murielde, Amelina [...].\nAnima ejus et a. o. f. d. r. i. p. Amen.\nCum sint nota satis premonitia strenuitas,\nCur a tantilis scriptis insistitur illis?\nEst potius flendum cum fentibus atque dolendum,\nQuod mors alsque mora sic consumat meliora\nDicitur a vita Vitalis, sit sibi vita.\nQuotque sonat nomen sibi felix comlexat omen.",
+      "pdf_page": 89,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6023,
+          "titulus_id": 1443,
+          "original_name": "Roberto",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "\u00ab unum essexarum necessarium cognoscens, optimam partem eliget, que laudaret ab eo \u00bb",
+          "normalized_name": "Robert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6024,
+          "titulus_id": 1443,
+          "original_name": "Vitalis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Vitalis",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6025,
+          "titulus_id": 1443,
+          "original_name": "Rainfredo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rainfred",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6026,
+          "titulus_id": 1443,
+          "original_name": "Rohae",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rohe",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6027,
+          "titulus_id": 1443,
+          "original_name": "Ricardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Richard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6028,
+          "titulus_id": 1443,
+          "original_name": "Rainaldo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rainald",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6029,
+          "titulus_id": 1443,
+          "original_name": "Turstino",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Turstin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6030,
+          "titulus_id": 1443,
+          "original_name": "Adelina",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Adeline",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6031,
+          "titulus_id": 1443,
+          "original_name": "Avenia",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Avena",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6032,
+          "titulus_id": 1443,
+          "original_name": "Awnda",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Avon",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6033,
+          "titulus_id": 1443,
+          "original_name": "Murielde",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Muriel",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6034,
+          "titulus_id": 1443,
+          "original_name": "Amelina",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ameline",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1444,
+      "roll_id": 124,
+      "title": "3 [4] S.d.- Caen, la Trinit\u00e9.\nT. SANCTE TRINITATIS CADOMI.",
+      "location_name": "Caen, la Trinit\u00e9",
+      "latin_text": "Dum (b) vixit, mundo quem spremit cessit ab isto\nVitalis, summus sit vita Deus.\nQuais valet fari digne, vel quis meditari\nQuam dulci studio profuit hic populo?\nIllius occursis omnium metuebat iniquus,\nQui faciendo malum non timuere Deus,\nIlle pius dictis hoc affabatur amicis,\nEt, promendo bonum, linqueret omne malum\nSuadebat; multi suadente huere retracti\nHoc errore suo, seque dedere Deo.\nHujus erant comites pietas, concordia ; lites\nVitabat ; summus, quo mediante, Deus\nCordibbus in multis fundebat semina pacis,\nExemptum talem morte dolete patrem,\nFratres, quos traxit vitiis secumque gregavit,\nEt bona, dum licuit, quis documenta dedit.\nJam gene Normanna tanto patre gens viduata :\nNon est quo verbis nunc satire bonis ;\nHic te, dum licuit, Domini sermone cibavit.\nHol alicuis bonis gaudeat ipse polis. Amen.",
+      "pdf_page": 89,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6035,
+          "titulus_id": 1444,
+          "original_name": "Vitalis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Vitalis",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 1647,
+      "roll_id": 124,
+      "pdf_page": 83,
+      "pdf_half": "left",
+      "footnote_num": "(a)",
+      "text": "(a) intolerabili a."
+    },
+    {
+      "id": 1648,
+      "roll_id": 124,
+      "pdf_page": 83,
+      "pdf_half": "left",
+      "footnote_num": "(b)",
+      "text": "(b) longua a."
+    },
+    {
+      "id": 1649,
+      "roll_id": 124,
+      "pdf_page": 83,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "ecclesie Redonensis h."
+    },
+    {
+      "id": 1650,
+      "roll_id": 124,
+      "pdf_page": 83,
+      "pdf_half": "right",
+      "footnote_num": "b",
+      "text": "Ici fin de a."
+    },
+    {
+      "id": 1651,
+      "roll_id": 124,
+      "pdf_page": 83,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "\u00ab unum essexarum necessarium cognoscens, optimam partem eliget, que laudaret ab eo \u00bb"
+    },
+    {
+      "id": 1652,
+      "roll_id": 124,
+      "pdf_page": 83,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "\u00ab Ubi enim erat thesaurus eius, ibi et cor tuum \u00bb"
+    },
+    {
+      "id": 1653,
+      "roll_id": 124,
+      "pdf_page": 83,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "\u00ab semetipsum exhibuit hostiam viventem, sanctam, Deo placentem \u00bb"
+    },
+    {
+      "id": 1654,
+      "roll_id": 124,
+      "pdf_page": 84,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "(1) Cette pi\u00e8ce de parchemin a toujours \u00e9t\u00e9 la derni\u00e8re de ce rouleau mortuaire, car on n'observe \u00e0 sa base ni incision verticale, ni trace d'un quelque autre mode d'attache."
+    },
+    {
+      "id": 1655,
+      "roll_id": 124,
+      "pdf_page": 85,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": "... p. 86-93, n.\u00b0 138 (partiel). \u2014 H. de Formeville, Rouleaux des morts [pl. I et II] (partiel). \u2014 Album pal\u00e9ographique ... Soci\u00e9t\u00e9 de l'\u00c9cole des chartes, Paris, 1887, pl. 30 (partiel). \u2014 J. Depoin, \u00c9loge latine d'H\u00e9lo\u00efse (partiel) \u2014 N. R. Ker, English manuscripts in the abbey after the Norman conquest, Oxford, 1960, pl. 14-15 (partiel). \u2014 J. Vadaine, Saints de Normandie : saint Valmy, bienheureux Thomas Helry, saint Jean Eudes ..., Paris, 1957, pp. 48-49"
+    },
+    {
+      "id": 1656,
+      "roll_id": 124,
+      "pdf_page": 85,
+      "pdf_half": "left",
+      "footnote_num": "25",
+      "text": "... L. Delisle, Rouleaux des morts du IXe au XVe s., t. VII, col. 363."
+    },
+    {
+      "id": 1657,
+      "roll_id": 124,
+      "pdf_page": 85,
+      "pdf_half": "left",
+      "footnote_num": "40",
+      "text": "... M.-J. Le Chasteux, Histoire de l'abbaye de Saint-Amand de Rouen des origines \u00e0 la fin du XVIIe s., Caen, 1977, p. 79, 108."
+    },
+    {
+      "id": 1658,
+      "roll_id": 124,
+      "pdf_page": 85,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Sur cette date, cf. J. von Walter, Vital de Savigny, t. II, p. 104."
+    },
+    {
+      "id": 1659,
+      "roll_id": 124,
+      "pdf_page": 85,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "Comme tel, \u00c9tienne souscrit plusieurs actes de Henri II, roi d'Angleterre et duc de Normandie... Paris, t. I. 1966, p. 306, n\u00b0 CLXXXVI; p. 333, n\u00b0 CXCIX; p. 338, n\u00b0 CCIII."
+    },
+    {
+      "id": 1660,
+      "roll_id": 124,
+      "pdf_page": 86,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "\u00e9v\u00eaque de Rennes (1168-1178), et le titre de Lessay, gr\u00e2ce \u00e0 B ; d'autre part, dom Claude Auvry \u207d\u00b9\u207e indique, sans donner de r\u00e9f\u00e9rence de source, que ce rouleau mortuaire a visit\u00e9 les \u00e9glises d'Avranches, de Dol et de Rennes, ce qui n'est tot jamais possible ; \u00e0 noter cependant que les titres bretons appuy\u00e9s sur les divers rouleaux mortuaires m\u00e9di\u00e9vaux sont fort rares. Le second rouleau est celui qui\n5 est conserv\u00e9 actuellement."
+    },
+    {
+      "id": 1661,
+      "roll_id": 124,
+      "pdf_page": 86,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "On a tent\u00e9 d'esp\u00e8ces de ces lacunes initiales. Selon H. Sauvage et C. Lamont \u207d\u00b2\u207e, le po\u00e8me, imprim\u00e9 en apcrs, d\u00e9lit Baudour de Bourgueil et rappelant les vertus et la charit\u00e9 de Vital, devait \u00eatre l'\u00ab Inscription plac\u00e9e \u00bb sur le tombeau primitif de saint Vital s\u00b0, qui se trouvait dans l'\u00e9glise de Savigny, pour J. van Woolenbroek \u207d\u00b3\u207e, cette affirmation est gratuite, car aucune indication"
+    },
+    {
+      "id": 1662,
+      "roll_id": 124,
+      "pdf_page": 86,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "10 allait en ce sens : ses \u00e9crits. Cette pr\u00e9cision sur la vie de Vert non conserv\u00e9e de\n15 l'esprit... L'origine du codex \u207d\u2074\u207e de ce po\u00e8me transmis ne nous est h\u00e9las pas connue. Le\npo\u00e8me peut donc avoir \u00e9t\u00e9 \u00e9crit pour le rouleau des morts de Vital dans une \u00e9glise ou un monast\u00e8re\nde Normandie occidentale ou d'Auvergne. Mais j'on ne peut exclure une autre origine... En tout cas,\nl'auteur aurait connu la lettre du rouleau mortuaire de Vital .\""
+    },
+    {
+      "id": 1663,
+      "roll_id": 124,
+      "pdf_page": 86,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": ""
+    },
+    {
+      "id": 1664,
+      "roll_id": 124,
+      "pdf_page": 86,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": "En revanche, le po\u00e8me ci-dessus, intitul\u00e9 Ad Vitalem \u207d\u2075\u207e \u2014 fait de douze distiques (auxquels manque le dernier vers) \u2014 appartient \u00e0 la s\u00e9rie des po\u00e8mes de Baudour de Bourgueil, que H. Sauvage\n35 et C. Lamont \u207d\u2076\u207e pensent avoir \u00e9t\u00e9 \u00e9crit pour le rouleau mortuaire de Vital, n'est retenu ni par J. van\nWoolenbroek \u207d\u2077\u207e, car souligne-t-il, \u00ab l'ode ne concerne pas un mort, mais un beau jouvenceau en"
+    },
+    {
+      "id": 1665,
+      "roll_id": 124,
+      "pdf_page": 86,
+      "pdf_half": "left",
+      "footnote_num": "6",
+      "text": ""
+    },
+    {
+      "id": 1666,
+      "roll_id": 124,
+      "pdf_page": 86,
+      "pdf_half": "left",
+      "footnote_num": "7",
+      "text": ""
+    },
+    {
+      "id": 1667,
+      "roll_id": 124,
+      "pdf_page": 86,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Op. cit., t. I, p. 283, n. 1."
+    },
+    {
+      "id": 1668,
+      "roll_id": 124,
+      "pdf_page": 86,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "Le second document, encore conserv\u00e9 (2), contient 207 limes. Une remarque importante doit \u00eatre faite sur la mani\u00e8re dont le pr\u00e9sente aujourd'hui. La feuille XII (c. p.) qui se termine par le titre des feuilles XIII, XIV et XV (c. c.), contenant essentiellement des titres anglais. Pour cette partie de l'itin\u00e9raire, les titres sont donc apport\u00e9s dans la moiti\u00e9 sup\u00e9rieure du rouleau d'Arundel (XII, c. p.); Gloucester (XIII, c. c.) revendique... Par ailleurs, en r\u00e9alit\u00e9, selon les douze premi\u00e8res feuilles du c. c. des feuilles XII \u00e0 IX, puis sur le c. c. des premi\u00e8res feuilles \u00e0 l'XII. Ensuite, le rouleau mortuaire s'est r\u00e9v\u00e9l\u00e9 trop court pour tout les titres anglais \u00e0 venir; nous trouvons les feuilles-ont \u00e9t\u00e9 alors ajout\u00e9es au rouleau initial; seul le c. c. des derni\u00e8res ann\u00e9es a \u00e9t\u00e9 utilis\u00e9; mais, ainsi que l'on ait commis une erreur d'assemblage, soit plut\u00f4t que l'on ait d\u00e9sir\u00e8 faire suivre le c. c. des douze premi\u00e8res feuilles du c. c. de ces trois derni\u00e8res, les titres anglais des feuilles XIII, XIV et XV ne font pas aussi le suivi de Arundel (XII, c. p.), mais \u00e0 celui de Corbourg (XII, c. c.). On peut aussi supposer que le manque de place \u00e0 la fin du rouleau initial a fait que des titres anglais ont \u00e9t\u00e9 apport\u00e9es un peu n'importe o\u00f9 sur ces feuilles."
+    },
+    {
+      "id": 1669,
+      "roll_id": 124,
+      "pdf_page": 87,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Cf. par exemple le vers *Vitalis vitalem vita reliquat* du titre de la cath\u00e9drale de Paris [\u2018Nr 47 [45]\u2019]."
+    },
+    {
+      "id": 1670,
+      "roll_id": 124,
+      "pdf_page": 87,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "Cf. Acerrem, Gernan, n\u00ba 55 [78]."
+    },
+    {
+      "id": 1671,
+      "roll_id": 124,
+      "pdf_page": 87,
+      "pdf_half": "right",
+      "footnote_num": "(3)",
+      "text": "Caen, S. Etienne (\u2018n\u00ba 2 [3] \u2019); Caen, la Trinit\u00e9 (n\u00ba 3 [4]); Troarn (n\u00ba 5); Lisieux, cath\u00e9drale (n\u00ba 7); Lisieux, N.-D. (n\u00ba 8) ; etc."
+    },
+    {
+      "id": 1672,
+      "roll_id": 124,
+      "pdf_page": 87,
+      "pdf_half": "right",
+      "footnote_num": "(4)",
+      "text": "Influences visuelles : p. 260-261."
+    },
+    {
+      "id": 1673,
+      "roll_id": 124,
+      "pdf_page": 87,
+      "pdf_half": "right",
+      "footnote_num": "(5)",
+      "text": "Par exemple, d'une part, F\u00e9camp : Mathilde, recluse, et clerc (n\u00ba 31 [27]) et, d'autre part, S. Victor-[l'\u2019Abbaye] (n\u00ba 32 [31])."
+    },
+    {
+      "id": 1674,
+      "roll_id": 124,
+      "pdf_page": 87,
+      "pdf_half": "right",
+      "footnote_num": "(6)",
+      "text": "Caen, S. Etienne (\u2018n\u00ba 2 [3] \u2019)."
+    },
+    {
+      "id": 1675,
+      "roll_id": 124,
+      "pdf_page": 87,
+      "pdf_half": "right",
+      "footnote_num": "(7)",
+      "text": "Par exemple Bourguet (n\u00ba 132 [108]); S. Fraimbault (n\u00ba 135 [119])."
+    },
+    {
+      "id": 1676,
+      "roll_id": 124,
+      "pdf_page": 87,
+      "pdf_half": "right",
+      "footnote_num": "(8)",
+      "text": "Coincy (n\u00ba 35 [51]), S. Albans (n\u00ba 72 [195]); Ramerupt (n\u00ba 76 [73]), York, cathedral (n\u00ba 94 [170]); Ramsey (n\u00ba 96 [178]); Rochester, cathedral (n\u00ba 104 [203]); Canterbury, cath\u00e9drale (n\u00ba 105 [204]); Lewes (n\u00ba 107 [207]); Chartres, S. Jean-en-Valois (n\u00ba 127 [269]); Tours (n\u00ba 130 [285]), Lisieux, Notre-Dame (n\u00ba 133 [291]); Tongres, cath\u00e9drale (n\u00ba 169 [111]); Salisbury, cathedral (n\u00ba 186 [140])."
+    },
+    {
+      "id": 1677,
+      "roll_id": 124,
+      "pdf_page": 87,
+      "pdf_half": "right",
+      "footnote_num": "(9)",
+      "text": "Par exemple Corbigny (n\u00ba 82 [80]), Milton (n\u00ba 188 [144]), Crowland (n\u00ba 193 [175]), Thornery (n\u00ba 194 [176])."
+    },
+    {
+      "id": 1678,
+      "roll_id": 124,
+      "pdf_page": 88,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "s\u00e9s de lettres enclav\u00e9es (1), parfois d'un tr\u00e8s bel effet, qui peuvent se retrouver dans les mss. (2), ou les inscriptions lapidaires de la m\u00eame \u00e9poque."
+    },
+    {
+      "id": 1679,
+      "roll_id": 124,
+      "pdf_page": 88,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": ""
+    },
+    {
+      "id": 1680,
+      "roll_id": 124,
+      "pdf_page": 88,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "Quelques copistes ont encore pris le parti de transcrire totalement ou partiellement leur texte \u00e0 l'encre rouge (3), tandis que d'autres ont parfois employ\u00e9 la peinture verte (4)."
+    },
+    {
+      "id": 1681,
+      "roll_id": 124,
+      "pdf_page": 88,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": ""
+    },
+    {
+      "id": 1682,
+      "roll_id": 124,
+      "pdf_page": 88,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": "Mais, souvent la d\u00e9coration est inexistante, car les clercs (notamment anglais) ont appos\u00e9 des titres sans aucune recherche."
+    },
+    {
+      "id": 1683,
+      "roll_id": 124,
+      "pdf_page": 88,
+      "pdf_half": "left",
+      "footnote_num": "6",
+      "text": ""
+    },
+    {
+      "id": 1684,
+      "roll_id": 124,
+      "pdf_page": 88,
+      "pdf_half": "left",
+      "footnote_num": "7",
+      "text": ""
+    },
+    {
+      "id": 1685,
+      "roll_id": 124,
+      "pdf_page": 88,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "(1). Ps. XVII, 26."
+    },
+    {
+      "id": 1686,
+      "roll_id": 124,
+      "pdf_page": 88,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "(2). Cf. Phil., 21, 2 : \u00ab Omnes enim quae sua sunt quaerunt, non quae sua sunt Jesu Christi \u00bb."
+    },
+    {
+      "id": 1687,
+      "roll_id": 124,
+      "pdf_page": 88,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "(3) Cf. Gr\u00e9goire le Grand, Regula pastoralis,"
+    },
+    {
+      "id": 1688,
+      "roll_id": 124,
+      "pdf_page": 88,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "(4) Sur ce personnage, cf. supra, p. 397, n. 1."
+    },
+    {
+      "id": 1690,
+      "roll_id": 124,
+      "pdf_page": 89,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "Cette pi\u00e8ce de vers est \u00e9crite sur deux colonnes."
+    },
+    {
+      "id": 1691,
+      "roll_id": 124,
+      "pdf_page": 89,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": ""
+    },
+    {
+      "id": 1689,
+      "roll_id": 124,
+      "pdf_page": 89,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Sur ce personnage, pour lequel circula un rouleau mortuaire, cf. supra, p. 363, n\u00ba 110."
+    }
+  ]
+}

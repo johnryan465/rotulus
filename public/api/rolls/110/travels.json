@@ -1,0 +1,15 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Montecassino, Italy",
+    "coords": [
+      41.49,
+      13.814
+    ],
+    "year": null,
+    "date_str": "S. d.",
+    "is_approximate": false,
+    "description": "Origin: Annonce de l'envoi d'une liste de d\u00e9funts par l'ab..."
+  }
+]

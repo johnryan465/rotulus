@@ -1,0 +1,34 @@
+{
+  "roll": {
+    "id": 37,
+    "roll_num": 41,
+    "date_str": "S.d. [vers 972]",
+    "title": "Deuxi\u00e8me variante de la lettre mortuaire ins\u00e9r\u00e9e dans la \u00ab Regularis concordia \u00bb de Dunstan.",
+    "manuscripts": "A. Original perdu.\nB. London, British Library, Cotton Tiberius A 3, fol. 177v (fin X\u00ba s.).\na. Th. Symons, Regularis concordia Anglicae nationis monachorum sanctimonialiumque, London, 1953, p. 68, n. h, d'apr\u00e8s B.",
+    "pdf_source": "1",
+    "pdf_pages": "25",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 64,
+      "roll_id": 37,
+      "title": "10 Christi]",
+      "location_name": "",
+      "latin_text": "Gratia misericordiae Dei archiepiscopus ill. omnisque [congregatio Ecclesiae Christi] omnibus senioribus et junioribus fidelibus in Christo salutem. Sanctitati vestrae volumus sit notum de obitu fratris nostri ill., monachi et sacerdotes (vel levitae), qui obiit N. (vel XI kal. feb.), pro quo petimus ut intercessores existatis quatinam vestris [sacris suffragiis] valet ant aggregari coetibus sanctorum in caelis. Valete.",
+      "pdf_page": 25,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 161,
+      "roll_id": 37,
+      "pdf_page": 25,
+      "pdf_half": "left",
+      "footnote_num": "10",
+      "text": "Christi"
+    }
+  ]
+}

@@ -1,55 +1,97 @@
 {
   "roll": {
     "id": 14,
-    "roll_num": "29",
-    "date_str": "S.d.",
-    "title": "preopto salutem. Noverit quidem prona bencvolentia vires parvitatis meae suppetunt, in missarum vestra quia ego, in quantum cererigasupplicacionibus [Pro rvobns vaissatam deleosccionibus et psalmoduuaseum\u0131  deposco eadem clementia hic ad meam et ad multorum clemenciarn, quatenus vos temporibus; novissime   ad   gaudia   paradisi consolacionem longevis conserves nomina, que sparsim actenus haberem, perducat.  Vestrum   enim  fratrum (sic)   merear; quia nostrorum  fracrem, petoina pleniter unacum fratribus abere deprecor scilicet et nomina jam multo tempore' habuistes vos omnes  patres et abbatem; ut commendetis sanctae congregacioni et, ut me familiariter habeat, me vestrae oracionibus et, quando dies obitus mei vobis notus perficite; maxime in sacris facere fuerit, misericordissime de me dignemini,  sicut Jacobus apostolus ammonet 10 salvemini (1) Orate  pro invicem; ut quia, sicut optime nostis; omni humane preter vos et tales pro Dei amore aliquid consilio destitutus sum Quicquid enim mihi indigno nojeraliqaid , pfrigeri uu n advsiliun mihi {acinnn paratus sum ad exequenda; quantum vires divina gratia mihi attribuit et utinam tam utiliter quam libenter ! Nomina   15 fratrum defunctorum libenti animo suscipite et preces consuetudinarias facite ' et ad vicina monasteria dirigite. Sancta Trinitas vos custodiat in evum.",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "15,16",
+    "roll_num": 15,
+    "date_str": "S.d. [789-792]",
+    "title": "Troisi\u00e8me formule de bref mortuaire \u00e0 l'usage de Murbach.",
+    "manuscripts": "A. Original perdu.\nB. Sankt Gallen, Stiftsbibl., 550, p. 151, sous le titre : + Ad abbatissum + (IXe s.).\na. E. Martino, De antiquis monasteriis Ribau., Lyon, 1690, p. 847. \u2014 b. J. Mabillon, Vetera analecta, in-fol., 1723, p. 418. \u2014 c. E. de Rouzie, Formulae, 2\u00b0 partie, p. 951, n\u00b0 678. \u2014 d. L. Delisle, Rouleaux des morts du IXe au XVe s., p. 2, n\u00b0 1 (2). \u2014 e. K. Zeumer, Formulae merovingias et carolini anni (M. H. Legge), p. 332, Formulae Morbacenses, n\u00b0 11. \u2014 f. H. Leclercq, Rouleaux des morts, col. 42.",
+    "pdf_source": "1",
+    "pdf_pages": "9",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": [
+  "tituli": [
     {
-      "id": 35566,
+      "id": 20,
       "roll_id": 14,
-      "pdf_page": 15,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "OqunIS orallOIUS VOMI scnCOnUla PLUPaiU?  sicut inter nos et vos consuetudo est bona."
+      "title": "",
+      "location_name": "",
+      "latin_text": "(Chrismon) Domino sancto sanctorum qui pratis quoqueando et a nobis cum summa veneratione diligendo in Christo patre Lullono episcopo Doto, servos servorum Dei, et omnes sancti Petri, apostolorum principi degentium sub norma sanctae regulae aeternam in Domino nostro Jesu Christo ... salutem... Similiter vobis deprecamur, ut omnium amicorum vestrorum nomina tam vivorum quam defunctorum per praesente fratre nostro Saganaldo per breve ad nos dirigere faciatis, ut ipso, sicut de alis fratres nostros facimus, al in nostris assiduis orationibus ipsois memoreare dileamus.",
+      "pdf_page": 9,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 96,
+          "titulus_id": 20,
+          "original_name": "Lullono",
+          "original_title": "episcopo Doto",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lullo",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 97,
+          "titulus_id": 20,
+          "original_name": "Petri",
+          "original_title": "apostolorum principi",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "apostle",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 98,
+          "titulus_id": 20,
+          "original_name": "Saganaldo",
+          "original_title": "fratre nostro",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saganald",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 99,
+          "titulus_id": 20,
+          "original_name": "Jesu Christo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Jesus Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
     },
     {
-      "id": 35567,
+      "id": 21,
       "roll_id": 14,
-      "pdf_page": 15,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "Jac., V, 16."
-    },
-    {
-      "id": 35568,
-      "roll_id": 14,
-      "pdf_page": 15,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "Doavu"
-    },
-    {
-      "id": 35569,
-      "roll_id": 14,
-      "pdf_page": 16,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "atui, a04 UbC Uicel D his, qui a dexteris ejus erunt Venite; benedicti Patris mei, possidete paratum vobis regnum a constitutione mundi Un document comptable du IX' & pro:"
-    },
-    {
-      "id": 35570,
-      "roll_id": 14,
-      "pdf_page": 16,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "BSNAE, 1970, P 310-318, C\u00ed. P. Gasnault, op cit , P 317. Ibid, P 312 n. 2"
+      "title": "25",
+      "location_name": "",
+      "latin_text": "Reverentissime matri famili\u00e6 illi, Sindbert, domum Dei vocatus episcopus adque alba de monasterio Morbac, in Domino eternam salutem. De cetero commemoria karitas vestra eo quod frater vester, nomine ille, kalendas illas, de",
+      "pdf_page": 9,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 100,
+          "titulus_id": 21,
+          "original_name": "Sindbert",
+          "original_title": "domum Dei vocatus episcopus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Sindbert",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Morbac"
+        }
+      ]
     }
-  ]
+  ],
+  "footnotes": []
 }

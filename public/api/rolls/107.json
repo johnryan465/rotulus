@@ -1,0 +1,1673 @@
+{
+  "roll": {
+    "id": 107,
+    "roll_num": 104,
+    "date_str": "S. d. [1102, \u00e9t\u00e9]",
+    "title": "Rouleau mortuaire de Bernat, abb\u00e9 de Ripoll (\u2020 20 juin 1102).",
+    "manuscripts": "A. Original perdu.\nB. Vic, Arxiu episcopal, Olonzelles 2061-IV, p. 57-66, d'apr\u00e8s A (copie v. 1820).",
+    "pdf_source": "2",
+    "pdf_pages": "56,57,58,59,60,61,62",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 826,
+      "roll_id": 107,
+      "title": "",
+      "location_name": "",
+      "latin_text": "omon), personnages ayant jou\u00e9 un r\u00f4le important dans son histoire (le Bernard de Millau, abb\u00e9 de S. Victor de Marseille et r\u00e9pertoire de Ripoll), clercs, la\u00efques.\nSuivant quarante-neuf titres, que j\u2019ai pu identifier \u00e0 l\u2019exception des n\u00bas 10, 11, 25 et 30 ; aucun\nn'est \u00e9t\u00e9.\nD'examiner l'itin\u00e9raire suivi par le porte-rouleau est parfois difficile, en raison du d\u00e9sordre des\ntitules. Le rotulaire quitta Ripoll probablement au cours de l'\u00e9t\u00e9 1102; il parcourut tout d'abord la\nsud des Pyr\u00e9n\u00e9es, en empruntant les diverses vall\u00e9es pour visiter les abbayes de la r\u00e9gion; il avan\u00e7a\nant vers la route sur la route de S. Jacques de Compostelle et attrigui Carriona de los Condes y Palencia. Le\nfait que l'on trouve trois \u00e9v\u00eaques apport\u00e9s par S. Maria de Irache (n\u00b0 16 [12]) et S. Giulio (n\u00ba 20) annule\nque le rotulaire s'arr\u00eate dans les Pyr\u00e9n\u00e9es. Le porte-rouleau se dirigea alors 10\nvers le Nord. Il retra\u00e7a les Pyr\u00e9n\u00e9es au cours de Ronecevas, pour arriver \u00e0 La R\u00e9ole, le point plus\nsupr\u00eame de son voyage; il choisit alors de remonter la Garonne, puis de Toulouse visita un assez\ngrande nombre d\u2019\u00e9tablissements religieux de Normandie. Il passa \u0623\u064a\u0636\u0627 Arlea. Remarquons qu'il ne\nse rendit pas \u00e0 S. Victor de Marseille, car l'on avait probablement annonc\u00e9 par un moyen plus\nrapide que le rouleau transmite \u2014 la mort de Bernat \u00e0 Fabr\u00e9s, l'abb\u00e9 de Ripoll ; S. Victor de 15\nMarseille devint, en effet, abb\u00e9 des d\u00e9funtes.",
+      "pdf_page": 56,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2645,
+          "titulus_id": 826,
+          "original_name": "Bernard de Millau",
+          "original_title": "abb\u00e9",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard of Millau",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "S. Victor de Marseille"
+        },
+        {
+          "id": 2646,
+          "titulus_id": 826,
+          "original_name": "S. Victor de Marseille",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Victor of Marseille",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2647,
+          "titulus_id": 826,
+          "original_name": "S. Maria de Irache",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Santa Mar\u00eda de Irache",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2648,
+          "titulus_id": 826,
+          "original_name": "S. Giulio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Julius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2649,
+          "titulus_id": 826,
+          "original_name": "Bernat",
+          "original_title": "abb\u00e9",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernat",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Fabr\u00e9s"
+        }
+      ]
+    },
+    {
+      "id": 827,
+      "roll_id": 107,
+      "title": "",
+      "location_name": "",
+      "latin_text": "<........................> nobis anxietatis angores vix sufficimus, quia inevitabili <........................> mente deficimus. Sed, quia nolumus (a) nec debemus adendum esse [verbosi, non veste vide] muris caritatis onerosi. Fuit nobis, quem perdimus, [B].en[narris abb\u00e6] beate memorye, equitatis cultor et amoris justicie, cujus [dulcis] abb\u00e6[f]abis am[...]\n5 et affectuosa paternas, ita sibi nostras collegiali animas, ut eam vult carinis haberemus et nihili post\nDeum ejus adducendis affectibus preponemus. Patris[] nempe nomen familias in suis actibus ita\nrefulget. [ut quiejud ex divino precepto agend\u00e6 \u00e6spese imperabat in suis actibus, ut (b) totum\nadipem, congregabet. Sed omnia humana divjne] justice carpatia injusticia esse videtur et,\n10 sorores, caritas visceribus et vestrarum interventionum oratorionis commutiminos, ut quinquem\ne scelaria amicitiae popore isuleri talis juncture peccatorum adhesere malug, vestr\u00e6 frater\ntenere caritatis [juia esculmientur]. Die namque 12 kalendarum juili hab ac luc\ndecessit nobisc[in narrabil]es (c) luctus et amarissimos fletus sua morte reliquit.\nAdipicimus nihilominus alumni nomes congregacionem fratres, qui 11 die post eum ab hac\n15 luce migravit, scilicet 2 kalendas juli, nomine Geraldus, cum omnibus nostrum\ncongregacionem (d) patrues vel fratribus defunctos, quatinus vestris precibus adjusti\nmearentur bonis adjunci. Cruce pretoria nos[ter] dijebus, quibus [vos] adieret, vicem\nobtinet mendicantis et de nec munere vestre fragmentis[] expleat ineaniam anim\u00e6 esmentis\nadipique et aliquamque supplemento visjatci, re[m]atite eum in iam patris et caritatis, ut\n20 Deus patris et caritatis si semper [cum omnibus nobis] avem.",
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2650,
+          "titulus_id": 827,
+          "original_name": "Geraldus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gerard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 828,
+      "roll_id": 107,
+      "title": "1$^{a}$ S.d.- Roda, cathedral.",
+      "location_name": "Roda",
+      "latin_text": "",
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 829,
+      "roll_id": 107,
+      "title": "2 S.d.- La Portella, S. Pere.",
+      "location_name": "La Portella, S. Pere",
+      "latin_text": "2$^{a}$ S$^{a}$ Pedro de la Portella.",
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2651,
+          "titulus_id": 829,
+          "original_name": "Pedro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "La Portella"
+        }
+      ]
+    },
+    {
+      "id": 830,
+      "roll_id": 107,
+      "title": "3 [5] S.d.- Seu d'Urgell, catedral (S. Maria).",
+      "location_name": "Seu d'Urgell, catedral (S. Maria)",
+      "latin_text": "3$^{a}$ Catedral de Urgel, S$^{a}$a Maria.",
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2652,
+          "titulus_id": 830,
+          "original_name": "Maria",
+          "original_title": "S^{a}a",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": "Urgel"
+        }
+      ]
+    },
+    {
+      "id": 831,
+      "roll_id": 107,
+      "title": "4 [6] S.d.- Tav\u00e8rroles, S. Saturni.",
+      "location_name": "Tav\u00e8rroles, S. Saturni",
+      "latin_text": "4$^{a}$ S$^{a}$ Saturnino de Urgel. Se^{(a)} expreso el dia de la muerte de tres abades y otros.",
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2653,
+          "titulus_id": 831,
+          "original_name": "Saturnino",
+          "original_title": "S^{a}",
+          "footnote_num": "a",
+          "footnote_text": "(a) les mots et lettres entre crochets qui remplacent des laques de B sont restitu\u00e9s le plus souvent gr\u00e2ce aux encriques des rouleaux de Senofredo (\u00e9d. supra, p. 88, n\u00b0 67) et d'Oliba (\u00e9d. supra, p. 109, n\u00b0 72), transcrites \u00e9galement par B; les passages en petits caract\u00e8res sont emprunt\u00e9s par le r\u00e9dacteur de l\u2019encyclique \u00e0 l\u2019un ou \u00e0 l\u2019autre de ces deux documents. \u2013 (b) patres B; corriges parpat.",
+          "normalized_name": "Saturninus",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": "Urgel"
+        }
+      ]
+    },
+    {
+      "id": 832,
+      "roll_id": 107,
+      "title": "5 [7] S.d.- Seu d'Urgell, S. Cecilia.",
+      "location_name": "Seu d'Urgell, S. Cecilia",
+      "latin_text": "5$^{a}$ S$^{a}$ Cecilia de Urgel. Es de monjas. Obiit Luca comitissa}^{(1)} 2 idus, pero no puede leerse el mes.",
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2654,
+          "titulus_id": 832,
+          "original_name": "Cecilia",
+          "original_title": "S^{a}",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Cecilia",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": "Urgel"
+        },
+        {
+          "id": 2655,
+          "titulus_id": 832,
+          "original_name": "Luca",
+          "original_title": "comitissa",
+          "footnote_num": "1",
+          "footnote_text": "Lucia, premi\u00e8re femme du comte d'Urgel, Ermenvald IV; ex Mas-Latrie, Tr\u00e9sor de chronologie, col. 169.",
+          "normalized_name": "Lucia",
+          "normalized_role": "countess",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 833,
+      "roll_id": 107,
+      "title": "6 [9] S.d.- Ala\u00f3, S. Maria.",
+      "location_name": "Ala\u00f3, S. Maria",
+      "latin_text": "6$^{a}$ Monasterio Alaonense.",
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 834,
+      "roll_id": 107,
+      "title": "7 [15] S.d.- Irache, S. Maria.",
+      "location_name": "Irache, S. Maria",
+      "latin_text": "7$^{a}$. S^{a}a Maria Hirachense. Es muy poco lo que se puede leer entre este cartomido y despintado.",
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2656,
+          "titulus_id": 834,
+          "original_name": "Maria",
+          "original_title": "S^{a}a",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": "Irache"
+        }
+      ]
+    },
+    {
+      "id": 835,
+      "roll_id": 107,
+      "title": "8 [37] S.d.- Fabr\u00e8gues, N.-D. (?) (2).",
+      "location_name": "Fabr\u00e8gues, N.-D.",
+      "latin_text": "8$^{a}$ S^{a}a Maria Fabricae. Bastante cartomida.",
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2657,
+          "titulus_id": 835,
+          "original_name": "Maria",
+          "original_title": "S^{a}a",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": "Fabricae"
+        }
+      ]
+    },
+    {
+      "id": 836,
+      "roll_id": 107,
+      "title": "9 [3] S.d.- Cardona, S. Vincente.",
+      "location_name": "Cardona",
+      "latin_text": "Abad de Cardona B[ernardus] (1), nuper electus <....> pede que ruegen por su pastor Ugon, Ugone nostro pastore, 4 ydus novembris preventum (sic) morte (2), y otros.",
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2658,
+          "titulus_id": 836,
+          "original_name": "B[ernardus]",
+          "original_title": "Abad de Cardona",
+          "footnote_num": "1",
+          "footnote_text": "Lucia, premi\u00e8re femme du comte d'Urgel, Ermenvald IV; ex Mas-Latrie, Tr\u00e9sor de chronologie, col. 169.",
+          "normalized_name": "Bernardo",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Cardona"
+        },
+        {
+          "id": 2659,
+          "titulus_id": 836,
+          "original_name": "Ugon",
+          "original_title": "pastor",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugo",
+          "normalized_role": "prior/pastor",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 837,
+      "roll_id": 107,
+      "title": "10 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "",
+      "latin_text": "R. prior con sus hermanos, sin decir de donde.",
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 838,
+      "roll_id": 107,
+      "title": "11 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "",
+      "latin_text": "Adalberto prior con sus hermanos, sin decir de donde, y aun mutatis mutandis no hizo mas que copiar la repuesta antecedente.",
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2660,
+          "titulus_id": 838,
+          "original_name": "Adalberto",
+          "original_title": "prior",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Adalberto",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 839,
+      "roll_id": 107,
+      "title": "12 [11] S.d.- Huesca, S. Maria.",
+      "location_name": "Huesca",
+      "latin_text": "S\u00aa Maria, segun parece, Oscense (a), pues esta muy despintada.",
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2661,
+          "titulus_id": 839,
+          "original_name": "S\u00aa Maria",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Santa Mar\u00eda",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 840,
+      "roll_id": 107,
+      "title": "13 [4] S.d.- Orga\u00f1a, S. Maria.",
+      "location_name": "Orga\u00f1a",
+      "latin_text": "S\u00aa Maria de Orga\u00f1a. Usa la misma formula que las de n\u00bas 10 y 11.",
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2662,
+          "titulus_id": 840,
+          "original_name": "S\u00aa Maria de Orga\u00f1a",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Santa Mar\u00eda de Orga\u00f1a",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Orga\u00f1a"
+        }
+      ]
+    },
+    {
+      "id": 841,
+      "roll_id": 107,
+      "title": "14 [8] S.d.- Gerri, S. Maria.",
+      "location_name": "Gerri",
+      "latin_text": "Abad de Gerri. Copio parte la del monasterio Alaonense (n\u00ba 6) y parte la del abad de Cardona (n\u00ba 9). Pide que ruegen por el venerable (b) abad de Gerri Arnaldo (3), por Miron (4) y Aton (5) abades y otros muchos abades y monges.",
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2663,
+          "titulus_id": 841,
+          "original_name": "Arnaldo",
+          "original_title": "abad de Gerri",
+          "footnote_num": "3",
+          "footnote_text": "Probablement Arnaldus III, abb\u00e9 de Gerri de 1082 \u00e0 1086 ; cf. J. Villanueva, Viage",
+          "normalized_name": "Arnaldo III",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Gerri"
+        },
+        {
+          "id": 2664,
+          "titulus_id": 841,
+          "original_name": "Miron",
+          "original_title": "abade",
+          "footnote_num": "4",
+          "footnote_text": "Miro, abb\u00e9 de Gerri de 980 \u00e0 1010 (ibid.).",
+          "normalized_name": "Mir\u00f3",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2665,
+          "titulus_id": 841,
+          "original_name": "Aton",
+          "original_title": "abade",
+          "footnote_num": "5",
+          "footnote_text": "Deux abb\u00e9s de ce nom dirig\u00e8rent Gerri, Ato I de 896 \u00e0 903 et Ato II de 930 \u00e0 969 (ibid.).",
+          "normalized_name": "Ato",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 842,
+      "roll_id": 107,
+      "title": "15 [10] S.d.- S. Victoria.",
+      "location_name": "S. Victoria",
+      "latin_text": "Abad de S\u00aa Victorian Poncio.",
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2666,
+          "titulus_id": 842,
+          "original_name": "Poncio",
+          "original_title": "Abad de S\u00aa Victoria",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Poncio",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 843,
+      "roll_id": 107,
+      "title": "16. Iglesia de Jaca, como sigue :",
+      "location_name": "Jaca",
+      "latin_text": "Ecclesiae titulus Jaccensis hic est, ubi Petrus\nCum socio Paulo donator culmine claro.\nAbbas Bernardus Christo velut optima nardus\nEst ador ex merito corpore deposito,\nHoc merito dente, pietate tamen mediante.\nCernit enim facie quam cupiit specie,\nRegula certo boni fuit hujus vitae patroni,\nHis quibus ipse fuit passio quando ruit.\nHunc Rivipollensis manibus flet concio tensis ;\nPlangere cesset eum, gaudet hic ante Deum.\nItem.\nGloria cunctorum rutilans obit monachorum.\nFlet Ripullatum vite tenet ille senatum.\nErgo lentescat gemitus luctusque quiescat,\nNon decet nunc flere quem scimus in etre sedere.\nItem.\nSi moreretur homo, sequeretur mors viget ergo,\nSed quia non morirut, mors nichile esse sequitur (a).\nMors Christi morte perii (1) nichiloque rededit.\nSic morirut nullus, sed petit hinc medius.\nErgo Bernardus communi laude beatus\nNon subistit mortem, sed petit requiem.\nItem.\nAbbas Bernardus vivens fuit ad mala tardus,\nPromptus ad omne bonum. Deus huic det regna polorum.\nAmen.",
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2667,
+          "titulus_id": 843,
+          "original_name": "Petrus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2668,
+          "titulus_id": 843,
+          "original_name": "Paulo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Paul",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2669,
+          "titulus_id": 843,
+          "original_name": "Bernardus",
+          "original_title": "Abbas",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2670,
+          "titulus_id": 843,
+          "original_name": "Christi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 844,
+      "roll_id": 107,
+      "title": "10. S\u00ba Juan de la Pena, como sigue :",
+      "location_name": "S. Juan de la Pe\u00f1a",
+      "latin_text": "Abbas S. vieno Sancti Joannis de Pinna cunetaqe illius congregatio, sanctisimo viro quondam Ripollensis cenobi abbati. Dei natu jame de corpore vica omnis carnis ingrosso, gaudium quod nec oculis vidit, nec auris audivit, nec cor hominis ascendit (1), a congregationi vero illi divina per omnia auxiliari clementiam dignissime ac priori similem posse adipisci patronum.\nSi tutaret bonitas que, ne morreretur,\nHunc servasset, ne mortis jura subisset,\nNam mihi credatis, domus estit hic bonitatis,\nSicut tentastur hunc que vidisse probantur,\nSet quia lex suaque nobis contulit eva\nParcere nescit, vir hic ejus jura subivit,\nCarne tamen posita, fruitur paradisica vita (a).\nPatre Deo dante, Christi pietate juvante,\nContio justorum monet hunc gaudere virorum,\nCum quibus altisona pietate capiat pia bona.\nScala Galidonis dedit his che carmina donis\nMagni doctores doctrique viri melioris.\nObierunt abates Paternus (2), Blasco (3), Ato (4), Galindo (5), Garcias (6) Aqu\u00ed-linus (7), Sancius, Aimericus. Orate pro eis.",
+      "pdf_page": 59,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2671,
+          "titulus_id": 844,
+          "original_name": "S. vieno Sancti Joannes de Pinna",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "San Juan de la Pe\u00f1a",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2672,
+          "titulus_id": 844,
+          "original_name": "Ripollensis cenobi abbati",
+          "original_title": "abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Ripoll"
+        },
+        {
+          "id": 2673,
+          "titulus_id": 844,
+          "original_name": "Paternus",
+          "original_title": "abbas",
+          "footnote_num": "2",
+          "footnote_text": "Hugo, abb\u00e9 de Cardona de 1080 au novembre 1101 (ibid.).",
+          "normalized_name": "Paternus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2674,
+          "titulus_id": 844,
+          "original_name": "Blasco",
+          "original_title": "",
+          "footnote_num": "3",
+          "footnote_text": "Probablement Arnaldus III, abb\u00e9 de Gerri de 1082 \u00e0 1086 ; cf. J. Villanueva, Viage",
+          "normalized_name": "Blasco",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2675,
+          "titulus_id": 844,
+          "original_name": "Ato",
+          "original_title": "",
+          "footnote_num": "4",
+          "footnote_text": "Miro, abb\u00e9 de Gerri de 980 \u00e0 1010 (ibid.).",
+          "normalized_name": "Ato",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2676,
+          "titulus_id": 844,
+          "original_name": "Galindo",
+          "original_title": "",
+          "footnote_num": "5",
+          "footnote_text": "Deux abb\u00e9s de ce nom dirig\u00e8rent Gerri, Ato I de 896 \u00e0 903 et Ato II de 930 \u00e0 969 (ibid.).",
+          "normalized_name": "Galindo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2677,
+          "titulus_id": 844,
+          "original_name": "Garcias",
+          "original_title": "",
+          "footnote_num": "6",
+          "footnote_text": null,
+          "normalized_name": "Garc\u00eda",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2678,
+          "titulus_id": 844,
+          "original_name": "Aqu\u00edlinus",
+          "original_title": "",
+          "footnote_num": "7",
+          "footnote_text": null,
+          "normalized_name": "Aquilino",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2679,
+          "titulus_id": 844,
+          "original_name": "Sancius",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Sancho",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2680,
+          "titulus_id": 844,
+          "original_name": "Aimericus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ermenric",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 845,
+      "roll_id": 107,
+      "title": "19. S\u00ba Salvador Anianense, como sigue :",
+      "location_name": "Anianense",
+      "latin_text": "T. Sancti Salvatoris Anianensis, Rivipollivensibus fratribus excellentissimi pastoris vidulis tuatus, P[etrus",
+      "pdf_page": 60,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 846,
+      "roll_id": 107,
+      "title": "Item de eadem scola.",
+      "location_name": "",
+      "latin_text": "Magnus erat fama Bernardus nobilis abba,\nQuem nos donamus qua dignum laude probamus.\nVixit nocte, die, detentus amore sophie,\nServivit Christo mundo, dum vixit, in isto.\nVivat in eternum, regnum scandendo supernum\nSitque simui memorum, ens in sede polorum. Amen.",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2681,
+          "titulus_id": 846,
+          "original_name": "Bernardus",
+          "original_title": "nobilis abba",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 847,
+      "roll_id": 107,
+      "title": "Item de eadem scola.",
+      "location_name": "",
+      "latin_text": "Ripollenses\nSi mala precedant, et mortis vincula ledant,\nSi vero vitam cum laude bonis redimitam\nAbbatis scitis, petimus ne flere velitis;\nMors naturalis cunctis est jamna talis.\nSanctus homo moritur, sed ab illo protimum itur.\nAd patriam seu sanctus fuit, ergo cavete\nNe quemque fletus laceret, regnat quia letus.\nRegnat quandoquidem vir, vita nobis idem.\nNil illi mors est, ni corporis ultima sors est.\nCreditur iste mori, conjungitur quia flori\nNunquam marcenti ver unum semper habenti.\nSed vere vivit, quia vite jura subivit.\nVere (a) non morirur, vivit enim, sequitur ;\nSi sanctus moritur, mors est aliquid, fateamur ;\nSed quia non moritur, quod mors nichil est, fateamur ;\nQuandoquidem nichil est, igitur stultissima spes est,\nPer quam speratur, quod sanctus homo moriatur ;\nErgo credamus, cuncti modo qui dubitamus,\nQuod, si sanctus erat Bernardus, in eterno regnat.\nSed, quia mortalis mos est cunctis modo talis,\nUt si homo nullus qui non portet grave vulnus\nLevece peccatum, votis eget iste precantum (sic).\nNos igitur votis oremus cum prece totis,\nUt rex sumus (sic) ei solium tribuat requiei,\nEt (b) dicamus \u00ab Amen \u00bb ac iteremus \u00ab Amen \u00bb.",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2682,
+          "titulus_id": 847,
+          "original_name": "Bernardus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 848,
+      "roll_id": 107,
+      "title": "",
+      "location_name": "Ripoll",
+      "latin_text": "Sepius optatum regnum, Bernarde, beatum\nOptineas c\u00e6lis; precipibus Sancti Michaelis\nImpetret atque pia requiem tibi Virgo Maria.\nFratres, queso, piam votis rogitate Mariam,\nImpetret abbati magno veniam prece ; vati,\nRipollenses, damus hec nos Pampilonenses.\nSi similes terre quis vult dictando referre\nBernardi vitam sanctis rebus redimitam,\nHoc decet ut nimia sua muniat ora sophia.\nAt ego pauca boni rotundis hujus bona doni\nHunc collaudo vitamque sui reserabo.\nPastor Bernandus non ad c\u00e6lestia tardus,\nHac vita magnus, sic et mitis velut agnus,\nMortis jura quidem subvert per secula pridem.\nUnde potens pater atque decens animam vehat ejus\nIn patrium, quo stat solium rex ile supernum ;\nVirgines simul et cuneus grex atque verendus,\nQui duidem vere mortis penas obiere\nIsti defunto linguenti terra puncto\nSumme nate Dei presta culmen requiei\nHunc conservet. Amen. Sanctum per secula flamen\nServet et eterno Rex cumcipotens ab Averno.\nActus abbatis referremus laudibus actis.\nDignus laude fuit, quia sic sua tempora duxit,\nDuquis laude fuit, quia sic sua tempora duxit,\nUt nulli mallet fieri plusque sibi vellet,\nQuamque du vixit, subjectis optima dixit,\nVerum dilexit conversum sperne junxit,\nPlurima que potuit dare pauperibus sua jussit.\nSed quia nemo bonus vult mundo nisi Christus,\nEfflagitemus Eum qui vivit semper in evum,\nUt sibi vetum nec det sentire gehennam.\nIntulit ut mundo sic collocet in paradiso.",
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2683,
+          "titulus_id": 848,
+          "original_name": "Bernarde",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2684,
+          "titulus_id": 848,
+          "original_name": "Sancti Michaelis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Michael",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2685,
+          "titulus_id": 848,
+          "original_name": "Virgo Maria",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Virgin Mary",
+          "normalized_role": "virgin/saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2686,
+          "titulus_id": 848,
+          "original_name": "Bernandus",
+          "original_title": "Pastor",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernhard",
+          "normalized_role": "pastor",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2687,
+          "titulus_id": 848,
+          "original_name": "Christus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "savior",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 849,
+      "roll_id": 107,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Orate pro fratribus nostris defunctis, pro his videlicet : idus (sic) obiit Guillelmus Bego, idus martii obiit Blasco, 2 kalendas (sic) Arnaldus, kalendas mai Eneco, 13 kalendas junii Lupus, 3 kalendas junii Poncius, 2 kalendas junii Fortunius, 6 kalendas julii Garsias, 2 kalendas augusti Eneco, 2 idus augusti Lupus, 4 nonas octobris Eneco, 5 idus octobris Fortunius, 15 kalendas novembris Petrus, 3 5 idus novembris Fortunius, 8 [kalendas] decembris Simeon, 3 kalendas decembris Bernardus, 7 idus decembris Petrus, 5 idus decembris Eneco, 19 kalendas januarii Gormizius, Godistius et Godistius.",
+      "pdf_page": 61,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2688,
+          "titulus_id": 849,
+          "original_name": "Guillelmus Bego",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William Bego",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2689,
+          "titulus_id": 849,
+          "original_name": "Blasco",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Blasco",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2690,
+          "titulus_id": 849,
+          "original_name": "Arnaldus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arnold",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2691,
+          "titulus_id": 849,
+          "original_name": "Eneco",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Enrico",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2692,
+          "titulus_id": 849,
+          "original_name": "Lupus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lope",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2693,
+          "titulus_id": 849,
+          "original_name": "Poncius",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Poncio",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2694,
+          "titulus_id": 849,
+          "original_name": "Fortunius",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Fort\u00fano",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2695,
+          "titulus_id": 849,
+          "original_name": "Garsias",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Garcia",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2696,
+          "titulus_id": 849,
+          "original_name": "Petrus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pedro",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2697,
+          "titulus_id": 849,
+          "original_name": "Simeon",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Sim\u00e9on",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 850,
+      "roll_id": 107,
+      "title": "22 [19] S.d.- Carri\u00f3n [de los Condes], S. Zoilo.",
+      "location_name": "Carri\u00f3n [de los Condes]",
+      "latin_text": "Iglesia de St Zoilo de Carrione. Parte en hexametros y parte en disticos.",
+      "pdf_page": 61,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 851,
+      "roll_id": 107,
+      "title": "23 [17] S.d.- S. Isidoro.",
+      "location_name": "S. Isidoro",
+      "latin_text": "St Isidoro martir, monasterio Cluniacensis (sic). Hexametros, pocos y malos.",
+      "pdf_page": 61,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2698,
+          "titulus_id": 851,
+          "original_name": "St Isidoro",
+          "original_title": "martir",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Isidore",
+          "normalized_role": "martyr",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 852,
+      "roll_id": 107,
+      "title": "24 [16] S.d.- N\u00e1jera, S. Maria.",
+      "location_name": "N\u00e1jera",
+      "latin_text": "St Maria apud Nazaram. T. fratrum Cluniacensium in Hispania sub patronio beat\u00e6 Virginis Mari\u00e6 apud Nazaram degentium. Disticos.",
+      "pdf_page": 61,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2699,
+          "titulus_id": 852,
+          "original_name": "St Maria",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Mary",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Nazareth"
+        }
+      ]
+    },
+    {
+      "id": 853,
+      "roll_id": 107,
+      "title": "30 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "",
+      "latin_text": "30. S\u1fece en cifra etc.",
+      "pdf_page": 62,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 854,
+      "roll_id": 107,
+      "title": "31 [29] S.d.- S. Pons-de-Thomi\u00e8res.",
+      "location_name": "S. Pons-de-Thomi\u00e8res",
+      "latin_text": "31. S\u00aa Maria y S\u00ba Poncio monasterio Tomeriense. Hexametros. Al fin, un largo catalogo de hermanos difuntos, siendo los primeros Matfredo (1) obispo y Berengario (2) obispo y mas abajo Pedro (3), obispo de Jaca, de nuestra congregacion.",
+      "pdf_page": 62,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2700,
+          "titulus_id": 854,
+          "original_name": "Matfredo",
+          "original_title": "obispo",
+          "footnote_num": "1",
+          "footnote_text": "Lucia, premi\u00e8re femme du comte d'Urgel, Ermenvald IV; ex Mas-Latrie, Tr\u00e9sor de chronologie, col. 169.",
+          "normalized_name": "Matfred",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2701,
+          "titulus_id": 854,
+          "original_name": "Berengario",
+          "original_title": "obispo",
+          "footnote_num": "2",
+          "footnote_text": "Hugo, abb\u00e9 de Cardona de 1080 au novembre 1101 (ibid.).",
+          "normalized_name": "Berengar",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2702,
+          "titulus_id": 854,
+          "original_name": "Pedro",
+          "original_title": "obispo",
+          "footnote_num": "3",
+          "footnote_text": "Probablement Arnaldus III, abb\u00e9 de Gerri de 1082 \u00e0 1086 ; cf. J. Villanueva, Viage",
+          "normalized_name": "Peter",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Jaca"
+        }
+      ]
+    },
+    {
+      "id": 855,
+      "roll_id": 107,
+      "title": "32 [30] S.d.- S. Martin-de-l'Ar\u00e7on (4).",
+      "location_name": "S. Martin-de-l'Ar\u00e7on",
+      "latin_text": "32. S\u00ba Martin, monasterio de monjas, supra ripam Jauri fluminis. Hexametros. Entre sus difuntos, ponen la primera a Sancia comitissa.",
+      "pdf_page": 62,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2703,
+          "titulus_id": 855,
+          "original_name": "Sancia",
+          "original_title": "comitissa",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Sancha",
+          "normalized_role": "countess",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 856,
+      "roll_id": 107,
+      "title": "33 [32] S.d.- S. Guilhem[-le-D\u00e9sert].",
+      "location_name": "S. Guilhem[-le-D\u00e9sert]",
+      "latin_text": "33. Conde Wi\u0644\u064ahelmo. Empieza : Scribitur hic sanctus timuli comitis Wilhelmi, y en seguida no mas que dos hexametros.",
+      "pdf_page": 62,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2704,
+          "titulus_id": 856,
+          "original_name": "Wi<li>helmo",
+          "original_title": "Conde",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William",
+          "normalized_role": "count",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 857,
+      "roll_id": 107,
+      "title": "34 [33] S.d.\u2014 Psalmody.",
+      "location_name": "",
+      "latin_text": "34. Monasterio Psalmodiense. Hexametros.",
+      "pdf_page": 62,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 858,
+      "roll_id": 107,
+      "title": "35 [34] S.d.\u2014 S. Gilles.",
+      "location_name": "S. Gilles",
+      "latin_text": "",
+      "pdf_page": 62,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 859,
+      "roll_id": 107,
+      "title": "36 [35] S.d.\u2014 Arles, cath\u00e9drale.",
+      "location_name": "Arles",
+      "latin_text": "36. Iglesia Arelatense (a), Hexametros.",
+      "pdf_page": 62,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 860,
+      "roll_id": 107,
+      "title": "38 S.d.- B\u00e9ziers, S. Jacques.",
+      "location_name": "B\u00e9ziers",
+      "latin_text": "38. $S^{a}$ Jaime Bitterense. Muy corta.",
+      "pdf_page": 62,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2705,
+          "titulus_id": 860,
+          "original_name": "Jaime Bitterense",
+          "original_title": "$S^{a}$",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Jaime Bitterense",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "B\u00e9ziers"
+        }
+      ]
+    },
+    {
+      "id": 861,
+      "roll_id": 107,
+      "title": "39 S.d.- Narbonne, S. Paul.",
+      "location_name": "Narbonne",
+      "latin_text": "39. $S^{a}$ Pablo Narbonense. Hexametros.",
+      "pdf_page": 62,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2706,
+          "titulus_id": 861,
+          "original_name": "Pablo Narbonense",
+          "original_title": "$S^{a}$",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Paul of Narbonne",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Narbonne"
+        }
+      ]
+    },
+    {
+      "id": 862,
+      "roll_id": 107,
+      "title": "40 S.d.- Narbonne, N.D.[-de-la-Mourguer].",
+      "location_name": "Narbonne",
+      "latin_text": "40. $S^{a}$ (sic) Maria iglesia Narbonense. Hexametros.",
+      "pdf_page": 62,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2707,
+          "titulus_id": 862,
+          "original_name": "Maria iglesia Narbonense",
+          "original_title": "$S^{a}$",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary of Narbonne",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Narbonne"
+        }
+      ]
+    },
+    {
+      "id": 863,
+      "roll_id": 107,
+      "title": "41 S.d.- Lagrasse, N.D.",
+      "location_name": "Lagrasse",
+      "latin_text": "41. $S^{a}$ Maria Urbionense (1).",
+      "pdf_page": 62,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2708,
+          "titulus_id": 863,
+          "original_name": "Maria Urbionense",
+          "original_title": "$S^{a}$",
+          "footnote_num": "1",
+          "footnote_text": "Lucia, premi\u00e8re femme du comte d'Urgel, Ermenvald IV; ex Mas-Latrie, Tr\u00e9sor de chronologie, col. 169.",
+          "normalized_name": "Mary of Urbi",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 987,
+      "roll_id": 107,
+      "pdf_page": 56,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Il est seulement signal\u00e9 par J. Villanueva, Voyage literario (t. VIII, p. 12) qui place sa mort en 1102."
+    },
+    {
+      "id": 988,
+      "roll_id": 107,
+      "pdf_page": 56,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "(a) les mots et lettres entre crochets qui remplacent des laques de B sont restitu\u00e9s le plus souvent gr\u00e2ce aux encriques des rouleaux de Senofredo (\u00e9d. supra, p. 88, n\u00b0 67) et d'Oliba (\u00e9d. supra, p. 109, n\u00b0 72), transcrites \u00e9galement par B; les passages en petits caract\u00e8res sont emprunt\u00e9s par le r\u00e9dacteur de l\u2019encyclique \u00e0 l\u2019un ou \u00e0 l\u2019autre de ces deux documents. \u2013 (b) patres B; corriges parpat."
+    },
+    {
+      "id": 989,
+      "roll_id": 107,
+      "pdf_page": 56,
+      "pdf_half": "right",
+      "footnote_num": "b",
+      "text": "(b) patres B; corriges parpat."
+    },
+    {
+      "id": 990,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(a)",
+      "text": "volumus B ; corrige nolumus. - (b) ut \u00e9crit au-dessus de jam ray\u00e9 B. - (c) matres corrig\u00e9 en gatobionus B ; corriges anagrammatis d'apr\u00e8s l'encyclique d'Oliba."
+    },
+    {
+      "id": 991,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(d)",
+      "text": ""
+    },
+    {
+      "id": 992,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(e)",
+      "text": ""
+    },
+    {
+      "id": 993,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(f)",
+      "text": ""
+    },
+    {
+      "id": 994,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(g)",
+      "text": ""
+    },
+    {
+      "id": 995,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(h)",
+      "text": ""
+    },
+    {
+      "id": 996,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(i)",
+      "text": ""
+    },
+    {
+      "id": 997,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(j)",
+      "text": ""
+    },
+    {
+      "id": 998,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(k)",
+      "text": ""
+    },
+    {
+      "id": 999,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(l)",
+      "text": ""
+    },
+    {
+      "id": 1000,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(m)",
+      "text": ""
+    },
+    {
+      "id": 1001,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(n)",
+      "text": ""
+    },
+    {
+      "id": 1002,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(o)",
+      "text": ""
+    },
+    {
+      "id": 1003,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(p)",
+      "text": ""
+    },
+    {
+      "id": 1004,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(q)",
+      "text": ""
+    },
+    {
+      "id": 1005,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(r)",
+      "text": ""
+    },
+    {
+      "id": 1006,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(s)",
+      "text": ""
+    },
+    {
+      "id": 1007,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(t)",
+      "text": ""
+    },
+    {
+      "id": 1008,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(u)",
+      "text": ""
+    },
+    {
+      "id": 1009,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(v)",
+      "text": ""
+    },
+    {
+      "id": 1010,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(w)",
+      "text": ""
+    },
+    {
+      "id": 1011,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(x)",
+      "text": ""
+    },
+    {
+      "id": 1012,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(y)",
+      "text": ""
+    },
+    {
+      "id": 1013,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "left",
+      "footnote_num": "(z)",
+      "text": ""
+    },
+    {
+      "id": 1014,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Daghinnis $^{1}$ abbas, Bernardus $^{2}$ abbas Milladi, Salomon $^{5}$ episcopus et monachus, <...>nilus sacerdotes, Segarius, A[r]pallus, etc., etc."
+    },
+    {
+      "id": 1015,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "(4)",
+      "text": "Il s'agit d'un comte d'Urgell, Erm engaud IV, dit de Gerb (mort en 1092), soit Ermengaud V, dit le Balear\u00e9 (mort le 14 septem- bre 1102); cf. Mas-Larrie, Tr\u00e9sor de chronologie, loc. 1691."
+    },
+    {
+      "id": 1016,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "(5)",
+      "text": "Salomon, moine de Ripoll, puis \u00e9v\u00eaque de Rodes (1068-vers 1074/1075), mort a Ripoll en 1097; cf.: J. Villanueva, Viage literario, t. XV, p. 190-191; Gams, p. 43."
+    },
+    {
+      "id": 1017,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "(9)",
+      "text": "Raimundus, \u00e9v\u00eaque de Rodes de 1076/1077 \u00e0 1094; cf.: J. Villanueva, Viage literario, t. XV, p. 191; Gams, p. 43."
+    },
+    {
+      "id": 1018,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "(4)",
+      "text": ""
+    },
+    {
+      "id": 1019,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Daghinnis $^{1}$ abbas, Bernardus $^{2}$ abbas Milladi, Salomon $^{3}$ episcopus et monachus, <...>nilus sacerdotes, Segarius, A[r]pallus, etc., etc."
+    },
+    {
+      "id": 1020,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "Entre todos llegaron a unos 120. En las l\u00edneas penultima y antepenultima se lee hii monachi nongregations, que es decir son todos los precedentes, pues en registro seguido se lee: Ermengaud $^{4}$ comes, Wiribertus laicus, Jozper- tus sacerdotes, Guillelmus sacerdotes, R.<.......>s; sacerdotes, subdiaconus, Raimundus, Tresgancia femina, y as\u00ed estos eran los amigos que no eran monges. Es de advertir que en muchos se expresa de donde eran naturales, segun es de creer, por ejemplo : Ariallus Cerdaiensis $^{5}$, Senofredo Bergadensis $^{6}$, Guifre- dus Olost$^{7}$ [ensis], Bonifilius Cerveiensis $^{8}$; Oliva Loces <...>, Gauzbertus de 10 Narborna, Ermengaud de Sancyto Ipolit,."
+    },
+    {
+      "id": 1021,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "(a)",
+      "text": "Cerdia ... B. (bd) Br. -"
+    },
+    {
+      "id": 1022,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "(b)",
+      "text": "Olost. R. - (6) Cerve... B."
+    },
+    {
+      "id": 1023,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "(c)",
+      "text": ""
+    },
+    {
+      "id": 1024,
+      "roll_id": 107,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "(d)",
+      "text": ""
+    },
+    {
+      "id": 1025,
+      "roll_id": 107,
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "e Hay la e ra voyado entre ce mot B."
+    },
+    {
+      "id": 1026,
+      "roll_id": 107,
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Lucia, premi\u00e8re femme du comte d'Urgel, Ermenvald IV; ex Mas-Latrie, Tr\u00e9sor de chronologie, col. 169."
+    },
+    {
+      "id": 1027,
+      "roll_id": 107,
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "Ustense B ; corrigez Oscense."
+    },
+    {
+      "id": 1028,
+      "roll_id": 107,
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "footnote_num": "b",
+      "text": "venerable \u00bb ajout\u00e9 en interligne B."
+    },
+    {
+      "id": 1029,
+      "roll_id": 107,
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Rainmundus-Bernardo, abb\u00e9 de Cardona de 1101 \u00e0 f\u00e9vrier 1127 ; cf. J. Villanueva, Viage literario, t. VIII, p. 187."
+    },
+    {
+      "id": 1030,
+      "roll_id": 107,
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Hugo, abb\u00e9 de Cardona de 1080 au novembre 1101 (ibid.)."
+    },
+    {
+      "id": 1031,
+      "roll_id": 107,
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Probablement Arnaldus III, abb\u00e9 de Gerri de 1082 \u00e0 1086 ; cf. J. Villanueva, Viage"
+    },
+    {
+      "id": 1032,
+      "roll_id": 107,
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Miro, abb\u00e9 de Gerri de 980 \u00e0 1010 (ibid.)."
+    },
+    {
+      "id": 1033,
+      "roll_id": 107,
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "Deux abb\u00e9s de ce nom dirig\u00e8rent Gerri, Ato I de 896 \u00e0 903 et Ato II de 930 \u00e0 969 (ibid.)."
+    },
+    {
+      "id": 1034,
+      "roll_id": 107,
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "La syllabe es de ce mot est \u00e9crite au-dessus de qu ray\u00e9 B."
+    },
+    {
+      "id": 1035,
+      "roll_id": 107,
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Allusion \u00e0 II Tim., I, 10."
+    },
+    {
+      "id": 1039,
+      "roll_id": 107,
+      "pdf_page": 59,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "vita au-de-dessus de raya Ren\u00e9 B."
+    },
+    {
+      "id": 1036,
+      "roll_id": 107,
+      "pdf_page": 59,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "I Cor., II, 9."
+    },
+    {
+      "id": 1037,
+      "roll_id": 107,
+      "pdf_page": 59,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Paternus, abb\u00e9 r\u00e9formateur de S. Juan de la Pe\u00f1a, qui y introduisit les usages clunisens."
+    },
+    {
+      "id": 1038,
+      "roll_id": 107,
+      "pdf_page": 59,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Blasco (3), Ato (4), Galindo (5), Garcias (6) Aqu\u00ed-linus (7), Sancius, Aimericus. Orate pro eis."
+    },
+    {
+      "id": 1040,
+      "roll_id": 107,
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "En marge de B : \u00ab Pentametro \u00bb."
+    },
+    {
+      "id": 1041,
+      "roll_id": 107,
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "footnote_num": "b",
+      "text": "En marge de B : \u00ab Pentametro \u00bb."
+    },
+    {
+      "id": 1046,
+      "roll_id": 107,
+      "pdf_page": 62,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "(a) Urelatense B ; corrigez Arelatense."
+    },
+    {
+      "id": 1042,
+      "roll_id": 107,
+      "pdf_page": 62,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "(1) Matfredus III, \u00e9v\u00e8que de B\u00e9ziers de 1077 \u00e0 1093; alli\u00e9 de S. Pons, s'il s'opposa aux emp\u00e9riments de B\u00e9mond d'\u00cagde en 1078; cf. Gallia christiana, t. VI, col. 309."
+    },
+    {
+      "id": 1043,
+      "roll_id": 107,
+      "pdf_page": 62,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "(2) Peut-\u00eatre Berengarius I, \u00e9v\u00e8que d'Agde de 1068 \u00e0 1098; \u00e0 son sujet, cf. \u00c9berenger, \u00e9v\u00e8que d'Agde, dans D.H.G.E., t. VIII, col. 361 (M.-H. Laurent)."
+    },
+    {
+      "id": 1044,
+      "roll_id": 107,
+      "pdf_page": 62,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "(3) Petrus I, \u00e9v\u00e8que de Jaca et de Huesca de 1090 \u00e0 1099; cf. Gams, p. 36."
+    },
+    {
+      "id": 1045,
+      "roll_id": 107,
+      "pdf_page": 62,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": "(4) S. Martin-de-l'Ar\u00e7on (H\u00e9rault arr. B\u00e9ziers, c(m) Olargues) est d\u00e9nomm\u00e9 en 936 ecclesia S. Martini de Jauro (cf. E. Thomas, Dictionnaire topographique... de l'H\u00e9rault, Paris, 1865, p. 188)."
+    }
+  ]
+}

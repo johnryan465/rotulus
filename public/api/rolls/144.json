@@ -1,0 +1,846 @@
+{
+  "roll": {
+    "id": 144,
+    "roll_num": 141,
+    "date_str": "S.d.[1157, apr\u00e8s le 30 mars]",
+    "title": "Rouleau mortuaire (fragmentaire) de Herbert, abb\u00e9 de S. \u00c9tienne de Dijon (cf 30 mars 1157).",
+    "manuscripts": "A. Original perdu.\nB. Dijon, A. D. C\u00f4te-d'Or, G 168, fol. XLIII(sic) - XLIV, sous le titre: \u00ab Fragmentum voluminis seu rotuli antiqui Sancti Stephani Dionenssis, ante annos plus minus sexcentos scriptum \u00bb (copie du 5 novembre 1662, par Arviset, notaire apostolique, d\u2019apr\u00e8s A, \u00ab transcriptum ex 30 duobus rotulis in pergamino scriptis \u00bb).",
+    "pdf_source": "4",
+    "pdf_pages": "69,70,71",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1794,
+      "roll_id": 144,
+      "title": "24 S.d.- Chartres, S. Ch\u00e9ron.",
+      "location_name": "Chartres",
+      "latin_text": "T. Sancti Karauni Carnoti. Anima domni Roberti abbatis et a. o. f. d. r. i. p.\nOravimus p. v.,orate p. n.",
+      "pdf_page": 69,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7359,
+          "titulus_id": 1794,
+          "original_name": "Roberti",
+          "original_title": "domni ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Carnot"
+        },
+        {
+          "id": 7360,
+          "titulus_id": 1794,
+          "original_name": "Sancti Karauni Carnoti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Carauinus of Chartres",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Chartres"
+        }
+      ]
+    },
+    {
+      "id": 1795,
+      "roll_id": 144,
+      "title": "25 S.d.- Tiron, S. Sauveur.",
+      "location_name": "Tiron",
+      "latin_text": "T. Sancti Salvatoris Tyronii. Anima domni Roberti abbatis et a. o. f. d., per m. 5 D., r. i. p. Oravimus p. v.,orate p. n.",
+      "pdf_page": 69,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7361,
+          "titulus_id": 1795,
+          "original_name": "Roberti",
+          "original_title": "domni ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Tiron"
+        },
+        {
+          "id": 7362,
+          "titulus_id": 1795,
+          "original_name": "Sancti Salvatoris Tyronii",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Savior of Tiron",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Tiron"
+        }
+      ]
+    },
+    {
+      "id": 1796,
+      "roll_id": 144,
+      "title": "26 S.d.- Bonneval, S. Florentin.",
+      "location_name": "Bonneval",
+      "latin_text": "T. Sancti Florentini Bonae Vallis. Anima domni Roberti abbatis et a. o. f. d. r. i.\np. Oravimus p. v.,orate p. n.",
+      "pdf_page": 69,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7363,
+          "titulus_id": 1796,
+          "original_name": "Roberti",
+          "original_title": "domni ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Bonneval"
+        },
+        {
+          "id": 7364,
+          "titulus_id": 1796,
+          "original_name": "Sancti Florentini Bonae Vallis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Florentinus of Bonneval",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Bonneval"
+        }
+      ]
+    },
+    {
+      "id": 1797,
+      "roll_id": 144,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Versus magistri Odonis.\nVive pater, quem morte premi nec fama celebris\nNec sinit everso vita vera situm.\nVive pater, quem sancta fides, patientia mundo\nSubripet, et coelo reddit amica dies.\nTu sine labe manes, mundi contagia vitans.\n<.................................>\nHic bene vivendo quoniam meruisse probatur,\nAstra laetus perpetuumque decus.\nNon obivit, viit potius fruiturque perenni\nLuce; datur requies, vita perennis ei.\nLingua requiem nequit hujus prudentia quanta.\n<.................................>",
+      "pdf_page": 69,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7365,
+          "titulus_id": 1797,
+          "original_name": "Odonis",
+          "original_title": "magistri",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Odo",
+          "normalized_role": "master/magister",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1798,
+      "roll_id": 144,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Herbert (1), premier abb\u00e9 de S. \u00c9tienne de Dijon, fut \u00e9lu \u00e0 l\u2019assembl\u00e9e de Langres de Pl\u00e2ques (29 mars) 1125, avec l\u2019accord de son pr\u00e9d\u00e9cesseur, Garnier IV de Blaisy, abb\u00e9 s\u00e9culier, alors toujours vivant; il fut bien le m\u00eame jour que Josseran, \u00e9v\u00eaque de Langres.\nSon ambition fut essentielle d'accro\u00eetre le temporel de S. \u00c9tienne. D\u00e8s 1127, un diff\u00e9rend entre l'oppos\u00e9 \u00e0 l'abb\u00e9 de S. Seine au sujet de diverses terres que, en d\u00e9finitif, furent partag\u00e9es \u00e0 parts \u00e9gales entre les deux communaut\u00e9s. \u00c0 la m\u00eame \u00e9poque, lors de la mort de Garnier IV de Blaisy, 10 \u00e9gales entre les deux communaut\u00e9s. A la m\u00eame \u00e9poque, lors de la mort de Garnier IV de .Blaisy,\nL'abbaye d'Herbert r\u00e9cup\u00e9ra les biens que l'ancien abb\u00e9 s\u00e9culier s'\u00e9tait r\u00e9serv\u00e9s et qui normalement auraient d\u00fb passer \u00e0 Guillence, \u00e9v\u00eaque de Langres. Le 18 d\u00e9cembre 1131, il obtint d'Innocent II une bulle l'autorisant \u00e0 placer des chanoines r\u00e9guliers de S. \u00c9tienne \u00e0 la t\u00eate des \u00e9glises paroissiales vacantes et de d\u00e9pendre de son abbaye (2). En 1135, Rendulf III, comte de Bourgogne, lui accorda l\u2019exemption des\n15 pr\u00e9dages et revenus parce \u00e0 Salins et Dole. En 1147, S. Georges fut associ\u00e9 \u00e0 S. \u00c9tienne de Dijon, a demande de Geoffroy, \u00e9v\u00eaque de Langres: \u00e0 cette occasion le prieur de S. Georges seamais arr\u00eat\u00e9 \u00e0\npari les chanoines de S. \u00c9tienne. En outre, Herbert re\u00e7u de multiples donations de la part de\nnombreux seigneurs.\nL'abbaye d'Herbert fut marqu\u00e9e \u00e9galement par l'incendie de Dijon, le 28 juin 1137, qui d\u00e9truisit\n20 en partie les b\u00e2timents canoniques; la nouvelle \u00e9glise fut consacr\u00e9e le 27 avril 1141 par Geoffroy,\n\u00e9v\u00eaque de Langres, qui, \u00e0 cette occasion, fit don \u00e0 S. Etienne de l'\u00e9glise de Tart.\nLe 9 avril 1156, Adrien IV confirma l'ensemble des possessions de S. \u00c9tienne de Dijon (3).\nHerbert mourut le 30 mars 1157.",
+      "pdf_page": 70,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7366,
+          "titulus_id": 1798,
+          "original_name": "Herbert",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "Bernardus, premier abb\u00e9 d'Asni\u00e8res (\u00e9t\u00e2blissement religieux fond\u00e9 en 1134), cit\u00e9 in 1136 par la Gallia christiana (t. XIV, col. 694).",
+          "normalized_name": "Herbert",
+          "normalized_role": "Abbot of Saint-\u00c9tienne de Dijon",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7367,
+          "titulus_id": 1798,
+          "original_name": "Garnier IV de Blaisy",
+          "original_title": "abb\u00e9 s\u00e9culier",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Garnier IV de Blaisy",
+          "normalized_role": "secular abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7368,
+          "titulus_id": 1798,
+          "original_name": "Josseran",
+          "original_title": "\u00e9v\u00eaque de Langres",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Josseran",
+          "normalized_role": "Bishop of Langres",
+          "normalized_dates": "",
+          "location_name": "Langres"
+        },
+        {
+          "id": 7369,
+          "titulus_id": 1798,
+          "original_name": "Guillence",
+          "original_title": "\u00e9v\u00eaque de Langres",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillence",
+          "normalized_role": "Bishop of Langres",
+          "normalized_dates": "",
+          "location_name": "Langres"
+        },
+        {
+          "id": 7370,
+          "titulus_id": 1798,
+          "original_name": "Innocent II",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Innocent II",
+          "normalized_role": "Pope",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7371,
+          "titulus_id": 1798,
+          "original_name": "Rendulf III",
+          "original_title": "comte de Bourgogne",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rendulf III",
+          "normalized_role": "Count of Burgundy",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1799,
+      "roll_id": 144,
+      "title": "1 S.d.-[Bonneval-l\u00e8s-Thouars,] S. Andr\u00e9.",
+      "location_name": "S. Andr\u00e9, Bonneval-l\u00e8s-Thouars",
+      "latin_text": "T. Sancti Andree. Anima ejus et anime omnium defunctorum r. i. p. Amen. Concedimus huic defuncto participationem totius beneficii ecclesiae nostrae. Oravimus p. v., orate p. n.",
+      "pdf_page": 70,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7372,
+          "titulus_id": 1799,
+          "original_name": "Sancti Andree",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Andr\u00e9",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1800,
+      "roll_id": 144,
+      "title": "2 S.d.-Asni\u00e8res[Bellay], N.-D.",
+      "location_name": "Asni\u00e8res (Bellay), Notre-Dame",
+      "latin_text": "T. Sanctae Mariae de Asnieris. Anima domni Herberti abbatis et a. o. f. d., p. m. D., r. i. p. Amen. Oravimus p. v., orate p. n., pro domno Bernardo\u1d43, abbate nostro, pro Garardo monacho, pro Gosleno monacho, pro Giraudo Berbis et pro caeteris familiaribus n.",
+      "pdf_page": 70,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7373,
+          "titulus_id": 1800,
+          "original_name": "Herberti",
+          "original_title": "abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Herbert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7374,
+          "titulus_id": 1800,
+          "original_name": "Bernardo",
+          "original_title": "abbate nostro",
+          "footnote_num": "1",
+          "footnote_text": "Bernardus, premier abb\u00e9 d'Asni\u00e8res (\u00e9t\u00e2blissement religieux fond\u00e9 en 1134), cit\u00e9 in 1136 par la Gallia christiana (t. XIV, col. 694).",
+          "normalized_name": "Bernard",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7375,
+          "titulus_id": 1800,
+          "original_name": "Garardo",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "G\u00e9rard",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7376,
+          "titulus_id": 1800,
+          "original_name": "Gosleno",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Goslen",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7377,
+          "titulus_id": 1800,
+          "original_name": "Giraudo Berbis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Giraut Berbi",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1801,
+      "roll_id": 144,
+      "title": "3 S.d.- Fontevraud, S. Marie-Madeleine.",
+      "location_name": "Fontevraud, Sainte Marie-Madeleine",
+      "latin_text": "T. Sanctae Mariae Magdalenae Fontis Ebraldi. Anima ejus et a. o. f. d. r. i. p. Amen. Concedimus huic abbati septum psalmos et participationem omnium nostrum beneficiorum.",
+      "pdf_page": 70,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7378,
+          "titulus_id": 1801,
+          "original_name": "Mariae Magdalenae",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Marie Madeleine",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1802,
+      "roll_id": 144,
+      "title": "4 S.d.- Fontevraud, N.-D.",
+      "location_name": "Fontevraud, Notre-Dame",
+      "latin_text": "T. Sanctae Mariae Fontis Ebraldi. Anima domni Herberti abbatis et a. o. f. d., p. m. D., r. i. p. Amen. Concessimus domno Herberto abbas omnium beneficiorum nostrum ex integro participationem, unum plenarium officium in conventu. Oravimus p. v., orate p. n., primo pro charissimo magistro nostro Roberto\u1d43 (et pro in perpetuum memorandis abbatis septem psalmos et participationem omnium nostrum beneficiorum.",
+      "pdf_page": 70,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7379,
+          "titulus_id": 1802,
+          "original_name": "Herberti",
+          "original_title": "abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Herbert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7380,
+          "titulus_id": 1802,
+          "original_name": "Roberto",
+          "original_title": "magistro nostro",
+          "footnote_num": "2",
+          "footnote_text": "Sur ce personnage, cf. supra, p. 567, n. 2.",
+          "normalized_name": "Robert",
+          "normalized_role": "master/magister",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1803,
+      "roll_id": 144,
+      "title": "5 S.d.- Cunault, N.-D.",
+      "location_name": "Cunault, Notre-Dame",
+      "latin_text": "T. Sanctae Mariae Cunaldi. Anima ejus et a. o. f. d., p. m. D., r. i. p. Amen. Oravimus p. v., orate p. n.",
+      "pdf_page": 70,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7381,
+          "titulus_id": 1803,
+          "original_name": "Mariae Cunaldi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Marie de Cunault",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1804,
+      "roll_id": 144,
+      "title": "6 S.d.- S. Maur[sur-Loire].",
+      "location_name": "Saint-Maur-sur-Loire",
+      "latin_text": "T. sancti Mauri, abbatis Glamnafolensis coenobii. Anima ejus et a. o. f. d., p. m. D., in Christi nomine r. i. p. Amen. Oravimus p. v., orate p. n., pro omnibus 25 fratribus n.",
+      "pdf_page": 70,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7382,
+          "titulus_id": 1804,
+          "original_name": "sancti Mauri",
+          "original_title": "abbatis Glamafolensis coenobii",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Maur",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1805,
+      "roll_id": 144,
+      "title": "T. Sanctae Marie Ungiaci.",
+      "location_name": "Ungiacum",
+      "latin_text": "Anima domni Herbertis et a. o. f. d. r. i. p.\nAmen. Concedimus autem huic psalteria in conventu beneficiorum.\nO nimium millis paradisi gaudia tollis,\nHinc quia dum credis, nos mortis vulnere naedis.\nEt conjux laedit qui, te suadente, comedit.\nDe vitto ligno praedoone maligno\nPer pommi morsum depellitur ille deorsum.\nSic duo decepti pretium sunt mortis adempti;\nHujus peccati sumus omnes mole gravati.\nHac culpa prima descendit mundus ad yma.\nLex constat dura, quae vivum firat moriruta.\nNon igitur flare vivut at de morte dolore ;\nErgo non plores qui plorat quisque fer ore.",
+      "pdf_page": 71,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7383,
+          "titulus_id": 1805,
+          "original_name": "Herbertis",
+          "original_title": "domni",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Herbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1806,
+      "roll_id": 144,
+      "title": "9 S.d.- Figeac, S. Sauveur.",
+      "location_name": "Figeac",
+      "latin_text": "T. Sancti Salvatoris Figiacensis. Absolve, Domine, anima domini tui Herberti et o. f. d., per intercessionem beatae Mariae et beati Viviani et omnium sanctorum.\nAmen. Oravimus p. v., orate p. n., videlicet pro domino Deodato (1) abbate et Geraldo et Bertrando et Geraldo et Deodato et Raimundo et Arnaldo et Guillermo 20 et Guillermo et Benedicto et Stephano et Deodato et Agnes (sic). Concedimus ei partem beneficiorum loci nostri.",
+      "pdf_page": 71,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7384,
+          "titulus_id": 1806,
+          "original_name": "Herberti",
+          "original_title": "domini tui",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Herbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7385,
+          "titulus_id": 1806,
+          "original_name": "Mariae",
+          "original_title": "beatae",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7386,
+          "titulus_id": 1806,
+          "original_name": "Viviani",
+          "original_title": "beati",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Vivian",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7387,
+          "titulus_id": 1806,
+          "original_name": "Deodato",
+          "original_title": "domino ... abbate",
+          "footnote_num": "1",
+          "footnote_text": "Bernardus, premier abb\u00e9 d'Asni\u00e8res (\u00e9t\u00e2blissement religieux fond\u00e9 en 1134), cit\u00e9 in 1136 par la Gallia christiana (t. XIV, col. 694).",
+          "normalized_name": "Deodatus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7388,
+          "titulus_id": 1806,
+          "original_name": "Geraldo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gerard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7389,
+          "titulus_id": 1806,
+          "original_name": "Bertrando",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bertrand",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7390,
+          "titulus_id": 1806,
+          "original_name": "Geraldo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gerard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7391,
+          "titulus_id": 1806,
+          "original_name": "Deodato",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Deodatus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7392,
+          "titulus_id": 1806,
+          "original_name": "Raimundo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Raymond",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7393,
+          "titulus_id": 1806,
+          "original_name": "Arnaldo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arnold",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7394,
+          "titulus_id": 1806,
+          "original_name": "Guillermo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7395,
+          "titulus_id": 1806,
+          "original_name": "",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1807,
+      "roll_id": 144,
+      "title": "12 S.d.- Obazine, N.-D.",
+      "location_name": "Obazine",
+      "latin_text": "T. Sanctae Mariae Obazinensis. Anima domni Herberti et a. o. f. d., p. m. D., r. i. v.,orate p. n.. Amen. Concedimus ei partem omnium beneficiorum nostrumorum. Oravimus p.",
+      "pdf_page": 71,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7396,
+          "titulus_id": 1807,
+          "original_name": "Herberti",
+          "original_title": "domni",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Herbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1808,
+      "roll_id": 144,
+      "title": "13 S.d.- Brive, S. Martin.",
+      "location_name": "Brive",
+      "latin_text": "T. sancti Marini (sic) martiris Brivensis. Anima istius abbatis et a. o. f. d. r. i. p.\nExtitit almae dies qua transit hic pius abbas.\nHac in luce Deum confessus, praemia sumpsit\nLatru cui primum Cherubin pandit paradisum.\nHinc patri requies, lux, indulgentia detur.\nHae trinusque Deus per te solum tribuunt.",
+      "pdf_page": 71,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7397,
+          "titulus_id": 1808,
+          "original_name": "Marini",
+          "original_title": "sancti...martiris",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Martin",
+          "normalized_role": "saint/martyr",
+          "normalized_dates": "",
+          "location_name": "Brive"
+        }
+      ]
+    },
+    {
+      "id": 1809,
+      "roll_id": 144,
+      "title": "[2\u00b0 fragment] 14 S.d.- Noyers, N.-D.",
+      "location_name": "Noyers",
+      "latin_text": "T. Sanctae Mariae de Nucharis. Anima domni Herberti et a. o. f. d., per m. D., in Christi nomine r. i. p. Oravimus p. v., orate p. n., pro Rainaldo, pro Stocano, pro Roberto, gaudefredo, fratrib n.",
+      "pdf_page": 71,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7398,
+          "titulus_id": 1809,
+          "original_name": "Herberti",
+          "original_title": "domni",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Herbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7399,
+          "titulus_id": 1809,
+          "original_name": "Rainaldo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rainald",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7400,
+          "titulus_id": 1809,
+          "original_name": "Stocano",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Stoccanus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7401,
+          "titulus_id": 1809,
+          "original_name": "Roberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7402,
+          "titulus_id": 1809,
+          "original_name": "gaudefredo",
+          "original_title": "fratrib",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gaudefridus",
+          "normalized_role": "brother",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1810,
+      "roll_id": 144,
+      "title": "15 S.d.- Ducelio, S. Michel.",
+      "location_name": "Ducelio",
+      "latin_text": "T. Sancti Michaelis Ducelio (b), Tibi, Domine, commendamus animam famuli Herberti, ut saeculo tibi vivat et quae [ob] fragilitatem mundanae conversionis peccata adessit, tu venia misericordissimae pietatis adsorbe: Per Christum.\nConcedimus ei commune beneficium ecclesiae nostrae.\nQuod vestris optimis impendere (c),\nPro scriptore Domini qui legeris ista precare\nIpsius, ut mentem dignetur sanctificare.",
+      "pdf_page": 71,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7403,
+          "titulus_id": 1810,
+          "original_name": "Herberti",
+          "original_title": "famuli",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Herbert",
+          "normalized_role": "servant/monk",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1811,
+      "roll_id": 144,
+      "title": "16 S.d.- Eliguanensis ecclesia, S. Pierre, S. Paul.",
+      "location_name": "Eliguanensis ecclesia",
+      "latin_text": "T. sanctorum apostolorum Petri et Pauli Eliguanensis (c) ecclesiae. Anima 25 domni Arberti abbatis et a. o. f. d. r. i. p. Amen. Concedimus illi societatem beneficii nostri loci. Oravimus p. v., orate p. n.",
+      "pdf_page": 71,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7404,
+          "titulus_id": 1811,
+          "original_name": "Petri",
+          "original_title": "sanctorum apostolorum",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "apostle/saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7405,
+          "titulus_id": 1811,
+          "original_name": "Pauli",
+          "original_title": "sanctorum apostolorum",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Paul",
+          "normalized_role": "apostle/saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7406,
+          "titulus_id": 1811,
+          "original_name": "Arberti",
+          "original_title": "domni...abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arbert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 2219,
+      "roll_id": 144,
+      "pdf_page": 70,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Bernardus, premier abb\u00e9 d'Asni\u00e8res (\u00e9t\u00e2blissement religieux fond\u00e9 en 1134), cit\u00e9 in 1136 par la Gallia christiana (t. XIV, col. 694)."
+    },
+    {
+      "id": 2220,
+      "roll_id": 144,
+      "pdf_page": 70,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Sur ce personnage, cf. supra, p. 567, n. 2."
+    },
+    {
+      "id": 2221,
+      "roll_id": 144,
+      "pdf_page": 70,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "P\u00e9tronille de Chermill\u00e9, abbesse de Fontevraud, pour laquelle circula un rouleau mortuaire, dont seule subsiste l'encyclique (cf. supra, p. 639, n\u00b0 139)."
+    },
+    {
+      "id": 2222,
+      "roll_id": 144,
+      "pdf_page": 70,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Mathilde 1\u1d43 d'Anjou, fille de Fulques V d'Anjou, abbesse de Fontevraud de 1169/1150 au 31 mai 1155, pour sa mort; cf. \u00ab Fontevrault \u00bb, dans D.H.G.E., t. XVII, col. 969 (J. Daoust)."
+    },
+    {
+      "id": 2223,
+      "roll_id": 144,
+      "pdf_page": 71,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "de Celio Gallia christiana, loc. cit."
+    },
+    {
+      "id": 2224,
+      "roll_id": 144,
+      "pdf_page": 71,
+      "pdf_half": "right",
+      "footnote_num": "b",
+      "text": "ne apr\u00e8s ce mot B."
+    },
+    {
+      "id": 2225,
+      "roll_id": 144,
+      "pdf_page": 71,
+      "pdf_half": "right",
+      "footnote_num": "c",
+      "text": ""
+    }
+  ]
+}

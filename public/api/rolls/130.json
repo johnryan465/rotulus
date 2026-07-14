@@ -1,0 +1,4651 @@
+{
+  "roll": {
+    "id": 130,
+    "roll_num": 127,
+    "date_str": "S. d. [vers 1130]",
+    "title": "Rouleau mortuaire (incomplet) de Bosone, abb\u00e9 de Susa.",
+    "manuscripts": "A. Torino, Archivio di Stato, Corte, Materic ecclesiastice, Abbazia di S. Giusto di Susa, mazzo 2 bis,\nfasc. 1 (1). Parchemin (c. jaun\u00e2tre; c. p. jaune tr\u00e8s fonc\u00e9). Quatorze feuilles anopisthographes,",
+    "pdf_source": "4",
+    "pdf_pages": "36,37,38,39,40,41,42,43,44,45,46,47,48,49,50",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1656,
+      "roll_id": 130,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Praeclaris ornans moribus officium.\nEcclesiae curam, Regi reddebat honorem ;\nDebita distinguens Caesaris atque Dei.\nVita genus, vel honor, discreto, sive potestas\nCompellebant hunc libera verba loqui.\nPontificale decus cum nobilitatis honore\nHuic nomen dederant et satis extulerunt.\nSimplex et rectus fuit et sub utroque modustus ;\nSic nec crudelis sive remissus erat.\nStantibus auxilium, fuit et relevatio lapsis,\nEcclesiae decus et gloria pontificum.\nHaec bene firma fuit tali suffulta columna :\nIllos consilio juvivit et auxilio.\nReligione Deum plebemque colebat amore.\nSic ficit eximii nominis et meriti.\nJam prope jam clerus jam paene monasticus ordo\nHoc defecerunt deficiente patre.\nPlebs commissa sibi tali vidiuta parente,\nNunquam se similem sperat habere virum.\nAnglia gaudebat vivo, nunc plorat ademptum ;\nNam multum patriae protraet illa suae.\nAnglia pontificem, Normannia deflet alumnum ;\nNam praesul fuit hic, traxit at inde genuos.\nSed quia post mortem jam nemo potest revocari\nAd nos nec fletu, nec prece nec pretio :\nJam Dominum fratres, jam toto corde precemur,\nUt regni coeli gaudia dentur ei. Amen.",
+      "pdf_page": 36,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6909,
+          "titulus_id": 1656,
+          "original_name": "Caesar",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Caesar",
+          "normalized_role": "Emperor/Leader",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6910,
+          "titulus_id": 1656,
+          "original_name": "Dei",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "God",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1657,
+      "roll_id": 130,
+      "title": "",
+      "location_name": "",
+      "latin_text": "ques ont parfois cumul\u00e9 dignit\u00e9 abbatiale et charge \u00e9piscopale : c\u2019est le cas de Durand de Bredons, abb\u00e9 de Moissac de 1048 \u00e0 1072/1073 et \u00e9galement \u00e9v\u00eaque de Toulouse \u00e0 compter de 1059 (1) ou encore de Gregorius d'Aster, abb\u00e9 de S. P\u00e9-de-G\u00e9n\u00e9r\u00e9s et \u00e9v\u00eaque de Tarbes, que mentionne dans le pr\u00e9sent rouleau, le titre de S. P\u00e9-de-G\u00e9n\u00e9r\u00e9s. Deux difficult\u00e9s s\u00e9rieuses allaient \u00e0 l'encontre de cette identification. En premier lieu, l'enquerie ne fut, sur l'actuelle feouille XII\u1d49 pr\u00e9c\u00e9dant ce r\u00f4le, qu'une simple liste des morts sans d\u00e9tails ; mais on peut dire ici que l'abb\u00e9 Bosone \u00e9tait mort nonos [sic] octobre (c'est-\u00e0-dire le 7 octobre) (2), tandis que la n\u00e9crologe de S. Solutore donne le 1er avril pour jour de d\u00e9c\u00e8s de l'\u00e9v\u00eaque de Torino ; cet obstacle pouvait, \u00e0 son \u00eatre, lever, car bon nombre de livres necrologiques divergent, on le sait, dans les dates qu'ils fournissent pour les dies natales de multiples personnages, m\u00eame illusoires. En second lieu, l'enquerie ne qualifie pas Bosone de Episcopus et aucun des actes conserv\u00e9s relatifs \u00e0 l\u2019\u00e9v\u00eaque de Torino ne lui attribue le titre d'abbes ; selon moi, les r\u00e9dacteurs des divers documents n'auraient pas voulu confondre les deux charges de Bosone.\nCependant, U. Gherner (Bosone) a mis en cause mon hypoth\u00e8se, en r\u00e9cusant ma mani\u00e8re d'\u00e9carter la premi\u00e8re difficult\u00e9 et en prouvant la seconde. Autre argument, il faut noter que le personnage est tr\u00e8s fr\u00e9quent, comme le montrent les nombreuses notices consacr\u00e9es \u00e0 des personnes de ce nom, sp\u00e9cialement eccl\u00e9siastiques, dans le D.H.G.E. (t. IX, 1319-329) ; s'y ajoute encore le nom de Boson, abb\u00e9 de Flerr, mort en 1137, pour lequel un rouleau mortuaire fut en mission (3). D'ailleurs, cet anthroponyme n'est-il pas \u00e0 l'origine des innombrables noms de famille Boson qui existent encore aujourd'hui au Dauphin\u00e9, Savoie ou Val d'Oise. Autre argument de poids le dit Gherner : les circonstances historiques des ann\u00e9es 1120, sp\u00e9cialement le conflit entre les \u00e9v\u00eaques de Torino et de Maurienne \u00e0 propos de Sussa, s\u2019opposent \u00e0 ladite identification.\nEn cons\u00e9quence, U. Gherner conduit simplement que Boson fut abb\u00e9 de Susa entre Artmanus (1098) et Anselmus II (1137), qui n'auraient le 7 octobre 1128 ou 1129, de toute mani\u00e8re, aurait-il, de doit \u00eatre distingu\u00e9 de l'\u00e9v\u00eaque de Torino. Soit qu'en cherchant, disposant des abondantes sources 25 documentaires et imprim\u00e9es locales, ne parlons pas se prononcer formellement, d\u00e9montre, il est n\u00e9cessaire, la difficult\u00e9 d'identifier de nombreux personnages, m\u00eame relativement importants, mentionn\u00e9s par les rouleaux mortuaires m\u00e9di\u00e9vaux.\nLe porte-rouleau a pris l'itin\u00e9raire suivant. Apr\u00e8s avoir quitt\u00e9 Sussa, il s'arr\u00eate \u00e0 S. Laurent d'Oulx, franchit les Alpes au col du Mont-Cenis et descend la vall\u00e9e de la Durace pour atteindre ensuite Sa. Jacques de Compostelle. Jusqu'\u00e0 Narbonne, il emprunte suivant le chemin de \u00ab brodant \u00bb autour de cet ave mais, \u00e0 partir de Narbonne et jusqu\u2019\u00e0 Carrion de los Condes, il est chemin m\u00e9di\u00e9val habit\u00e9 par Parlo, de S. P\u00e9-de-G\u00e9n\u00e9r\u00e9s (c'est-\u00e0 dire S. P\u00e9-de-Bigorre), le col Somport, Leire. Le titre ib\u00e9rique le plus avanc\u00e9 sur la route de S. Jacques est celui aupr\u00e8s au mAhcin entre les Pyr\u00e9n\u00e9es et Puente la Reina ; l\u00e0, il bifurque vers le col de Roncevaux pour suivre le chemin de S. Jacques orient\u00e9 au sud-ouest/nord-ouest jusqu'au Puy. Au creux de notre m\u00e9moire que celui seulement dans les \u00e9tablissements religieux plac\u00e9s jusque dans la longue distance s\u00e9parant Narbonne du Puy. Apr\u00e8s cette ville, le",
+      "pdf_page": 37,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6911,
+          "titulus_id": 1657,
+          "original_name": "Durand de Bredons",
+          "original_title": "abb\u00e9 de Moissac",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Durand de Bredons",
+          "normalized_role": "abbot",
+          "normalized_dates": "1048 to 1072/1073",
+          "location_name": "Moissac"
+        },
+        {
+          "id": 6912,
+          "titulus_id": 1657,
+          "original_name": "Gregorius d'Aster",
+          "original_title": "abb\u00e9 de S. P\u00e9-de-G\u00e9n\u00e9r\u00e9s et \u00e9v\u00eaque de Tarbes",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gregorious of Aster",
+          "normalized_role": "abbot and bishop",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 6913,
+          "titulus_id": 1657,
+          "original_name": "Bosone",
+          "original_title": "\u00e9v\u00eaque de Torino / abb\u00e9",
+          "footnote_num": "2",
+          "footnote_text": "... (c'est-\u00e0-dire le 7 octobre)",
+          "normalized_name": "Boson",
+          "normalized_role": "bishop or abbot",
+          "normalized_dates": "",
+          "location_name": "Torino"
+        },
+        {
+          "id": 6914,
+          "titulus_id": 1657,
+          "original_name": "S. Solutore",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Solutor",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 6915,
+          "titulus_id": 1657,
+          "original_name": "Boson",
+          "original_title": "abb\u00e9 de Flerr",
+          "footnote_num": "3",
+          "footnote_text": "... pour lequel un rouleau mortuaire fut en mission",
+          "normalized_name": "Boson",
+          "normalized_role": "abbot",
+          "normalized_dates": "died 1137",
+          "location_name": "Flerr"
+        },
+        {
+          "id": 6916,
+          "titulus_id": 1657,
+          "original_name": "U. Gherner",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "U. Gherner",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 6917,
+          "titulus_id": 1657,
+          "original_name": "Artmanus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Artmanus",
+          "normalized_role": "",
+          "normalized_dates": "reigned until 1098",
+          "location_name": ""
+        },
+        {
+          "id": 6918,
+          "titulus_id": 1657,
+          "original_name": "Anselmus II",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Anselmus II",
+          "normalized_role": "",
+          "normalized_dates": "reigned from 1137",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1658,
+      "roll_id": 130,
+      "title": "",
+      "location_name": "",
+      "latin_text": "dans les titres de nombreux manuscrits contemporains, mais beaucoup plus rarement dans les inscriptions lapidaires, o\u00f9 elles apparaissent seulement \u00e0 l\u2019\u00e9tat de survivance (1). Dans son article Influences insulaires (specialement p. 260-262), J. Boussard a cru pouvoir tirer un grand parti de l'examen du rouleau de Vital pour mettre en \u00e9vidence la progression tr\u00e8s rapide de l'utilisation de la plume bisaut\u00e9e. Moins de dix ans plus tard, celui de Bosone montre pour des r\u00e9gions plus m\u00e9ridionale le succ\u00e8s presque complet de cette nouvelle mani\u00e8re de tailler la plume ; en effet, exception faite de quelques \u00e9tablissements religieux reconnus comme Oulx (n\u00ba 36 [1]), Embrun (n\u00ba 37 [2]), Tallard (n\u00ba 38 [3]) ou S. P\u00e9-de-Gen\u00eatres (n\u00ba 9 [24]), tous utilisent la plume bisaut\u00e9e. En outre, le titre de S. Gilles (n\u00ba 45 [10]) montre que cette utilit\u00e9 peut \u00eatre \u00e9tudi\u00e9e des rouleaux mortuaires toujours dans le domaine pal\u00e9ographique. Son \u00e9criture r\u00e9guli\u00e8re, de gros module, assez banale, est anachronique. Par ailleurs, il est identifiable \u00e0 celle de Pierre Guill\u00e9m, biblioth\u00e9caire de S. Gilles, qui a transcrit le necrologie de cette abbaye en 1129 (2) et un martyrologe d\u2019Oursard (3); le m\u00eame moine r\u00e9dige, \u00e0 la demande de son abb\u00e9 Hugues I\u2074 (une continuation du Liber pontificalis (5) et le 15 Liber miraculorum sancti Egidii (6)). On peut donc identifier ici qui a appr\u00e9ci\u00e9 le titre de S. Gilles sur le rouleau de Bosone gr\u00e2ce \u00e0 deux ms. dat\u00e9s ou localis\u00e9s. R\u00e9ciproquement, l'\u00e9tude compl\u00e8te et d\u00e9taill\u00e9e des rouleaux mortuaires pourrait permettre de compl\u00e9ter les \u00e9chantillons d'\u00e9critures donn\u00e9es par les divers Catalogues de manuscrits dat\u00e9s.",
+      "pdf_page": 38,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1659,
+      "roll_id": 130,
+      "title": "[I]\n<........> Qui te dilexi, Sausam, dum bex restit.",
+      "location_name": "Sausam",
+      "latin_text": "<........> Qui te dilexi, Sausam, dum bex restit.",
+      "pdf_page": 38,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6919,
+          "titulus_id": 1659,
+          "original_name": "Sausam",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1660,
+      "roll_id": 130,
+      "title": "[II]\n2 [17] S.d.- S.l.[S. Thib\u00e9ry].\n\u00ab Absolve, Domine, animam famuli tui Bosonis et animas famulorum famularumque tuarum, fratrum nostrum omniumque fidelium defunctorum ab omni 5 vinculo delictorum, ut in resurrectionis gloria inter sanctos et electos tuos resuscitatus sic resist. Per \u00bb (1) Oravimus pro vestro abbate, orate p. n., scilicet Atilio (2) et Deodato (3), Udalgerio (4), Modario (5), abbatibus, et pro nostro priore Raimundo de Calmis et Petro Riberis monacho (6) et Petro de Beciano monacho et pro Deodato Passer monacho et Dalmacio monacho et Bertrando monacho, ut hi 10 omnes, Domino auxiliante, r. i. p. AMHN.",
+      "location_name": "S. Thib\u00e9ry",
+      "latin_text": "\u00ab Absolve, Domine, animam famuli tui Bosonis et animas famulorum famularumque tuarum, fratrum nostrum omniumque fidelium defunctorum ab omni 5 vinculo delictorum, ut in resurrectionis gloria inter sanctos et electos tuos resuscitatus sic resist. Per \u00bb (1) Oravimus pro vestro abbate, orate p. n., scilicet Atilio (2) et Deodato (3), Udalgerio (4), Modario (5), abbatibus, et pro nostro priore Raimundo de Calmis et Petro Riberis monacho (6) et Petro de Beciano monacho et pro Deodato Passer monacho et Dalmacio monacho et Bertrando monacho, ut hi 10 omnes, Domino auxiliante, r. i. p. AMHN.",
+      "pdf_page": 38,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6920,
+          "titulus_id": 1660,
+          "original_name": "Bosonis",
+          "original_title": "famulus tui",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6921,
+          "titulus_id": 1660,
+          "original_name": "Atilio",
+          "original_title": "abbate",
+          "footnote_num": "2",
+          "footnote_text": "... (c'est-\u00e0-dire le 7 octobre)",
+          "normalized_name": "",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6922,
+          "titulus_id": 1660,
+          "original_name": "Deodato",
+          "original_title": "",
+          "footnote_num": "3",
+          "footnote_text": "... pour lequel un rouleau mortuaire fut en mission",
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6923,
+          "titulus_id": 1660,
+          "original_name": "Udalgerio",
+          "original_title": "abbatis",
+          "footnote_num": "4",
+          "footnote_text": "\u00c9d. supra, p. 554, n\u00b0 81 [79].",
+          "normalized_name": "",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6924,
+          "titulus_id": 1660,
+          "original_name": "Modario",
+          "original_title": "abbatis",
+          "footnote_num": "5",
+          "footnote_text": "(5)",
+          "normalized_name": "",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6925,
+          "titulus_id": 1660,
+          "original_name": "Raimundo de Calmis",
+          "original_title": "prior",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6926,
+          "titulus_id": 1660,
+          "original_name": "Petro Riberis",
+          "original_title": "monacho",
+          "footnote_num": "6",
+          "footnote_text": "",
+          "normalized_name": "",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6927,
+          "titulus_id": 1660,
+          "original_name": "Petro de Beciano",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6928,
+          "titulus_id": 1660,
+          "original_name": "Deodato Passer",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6929,
+          "titulus_id": 1660,
+          "original_name": "Dalmacio",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6930,
+          "titulus_id": 1660,
+          "original_name": "Bertrando",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1661,
+      "roll_id": 130,
+      "title": "3 [18] S.d.- Cassan, N.-D.",
+      "location_name": "Cassan, N.-D.",
+      "latin_text": "",
+      "pdf_page": 38,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1662,
+      "roll_id": 130,
+      "title": "4 [19] S.d.- B\u00e9ziers, S. Pierre, S. Paul, S. Aphrodise, S. Caralipus, S. Agape, S. Eus\u00e8be.",
+      "location_name": "B\u00e9ziers",
+      "latin_text": "",
+      "pdf_page": 38,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6931,
+          "titulus_id": 1662,
+          "original_name": "S. Pierre",
+          "original_title": "saint",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6932,
+          "titulus_id": 1662,
+          "original_name": "S. Paul",
+          "original_title": "saint",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6933,
+          "titulus_id": 1662,
+          "original_name": "S. Aphrodise",
+          "original_title": "saint",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6934,
+          "titulus_id": 1662,
+          "original_name": "S. Caralipus",
+          "original_title": "saint",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6935,
+          "titulus_id": 1662,
+          "original_name": "S. Agape",
+          "original_title": "saint",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6936,
+          "titulus_id": 1662,
+          "original_name": "S. Eus\u00e8be",
+          "original_title": "saint",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1663,
+      "roll_id": 130,
+      "title": "",
+      "location_name": "S.-Arnaud, archev\u00eaque de Narbonne.",
+      "latin_text": "5 [20] S.-Arnaud, archev\u00eaque de Narbonne.\nARNALLUS (3), Dei gratia Narbonensis metropolis disponens atque Roman\u0119\n25 ecclesie legatus, ost pro anima Bosonis abbatis. Deus, cui proprium est misereri\nemper et parcere, {\u00ab} proprie anime famuli tui {\u00bb} (4) Bosonis et omnia ejus pacata",
+      "pdf_page": 39,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6937,
+          "titulus_id": 1663,
+          "original_name": "ARNALLUS",
+          "original_title": "archev\u011bque de Narbonne; Dei gratia Narbonensis metropolis disponens atque Roman\u0119 ecclesie legatus",
+          "footnote_num": "3",
+          "footnote_text": "... pour lequel un rouleau mortuaire fut en mission",
+          "normalized_name": "Arnald",
+          "normalized_role": "Archbishop of Narbonne and papal legate",
+          "normalized_dates": "",
+          "location_name": "Narbonne"
+        },
+        {
+          "id": 6938,
+          "titulus_id": 1663,
+          "original_name": "Bosonis",
+          "original_title": "abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boson",
+          "normalized_role": "Abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1664,
+      "roll_id": 130,
+      "title": "6 [21] S.d.\u2013 Toulouse, cath\u00e9drale (S. \u00c9tienne).",
+      "location_name": "Toulouse, cath\u00e9drale (S. \u00c9tienne)",
+      "latin_text": "TRIFLUS SANCTI STEPHANI TOLOSANE ECCLESIE.\nSecudila promit carmine qu\u00e6 sit vita Bosonis\nQuomodo vixit, plura reliquit dicta colonis.\nGloria mundi nil fuit illi, sprevit honores.\nTemporis hujus vel decus ejus pressit amores.\nLenibus aspera mollibus ardua vita refusit.\nOmnia crimina valde nequissima mente retrusit.\nMoribus inclitus extitit omnibus associio\nLegifer ut pater increpat obsecrat amando.\nCorporis excessus mirabilis atque recessus\nA mundo fessus nondum est laude repletus.",
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6939,
+          "titulus_id": 1664,
+          "original_name": "TRIFLUS",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Triflus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Toul\u0113s"
+        },
+        {
+          "id": 6940,
+          "titulus_id": 1664,
+          "original_name": "Bosonis",
+          "original_title": "",
+          "footnote_num": "(6)",
+          "footnote_text": "",
+          "normalized_name": "Boson",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6941,
+          "titulus_id": 1664,
+          "original_name": "SANCTI STEPHANI",
+          "original_title": "saint",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Stephen",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Toulouse"
+        }
+      ]
+    },
+    {
+      "id": 1665,
+      "roll_id": 130,
+      "title": "7 [22] S.d.\u2013 Toulouse, S. Gernin.",
+      "location_name": "Toulouse, S. Gernin",
+      "latin_text": "T. ECCLESI\u00c6 SANCTI SATURNINI TOLOS\u00c6. Anima ejus requiescat i. p.\nRidiculum Gele versus et metra poete\nPremia virtutis conferrent carne solutis,\nChristi victores, cur tot (e) subiere labores?\nCarceribus trusi, paucis et panibus usi,\nTandem nudati, viri sunt exoriati.\nCur mala tot passi, quidam sunt igibus assi,\nPer metra, per versus, cum quis sit ad astra reversus?\nErgo supervacus monacorum decidad usus,\nQui se per mete ferri credunt super eta:\nNon se castellis, non urbibus atque puellis\nTradant vel villis, usi tantummodu silvis.",
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6942,
+          "titulus_id": 1665,
+          "original_name": "SANCTI SATURNINI",
+          "original_title": "saint",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Saturninus",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Toulouse"
+        }
+      ]
+    },
+    {
+      "id": 1666,
+      "roll_id": 130,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Pro mundi requie decant notre dique :\nChriste Deus vere, miserere, miserere.",
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1667,
+      "roll_id": 130,
+      "title": "TITULUS SANCT\u00c6 MARI\u00c6 THOLOS\u00c6 DEAURAT\u00c6.",
+      "location_name": "Tholosa Deauratae",
+      "latin_text": "anima domni Bosonis et anim\u00e6\n5 o. a. f. d. precipibus beat\u00e6 Marie, cujus stisur ecclesi\u00e6, r. i. p. Amen. Oravimus p. v.,\norate p. n.\n(a)\nQuidam canonici, provrum dogmate fulti,\nVersibus infestant, nos urgent atque molestant.\nQuod pro defunctis offertur scedula cunctis.\n10 Cum non per metra defunctus tendat ad etra,\nSed precipibus fusis magis extumetur ab imis,\nHi dampniant unum mundi per climata fusum\nQui (b) sunt dampnandi, nec ab ullis glorificandi\nNecnon vitandi nobis ac regijendi.\n15 Quorum vita gravis, speculum dux et viavis.\nQuid moror in miseris, quibus est pars cum perituris?\nTandem isto gradum, fiendo discrimina fratrum.\nBoso, dum vixit, pastor monachos bene rexit.\n20 Boso solicite supplicat ad hostia vit\u00e6,\nQuo meruit feri vers\u00e8 conor requiei.",
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6943,
+          "titulus_id": 1667,
+          "original_name": "Marie",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6944,
+          "titulus_id": 1667,
+          "original_name": "Bosonis",
+          "original_title": "domni",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boson",
+          "normalized_role": "Lord/Domnus",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6945,
+          "titulus_id": 1667,
+          "original_name": "Boso",
+          "original_title": "pastor",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "pastor/monk leader",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1668,
+      "roll_id": 130,
+      "title": "T. SANCTI PETRI GENERENSIS.",
+      "location_name": "S. P\u00e9-de-Bigorre, S. P\u00e9-de-Gen\u00e9r\u00e8s",
+      "latin_text": "9 [24] S.d.\u2013 S. P\u00e9-de-Bigorre]. S. P\u00e9-de-Gen\u00e9r\u0113s.\n25 Pessimus (c) isto latro, cur de versu gloriatur?\nPessimus iste latro pro Juda situatur (d),\nPessimus iste latro condamnandis moriatur.\nCom (sic) non fixit eum pessimus iste latro.\nSenciat isto Boso fratrum pia vota suorum (e)",
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6946,
+          "titulus_id": 1668,
+          "original_name": "Juda",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Judas",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6947,
+          "titulus_id": 1668,
+          "original_name": "Boso",
+          "original_title": "fratrum",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1669,
+      "roll_id": 130,
+      "title": "10 [26] S.d.- Carri\u00f3n (de los Condes), S. Zoilo.",
+      "location_name": "Bigorre",
+      "latin_text": "Mortuus ut mundo vivat super astra polorum.\nOrate p. n., sicut et nos oramus p. v., pro Gregorio (1), abbate nostro necnon et Bigorrensi episcopo, et pro ceteris fratribus n. defunctis.\nAmen. Orativus p. v., orate p. n.",
+      "pdf_page": 40,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6948,
+          "titulus_id": 1669,
+          "original_name": "Gregorio",
+          "original_title": "abbate nostrum",
+          "footnote_num": "1",
+          "footnote_text": "Ce rouleau est conserv\u00e9 dans une bo\u00eete, confectionn\u00e9e sp\u00e9cialement pour lui en f\u00e9vrier 1993.",
+          "normalized_name": "Gregory",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6949,
+          "titulus_id": 1669,
+          "original_name": "normalized_dates/': '', ",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "normalized_dates/': '', ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1670,
+      "roll_id": 130,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Nos modo non modicum compellunt ista dolore\nBosonis mortes nichil ad non pertinuere.\nVitibus auxilium pocius fer, Christe, rogamus,\nBoso Deum videat, clamando vociferamus.\nIn celis regie paradisiaca piaciatur,\nPerpetuo vivens inter sanctos habeatur.\n\nItem ejusdem Pauli (a).\nMors est inventum feliciter impedimentum.\nPasci turbatrix, probitatis et insidiatrix.\nInfera mors ditat, nullum reprobysima vitat,\nDissociat caros, luctus coacervat amaros.\nOmnibus equalis, non unquam fit specialis,\nPluribus hec tantum crudelior aliquantum.\nIlla venenatis radice fuit generata\nPro genitore Satan, cui cognomen Leviatan.\nEdita cunctarum peperit sena nequitiarum,\nInvadium, sermones scelerum, perjuria, fraudes\nFictos sermones, homicidia, proditiones,\nMentes pollutas etiam nec crimine tutas.\nProtulit etates, celeres (b) dedit anxietates,\nFletus, meros, lacrimas variosque dolores.\nEt quia multorum circumstrepit aura malorum,\nNos commendabunt Domino nimiumque juvabunt\nVota beatorum, sed cum pietate virorum,\nScilicet in Christo, qui paupere poscit in isto,\nQuem tu presentem vultus, quem cermis egentem.\nDes indefesse que sunt alimenta necesse.\nConcedendo dona meritis sine fine ...........................\nOrate p. n.",
+      "pdf_page": 41,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6950,
+          "titulus_id": 1670,
+          "original_name": "Pauli",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Paul",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6951,
+          "titulus_id": 1670,
+          "original_name": "Satan",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Satan",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6952,
+          "titulus_id": 1670,
+          "original_name": "Leviatan",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Leviathan",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6953,
+          "titulus_id": 1670,
+          "original_name": "Christo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1671,
+      "roll_id": 130,
+      "title": "12 [28] S.d.- [Lectoure,] S. Geny.",
+      "location_name": "S. Geny",
+      "latin_text": "TITULUS SANCTI GENSI. Anima eius requiescat in pace (scie). Foecimus enim pro illo officium et celebravimus missam et in omnes nostras orationes illum excepi- mus.",
+      "pdf_page": 41,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1672,
+      "roll_id": 130,
+      "title": "13 [29] S.d.- Moissac.",
+      "location_name": "Moissac",
+      "latin_text": "T. MOISSACIENSIS. Deus, cui proprium est misereri semper et parcere, procure piaciare anim\u00e6 familii tu\u012b (1) Bosoni et animabus o. f. d., ut qui de hac vita in Tui nominis confessionem dissexerunt, sanctorum laborum numerio manas facias aggregari. Per. Sentiat istie Bono fratrum pia vota suorum, Mortuus ut mundo vivat supra \u00e6stara solorum. Orate p. n., pro domno Ansquillio (2) abbate, Willelmo priore, Helia sacrista, Gerardo armario, Arnaldo cellario (sic), Arnaldo operario, Archembaldo helemosinario, Geraldo, Willemo Bonabragete, Garsione, Willemo, Bernardo, Seguino, Garsindi et pro nuncest nostrum congregatio et omnibus fidelibus defunctis, ut possint perfrui regno celorum. AMEN.",
+      "pdf_page": 41,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6954,
+          "titulus_id": 1672,
+          "original_name": "Bosoni",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boson",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6955,
+          "titulus_id": 1672,
+          "original_name": "Ansquillio",
+          "original_title": "abbate",
+          "footnote_num": "2",
+          "footnote_text": "... (c'est-\u00e0-dire le 7 octobre)",
+          "normalized_name": "Ansquillius",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6956,
+          "titulus_id": 1672,
+          "original_name": "Willelmo",
+          "original_title": "priore",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6957,
+          "titulus_id": 1672,
+          "original_name": "Helia",
+          "original_title": "sacrista",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Helias",
+          "normalized_role": "sacristan",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6958,
+          "titulus_id": 1672,
+          "original_name": "Gerardo",
+          "original_title": "armario",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gerard",
+          "normalized_role": "armarius",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6959,
+          "titulus_id": 1672,
+          "original_name": "Arnaldo",
+          "original_title": "cellario",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arnold",
+          "normalized_role": "cellarer",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6960,
+          "titulus_id": 1672,
+          "original_name": "Arnaldo",
+          "original_title": "operario",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arnold",
+          "normalized_role": "worker",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6961,
+          "titulus_id": 1672,
+          "original_name": "Archembaldo",
+          "original_title": "helemosinario",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Archambald",
+          "normalized_role": "almoner",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6962,
+          "titulus_id": 1672,
+          "original_name": "Geraldo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gerard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6963,
+          "titulus_id": 1672,
+          "original_name": "Willemo Bonabragete",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William Bonabraget",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6964,
+          "titulus_id": 1672,
+          "original_name": "Garsione",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Garrison",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6965,
+          "titulus_id": 1672,
+          "original_name": "Willemo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6966,
+          "titulus_id": 1672,
+          "original_name": "Bernardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6967,
+          "titulus_id": 1672,
+          "original_name": "Seguino",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Seguin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6968,
+          "titulus_id": 1672,
+          "original_name": "Garsindi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Garsind",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1673,
+      "roll_id": 130,
+      "title": "T. CONCHENSIS.",
+      "location_name": "Conhensis",
+      "latin_text": "Si pietate Dei justi dantur requiei\nEt fidei merito, corpore deposito,\nNon ido flendum, non est de morte dolendum.\nQuam sequitur vita, vita sequens merita.\nFit domus in celis, ubi justus sive fidelis\nSunt domus et lapides, alligat hosque fides,\nSanctis firmatur et justis \u00e9dificatur.\nIn relitente domo sic bonus exat homo :\nHic igitur Boso lapidi nexus precioso\nCorpore so moritur, etrem tamen fruitur.\nHunc, deus, exalta celorum sede sub alta,\nQuo quiat vitam, vivens sine dipum.",
+      "pdf_page": 42,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6969,
+          "titulus_id": 1673,
+          "original_name": "Boso",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1674,
+      "roll_id": 130,
+      "title": "T. SANCTI OEHTFREDI CALMIENSIS CENOBII.",
+      "location_name": "Calmiensis Cenobii",
+      "latin_text": "Quid confort homini premia cuncta lucrari\nSi post hec continguat (sic) eum Christo separari?\nHinc gauadet (sic) celtos noster per secula letus\nHujus Bosonis pro tantus unte donis\nQui, sculptur mertus, multis prodesse docetur\nQuamplures docuit, nulli nocuisse videtur.\nSubtractus mundo, jam vivit in orbe secondo :\nFilius ergo Dei sibi det (sortem requiei.\nOrate p. n. defunctens, Jarentente, Guidone, Poncio, Ebrardo, Petro (b), Petro,\nUmberto, Willelmo, Galterio (c), Arimando, Jarentente, Willelmo, Aenrico.\nNam (d) nos peregrimus plenarie ministerium pro vestro abbate in missis et matuti-\n30 nis et insuper statiumus facere tricrenarium (c) pro eo.",
+      "pdf_page": 42,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6970,
+          "titulus_id": 1674,
+          "original_name": "Bosonis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6971,
+          "titulus_id": 1674,
+          "original_name": "Jarentente",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Jarentent",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6972,
+          "titulus_id": 1674,
+          "original_name": "Guidone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guido",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6973,
+          "titulus_id": 1674,
+          "original_name": "Poncio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ponce",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6974,
+          "titulus_id": 1674,
+          "original_name": "Ebrardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Eberardo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6975,
+          "titulus_id": 1674,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": "(b)",
+          "footnote_text": "peccata d ray\u00e9 apr\u00e8s ce mot.- (c) L'initiale de ce mot et la phrase sanctorum ... Biterris sont rubriqu\u00e9s.",
+          "normalized_name": "Pierre",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6976,
+          "titulus_id": 1674,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pierre",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6977,
+          "titulus_id": 1674,
+          "original_name": "Umberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Umbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6978,
+          "titulus_id": 1674,
+          "original_name": "Willelmo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillaume",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6979,
+          "titulus_id": 1674,
+          "original_name": "Galterio",
+          "original_title": "",
+          "footnote_num": "(c)",
+          "footnote_text": "(c) Les lettres nido sont \u00e9crites une seule fois pour ces vers et le vers suivant et reli\u00e9es par un trait oblique aux lettres qui pr\u00e9c\u00e9dent.",
+          "normalized_name": "Gauthier",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6980,
+          "titulus_id": 1674,
+          "original_name": "Arimando",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arimand",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6981,
+          "titulus_id": 1674,
+          "original_name": "Jarentente",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Jarentent",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6982,
+          "titulus_id": 1674,
+          "original_name": "Willelmo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillaume",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6983,
+          "titulus_id": 1674,
+          "original_name": "Aenrico",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Henri",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1675,
+      "roll_id": 130,
+      "title": "TITULUS GLORIOSISSIME SEMPER VIRGINIS, DEI GENITRICIS, MARI\u00c6 ANIENCIENSIS ECCLESI\u00c6.",
+      "location_name": "Mari\u00e6 Anienciensis Ecclesi\u00e6",
+      "latin_text": "Lugubris illa dies, qua Boso transiit abba,\nSole carens fuit lugubris illa dies.\nInde dolore nimis non cessant Secusinesos.\nIrritus at labor est, inde dolore nimis.\nHic pro peccatis si quos patitur cruciatus,\nOremus, Deus omnipotens qui cuncta creasti,\nQui mirabiliter de te Verbum generasti,\nPer quod principium quecumque creata patrati,\nQui tam multiplicie pietate tuos recreasti,\nAbbati, quem de \u00ab lacrimarum valle \u00bb (1) vo[cast]i.\nHuic doa requiem, quam sanctis ipse parasti.",
+      "pdf_page": 42,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6984,
+          "titulus_id": 1675,
+          "original_name": "Boso",
+          "original_title": "abba",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6985,
+          "titulus_id": 1675,
+          "original_name": "Secusinesos",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Secusinesos",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1676,
+      "roll_id": 130,
+      "title": "17 [33] S.d.- Le Puy, S. Pierre[-de-la-Tour].",
+      "location_name": "S. Pierre[-de-la-Tour]",
+      "latin_text": "TITULUS SANCTI Petri Podii monasterii.\nSi tibi dictamen conferret Boso levamen,\nFingere dictamen non est jure gravamen.\nSed quia dictamen nequit impetrare levamen.\nPro jam commissis oss reor tibi missis.",
+      "pdf_page": 42,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6986,
+          "titulus_id": 1676,
+          "original_name": "Boso",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1677,
+      "roll_id": 130,
+      "title": "18 [34] S.d.- La Chaise-Dieu.",
+      "location_name": "La Chaise-Dieu",
+      "latin_text": "TITULUS SANCTI ROBERTI CASE DEI. Anima famili tuoi, Domine, Bosonis et anim\u0119 o. f. d. r. i. p. AMHN. Orate p. n. defunctus, sicut nos fecimus p. v., pro",
+      "pdf_page": 42,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6987,
+          "titulus_id": 1677,
+          "original_name": "Bosonis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1678,
+      "roll_id": 130,
+      "title": "",
+      "location_name": "S.-Germin[l'Herm]",
+      "latin_text": "abbate Duranto (1), pro abbate Siguino (2), pro abbate Pontio (3), Umberto, Garne-rio, Stephano, Willelmo, Gerardo allisque omnibus, quorum nomina solus Deus scit.",
+      "pdf_page": 43,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6988,
+          "titulus_id": 1678,
+          "original_name": "Duranto",
+          "original_title": "abbate",
+          "footnote_num": "1",
+          "footnote_text": "Ce rouleau est conserv\u00e9 dans une bo\u00eete, confectionn\u00e9e sp\u00e9cialement pour lui en f\u00e9vrier 1993.",
+          "normalized_name": "Durand",
+          "normalized_role": "abbot",
+          "normalized_dates": "1067-1078",
+          "location_name": null
+        },
+        {
+          "id": 6989,
+          "titulus_id": 1678,
+          "original_name": "Siguino",
+          "original_title": "abbate",
+          "footnote_num": "2",
+          "footnote_text": "... (c'est-\u00e0-dire le 7 octobre)",
+          "normalized_name": "Seguin d'Escotay",
+          "normalized_role": "abbot",
+          "normalized_dates": "1078-1094",
+          "location_name": null
+        },
+        {
+          "id": 6990,
+          "titulus_id": 1678,
+          "original_name": "Pontio",
+          "original_title": "abbate",
+          "footnote_num": "3",
+          "footnote_text": "... pour lequel un rouleau mortuaire fut en mission",
+          "normalized_name": "Pona de Tournon",
+          "normalized_role": "abbot",
+          "normalized_dates": "1094-1122",
+          "location_name": null
+        },
+        {
+          "id": 6991,
+          "titulus_id": 1678,
+          "original_name": "Umberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Umbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6992,
+          "titulus_id": 1678,
+          "original_name": "Garnerio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Garnier",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6993,
+          "titulus_id": 1678,
+          "original_name": "Stephano",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Stephen",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6994,
+          "titulus_id": 1678,
+          "original_name": "Willelmo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6995,
+          "titulus_id": 1678,
+          "original_name": "Gerardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gerard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1679,
+      "roll_id": 130,
+      "title": "TITULUS SANCTORUM APOSTOLORUM PETRI ET PAULI ET SANCTI JOHANNIS AEVANGELIST\u00c6 CENOBII (c) Celsiniacensis (b)",
+      "location_name": "Celsiniacus",
+      "latin_text": "Anima (c) domni Bosonis abbatis et anim\u00e6 o. f. d. r. i. p. AMHN. Orate p. n. defunctis, Bertranno, Gauzberto, Artmanno, Rotberto, Mauricio, Hugone, Willelmo, Odilone, Stephano, Rotberto (a) Artmanno, Rotberto (b) comite, Bernardo, Gardelo, Johanne, Stephano, Bertranno, Petro, Gotefredo, Rigaldo, Widone, Bernardo et pro aliis multos, quorum nomina Deus exit.",
+      "pdf_page": 43,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6996,
+          "titulus_id": 1679,
+          "original_name": "Bosonis",
+          "original_title": "",
+          "footnote_num": "c",
+          "footnote_text": "Le passage Pessimus ... pessimus iste latro, de petit module, est d\u00fb \u00e0 une autre main que celle du titre. De plus, les trois premiers mots Pessimus iste latro, \u00e9crits une seule fois, sont reli\u00e9s par un trait oblique aux deux vers suivants.",
+          "normalized_name": "Boso",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6997,
+          "titulus_id": 1679,
+          "original_name": "Bertranno",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bertrand",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6998,
+          "titulus_id": 1679,
+          "original_name": "Gauzberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gauzbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6999,
+          "titulus_id": 1679,
+          "original_name": "Artmanno",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Artman",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7000,
+          "titulus_id": 1679,
+          "original_name": "Rotberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7001,
+          "titulus_id": 1679,
+          "original_name": "Mauricio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Maurice",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7002,
+          "titulus_id": 1679,
+          "original_name": "Hugone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7003,
+          "titulus_id": 1679,
+          "original_name": "Willelmo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7004,
+          "titulus_id": 1679,
+          "original_name": "Odilone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Odilo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7005,
+          "titulus_id": 1679,
+          "original_name": "Stephano",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Stephen",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7006,
+          "titulus_id": 1679,
+          "original_name": "Rotberto (a)",
+          "original_title": "",
+          "footnote_num": "a",
+          "footnote_text": "Ce mot est ajout\u00e9 en interligne.",
+          "normalized_name": "Robert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7007,
+          "titulus_id": 1679,
+          "original_name": "Artmanno",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Artman",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7008,
+          "titulus_id": 1679,
+          "original_name": "Rotberto (b)",
+          "original_title": "",
+          "footnote_num": "b",
+          "footnote_text": "corrig\u00e9 en Qui .",
+          "normalized_name": "Robert",
+          "normalized_role": "count/comite",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7009,
+          "titulus_id": 1679,
+          "original_name": "Bernardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7010,
+          "titulus_id": 1679,
+          "original_name": "Gardelo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Geraldo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7011,
+          "titulus_id": 1679,
+          "original_name": "Johanne",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "John",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7012,
+          "titulus_id": 1679,
+          "original_name": "Stephano",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Stephen",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7013,
+          "titulus_id": 1679,
+          "original_name": "Bertranno",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bertrand",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7014,
+          "titulus_id": 1679,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7015,
+          "titulus_id": 1679,
+          "original_name": "Gotefredo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Godfrey",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7016,
+          "titulus_id": 1679,
+          "original_name": "Rigaldo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Reginald",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7017,
+          "titulus_id": 1679,
+          "original_name": "Widone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Wido",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7018,
+          "titulus_id": 1679,
+          "original_name": "Bernardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1680,
+      "roll_id": 130,
+      "title": "21 [37] S.d.- Manglieu, S. S\u00e9bastien.",
+      "location_name": "Manglieu",
+      "latin_text": "TITULUS SANCTI BASTIANI MAGNILOCOENSIS (d) CENOBII\nPresenti vita Boso si cessit ab ista.\nNon tamen est fluendus, frates, nec corde dolendus,\nSed deroguemus (c) sic Eum solus qui regnat in evum,\nUt det ei vitam quandam per sepe petitam.\nVersus Magnilocenses (e),\nMundanum cultum mors destruxit improba multum.\nMundi conventus minuit cetus morientum.\nAd nostrum fons procedimus unus et unus.\nAd mortis tumbam scio quod quandoque recumbam (f).\nAd mortis fatum scio nostrum currere statum.\nAd mortis mortem video concurrere fmtum\nNunc inter cunctos mortis discrimine functus\nDe Christi domis capiat persona Bosonis (g).\nQuod petitis nostris, petitus reddatur et istis Roberto (2) abbate, Odiloni (sic)\nabbate (h), Petro abbate, Alberto Abbate, Aimoni (sic) (3) abbate, Mauricio (25)",
+      "pdf_page": 43,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7019,
+          "titulus_id": 1680,
+          "original_name": "Boso",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7020,
+          "titulus_id": 1680,
+          "original_name": "Roberto",
+          "original_title": "",
+          "footnote_num": "2",
+          "footnote_text": "... (c'est-\u00e0-dire le 7 octobre)",
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7021,
+          "titulus_id": 1680,
+          "original_name": "Odiloni",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Odilo",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7022,
+          "titulus_id": 1680,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": "h",
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7023,
+          "titulus_id": 1680,
+          "original_name": "Alberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Albert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7024,
+          "titulus_id": 1680,
+          "original_name": "Aimoni",
+          "original_title": "",
+          "footnote_num": "3",
+          "footnote_text": "... pour lequel un rouleau mortuaire fut en mission",
+          "normalized_name": "Aimon",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7025,
+          "titulus_id": 1680,
+          "original_name": "Mauricio",
+          "original_title": "",
+          "footnote_num": "25",
+          "footnote_text": null,
+          "normalized_name": "Maurice",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1681,
+      "roll_id": 130,
+      "title": "[VII] TITULUS (c) SANCTI (e) AUSTREMONII YCIODORENSIS (e) CENOBII.",
+      "location_name": "Issoire, Saint-Austremoine",
+      "latin_text": "Carmina si possent succurrere nostra Bosoni (f),\nUt (e) sibi sic vellent caeli sociare coloni,\nCarminibus caperet celestis mundi doni.\nSed quia defunctis non protest did versificanti,\nSic Dominum puro possimus corde precari,\nQuatinque hic Boso valeat supra atra locari.\nErgo precipis tantum fundat mens versificantum.\n\nAlios (b)\nCum nos instructos precepts videamus\nAlter ut alterius pondus miserando feramus,\nPro familia Christi oportet ferro labores (j)\nEt defunctorum precipibus relieve labores.\nNos de Bosone, quia vixt religiosse,\nGaudeat, optamus, cupinmus, cupiendo rogamus,\nUt sit ei super atra Dei sedes requiei.\nNostros cum vestri conjugi pocle cedis.\nPontium (l) abbatem, Robertum (l) abbatem, Stephanum abbatem, Guidonem priorem, Bertrandum priorem, Bernardum priorem (k), Mauricium priorem.",
+      "pdf_page": 44,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7026,
+          "titulus_id": 1681,
+          "original_name": "Bosoni",
+          "original_title": "",
+          "footnote_num": "f",
+          "footnote_text": "velagmina corrig\u00e9 en velamina par grattage du g.",
+          "normalized_name": "Boso",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7027,
+          "titulus_id": 1681,
+          "original_name": "Boso",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7028,
+          "titulus_id": 1681,
+          "original_name": "Pontium",
+          "original_title": "abbatem",
+          "footnote_num": "l",
+          "footnote_text": null,
+          "normalized_name": "Pontius",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7029,
+          "titulus_id": 1681,
+          "original_name": "Robertum",
+          "original_title": "abbatem",
+          "footnote_num": "l",
+          "footnote_text": null,
+          "normalized_name": "Robertus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7030,
+          "titulus_id": 1681,
+          "original_name": "Stephanum",
+          "original_title": "abbatem",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Stephanus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7031,
+          "titulus_id": 1681,
+          "original_name": "Guidonem",
+          "original_title": "priorem",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guido",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7032,
+          "titulus_id": 1681,
+          "original_name": "Bertrandum",
+          "original_title": "priorem",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bertram",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7033,
+          "titulus_id": 1681,
+          "original_name": "Bernardum",
+          "original_title": "priorem",
+          "footnote_num": "k",
+          "footnote_text": null,
+          "normalized_name": "Bernardus",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7034,
+          "titulus_id": 1681,
+          "original_name": "Mauricium",
+          "original_title": "priorem",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mauricius",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1682,
+      "roll_id": 130,
+      "title": "23 [40] S.d.- Clermont, S. Allyre.",
+      "location_name": "Clermont",
+      "latin_text": "TITULUS SANCTI ILLIDII, Arverniensis episcopi.\nSpiritus abbatis transcendet (sc) ad strata Bosonis.\nHoc gliscit multus dulcis concordia fratrum,\nContinet Yllidius quos semper summe beatus.\nGloria caelestis que datur jure beatis\nColligat humnericulum dictum jam ante Bosonen.",
+      "pdf_page": 44,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7035,
+          "titulus_id": 1682,
+          "original_name": "ILLIDII",
+          "original_title": "episcopi",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Illidius",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Arvernia"
+        },
+        {
+          "id": 7036,
+          "titulus_id": 1682,
+          "original_name": "Bosonis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boson",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1683,
+      "roll_id": 130,
+      "title": "24 [41] S.d.- Mozac, S. Austroemoine.",
+      "location_name": "Mozac",
+      "latin_text": "T. SANCTI AUSTREMONII Mauziacensis cenobi. Anima donis Bosoni (sc) abbatis et a o. f. d. r. i. p. Oravimus pro domno abbat e vat os orate p. n., Arnaldo, Petro, Wido Emblafera. Attalmo, Willelmus, Pietro, Willelmo, Aimo prior, Aimo (1) abba, Durannus, Emma, Petrus, Aimo, Bernardus, Aiquinus, Johannes, Aino, Pontius, Petrus, Giraldo, Petronilla et Petronilla, Durannus, Petrus Ruus.",
+      "pdf_page": 44,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7037,
+          "titulus_id": 1683,
+          "original_name": "Bosoni",
+          "original_title": "abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boson",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7038,
+          "titulus_id": 1683,
+          "original_name": "Arnaldo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arnald",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7039,
+          "titulus_id": 1683,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7040,
+          "titulus_id": 1683,
+          "original_name": "Wido Emblafera",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Wido Emblafra",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7041,
+          "titulus_id": 1683,
+          "original_name": "Attalmo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Attalus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7042,
+          "titulus_id": 1683,
+          "original_name": "Willelmus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7043,
+          "titulus_id": 1683,
+          "original_name": "Pietro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7044,
+          "titulus_id": 1683,
+          "original_name": "Willelmo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7045,
+          "titulus_id": 1683,
+          "original_name": "Aimo",
+          "original_title": "prior",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Aimon",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7046,
+          "titulus_id": 1683,
+          "original_name": "Aimo",
+          "original_title": "abba",
+          "footnote_num": "1",
+          "footnote_text": "Ce rouleau est conserv\u00e9 dans une bo\u00eete, confectionn\u00e9e sp\u00e9cialement pour lui en f\u00e9vrier 1993.",
+          "normalized_name": "Aimon",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7047,
+          "titulus_id": 1683,
+          "original_name": "Durannus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Durans",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7048,
+          "titulus_id": 1683,
+          "original_name": "Emma",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1684,
+      "roll_id": 130,
+      "title": "29 [46] S.d.- Corbigny, S. Pierre, S. Paul, S. L\u00e9onard.",
+      "location_name": "Corbigny; S. Pierre; S. Paul; S. L\u00e9onard",
+      "latin_text": "29 [46] S.d.- Corbigny, S. Pierre, S. Paul, S. L\u00e9onard.\nT. sanctorum apostolorum Petri et Pauli sanctique Leonardi, abbatis Corbiniaci, cenobi.",
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7049,
+          "titulus_id": 1684,
+          "original_name": "Petri",
+          "original_title": "apostolorum",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "Apostle",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7050,
+          "titulus_id": 1684,
+          "original_name": "Pauli",
+          "original_title": "apostolorum",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Paul",
+          "normalized_role": "Apostle",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7051,
+          "titulus_id": 1684,
+          "original_name": "Leonardi",
+          "original_title": "sanctique",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Leonard",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1685,
+      "roll_id": 130,
+      "title": "Versus. Morte pia justus moritur, sed iniquus iniqua. Nam justus transit, quo gloria emerat.",
+      "location_name": "",
+      "latin_text": "Versus.\nMorte pia justus moritur, sed iniquus iniqua.\nNam justus transit, quo gloria emerat.",
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1686,
+      "roll_id": 130,
+      "title": "TITULUS SANCTI PETRI SANCTI MAIOLI SILVINACENSIS. Anima domni Bosonis abbatis et anime o. f. d. r. i. p. Oravimus p. v., orate p. n., scilicet dunno Francone (1) abbate, Gaufrido (2) priore nostro, Stephano, Petro, Stephano, David, Petro, Stephano, Benedicto, Bladino.",
+      "location_name": "SILVINACENSIS",
+      "latin_text": "TITULUS SANCTI PETRI SANCTI MAIOLI SILVINACENSIS. Anima domni Bosonis abbatis et anime o. f. d. r. i. p. Oravimus p. v., orate p. n., scilicet dunno Francone (1) abbate, Gaufrido (2) priore nostro, Stephano, Petro, Stephano, David, Petro, Stephano, Benedicto, Bladino.",
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7052,
+          "titulus_id": 1686,
+          "original_name": "Bosoni",
+          "original_title": "domni ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7053,
+          "titulus_id": 1686,
+          "original_name": "Francone",
+          "original_title": "dunno ... abbate",
+          "footnote_num": "1",
+          "footnote_text": "Ce rouleau est conserv\u00e9 dans une bo\u00eete, confectionn\u00e9e sp\u00e9cialement pour lui en f\u00e9vrier 1993.",
+          "normalized_name": "Franco",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7054,
+          "titulus_id": 1686,
+          "original_name": "Gaufrido",
+          "original_title": "priore nostro",
+          "footnote_num": "2",
+          "footnote_text": "... (c'est-\u00e0-dire le 7 octobre)",
+          "normalized_name": "Geoffrey",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7055,
+          "titulus_id": 1686,
+          "original_name": "Stephano",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Stephen",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7056,
+          "titulus_id": 1686,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7057,
+          "titulus_id": 1686,
+          "original_name": "David",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "David",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7058,
+          "titulus_id": 1686,
+          "original_name": "Benedicto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Benedict",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7059,
+          "titulus_id": 1686,
+          "original_name": "Bladino",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bladin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1687,
+      "roll_id": 130,
+      "title": "TITULUS MALguino priore, Raimaldo (d) monacho, Arnulfo monacho; Willelmo monacho, Poncio monacho, Archibaldlo, Willelmo (e) clerico Arnulfo, Petro, Ermengarde, Gondrada. Aureia aliquis omnibus.",
+      "location_name": "",
+      "latin_text": "[813] Malguino priore, Raimaldo (d) monacho, Arnulfo monacho; Willelmo monacho, Poncio monacho, Archibaldlo, Willelmo (e) clerico Arnulfo, Petro, Ermengarde, Gondrada. Aureia aliquis omnibus.",
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7060,
+          "titulus_id": 1687,
+          "original_name": "Malguino",
+          "original_title": "priore",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Malguin",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7061,
+          "titulus_id": 1687,
+          "original_name": "Raimaldo",
+          "original_title": "monacho",
+          "footnote_num": "d",
+          "footnote_text": "La finale atur de ce vers et du vers suivant est \u00e9crite une seule fois et reli\u00e9e par un trait oblique aux lettres qui la pr\u00e9c\u00e9dent.",
+          "normalized_name": "Raymond",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7062,
+          "titulus_id": 1687,
+          "original_name": "Arnulfo",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arnulf",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7063,
+          "titulus_id": 1687,
+          "original_name": "Willelmo",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7064,
+          "titulus_id": 1687,
+          "original_name": "Poncio",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ponce",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7065,
+          "titulus_id": 1687,
+          "original_name": "Archibaldlo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Archibald",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7066,
+          "titulus_id": 1687,
+          "original_name": "Willelmo",
+          "original_title": "clerico",
+          "footnote_num": "e",
+          "footnote_text": "La finale orum de ce vers et du vers suivant est \u00e9crite une seule fois et reli\u00e9e par un trait oblique et reli\u00e9e par un trait oblique aux lettres qui la pr\u00e9sident.",
+          "normalized_name": "William",
+          "normalized_role": "cleric",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7067,
+          "titulus_id": 1687,
+          "original_name": "Arnulfo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arnulf",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7068,
+          "titulus_id": 1687,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7069,
+          "titulus_id": 1687,
+          "original_name": "Ermengarde",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ermengard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7070,
+          "titulus_id": 1687,
+          "original_name": "Gondrada",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gundrada",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1688,
+      "roll_id": 130,
+      "title": "TANCTI RIVIERANI. Anima domni Bosonis abbatis et a o. f. d. r. in Christo. Oravimus p. v., orate p. n., scilicet pro (g) Pontio (4) abbate, pro demo Petro priore, Ricardo priore, Leone priore, Gaufrido monacho, Bernardo",
+      "location_name": "RIVIERANI",
+      "latin_text": "TANCTI RIVIERANI. Anima domni Bosonis abbatis et a o. f. d. r. in Christo. Oravimus p. v., orate p. n., scilicet pro (g) Pontio (4) abbate, pro demo Petro priore, Ricardo priore, Leone priore, Gaufrido monacho, Bernardo",
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7071,
+          "titulus_id": 1688,
+          "original_name": "Bosonis",
+          "original_title": "domni ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7072,
+          "titulus_id": 1688,
+          "original_name": "Pontio",
+          "original_title": "abbate",
+          "footnote_num": "4",
+          "footnote_text": "\u00c9d. supra, p. 554, n\u00b0 81 [79].",
+          "normalized_name": "Ponce",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7073,
+          "titulus_id": 1688,
+          "original_name": "Petro",
+          "original_title": "priore",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7074,
+          "titulus_id": 1688,
+          "original_name": "Ricardo",
+          "original_title": "priore",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Richard",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7075,
+          "titulus_id": 1688,
+          "original_name": "Leone",
+          "original_title": "priore",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Leo",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7076,
+          "titulus_id": 1688,
+          "original_name": "Gaufrido",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Geoffrey",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7077,
+          "titulus_id": 1688,
+          "original_name": "Bernardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1689,
+      "roll_id": 130,
+      "title": "15 monacho. Hugone monacho, Willelmo monacho, Bernardo monacho et pro aliis",
+      "location_name": "",
+      "latin_text": "15 monacho. Hugone monacho, Willelmo monacho, Bernardo monacho et pro aliis",
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7078,
+          "titulus_id": 1689,
+          "original_name": "Hugone",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7079,
+          "titulus_id": 1689,
+          "original_name": "Willelmo",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7080,
+          "titulus_id": 1689,
+          "original_name": "Bernardo",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1690,
+      "roll_id": 130,
+      "title": "EX HEREMO SANCTI SULPICII.",
+      "location_name": "Sulpice",
+      "latin_text": "Si bene verstvi t\u00e4e precepta,\nMeruisti ante Dei faciem Boso tibi requiem\nHoc tibi dominus, quod posse valere putamus.\nOmnipotens Dominus sit tibi propicius.\nOrate p. n.",
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7081,
+          "titulus_id": 1690,
+          "original_name": "Boso",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7082,
+          "titulus_id": 1690,
+          "original_name": "Dominus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lord",
+          "normalized_role": "God",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1691,
+      "roll_id": 130,
+      "title": "TITULUS SANCT\u00c6 MARI\u00c6 MAGDALEN\u00c6 VIZELACIENSIS.",
+      "location_name": "V\u00e9zelay",
+      "latin_text": "Anima ejus et a o. f.\nd., in Christi nomi, r. i. p. Amen. Oravimus p. v., orate p. n., pro abbate\nArtaldo (1), Bernone (2) (abbate (a) Stephano (b) (3), pro Joceranno (4) abbate (c),\n5 petro, Johanne, Berardo, Widone, Roboterto (5) abbate (d), Rodulfo, Abone.",
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7083,
+          "titulus_id": 1691,
+          "original_name": "Artaldo",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "Ce rouleau est conserv\u00e9 dans une bo\u00eete, confectionn\u00e9e sp\u00e9cialement pour lui en f\u00e9vrier 1993.",
+          "normalized_name": "Artaldo",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7084,
+          "titulus_id": 1691,
+          "original_name": "Bernone",
+          "original_title": "",
+          "footnote_num": "2",
+          "footnote_text": "... (c'est-\u00e0-dire le 7 octobre)",
+          "normalized_name": "Bernon",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7085,
+          "titulus_id": 1691,
+          "original_name": "Stephano",
+          "original_title": "",
+          "footnote_num": "b",
+          "footnote_text": "corrig\u00e9 en Qui .",
+          "normalized_name": "Stephen",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7086,
+          "titulus_id": 1691,
+          "original_name": "Joceranno",
+          "original_title": "",
+          "footnote_num": "4",
+          "footnote_text": "\u00c9d. supra, p. 554, n\u00b0 81 [79].",
+          "normalized_name": "Joceran",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7087,
+          "titulus_id": 1691,
+          "original_name": "petro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7088,
+          "titulus_id": 1691,
+          "original_name": "Johanne",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "John",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7089,
+          "titulus_id": 1691,
+          "original_name": "Berardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7090,
+          "titulus_id": 1691,
+          "original_name": "Widone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Wido",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7091,
+          "titulus_id": 1691,
+          "original_name": "Roboterto",
+          "original_title": "",
+          "footnote_num": "5",
+          "footnote_text": "(5)",
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7092,
+          "titulus_id": 1691,
+          "original_name": "Rodulfo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rodulf",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1692,
+      "roll_id": 130,
+      "title": "[T]ITULUS [S]ANCTORUM APOSTOLORUM PETRI ET PAULI CLUNIENSIS (9) CENOBI.",
+      "location_name": "Cluny",
+      "latin_text": "Anima ejus et a o. f. d. r. i. p. Amen. Oravimus p. v., orate p. n.",
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7093,
+          "titulus_id": 1692,
+          "original_name": "PETRI",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7094,
+          "titulus_id": 1692,
+          "original_name": "PAULI",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Paul",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1693,
+      "roll_id": 130,
+      "title": "10 [IX] T. BEATE MARIE de ospitale (sic) PRI NI.",
+      "location_name": "Prin",
+      "latin_text": "Anima ejus et a o. f. defunctorum (sic) r. i. p. Amen. Oravimus p. v., orate p. n.",
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1694,
+      "roll_id": 130,
+      "title": "33 [51] S.d.- Rambret[-en-Bugey].",
+      "location_name": "Rambret",
+      "latin_text": "T. Sancti Ragneberti jurensis. Anima ejus requiescat i. p. III missis ei damus.",
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7095,
+          "titulus_id": 1694,
+          "original_name": "Sancti Ragneberti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Ragnebert",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "jurensis"
+        }
+      ]
+    },
+    {
+      "id": 1695,
+      "roll_id": 130,
+      "title": "[XII]",
+      "location_name": "",
+      "latin_text": "Religiosiosissimis Gallicane ecclesie fidelibus universis congregatio Sanctorum Justi et Mauri Secuensis monasterii \u00abinmarcescibilem \u00e6tern\u00e6 vitro coronam\u00bb (1), una est Columba Christi, dilectissimi, una est nostra catholica, videlicet Ecclesia per orbem terrarum diffusa, quae ad mortem, ad vitam regenerat perennem, qui fidevoli demonio omnipotenti Deo servi cum filiis. Unius certe Domini servus, unius Regis miliciam bajulamus, milicia quippe est vita hominis super terram, qua \u00abin convalle lacrimarum\u00bb (2) \u00abhomo possit, tanquam flam agri effloret et sicut florum crescit\u00bb (3), \u00abMercennarii enim sunt dies 10 ejus\u00bb (4); dum enim in hoc corruptibili corpore versatur, animales incessantes passiones patimur, quibus in servitude peccati captivarum indeque ad Domino peregrinamur. Dum igitur vatic et dum inculigente tempus habemus, spe ad supernam patriam suspiremus, unde pecados exstinguibimus in labore hujus vit\u00e6 miserabiliter exulamus, in multis quidem dejicimur, sed misericordia Dei preveniente, non perimiclamur. Si ergo \u00e6terne viti compatinces fiori pietas, omnimenus in tuitione quorum tribulationum sorti esse non renumans, scientes quia, \u00absic enim ex lex Christi admiratur, proximorum honora posteriores alterutrum\u00bb. 6 Nune autem, quoniam ecclesia Gallicana sanctitate [v]ulge religione prepellet (5) consolationi vostre, dilectis 20 mur enim sunt dies 10 de primis... [text continues]",
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7096,
+          "titulus_id": 1695,
+          "original_name": "Sanctorum Justi et Mauri",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Just and Maurus",
+          "normalized_role": "saints",
+          "normalized_dates": "",
+          "location_name": "Secuensis"
+        },
+        {
+          "id": 7097,
+          "titulus_id": 1695,
+          "original_name": "Deo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "God",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1696,
+      "roll_id": 130,
+      "title": "",
+      "location_name": "",
+      "latin_text": "tes (a), vestris orationibus et elemosinis fidelis defuncti pacis ac lucis regio-\nnem possideat et requiem eternam habeat. Amen. De (b) rotlifero (sic) rogamus ut\nvictum ci tribuatis et consuetudinem faciatis.",
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1697,
+      "roll_id": 130,
+      "title": "HUMILIS CONVENTUS SANCTI LAURENTII DE PLEBE MARTIRUM ECCLESI\u00c6. Bosoni, Secusienis ecclesi\u0119 defuncto abbati, induimus sacrifitiis (sc) in elemosinis per omnes ecclesias nostras nunc et in \u00e6ternum, quantum possumus et nostrum est largiri, partem societatem concedimus. Nos quoque in tempore obitus sui per spatium XXX$^{a}$ dierum, ut decet fratres, officium suum 10 assidue complevimus.",
+      "location_name": "Oulx",
+      "latin_text": "HUMILIS CONVENTUS SANCTI LAURENTII DE PLEBE MARTIRUM ECCLESI\u00c6. Bosoni, Secusienis ecclesi\u0119 defuncto abbati, induimus sacrifitiis (sc) in elemosinis per omnes ecclesias nostaries nunc et in \u00e6ternum, quantum possumus et nostrum est largiri, partem societatem concedimus. Nos quoque in tempore obitus sui per spatium XXX^{a} dierum, ut decet fratres, officium suum 10 assidue complevimus.",
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7098,
+          "titulus_id": 1697,
+          "original_name": "Bosoni",
+          "original_title": "abbati",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boson",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Secusienis"
+        }
+      ]
+    },
+    {
+      "id": 1698,
+      "roll_id": 130,
+      "title": "T. BEAT\u00c6 MARI\u00c6 EBREDUNENSIS ECCLESIE. Anima ejus requiescat i. p.",
+      "location_name": "Embrun",
+      "latin_text": "T. BEAT\u00c6 MARI\u00c6 EBREDUNENSIS ECCLESIE. Anima ejus requiescat i. p.",
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7099,
+          "titulus_id": 1698,
+          "original_name": "MARI\u00c6",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1699,
+      "roll_id": 130,
+      "title": "ECCLESI\u00c6 (c) SANCTI GREGORII TALARNENSIS. Mors ferit cunctos (d) simul- 15 que devotos ut inimicos. Vestris et nostris de gaudis Conditor orbis. Vivant in \u00e6ternum Regem regendo supernum.",
+      "location_name": "Tallard",
+      "latin_text": "ECCLESI\u00c6 (c) SANCTI GREGORII TALARNENSIS. Mors ferit cunctos (d) simul- 15 que devotos ut inimicos. Vestris et nostris de gaudis Conditor orbis. Vivant in \u00e6ternum Regem regendo supernum.",
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7100,
+          "titulus_id": 1699,
+          "original_name": "SANCTI GREGORII",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gregory",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1700,
+      "roll_id": 130,
+      "title": "T. Sanct\u00e6 Mari\u0119 de Podio Canogabi\u00e6 (e) anim\u00e6 (f) domni Bosonis abbatis et anim\u0119 o. f. d. r. i. p. Amen. Orate pro fratribus n., Petro (g) cognomento Trudberto, 20 Petro, Astramudo, Petro, Girardo, Giraldo, Humberto.",
+      "location_name": "Ganogabie",
+      "latin_text": "T. Sanct\u00e6 Mari\u0119 de Podium Canogabi\u00e6 (e) anim\u00e6 (f) domni Bosonis abbatis et anim\u0119 o. f. d. r. i. p. Amen. Orate pro fratribus n., Petro (g) cognomento Trudberto, 20 Petro, Astramudo, Petro, Girardo, Giraldo, Humberto.",
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7101,
+          "titulus_id": 1700,
+          "original_name": "Mari\u0119",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7102,
+          "titulus_id": 1700,
+          "original_name": "Bosonis",
+          "original_title": "domni ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boson",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7103,
+          "titulus_id": 1700,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": "g",
+          "footnote_text": "pro Pontio abbate ajout\u00e9 en interligne.",
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7104,
+          "titulus_id": 1700,
+          "original_name": "Trudberto",
+          "original_title": "cognomento",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Trudbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7105,
+          "titulus_id": 1700,
+          "original_name": "Astramudo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Astramundus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7106,
+          "titulus_id": 1700,
+          "original_name": "Girardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gerard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7107,
+          "titulus_id": 1700,
+          "original_name": "Giraldo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gerard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7108,
+          "titulus_id": 1700,
+          "original_name": "Humberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hubert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1701,
+      "roll_id": 130,
+      "title": "T. Aquensis ecclesi\u0119. Anima ejus requiescat i. p.\nQuidam fratrum ecclesi\u0119 Sancti Salvatoris conventui Secusienusi,\n25 Sic in fine tibi succurrat gloria Christi.",
+      "location_name": "Aix-en-Provence",
+      "latin_text": "T. Aquensis ecclesi\u0119. Anima ejus requiescat i. p.\nQuidam fratrum ecclesi\u0119 Sancti Salvatoris conventui Secusienusi,\n25 Sic in fine tibi succurrat gloria Christi.",
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7109,
+          "titulus_id": 1701,
+          "original_name": "Sancti Salvatoris",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Holy Savior",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1702,
+      "roll_id": 130,
+      "title": "41 [6] S.d.- Marseille, S. Victor.",
+      "location_name": "Marseille, S. Victor",
+      "latin_text": "TITULUS CENOBII SANCTI VICTORIS MASSILIENSIUM. Anima donis Bosonis,\nabbatis Securiensis (sic), et a. o. f. d., in Christi nomine, r. i. p. Amen. Concedimus\nsuprascripto Bosoni abbati celebracionem XXX missarum. Verum etiam Ei, cui\nomnia vivunt, animam ejus suppliciter commendamus.\nNon moritur justis, si jam si just se forte sepultus.\nSed caro putrescit, ne misere in requie esciet.",
+      "pdf_page": 47,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7110,
+          "titulus_id": 1702,
+          "original_name": "Bosonis",
+          "original_title": "abbatis Securiensis (sic)",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Securiense"
+        }
+      ]
+    },
+    {
+      "id": 1703,
+      "roll_id": 130,
+      "title": "42 [7] S.d.- Marseille, cath\u00e9drale (N.-D.).",
+      "location_name": "Marseille, cath\u00e9drale (N.-D.)",
+      "latin_text": "TITULUS ECCLESIAE SANCTE MARIAE MASSILIENSIS, EPISCOPALIS SEDIS (Crux).\nOctobris nonas obiit Bosus, piu abbas.\nDefensor justis mansit terrorque provertus.\nQuem tu, Summe Deus, celorum junge cartevus.\nMassilii decus ecclesie rege, Christe magister.\nRaymundus\u00a0(1) presul pleat tibi jure minister.",
+      "pdf_page": 47,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7111,
+          "titulus_id": 1703,
+          "original_name": "Bosus",
+          "original_title": "piu abbas",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7112,
+          "titulus_id": 1703,
+          "original_name": "Christe",
+          "original_title": "magister",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "master/god",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7113,
+          "titulus_id": 1703,
+          "original_name": "Raymundus",
+          "original_title": "presul",
+          "footnote_num": "1",
+          "footnote_text": "Ce rouleau est conserv\u00e9 dans une bo\u00eete, confectionn\u00e9e sp\u00e9cialement pour lui en f\u00e9vrier 1993.",
+          "normalized_name": "Raymond",
+          "normalized_role": "prelate",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1704,
+      "roll_id": 130,
+      "title": "43 [8] S.d.- Arles, cath\u00e9drale.",
+      "location_name": "Arles, cath\u00e9drale",
+      "latin_text": "ARELATENSIS TITULUS. Beati morui qui in Domino moriantur. \u00ab Absterget\nnamque Deus omnem lacrimam ab oculis eorum \u00bb (2).\n[XIV",
+      "pdf_page": 47,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1705,
+      "roll_id": 130,
+      "title": "TITULUS CENOBII SANCTI (e) MARIE ET SANCTI PETRI MONTIS MAJORIS (b).",
+      "location_name": "Montjoie-Saint-Pierre",
+      "latin_text": "Anima domni Bosonis, abbatis Secusiensis, et o. f. in Christo requiem et gloriam eternam percipiant. AMEN. Pro anima ejus XXX diebus dies sacrifium (sic) laudis Deo optulimus. In uterum queoque benefactis ita ei, sicut et nobis, fructum salutis optamus.\nVersus (c).\nCum coram Domino sit mors preciosa bonorum (d)\nNon est tristandum, si quis moriatur eorum.\nNam moriretur felix qui vixit axerat ante,\nEtern\u00e8 vit\u00e6 Christo sibi gaudia dante.\nErgo poscamus, fratres, Dominum dominorum,\nUt cum Bosone det nobis regna polorum.",
+      "pdf_page": 48,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7114,
+          "titulus_id": 1705,
+          "original_name": "Bosonis",
+          "original_title": "domni ... abbatis Secusiensis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boson",
+          "normalized_role": "abbot of Secusia",
+          "normalized_dates": "",
+          "location_name": "Secusia"
+        }
+      ]
+    },
+    {
+      "id": 1706,
+      "roll_id": 130,
+      "title": "T. monasterii sancti Aegydii abbatis.",
+      "location_name": "Saint-Gilles",
+      "latin_text": "Pro domno abbate vestro Bosone vigilias, missas et helemosinas fecimus. Hoc idem precatum, ut p. n. defunctus facere dignemini, pro abbatis nostris, Beraldo (f) (1), Odilone (2), Stephano (3), Hugone (4), et pro fratribus n., Dalmatio, Elbrado, Milone, Hubilino (6), Frotardo, Hubiloto, Bentone, Stephano, Galterio, Emeneo, Gerardo, et pro omnibus altris fratribus nostris (b), qui ex hoc seculo transiunt.",
+      "pdf_page": 48,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7115,
+          "titulus_id": 1706,
+          "original_name": "Bosone",
+          "original_title": "domno abbate",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boson",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Saint-Gilles"
+        },
+        {
+          "id": 7116,
+          "titulus_id": 1706,
+          "original_name": "Beraldo",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "Ce rouleau est conserv\u00e9 dans une bo\u00eete, confectionn\u00e9e sp\u00e9cialement pour lui en f\u00e9vrier 1993.",
+          "normalized_name": "Berold",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7117,
+          "titulus_id": 1706,
+          "original_name": "Odilone",
+          "original_title": "",
+          "footnote_num": "2",
+          "footnote_text": "... (c'est-\u00e0-dire le 7 octobre)",
+          "normalized_name": "Odilon",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7118,
+          "titulus_id": 1706,
+          "original_name": "Stephano",
+          "original_title": "",
+          "footnote_num": "3",
+          "footnote_text": "... pour lequel un rouleau mortuaire fut en mission",
+          "normalized_name": "Stephen",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7119,
+          "titulus_id": 1706,
+          "original_name": "Hugone",
+          "original_title": "",
+          "footnote_num": "4",
+          "footnote_text": "\u00c9d. supra, p. 554, n\u00b0 81 [79].",
+          "normalized_name": "Hugh",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7120,
+          "titulus_id": 1706,
+          "original_name": "Dalmatio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Dalmatius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7121,
+          "titulus_id": 1706,
+          "original_name": "Elbrado",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Elbradus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7122,
+          "titulus_id": 1706,
+          "original_name": "Milone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Miles",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7123,
+          "titulus_id": 1706,
+          "original_name": "Hubilino",
+          "original_title": "",
+          "footnote_num": "6",
+          "footnote_text": "",
+          "normalized_name": "Hubilin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7124,
+          "titulus_id": 1706,
+          "original_name": "Frotardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Frotardus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7125,
+          "titulus_id": 1706,
+          "original_name": "Hubiloto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hubilotus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7126,
+          "titulus_id": 1706,
+          "original_name": "Bentone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Benedict",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7127,
+          "titulus_id": 1706,
+          "original_name": "Stephano",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Stephen",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7128,
+          "titulus_id": 1706,
+          "original_name": "Galterio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Galtherius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7129,
+          "titulus_id": 1706,
+          "original_name": "Emeneo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Emeneus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7130,
+          "titulus_id": 1706,
+          "original_name": "Gerardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gerard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1707,
+      "roll_id": 130,
+      "title": "T. cenobii sanctorum Stephani et Baudili, nemausis martiris. Morem p. v. completivus et ut vos p. n. oretis postulamus, pro demo Duranto (3), Poncio, Umberto, Garnerio, Augerio, Petro, Ugone, Silvio, Bernardo, Benedicto, Poncio, Petro.",
+      "location_name": "Nemausus",
+      "latin_text": "T. cenobii sanctorum Stephani et Baudili, nemausis martiris. Morem p. v. completivus et ut vos p. n. oretis postulamus, pro demo Duranto (3), Poncio, Umberto, Garnerio, Augerio, Petro, Ugone, Silvio, Bernardo, Benedicto, Poncio, Petro.\nSors (b) humana monet vivos sua funere fleci (e).\nSors humana monet quo labimur ante videre.\nSors humana monet sub corde suprema tenere.\nSors humana monet Acherontis clastra timere.\nSors humana monet morituros morte moveri (d).\nSors humana monet veniam tribundo mereri.\nSors humana monet defunctorum misereri.\nSors humana monent fratrem fratrique mederi.\nSentiat iste Boso fratrum pia volta suorum (e)\nMortuus ut mundo vivat super alta polorum\nVersus Bernardi pueri, vicecomitis filii.\nMortuus est abbias he nonmine Boso vocatus (f).\nMortuus est mundo, sed vivit in hetre (sc) beatus.\nHi hocus alterius sibi compacingo levabat (g),\nJejunans hic et vigilans carnem macerabat.\nVeri selector studuit paciensque manere (h),\nToto corde Deo cuepiabat et ipse placere.",
+      "pdf_page": 48,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7131,
+          "titulus_id": 1707,
+          "original_name": "Stephani",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Stephen",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7132,
+          "titulus_id": 1707,
+          "original_name": "Baudili",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Baudilus",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7133,
+          "titulus_id": 1707,
+          "original_name": "Duranto",
+          "original_title": "",
+          "footnote_num": "3",
+          "footnote_text": "... pour lequel un rouleau mortuaire fut en mission",
+          "normalized_name": "Durant",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Duranto"
+        },
+        {
+          "id": 7134,
+          "titulus_id": 1707,
+          "original_name": "Poncio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ponce",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7135,
+          "titulus_id": 1707,
+          "original_name": "Umberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Umbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7136,
+          "titulus_id": 1707,
+          "original_name": "Garnerio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Garnier",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7137,
+          "titulus_id": 1707,
+          "original_name": "Augerio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Auger",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7138,
+          "titulus_id": 1707,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7139,
+          "titulus_id": 1707,
+          "original_name": "Ugone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7140,
+          "titulus_id": 1707,
+          "original_name": "Silvio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Silvius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7141,
+          "titulus_id": 1707,
+          "original_name": "Bernardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7142,
+          "titulus_id": 1707,
+          "original_name": "Benedicto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Benedict",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7143,
+          "titulus_id": 1707,
+          "original_name": "Boso",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7144,
+          "titulus_id": 1707,
+          "original_name": "Bernardi pueri",
+          "original_title": "vicecomitis filii",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard the boy",
+          "normalized_role": "son of a viscount",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1708,
+      "roll_id": 130,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Fratres, oremus cum fletibus et rogetemus\nRegnum celorum, quod debi tibi Rex dominorum.\n\nVersus Raimundi pueri.\nPulvis et aura sumus, quia nos, dum stare putamus,\nLabimur, occidimus; pulvis et aura sumus.\nNon valet esse probum, non ditem, non generosum (a),\nNon juvat esse pium, non valet esse (b) probum.\nImpium atque pius, quoque rusticus et generosus\nIntereunt, obempt impius atque pius.\nMors genus omne rapit hominum, nec parcere novit;\nDegere quod potuit, mors genus omne rapit.\nParcere (c) debueras abbati sese Bosoni.\nIsti, si parcas, parcere debueras.",
+      "pdf_page": 49,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7145,
+          "titulus_id": 1708,
+          "original_name": "Raimundi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Raymond",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7146,
+          "titulus_id": 1708,
+          "original_name": "Bosoni",
+          "original_title": "abbati",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1709,
+      "roll_id": 130,
+      "title": "[XV] Carta vetus.",
+      "location_name": "",
+      "latin_text": "Mos est justorum defunctis auxiliari (d).\nSacrificando Deo valeant que summa lucrari,\nUt rogitant fratres huic ergo subveniamus (e),\nMercedem justi cum justis ut capiamus.\nNam famulando bonis, lucramur regna polorum (f),\nAd que ducatur Boso, speculum monachorum.\nMartir Baudilii sit ductor, deprecor, hujus\nQuo manet egregia cum Christo Virgo Maria.\n\nMarcus.\nJanua celestis siunctis pandet honestis,\nSpiritus abbatis jungetur purificatis.\nNam bene vino socios superna docendo,\nPerpluacat Christo, dum corpore mansit in isto.\nErgo jungatur, cum talis Boso probatur,\nEgregie turbe que summa vivit in urbe.",
+      "pdf_page": 49,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7147,
+          "titulus_id": 1709,
+          "original_name": "Boso",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7148,
+          "titulus_id": 1709,
+          "original_name": "Baudilii",
+          "original_title": "Martir",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Baudilus",
+          "normalized_role": "martyr",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7149,
+          "titulus_id": 1709,
+          "original_name": "Maria",
+          "original_title": "Virgo",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "Virgin Mary",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7150,
+          "titulus_id": 1709,
+          "original_name": "Christo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7151,
+          "titulus_id": 1709,
+          "original_name": "Marcus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Marcus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1710,
+      "roll_id": 130,
+      "title": "[XIV] 47 [39] S.d.- Beaumont, S. Pierre.",
+      "location_name": "Beaumont, S. Pierre",
+      "latin_text": "T.(c) BEATI PETRI APOSTOLI BELLOMONTENSIS ECCLESIE. Pro domno abbasto vestro Bosone vigilias, missas et helemosinas fecimus. Hoc ede idem 5 precamur ut p. n. defunctis facere digregnimi, pro abbatissa nostra Austoria (2) et Johanna et Benaias, bona (b) ministra, et Beatrice et Rotberti (c) comitis et filio ejus Vilelmi, Falconi et uxori ejus Beatrice et filio ejus Golfenio.",
+      "pdf_page": 49,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7152,
+          "titulus_id": 1710,
+          "original_name": "Bosone",
+          "original_title": "abbasto vostro",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boson",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7153,
+          "titulus_id": 1710,
+          "original_name": "Austoria",
+          "original_title": "abbatissa nostra",
+          "footnote_num": "2",
+          "footnote_text": "... (c'est-\u00e0-dire le 7 octobre)",
+          "normalized_name": "Austoria",
+          "normalized_role": "abbess",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7154,
+          "titulus_id": 1710,
+          "original_name": "Johanna",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Joanna",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7155,
+          "titulus_id": 1710,
+          "original_name": "Benaias",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Benaja",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7156,
+          "titulus_id": 1710,
+          "original_name": "Beatrice",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Beatrice",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7157,
+          "titulus_id": 1710,
+          "original_name": "Rotberti",
+          "original_title": "comitis",
+          "footnote_num": "c",
+          "footnote_text": "Le passage Pessimus ... pessimus iste latro, de petit module, est d\u00fb \u00e0 une autre main que celle du titre. De plus, les trois premiers mots Pessimus iste latro, \u00e9crits une seule fois, sont reli\u00e9s par un trait oblique aux deux vers suivants.",
+          "normalized_name": "Robert",
+          "normalized_role": "count",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7158,
+          "titulus_id": 1710,
+          "original_name": "Vilelmi",
+          "original_title": "filio ejus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William",
+          "normalized_role": "son of count Robert",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7159,
+          "titulus_id": 1710,
+          "original_name": "Falconi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Falcon",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7160,
+          "titulus_id": 1710,
+          "original_name": "Beatrice",
+          "original_title": "uxori ejus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Beatrice",
+          "normalized_role": "wife of William",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7161,
+          "titulus_id": 1710,
+          "original_name": "Golfenio",
+          "original_title": "filio ejus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Goffredo",
+          "normalized_role": "son of William and Beatrice",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1711,
+      "roll_id": 130,
+      "title": "[XV] 48 [25] S.d.- Leire.",
+      "location_name": "Leire",
+      "latin_text": "T.(c) LEIORENSIS ecclesi\u00e6. Anima Bosoni, Securiensis (sic) abbati (sic), 10 requiescat i. p. Christi. Amen. Supralibato abbati Bosoni Leiorensis conventus concedit celebrationem x Missarum pro karitate Dei.",
+      "pdf_page": 49,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7162,
+          "titulus_id": 1711,
+          "original_name": "Bosoni",
+          "original_title": "abbati",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boson",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Securiensis"
+        }
+      ]
+    },
+    {
+      "id": 1712,
+      "roll_id": 130,
+      "title": "49 [50] S.d.- Ambronay, N.-D. TITULU (sic)(d) SANCT\u00c6 MARI\u00c6 AMBRONIACENSIS ecclesie. Bosoniabbati missas et vigilias et helemosinas, quae facturi sumus alliis fidelibus, condescidem. Oravimus p. v., orate p. n.",
+      "location_name": "Ambronay, N.-D.",
+      "latin_text": "TITULU (sic)(d) SANCT\u00c6 MARI\u00c6 AMBRONIACENSIS ecclesie. Bosoniabbati missas et vigilias et helemosinas, quae facturi sumus alliis fidelibus, condescidem. Oravimus p. v., orate p. n.",
+      "pdf_page": 49,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7163,
+          "titulus_id": 1712,
+          "original_name": "Bosoni",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boson",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1713,
+      "roll_id": 130,
+      "title": "50 [12] S.d.- N\u00eemes, cath\u00e9drale (N.-D). T. BASILICE beatissime MARIE VIRGINIS NEMAUSINS SEDIS. Anima domni Bosonis abbatis et anim\u00e6 o. f. d., in Christi nomine, semper r. i. p. Oravimus pro domno abbate et vos orate p. n., G.(4) decano, W. de Brociano, P. beate memorie monaca. R. Bernicensi milite. P. milite ceterisque confratribus nostris.",
+      "location_name": "N\u00eemes, cath\u00e9drale",
+      "latin_text": "T. BASILICE beatissime MARIE VIRGINIS NEMAUSINS SEDIS. Anima domni Bosonis abbatis et anim\u00e6 o. f. d., in Christi nomine, semper r. i. p. Oravimus pro domno abbate et vos orate p. n., G.(4) decano, W. de Brociano, P. beate memorie monaca. R. Bernicensi milite. P. milite ceterisque confratribus nostris.",
+      "pdf_page": 49,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7164,
+          "titulus_id": 1713,
+          "original_name": "Bosonis",
+          "original_title": "domni ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boson",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7165,
+          "titulus_id": 1713,
+          "original_name": "G.",
+          "original_title": "decano",
+          "footnote_num": "4",
+          "footnote_text": "\u00c9d. supra, p. 554, n\u00b0 81 [79].",
+          "normalized_name": "G.",
+          "normalized_role": "dean",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7166,
+          "titulus_id": 1713,
+          "original_name": "W. de Brociano",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William of Brocchio",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Brociano"
+        },
+        {
+          "id": 7167,
+          "titulus_id": 1713,
+          "original_name": "P.",
+          "original_title": "beate memorie monaca",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "P.",
+          "normalized_role": "nun",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7168,
+          "titulus_id": 1713,
+          "original_name": "R.",
+          "original_title": "Bernicensi milite",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "R.",
+          "normalized_role": "knight",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7169,
+          "titulus_id": 1713,
+          "original_name": "",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Psalmody, S. Pierre"
+        }
+      ]
+    },
+    {
+      "id": 1714,
+      "roll_id": 130,
+      "title": "",
+      "location_name": "Maguelone, cath\u00e9drale.",
+      "latin_text": "Titulus (d) Magalone. Anima Bosonis abbatis et a. o. f., in Christi [n]omine :\nterram possideant viventium. [A]MHN.",
+      "pdf_page": 50,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7170,
+          "titulus_id": 1714,
+          "original_name": "Boson",
+          "original_title": "abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boson",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Maguelone"
+        }
+      ]
+    },
+    {
+      "id": 1715,
+      "roll_id": 130,
+      "title": "",
+      "location_name": "",
+      "latin_text": "<...> tu (a) qui non crimina ploras (b)\n<...> qui te peccando minoras\n<...> qui nummos semper honoras\n<...> qui nummos semper adoras\n<...> qui Christum tardus honoras\n<...> qui Christum tardus adoras\n<...> hominis id agendo peroras\n<...> argentum (c) quod conferet emolumentum (d)\n<...> argentum bene viventi noctumentum\n<...> argentum num virtum doctumentum\n<...> argentum tandem discrimina centum\n<...> argentum peccatis te monumentum\n<...> argentum peccatorum (e) monumentum\n<...> preciato (f) parum quod credebas fore carum (g)\n<...> precatio parum quod credebas fore clarum\n<...> precatio parum quod dulce putas set amarum\n<...> precatio parum quod te monstrabat avarum\n<...> precatio parum det acervos diviciarum\n<...> Multum (h) quod obesset habere (i)\n<...> Que non possant remanere\n<...> Que non posses retinere\n<...> Celesti sede carere\n<...> chura (j) qualis sit vita futura (k)",
+      "pdf_page": 50,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 1991,
+      "roll_id": 130,
+      "pdf_page": 36,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Ce rouleau est conserv\u00e9 dans une bo\u00eete, confectionn\u00e9e sp\u00e9cialement pour lui en f\u00e9vrier 1993."
+    },
+    {
+      "id": 1992,
+      "roll_id": 130,
+      "pdf_page": 36,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Mention du XVIII\u02c6 s. appuy\u00e9e sur un papier, coll\u00e9 au verso de l.\u2014 1282 (sur) ronas glba\u207a Preghiere fatti nelle diverse chiese galli- cane, associate nelle preci col monasterio de S\u00ba Giusto e Mauro de Sica, in occasione della morte dell'abbate di detto monasterio Bozone, seguita nelle none d'ottobre 12.. s."
+    },
+    {
+      "id": 1993,
+      "roll_id": 130,
+      "pdf_page": 36,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "X et XI contiennent l'\fontenc{encoding}{encycle d'un autre rouleau mortuaire, \u00e0 savoir celui de Selvo,"
+    },
+    {
+      "id": 1994,
+      "roll_id": 130,
+      "pdf_page": 36,
+      "pdf_half": "right",
+      "footnote_num": "(3)",
+      "text": "A ce sujet, cf. supra, p. 137, n. 3."
+    },
+    {
+      "id": 1995,
+      "roll_id": 130,
+      "pdf_page": 36,
+      "pdf_half": "right",
+      "footnote_num": "(4)",
+      "text": "J. Dufour, Boson, abb\u00e9 de Susso, p. 250."
+    },
+    {
+      "id": 1996,
+      "roll_id": 130,
+      "pdf_page": 36,
+      "pdf_half": "right",
+      "footnote_num": "(5)",
+      "text": "Cf. Gams, p. 824."
+    },
+    {
+      "id": 1997,
+      "roll_id": 130,
+      "pdf_page": 37,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "..."
+    },
+    {
+      "id": 1998,
+      "roll_id": 130,
+      "pdf_page": 37,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "... (c'est-\u00e0-dire le 7 octobre)"
+    },
+    {
+      "id": 1999,
+      "roll_id": 130,
+      "pdf_page": 37,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "... pour lequel un rouleau mortuaire fut en mission"
+    },
+    {
+      "id": 2000,
+      "roll_id": 130,
+      "pdf_page": 37,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Bosone, p. 20, n. 1."
+    },
+    {
+      "id": 2001,
+      "roll_id": 130,
+      "pdf_page": 37,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "\u00c9d. supra, p. 514, n\u00b0 122."
+    },
+    {
+      "id": 2002,
+      "roll_id": 130,
+      "pdf_page": 37,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "\u00c9d. supra, p. 554, n\u00b0 82 [80]."
+    },
+    {
+      "id": 2003,
+      "roll_id": 130,
+      "pdf_page": 37,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "\u00c9d. supra, p. 554, n\u00b0 81 [79]."
+    },
+    {
+      "id": 2009,
+      "roll_id": 130,
+      "pdf_page": 38,
+      "pdf_half": "left",
+      "footnote_num": "<0xC2>6",
+      "text": "(6)"
+    },
+    {
+      "id": 2004,
+      "roll_id": 130,
+      "pdf_page": 38,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "(1)"
+    },
+    {
+      "id": 2005,
+      "roll_id": 130,
+      "pdf_page": 38,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "(2)"
+    },
+    {
+      "id": 2006,
+      "roll_id": 130,
+      "pdf_page": 38,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "(3)"
+    },
+    {
+      "id": 2007,
+      "roll_id": 130,
+      "pdf_page": 38,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": "\u2074"
+    },
+    {
+      "id": 2008,
+      "roll_id": 130,
+      "pdf_page": 38,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": "(5)"
+    },
+    {
+      "id": 2010,
+      "roll_id": 130,
+      "pdf_page": 38,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Cf. Missa ad agenda mortuorum. Oratio:"
+    },
+    {
+      "id": 2011,
+      "roll_id": 130,
+      "pdf_page": 38,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "Atilius, premier abb\u00e9 de S. Thib\u00e9ry, mort apr\u00e8s 810 (cf. Gallia christiana, t. VI, col. 708)."
+    },
+    {
+      "id": 2012,
+      "roll_id": 130,
+      "pdf_page": 38,
+      "pdf_half": "right",
+      "footnote_num": "(3)",
+      "text": "Deodatus, \u00e9lu abb\u00e9 de S. Thib\u00e9ry en 1065"
+    },
+    {
+      "id": 2013,
+      "roll_id": 130,
+      "pdf_page": 38,
+      "pdf_half": "right",
+      "footnote_num": "(4)",
+      "text": ""
+    },
+    {
+      "id": 2014,
+      "roll_id": 130,
+      "pdf_page": 38,
+      "pdf_half": "right",
+      "footnote_num": "(5)",
+      "text": ""
+    },
+    {
+      "id": 2015,
+      "roll_id": 130,
+      "pdf_page": 38,
+      "pdf_half": "right",
+      "footnote_num": "(6)",
+      "text": ""
+    },
+    {
+      "id": 2016,
+      "roll_id": 130,
+      "pdf_page": 38,
+      "pdf_half": "right",
+      "footnote_num": "(a)",
+      "text": "monacho, abr\u00e9g\u00e9, \u00e9crit au-dessus du nom pr\u00e9c\u00e9dent, comme au-dessus des noms suivants."
+    },
+    {
+      "id": 2017,
+      "roll_id": 130,
+      "pdf_page": 38,
+      "pdf_half": "right",
+      "footnote_num": "(b)",
+      "text": "peccata d ray\u00e9 apr\u00e8s ce mot.- (c) L'initiale de ce mot et la phrase sanctorum ... Biterris sont rubriqu\u00e9s."
+    },
+    {
+      "id": 2018,
+      "roll_id": 130,
+      "pdf_page": 39,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "(1)."
+    },
+    {
+      "id": 2019,
+      "roll_id": 130,
+      "pdf_page": 39,
+      "pdf_half": "left",
+      "footnote_num": "(a)",
+      "text": "(a) Inutile devant ce mot."
+    },
+    {
+      "id": 2020,
+      "roll_id": 130,
+      "pdf_page": 39,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "(2)"
+    },
+    {
+      "id": 2021,
+      "roll_id": 130,
+      "pdf_page": 39,
+      "pdf_half": "left",
+      "footnote_num": "(b)",
+      "text": "(b)"
+    },
+    {
+      "id": 2022,
+      "roll_id": 130,
+      "pdf_page": 39,
+      "pdf_half": "left",
+      "footnote_num": "(3)",
+      "text": "(3) Sur Arnaldus (= Arnallus), \u00e9v\u00e9que de B\u00e9ziers de 1096 \u00e0 1121, puis arch\u00e9v\u00eane de Narbonne de 1121 au 30 septembre 1139 (jar de sa mort), \u00e9galement l\u00e9gat pontifical sous Honorius II (1124-1130) et Innocent II (1130-1143), cf."
+    },
+    {
+      "id": 2023,
+      "roll_id": 130,
+      "pdf_page": 39,
+      "pdf_half": "left",
+      "footnote_num": "(4)",
+      "text": "(4) Cf. d\u00e9but d'une oraison de la messe pour un pr\u00eatre d\u00e9funt: {\u00ab} Propiciare, que \u0441\u0443\u043cus Domine, anime famuli tui {\u00bb (\u00e9d. P. L., t. LXXV, col. 1018)."
+    },
+    {
+      "id": 2024,
+      "roll_id": 130,
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "footnote_num": "(a)",
+      "text": "(a) Les derni\u00e8res lettres des vers sont \u00e9crites une seule fois et reli\u00e9es par un trait oblique aux lettres qui pr\u00e9c\u00e8dent : on vaut pour les premier et deuxi\u00e8me vers, vor at les troisi\u00e8me et quatri\u00e8me vers ;"
+    },
+    {
+      "id": 2025,
+      "roll_id": 130,
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "footnote_num": "(b)",
+      "text": "(b) Les lettres la lettre s qu'\u00e0 ach\u00e8ve chacun des quatre premiers vers vaut pour chacun de ces vers ;"
+    },
+    {
+      "id": 2026,
+      "roll_id": 130,
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "footnote_num": "(c)",
+      "text": "(c) Les lettres nido sont \u00e9crites une seule fois pour ces vers et le vers suivant et reli\u00e9es par un trait oblique aux lettres qui pr\u00e9c\u00e9dent."
+    },
+    {
+      "id": 2027,
+      "roll_id": 130,
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "footnote_num": "(d)",
+      "text": "(d) Le final de ce vers et du vers suivant est \u00e9crit une seule fois et reli\u00e9 par un trait oblique aux lettres qui le pr\u00e9ludent."
+    },
+    {
+      "id": 2028,
+      "roll_id": 130,
+      "pdf_page": 39,
+      "pdf_half": "right",
+      "footnote_num": "(e)",
+      "text": "(e) tout ajout\u00e9 en interligne."
+    },
+    {
+      "id": 2029,
+      "roll_id": 130,
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "Ce mot est ajout\u00e9 en interligne."
+    },
+    {
+      "id": 2030,
+      "roll_id": 130,
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "corrig\u00e9 en Qui ."
+    },
+    {
+      "id": 2031,
+      "roll_id": 130,
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "footnote_num": "c",
+      "text": "Le passage Pessimus ... pessimus iste latro, de petit module, est d\u00fb \u00e0 une autre main que celle du titre. De plus, les trois premiers mots Pessimus iste latro, \u00e9crits une seule fois, sont reli\u00e9s par un trait oblique aux deux vers suivants."
+    },
+    {
+      "id": 2032,
+      "roll_id": 130,
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "footnote_num": "d",
+      "text": "La finale atur de ce vers et du vers suivant est \u00e9crite une seule fois et reli\u00e9e par un trait oblique aux lettres qui la pr\u00e9c\u00e9dent."
+    },
+    {
+      "id": 2033,
+      "roll_id": 130,
+      "pdf_page": 40,
+      "pdf_half": "left",
+      "footnote_num": "e",
+      "text": "La finale orum de ce vers et du vers suivant est \u00e9crite une seule fois et reli\u00e9e par un trait oblique et reli\u00e9e par un trait oblique aux lettres qui la pr\u00e9sident."
+    },
+    {
+      "id": 2034,
+      "roll_id": 130,
+      "pdf_page": 40,
+      "pdf_half": "right",
+      "footnote_num": "(a)",
+      "text": "Le second i'de cor mot est ajout\u00e9 en interligne."
+    },
+    {
+      "id": 2035,
+      "roll_id": 130,
+      "pdf_page": 40,
+      "pdf_half": "right",
+      "footnote_num": "(b)",
+      "text": "Les finales des vers, identiques deux \u00e0 deux, sont \u00e9crites une seule fois et rel\u00e8ves aux derniers lettres qui les pr\u00e9c\u00e8dent un trait oblique."
+    },
+    {
+      "id": 2036,
+      "roll_id": 130,
+      "pdf_page": 40,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Gregorius d'Aster, fils d'Arnaud-Guillaume d'Aster, cit\u00e9 comme abb\u00e9 de S. P\u00e9-de-G\u00e9n\u00e8res en 1112 par le Gallia christiana (t. I, col. 1254), qui toutefois ne le mentionne pas comme \u00e9v\u00e8que de Tarbes; cependant, J.-B. Laffon (Le dioc\u00e8se de Tarbes, 1971, p. 253) le conna\u00eet comme tel."
+    },
+    {
+      "id": 2037,
+      "roll_id": 130,
+      "pdf_page": 41,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "Cette mention est ajout\u00e9e en interligne."
+    },
+    {
+      "id": 2038,
+      "roll_id": 130,
+      "pdf_page": 41,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "sceleres corrig\u00e9 en celeres paz grattage du s initial."
+    },
+    {
+      "id": 2039,
+      "roll_id": 130,
+      "pdf_page": 41,
+      "pdf_half": "left",
+      "footnote_num": "c",
+      "text": "Les derniers vers de ce po\u00e8me sont si effac\u00e9s, qu'ils sont le plus souvent illisibles m\u00eame aux rayons ultraviolets."
+    },
+    {
+      "id": 2040,
+      "roll_id": 130,
+      "pdf_page": 42,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Bego le V\u00e9n\u00e9rable, abb\u00e9 de Conques, cit\u00e9 par la Gallia christiana (t. I, col. 244) de 1099 \u00e0 1108."
+    },
+    {
+      "id": 2041,
+      "roll_id": 130,
+      "pdf_page": 42,
+      "pdf_half": "left",
+      "footnote_num": "(a)",
+      "text": "text corrig\u00e9 en part des expunctuation du premier e."
+    },
+    {
+      "id": 2042,
+      "roll_id": 130,
+      "pdf_page": 42,
+      "pdf_half": "left",
+      "footnote_num": "(c)",
+      "text": "Galterio, Arimando ajout\u00e9 en interligne."
+    },
+    {
+      "id": 2043,
+      "roll_id": 130,
+      "pdf_page": 43,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Probablement Rotbertus II, comte d'Auvergne (1060 vers 1096); cf. Mas-Latrie, Tr\u00e9sor de chronologie, col. 1546."
+    },
+    {
+      "id": 2044,
+      "roll_id": 130,
+      "pdf_page": 43,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "Le Gallia christiana (t. II, col. 361-362) ne mentionne ni Rotbertus, ni Odilo, ni Petrus,"
+    },
+    {
+      "id": 2045,
+      "roll_id": 130,
+      "pdf_page": 43,
+      "pdf_half": "right",
+      "footnote_num": "(3)",
+      "text": "peut-\u00eatre \u00e0 identifier avec l\u2019abb\u00e9 de Manglieu lors de 818 \u00e0 833 par le Gallia christiana, loc. cit."
+    },
+    {
+      "id": 2046,
+      "roll_id": 130,
+      "pdf_page": 44,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Le Gallia christiana (t. II, col. 357-358)"
+    },
+    {
+      "id": 2047,
+      "roll_id": 130,
+      "pdf_page": 44,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Peut-\u00eatre Robertus I, abb\u00e9 d'Issoire, attest\u00e9 sous le r\u00e8gne de Lothaire; cf. Gallia Christiana, loc. cit."
+    },
+    {
+      "id": 2048,
+      "roll_id": 130,
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "footnote_num": "g",
+      "text": "pro Pontio abbate ajout\u00e9 en interligne."
+    },
+    {
+      "id": 2049,
+      "roll_id": 130,
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "anime, omnis, ajout\u00e9 en interligne."
+    },
+    {
+      "id": 2052,
+      "roll_id": 130,
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "footnote_num": "d",
+      "text": "monacho abjur\u00e9, \u00e9rit au-dessus du nom pr\u00e9c\u00e9dent."
+    },
+    {
+      "id": 2053,
+      "roll_id": 130,
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "footnote_num": "e",
+      "text": "clerico ajout\u00e9 en interligne."
+    },
+    {
+      "id": 2050,
+      "roll_id": 130,
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Francoe, priore de S. Pou\u00e7an-sur-Sioule, puis abb\u00e9 de Tournus (vers 1144-1121); cf. Gallia christiana, t. II, col. 373 et t. IV, col. 968."
+    },
+    {
+      "id": 2051,
+      "roll_id": 130,
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Gaufrido, prieur de S. Pour\u00e7an-sur-Sioule, cit\u00e9 par la Gallia christiana (t. II, col. 373) de 1116 \u00e0 1125."
+    },
+    {
+      "id": 2054,
+      "roll_id": 130,
+      "pdf_page": 45,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "Boso ajout\u00e9 en interligne."
+    },
+    {
+      "id": 2055,
+      "roll_id": 130,
+      "pdf_page": 45,
+      "pdf_half": "right",
+      "footnote_num": "b",
+      "text": "scit rave apr\u00e8s ce mot."
+    },
+    {
+      "id": 2056,
+      "roll_id": 130,
+      "pdf_page": 45,
+      "pdf_half": "right",
+      "footnote_num": "c",
+      "text": "Geraldi filii raj\u00e9 apr\u00e8s ce mot."
+    },
+    {
+      "id": 2057,
+      "roll_id": 130,
+      "pdf_page": 45,
+      "pdf_half": "right",
+      "footnote_num": "d",
+      "text": "Cette pi\u00e8ce de vers est de la m\u00eame main que les pr\u00e9c\u00e9dentes ; on peut remarquer toutefois que le scribe a retill\u00e9 sa plume pour celle-ci."
+    },
+    {
+      "id": 2058,
+      "roll_id": 130,
+      "pdf_page": 45,
+      "pdf_half": "right",
+      "footnote_num": "e",
+      "text": "la finale est identique pour ce vers et le vers suivant, asi \u00e9crite une seule fois et reli\u00e9e par un trait aux lettres pr\u00e9c\u00e9dentes."
+    },
+    {
+      "id": 2059,
+      "roll_id": 130,
+      "pdf_page": 45,
+      "pdf_half": "right",
+      "footnote_num": "f",
+      "text": "velagmina corrig\u00e9 en velamina par grattage du g."
+    },
+    {
+      "id": 2060,
+      "roll_id": 130,
+      "pdf_page": 45,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Le Gallia christiana (t. IV, col. 476) ne mentionne ni Salomon, ni Girbertus, ni Herimannus dans la liste incompl\u00e8te des abb\u00e9s de Corbigny."
+    },
+    {
+      "id": 2061,
+      "roll_id": 130,
+      "pdf_page": 45,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Abb\u00e9 de Corbigny, cit\u00e9 par le Gallia christiana (t. IV, col. 476)."
+    },
+    {
+      "id": 2062,
+      "roll_id": 130,
+      "pdf_page": 45,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Abb\u00e9 de Corbigny, cit\u00e9 en 1107 par le Gallia christiana (t. IV, col. 476)."
+    },
+    {
+      "id": 2068,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "*",
+      "text": ""
+    },
+    {
+      "id": 2071,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "abbate, abr\u00e9g\u00e9, \u00e9crit au-dessus du nom pr\u00e9c\u00e9dent."
+    },
+    {
+      "id": 2072,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "Stephano ajout\u00e9 en interligne."
+    },
+    {
+      "id": 2073,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "c",
+      "text": "abbate, abr\u00e9g\u00e9, \u00e9crit au-dessus du nom pr\u00e9c\u00e9dent."
+    },
+    {
+      "id": 2074,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "d",
+      "text": "abbate, \u00e9crit au-dessus du nom pr\u00e9c\u00e9dent."
+    },
+    {
+      "id": 2079,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "*",
+      "text": "La syllabe vi de ce mot est ajout\u00e9e en interligne."
+    },
+    {
+      "id": 2063,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Sur ce personnage, cf. supra, p. 457, n. 2."
+    },
+    {
+      "id": 2069,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "pro Joceranno (4) abbate (c),"
+    },
+    {
+      "id": 2064,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Abb de V\u00e9zelay, cit\u00e9 par la Gallia christiana (loc. cit.) en 1074-1075."
+    },
+    {
+      "id": 2070,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": ""
+    },
+    {
+      "id": 2065,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": ""
+    },
+    {
+      "id": 2075,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": ""
+    },
+    {
+      "id": 2066,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": ""
+    },
+    {
+      "id": 2076,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": ""
+    },
+    {
+      "id": 2067,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": ""
+    },
+    {
+      "id": 2077,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": ""
+    },
+    {
+      "id": 2078,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "6",
+      "text": ""
+    },
+    {
+      "id": 2080,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "6",
+      "text": ""
+    },
+    {
+      "id": 2081,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "(a)",
+      "text": "De ci que ne subsistent que ces mots et la partie sup\u00e9rieure de de deuxieme ligne du titre, ce que montre que la fin de IX (tr\u00e8s courte dans son \u00e9tat actuel) a \u00e9t\u00e9 d\u00e9coup\u00e9e et r\u00e9unie par une nouvelle attache \u00e0 X. \u2014 (6b)"
+    },
+    {
+      "id": 2082,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "",
+      "text": "Le second de ce moi est aussi en interligne."
+    },
+    {
+      "id": 2083,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "(a)",
+      "text": "De ci que ne subsistent que ces mots et la partie sup\u00e9rieure de de deuxieme ligne du titre, ce que montre que la fin de IX (tr\u00e8s courte dans son \u00e9tat actuel) a \u00e9t\u00e9 d\u00e9coup\u00e9e et r\u00e9unie par une nouvelle attache \u00e0 X. \u2014 (6b)"
+    },
+    {
+      "id": 2084,
+      "roll_id": 130,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "",
+      "text": "Le second de ce moi est aussi en interligne."
+    },
+    {
+      "id": 2085,
+      "roll_id": 130,
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "faciatis corrig\u00e9 en fautites."
+    },
+    {
+      "id": 2086,
+      "roll_id": 130,
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "Cette derni\u00e8re phrase a \u00e9t\u00e9 ajout\u00e9e par une nouvelle main."
+    },
+    {
+      "id": 2087,
+      "roll_id": 130,
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "footnote_num": "c",
+      "text": "Omission du mot Tilulus."
+    },
+    {
+      "id": 2088,
+      "roll_id": 130,
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "footnote_num": "d",
+      "text": "cunctos corrig\u00e9 en cunctos par addition d'un c en interligne."
+    },
+    {
+      "id": 2089,
+      "roll_id": 130,
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "footnote_num": "e",
+      "text": "Le d\u00e9but de ce titre, jusqu'\u00e0 ce que mot compris, est rubriqu\u00e9."
+    },
+    {
+      "id": 2090,
+      "roll_id": 130,
+      "pdf_page": 47,
+      "pdf_half": "left",
+      "footnote_num": "f",
+      "text": ""
+    },
+    {
+      "id": 2091,
+      "roll_id": 130,
+      "pdf_page": 50,
+      "pdf_half": "left",
+      "footnote_num": "(a)",
+      "text": "gliscit corrig\u00e9 en gliscit par addition d'un s en interligne ; un i inutile pr\u00e9c\u00e8de ce mot."
+    },
+    {
+      "id": 2092,
+      "roll_id": 130,
+      "pdf_page": 50,
+      "pdf_half": "left",
+      "footnote_num": "(b)",
+      "text": "Corrigez cohortes. \u2014 La syllabe vi de ce mot est ajout\u00e9e en interligne."
+    },
+    {
+      "id": 2093,
+      "roll_id": 130,
+      "pdf_page": 50,
+      "pdf_half": "left",
+      "footnote_num": "(c)",
+      "text": "La partie gauche de cette derni\u00e8re feuille de parchemin est tr\u00e8s endommag\u00e9e."
+    },
+    {
+      "id": 2094,
+      "roll_id": 130,
+      "pdf_page": 50,
+      "pdf_half": "left",
+      "footnote_num": "(d)",
+      "text": "Les mots Titulus [...] Magalone, abreg\u00e9s et plac\u00e9s en entier la premi\u00e8re et la deuxi\u00e8me ligne de ce titre, sont appos\u00e9s dans une \u00e9criture de tr\u00e8s petit module ; ils sont vraisemblablement d'une autre main que le reste du titule."
+    },
+    {
+      "id": 2095,
+      "roll_id": 130,
+      "pdf_page": 50,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Fulco I, abb\u00e9 de Psalmody, cit\u00e9 par la Gallia christiana (t. VI, col. 474-475) de 1097 \u00e0 1115."
+    }
+  ]
+}

@@ -1,55 +1,35 @@
 {
   "roll": {
     "id": 81,
-    "roll_num": "134",
-    "date_str": "S.d.",
-    "title": "S.d. [premi\u00e8re moiti\u00e9 du XIIS s.] Rouleau mortuaire de Tabbaye [de S. Pierre] de Pr\u00e9aux. L. Delisle (Rouleaux des morts du IX* au XVe s, P. 360, n XLVI) suppose que lc Gallia 5 christiana (t. VII, col. 561) fait allusion \u00e0 un rouleau mortuaire de Tabbaye de Pr\u00e9aux, quand, Toccasion du d\u00e9c\u00e8s de Mathilde T\u00e8re , abbesse de Chelles; morte en 1112, il \u00e9crit Eadem haud dubie quae in titulis multarum ecclesiarum quibuscum Pratellensis societatem habebat, in titulo Calensis abbatiae commendatur Ce  rouleau   mortuaire  est le m\u00eame que celui   d\u00e9crit   par Mabillon ( Annales   ordinis sancti 10 Benedicti, t. VI, p. 191) () de la mani\u00e8re suivante",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (4)",
-    "pdf_pages": "57,58",
+    "roll_num": 73,
+    "date_str": "S.d.[premi\u00e8re moiti\u00e9 du XI\u1d49 s.]",
+    "title": "Titres provenant d\u2019un rouleau mortuaire anonyme.",
+    "manuscripts": "A. Original perdu.\nB. Paris, B.N.F., lat. 8491, fol. 1 (XI\u1d49 s.).\na. L. Delisle, Rouleaux des morts du IX\u1d49 au XIV\u1d49 s., p. 47, n\u00b0 XVIII, d'apr\u00e8s B.",
+    "pdf_source": "1",
+    "pdf_pages": "70",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": [
+  "tituli": [
     {
-      "id": 36125,
+      "id": 592,
       "roll_id": 81,
-      "pdf_page": 57,
+      "title": "1 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "",
+      "latin_text": "Si nil post obitum prodest commissa fateri\nNec tua multor fixis sententia verbis,\nHae ecce mundi, scilicet quod lege vetatur:\nFrater quoniam modo decorum modo lavare relicui,\nHis pede, subito qui vivo corrigit ante.\nIn tormenta cadunt quam talia erre subdito.\nNam qui, quavis duo perstant corde rechelle.\nSi qua tamen obstata quisquam de morte rediret,\nTamen obstata quisquam de morte rediret,\nCredere oporto ponere timbeut laud.\nIllud quidem esse effectum non est ipsum ullum.\nNos autem, dum vis mater, dum leges vigemus,\nOmn defuncti perterret nunius Adam,\nDum locus est fundi, dum non injuria petuntur,\nNec obstabitur pistur janua seri (id est tardis).",
+      "pdf_page": 70,
       "pdf_half": "left",
-      "footnote_num": "1",
-      "text": "son sujet, cf. D. de Rouet, Saint-Pierre de Le Pr\u00e9aux cartulaire.. ( 2005, p. XLII et n. 181. 1034-1227 L ), Paris; Mathildis de Coucy, abbesse de Jouarre,"
+      "entities": []
     },
     {
-      "id": 36126,
+      "id": 593,
       "roll_id": 81,
-      "pdf_page": 57,
+      "title": "2 S.d.- Fleury ?",
+      "location_name": "Fleury",
+      "latin_text": "Hec amor pio semper medicina carmina\nGenta salutiferis debitatis ab acce coronis,",
+      "pdf_page": 70,
       "pdf_half": "left",
-      "footnote_num": "2",
-      "text": "en 1103 XII\"   et cf. J au XIII Qu\u00e9guiner; Jouarre au Notre-1 Dame  s. % dans de Labbaye royale \u00c9d. D. Jouarre, Paris; Rouet, 1961, t. I, P. 89. op. cit., P. 153, n? A 167."
-    },
-    {
-      "id": 36127,
-      "roll_id": 81,
-      "pdf_page": 58,
-      "pdf_half": "left",
-      "footnote_num": "1",
-      "text": "Cuic"
-    },
-    {
-      "id": 36128,
-      "roll_id": 81,
-      "pdf_page": 58,
-      "pdf_half": "left",
-      "footnote_num": "2",
-      "text": "rocalll\u00e9s fort  usn 80 avec diverses  Castellum pourraient comme Le"
-    },
-    {
-      "id": 36129,
-      "roll_id": 81,
-      "pdf_page": 58,
-      "pdf_half": "left",
-      "footnote_num": "3",
-      "text": "onu, a Uaiora con (Sarthe; arr: La Fl\u00e8che; Pontvallain) cer dans rien ne permet de se pronon- le cas de ce Cf. fragment. supra, P. 605, n. 1."
+      "entities": []
     }
-  ]
+  ],
+  "footnotes": []
 }

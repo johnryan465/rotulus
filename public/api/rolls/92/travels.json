@@ -1,0 +1,108 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Bourges, France",
+    "coords": [
+      47.0833,
+      2.4
+    ],
+    "year": 1097,
+    "date_str": "[1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": false,
+    "description": "Origin: Titre de Baudri de Bourgueil : Titre compos\u00e9 par B..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Pictavum",
+    "coords": null,
+    "year": 1097,
+    "date_str": "[1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": true,
+    "description": "Gerold ()"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Cenomannia",
+    "coords": null,
+    "year": 1097,
+    "date_str": "[1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": true,
+    "description": "Joel ()"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Andegavis",
+    "coords": null,
+    "year": 1097,
+    "date_str": "[1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": true,
+    "description": "Nathaniel ()"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.25,
+      4.0333
+    ],
+    "year": 1097,
+    "date_str": "[1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": false,
+    "description": "Reginald ()"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Arverne/Auvergne",
+    "coords": null,
+    "year": 1097,
+    "date_str": "[1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": true,
+    "description": "Urban II (pope)"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Cenomannia/Maine",
+    "coords": null,
+    "year": 1097,
+    "date_str": "[1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": true,
+    "description": "Hodel ()"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Aurelianis/Orleans",
+    "coords": null,
+    "year": 1097,
+    "date_str": "[1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": true,
+    "description": "John ()"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Pictava/Poitiers",
+    "coords": null,
+    "year": 1097,
+    "date_str": "[1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": true,
+    "description": "Gerald ()"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Andegavia/Anjou",
+    "coords": null,
+    "year": 1097,
+    "date_str": "[1097, apr\u00e8s le 6 septembre]",
+    "is_approximate": true,
+    "description": "Nathaniel ()"
+  }
+]

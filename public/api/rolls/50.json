@@ -1,47 +1,233 @@
 {
   "roll": {
     "id": 50,
-    "roll_num": "88",
-    "date_str": "S.d.",
-    "title": "S.d. [1097, apr\u00e8s le 6 septembre] Ede Bompos\u00e9pat Baudri de Bourgueil pour le rouleau mortuaire d' Audebert, ~ que de Bourges < et abb\u00e9 de D\u00e9ols (t 6 septembre 1097) . archev\u00ea- 4 Orginal perdu son des 'sujet, cf. A. acles des Gandilhon, Tieurs archev\u00eaques Catalogue \u00e0 Van de Bourges P 1200, ant\u00e9 XXVI-XXVII = Bourges-Paris, P. 173. 6 JY 1927, Tilliette, op. cil., t. I, [1097]",
-    "manuscripts": "B. Vaticano; _ Reg Jat. 1351, fol. 28 (XIIS s). 1 0. A Duchesne, Historiae Francorum Alexandri Petavii , scriptores; Paris t. IV, 1641, P 253, 6. Gallia christiana; t. IL, col. 45. ex veteri codice L ms. Delisle; Rouleaux des C. P L., t morts du IX' au XV CLXVI, col. 1184. d. po\u00e9tiques de Baudri de s, p. 144, n\" XXVI. -e. P Bowrgueil (1046-1130). \u00c9dition Abrahams; Vatican_ Les \u0153uvres Paris; 1926, p. 62, n' critique 15 Carmina, 'LVIL  dapr\u00e8s B. publi\u00e9e dapr\u00e8s le e. ms: du Heidelberg  1979, p 49, n? 22, K: Hilbert, Baldricus Po\u00ebmes; Paris,  dapr\u00e8s B. ~ fJY Burgulianus. tI, 1998, p. 43,n? 22. Tilliette, Baudri de Bourgueil IrDCCTIoN  JY Tilliette; loc. cit. Aqu\u00c9  L Delisle, 1872, F Notes p.31,n? LVIL sur les po\u00e9sies de Baudri; abb\u00e9 de Bourgueil +, dans Romania, t I, 20 Audebert, \u00e0 la fois= mourut 1e 6 abb\u00e9 de D\u00e9ols  septembre partir de jours 1097, 1087) apr\u00e8s avoir et archev\u00eaque exerc\u00e9 cette de Le derni\u00e8re Bourges rouleau~ charge partir de 1092), \u00c9itre mortuaire, qui partit durant r\u00e9dig\u00e9 probablement quatre ans et seize par Baudri de Bourgueil de D\u00e9ols; en Phonneur a pour de ce terminus 0 personnage quo 1097 , fait car le long allusion \u00e0 dautres rotuli",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "42",
+    "roll_num": 57,
+    "date_str": "S.d. [X\u00b0 s.]",
+    "title": "Titre compos\u00e9 \u00e0 Fleury.",
+    "manuscripts": "A. Original perdu.\nB. Paris, B. N. F., lat. 8674, fol. 112v (X\u00b0 s.).",
+    "pdf_source": "1",
+    "pdf_pages": "36,37",
     "is_verified": 0
   },
-  "tituli": [],
+  "tituli": [
+    {
+      "id": 104,
+      "roll_id": 50,
+      "title": "20 juin ...\u2014Fleury.",
+      "location_name": "Fleury",
+      "latin_text": "Tristia corda solent mestum quia promere carmen,\nSpargere nec radius nube tegente suos\nFurva, sydeis quanquam clarescat in oris\nPhebus, quadrigis qui macat ignomivis,\nNec crescat condina dolor sub corde latendo,\nCidumus abstracti (a) carmina nos elegi,\nQuos sors exiliti tenet, eheu, mesta vetusti,\nQue veram requiem denegat adque diem\nNon illustratum, semper sed lumine plenum,\nCernere, quem superus occupat ecce chorus\nAngelorum, quamvis hac perce luce fruatur,\nQuam Quicumque videt, ambit habere semel,\nEst quia summa quies, simul est gloria perpes,\nNullus c\u00e6cesat, nemo que moritur.\nNoscere quam quisplos pleno notamine gliscis,\nPerlegie divinos corde tenance libros,\nIn quis perpetuae quanquam sint dogmata vitae,\nEt mentem supera quamvis ad astra ve[h]lant,\nQuam sit amoena pie non pandant gloria vite,\nA qua culpati pellimur heu miseri.\nPervigil et quoniam non mansit vivere cura",
+      "pdf_page": 36,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 278,
+          "titulus_id": 104,
+          "original_name": "Phebus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Phoebus",
+          "normalized_role": "god",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "roll_id": 50,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Atque bonum summum <...> habere Deum,\nQue sunt ejus verae sufferingere pericula cunctis\nCogitur, exicii solvere neque vinces\nHinc infirmare, cecumus nosque mecumur.\nDespicimur, tra[h]imur, cedimur et morimur,\nEt baratri poenas post ism veremur acerbas;\nEt quoniam nobis servari est iscis,\nErat nos fuos albveri proditus insonis,\nQui niza patrio jam sedet in solo,\nAt quem post fragile respirat sagmata carnis,\nSalvatum qui sequ sanguine Domini.\nIs patri vestrum [?] commendet albumm,\nQuom seros loctalis traxit ad alta poli,\nFratribus et vales coelorum pandit hiantes,\nE xstis carum errorem quo[s] gemitis.\nDenique, loctali quia jungimur [?] ordine vobis,\nPascimor, o fratres, fratribus ut memores\nSitis quos mortis suis ultum exit in astris,\nSubtraxitque solo, reddidit atque polo,\nNomina sed super veludi inrita cinis in albo\nCum gemitu vobis pandimus et lacrimas;\nFine recente solo liquerunt rite proteum,\nMagnique nobismet damna dedere sermet,\nAtque jiante pro monachorum sydera, patre\nPromuerre chori scandere cum superis.\nHos syclus coeli Benedictus in ade ducavit\nNecnon a cunis hos dapibus aluit,\nReddidit co elo dictos ceo credimus alto;\nQuessamus atque his parcite cum reliquis,\nEt quanquam meritis condantur in aethere coeli,\nVester amor dictum poscat eo et patrem,\nQuatinus aethereis condi mereantur in oris\nAtque Benedictum cerne necne Deum;\nCujus in ade pater Raimardus nomine fulget,\nMundior hic Auro, purior atque vitro,\nEt deconta pius praecelso stemate natus.",
+      "pdf_page": 37,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 279,
+          "titulus_id": 105,
+          "original_name": "Deum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "God",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 280,
+          "titulus_id": 105,
+          "original_name": "Domini",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lord",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 281,
+          "titulus_id": 105,
+          "original_name": "Benedictus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Benedict",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 282,
+          "titulus_id": 105,
+          "original_name": "Benedictum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Benedict",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 283,
+          "titulus_id": 105,
+          "original_name": "Raimardus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Raimard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 284,
+          "titulus_id": 105,
+          "original_name": "Auro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Auro",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "roll_id": 50,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Hunc Rannulfus (4) qui meritis sequitur,\nPost <...> adest claro qui docmate pollet,\nStemate nobilis hic, nobilior meritis.\nHujus si laudes, decet ut, quis scribere vellet,\nQuiret millenis haud reboare suis.\nQuas nec si baratri sosen postra[hj]erent ab imis\nHomerus, Silenus, Orpheus et Tritus.\nHi ficore non paturi utii pileto secundus;\nEloquar ut brevis, viat ubique pius.\nHinc quoque prelatis digne nos subdimur almis,\nQui virtute valent omnimodisque vigent.\nMensibus denos jam volverat ordine soles\nJunius, hujic templi cum bifores adit.\nLaetifer exempli B[enedicti] semper alumni,\nQui pater est monachis atque salus laicis.\nCom[m]joda digna precum confestim reddimus illis,\nSubstractos mundo quos gemisito miseric.\nPoscentes sanctis mereantur in aethere jungi\nQuatinus, excelsum cerne necere Deum,\nQuos sequier carnis post sacmata dura quaetis\nVirgineaco polo promerere voce melos.\nDenique mordemus verbis stultosque fatemur\nConque pilatores spermneus, exuvias\nQui plent compend secudum scedas quis non bene norunt,\nEt dum plena vidend verba, chachinna movent;\nHinc coxas tundunt, se doctos exsegue jactant,\nAc fibredentes palificant similes,\nIpsaque ebetes despicuent qui nunquam noscere possunt.\nDicimus en ebetes hos asinisque pares,\nNecnon molosi lapidados stercore inormis,\nEt dignos fetidis plaudimus esse thoris.\nQuos cuncti patres simul et compiscete fratres,\nPlanaque nunc vobis grata poema sint.\nAtque superborum tundentes turgida colla,\nMecum pompisones spernite, quos, melos.\nNunc fratum psalms ornatuna funer\u00e6 et hymn\u012bs,\nAc animas superis reddite, posco, choris",
+      "pdf_page": 37,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 285,
+          "titulus_id": 106,
+          "original_name": "Rannulfus",
+          "original_title": "",
+          "footnote_num": "4",
+          "footnote_text": "D'apr\u00e8s a, un mot doit manquer ici.",
+          "normalized_name": "Rannulf",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 286,
+          "titulus_id": 106,
+          "original_name": "Homerus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Homer",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 287,
+          "titulus_id": 106,
+          "original_name": "Silenus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Silenus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 288,
+          "titulus_id": 106,
+          "original_name": "Orpheus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Orpheus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 289,
+          "titulus_id": 106,
+          "original_name": "Tritus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Triton",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 290,
+          "titulus_id": 106,
+          "original_name": "B[enedicti]",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Benedict",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 291,
+          "titulus_id": 106,
+          "original_name": "Deum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "God",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
   "footnotes": [
     {
-      "id": 35787,
+      "id": 210,
       "roll_id": 50,
-      "pdf_page": 42,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "Uoule Cil Uiuleilg'C D exponctu\u00e9 devant ce mot B."
+      "pdf_page": 37,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "(a) D'apr\u00e8s, a un mot doit manquer ici. \u2014 (b) jungimus B; corrigez jungimur."
     },
     {
-      "id": 35788,
+      "id": 211,
       "roll_id": 50,
-      "pdf_page": 42,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "sont les rouleaux mortuaires de Renaud Ier du Bellay; archev\u00eaque de Reims (cf. supra, 227, n' 81), de  No\u00ebl Icr , abb\u00e9   de P: S. Nicolas dAngers (cf: supra, P. 229, n\" 82), ainsi que de Jo\u00ebl dAntins; abb\u00e9 de la Couture du Mans et de Ho\u00ebl, \u00e9v\u00eaque du Mans (cf. supra, P. 231, n 83) . (2) Ce sont les rouleaux mortuaires de Jean,"
-    },
-    {
-      "id": 35789,
-      "roll_id": 50,
-      "pdf_page": 42,
+      "pdf_page": 37,
       "pdf_half": "right",
       "footnote_num": "4",
-      "text": "42"
-    },
-    {
-      "id": 35790,
-      "roll_id": 50,
-      "pdf_page": 42,
-      "pdf_half": "right",
-      "footnote_num": "6",
-      "text": "dOrl\u00e9ans (cf. supra, P. 233,n9 84),et dc Durand , \u00e9v\u00eaque de Clermont (cf. supra, P. 235, n 86)  (3) Cf. supra, P. 235, n? 87. \u00c9d. J-Y. Tilliette; op. cit., Poris L Il, 2002, P. 98, n' 00 155, 156, 157 ; P 9, n\" 158 | 159 ; p. 100, n' 160."
+      "text": "D'apr\u00e8s a, un mot doit manquer ici."
     }
   ]
 }

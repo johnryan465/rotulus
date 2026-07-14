@@ -1,0 +1,166 @@
+{
+  "roll": {
+    "id": 95,
+    "roll_num": 91,
+    "date_str": "[vers 1100]",
+    "title": "Invective de Baudri de Bourgueil contre les \u00ab roll\u00e9giers \u00bb.",
+    "manuscripts": "",
+    "pdf_source": "2",
+    "pdf_pages": "45",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 795,
+      "roll_id": 95,
+      "title": "",
+      "location_name": "",
+      "latin_text": "[Quatri\u00e8me formule]\nFratribus et dominis famulantibus alio illi apostolo (vel martiri, seu antistiti),\nhumilis contio clavigeri Petri Mildunensis, gaudium perhenne felicitatis. Delicto\nprothoparnents accepimus heo lugubre donum mortis, nec vitam transitoriam\n5 transcurrere valemus, ut ad vitam sine fine mansuram perveniamus, nisi prius\ngustum gustum amarum carpamus. Quapropter cessate a fletu, quando nulli datur\nvita sine obitu. Petitum re vobis debuit caritatis jam expletum a nobis sciatis\nsimilemque vicem petimus a vobis rebendi nobis, nostris ut oretis pro defunctis,\ndomno Hugone (1) abbate.\n[Cinqui\u00e8me formule]\nAlii.\nReverendis patribus alio illi apostolo (vel martiri, seu antistiti) deservientibus,\ngrex famulus clavigero Petro Mildunensis cenobi, jungi civibus ethercis. Vestris\nprecibus sedulo pretende obedientem caritatis, expleptimus debitum pro vestro\n15 vel vestris (a) vita functis (b), quod ipsi nempe petistis. Pro nostris itaque\nvos itidem supplicamus, scilicet Walterio, Hugone, Oidelerio (c).\nSusceptis aa sanctitate vestra litteris apud monasterium castri Mildunensis in\nhonore sancti Petri extructi, solitum licet indign\u00e8 reddidimus obsequium. Quod\nutique postulamus a vobis, ut et nostr\u00e8 congregationis impendatis omnibus fratri-\n20 bus defunctis, Hugone, Oidelerio, ceterisque quorum nomina scit eorum Conditor\nqui sua eos gratia vocatit.",
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2560,
+          "titulus_id": 795,
+          "original_name": "Hugone",
+          "original_title": "abbate",
+          "footnote_num": "1",
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2561,
+          "titulus_id": 795,
+          "original_name": "Petro Mildunensis",
+          "original_title": "clavigeri",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter of Mildun",
+          "normalized_role": "cleric/servant",
+          "normalized_dates": "",
+          "location_name": "Mildun"
+        },
+        {
+          "id": 2562,
+          "titulus_id": 795,
+          "original_name": "Walterio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Walter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2563,
+          "titulus_id": 795,
+          "original_name": "Hugone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2564,
+          "titulus_id": 795,
+          "original_name": "Oidelerio",
+          "original_title": "",
+          "footnote_num": "c",
+          "footnote_text": null,
+          "normalized_name": "Odelard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2565,
+          "titulus_id": 795,
+          "original_name": "Petri",
+          "original_title": "sancti",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Mildun"
+        }
+      ]
+    },
+    {
+      "id": 796,
+      "roll_id": 95,
+      "title": "Texte \u00e9tabli d\u2019apr\u00e8s alb.",
+      "location_name": "",
+      "latin_text": "Invectio in rolligerum\nObsecro jam parcam tam sepe venire veredus :\nPer nimios usium nimia sua verebra veremum.\nVivant prelati, pro quorum morte varagur.\nVultur edax corvusque nigar voltalisque veredus\nNecnon bubo canens dirum mortalibus omen\nSignificant mortes presaganturque cadaver:\nSic rotulus semper mortem cusliblet affert.\nErgo, isti nostris penitus conventibus exul,\nQui semper mortem, qui nunciat anxietatem;\nNam, si sempe venit, nummi mercede cavetim.\nEn Audebertum dicit michi nuper obisse\nEt mundi solem sub numen delituisse.\nQuid facies, Biturix, tentu pastore perempto?\nQuid facies, obitu gx ere abbate Dolensis?\nArripe lamentum, suffusus flebitus ora.\nAmbo patronu caruistis inaequiperando.\nMe quoque collegam gemitus superisse velis,\nCujus non sapiet vehemens querimoniam fine.\nParticipet lacrimis, qui participavit amori :\nConsors virentis, consors essem morientis.",
+      "pdf_page": 45,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2566,
+          "titulus_id": 796,
+          "original_name": "Aubebertum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Aubert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2567,
+          "titulus_id": 796,
+          "original_name": "Biturix",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bourges (personified)",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 963,
+      "roll_id": 95,
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Gauzbertio effac\u00e9 apr\u00e8s ce mot B."
+    },
+    {
+      "id": 964,
+      "roll_id": 95,
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "footnote_num": "(a)",
+      "text": "vel vestris ajout\u00e9 en interligne B. \u2014 (b) La syllabe tis pour functis est ajout\u00e9e en interligne"
+    },
+    {
+      "id": 965,
+      "roll_id": 95,
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "footnote_num": "(b)",
+      "text": "au-dessus de functo B. \u2014 (c) Gauzbertio effac\u00e9 apr\u00e8s ce mot B."
+    },
+    {
+      "id": 966,
+      "roll_id": 95,
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "footnote_num": "(c)",
+      "text": ""
+    }
+  ]
+}

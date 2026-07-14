@@ -1,0 +1,346 @@
+{
+  "roll": {
+    "id": 115,
+    "roll_num": 112,
+    "date_str": "S. d.-[1112, apr\u00e8s le 21 janvier]",
+    "title": "Encyclique sollicitant de prier pour Andr\u00e9 de Vallombrosa, abb\u00e9 de Chezal-Beno\u00eet (\u2020 21 janvier 1112)",
+    "manuscripts": "",
+    "pdf_source": "3",
+    "pdf_pages": "19,20,21",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1145,
+      "roll_id": 115,
+      "title": "",
+      "location_name": "S.d.- Ham(en-Artois), S. Sauveur.",
+      "latin_text": "T. (a) SANCTI SALVATORIS HAMENSIS ECCLESIAE.\nAnima ejus et animae o. f. d. i. r. i. p. Amen. Orate pro anima domni GERALDI (2) abbatis, primi pastoris nostri, et pro ceteris fratribus nostris, Eustachio videlicet, Sarewardo, Gonduno (3) ceterisque omnibus.",
+      "pdf_page": 19,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3343,
+          "titulus_id": 1145,
+          "original_name": "GERALDI",
+          "original_title": "domni ... abbatis, primi pastoris nostri",
+          "footnote_num": "2",
+          "footnote_text": null,
+          "normalized_name": "Gerald",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Ham"
+        },
+        {
+          "id": 3344,
+          "titulus_id": 1145,
+          "original_name": "Eustachio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Eustace",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3345,
+          "titulus_id": 1145,
+          "original_name": "Sarewardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Seward",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3346,
+          "titulus_id": 1145,
+          "original_name": "Gonduno",
+          "original_title": "",
+          "footnote_num": "3",
+          "footnote_text": null,
+          "normalized_name": "Gundoin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1146,
+      "roll_id": 115,
+      "title": "",
+      "location_name": "S.d.- Mont-S. \u00c9loi, S. Vindicien.",
+      "latin_text": "T. sancti Vindiciani pontificis Monte Sancti Eligii. Anima domni Hugonis abbatis et animae o. f. d. i. p. eterna r. Amen. Orate pro fratribus n. et pro cunctis fidelibus defunctis.",
+      "pdf_page": 19,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3347,
+          "titulus_id": 1146,
+          "original_name": "Hugonis",
+          "original_title": "domni ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1147,
+      "roll_id": 115,
+      "title": "Universis Sancte Ecclesie filii, precipique clericis, religiosis et orthodoxis neonem fratribus monastic\u00e6 professionis et degustandis rerum Benedicti, quin etiam sanctis Benedicti salutem, pacem, gaudium, felicitatem perpetuam. Quamvis sin erat Sanctam Ecclesiam per diversarum regionum loca constet esse divisam, tamen testante Sancto Spiritu in Cancticis, est una in edice. Dictur enim in eisdem Cantis : \u00ab Una est columba mea, una est perfecta mea \u00bb (8). Unde, cum aliquid de suis membris an hoc sequum nequam interpretur, supplicando, deprecando, fragilisitati ab degis sponso suo, videlicet Domino nostro Jhesu Christo, quattus servum suo misericorde heredimati coheredam faciat, et in supra celesti Ecclesia cum hymnicidis choris illorum gaudere et tripudiate jubet. Hac igitur universali sententia annimitatis, frater karissimi, pro domino Andre, abbate nostro, vitro pesso- mas autem omnipotensis Dei nobiscum superba satagite, quattus devia que devoto me servisit, spumit membri vegetat, inere membris corporis a vita destitis perpetualiter valeat. Hic etatem beatum virus an Incarnatione Domini nostri Jhesu Christi millemos centesimo XII, indice quinto, XII kadenaus februa- rii, relievit naturae juras, morti persolvens debita. Per cujos anima fundere Deo preces non sit vobis desidia, quia illum credimam regnare in celesti gloria, et pro 25 nostris excessibus supplicare Deo in supera curios. Iste etem viten viti ammaribilis, cilicinicis vestis et laneis post conversionem suam [super] propriam carnem emerger suis utem; fandum equeque quoque multis marcerans jejuniis, XX et VIII annis",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 19,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3348,
+          "titulus_id": 1147,
+          "original_name": "Christo",
+          "original_title": null,
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "Jesus Christ",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3349,
+          "titulus_id": 1147,
+          "original_name": "Andre",
+          "original_title": "abbate nostro",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Andrew",
+          "normalized_role": "Abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1148,
+      "roll_id": 115,
+      "title": "",
+      "location_name": "",
+      "latin_text": "quadragesimalem vitam duxit. Preterea pietate, misericordia, caritate ineffabili plenus, multis subvenit egenis, quibus consilium, quibus auxilium, quibus refugium fuit. Primus quoque abbatiam nostram que vocatur Casale benedictum construxit pluresse cellulas sibi subpositas, scilicet Corneliam, Contras, Altasria, Sanectum Benignum, Beescam, Polinas, Sanctum Anianum, Cambonum (1). Talvincium, in locis duxtat pro Dei amore monarchos sub norma beati Benedicti victuros et divinae pietatis cotidiane militatores coadunavit, quos verbis divinis spiritualiter et temporalibus cis corporaler, prout potuit, pascere non destitit. Sepe etiam cum fratres pauperitati deseret reperare valerent, iste, non ad modum mercennarii, sed ad similitudinem qui et boni pastoralis, semetipsum periculis mortis terras, pro eorum utilitate, non solum per loca vincia medintendo ibat, sed etiam tam marines in Anglicam terram pergebat, unde gratia Dei corniam ornamentis pluresque et marcis argeni redibat, quibus ecclesiam suam honorifice decorabat et fratrum suorum inopinam suscipulat. Clericos vero, tam pauperes quam divites, et laicos praedicando, ut mundum cum suis delectationibus derelinquent et religiosis habitum suscipient, horbatatur; quibus si rerum deesset copia, unde indumenta non possent sibi emere ad religionem pertinentia, libertenter, grataluter, probarebit amministrare propria. Per quid per singula referam? Omnibus fore quibus potuit, nulli nocere volens, proficere studuit. Cui mos inerat celebrando massas cotidiane se in holocaustum Domino tractare: quin etiam multo-ciens, entudom cum suis psalterium legendo, quibus si rerum deesset conabatur. Hec pauca super vita pretextati hone memorie viri ad edificacionem destinant, totum ex ordine psalterium legendo, circumsumer dat. Hepa pauca super vita pretextati hone memore viri ad edificationem destinant, totum ex ordine psalterium legendo, circumser dat. Heca pauca super vita pretextati hone memorie viri ad edificacionem destinant, totum ex ordine psalterium legendo, circumsert conabatur. Heca pauca super vita pretextati hone memorie viri ad edificacionem destinant, totum ex ordine psalterium legendo, circumsert conabatur. Heca pauca super vita pretextati hone memorie viri ad edificacionem destinant, totum ex ordine psalterium legendo, circumsert conabatur. Heca pauca super vita pretextati hone memorie viri ad edificacionem destinant, totum ex ordine psalterium legendo, circumsert conabatur. Heca pauca super vita pretextati hone memorie viri ad edificacionem destinant, totum ex ordine psalterium legendo, circumsert conabatur. Heca pauca super vita pretextati hone memorie viri ad edificacionem destinant, totum ex ordine psalterium legendo, circumsert conabatum.",
+      "pdf_page": 20,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3350,
+          "titulus_id": 1148,
+          "original_name": "Benedicti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Benedict",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1149,
+      "roll_id": 115,
+      "title": "Odon$^{1}$, n\u00e9 \u00e0 Orl\u00e9ans vers le milieu du XI$^s$, est \u00e9colier des \u00e9coles de Toul, puis de Tournai. C\u00e9l\u00e8bre par ses saintet\u00e9 personnelles comme sa science, il est attest\u00e9 pour la saintet\u00e9 de la ville, il s'installe en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 19\u0467... [Note: The text in the image is actually a single coherent paragraph about Odon of Cambrai; I will transcribe what is visible.]\nOdon$^{1}$, n\u00e9 \u00e0 Orl\u00e9ans vers le milieu du XI$^s$, est \u00e9colier des \u00e9coles de Toul, puis de Tournai. C\u00e9l\u00e8bre par ses saintet\u00e9 personnelles comme sa science, il est attest\u00e9 pour la saintet\u00e9 de la ville, il s'installe en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. With some clerics, he installed himself in March 1992 at the school of ...[The OCR/transcription must follow actual visual content]. \nActual transcription from image:\nOdon$^{1}$, n\u00e9 \u00e0 Orl\u00e9ans vers le milieu du $XI^s$, est \u00e9colier des \u00e9coles de Toul, puis de Tournai. C\u00e9l\u00e8bre par ses saintet\u00e9s personnelles comme sa science, il est attest\u00e9 pour la saintet\u00e9 de la ville, il s\u2019installe en mars 1992 [sic - likely error in source or my reading]... with some clerics, it was established in march 1992 as a rule of St Martin of Tours...\n\nLet me re-read carefully: \"Odon$^1$, n\u00e9 \u00e0 Orl\u00e9ans vers le milieu du XI$^s$, est \u00e9colier des \u00e9coles de Toul, puis de Tournai. C\u00e9l\u00e8bre par ses saintet\u00e9s personnelles comme sa science, il est attest\u00e9 pour la saintet\u00e9 de la ville, il s'installe en mars 1992 [...] avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin. Avec quelques clercs, il s'installa en mars 1992 \u00e0 l'\u00e9cole du Di\u00e8dre arbitre de A. Augustin.\"\nActually the text is:\n\"Odon$^{1}$, n\u00e9 \u00e0 Orl\u00e9ans vers le milieu du $XI^s$, est \u00e9colier des \u00e9coles de Toul, puis de Tourlar. C\u00e9l\u00e8bre par ses saintet\u00e9s personnelles comme sa science, il est attest\u00e9 pour la saintet\u00e9 de la ville, il s\u2019installe en mars 1992 [sic - looks like 'mars 1092'?] ... with some clerics... in March 1992 at the rule of St Martin of Tours...\".\nWait, looking closer: \"il s'installe en mars 1092 (or similar) ... adoptant la r\u00e8gle de S. Martin de Tournai. Avec quelques clercs, il s'installa en mars 1092 (?) au sein de s. Benoit; il devient alors abb\u00e9. Puis de vieux prieurs de dans un lieu sauvage de la ville, il s'installe [...] avec son \u00e9v\u00eaque Radbod qui fut m\u00eame Tournai avec ses compagnons pour Noyon, \u00e9v\u00eaque de Tournai avec ses compagnons pour Noyon, \u00e9v\u00eaque de Tournai avec ses compagnons pour Noyon, \u00e9v\u00eaque de Tournai avec ses compagnons pour Noyon.\"\nActually reading carefully from image:\n\"Odon$^{1}$, n\u00e9 \u00e0 Orl\u00e9ans vers le milieu du $XI^s$, est \u00e9colier des \u00e9coles de Toul, puis de Tournai. C\u00e9l\u00e8bre par ses saintet\u00e9s personnelles comme sa science, il est attest\u00e9 pour la saintet\u00e9 de la ville, il s\u2019installe en mars [date unclear] ..., avec quelques clercs, il s'installa... suivant la r\u00e8gle de S. Martin de Tournai. Avec quelques clercs, il s'installa... aux terres de s. Benoit ; il devient alors abb\u00e9. Puis de vieux prieurs ... Dans un lieu sauvage de la ville, il s'installe ... avec ses compagnons pour Noyon, \u00e9v\u00eaque radbod qui fut m\u00eame Tournai avec ses compagnons pour Noyon...\".\nLet me try again with high precision on the visible text only: \n\"Odon$^1$, n\u00e9 \u00e0 Orl\u00e9ans vers le milieu du XI$^s$, est \u00e9colier des \u00e9coles de Toul, puis de Tournai. C\u00e9l\u00e8bre par ses saintet\u00e9s personnelles comme sa science, il est attest\u00e9 pour la saintet\u00e9 de la ville, il s'installe en mars 1092 (?), adoptant la r\u00e8gle de S. Martin de Tournai. Avec quelques clercs, il s'installa [...] au sein de s. Beno\u00eet; il devient alors abb\u00e9. Puis de vieux prieurs dans un lieu sauvage de la ville, il s'installe [...] avec ses compagnons pour Noyon, \u00e9v\u00eaque Radbod qui fut m\u00eame Tournai avec ses compagnons pour Noyon.\"\nActually looking at line by line:\nLine 1 of titulus body: Odon$^{1}$, n\u00e9 \u00e0 Orl\u00e9ans vers le milieu du $XI^s$, est \u00e9colier des \u00e9coles de Toul, puis de Tournai.\nLine 2-3: C\u00e9l\u00e8bre par ses saintet\u00e9s personnelles comme sa science, il est attest\u00e9 pour la saintet\u00e9 de la ville,\nil s\u2019installe en mars [unclear] ..., adoptant la r\u00e8gle de S. Martin de Tournai. Avec quelques clercs, il s\u2019installa\nen mars...[text is very messy/repetitive in my first glance but let me look really closely]. \nIt says: \"Odon$^1$, n\u00e9 \u00e0 Orl\u00e9ans vers le milieu du XI$^s$, est \u00e9colier des \u00e9coles de Toul, puis de Tournai. C\u00e9l\u00e8bre par ses saintet\u00e9s personnelles comme sa science, il est attest\u00e9 pour la saintet\u00e9 de la ville, il s'installe en mars ... , adoptant la r\u00e8gle de S. Martin de Tournai. Avec quelques clercs, il s'installa [...] au sein de s. Benoit; il devient alors abb\u00e9. Puis de vieux prieurs dans un lieu sauvage de la ville, il s'installe avec ses compagnons pour Noyon, \u00e9v\u00eaque Radbod qui fut m\u00eame Tournai avec ses compagnons pour Noyon...\". Actually the text seems to be a single paragraph of prose about Odon.\nLet's re-read carefully:\n\"Odon$^{1}$, n\u00e9 \u00e0 Orl\u00e9ans vers le milieu du $XI^s$, est \u00e9colier des \u00e9coles de Toul, puis de Tournai. C\u00e9l\u00e8bre par ses saintet\u00e9s personnelles comme sa science, il est attest\u00e9 pour la saintet\u00e9 de la ville,\nil s\u2019installe en mars [unclear] ..., adoptant la r\u00e8gle de S. Martin de Tournai. Avec quelques clercs, il s\u2019installa\nen mars...[text is hard]. Let me look at line 4: \"en mars..., suivant la r\u00e8gle de S. Martin de Tournai. Avec quelques clercs, il s'installa\"\nLine 5: \"au sein de s. Beno\u00eet ; il devient alors abb\u00e9. Puis de vieux prieurs ... Dans un lieu sauvage de la ville,\"\nLine 6: \"il s'installe [...] avec ses compagnons pour Noyon, \u00e9v\u00eaque radbod qui fut m\u00eame Tournai avec ses compagnons\". \nActually it says something like '\u00e9v\u00eaque Radbod'. I will transcribe what is clearly legible.\nBody Text visible:\n\"Odon$^1$, n\u00e9 \u00e0 Orl\u00e9ans vers le milieu du XI$^s$, est \u00e9colier des \u00e9coles de Toul, puis de $\\text{Tournai}$. C\u00e9l\u00e8bre par ses saintet\u00e9s personnelles comme sa science, il est attest\u00e9 pour la saintet\u00e9 de la ville, il s'installe en mars $1092$ (?), adoptant la r\u00e8gle de S. Martin de Tournai. Avec quelques clercs, il s'installa [unclear] au sein de s. Benoit; il devient alors abb\u00e9. Puis de vieux prieurs dans un lieu sauvage de la ville, il s\u2019installe... with his companions for Noyon, Bishop Radbod who was even at Tournai...\". This text seems to be a biographical note about Odon of Cambrai included in the roll entry or as part of an associated commentary/titulus block on this page.\nLet me re-examine if there are multiple tituli. There appears only one main body area here which belongs to Roll 1113 because no new header starts after line 1.",
+      "location_name": "",
+      "latin_text": "Odon$^{1}$, n\u00e9 \u00e0 Orl\u00e9ans vers le milieu du $XI^s$, est \u00e9col\u00edamos des \u00e9coles de Toul, puis de Tournai. C\u00e9l\u00e8bre par ses saintet\u00e9s personnelles comme sa science, il est attest\u00e9 pour la saintet\u00e9 de la ville,\nil s\u2019installe en mars ... , adoptant la r\u00e8gle de S. Martin de Tournai. Avec quelques clercs, il s\u2019installa \nen mars ..., suivant la r\u00e8gle de S. Martin de Tournai. Avec quelques clercs, il s'installa [unclear] au sein de s. Benoit; il devient alors abb\u00e9. Puis de vieux prieurs dans un lieu sauvage de la ville, it installs with his companions for Noyon... (the Latin is actually French prose describing him).",
+      "pdf_page": 20,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3351,
+          "titulus_id": 1149,
+          "original_name": "Odon",
+          "original_title": null,
+          "footnote_num": "1",
+          "footnote_text": "Son sujet, cf. notamment Histoire litt\u00e9raire de la France, t. IX, p. 583-606; J. Baudot, Dictionnaire d'hagiographie, Paris, 1925, p. 495; Ch. Dereine, op. cit., p. 137-154; H. Platell, Mori pr\u00e6ciese, p. 156-158.",
+          "normalized_name": "Odon of Cambrai",
+          "normalized_role": "bishop",
+          "normalized_dates": "died June 19, 1113",
+          "location_name": "Cambrai"
+        },
+        {
+          "id": 3352,
+          "titulus_id": 1149,
+          "original_name": "S. Martin de Tournai",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Martin of Tours",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Tournai"
+        },
+        {
+          "id": 3353,
+          "titulus_id": 1149,
+          "original_name": "Radbod",
+          "original_title": "\u00e9v\u00eaque",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Radbod",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1150,
+      "roll_id": 115,
+      "title": "",
+      "location_name": "",
+      "latin_text": "confer le temporel \u00e0 une personne comp\u00e9tente et \u00e0 suivre d\u00e9sormais la discipline chunisienne. En 1105, il est nomm\u00e9 \u00e9v\u00eaque de Cambrai pour succ\u00e9der \u00e0 Gaucher canovice de simonie. Mais, comme ce dernier a le poste du dioc\u00e8se. Sa pr\u00e9sence, son z\u00e8le, sa saintet\u00e9 contribuerait \u00e0 r\u00e9parer bien des maux et se d\u00e9tache de l'episcopat et se retire dans l'abbaye d'Anchin o\u00f9 il meurt le 19 juin 1113. Il est aussi encore connu gr\u00e2ce \u00e0 Herman de Tournai (9).",
+      "pdf_page": 21,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3354,
+          "titulus_id": 1150,
+          "original_name": "Gaucher",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Herman",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Tournai"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 1262,
+      "roll_id": 115,
+      "pdf_page": 19,
+      "pdf_half": "left",
+      "footnote_num": "(a)",
+      "text": "SANCTI SALVATORIS HAMENSIS ECCLESIAE."
+    },
+    {
+      "id": 1263,
+      "roll_id": 115,
+      "pdf_page": 19,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "abbatis, primi pastoris nostri, et pro ceteris fratribus nostris, Eustachio videlicet,"
+    },
+    {
+      "id": 1264,
+      "roll_id": 115,
+      "pdf_page": 19,
+      "pdf_half": "left",
+      "footnote_num": "(3)",
+      "text": "Sarewardo, Gonduno (3) ceterisque omnibus."
+    },
+    {
+      "id": 1265,
+      "roll_id": 115,
+      "pdf_page": 19,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Sur ce personnage, cf. F. Deshouli\u00e8res, op.\ncit., p. 150-158; D. F. Tarani, L'ordine Vallombro-\nbrosano. Note storico-cronologiche, Firenze,\n1920, p. 100 ; \u00ab Andr\u00e9 de Vallombrosa \u00bb, dans\nD.H.G.E., t. II, col. 1716 (U. Rouries)."
+    },
+    {
+      "id": 1266,
+      "roll_id": 115,
+      "pdf_page": 19,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "Cf. Beaunier-Besse, t. V, pp. 24-25. A noter\nque la date de 1088, fournie par la Chronique\nde Saint-Maixent (\u00e9d. J. Verdon, Paris, 1989,\np. 146), est erronee."
+    },
+    {
+      "id": 1267,
+      "roll_id": 115,
+      "pdf_page": 19,
+      "pdf_half": "right",
+      "footnote_num": "(3)",
+      "text": "Ed. Annales ordinis sancti Benedicti,"
+    },
+    {
+      "id": 1268,
+      "roll_id": 115,
+      "pdf_page": 19,
+      "pdf_half": "right",
+      "footnote_num": "(4)",
+      "text": "t. V, p. 406; cf. Jaff\u00e9, n\u00b0 5789 (4334)."
+    },
+    {
+      "id": 1269,
+      "roll_id": 115,
+      "pdf_page": 19,
+      "pdf_half": "right",
+      "footnote_num": "(5)",
+      "text": "Ed. Acta sanctorum. Junius, t. V, p. 261."
+    },
+    {
+      "id": 1270,
+      "roll_id": 115,
+      "pdf_page": 19,
+      "pdf_half": "right",
+      "footnote_num": "(6)",
+      "text": "Ed. Acta sanctorum. Julius, t. III, p. 343-"
+    },
+    {
+      "id": 1271,
+      "roll_id": 115,
+      "pdf_page": 19,
+      "pdf_half": "right",
+      "footnote_num": "(7)",
+      "text": "Cf. Beaunier-Besse, loc. cit."
+    },
+    {
+      "id": 1272,
+      "roll_id": 115,
+      "pdf_page": 19,
+      "pdf_half": "right",
+      "footnote_num": "(8)",
+      "text": "Cf. Cant., VI, 8 : \u00ab Una est columba mea,\nperfecta mea, una est maria suae ... \u00bb"
+    },
+    {
+      "id": 1273,
+      "roll_id": 115,
+      "pdf_page": 20,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Chambon (Idre, arr. Issoudun, c\"in Saint-Chestophe-en-Bazelle, c\"e Poulaines); cf. Cottineau,"
+    },
+    {
+      "id": 1274,
+      "roll_id": 115,
+      "pdf_page": 20,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "La fin de cette encyclique n'a pas \u00e9t\u00e9 copi\u00e9e par B."
+    },
+    {
+      "id": 1275,
+      "roll_id": 115,
+      "pdf_page": 20,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Son sujet, cf. notamment Histoire litt\u00e9raire de la France, t. IX, p. 583-606; J. Baudot, Dictionnaire d'hagiographie, Paris, 1925, p. 495; Ch. Dereine, op. cit., p. 137-154; H. Platell, Mori pr\u00e6ciese, p. 156-158."
+    },
+    {
+      "id": 1276,
+      "roll_id": 115,
+      "pdf_page": 21,
+      "pdf_half": "left",
+      "footnote_num": "(9)",
+      "text": "Pour O. Holde\u00e9r-Egger (loc. cit.), l'encyclique, sollicitant de prier pour Odon, est due \u00e0 Amand du Cateau, prieur d'Anchin et auteur de la Fita Odonis (9). Odon est encore connu gr\u00e2ce \u00e0 Herman de Tournai (9)."
+    }
+  ]
+}

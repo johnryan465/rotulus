@@ -1,0 +1,62 @@
+{
+  "roll": {
+    "id": 104,
+    "roll_num": 101,
+    "date_str": "S. d. [XI\u2070\u207b\u2072\u2070 s.]",
+    "title": "Titre versifi\u00e9 appos\u00e9 sur le rouleau mortuaire des religieux Renard et Itier.",
+    "manuscripts": "A. Original perdu.\n5 B. Metz, B. M., ms. 85, verso du dernier fol. (ms. d\u00e9truit en ao\u00fbt 1944).\na. J. Quicherat, Catalogue g\u00e9n\u00e9ral des mss. des Biblioth\u00e8ques publiques de France, in-4\u20bc, Paris, t. V, 1889, p. 33, d'apr\u00e8s B.",
+    "pdf_source": "2",
+    "pdf_pages": "55",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 824,
+      "roll_id": 104,
+      "title": "101 S.d.- Metz, S. Arnoul.",
+      "location_name": "Metz, S. Arnoul",
+      "latin_text": "<.................................>\ndefertur ad aedem\n<.................................>\nmonachorum retro et abba\n<...>-is parsi <...>-onis per climata mundi.\n<...> pater Arnulfus requiescit corpore sanctus\n<...> Mettensis, prope moenia deforis ubis,\n<...> sibi parte tenet spirantes austere odes\n<...> specien (sic) referens ubi digne cacumen\n<...> senam sacrat domus alta carvam,\n<...> petit undas unores al more kalendas\nSole sub occido vel caedit vesper gaudis nati.\nPost triduumque Vel spectantur gaudii nati.\nHoc quoque perto verborum callicitato,\nVestrum fratrum Christi sub lege piorum\nPlangere diddicimus vos lamentabile funus,\nEx quis Raynardus, unus de nomine dictus,\nAlter et Itier renovavit funere planctus;\nPro quibus aeterno petiti dare carmina Christo,\nQuod fieri dignum nos ducimus et perfectum,\nIs simul adjunctis quos cartula cunctis,\nHancque vicem nostris deposcimus apte rependi,\nVel quos forte sua jam linquente contigit infima (sic),\nAut quos fluctivagae collidunt flamina vitae,\nPondera quo carnis merceam concita solvi,\nAc simul angelicis conjungi perpete turmis.",
+      "pdf_page": 55,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2642,
+          "titulus_id": 824,
+          "original_name": "Arnulfus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arnulf",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Metz"
+        },
+        {
+          "id": 2643,
+          "titulus_id": 824,
+          "original_name": "Raynardus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Renard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2644,
+          "titulus_id": 824,
+          "original_name": "Itier",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Itier",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

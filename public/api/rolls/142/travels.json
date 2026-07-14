@@ -1,0 +1,85 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1154,
+    "date_str": "[1154, apr\u00e8s le 4 septembre]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (?) de Gilbert de La Porr\u00e9e, \u00e9v\u00ea..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Bordeaux",
+    "coords": null,
+    "year": 1154,
+    "date_str": "[1154, apr\u00e8s le 4 septembre]",
+    "is_approximate": true,
+    "description": "Geoffrey (Archbishop of Bordeaux)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Saintes",
+    "coords": null,
+    "year": 1154,
+    "date_str": "[1154, apr\u00e8s le 4 septembre]",
+    "is_approximate": true,
+    "description": "Bernard (Bishop)"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Engoulins",
+    "coords": null,
+    "year": 1154,
+    "date_str": "[1154, apr\u00e8s le 4 septembre]",
+    "is_approximate": true,
+    "description": "Hugh (Bishop)"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Agen",
+    "coords": null,
+    "year": 1154,
+    "date_str": "[1154, apr\u00e8s le 4 septembre]",
+    "is_approximate": true,
+    "description": "H\u00e9lie (Bishop)"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Pavia",
+    "coords": null,
+    "year": 1154,
+    "date_str": "[1154, apr\u00e8s le 4 septembre]",
+    "is_approximate": true,
+    "description": "Pavia ()"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "S. Aubin d\u2019Angers",
+    "coords": null,
+    "year": 1154,
+    "date_str": "[1154, apr\u00e8s le 4 septembre]",
+    "is_approximate": true,
+    "description": "Robert (abbot)"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "S. Aubin",
+    "coords": null,
+    "year": 1154,
+    "date_str": "[1154, apr\u00e8s le 4 septembre]",
+    "is_approximate": true,
+    "description": "Girard (monk)"
+  }
+]

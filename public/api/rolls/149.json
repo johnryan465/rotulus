@@ -1,0 +1,203 @@
+{
+  "roll": {
+    "id": 149,
+    "roll_num": 146,
+    "date_str": "S.d. [1160, juillet - 1174, 13 avril (1)]",
+    "title": "Formule de bref mortuaire, mis en circulation par S. Martin-des-Champs [de Paris], apr\u00e8s la mort du prieur Eudes [II].",
+    "manuscripts": "A. Original perdu.\nB. Paris, B. N. F., lat. 17742, fol. 333 (XIV\u00ba s.).\na. J. Depoin, Recueil de chartes et documents de Saint-Martin-des-Champs, monast\u00e8re parisien, Ligug\u00e9-Paris, t. II, 1913, p. 331, n\u00ba 419, d'apr\u00e8s B.",
+    "pdf_source": "4",
+    "pdf_pages": "76",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1831,
+      "roll_id": 149,
+      "title": "T. (a) Sancti Martini of Campus.",
+      "location_name": "",
+      "latin_text": "Omnipotens, pious et misericors Deneus animam venerabilis patri nostri domini MN. Aliorumque fratrum nostrum dignetur absolvere alumni vindico delictorum eius dignetur donare vitam et requiem \u0633\u067e\u0631ton in sorte electorum et requiem beatorum. Amen. Sic ergo nos pro illis orare studiumus, it ea vos pro nostri orare ne differatis. Orate pro domino Urso (2) priore pro domno Teobaldo (3) priore, pro domno Odone (4) abbatte pro domno Matheo (6), Albanensi episcopo, et domno Teobaldo (7), Parisiensi episcopo, pro Odone (8) priore, quorum nomina Deui novit in sapientia sua aeternitatis, Amen.",
+      "pdf_page": 76,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7451,
+          "titulus_id": 1831,
+          "original_name": "Deneus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Denis",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7452,
+          "titulus_id": 1831,
+          "original_name": "Urso",
+          "original_title": "domino",
+          "footnote_num": "2",
+          "footnote_text": null,
+          "normalized_name": "Urs",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7453,
+          "titulus_id": 1831,
+          "original_name": "Teobaldo",
+          "original_title": "domno",
+          "footnote_num": "3",
+          "footnote_text": null,
+          "normalized_name": "Thibaud",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7454,
+          "titulus_id": 1831,
+          "original_name": "Odone",
+          "original_title": "domno",
+          "footnote_num": "4",
+          "footnote_text": null,
+          "normalized_name": "Odilon",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7455,
+          "titulus_id": 1831,
+          "original_name": "Matheo",
+          "original_title": "domno",
+          "footnote_num": "6",
+          "footnote_text": null,
+          "normalized_name": "Mathieu",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7456,
+          "titulus_id": 1831,
+          "original_name": "Albanensi",
+          "original_title": "episcopo",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Albin",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Albanensis"
+        },
+        {
+          "id": 7457,
+          "titulus_id": 1831,
+          "original_name": "Teobaldo",
+          "original_title": "domno",
+          "footnote_num": "7",
+          "footnote_text": null,
+          "normalized_name": "Thibaud",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Parisiensis"
+        },
+        {
+          "id": 7458,
+          "titulus_id": 1831,
+          "original_name": "Odone",
+          "original_title": "pro",
+          "footnote_num": "8",
+          "footnote_text": null,
+          "normalized_name": "Odilon",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 2241,
+      "roll_id": 149,
+      "pdf_page": 76,
+      "pdf_half": "right",
+      "footnote_num": "(a)",
+      "text": "la mention T. Sancti Martini de Campus est rubriqu\u00e9e."
+    },
+    {
+      "id": 2242,
+      "roll_id": 149,
+      "pdf_page": 76,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "\u201c Les diptiques fun\u00e8bres de S. Martin-des-Champs placent le d\u00e9cessu des prieurs Eudes II et Simon sur la mort de Pierre Lombard, \u00e9v\u00e8que de Paris [jullet 1660]."
+    },
+    {
+      "id": 2243,
+      "roll_id": 149,
+      "pdf_page": 76,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": ""
+    },
+    {
+      "id": 2244,
+      "roll_id": 149,
+      "pdf_page": 76,
+      "pdf_half": "right",
+      "footnote_num": "(3)",
+      "text": "Ed. supra, p. 649, n\u00ba 138."
+    },
+    {
+      "id": 2245,
+      "roll_id": 149,
+      "pdf_page": 76,
+      "pdf_half": "right",
+      "footnote_num": "(4)",
+      "text": "Sur ce personnage, cf. supra, p. 542, n. 11."
+    },
+    {
+      "id": 2246,
+      "roll_id": 149,
+      "pdf_page": 76,
+      "pdf_half": "right",
+      "footnote_num": "(5)",
+      "text": "Sur ce personnage, cf. supra, p. 650, s. 3."
+    },
+    {
+      "id": 2247,
+      "roll_id": 149,
+      "pdf_page": 76,
+      "pdf_half": "right",
+      "footnote_num": "(6)",
+      "text": "Sur ce personnage, cf. supra, p. 650, s. 4."
+    },
+    {
+      "id": 2248,
+      "roll_id": 149,
+      "pdf_page": 76,
+      "pdf_half": "right",
+      "footnote_num": "(7)",
+      "text": "\u00c9v\u00e8que de Paris 1144 \u00e0 janvier 1158:"
+    },
+    {
+      "id": 2249,
+      "roll_id": 149,
+      "pdf_page": 76,
+      "pdf_half": "right",
+      "footnote_num": "(8)",
+      "text": "Otto II, prior de S. Martin-des-Champs de 1133 \u00e0 1141, puis abbot de Marne 1141 \u00e0 1143, puis a nouveau prieur de S. Martin-des-Champs jusqu'\u00e0 l'anvers 1150: Cf. Gallia christiana, t. III, col. 366 et t. VII, col. 325."
+    },
+    {
+      "id": 2250,
+      "roll_id": 149,
+      "pdf_page": 76,
+      "pdf_half": "right",
+      "footnote_num": "(a)",
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "roll": {
+    "id": 22,
+    "roll_num": 24,
+    "date_str": "S.d. [870-900]",
+    "title": "Institution de \u00ab rotuligeri \u00bb \u00e0 S. Bertin et \u00e0 S. Gallen.",
+    "manuscripts": "A. Original perdu.\na. O. Bled, S. Bertin, p. 402.",
+    "pdf_source": "1",
+    "pdf_pages": "15",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 39,
+      "roll_id": 22,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Marginatio scripta in face du textu sunt: \u00ab Grimbaldus prepositus; Sanctus Fulco, archiepiscopus et abbas posulatus a convento; \u00bb elle indique, pone O. Bled (op. cit., p. 402, n. 1), que \u00ab c'est vraisemblablement sous l'abbatistat de 10 Foulques\u00b9\u207e que les noms des defunctis fuerunt communicati \u00e0 S. Gallen \u00bb. Sub-eodem tempore fuerunt societates nostrae compactae et rotuligeri instituti.",
+      "pdf_page": 15,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 179,
+          "titulus_id": 39,
+          "original_name": "Grimbaldus",
+          "original_title": "prepositus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Grimbald",
+          "normalized_role": "provost",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 180,
+          "titulus_id": 39,
+          "original_name": "Sanctus Fulco",
+          "original_title": "archiepiscopus et abbas",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Fulco",
+          "normalized_role": "archbishop and abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 181,
+          "titulus_id": 39,
+          "original_name": "Foulques",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "Abb\u00e9 de S. Bertin de 878 \u00e0 882, puis de 893 \u00e0 900, date de sa mort (cf. Gallia christiana, t. III, col. 491). Ce personnage fut \u00e9gale-",
+          "normalized_name": "Fulk",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 140,
+      "roll_id": 22,
+      "pdf_page": 15,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Abb\u00e9 de S. Bertin de 878 \u00e0 882, puis de 893 \u00e0 900, date de sa mort (cf. Gallia christiana, t. III, col. 491). Ce personnage fut \u00e9gale-"
+    }
+  ]
+}

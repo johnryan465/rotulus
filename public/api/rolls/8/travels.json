@@ -1,0 +1,38 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Mainz, Germany",
+    "coords": [
+      50.0,
+      8.2667
+    ],
+    "year": 756,
+    "date_str": "S.d. [756-759/778 (2)]",
+    "is_approximate": false,
+    "description": "Origin: \u00c9change de noms de clercs d\u00e9funts entre L\u00fcl, \u00e9v\u00eaqu..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Aegina",
+    "coords": null,
+    "year": 756,
+    "date_str": "S.d. [756-759/778 (2)]",
+    "is_approximate": true,
+    "description": "Alfred the Great (king)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Mainz, Germany",
+    "coords": [
+      50.0,
+      8.2667
+    ],
+    "year": 756,
+    "date_str": "S.d. [756-759/778 (2)]",
+    "is_approximate": false,
+    "description": "Lull (bishop)"
+  }
+]

@@ -1,79 +1,83 @@
 {
   "roll": {
     "id": 21,
-    "roll_num": "36",
-    "date_str": "S.d.",
-    "title": "ROULEAUX DES MORTS [d\u00e9but Xs 8.] fratresque sanctissimi; committimus vestrarum precum assiduitatibus; ut quanto nobis ejus absens resolutio propensiorem  intulit cordis merorem; tanto vestri vestrorumque efficacia meritorum exhilaret de suorum obtenta divinitus remis. sione scelerum. Item etiam petimus 'pro quibusdam nostrae congregationis fratri- bus illis. Ne vero, uti assolet, nos geruli mendosa fraus deludat, rogamus diem kalendarum quo vos adierit primorumque loci vestri nomina subnotare idemque cursori; ut alacrius iter carpat; diarium largire. Valeat vestra generalitas felicibus in Domino successibus pollens. 34 10 S.d. [premier quart du X' s] Formule de bref mortuaire envoy\u00e9 \u00e0 un monast\u00e8re plac\u00e9 sous les vocables de S. Pierre 5. Paul. et 15 0 . E. de Rozi\u00e8re; Formules, 2 partie, p 958, n\" 689. 6. K. Zeumer; Formulae karolini aevi ( M. G. H, Leges), p. 516,n? &. merowingici et InDIQU\u00c9 : J J Contreni, du X' s % dans Le formulaire de Laon Source pour [histoire de l\u00e9cole de Laon Scriptorium, LXXVII, 1973,_ 22 . au d\u00e9but p Pour I J Contreni (loc. cit), Tabbayc 20 Hautvillers; avec d\u00e9di\u00e9e \u00e0 5 Pierre et a s. Paul serait soit Corbie; soit 'lesquelles Y\u00e9cole de Laon aait des liens tr\u00e8s \u00e9troits. Saacdissoteis_patribus et fratribus; circumquaque Deo sub norma devote famulantibus, humilis sacrae institutionis Petri et Pauli debitae dilectionis congregatio coenobio beatorum apostolorum obsequium et augmentum. Primi in posteros utriusque vitae pacis ac salutis 25 superfluo; meritis terrigenae acerbae sortes decurrere sententia ex Sbpere crmneritis in\u00e9ognloodn eexigentibus multimoda inund\u00e6nrie [se ntemlin e pressura, tabescentis mundi ret juxta veritatis oraculum imminens terris rerum terminum maxima ex parte detrita instare; corporae mortis jam aperte demonstrat. Unde jam devenerunt, lento quidem semita, successu, ad nos, in quos fines seculorum 30 sitam prae oculis mortem occasum tamen cotidie properantes; nobis pensare Pavescimus et, velut in fictilibus _ propo- audemus.  Verum spe in positi, nihil solidum de Auctorem erigimur et mutuis fraternae",
-    "manuscripts": "A. Original perdu. B. Paris, B N.F, lat. 11379,fol. 19 (addition du X' s).",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "19,20,21",
+    "roll_num": 23,
+    "date_str": "S.d. [seconde moiti\u00e9 du IXe s.]",
+    "title": "Formule de bref mortuaire \u00e0 l'usage de S. Amand.",
+    "manuscripts": "A. Original perdu.\nB. Wolfenb\u00fcttel, Herz.-Aug.-Bibl. Aug. 4\u00b0 9. 8, fol. 99v (seconde moiti\u00e9 du IXe s.).\na. B. Bischoff, Salzburger Formelb\u00fccher, p. 63.",
+    "pdf_source": "1",
+    "pdf_pages": "14",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": [
+  "tituli": [
     {
-      "id": 35574,
+      "id": 36,
       "roll_id": 21,
-      "pdf_page": 19,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Le ms. cit\u00e9 de Wolfenb\u00fcttel, contenant des Commentarii notarii tironianarum, a pour origine S. Amand ; le faire-part de \u0647\u0630\u0647 renferme lui-m\u00eames des notes tironiennes.",
+      "pdf_page": 14,
       "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "UCo mnillanliDUS, nuIIna Christi Remigii, Francorum primi apos\u0131 que patrie exoptabile in Salvatore mund conditi hominis et Conditoris Dei exigen cunctis mortalibus mortis exactori, imm"
+      "entities": [
+        {
+          "id": 176,
+          "titulus_id": 36,
+          "original_name": "S. Amand",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Amand",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
     },
     {
-      "id": 35575,
+      "id": 37,
       "roll_id": 21,
-      "pdf_page": 19,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Reverentissimis in Christo fratribus in illo monasterio Deo familiaribus devoti fratres vestri de uno monasterio, cujus vocabulum est ita et ita, in Deo patre salu- tem. Scitote igitur quod quam liber presbyter aud monachus vel fidelis laucus anc flexivem finivit vita die quo missis illius, ut pro refrigerio hani\u0119 (sic) illius enixe divinam imploratis clementiam, quatems penam evadat perpetuam et ad requiem deputatur \u00e6ternam et ut hoc noticia inter vos justa consuetudine sine mora pervenat.",
+      "pdf_page": 14,
       "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "Cf. Rom , XV, 14 : * ita ut possitis alterutr\u0131"
+      "entities": []
     },
     {
-      "id": 35576,
+      "id": 38,
       "roll_id": 21,
-      "pdf_page": 19,
+      "title": "",
+      "location_name": "",
+      "latin_text": "\u00ab Fratres coenobi Sancti Richarii glorieose memoriae, omnibus Christi militibus. Petimus obnique paternitatem vestram pro nobis fratern\u00e6 geni defunctis, et vestrorum atque diri vocabulata mortuorum, dieque absentis praesentis curso- ris ad vos venientis kalendarum significari, nr venientis nobis possit mentiri. Officio veratio susceptio praepropitine inanim\u00e6 deca- niae qui fungit videtur, pariter intimare sciat. Obit itaque apud nos dormus Hruodulfus, comes abbatiss\u00e6 simil oster VIII. diei ianuarii. Ideo que [sursum] quatremque pro eo decretis unae domum, ut et vos mercedem habeatis, et ille in congregatione justorum aggregetur, vestris suffultis sanctissimis opitulatiumbus.",
+      "pdf_page": 14,
       "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "CucnoVILOAUL 1n9164413   olici; instantis vitae tripudium caclestis- participium. Conditione ac convent\u00edone te; pro fracto 'cyrographi pacto necesse est 0 boni Creatoris, debitum corpor\u00eds [ persol:"
-    },
-    {
-      "id": 35577,
-      "roll_id": 21,
-      "pdf_page": 19,
-      "pdf_half": "right",
-      "footnote_num": "4",
-      "text": "mnonerc ,"
-    },
-    {
-      "id": 35578,
-      "roll_id": 21,
-      "pdf_page": 20,
-      "pdf_half": "left",
-      "footnote_num": "1",
-      "text": "CL Phil., 1,23 : \u20ac desiderium habens 'dissolri, et esse cum Christo"
-    },
-    {
-      "id": 35579,
-      "roll_id": 21,
-      "pdf_page": 20,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "Ul, VeSliiS Sanclis PICCIDUS dujulu9;  UU propitio Domini expietur:"
-    },
-    {
-      "id": 35580,
-      "roll_id": 21,
-      "pdf_page": 21,
-      "pdf_half": "left",
-      "footnote_num": "1",
-      "text": "Phil, 5 1,23: desiderium [ habens , dissolvi, et esse cum Christo"
-    },
-    {
-      "id": 35581,
-      "roll_id": 21,
-      "pdf_page": 21,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "Ul, veStrISSanclis PICUIVUS 4uulur; propitio Domini expietur:"
+      "entities": [
+        {
+          "id": 177,
+          "titulus_id": 38,
+          "original_name": "Sancti Richarii",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Richard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 178,
+          "titulus_id": 38,
+          "original_name": "Hruodulfus",
+          "original_title": "comes",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hrodulf",
+          "normalized_role": "count",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
     }
-  ]
+  ],
+  "footnotes": []
 }

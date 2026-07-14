@@ -1,72 +1,120 @@
 {
   "roll": {
     "id": 42,
-    "roll_num": "78",
-    "date_str": "S.d.",
-    "title": "S.d. [vers 1070] 10 Rouleou mortuaire  (fragmentaire ) de Girard, moine de S. Aubin d Angers. A Original perdu. B. Paris B. N E, Coll Baluze, Costa) . vol. 108, fol. 319-32lv (copie du XVII* s par Dom Guillaume de Q.L Delisle, Rouleaux 15 Diplomatari des morts du IX' au XV escrits literaris s.; P. de labat 125, n\" XX; dapr\u00e8s B. P bisbe = Oliba   6. E. 400,n? 10, dapr\u00e8s @ (\u00e9d. a cura jA. Junyent, partielle) . M. Mundo, Barcelona; 1992, InpIqu\u00c9 ~ Bertrand de E Broussillon, Hubert, Berry. Cartulaire 182. G. Arsac, de $. Aubin & gne; p. 37, n. 126. Trois rouleaux Angers; IH des t. II, p 7, 20 Foulon, morls; n CCCC. 238 P. 239,n. 141 La r\u00e9forme de P 261-263. l\u00c9glise 1 Dufour; dans Catalo- la France De Cirard, . de louest, t I, moine deS sait ren Aubin L d Delisle place sa 'Angers;  d\u00e9c\u00e9d\u00e9  cclui de \u0131 mort vers un 19 Guifr\u00e9, = d\u00e9c\u00e9d\u00e9  1050,  sous 'septembre en 1049 ' (XIII En 'pr\u00e9texte que Je kalendas fait, plusieurs, pr\u00e9sent = octobris), on el\u00e9mnents ne fragment , permettent est &e ins\u00e9r\u00e9 dans en pr\u00e9ciser la date Personnage cit\u00e9 sans aucune - nologique par le Gallia donn\u00e9e ' chro- 362) . christiana (t. III , eglises d'  col. 'Anjou, \u00e9galemnent que Paris, ~ copnvient  de 1869, t. Bertrand P distinguer 23-126) . bienheureux ce II, P 46, n\" de Notons Girard, moine du \u00e9galement tionnc Broussillon ' S. Aubin d moine deux  CCCCXXXVII (op. de cit., 'Angers; d\u00e9c\u00e9d\u00e9 le 4 1123, bienheureux ct el novembre Pautre , 1, Girard, - 1) b\u00e9atifi\u00e9 en 1153,(dont la 1123 en men- P vita est seul 1153,  alors  Jun Marchegay \u00e9dit\u00e9e par personnage qu'il n' mort ct \u00c9. de  en Mabille, Chroniques Cf. ce nom, 'exista des supra, qu'un PP. 138, ~ n.",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "31,32,33,34,35,36",
+    "roll_num": 47,
+    "date_str": "S.d. [977 ou 983, jour de la Pentec\u00f4te]",
+    "title": "Titre v\u00e9rifi\u00e9 \u00e9crit \u00e0 S. Remi de Reims.",
+    "manuscripts": "A. Original perdu.\nB. Paris, B. N. f. 8674, fol. 112 (fin X\u00ba-d\u00e9but XI\u00ba s.).",
+    "pdf_source": "1",
+    "pdf_pages": "29",
     "is_verified": 0
   },
   "tituli": [
     {
-      "id": 46697,
+      "id": 73,
       "roll_id": 42,
-      "title": "T. Culnaldensis cenobii . Geraldus (1) abbas, Guillelmus abbas, Bernardus, Durannus, Bertardus; Land",
-      "location_name": "Culnaldensis cenobii",
-      "latin_text": "3 S.d.-S. Florent-l\u00e8s-Saumur. T. Sancti Florentii Salmurensis cenobii. 4 S.d. Bourgueil, S. Pierre. T. Sancti Petri Burguliensis cenobii. 10 5 S.d. Tours; S. Julien. T. Sancti Juliani Turonensis cenobii. S.d.- Beaumont[-l\u00e8s-Tours] . T. Sancte Marie Bellimontis cenobii. Ermengardis, Hadvidis, Ingelberga, Hersendis (2) abbatissa, Beatrix () abba-  12 tissa, Berthoide, Burgisa et cetere alie plures. S.d.- Cormery: T. Sancti Pauli Cormaricensis. Ex quo per culpam paradisum perdidit Adam; Hujus et exilii subditus est tenebris. Mors habet hoc proprium de nostra carne tributum; Quam sibi subjecit morsibus illicitis; Ut vite fatum, carnali compede junctum, Invitum grato pellat ab hospicio. De proprio fructu primum dedit hoc protoplastus, Invidia fratris quem sibi mors rapuit,",
-      "pdf_page": 32,
-      "pdf_half": "right",
-      "entities": []
-    },
-    {
-      "id": 46698,
-      "roll_id": 42,
-      "title": "14 [15] S.d.- [Brioude,] S. Julien. 20 T. Sancti Juliani. Obiit Stephanus (2) episcopus ; Willelmus,",
-      "location_name": "[Brioude",
-      "latin_text": "",
-      "pdf_page": 33,
-      "pdf_half": "right",
-      "entities": []
-    },
-    {
-      "id": 46699,
-      "roll_id": 42,
-      "title": "17 [18] Sd-[Le Puy ] S. Agr\u00e8ve. 15 T. Sancti Agripani.",
-      "location_name": "[Le Puy ] S",
-      "latin_text": "",
-      "pdf_page": 34,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Ricardus pater est rutilum decus additus almis,\nDeinde salutiferi plenus de lumine Christi,\nRecta tene re minimum magnaque propagine natus.\nHic illuit callmis magnis et psallere verbis.",
+      "pdf_page": 29,
       "pdf_half": "left",
-      "entities": []
+      "entities": [
+        {
+          "id": 225,
+          "titulus_id": 73,
+          "original_name": "Ricardus",
+          "original_title": "pater",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Richard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
     },
     {
-      "id": 46700,
+      "id": 74,
       "roll_id": 42,
-      "title": "18 [16] S.d-Localit\u00e9 ind\u00e9termin\u00e9e (S. Georges) T. Sancti Georgii Gerardus proprii persolvit debita l",
-      "location_name": "Localit\u00e9 ind\u00e9termin\u00e9e (S",
-      "latin_text": "19 Sd - Arles; cath\u00e9drale. T Arelatensis aecclesie Quod petitis petimus date quod damus = 25 Obiit Constabilis, Bernardus,- ergo rogamus, Bernardus et alii, 20 S.d- Montmajour; S. T Sancti Petri Montis Majoris  Pierre. Qui vici[i]s servis, timeas juga lurida mortis. Ast expers vicii, gaudens occurrito morti . 1 'impr\u00e9cision  de la  mention T Sancti Ceorgii ne permet pes une Puy) identification soit au Cer: L. Delisle / chapitre Laine C Litre de $. pcut \u00eatre en cffet d\u00fb  soit \u00e0 (op; Cil,, p 532) Georges que G. ne du 5. Gtorges Arsac Puy de $, Paulien (Hautc-Loire, (op. , cil , pr\u00e9cise arr; Le solution, P 263) pas; tandis sans justifier choisit ' 8on la choix, seconde",
-      "pdf_page": 34,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Gaudia festivi coleret cum clara diei\nClimata sub quado mundi plebs christicularum,\nSpiritus adveniens tecto residentibus uno,\nDiscipulis karisma qui quo contulit almis,\nTramite defessos longo, diplomatis hujus\nPatrim excipit sublimia culminia templi,\nPastor Remigi rutilat quo somate faustus;\nStat locus ipse quidem structus sub moenibus altis\nScemate predico Remorum nobili urbis,\nImpulsis occis qui quam frater condere jussit\nNomine sub fratris, csu fama volatilis infit,\nIntro pedem vester ferret cum pellicer illuste,\nJunii bis tarnis temnis nobis agente kalendas.\nProtulit egentis nobis has ilico pelle s,",
+      "pdf_page": 29,
       "pdf_half": "left",
-      "entities": []
+      "entities": [
+        {
+          "id": 226,
+          "titulus_id": 74,
+          "original_name": "Remigi",
+          "original_title": "Pastor",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Remigius",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Reims"
+        },
+        {
+          "id": 227,
+          "titulus_id": 74,
+          "original_name": "Remorum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Remorus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Reims"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "roll_id": 42,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Lummiibus quibus inductiis sollerter acutis\nNovimus abstractos his vestri rebus adhelos,\nPro quorum fraternum amor noster rogitando\nAures pulsavit summi requiete creatis,\nUt pro parte sibi fuerant quia crimina carnis\nParceret eternus detitus munere Jhesus,\nNullus enim sine sorde valet hanc ducere vitam,\nTempore nec potis est sic vivere quisquam\nQuan egeat precibus gustata morte piaci.\nQuapropter, dum vitali nunc pascimur aura,\nAlternis vitam precibus nostram relevermus;\nUltima terrena quos sors subduxit ab ulva,\nUt, cum vivorum fuerint regione regni,\nSimt memores nostri, premimur qui pondere carnis;\nDifferet hos Christus non exaudire rogatus,\nQui picate sua descendit ad arva,\nSummens humanam de virgine matre figuram.\nParticipes nos esse durit at quoque regni,\nCredimus in Christo naturam ac posuere nostram\nSemper apud patrem fragilis pro crimine limi.\nVestitur primi qua cuncta propago parentis.\nRegmina coenobii si fors\u00e1n nossere vultis\nQuorum predicti sollers exerceat actus,\nPastor incas clarus mira pietate refertus,\nAngelicos vitam quamque decenter adeptus,\nR[odulphus] nobis bonitatis quem decus ornat:\nHuic turres bine, parili vocitamine dicte,\nVirtutum saxis suffulte fortibus herent :\nPrepositus, prior, his alterque R[odulphus]\nImperis horum famulator concoio fratrum.\nHinc sibi decertant studiis parere vicissim.\nErgo patres sancti, pietatis munere pleni,\nNisibus us Dominum totis potiscis Jhesum\nFratribus oramus pro nostris lumine demptis\nMundali, vitam quo Christus donet in aethra\nHis ubi perpetuas promant feliciter odas. Amen.",
+      "pdf_page": 29,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 228,
+          "titulus_id": 75,
+          "original_name": "Jhesus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Jesus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 229,
+          "titulus_id": 75,
+          "original_name": "Christus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 230,
+          "titulus_id": 75,
+          "original_name": "R[odulphus]",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rodulphus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
     }
   ],
-  "footnotes": [
-    {
-      "id": 35773,
-      "roll_id": 42,
-      "pdf_page": 32,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "devint prieur\u00e9 de Tournus d\u00e8s 875 (cf. D.H.G.E, L. XIII, col. 1109) En cons\u00e9- quence; les personnages mentionn\u00e9s ici furent des   abb\u00e9s   de ce monast\u00e8re Geraldus [ et Guillelmus sont cit\u00e9s par le Gallia christiana (t. IV; col. 968) respectivement en 1064 et de 1056 \u00e0 1060."
-    },
-    {
-      "id": 35774,
-      "roll_id": 42,
-      "pdf_page": 32,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "de   Beaumont-l\u00e8s-Tours; cit\u00e9e sans indication de date, mais ant\u00e9rieurement \u00e0 1070, par le Gallia christiana (L. XIV,col. 313) . (3) Abbesse de  Beaumont-l\u00e8s-Tours incon nue du Callia christiana (loc. cit;)"
-    }
-  ]
+  "footnotes": []
 }

@@ -1,0 +1,664 @@
+{
+  "roll": {
+    "id": 102,
+    "roll_num": 99,
+    "date_str": "S.d. [fin XIe s.-d\u00e9but XIIe s.]",
+    "title": "Rouleau mortuaire (fragmentaire) d'un abb\u00e9 nomm\u00e9 Girard.",
+    "manuscripts": "A. Paris, Bibl. Saint-Genevi\u00e8ve, ms. 1260, fol. 114. Parch\u00e9min (c. et c. p. jaun\u00eates). Un fragment opisthographe. Longueur, 35,5 cm ; largeur, 23 cm.",
+    "pdf_source": "2",
+    "pdf_pages": "51,52,53,54",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 811,
+      "roll_id": 102,
+      "title": "[A. col. 1]",
+      "location_name": "S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "latin_text": "T. SANCTAE MARIAE HUMOLARIENSIS AECGLOSIAE.\nAbbas Girardus redolens velutnardus,\nDum mundo vivit, ex nobis clavula dixit,\nExitit ecclesia, digne vivendo, columna.\nNamque fuit simplex, vel est sine felle columna.\nNecnon cunctorum pater exit hi misericorum.\nNec tamen ista bonum bona se juvere patronum,\nQuin sic occederet, quod l\u0119ti sura subiret.",
+      "pdf_page": 52,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2595,
+          "titulus_id": 811,
+          "original_name": "Girardus",
+          "original_title": "Abbas",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Girard",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Humolariensis"
+        }
+      ]
+    },
+    {
+      "id": 812,
+      "roll_id": 102,
+      "title": "3 S.-Nicolas-aux-Bois.",
+      "location_name": "S.-Nicolas-aux-Bois",
+      "latin_text": "TI. SANCTI NICHOLAI de SALTU. Anima ejus et animae o. f. d. r. i. p. Amen. Orate p. n., donno ablate Lebbaldo (8) Odone monacho, Lettoldo, Hezcelino, Waltero, Tetbaldo, Walthero ceterisque fratribus n. defunctis.",
+      "pdf_page": 52,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2596,
+          "titulus_id": 812,
+          "original_name": "Lebbaldo",
+          "original_title": "donno",
+          "footnote_num": "8",
+          "footnote_text": null,
+          "normalized_name": "Lebbalado",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2597,
+          "titulus_id": 812,
+          "original_name": "Odone",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Odo",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2598,
+          "titulus_id": 812,
+          "original_name": "Lettoldo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lutoldo",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2599,
+          "titulus_id": 812,
+          "original_name": "Hezcelino",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ezecelino",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2600,
+          "titulus_id": 812,
+          "original_name": "Waltero",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gualtero",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2601,
+          "titulus_id": 812,
+          "original_name": "Tetbaldo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Tebaldo",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2602,
+          "titulus_id": 812,
+          "original_name": "Walthero",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gualtero",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 813,
+      "roll_id": 102,
+      "title": "4 S.- Vienne, S. Andr\u00e9[le-Bas].",
+      "location_name": "S.-Vienne, S. Andr\u00e9[le-Bas]",
+      "latin_text": "Ti. Sancti Andre\u00e6 Viennensis obitu. Anima ejus et animae o. f. d. r. i. p. Amen. Orate p. n., domino ablate Dotmari (9) et Theberti, Desiderii, Durandii, Galterii, Almarberti, Ademari et ceteris fratribus n. defunctis.",
+      "pdf_page": 52,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2603,
+          "titulus_id": 813,
+          "original_name": "Dotmari",
+          "original_title": "domino",
+          "footnote_num": "9",
+          "footnote_text": null,
+          "normalized_name": "Dotmar",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2604,
+          "titulus_id": 813,
+          "original_name": "Theberti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Teoberto",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2605,
+          "titulus_id": 813,
+          "original_name": "Desiderii",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Desid\u00e9rio",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2606,
+          "titulus_id": 813,
+          "original_name": "Durandi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Durando",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2607,
+          "titulus_id": 813,
+          "original_name": "Galterii",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gualtero",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2608,
+          "titulus_id": 813,
+          "original_name": "Almarberti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Almarberto",
+          "normalized_role": null,
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2609,
+          "titulus_id": 813,
+          "original_name": "Ademari",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ademari",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2610,
+          "titulus_id": 813,
+          "original_name": "titulus_number: 4}], ",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "titulus_number: 4}], ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 814,
+      "roll_id": 102,
+      "title": "[Av, col. 1] Orate (d) p. n. abbatius atque monachis, Wicrado (2) abbate, Richerio abbate, Ponc\u00edo abbate, Artimando (3) abbate, Giraldo abbate, Pretro (sic) monacho atque Arnaldo monacho atque Petro.",
+      "location_name": "",
+      "latin_text": "Orate (d) p. n. abbatius atque monachis, Wicrado (2) abbate, Richerio abbate, Ponc\u00edo abbate, Artimando (3) abbate, Giraldo abbate, Pretro (sic) monacho atque Arnaldo monacho atque Petro.",
+      "pdf_page": 53,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2611,
+          "titulus_id": 814,
+          "original_name": "Wicrado",
+          "original_title": "abbate",
+          "footnote_num": "2",
+          "footnote_text": null,
+          "normalized_name": "Wicro",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2612,
+          "titulus_id": 814,
+          "original_name": "Richerio",
+          "original_title": "abbate",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Richard",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2613,
+          "titulus_id": 814,
+          "original_name": "Ponc\u00edo",
+          "original_title": "abbate",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pons",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2614,
+          "titulus_id": 814,
+          "original_name": "Artimando",
+          "original_title": "abbate",
+          "footnote_num": "3",
+          "footnote_text": null,
+          "normalized_name": "Artemon",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2615,
+          "titulus_id": 814,
+          "original_name": "Giraldo",
+          "original_title": "abbate",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Giraldo",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2616,
+          "titulus_id": 814,
+          "original_name": "Pretro",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Petrus",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2617,
+          "titulus_id": 814,
+          "original_name": "Arnaldo",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arnold",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2618,
+          "titulus_id": 814,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 815,
+      "roll_id": 102,
+      "title": "[Av] T.(b) SANCTI AMANDI<..........................>(c).",
+      "location_name": "SANCTI AMANDI",
+      "latin_text": "Mors pia, vitis bonis, requies, pax ne <.......> doloris. Cultor amat messem quam salvat ad [horrea], ad aedem; Spargit ad hoc, fructum capiat ceu tempore dignum. Non dolor in patria, regis bene missa recepta. Finis habet meritum pie ducit ad astro peritum, Quam bene fert cursum capiet qui premia sursum, Quo pastor maneat, quan frustra verna me[ni]strat. Quod querunt faciant sibi nobis fore dieli.",
+      "pdf_page": 53,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 816,
+      "roll_id": 102,
+      "title": "8 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es",
+      "latin_text": "TITULUS (a) <........>.",
+      "pdf_page": 53,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 817,
+      "roll_id": 102,
+      "title": "T. SANCTAE MARIE et SANCTI PONCII TOMERIENSIS CENOBII.",
+      "location_name": "Pons-de-Thomi\u00e8res",
+      "latin_text": "Annue nobis, Domine, ut anima famili tuu Guaridri remissionem quem optavit meretare perere peccatorum <...> . Oravimus [pro vestir, orate pro nostris,] Berengerio, 5 <...>, Berengerio, Petro, Bernardo, Petro, Bernardo, Bernardo et Gila femina et Anguinina femina.",
+      "pdf_page": 54,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2619,
+          "titulus_id": 817,
+          "original_name": "Guaridri",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guaridus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2620,
+          "titulus_id": 817,
+          "original_name": "Berengerio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Berengarius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2621,
+          "titulus_id": 817,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Petrus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2622,
+          "titulus_id": 817,
+          "original_name": "Bernardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernardus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2623,
+          "titulus_id": 817,
+          "original_name": "Gila",
+          "original_title": "femina",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gilla",
+          "normalized_role": "woman",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2624,
+          "titulus_id": 817,
+          "original_name": "Anguinina",
+          "original_title": "femina",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Anguinina",
+          "normalized_role": "woman",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 818,
+      "roll_id": 102,
+      "title": "11 S.d.-[Conques,] S. Sauveur.",
+      "location_name": "Conques",
+      "latin_text": "T. SANCTI SALVATORIS SANCTAEQUE FIDEIS. Anima ejus et anim\u0119 o. f. d. r. i. p. Oravimus p. v., orate p. n., Stephano (1) abbate, Odolrico (2) abbate, Raino priore, 10 <...> Poncio (3) episcopo, Petro, <...> Deodato, Petro, Falcone, <...> Durante monacho, Gauzberta femina, Arnalda femina et ceris omnibus.",
+      "pdf_page": 54,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2625,
+          "titulus_id": 818,
+          "original_name": "Stephano",
+          "original_title": "abbate",
+          "footnote_num": "1",
+          "footnote_text": null,
+          "normalized_name": "Stephanus II",
+          "normalized_role": "abbot",
+          "normalized_dates": "1065-1087",
+          "location_name": "Conques"
+        },
+        {
+          "id": 2626,
+          "titulus_id": 818,
+          "original_name": "Odolrico",
+          "original_title": "abbate",
+          "footnote_num": "2",
+          "footnote_text": null,
+          "normalized_name": "Odolricus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2627,
+          "titulus_id": 818,
+          "original_name": "Raino",
+          "original_title": "priore",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rainus",
+          "normalized_role": "prior",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2628,
+          "titulus_id": 818,
+          "original_name": "Poncio",
+          "original_title": "episcopo",
+          "footnote_num": "3",
+          "footnote_text": null,
+          "normalized_name": "Poncius",
+          "normalized_role": "bishop",
+          "normalized_dates": "1079-1090",
+          "location_name": "Rodez"
+        },
+        {
+          "id": 2629,
+          "titulus_id": 818,
+          "original_name": "Deodato",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Deodatus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2630,
+          "titulus_id": 818,
+          "original_name": "Falcone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Falco",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2631,
+          "titulus_id": 818,
+          "original_name": "Durante",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Durandus",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2632,
+          "titulus_id": 818,
+          "original_name": "Gauzberta",
+          "original_title": "femina",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gauzberta",
+          "normalized_role": "woman",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2633,
+          "titulus_id": 818,
+          "original_name": "Arnalda",
+          "original_title": "femina",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arnalda",
+          "normalized_role": "woman",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 819,
+      "roll_id": 102,
+      "title": "S.-D.-Locality and undetermined (S. Pierre, S. Paul).",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 54,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 820,
+      "roll_id": 102,
+      "title": "S.d.-[Maurines,] S. Marius.",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 54,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 821,
+      "roll_id": 102,
+      "title": "S.d.-Mauriac, S. Pierre, S. Mars.",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 54,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 977,
+      "roll_id": 102,
+      "pdf_page": 52,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "A son sujet, cf. notamment E. K. Rand., A survey of the monasteries of Tours, Cambridge (Mass.), t. I, 1929, p. 109, n\u00b0 32."
+    },
+    {
+      "id": 978,
+      "roll_id": 102,
+      "pdf_page": 52,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "A noter cependant que la Gallia christiana (t. XIV, col. 175 et 205) ne mentionne pas de dignitaire de S. Martin de Tours d\u00e9nomm\u00e9 Girard pour l'\u00e9poque de ce rouleau."
+    },
+    {
+      "id": 979,
+      "roll_id": 102,
+      "pdf_page": 53,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "(2) Les abb\u00e9s de Villemagne Wicrado (ou Guicrados), Richerius, Poncius, Giraldus (ou Giraldus) n'\u00e9taient conos jusqu'alors que par leur mention sur le rouleau mortuaire de Guifr\u00e9; cf. supra, p. 204 et n. 6."
+    },
+    {
+      "id": 980,
+      "roll_id": 102,
+      "pdf_page": 53,
+      "pdf_half": "right",
+      "footnote_num": "(3)",
+      "text": "(3) Abb\u00e9 de Villemagne, cit\u00e9 en 1087 par le Gallia christiana (t. VI, col. 405)."
+    },
+    {
+      "id": 981,
+      "roll_id": 102,
+      "pdf_page": 53,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "(a) De ce titre, seul ce mot subsiste enti\u00e8rement ; l'initiale, boulet\u00e9e, mesure 7 cm de haut ; les lettres sauv\u00e9es on un hauteur de 4 cm."
+    },
+    {
+      "id": 982,
+      "roll_id": 102,
+      "pdf_page": 53,
+      "pdf_half": "right",
+      "footnote_num": "b",
+      "text": "(b) La premi\u00e8re ligne est en grande partie rong\u00e9e"
+    },
+    {
+      "id": 983,
+      "roll_id": 102,
+      "pdf_page": 53,
+      "pdf_half": "right",
+      "footnote_num": "c",
+      "text": "(c) Le dernier mot de chaque verse est \u00e9crit apr\u00e8s une espace blanc assez grande."
+    },
+    {
+      "id": 984,
+      "roll_id": 102,
+      "pdf_page": 53,
+      "pdf_half": "right",
+      "footnote_num": "e",
+      "text": "(e) Cette phrase finale occupe seulement la partie gauche de la feuille (parchemin)."
+    }
+  ]
+}

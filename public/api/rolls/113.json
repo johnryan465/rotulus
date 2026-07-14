@@ -1,0 +1,504 @@
+{
+  "roll": {
+    "id": 113,
+    "roll_num": 110,
+    "date_str": "S. d. [1107, mars ou avril]",
+    "title": "Rouleau mortuaire (fragmentaire) de Robert [F'], abb\u00e9 de S. \u00c9tienne de Caen (\u2020 22 janvier 1107)",
+    "manuscripts": "",
+    "pdf_source": "3",
+    "pdf_pages": "8,9",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1096,
+      "roll_id": 113,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Vital(31) se fait l'echo, att\u00e9nuerent un bon nombre de moines de F\u00e9camp, dont Alleume avait auparavant profess\u00e9 \u00e0 S. Germer-de-Fly(32); sin fin lettr\u00e9, celui-ci fut charg\u00e9 de r\u00e9diger l'encyclique du rouleau mortuaire de Guillaume. Si Ordice Vital(34) omit de pr\u00e9ciser la forme de ce texte (prose ou vers), il signale en revanche qu'Alleume avait rassembl\u00e9 de nombreux passages de l\u2019\u00c9criture s'accordant \u00e0 la personnalit\u00e9 du d\u00e9funt (venerabili vitae [Guillelmi] ducentes flores divus Persona coagivat) si; il ajoute en revanche que le style \u00e9tait si beau que de nombreux religieux pleuraient \u00e0 sa lecture (\u00ab Multi legentes rotulis pleuerunt as\u00bb). et, en guise d'exemple, donne \u00e7a ses vers en forme d'\u00e9pitaphe qui \u00e9voquent le conclure:\n\n\u00ab Utilitas et honor Guillelmus in ordine cleri \nBajocas triplici clarus honore fiunt;\nPraemissus opibus Cadomum subditi, inde redactum \nF\u00e9camp celebrat hunc locus, ipse locum.\nPrimipito dum sexta dies superset aprilis,\nLis habuit finem, praemia primipium. \u00bb",
+      "pdf_page": 8,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3165,
+          "titulus_id": 1096,
+          "original_name": "Vital",
+          "original_title": "",
+          "footnote_num": "31",
+          "footnote_text": "Cf. M. Chibnall, The ecclesiastical history of Ordice Vital, t. VI, p. 138.",
+          "normalized_name": "Vital",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3166,
+          "titulus_id": 1096,
+          "original_name": "Alleume",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Allo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3167,
+          "titulus_id": 1096,
+          "original_name": "Guillaume",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3168,
+          "titulus_id": 1096,
+          "original_name": "Ordice Vital",
+          "original_title": "",
+          "footnote_num": "34",
+          "footnote_text": null,
+          "normalized_name": "Vital of Ordice",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1097,
+      "roll_id": 113,
+      "title": "Quelques mois plus tard, le nouvel abb\u00e9 de F\u00e9camp, Roger d'Angers, confia \u00e0 Alleume l'accueil de Bandri de Bourg\u00e9t... ",
+      "location_name": "",
+      "latin_text": "Quelques mois plus tard, le nouvel abb\u00e9 de F\u00e9camp, Roger d'Angers, confia \u00e0 Alleume l'accueil de Bandri de Bourg\u00e9t (95) impressionn\u00e9 par la qualit\u00e9 de sa conversation, copia l\u2019un de ses entretiens avant pour th\u00e8me l\u2019eglogue de Guillaume II de Rods(96); bien que son style soit proche d'autres faire-part contemporains, l'absence de toute r\u00e9f\u00e9rence scripturaire interdit de penser, semble-t-il, qu'il s'agit ici de l'encyclique annon\u00e7ant le d\u00e9c\u00e8s de Guillaume.\nOn peut supposer d'apr\u00e8s la vie et l'\u0153uvre de l'abb\u00e9 de F\u00e9camp que le rouleau mortuaire circula 20 non seulement en Normandie, mais aussi en Angleterre, avec laquelle F\u00e9camp entretenait des relations \u00e9troites(97).",
+      "pdf_page": 8,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3169,
+          "titulus_id": 1097,
+          "original_name": "Roger d'Angers",
+          "original_title": "abb\u00e9 de F\u00e9camp",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Roger of Anjou",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "F\u00e9camp"
+        },
+        {
+          "id": 3170,
+          "titulus_id": 1097,
+          "original_name": "Alleume",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Allo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3171,
+          "titulus_id": 1097,
+          "original_name": "Bandri de Bourg\u00e9t",
+          "original_title": "",
+          "footnote_num": "95",
+          "footnote_text": "",
+          "normalized_name": "Bandry de Bourget",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3172,
+          "titulus_id": 1097,
+          "original_name": "Guillaume II de Rods",
+          "original_title": "",
+          "footnote_num": "96",
+          "footnote_text": "",
+          "normalized_name": "William II of Rhodes",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Rhodes"
+        }
+      ]
+    },
+    {
+      "id": 1098,
+      "roll_id": 113,
+      "title": "",
+      "location_name": "",
+      "latin_text": "La premi\u00e8re pi\u00e8ce (tronqu\u00e9e) de ce fragment est due aux moines de S. \u00c9tienne de Caen, par qui on demande des pri\u00e8res pour Guillaume le Conqu\u00e9rant, fondateur de cette \u00e9glise, ainsi que pour les abb\u00e9s Lanfranc (1063-1070) \u2014 par la suite archev\u00eaque de Canterbury (le 28 mai 1089) \u2014 et Gilbert Callidus (1079-1101) \u2014 une encyclique. Elle fut mise en circulation avant le 9 f\u00e9vrier 1110, jour du d\u00e9c\u00e8s de Guillaume Ier Bonne-Dame, ex\u00e9cuteur abb\u00e9 de S. \u00c9tienne de Caen (1070 \u2013 juillet 1079, puis archev\u00eaque de Rouen (juillet 1109 \u2013 9 f\u00e9vrier 1110) ), absent de la liste des d\u00e9funts, afin de faire part de la mort d'un abb\u00e9 (comme l'indique le mot *payer employ\u00e9 dans la liste de Stavelot). Il ne peut sa git que de Robert I$^{4}$, dont on ignore d'ailleurs presque tout $^{5}$ : successeur de Gilbert Callidus en 1101, il \u00e9dit du nomm\u00e9 Robert Courthebert une foire et un march\u00e9 \u00e0 Chemux, puis r\u00e9gla \u00e0 l'amiable le conflit de justice qui l'opposait \u00e0 Richard II de Dover, \u00e9v\u00eaque de Bayeux ; il mourut le 22 janvier 1107 $^{6}$ , alors qu'il assistait \u00e0 Falaise une assembl\u00e9e des grands du royaume. Cependant, le nec fut pas konnte \u00e0 un messager avant la fin mars ou plut\u00f4t le 28 avril 1107, car Guillaume II de Rots, annonce m\u00eame de S. \u00c9tienne de Caen, puis abb\u00e9 de F\u00e9camp (mort le 26 mars 1107)$^{7}$",
+      "pdf_page": 9,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3173,
+          "titulus_id": 1098,
+          "original_name": "Guillaume le Conqu\u00e9rant",
+          "original_title": "fondateur",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William the Conqueror",
+          "normalized_role": "King of England",
+          "normalized_dates": "r. 1066-1087",
+          "location_name": ""
+        },
+        {
+          "id": 3174,
+          "titulus_id": 1098,
+          "original_name": "Lanfranc",
+          "original_title": "abb\u00e9s... archev\u00eaque de Canterbury",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lanfranc of Bec",
+          "normalized_role": "Archbishop of Canterbury",
+          "normalized_dates": "1063-1070",
+          "location_name": ""
+        },
+        {
+          "id": 3175,
+          "titulus_id": 1098,
+          "original_name": "Gilbert Callidus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gilbert Callidus",
+          "normalized_role": "",
+          "normalized_dates": "1079-1101",
+          "location_name": ""
+        },
+        {
+          "id": 3176,
+          "titulus_id": 1098,
+          "original_name": "Guillaume Ier Bonne-Dame",
+          "original_title": "ex\u00e9cuteur abb\u00e9",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William I",
+          "normalized_role": "Abbot/Duke",
+          "normalized_dates": "d. 1110",
+          "location_name": "S. \u00c9tienne de Caen"
+        },
+        {
+          "id": 3177,
+          "titulus_id": 1098,
+          "original_name": "Robert I$^{4}$",
+          "original_title": "",
+          "footnote_num": "4",
+          "footnote_text": "Robert I",
+          "normalized_name": "Robert I",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3178,
+          "titulus_id": 1098,
+          "original_name": "Gilbert Callidus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gilbert Callidus",
+          "normalized_role": "",
+          "normalized_dates": "1101",
+          "location_name": ""
+        },
+        {
+          "id": 3179,
+          "titulus_id": 1098,
+          "original_name": "Robert Courthebert",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert Courthebert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3180,
+          "titulus_id": 1098,
+          "original_name": "Richard II de Dover",
+          "original_title": "\u00e9v\u00eaque de Bayeux",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Richard II of Dover",
+          "normalized_role": "Bishop",
+          "normalized_dates": "",
+          "location_name": "Bayeux"
+        },
+        {
+          "id": 3181,
+          "titulus_id": 1098,
+          "original_name": "Guillaume II de Rots",
+          "original_title": "abb\u00e9 de F\u00e9camp",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William II of Rots",
+          "normalized_role": "Abbot",
+          "normalized_dates": "d. 1107",
+          "location_name": "F\u00e9camp"
+        }
+      ]
+    },
+    {
+      "id": 1099,
+      "roll_id": 113,
+      "title": "1 S.-Mortain, S. Trinit\u00e9 (1)",
+      "location_name": "S.-Mortain, S. Trinit\u00e9",
+      "latin_text": "[Titulu]s sanctae Trinitatis Moritonensis. Congregatio pauperum fratrum. Exortes socorsellam vos colligat <......> pororum. Orate p. n. et nos p. v., nostris 20 Rainfredo (2), Ricardo, Amundo, Rohede, Herberto, <...>rde, Ranulfo, Gufredo, Emma, Ermessende, Odemanno, Rotberto, Laurentio, Tiedbaldo, Anzfida, Rotberto, (2), Ricardo, Amundo, Rohede, Herberto, <...>rde, Ranulfo, Gufredo, Emma, Ermessende, Odemanno, Rotberto, Laurentio, Tiedbaldo, Anzfida, Rotberto,",
+      "pdf_page": 9,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3182,
+          "titulus_id": 1099,
+          "original_name": "Rainfredo",
+          "original_title": "",
+          "footnote_num": "2",
+          "footnote_text": null,
+          "normalized_name": "Rainfred",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3183,
+          "titulus_id": 1099,
+          "original_name": "Ricardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Richard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3184,
+          "titulus_id": 1099,
+          "original_name": "Amundo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Amund",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3185,
+          "titulus_id": 1099,
+          "original_name": "Rohede",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rode",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3186,
+          "titulus_id": 1099,
+          "original_name": "Herberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Herbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3187,
+          "titulus_id": 1099,
+          "original_name": "Ranulfo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ranulf",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3188,
+          "titulus_id": 1099,
+          "original_name": "Gufredo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Godfrey",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3189,
+          "titulus_id": 1099,
+          "original_name": "Emma",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Emma",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3190,
+          "titulus_id": 1099,
+          "original_name": "Ermessende",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ermesinde",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3191,
+          "titulus_id": 1099,
+          "original_name": "Odemanno",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Edmond",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3192,
+          "titulus_id": 1099,
+          "original_name": "Rotberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3193,
+          "titulus_id": 1099,
+          "original_name": "Laurentio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lawrence",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3194,
+          "titulus_id": 1099,
+          "original_name": "Tiedbaldo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Theobald",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3195,
+          "titulus_id": 1099,
+          "original_name": "Anzfida",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ansfried",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 1190,
+      "roll_id": 113,
+      "pdf_page": 8,
+      "pdf_half": "right",
+      "footnote_num": "31",
+      "text": "Cf. M. Chibnall, The ecclesiastical history of Ordice Vital, t. VI, p. 138."
+    },
+    {
+      "id": 1191,
+      "roll_id": 113,
+      "pdf_page": 8,
+      "pdf_half": "right",
+      "footnote_num": "95",
+      "text": ""
+    },
+    {
+      "id": 1192,
+      "roll_id": 113,
+      "pdf_page": 8,
+      "pdf_half": "right",
+      "footnote_num": "96",
+      "text": ""
+    },
+    {
+      "id": 1193,
+      "roll_id": 113,
+      "pdf_page": 8,
+      "pdf_half": "right",
+      "footnote_num": "97",
+      "text": ""
+    },
+    {
+      "id": 1194,
+      "roll_id": 113,
+      "pdf_page": 8,
+      "pdf_half": "right",
+      "footnote_num": "98",
+      "text": "Baldrici itinerarium sive epistola ad Fiscannenses, dans P. L., t. CLXVI, col. 1176-1177."
+    },
+    {
+      "id": 1195,
+      "roll_id": 113,
+      "pdf_page": 9,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": "Robert I"
+    },
+    {
+      "id": 1196,
+      "roll_id": 113,
+      "pdf_page": 9,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": "dont on ignore d'ailleurs presque tout"
+    },
+    {
+      "id": 1197,
+      "roll_id": 113,
+      "pdf_page": 9,
+      "pdf_half": "left",
+      "footnote_num": "6",
+      "text": "alors qu'il assistait \u00e0 Falaise une assembl\u00e9e des grands du royaume."
+    },
+    {
+      "id": 1198,
+      "roll_id": 113,
+      "pdf_page": 9,
+      "pdf_half": "left",
+      "footnote_num": "7",
+      "text": "(mort le 26 mars 1107)"
+    }
+  ]
+}

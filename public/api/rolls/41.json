@@ -1,90 +1,215 @@
 {
   "roll": {
     "id": 41,
-    "roll_num": "76",
-    "date_str": "S.d.",
-    "title": "S.d. [avant 7056] 25 Encycique sollicitant de prier ] pour Andr\u00e9, prieur de A Original _ Fleury perdu. B. Paris, B N.F, lat. 6365, fol. 2 '(d\u00e9but du XIIF &)  a.L. Delisle, Rouleaur et G. Laborys des morts du IX* au XV 30 Andr\u00e9 de _ Fleury. Vie de s., P. 147,n\" (ed. partielle) . Gauzlin, XXVIII, ' abb\u00e9 de dapr\u00e8s = Fleury , B.- 6. Paris; R.H. 1969, Bautier p 8 n. 4, dapr\u00e8s a",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "27,28,29,30",
+    "roll_num": 46,
+    "date_str": "S.d. [apr\u00e8s f\u00e9vrier 979]",
+    "title": "",
+    "manuscripts": "A. Original perdu.\nB. Paris, B. N. F., lat. 8674, fol. 112 (fin X\u00ba-d\u00e9but XI\u207a s.).",
+    "pdf_source": "1",
+    "pdf_pages": "27,28",
     "is_verified": 0
   },
   "tituli": [
     {
-      "id": 46696,
+      "id": 69,
       "roll_id": 41,
-      "title": "T. ecclesiae Atrebatensis. Flens Atrebatum Warneri flebile fatum Orat ut aeternum gaudens ignoret av",
-      "location_name": "ecclesiae Atrebatensis",
-      "latin_text": "Tournai de 950 \u00e0 1044 cf. Gams, loc. cit. \u00c9v\u00eaque de Noyon et Le Gallia christiana (ibid , col 1031) ne janvier 952/953 ; c\u00ca: Gams; P. 589. mentionne que le deuxi\u00e8me de ces doyens de (2) Harduinus de Croy; \u00e9v\u00eaque de Noyon et Noyon et cela pour Tan 1000. Tournai de 1015 \u00e0 1030 ; cf. Gams, loc: cit. (3) \u00c9v\u00eaque de Noyon et Tournai de 1030 \u00e0",
-      "pdf_page": 30,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Sole preceti cursu ab alto vertigene poli jam decensium petente suum, III nonas scilicet septembris, delator horum apcium adveniens lucifer penetravit limina beate ac perpetue \u03b8\u03c1\u03bf\u03c4\u03ac\u03ba\u03bf\u03c2 (9) sancti Stephani, pretiosissimi Christi, tradens nobis hanc rotulam, habunde anxietate restarts; quam dis 5 solventes, ac simul illeta legendis, cognovimus qualem (vel qu\u00e6dam) (10) vestrum nurperime care fore solutus (solum). Pro quibus (quo) ille proliberatis chorentus talis (talih) debeantibus fratris (fratrid) \u062a\u0642\u062f\u064a\u0645 Dominum, presentes ex corde quod in eis (est) esse macla victorum pollutem, ejus confessio monasterio incarnatione mundi, adfecto illos (illum) ovant gaudere per evum; 10 illud apostoli Pauli oblate competentis, adfecto illos (illum) ovant gaudere per evum; 15 Alter alteris honora subferte (1) et taliter adimpletus legem Christi. Nostri inter loci domesticum Deo et hominibus amabilens Anastasium archiepiscopus nomine officium, qui sibi commisiam jure ac fideliter tamen, non aliud predicans ore quam completio ob. suum quo etiam obtemine Ingelraldus (2) servat curam decanui, et reliqui fratres consistant 15 haec luce subtractis quod petere dignati estis per vestris.\nOmnipotens celos vosmet benedicat ab alto,\nConferat et vit\u00e6 prim\u00e6 perpetu\u00e6.\nSis memor Gerrelni, concio sancta, vige.\nManass\u00e9 Deus eternam tribuque salutem\nConspic\u00e6 clarifica condi compone corona. Amen.",
+      "pdf_page": 27,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 216,
+          "titulus_id": 69,
+          "original_name": "Stephani",
+          "original_title": "sancti",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Stephen",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 217,
+          "titulus_id": 69,
+          "original_name": "original_name': 'Christi', 'original_title': '', 'footnote_num': null, 'normalized_name': 'Christ', 'normalized_role': '', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Pauli', 'original_title': 'apostoli', 'footnote_num': null, 'normalized_name': 'Paul', 'normalized_role': 'apostle', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Anastasium', 'original_title': 'archiepiscopus', 'footnote_num': null, 'normalized_name': 'Anastasius', 'normalized_role': 'archbishop', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Ingelraldus', 'original_title': '', 'footnote_num': null, 'normalized_name': 'Ingelraldus', 'normalized_role': '', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Gerrelni', 'original_title': '', 'footnote_num': null, 'normalized_name': 'Gerrel', 'normalized_role': '', 'normalized_dates': '', 'location_name': null}], ",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "original_name': 'Christi', 'original_title': '', 'footnote_num': null, 'normalized_name': 'Christ', 'normalized_role': '', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Pauli', 'original_title': 'apostoli', 'footnote_num': null, 'normalized_name': 'Paul', 'normalized_role': 'apostle', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Anastasium', 'original_title': 'archiepiscopus', 'footnote_num': null, 'normalized_name': 'Anastasius', 'normalized_role': 'archbishop', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Ingelraldus', 'original_title': '', 'footnote_num': null, 'normalized_name': 'Ingelraldus', 'normalized_role': '', 'normalized_dates': '', 'location_name': null}, {'original_name': 'Gerrelni', 'original_title': '', 'footnote_num': null, 'normalized_name': 'Gerrel', 'normalized_role': '', 'normalized_dates': '', 'location_name': null}], ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "roll_id": 41,
+      "title": "orphaned_tituli': [], ",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 27,
       "pdf_half": "right",
       "entities": []
+    },
+    {
+      "id": 71,
+      "roll_id": 41,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Ce titre, suppos\u00e9 le jour de la f\u00eate des saints Nazaire, Nabor, Cyrin et Celse (12 juin), mentionne l'abb\u00e9 de Fleury, Rouvrais, mort le 16 f\u00e9vrier 979 (1).",
+      "pdf_page": 28,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 218,
+          "titulus_id": 71,
+          "original_name": "Nazaire, Nabor, Cyrin et Celse",
+          "original_title": "saints",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Nazarius, Nabor, Cyrinus, and Celsus",
+          "normalized_role": "saints",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 219,
+          "titulus_id": 71,
+          "original_name": "l'abb\u00e9 de Fleury, Rouvrais",
+          "original_title": "abb\u00e9",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rouvrais",
+          "normalized_role": "abbot",
+          "normalized_dates": "died 979-02-16",
+          "location_name": "Fleury"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "roll_id": 41,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Deinde alios sanctos, quorum solemnia sacra\nExcolimus famuli, totis visceribus alme\nPoscimius ut nobis tribuant decora alta parentis.\nVocibus assiduus dum talis sepe canentes\nFestivum celebrare diem, fratres venerandi,\nVellemus, valide vester tume limina vivit\nPortitor almifae Mariae, Christi gemini,\nFemina que Dominum proprio de corpore natum,\nAngelicos coetus transcendens (a) nunc beata,\nProtulit in terris sacro de pneumate (b) cr\u00e6tum.\nCujus caula nitet famosis laudibus alma.\nHocque loco rutilat dudum vocitamine dictus,\nAurea Vallis erat, tali dixere priores,\nAst nunc Floriacus dictus nomine pulchro,\nFloribus insertus jussu Domini omnipotentis.\nHic bovens hospes pastor monachorum\nConditus in pulchris rescomit sonate gemmis,\nVirtutum meritis toto qui fugdet in orbite,\nVirtus namque sua permanit ad astra (c).\nGallia congaudat tanto redimita patrono (d)\nAst Ilii nimium lacrimis pectusque rigente[s]\nFletibus assiduus vasui de munere magno.\nContinuo et legume vestrorum futura fraterum,\nDulcifrui fratres, valde Domino caelentes.\nMox dolor hanimus (e) cunctorum delicta corda\nPerculit haud animum, lacrimasque ex pectore solvit,\nSupplicibus vota Domino, tum pectore flebo,\nVota precum, famili possint quo gaudia coeli\nScandere perpetuo, Jhesu tribuene benigno,\nAtque lacum superare satis hostem Radamantum\nOmnimodi valete et vincere pessima regna,\nQue rabidus flammis flamed torrentibus annis (f)\nTartar cum Flegeton, torquet sonantia saxa.\nPrestat nunc animo parvis renovare loquelis\nNomina que proceres habeant ducto[r] phalangis,\nPrimus ab ethereo summons decoratus Olimpo.",
+      "pdf_page": 28,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 220,
+          "titulus_id": 72,
+          "original_name": "Mariae",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "Virgin Mary",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 221,
+          "titulus_id": 72,
+          "original_name": "Christi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 222,
+          "titulus_id": 72,
+          "original_name": "Radamantum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rhadamanthus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 223,
+          "titulus_id": 72,
+          "original_name": "Jhesu",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Jesus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 224,
+          "titulus_id": 72,
+          "original_name": "Olimpo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Olympus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
     }
   ],
   "footnotes": [
     {
-      "id": 35765,
+      "id": 172,
       "roll_id": 41,
-      "pdf_page": 27,
-      "pdf_half": "right",
+      "pdf_page": 28,
+      "pdf_half": "left",
       "footnote_num": "1",
-      "text": "Ilnl DaUlcr Ul Da A P. 9), il faut   noter cependant que le nom dAndr\u00e9 se rencontre \u00e0 mainte reprise dans le n\u00e9crologe de Fleury du XVe s \" (2) R.-H. Bautier et G. Labory; op. cil., p. 8 Ibid.  Toutefois; je ne crois   pas   fond\u00e9e Fhypoth\u00e8se de R-H. Bautier et G, Labory (op. cil., P. 9), selon laquelle  Andr\u00e9,   monachus; mentionn\u00e9 parmi les d\u00e9funts de Fleury sur le"
+      "text": "Ce titre, suppos\u00e9 le jour de la f\u00eate des saints Nazaire, Nabor, Cyrin et Celse (12 juin), mentionne l'abb\u00e9 de Fleury, Rouvrais, mort le 16 f\u00e9vrier 979 (1)."
     },
     {
-      "id": 35766,
-      "roll_id": 41,
-      "pdf_page": 27,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "P. 187), ne serait autre que ce 'pricur Andr\u00e9 , cC type de documents [les rouleaux des morts] au moins \u00e0 Fleury; donnant la qualit\u00e9 de monachus m\u00eame aux officiers de labbaye, exception faite du seul abb\u00e9 w Cf. Gen., III, 19 quia pulvis 0 ct {n pulverem reverteris 9 ,"
-    },
-    {
-      "id": 35767,
+      "id": 173,
       "roll_id": 41,
       "pdf_page": 28,
       "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "Anne de somnDeTIOL, CiCYC & V 1aa"
+      "footnote_num": "a",
+      "text": "transcendens B; corrige transcendens."
     },
     {
-      "id": 35768,
+      "id": 174,
       "roll_id": 41,
       "pdf_page": 28,
       "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "Vidier (op. cit., P. 121) remarque que liste dautres fr\u00e8res d\u00e9c\u00e9d\u00e9s 229 annonc\u00e9e cette comme \u00e9tant jointe \u00e0 lencyclique; n'a pas \u00e9t\u00e9"
+      "footnote_num": "b",
+      "text": "nepumate B; corrige neumate."
     },
     {
-      "id": 35769,
+      "id": 175,
       "roll_id": 41,
       "pdf_page": 28,
       "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "lors de la transcription du faire-part dans le ms. qui nous en a conserve ]e textc (2) \u00c9d. partielle R. H.F,L X, P 382"
+      "footnote_num": "c",
+      "text": "patrona B; corrige patrono."
     },
     {
-      "id": 35770,
+      "id": 176,
       "roll_id": 41,
-      "pdf_page": 29,
+      "pdf_page": 28,
       "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "B ; corrigez Sumite."
+      "footnote_num": "d",
+      "text": "cunctorum delicta corda solvit"
     },
     {
-      "id": 35771,
+      "id": 177,
       "roll_id": 41,
-      "pdf_page": 29,
+      "pdf_page": 28,
       "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "ce personnage; cf: supra, P. 195,n.1. Abb\u00e9 de S. B\u00e9nigne de Dijon et archev\u00ea- que de Lyon; mort \u00e0 Rome le 29 ou 30 juillet 1052 cf. Gallia christiana, t. IV, col. 84-87 et"
-    },
-    {
-      "id": 35772,
-      "roll_id": 41,
-      "pdf_page": 29,
-      "pdf_half": "right",
-      "footnote_num": "678",
-      "text": "N. Bulst,   Untersuchungen Zu den Klosterreformen Wilhelms von Dijon   (962 1031 ) , Bonn; 1973, passim."
+      "footnote_num": "e",
+      "text": "annis B; corrige annis."
     }
   ]
 }

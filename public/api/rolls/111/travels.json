@@ -1,0 +1,151 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Corbie, France",
+    "coords": [
+      49.9089,
+      2.5117
+    ],
+    "year": 1106,
+    "date_str": "S. d. [1106 ou peu apr\u00e8s]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) de Foulques, abb\u00e9..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Monte Cassino",
+    "coords": null,
+    "year": 1106,
+    "date_str": "S. d. [1106 ou peu apr\u00e8s]",
+    "is_approximate": true,
+    "description": "Oderisius (cardinal and abbot)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Subiaco",
+    "coords": null,
+    "year": 1106,
+    "date_str": "S. d. [1106 ou peu apr\u00e8s]",
+    "is_approximate": true,
+    "description": "Gautier (monk)"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Corbie, France",
+    "coords": [
+      49.9089,
+      2.5117
+    ],
+    "year": 1106,
+    "date_str": "S. d. [1106 ou peu apr\u00e8s]",
+    "is_approximate": false,
+    "description": "Richard (abbot)"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Flanders",
+    "coords": null,
+    "year": 1106,
+    "date_str": "S. d. [1106 ou peu apr\u00e8s]",
+    "is_approximate": true,
+    "description": "Baldwin V (count of Flanders)"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Corbie, France",
+    "coords": [
+      49.9089,
+      2.5117
+    ],
+    "year": 1106,
+    "date_str": "S. d. [1106 ou peu apr\u00e8s]",
+    "is_approximate": false,
+    "description": "Robert (abbot)"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "GANDAVO",
+    "coords": null,
+    "year": 1106,
+    "date_str": "S. d. [1106 ou peu apr\u00e8s]",
+    "is_approximate": true,
+    "description": "Titulus Header: GANDAVO"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Oudenburg",
+    "coords": null,
+    "year": 1106,
+    "date_str": "S. d. [1106 ou peu apr\u00e8s]",
+    "is_approximate": true,
+    "description": "Titulus Header: Oudenburg"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Ieper",
+    "coords": null,
+    "year": 1106,
+    "date_str": "S. d. [1106 ou peu apr\u00e8s]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ieper"
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Voormezele",
+    "coords": null,
+    "year": 1106,
+    "date_str": "S. d. [1106 ou peu apr\u00e8s]",
+    "is_approximate": true,
+    "description": "Titulus Header: Voormezele"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Bergues",
+    "coords": null,
+    "year": 1106,
+    "date_str": "S. d. [1106 ou peu apr\u00e8s]",
+    "is_approximate": true,
+    "description": "Winoc (saint)"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "Watten",
+    "coords": null,
+    "year": 1106,
+    "date_str": "S. d. [1106 ou peu apr\u00e8s]",
+    "is_approximate": true,
+    "description": "Titulus Header: Watten"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "S. Omer",
+    "coords": null,
+    "year": 1106,
+    "date_str": "S. d. [1106 ou peu apr\u00e8s]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Omer"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "Belvacensis",
+    "coords": null,
+    "year": 1106,
+    "date_str": "S. d. [1106 ou peu apr\u00e8s]",
+    "is_approximate": true,
+    "description": "Quintin (saint)"
+  }
+]

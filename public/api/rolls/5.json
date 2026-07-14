@@ -1,0 +1,1240 @@
+{
+  "roll": {
+    "id": 5,
+    "roll_num": 6,
+    "date_str": "S.d. [vers 769-770]",
+    "title": "Statuts d'une association de pri\u00e8res pour les d\u00e9funts \u00e9tablis lors du conclave bavarois de Dingoing.",
+    "manuscripts": "A. Original perdu.\nB. M\u00fcnchen, Bayer. Staatsbibl., Clm 6028, fol. 26v (VIII\u2014IX\u201ds.). \u2013 C. M\u00fcnchen, Bayer. Staatsbibl., Clm 9415, p. 226 (XI\u1d57). \u2013 D. M\u00fcnchen, Bayer. Staatsbibl., Clm 5260, fol. 28v (XII\u1d57 s.). \u2013 E. M\u00fcnchen, Bayer. Staatsbibl., Clm 3519, fol. 37 (XII\u1d57 s.).",
+    "pdf_source": "1",
+    "pdf_pages": "4,5,6",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 8,
+      "roll_id": 5,
+      "title": "",
+      "location_name": "",
+      "latin_text": "gus \u1d41\u2071\u207d, abbas de Germedico, Withlecus \u1d41\u2072\u207d, abbas de Funtanella, Witmarus \u1d41\u2073\u207d, abbas de Centula. Lodharius \u1d41\u2074\u207d, abbas de Corbeia, Manase \u1d41\u2075\u200d, abbas de Flavi- niaco, Asinarius \u1d41\u2076\u207d, abbas de Novalicio. Waldo \u1d41\u2077\u207d, abbas de Sancto Johanne. Rabi- gadus \u1d41\u2078\u207d, abbas de Bushburno. Goddobertus \u1d41\u2079\u207d, abbas de Rasbac. Thalber- tus \u1d41\u2071\u2070\u207d, abbas de Fabarias, Widuinus \u1d41\u2071\u2071\u207d, abbas de Sancta Columba. Ebarsin- dus \u1d41\u2071\u2072\u207d, abbas de Aldaha. Erdanus \u1d41\u2071\u2073\u207d, abbas de Niviella. Ragingarius \u1d41\u2071\u2074\u207d, abbas de Utica.",
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 15,
+          "titulus_id": 8,
+          "original_name": "Withlecus",
+          "original_title": "abbas",
+          "footnote_num": "2",
+          "footnote_text": "abbate de Funtanella",
+          "normalized_name": "Withlecus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Funtanella"
+        },
+        {
+          "id": 16,
+          "titulus_id": 8,
+          "original_name": "Witmarus",
+          "original_title": "abbas",
+          "footnote_num": "3",
+          "footnote_text": "abbate de Centula",
+          "normalized_name": "Witmarus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Centula"
+        },
+        {
+          "id": 17,
+          "titulus_id": 8,
+          "original_name": "Lodharius",
+          "original_title": "abbas",
+          "footnote_num": "4",
+          "footnote_text": "abbate de Corbeia",
+          "normalized_name": "Lodharius",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Corbeia"
+        },
+        {
+          "id": 18,
+          "titulus_id": 8,
+          "original_name": "Manase",
+          "original_title": "abbas",
+          "footnote_num": "5",
+          "footnote_text": "abbate de Flavinico",
+          "normalized_name": "Manasse",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 19,
+          "titulus_id": 8,
+          "original_name": "Asinarius",
+          "original_title": "abbas",
+          "footnote_num": "6",
+          "footnote_text": "abbate de Novalicio",
+          "normalized_name": "Asinari",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Novalicio"
+        },
+        {
+          "id": 20,
+          "titulus_id": 8,
+          "original_name": "Waldo",
+          "original_title": "abbas",
+          "footnote_num": "7",
+          "footnote_text": "abbate de Sancto Johanne",
+          "normalized_name": "Waldo",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Sancto Johanne"
+        },
+        {
+          "id": 21,
+          "titulus_id": 8,
+          "original_name": "Ragindus",
+          "original_title": "abbas",
+          "footnote_num": "8",
+          "footnote_text": "abbate de Bushburno",
+          "normalized_name": "Ragindus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Bushburno"
+        },
+        {
+          "id": 22,
+          "titulus_id": 8,
+          "original_name": "Goddobertus",
+          "original_title": "abbas",
+          "footnote_num": "9",
+          "footnote_text": "abbate de Rasbac",
+          "normalized_name": "Goddobert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Rasbac"
+        },
+        {
+          "id": 23,
+          "titulus_id": 8,
+          "original_name": "Thalbertus",
+          "original_title": "abbas",
+          "footnote_num": "10",
+          "footnote_text": "abbate de Fabarias",
+          "normalized_name": "Thalbert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Fabarias"
+        },
+        {
+          "id": 24,
+          "titulus_id": 8,
+          "original_name": "Widuinus",
+          "original_title": "abbas",
+          "footnote_num": "11",
+          "footnote_text": "abbate de Sancta Columba",
+          "normalized_name": "Widuin",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Sancta Columba"
+        },
+        {
+          "id": 25,
+          "titulus_id": 8,
+          "original_name": "Ebarsindus",
+          "original_title": "abbas",
+          "footnote_num": "12",
+          "footnote_text": "abbate de Aldaha",
+          "normalized_name": "Ebarsind",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Aldaha"
+        },
+        {
+          "id": 26,
+          "titulus_id": 8,
+          "original_name": "Erdanus",
+          "original_title": "abbas",
+          "footnote_num": "13",
+          "footnote_text": "abbate de Niviella",
+          "normalized_name": "Erdanus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Niviella"
+        },
+        {
+          "id": 27,
+          "titulus_id": 8,
+          "original_name": "Ragingarius",
+          "original_title": "abbas",
+          "footnote_num": "14",
+          "footnote_text": "abbate de Utica",
+          "normalized_name": "Ragingarius",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Utica"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "roll_id": 5,
+      "title": "",
+      "location_name": "",
+      "latin_text": "episcopus civitatis Susaensis, Althaffridus (1), episcopus civitas Novionis. Mego- nien (2), episcopus civitas Wirzburgu. Williharius (3), episcopus de monasterio Sancti Mauritii, Felericus (4), episcopus civitas Tungris. Theodulfus (5), episcopus de monasterio Lanensis. Hiddo (6), episcopus Augustoduno. Yppolitus (7) episcopus de monasterio Egesti (8). Jacob (9). episcopus de monasterio Garimundi. Gancilanus (10), episcopus civitas Colenani. Johannes (11), episcopus civitatis Cassan\u00e6. Willibaldus (12), episcopus de monasterio Achiladi. Madal- inus (13), episcopus civitas Wurdunis. Hartuus (14), episcopus civitas Bisentonis. Leudiniacus (15), episcopus civitas Beornas. Eusebius (16), episcopus civitas Toro- rio. Felix (17), episcopus civitas Coradido. Mauriolus (18), episcopus civitas Ancona. Aldfridus. Fularius (19), abbas de monasterio Sancti Dionysii. Lantfridus (20), abbas de Sancto Germani. Johannes (21), abbas de Sancto Clodoaldo. (22), Druhtgan-",
+      "pdf_page": 5,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 28,
+          "titulus_id": 9,
+          "original_name": "Althaffridus",
+          "original_title": "episcopus civitatis Susaensis",
+          "footnote_num": "1",
+          "footnote_text": "abbate de Germedico",
+          "normalized_name": "Althafred",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Susa"
+        },
+        {
+          "id": 29,
+          "titulus_id": 9,
+          "original_name": "Williharius",
+          "original_title": "episcopus civitas Wirzburgu",
+          "footnote_num": "3",
+          "footnote_text": "abbate de Centula",
+          "normalized_name": "Wilhelm",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 30,
+          "titulus_id": 9,
+          "original_name": "Felericus",
+          "original_title": "episcopus de monasterio Sancti Mauritii",
+          "footnote_num": "4",
+          "footnote_text": "abbate de Corbeia",
+          "normalized_name": "Felice",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Saint-Maur"
+        },
+        {
+          "id": 31,
+          "titulus_id": 9,
+          "original_name": "Theodulfus",
+          "original_title": "episcopus civitas Tungris",
+          "footnote_num": "5",
+          "footnote_text": "abbate de Flavinico",
+          "normalized_name": "Theodulf",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Tours"
+        },
+        {
+          "id": 32,
+          "titulus_id": 9,
+          "original_name": "Hiddo",
+          "original_title": "episcopus de monasterio Lanensis",
+          "footnote_num": "6",
+          "footnote_text": "abbate de Novalicio",
+          "normalized_name": "Hiddo",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Landes"
+        },
+        {
+          "id": 33,
+          "titulus_id": 9,
+          "original_name": "Yppolitus",
+          "original_title": "episcopus Augustoduno",
+          "footnote_num": "7",
+          "footnote_text": "abbate de Sancto Johanne",
+          "normalized_name": "Hippolyte",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Autun"
+        },
+        {
+          "id": 34,
+          "titulus_id": 9,
+          "original_name": "Jacob",
+          "original_title": "episcopus de monasterio Egesti",
+          "footnote_num": "9",
+          "footnote_text": "abbate de Rasbac",
+          "normalized_name": "Jacques",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Egesta"
+        },
+        {
+          "id": 35,
+          "titulus_id": 9,
+          "original_name": "Gancilanus",
+          "original_title": "episcopus de monasterio Garimundi",
+          "footnote_num": "10",
+          "footnote_text": "abbate de Fabarias",
+          "normalized_name": "Gancelin",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Garimund"
+        },
+        {
+          "id": 36,
+          "titulus_id": 9,
+          "original_name": "Johannes",
+          "original_title": "episcopus civitas Colenani",
+          "footnote_num": "11",
+          "footnote_text": "abbate de Sancta Columba",
+          "normalized_name": "Jean",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Cologne"
+        },
+        {
+          "id": 37,
+          "titulus_id": 9,
+          "original_name": "Willibaldus",
+          "original_title": "episcopus civitatis Cassan\u00e6",
+          "footnote_num": "12",
+          "footnote_text": "abbate de Aldaha",
+          "normalized_name": "Wilbald",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Cassano"
+        },
+        {
+          "id": 38,
+          "titulus_id": 9,
+          "original_name": "Hartuus",
+          "original_title": "episcopus de monasterio Achiladi",
+          "footnote_num": "13",
+          "footnote_text": "abbate de Niviella",
+          "normalized_name": "Hart",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Achel"
+        },
+        {
+          "id": 39,
+          "titulus_id": 9,
+          "original_name": "Madalinus",
+          "original_title": "episcopus civitas Wurdunis",
+          "footnote_num": "13",
+          "footnote_text": "abbate de Niviella",
+          "normalized_name": "Madalino",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Worms"
+        },
+        {
+          "id": 40,
+          "titulus_id": 9,
+          "original_name": "Leudiniacus",
+          "original_title": "episcopus civitas Bisentonis",
+          "footnote_num": "15",
+          "footnote_text": null,
+          "normalized_name": "Leudiniacus",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Bisentio"
+        },
+        {
+          "id": 41,
+          "titulus_id": 9,
+          "original_name": "Eusebius",
+          "original_title": "episcopus civitas Beornas",
+          "footnote_num": "16",
+          "footnote_text": null,
+          "normalized_name": "Eus\u00e8be",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Beorna"
+        },
+        {
+          "id": 42,
+          "titulus_id": 9,
+          "original_name": "Felix",
+          "original_title": "episcopus civitas Tororio",
+          "footnote_num": "17",
+          "footnote_text": null,
+          "normalized_name": "F\u00e9lix",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Torrio"
+        },
+        {
+          "id": 43,
+          "titulus_id": 9,
+          "original_name": "Mauriolus",
+          "original_title": "episcopus civitas Coradido",
+          "footnote_num": "18",
+          "footnote_text": null,
+          "normalized_name": "Mauriol",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Coradido"
+        },
+        {
+          "id": 44,
+          "titulus_id": 9,
+          "original_name": "Aldfridus",
+          "original_title": "episcopus civitas Ancona",
+          "footnote_num": "19",
+          "footnote_text": null,
+          "normalized_name": "Alfridus",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Ancona"
+        },
+        {
+          "id": 45,
+          "titulus_id": 9,
+          "original_name": "Fularius",
+          "original_title": "abbas de monasterio Sancti Dionysii",
+          "footnote_num": "19",
+          "footnote_text": null,
+          "normalized_name": "Fularius",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Saint-Denis"
+        },
+        {
+          "id": 46,
+          "titulus_id": 9,
+          "original_name": "Lantfridus",
+          "original_title": "abbas de Sancto Germani",
+          "footnote_num": "20",
+          "footnote_text": null,
+          "normalized_name": "Lantfrid",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Saint-Germain"
+        },
+        {
+          "id": 47,
+          "titulus_id": 9,
+          "original_name": "Johannes",
+          "original_title": "abbas de Sancto Clodoaldo",
+          "footnote_num": "21",
+          "footnote_text": null,
+          "normalized_name": "Jean",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Saint-Cloud"
+        },
+        {
+          "id": 48,
+          "titulus_id": 9,
+          "original_name": "Druhtgan",
+          "original_title": "",
+          "footnote_num": "22",
+          "footnote_text": null,
+          "normalized_name": "Druhtgan",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "roll_id": 5,
+      "title": "",
+      "location_name": "",
+      "latin_text": "gus\u1d31\u02ca, abbos de Gemedico. Withiemus\u02c7\u02ca, abbos de Puntawilas. Witmarus\u02c7\u02ca, abbos de Centula. Leodharus\u02c7\u02ca, abbos de Corbeia, Manau\u02c7\u02ca, abbos de Flavi- niaco. Asinarius\u02c7\u02ca, abbos de Novalicio. Waldo\u02c7\u02ca, abbos de Sancto Johanne. Rahi- gaudus\u02c7\u02ca, abbos de Busbruno. Godobertus\u02c7\u02ca, abbos de Raschis. Althafber- tus\u02c7\u02ca, abbos de Fabarias. Widradus\u02c7\u02ca, abbos de Sancta Columba. Flarin- sinus\u02c7\u02ca, abbos de Utica.",
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 49,
+          "titulus_id": 10,
+          "original_name": "Gemedico",
+          "original_title": "abbos",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gemedico",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 50,
+          "titulus_id": 10,
+          "original_name": "Withiemus",
+          "original_title": "abbos",
+          "footnote_num": "7",
+          "footnote_text": "abbate de Sancto Johanne",
+          "normalized_name": "Withiemus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Puntawilas"
+        },
+        {
+          "id": 51,
+          "titulus_id": 10,
+          "original_name": "Witmarus",
+          "original_title": "abbos",
+          "footnote_num": "3",
+          "footnote_text": "abbate de Centula",
+          "normalized_name": "Witmarus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Centula"
+        },
+        {
+          "id": 52,
+          "titulus_id": 10,
+          "original_name": "Leodharus",
+          "original_title": "abbos",
+          "footnote_num": "4",
+          "footnote_text": "abbate de Corbeia",
+          "normalized_name": "Leodharus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Corbeia"
+        },
+        {
+          "id": 53,
+          "titulus_id": 10,
+          "original_name": "Manau",
+          "original_title": "abbos",
+          "footnote_num": "5",
+          "footnote_text": "abbate de Flavinico",
+          "normalized_name": "Manau",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Flavinaco"
+        },
+        {
+          "id": 54,
+          "titulus_id": 10,
+          "original_name": "Asinarius",
+          "original_title": "abbos",
+          "footnote_num": "9",
+          "footnote_text": "abbate de Rasbac",
+          "normalized_name": "Asinarius",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Novalicio"
+        },
+        {
+          "id": 55,
+          "titulus_id": 10,
+          "original_name": "Waldo",
+          "original_title": "abbos",
+          "footnote_num": "7",
+          "footnote_text": "abbate de Sancto Johanne",
+          "normalized_name": "Waldo",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Sancto Johanne"
+        },
+        {
+          "id": 56,
+          "titulus_id": 10,
+          "original_name": "Rahigaudus",
+          "original_title": "abbos",
+          "footnote_num": "6",
+          "footnote_text": "abbate de Novalicio",
+          "normalized_name": "Rahigaudus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Busbruno"
+        },
+        {
+          "id": 57,
+          "titulus_id": 10,
+          "original_name": "Godobertus",
+          "original_title": "abbos",
+          "footnote_num": "9",
+          "footnote_text": "abbate de Rasbac",
+          "normalized_name": "Godobertus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Raschis"
+        },
+        {
+          "id": 58,
+          "titulus_id": 10,
+          "original_name": "Althafbertus",
+          "original_title": "abbos",
+          "footnote_num": "4",
+          "footnote_text": "abbate de Corbeia",
+          "normalized_name": "Althafbertus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Fabarias"
+        },
+        {
+          "id": 59,
+          "titulus_id": 10,
+          "original_name": "Widradus",
+          "original_title": "abbos",
+          "footnote_num": "11",
+          "footnote_text": "abbate de Sancta Columba",
+          "normalized_name": "Widradus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Sancta Columba"
+        },
+        {
+          "id": 60,
+          "titulus_id": 10,
+          "original_name": "Flarinsinus",
+          "original_title": "abbos",
+          "footnote_num": "12",
+          "footnote_text": "abbate de Aldaha",
+          "normalized_name": "Flarinsinus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Utica"
+        },
+        {
+          "id": 61,
+          "titulus_id": 10,
+          "original_name": "Ragingarus",
+          "original_title": "abbos",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ragingarus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "roll_id": 5,
+      "title": "",
+      "location_name": "",
+      "latin_text": "In Christi nomine nominata, quanquam conveniamus gentibus Bajovariorum episcopis et abbatis inter se frequenter, quorum nomina infra perare sito decrivimus, est dato 10 Manno (4), Alim (2), Virgilius (5), Wisrith (4), Sindperkh (5), Heres (6) episcopi, Oporunus (7), Wolfperkh (8), Adaperkh (8), Attu (10), Uto (11), Lanfridi (12), Alpuni (13), Hrodhart (14), Erraust (15), Reginperkh (16), Walchanhart (17), Perkhcoz (18) abbates. Ut eorum quis de hac luce migrare decrivimus, unicamente superstitem episcopum abbatum ad probatum in defunto so nom, is est episcopale 15 vel celebratio, cu missas speciales et eodem numero pastoralia cantare fiat, per vero de propria persona sua XXX speciales complet missas vel religiosae sibimet subjectis implere omnia praenotatum factarum numerum. Presbyteris autem spem monasticum, cum hoc de sono sacreno migravissent, episcopus sub absena uno presbitero vel uno monacho XXX missas speciales, totidem pastoralia faciat celebrare.",
+      "pdf_page": 6,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 62,
+          "titulus_id": 11,
+          "original_name": "Manno",
+          "original_title": "",
+          "footnote_num": "4",
+          "footnote_text": "abbate de Corbeia",
+          "normalized_name": "Manno",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 63,
+          "titulus_id": 11,
+          "original_name": "Alim",
+          "original_title": "",
+          "footnote_num": "2",
+          "footnote_text": "abbate de Funtanella",
+          "normalized_name": "Alim",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 64,
+          "titulus_id": 11,
+          "original_name": "Virgilius",
+          "original_title": "",
+          "footnote_num": "5",
+          "footnote_text": "abbate de Flavinico",
+          "normalized_name": "Virgilius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 65,
+          "titulus_id": 11,
+          "original_name": "Wisrith",
+          "original_title": "",
+          "footnote_num": "4",
+          "footnote_text": "abbate de Corbeia",
+          "normalized_name": "Wisrith",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 66,
+          "titulus_id": 11,
+          "original_name": "Sindperkh",
+          "original_title": "",
+          "footnote_num": "5",
+          "footnote_text": "abbate de Flavinico",
+          "normalized_name": "Sindperkh",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 67,
+          "titulus_id": 11,
+          "original_name": "Heres",
+          "original_title": "episcopi",
+          "footnote_num": "6",
+          "footnote_text": "abbate de Novalicio",
+          "normalized_name": "Heres",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 68,
+          "titulus_id": 11,
+          "original_name": "Oporunus",
+          "original_title": "",
+          "footnote_num": "7",
+          "footnote_text": "abbate de Sancto Johanne",
+          "normalized_name": "Oporunus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 69,
+          "titulus_id": 11,
+          "original_name": "Wolfperkh",
+          "original_title": "",
+          "footnote_num": "8",
+          "footnote_text": "abbate de Bushburno",
+          "normalized_name": "Wolfperkh",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 70,
+          "titulus_id": 11,
+          "original_name": "Adaperkh",
+          "original_title": "",
+          "footnote_num": "8",
+          "footnote_text": "abbate de Bushburno",
+          "normalized_name": "Adaperkh",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 71,
+          "titulus_id": 11,
+          "original_name": "Attu",
+          "original_title": "",
+          "footnote_num": "10",
+          "footnote_text": "abbate de Fabarias",
+          "normalized_name": "Attu",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 72,
+          "titulus_id": 11,
+          "original_name": "Uto",
+          "original_title": "",
+          "footnote_num": "11",
+          "footnote_text": "abbate de Sancta Columba",
+          "normalized_name": "Uto",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 73,
+          "titulus_id": 11,
+          "original_name": "Lanfridi",
+          "original_title": "",
+          "footnote_num": "12",
+          "footnote_text": "abbate de Aldaha",
+          "normalized_name": "Lanfrid",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 74,
+          "titulus_id": 11,
+          "original_name": "Alpuni",
+          "original_title": "",
+          "footnote_num": "13",
+          "footnote_text": "abbate de Niviella",
+          "normalized_name": "Alpunus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 75,
+          "titulus_id": 11,
+          "original_name": "Hrodhart",
+          "original_title": "",
+          "footnote_num": "14",
+          "footnote_text": "abbate de Utica",
+          "normalized_name": "Hrodhart",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 76,
+          "titulus_id": 11,
+          "original_name": "Erraust",
+          "original_title": "",
+          "footnote_num": "15",
+          "footnote_text": null,
+          "normalized_name": "Erraust",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 77,
+          "titulus_id": 11,
+          "original_name": "Reginperkh",
+          "original_title": "",
+          "footnote_num": "16",
+          "footnote_text": null,
+          "normalized_name": "Reginperkh",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 78,
+          "titulus_id": 11,
+          "original_name": "Walchanhart",
+          "original_title": "",
+          "footnote_num": "17",
+          "footnote_text": null,
+          "normalized_name": "Walchanhart",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 79,
+          "titulus_id": 11,
+          "original_name": "Perkhcoz",
+          "original_title": "abbates",
+          "footnote_num": "18",
+          "footnote_text": null,
+          "normalized_name": "Perkhcoz",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 17,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "abbate de Germedico"
+    },
+    {
+      "id": 18,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "abbate de Funtanella"
+    },
+    {
+      "id": 19,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "abbate de Centula"
+    },
+    {
+      "id": 20,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "abbate de Corbeia"
+    },
+    {
+      "id": 31,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "\u201cAbb\u00e9 de Flavinigny [sus-Oisern] (755\u2013november 787); cf. \u201cFlavinigny\u201d dans D.H.G.E., t. XVII, col. 404 (J. Maril\u00e9r)."
+    },
+    {
+      "id": 21,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "abbate de Flavinico"
+    },
+    {
+      "id": 22,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "abbate de Novalicio"
+    },
+    {
+      "id": 32,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "\u201cAbb\u00e9 de Noirmoutier [tout 773]."
+    },
+    {
+      "id": 23,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "7",
+      "text": "abbate de Sancto Johanne"
+    },
+    {
+      "id": 24,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "8",
+      "text": "abbate de Bushburno"
+    },
+    {
+      "id": 33,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "8",
+      "text": "\u201cAbb\u00e9 de Corbeia (Manasse, Jean (762); cf. Gallia christiana, t. IV, col. 659)."
+    },
+    {
+      "id": 25,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "9",
+      "text": "abbate de Rasbac"
+    },
+    {
+      "id": 26,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "10",
+      "text": "abbate de Fabarias"
+    },
+    {
+      "id": 27,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "11",
+      "text": "abbate de Sancta Columba"
+    },
+    {
+      "id": 28,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "12",
+      "text": "abbate de Aldaha"
+    },
+    {
+      "id": 34,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "12",
+      "text": "\u201cAbb\u00e9 de Niederaltach (741-765); cf. Germania benedictina, t. 2, p. 193."
+    },
+    {
+      "id": 29,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "13",
+      "text": "abbate de Niviella"
+    },
+    {
+      "id": 35,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "13",
+      "text": "\u201cAbb\u00e9 de Colombes de Sans (762); cf. Gallia christiana, t. XII, col. 146."
+    },
+    {
+      "id": 30,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "14",
+      "text": "abbate de Utica"
+    },
+    {
+      "id": 36,
+      "roll_id": 5,
+      "pdf_page": 4,
+      "pdf_half": "right",
+      "footnote_num": "14",
+      "text": "\u201cAbb\u00e9 de S. Evroult (762); cf. Gallia christiana, t. XI, col. 817."
+    },
+    {
+      "id": 37,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "left",
+      "footnote_num": "*",
+      "text": "Elisabeth B.: corr\u00e8ge Clodoaldo."
+    },
+    {
+      "id": 38,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "abbes de Jumieges (755-762); cf. J. Laporte, \u00ab Les listes abbatiales de Jumieges \u00bb, dans, Namur, 1955, t. II, p. 52."
+    },
+    {
+      "id": 39,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "abbes de S. Wandrille, cite par la Gallia christiana (t. XI, col. 753 \u00e0 787."
+    },
+    {
+      "id": 40,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "abbes de S. Requier (761); cf. F. L. Laval, Charv\u00e9, Chronique de l'abbaye de S. Requier (t\u00b0 1, 1104), Paris, 1089, p. 48, n. 1; s. suivant (saut dans l'\u00e9d. M. Tangl, Bonifatius, p. 97, n\u00ba 55) (J. Pycke)."
+    },
+    {
+      "id": 51,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "abbos de Centula."
+    },
+    {
+      "id": 52,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "abbos de Corbeia, Manau."
+    },
+    {
+      "id": 41,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "abbes de Flavierg (ou Auerzach) (755- novembre 762); cf. \u00ab Flavierg \u00bb, s. dans D.H.G.E., t. XVIII, col. 404 (J. Munier)."
+    },
+    {
+      "id": 53,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "abbos de Flavinaco."
+    },
+    {
+      "id": 42,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "abbes de Moitiers-S\u00e8s Jean (762); cf. Gallia christiana, t. IV, col. 539."
+    },
+    {
+      "id": 54,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "abbos de Busbruno."
+    },
+    {
+      "id": 43,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "7",
+      "text": "abbes de Braineville. Cette identification m'a \u00e9te aimablement indiqu\u00e9e par M. Parisse."
+    },
+    {
+      "id": 55,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "7",
+      "text": "abbos de Puntawilas. Waldo"
+    },
+    {
+      "id": 44,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "8",
+      "text": "abbes de Retais (760); cf. Gallia christiana, t. VII, col. 168."
+    },
+    {
+      "id": 45,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "9",
+      "text": "abbes de Pf\u00e4ters (762); cf. Helvetia sacra, t. I, p. 993."
+    },
+    {
+      "id": 56,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "9",
+      "text": "abbos de Novalicio. Godobertus"
+    },
+    {
+      "id": 46,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "10",
+      "text": "abbes de S. Colomb de Sens (762); cf. Gallia christiana, t. XII, col. 146."
+    },
+    {
+      "id": 47,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "11",
+      "text": "abbes de Niederaltaich (741-765); cf. Germania benedictina, t. 2, p. 153."
+    },
+    {
+      "id": 57,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "11",
+      "text": "abbos de Sancta Columba. Flarinsinus"
+    },
+    {
+      "id": 48,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "12",
+      "text": "abbes de Neuville-le-Rouge (762); cf. Gallia christiana, t. XII, col. 817."
+    },
+    {
+      "id": 58,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "12",
+      "text": "abbos de Utica."
+    },
+    {
+      "id": 49,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "13",
+      "text": "abbes de Corbie (750-763) qui m\u00e9mortent d\u00e9finent le pr\u00e9v\u00f4t de Brieg (sel. L. Le villain, Examen critique des chartes m\u00e9roviennes et carolingiennes de l'abbaye Corbie, Paris, 1902, p. 237, n\u00ba 15) et enrichit la biblioth\u00e8que du monument (cf. F. Lemoine, Histoire de Corbie, Paris, 1895, p. 14)."
+    },
+    {
+      "id": 50,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "14",
+      "text": "abbes de S. Evreult (762); cf. Gallia christiana, t. XI, col. 817."
+    },
+    {
+      "id": 59,
+      "roll_id": 5,
+      "pdf_page": 5,
+      "pdf_half": "right",
+      "footnote_num": "14",
+      "text": "abbos de Ragingarus."
+    },
+    {
+      "id": 60,
+      "roll_id": 5,
+      "pdf_page": 6,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "A. Worminghoff, Concilia awei Merovingi et Karolini (M. G. H., Conc.), t. II, 1906, p. 96."
+    },
+    {
+      "id": 61,
+      "roll_id": 5,
+      "pdf_page": 6,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "\u00c9v\u00eaque de Neuburg (745 vers 774);"
+    },
+    {
+      "id": 62,
+      "roll_id": 5,
+      "pdf_page": 6,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Abb\u00e9 de Mettens (772-784); cf. Germania benedictina, t. 2, p. 145."
+    },
+    {
+      "id": 63,
+      "roll_id": 5,
+      "pdf_page": 6,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "Abb\u00e9 de Mondsee."
+    },
+    {
+      "id": 64,
+      "roll_id": 5,
+      "pdf_page": 6,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": "Abb\u00e9 de Niedertal (772-788); cf. Germania benedictina, t. 2, p. 193."
+    },
+    {
+      "id": 65,
+      "roll_id": 5,
+      "pdf_page": 6,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": "Abb\u00e9 de Tegernsee (762-800); cf. Germania benedictina, t. 2, p. 300."
+    },
+    {
+      "id": 66,
+      "roll_id": 5,
+      "pdf_page": 6,
+      "pdf_half": "left",
+      "footnote_num": "6",
+      "text": ""
+    }
+  ]
+}

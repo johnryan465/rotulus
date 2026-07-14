@@ -1,0 +1,141 @@
+{
+  "roll": {
+    "id": 134,
+    "roll_num": 131,
+    "date_str": "[1142, apr\u00e8s le 17 octobre]",
+    "title": "Encyclique sollicitant de prier pour Odouin, abb\u00e9 de S. Ghislain (\u2020 17 octobre 1142).",
+    "manuscripts": "A. Original perdu.\n a. Gallia christiana, t. III, instr., col. 17, n\u00ba XV, d'apr\u00e8s A (\u00e9d. incompl\u00e8te).\n - b. P. Baudry, \u00ab Annales de l\u2019abbaye de Saint-Ghislain \u00bb, dans de Reiffenberg, Monuments pour servir \u00e0 l\u2019histoire des provinces de Namur, de Hainaut et de Luxembourg, Bruxelles, t. VIII, 1848, p. 364, sans indication de source.",
+    "pdf_source": "4",
+    "pdf_pages": "54",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1723,
+      "roll_id": 134,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Omnibus Sanctae matri Ecclesiae fidelibus, communi quidem caritatis domicilios commemorantibus, sed distincta fulgoris claritate illis lucidiis (a) radiantibus,",
+      "pdf_page": 54,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1724,
+      "roll_id": 134,
+      "title": "",
+      "location_name": "",
+      "latin_text": "humilis grex sanctorum Petri et Pauli, sancti quoque (a) Gisleni Cellensis cenobii, quidquid in Christo felicis. Indignatio primae maledictionis, heu ! suae retrusio- nis excedens antra atque obsidionis antiquae novis nec circumveniens assultibus, moenia pervasit nostra, spiculis diversi generis circumquaque volantibus, vexilliferum nostrum, dominum videlicet abdatem Oduinum, cuspid\u00e9 cumspide 5 percussum, interremit. Proh dolor! Agoneta, (b) noster princeps fortissimus, ex adverso resistens, murusque pro domo Israel oppositus, non victus, sed victor occubuit. Ut ergo internis mentium nostrarum vobis pandamos dolores, qualifier sic pater noster viverit, exegit obierique sic explicabimus. Postquam omnipotens Dei favere misericordia electus a fratribus, praestantissimam provehit armis ad 10 sedem, gregrem \u062f\u0648\u0645icum cura regens purvigili, praeceptorum spiritualium opu- lentissimas suis propinabat dapes; nec deerent post his epulas mentis, opes usbibus atque humanis, quas in tantum suo ingenio anxit ampliavt, ut alter Augustus ab ugingo vocati possit et dic. His itaque tam decentissime componi- tis, patris Benditici imitator verus, dum omnia bona et sancta factis amplius quam 15 verbis ostendet, sore fragilitatis humanae cogente, ad tempora pervenit extrema. Sed quia probandus erat velut in sufflatorio, appendendus etiam trutina aequitatis, a dysenteria (c) non modico tempore valde cogit urqui? Pura fluct. Ter termis ante vocationem suam diebus, accresso sancrosyti misericordi\u00e6 sanctifica- to, coerestis cibi poculique summit viaticum ; delinhe rogatus a circumstantibus 20 cubicularibus ut chibum sumeret, prorsus absuit sic dicens : Absit, filioi mei, ut coelestibus divitiis dapes addamus perituras, cum indeis videantur atque incon- gruum.. Memorans illam cujasdam proclamantem sententiam: quantum, inquiens, virescit caro, tantum intima et ista, quod decet, pinguescit (d) Ultima itaque 25 supra scripte nimi die in penultius constituta, jejunio tot fatigatus dierum, praevidens sui exitus horam immerens, capellano accerssi, aqua ex exercitata jubet adspersit ex, qui dominicae nocis sacratissimum volvbeatur decursus, lavari sibi pedes mandati gratia praecipit. Interea mandati completoriique (e) officio expleto, advocatis, quos jam Deo summo videlicet pasti sanctissimo commenda- 30 verat, fratribus, lecto scriptur, cineri ciliciocige applicatur. Circumstantibus ita que nobis et moerentibus, jussis, alato codice, Domini nostri coram recitari passiones, quibus finitis, signo munitus fidi, nobis moerentibus, indicibile (f) relinquens exemplum, sanctam, ut credimus, reddidit ceoio animam, XVI calen-",
+      "pdf_page": 54,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7189,
+          "titulus_id": 1724,
+          "original_name": "Petri",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7190,
+          "titulus_id": 1724,
+          "original_name": "Pauli",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Paul",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7191,
+          "titulus_id": 1724,
+          "original_name": "Oduinum",
+          "original_title": "dominum videlicet abdatem",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Odo",
+          "normalized_role": "abbot/lord",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7192,
+          "titulus_id": 1724,
+          "original_name": "",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 2108,
+      "roll_id": 134,
+      "pdf_page": 54,
+      "pdf_half": "left",
+      "footnote_num": "(a)",
+      "text": "illis istic lucidiis b."
+    },
+    {
+      "id": 2109,
+      "roll_id": 134,
+      "pdf_page": 54,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "Gisleni Cellensis cenobii,"
+    },
+    {
+      "id": 2110,
+      "roll_id": 134,
+      "pdf_page": 54,
+      "pdf_half": "right",
+      "footnote_num": "b",
+      "text": "Agoneta, noster princeps fortissimus"
+    },
+    {
+      "id": 2111,
+      "roll_id": 134,
+      "pdf_page": 54,
+      "pdf_half": "right",
+      "footnote_num": "c",
+      "text": "non modico tempore valde cogit urqui?"
+    },
+    {
+      "id": 2112,
+      "roll_id": 134,
+      "pdf_page": 54,
+      "pdf_half": "right",
+      "footnote_num": "d",
+      "text": "Ultima itaque 25 supra scripte nimi die in penultius constituta..."
+    },
+    {
+      "id": 2113,
+      "roll_id": 134,
+      "pdf_page": 54,
+      "pdf_half": "right",
+      "footnote_num": "e",
+      "text": "officio expleto, advocatis, quos jam Deo summo videlicet pasti sanctissimo commenda-"
+    },
+    {
+      "id": 2114,
+      "roll_id": 134,
+      "pdf_page": 54,
+      "pdf_half": "right",
+      "footnote_num": "f",
+      "text": "indicibile"
+    }
+  ]
+}

@@ -1,106 +1,236 @@
 {
   "roll": {
     "id": 59,
-    "roll_num": "99",
-    "date_str": "S.d.",
-    "title": "S.d. [fin XI s.-d\u00e9but XII s.] 20 Rouleau mortuaire (fragmentaire) dun abb\u00e9 nomm\u00e9 Girard. hemin (c etc iaun\u00e2tres)Un fragment",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "51,52,53,54,55",
+    "roll_num": 66,
+    "date_str": "S. d. [1007, apr\u00e8s le 27 septembre]",
+    "title": "Titre de S. Marin de Tours pour le rouleau mortuaire de Gauzbert, abb\u00e9 de Marmoutier.",
+    "manuscripts": "A. Original perdu.\nB. Paris, B. N. F., lat. 12878 (Mart\u00e8ne, Preuves de l'histoire nu. de Marmoutier), fol. 58, d'apr\u00e8s un",
+    "pdf_source": "1",
+    "pdf_pages": "45,46",
     "is_verified": 0
   },
   "tituli": [
     {
-      "id": 46701,
+      "id": 126,
       "roll_id": 59,
-      "title": "T. Sancti Andre Viennensis cenobii. Anima ejus et animae 0 f. d. r i. P. Amen: 15 Orate n., domno ab",
-      "location_name": "Sancti Andre Viennensis cenobii",
-      "latin_text": "est illisible en raison du tr\u00e8s mauvais \u00e9tat du_ parchemin B donne une suite En A, une ligne de noms de personnages d\u00e9funts Simone episcopo; Albrico; Bernardo, Richardo; Gerclino; que je retiens \u00e0 lexception du premier en effet, Simon de Vermandois fut \u00e9v\u00eaque de Noyon et de Tournai, puis seulement de Tournai, uniquement de Il21\u00e0 1148 (cf Gallia christiana; t IX,col. 1000-1002 ) mentionn\u00e9 dans les divers titres de ce rouleau n 'appartient au XII s.,\u00e0 OT, aucun autre personnage plus forte raison au milieu de ce si\u00e8cle, et Vensemble des \u00e9critures date de la fin du XI ou du debut du XII s (1) en 988 par le Abb\u00e9   dHombli\u00e8res;   cit\u00e9   par le  Gallia Abb\u00e9  dHombli\u00e8res;   cit\u00e9 christiana (t. IX, col. 1076) de 1030 \u00e0 1043. Gallia christiana (t. IX, col. 1076). (6) Abb\u00e9   dHombli\u00e8res,   cit\u00e9  par le Gallia (2) Abb\u00e9 dHombli\u00e8res,   cit\u00e9  par le   Gallia christiana (t. IX, col. 1077) de 1043 \u00e0 1049. christiana (L. IX, col. 1077) de 1059 \u00e0 1074 . (3) Le Gallia christiana (t. IX, col. 1076 et Apoc., III, 5. liste des abb\u00e9s Le Gallia christiana (t. IX, col. 612) cite 1077) mentionne, dans sa Richardus I de 1018 \u00e0 1025 et pour la fin du XI s. un abb\u00e9 de S. Nicolas-aux- d' 'Hombli\u00e8res; Richardus II en 1095. Bois nomm\u00e9 Letbaldus. dans la liste (9) Abb\u00e9 de S. Andr\u00e9-le-Bas de Vienne cit\u00e9 Ce personnage n 'appara\u00eet pas des   abb\u00e9s   de  Hombli\u00e8res cf. Gallia   chris- par le Gallia christiana (L. XVI, col. 177) de tiana, t. IX, col. 1076 et suiv. Hombli\u00e8res ^ 1036 \u00e0 1050. dans D.H.GE, t. XXIV, col. 929 (G. Michiels) .",
-      "pdf_page": 52,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Commendandis etiam per munera orationum verarum Deo, cui nichil praete- re quod transit, animam domni abbatis Arbodi, ut meretur habere per eum aeternae gloriae habitaculum suum.\nMultorum lacrimis pater est tumulatus obortis;\nQui plus dilexit, nunc in lumine planxit.\nOrdine tertia lux praededit apsidi.\nCum pietate tamen requit qui caecita dilectem.\nDeinde, inter recentia lamenta fraterna pietatis, intunamos vobis obitum fratris nostri Gerardi, et edocti, in flore juventutis nobis ostensi et subito ablati, ut ope auxilii vestri possit coram Deo beatificari.\nFlos occidit primae, primo peccante praene.\nSustulit heu nobis quem festinatio finis.\nIdus septembre cum noch silvere artis\nCum fratris tandem et stabilitas enim virtutum sit caritas, minor fiet resolutionis humanae acerbitas. Ante pede itaque vestrarum misericertionum ponimus nomina nostrorum defunctorum.",
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 325,
+          "titulus_id": 126,
+          "original_name": "Arbodi",
+          "original_title": "domni abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arbode",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 326,
+          "titulus_id": 126,
+          "original_name": "Gerardi",
+          "original_title": "fratris nostri",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gerard",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "roll_id": 59,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Proxima castra petens, vestrorum funera deflens,\nAccessit rotulus, non sine querulis,\nMartini templum meritis et honore clendum,\nQuo sua gesta patet et simul ossa jacent ;\nPraecul Turonici qui precis degunt annis,\nPraesent pontificus, consul et auxilium.\nNam veluti murus is quae non timet arietis actus,\nNec quattitur jaculis quae volant in machinis :\nHaud aliter modo deguit Martinus in isto.\nVirtutum clypeis quae tan via claustra suis.\nSed quo penna ruins ? an vi desprende scriptis\nQuod nullus potuit nec penitus voluit ?\nEt si fortassis vellet mandare tabellis\nQuidquid Martinus gesserit egregius,\nNon tamen optatum procede(t) usque supremum,\nNec medium lessus exposuit opus.\nQuare prospectus citius tibi college cursus,\nOcius et rotulum respice funerneum.\nTomiferum frater ut conspiicit venientem,\nQui vestros apices fert nimium lugubres :\nUnde domo quaerunt, vel qui genus, unde rotellus,\nUnde vel errantes proferat und pedes.\nEdocet ille domum, gentem, funus quoque magnum\nCoenobii vestri sive monasterii.\nSicilibet abbatem meritis et stemmate clarum\nGausbertum vita jam carruisse sua.\nQuae licet ex longo si nobis cognita causa,\nNobis tristicissim deletuit haud modicam.\nEt modo vici (a) fratres sapiatis amici,",
+      "pdf_page": 45,
       "pdf_half": "right",
-      "entities": []
+      "entities": [
+        {
+          "id": 327,
+          "titulus_id": 127,
+          "original_name": "Martini",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Martin",
+          "normalized_role": "Saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 328,
+          "titulus_id": 127,
+          "original_name": "Gausbertum",
+          "original_title": "abbatem",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gausbert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "roll_id": 59,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Commendationem eius per manuam orationum vestrarum Deo, cui nichil practe-\net quol transit, animam domini Abbati Arbodi, ut mercatur habere cum\neterna gloria habitaculum, qui in sole possit tabernaculum suum.\nMeliorim latrinis pater est tumulatoris obitu;\nQui plus dilat, plus luce in flumine planxit.\nObitus erat hic decus praecili ardens.\nDeinde, inter recentia laurentia fratriae pietatis, intimamos vobis obitum\nfratris nostri Gerardi, qui deportati ad monasterium regulariter et doctri-\nnilie nutrit et edoct, in flore juvenitutis nobis extensi et subito ablati, ut ope\naltri vestri possit cum Deo beatificari.\nPlus crevit formae, primo peccante parente,\nSuavitate suo nihil quon festinatio finis.\nIdem sepulcrum cum coeli volveret axis.",
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 329,
+          "titulus_id": 128,
+          "original_name": "Abbati Arbodi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arbode",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 330,
+          "titulus_id": 128,
+          "original_name": "Gerardi",
+          "original_title": "fratris nostri",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gerard",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "roll_id": 59,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Proxima castra petens, vestrorum funer\u00e6 deflens,\nAccessit rotulus, non sine re quertulus,\nMartini templum meritis et honore colendum,\nQuo sua gesta patent et simul ossa jacent;\nPraesul Turonis qui priscis deguit annis,\nPraesul pontificum, consul et auxilium.\nNam veluti muris qui non timet ariectus,\nNec quatitur jaculis quae volant machinis:\nHaud aliter mundo degust Martinus in isto,\nVirtutum clupeis dies pan clausra suis.\nSed quo penna nuis ? an vis deprehendere scriptis\nQuod multus potuit nec penitus voluit?\nEt si fortassis vellet mandare tabellis,\nQuidquid Martinus gesserit egregius,\nNec tamen eruptum procede[re]lt usque supremum,\nNec medium fessus exposuisset opus.\nQuae propositus citis tibi collige cursum,\nOculis et rotulu respice funerereum.\nTomiforum frater ut conscipuit venientem,\nQui vestre apices fert nimium lugubres;\nUnde domo querant, vel qui genus, unde rotellus,\nUnde vel errantes proterat indef pedes.\nEdocet ille domum, gente, funus quoique magnum\nCoenobi abbatem vestri monasterii,\nScilicet abbaem erat et stemmate clarum\nGausbertum vita jam caruisse sua.\nQuae licet ex longo sit nobis cognita causa,\nNobis tristiciam detulit habet modicam.\nEt modo vici (a) fratres sapiaci amiss\n",
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 331,
+          "titulus_id": 129,
+          "original_name": "Martinus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Martin of Tours",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Tours"
+        },
+        {
+          "id": 332,
+          "titulus_id": 129,
+          "original_name": "Gausbertum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gausbert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
     }
   ],
   "footnotes": [
     {
-      "id": 35820,
+      "id": 232,
       "roll_id": 59,
-      "pdf_page": 51,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "Les deux premi\u00e8res lignes, en capitales , de 1 \u00e0 2,2 cm pour lautre, sont compos\u00e9es de Ineffabilis mesure 16 cm de haut sur 4,5 cm d"
-    },
-    {
-      "id": 35821,
-      "roll_id": 59,
-      "pdf_page": 51,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "fol. 24 constitue le sixi\u00e8me fragme de ce ms. composite. (2) On a copi\u00e9 au verso; au XIIS 8., le d\u00e9but"
-    },
-    {
-      "id": 35819,
-      "roll_id": 59,
-      "pdf_page": 51,
-      "pdf_half": "right",
-      "footnote_num": "4",
-      "text": ". Far\u0131s. BlbL . sa\u0131nte-Genevleve, IllS. 12uu, Iui opisthographe. Longueur; 35,5 cm ; largeur"
-    },
-    {
-      "id": 35823,
-      "roll_id": 59,
-      "pdf_page": 51,
-      "pdf_half": "right",
-      "footnote_num": "5",
-      "text": "de 3,2 cm pour lune, en onciales et minuscules ettres 'parfois enclav\u00e9es. Linitiale I, dessinee; du mot large. () La suite de ce texte est tronqu\u00e9e."
-    },
-    {
-      "id": 35824,
-      "roll_id": 59,
-      "pdf_page": 51,
-      "pdf_half": "right",
-      "footnote_num": "6",
-      "text": "nt"
-    },
-    {
-      "id": 35825,
-      "roll_id": 59,
-      "pdf_page": 51,
-      "pdf_half": "right",
-      "footnote_num": "7",
-      "text": "vie de 8 Aigulphe par Adrevald, moine de Fleury (cf. BHL, n 02 32 et 33)."
-    },
-    {
-      "id": 35826,
-      "roll_id": 59,
-      "pdf_page": 51,
-      "pdf_half": "right",
-      "footnote_num": "8",
-      "text": "de"
-    },
-    {
-      "id": 35822,
-      "roll_id": 59,
-      "pdf_page": 51,
-      "pdf_half": "right",
-      "footnote_num": "23",
-      "text": "cm."
-    },
-    {
-      "id": 35827,
-      "roll_id": 59,
-      "pdf_page": 52,
+      "pdf_page": 45,
       "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "L. Delisle, Rouleaux des morts du IXe au XIVe s., p. 42, n\u00b0 XVI, d'apr\u00e8s B."
+    },
+    {
+      "id": 233,
+      "roll_id": 59,
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "A son sujet, cf. Histoire litt\u00e9raire de la France, t. VII, 1867, p. 188; Ed. Mart\u00e8ne, Histoire de Marmoutier, \u00e9d. C. Chevalier, Tours, t. I, 1874, p. 235-241; \u00ab Gauzbert, abb\u00e9 b\u00e9n\u00e9-"
+    },
+    {
+      "id": 231,
+      "roll_id": 59,
+      "pdf_page": 45,
+      "pdf_half": "left",
+      "footnote_num": "25",
+      "text": "ma, S. Vincent de Metz."
+    },
+    {
+      "id": 235,
+      "roll_id": 59,
+      "pdf_page": 45,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "Pour a (p. 43, n. 1) \u00ab le commencement de ce vers est certainement alt\u00e9r\u00e9 \u00bb."
+    },
+    {
+      "id": 234,
+      "roll_id": 59,
+      "pdf_page": 45,
+      "pdf_half": "right",
       "footnote_num": "1",
-      "text": "sujet; cf. notamment survey of the E.K. Rand, A manuscripts of Tours, (Mass ), t. I, 1929, P. 109,n Cambridge 32. noter cependant que le Gallia tiana (. XIV, col: 175 et 205) ne chris- de dignitaire de S. Martin de mentionne pas Girard pour Tours d\u00e9nomm\u00e9 P\u00e9poque de ce rouleau ."
+      "text": "diriges d'abb\u00e9 S. Julien de Tours, puis, \u00e0 compter de 990, Marmoutier, Bourgueil et Muillezan. Il engage des importantes r\u00e9formes dans ces divers \u00e9tablissements religieux. Il \u00e9crit une lettre relative aux troubles survenus \u00e0 Marmoutier (1)."
     },
     {
-      "id": 35828,
+      "id": 237,
       "roll_id": 59,
-      "pdf_page": 52,
+      "pdf_page": 46,
       "pdf_half": "left",
-      "footnote_num": "2",
-      "text": "ce au sujet, cf. J premier Bousquet, Moyen Le Rouergue Rodez, LI, Age 1992, (vers 8OO-vers 1250), A P ce 298-311. d' Albi,  sujet,  cf. de 1 Cahors - Dufour; Les   \u00e9v\u00eaques fin du XIIS et de Rodez 8.3 Paris, des _ origines \u00e0 la 1989, p. 85-86."
+      "footnote_num": "",
+      "text": "citations}$: [{"
+    },
+    {
+      "id": 236,
+      "roll_id": 59,
+      "pdf_page": 46,
+      "pdf_half": "left",
+      "footnote_num": "20",
+      "text": "Titre de S. Martin de Tours pour le rouleau mortuaire de Gauzbert, abb\u00e9 de Marmoutier."
+    },
+    {
+      "id": 238,
+      "roll_id": 59,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "",
+      "text": "dictin en Touraine, \u00bb dans D.H.G.E., t. XX, col. 69 (G. Oury); G. Oury, \u00ab La reconstruction monastique dans l'Ouest. L'abb\u00e9 Gauzbert de"
+    },
+    {
+      "id": 240,
+      "roll_id": 59,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "Et modo vici (a) fratres sapiaci amiss"
+    },
+    {
+      "id": 239,
+      "roll_id": 59,
+      "pdf_page": 46,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Pour (a, p. 43, n. 1) \u00ab le commencement de ce vers est certainement alt\u00e9r\u00e9 \u00bb."
     }
   ]
 }

@@ -1,0 +1,121 @@
+{
+  "roll": {
+    "id": 98,
+    "roll_num": 95,
+    "date_str": "S.d.[XI\u02b0 s.]",
+    "title": "Rouleau mortuaire (fragmentaire) de Renaud, abb\u00e9 de Fleury.",
+    "manuscripts": "A. Original perdu.\n5 B. Vaticano. Reg. lat. 596, fol. 10v (XII\u02b0 s.).\na. E. Duemmler, \u2018Carmen in obitu Rainaldi Floriacensis\u2019, dans Neues Archiv, t. V, 1880, p. 635,\nd'apr\u00e8s b. - b. L. Delisle, Vital de Savigny, p. 26, n\u00ba 2, d'apr\u00e8s a (ed. partielle).",
+    "pdf_source": "2",
+    "pdf_pages": "48,49",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 801,
+      "roll_id": 98,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Floriacensis\nContio, mestis\nPro Rainaldi\nFunere patri\nFulgida summi\nGaudia regni\n\nDesine questus\nFlere diurnos,",
+      "pdf_page": 48,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2570,
+          "titulus_id": 801,
+          "original_name": "Rainaldi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Renaud",
+          "normalized_role": "abbot of Fleury",
+          "normalized_dates": "",
+          "location_name": "Fleury"
+        }
+      ]
+    },
+    {
+      "id": 802,
+      "roll_id": 98,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Grex pie : cunctos\nOrdine mixto\nImplicat atrox\nIsta vorago.\n\nPro dolor, actas\nOccidit omnis\nCuspide mortis\nEt gemit tota\nTempore longo\nNostra propago.\n\nQuid Rainaldum\nLaude celebrem\nFlesse juvabit?\nAurit amicas\nAure querelas\nNex inimica.\n\nQuid reliquim fit ?\nParcere spernit\nPerfida Erinis,\nPosthabitisque\nQuestibus ipsis\nInstat et ardet.\n\nTollere cunctos\nEt furioso\nJungere regno,\nNec satiatur\nSeva vorago\nFunere tanto.\n\nQuare age, sumptum\nComprime luctum,\nCernua colla\nFlecte superno\nMente benigna\nImperatori.",
+      "pdf_page": 48,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2571,
+          "titulus_id": 802,
+          "original_name": "Rainaldum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rinaldo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2572,
+          "titulus_id": 802,
+          "original_name": "Erinis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Erinyes",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 803,
+      "roll_id": 98,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Qui cruce solvit\nVincula mortis,\nPastor ut almus,\nJam merearet\n5 Scandere celsa\nRegna polorum.\nUtique supernis\nVivat in astris,\nNos quoque vestri\n10 Compatiendo\nDona salutis\nPoscimus ipsi.\nPectore toto\nSaeficamus\n15 Munera Christo,\nNunc requiescat\nPace beata\nVester ut abba.\nInsuper omnes\n20 Quos obiisse\nPragmate fusco\nSecda notavit,\nConsotientur\nCetibus almis.\nReddite funetis,\n25 Solvite vivis\nDebita nostris :\nTalia nobis\nPoscimus omnes\n30 Munia pendi.\nSic requiescent\nFunere tacti,\nDeque piaclis\nProdiat almo\n35 Auspice Christo\nCessio nobis.",
+      "pdf_page": 49,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2573,
+          "titulus_id": 803,
+          "original_name": "Christo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "deity/saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 970,
+      "roll_id": 98,
+      "pdf_page": 48,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Cf. supra, p. 1, n\u00ba 39."
+    },
+    {
+      "id": 971,
+      "roll_id": 98,
+      "pdf_page": 48,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "Ce personnage n'apparut pas dans la liste des abb\u00e9s de Fleury donn\u00e9e par la Gallia christiana (t. VIII, col. 1541)."
+    },
+    {
+      "id": 972,
+      "roll_id": 98,
+      "pdf_page": 48,
+      "pdf_half": "left",
+      "footnote_num": "(3)",
+      "text": "Obituaires de la province de Sens, t. III, p. 151, 161; cf. A. Vidier, op. cit., p. 120, n. 48."
+    }
+  ]
+}

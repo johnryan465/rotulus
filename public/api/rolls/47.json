@@ -1,31 +1,248 @@
 {
   "roll": {
     "id": 47,
-    "roll_num": "84",
-    "date_str": "S.d.",
-    "title": "S.d. [1096, apr\u00e8s = septembre] Rouleau mortuaire de Jean [Ier ] , \u00e9v\u00eaque dOrl\u00e9ans. 10 Document perdu mentionn\u00e9 dans le titre de Baudri de Bourgueil pour le rouleau mortuaire d'Audebert, archev\u00eaque de Bourges (2) Jean I*\" , \u00e9v\u00eaque dOrl\u00e9ans et fr\u00e8re de Raoul II, archev\u00eaque de Tours, fut en charge de 1089 8a mort (septembre 1096) (3) En 1090-1091, il obtint de Philippe IFr un dipl\u00f4me en faveur des chanoi- nes de son \u00e9glise () _ Yves de Chartres le pr\u00e9sente; dans deux de ses lettres (5) , comme un personnage 15 particuli\u00e8rement d\u00e9bauch\u00e9. Titre de Baudri de Bourgueil Aurelianensis superest jam carta Johannis. \" tangant corrig\u00e9 en cogant par exponctuation de tan et addition en interligne de co B. () Cf. L. Delisle; Rouleaux des morts du IX' Qu XVe s , P. 144, nP XXVI ; Obituaires de la province de Sens, t. III, P. 2 ; J-H. Foulon, La 36 Danc@ do Ponoct",
-    "manuscripts": "A. Fliche, Le r\u00e8gne de Philippe I, P. 433 . (4) \u00c9d. M. Prou; Recueil des actes de Philip- pe [' , P. 310, n? CXXIIL. \u00c9d [ Leclerca   Ynes de Chartres Corres-",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "40,41",
+    "roll_num": 53,
+    "date_str": "S.d. [vers 1000]",
+    "title": "Rouleau mortuaire (fragmentaire) anonyme, probablement de S. Martial de Limoges.",
+    "manuscripts": "A. Paris, B. N. F., lat. 2328, fol. 1. Parchemin (\u00e9pais, rugie : c. [= verso] jaune clair ; c. p. [= recto] jaune plus soutenu). Un fragment (rugin\u00e9) opisophras\u00e9 (difficile \u00e0 lire m\u00eame aux rayons ultraviolets). Longueur, 34,5 cm ; largeur, 27,5 cm. Mavas \u00e9tat de conservation.\na. L. Delisle, Rouleaux des morts du IX\u1d43 au XV\u1d43 s., p. 33, n\u00b0 XIII, d'apr\u00e8s A.",
+    "pdf_source": "1",
+    "pdf_pages": "33,34",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": [
+  "tituli": [
     {
-      "id": 35780,
+      "id": 93,
       "roll_id": 47,
-      "pdf_page": 40,
+      "title": "1 S.d. \u2013 Paris, cath\u00e9drale (N.-D.)",
+      "location_name": "Paris, cath\u00e9drale",
+      "latin_text": "Christicolis cunctis terrarum in orbe dimensus pax <....> etur divin\u00e9 p-<....> 15 id <....> astriferas, dum\u0938\u094d\u092a\u0930 nestis reduciret umbras <....> solis supercilio clauderetur occano rogat <..........> ur <.......> qua <.....> afferentem rumiguerum totum co [mmunitatis sortem vestis ex partibus nobis denencantem Sanct\u00e6 Mari\u00e6 Parisius obvium suscepimus <....> solto ex consuetudine hujusmodi ga<.....> benigne suscipientes, illatque vestri <....>amenta legendes salutaris 20 vice religionis tullias quamdiam objectones et <....> Minerv\u0de1e interpretationes tantum collegiis. Que res non parum vatio dur. Quod vero diversorum <....> orum delectati quoniam presentatiter attaingere nequis, psaltem rugimerrulis, ut ita dicam, apiculis explorare temptatis etiam super hoc impuritatem morum vestrorum, que vobis semper compotris est, pro insita consuetudine vel natura 25 <....>-gne spectamus. Singulariter autem quod vos per vestris defunctis ore scripsistis, neque nos neque ceteros qui scriptat se fecisse aliquatamen fecisse",
+      "pdf_page": 33,
       "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "Ue 4L8ue Uuivo Vu  t.I, p. 239. (2) \u00c9d. infra, p. 236, n 88. Cf. Gallia christiana, t. VIII, col. 1441 ;"
+      "entities": [
+        {
+          "id": 261,
+          "titulus_id": 93,
+          "original_name": "Sanct\u00e6 Mari\u00e6 Parisius",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Mary of Paris",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Paris"
+        }
+      ]
     },
     {
-      "id": 35781,
+      "id": 94,
       "roll_id": 47,
-      "pdf_page": 40,
+      "title": "",
+      "location_name": "",
+      "latin_text": "sciatis. Communis tamen oratio eorum oblivisci non querit, quo nos sibi omnes in Christo alterum vivos et mortuos jugiter habeat commendatos. Valete.",
+      "pdf_page": 34,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 95,
+      "roll_id": 47,
+      "title": "Contio Sancti",
+      "location_name": "S. Denis",
+      "latin_text": "En (sic) Dionysii\n<........................>\nGozfredum precumibus figite,\nWillelmumque pia mente tenete\n<........................>",
+      "pdf_page": 34,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 262,
+          "titulus_id": 95,
+          "original_name": "Dionysii",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Denis",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Saint-Denis"
+        },
+        {
+          "id": 263,
+          "titulus_id": 95,
+          "original_name": "Gozfredum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gozfred",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 264,
+          "titulus_id": 95,
+          "original_name": "Willelmum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillaume",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "roll_id": 47,
+      "title": "[c. p.]",
+      "location_name": "Orbais",
+      "latin_text": "Omne genus honorum, casus reminiscre loeti,\nMortiferi dudum nascentes ab ore cheldri,\nQui primi fructu haemis satiare coegit\nArboris ex fructu noscente bonumque malumque;\nAdt quem nos soledes frenedes Guzzonides atque\nNititur abhorere vorax cum diente lupino.\nHine Paulini memore dicti studeamus adesse,\nDocimaste vocero cosmo reboantis in isto:\n* Eternum pondus sortium ferte * (1) simulque\nAstriefi jussum sectantes denique Christi.\nScire pium nobis, nostrum notamus ovile\nOrbacis scilicet veteris sub onomate dictum.\nAffore testator nosier senquorio paterque\nHic (scilicet Petrus) custos ovium, ductor quoec coelicolarum;\nMetros nostier Drogo venerabilis abba,\nInter ovesque suas rutilans ceo mystica lampas,\nSub quo servatur fraterna cohorsque venusta,\nQue jugiter pictate viget, benitate renitet.\nSuggerimus nobis mesti cum voce lugubri,\n<........................>",
+      "pdf_page": 34,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 265,
+          "titulus_id": 96,
+          "original_name": "Paulini",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Paulin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 266,
+          "titulus_id": 96,
+          "original_name": "Christi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "Christ",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 267,
+          "titulus_id": 96,
+          "original_name": "Petrus",
+          "original_title": "custos ovium",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pierre",
+          "normalized_role": "shepherd/guardian",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 268,
+          "titulus_id": 96,
+          "original_name": "Drogo",
+          "original_title": "venerabilis abba",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Drogo",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "roll_id": 47,
+      "title": "",
+      "location_name": "",
+      "latin_text": "[c. e.] <......> Praescientia simul atque praedestinatione vocentis et misericendi Dei in quadratura architectura celestis Jerusalem praescites atque praedestinatis, per Eum ex quo omnia, illum Eundem in omnia, patribus conscriptos, fratribus adscriptos, matricibus sororibusque descriptis, 15 MARCIALIS, beatissimoi Limoucorum, invo immensula Aquitani\u00e6 patroni, grex monastic\u00e6 religionis, transitum a morte ad vitam, a corruptione ad incorruptionem, a vitiis ad virtutes, a Judea ad Galileam. Certissime sp\u011bi anchoram in nobis in huminibus utellive diem eidsem eliguere suae sortis qualitatem. Unde 20 typicus ille Salomon, omissibus generis generalissimis superioribus, omissis individuis inferioribus, digitum nobilibus solem appositus specibus duabus, varios earum casum ex confectione alternantium rerum numeratus : <Homo, iniquens, ad laborem qua nascitur, et avis ad volatum > (2). Quem videlicet ortum recurrentis in semet generationis, ex infortunio prolapsi primis hominis miserere 25 rum, ex mentis arce philosophico dipiscens oculu, licet id ipsum misericia sit, plorabili elogio denigrat inquinus : <Melior est dies mortis die nativitatis >, (3) Circumducam eatenus cuncta que fuit sobre pulsrantanus, vanitatevamque hic",
+      "pdf_page": 34,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 269,
+          "titulus_id": 97,
+          "original_name": "MARCIALIS",
+          "original_title": "beatissimoi Limoucorum, invo immensula Aquitani\u00e6 patroni",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Martial",
+          "normalized_role": "patron saint of Limoges and Aquitaine",
+          "normalized_dates": "",
+          "location_name": "Limoges/Aquitaine"
+        },
+        {
+          "id": 270,
+          "titulus_id": 97,
+          "original_name": "Salomon",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Solomon",
+          "normalized_role": "king",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "roll_id": 47,
+      "title": "orphaned_tituli': [], ",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 34,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 195,
+      "roll_id": 47,
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "utilis\u00e9 comme feuille de garde, a vraisemblablement la m\u00e9me origine :"
+    },
+    {
+      "id": 198,
+      "roll_id": 47,
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Cf. B. N. F., lat. 2328"
+    },
+    {
+      "id": 196,
+      "roll_id": 47,
+      "pdf_page": 33,
       "pdf_half": "right",
       "footnote_num": "2",
-      "text": "pondance, L. I, Paris,   1949, P. 282, n? 65 ; p. 290, n? 66."
+      "text": "- au recto (c. p.), tir\u00e9 d'Orbais, dirig\u00e9 alors par Drogo \u1d42 ;"
+    },
+    {
+      "id": 199,
+      "roll_id": 47,
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Personnage absent de la liste abbatiale (incompl\u00e9te) d'Orbais donn\u00e9e par la Gallia christiana (t. IX, col. 424)."
+    },
+    {
+      "id": 197,
+      "roll_id": 47,
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "- au verso (c. c.), tir\u00e9 de N.-D. de Paris et de S. Denis."
+    },
+    {
+      "id": 200,
+      "roll_id": 47,
+      "pdf_page": 34,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "(1) Cf. II Cor., IV, 17 : \u00ab aeternum gloriae pondus operatur in nobis \u00bb."
     }
   ]
 }

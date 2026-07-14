@@ -1,0 +1,77 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Marmoutier, Tours, France",
+    "coords": [
+      47.4022,
+      0.7033
+    ],
+    "year": 1100,
+    "date_str": "[1100, apr\u00e8s le 7 avril]",
+    "is_approximate": false,
+    "description": "Origin: Encyclique sollicitant de prier pour Bernard [de S..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Dolis",
+    "coords": null,
+    "year": 1100,
+    "date_str": "[1100, apr\u00e8s le 7 avril]",
+    "is_approximate": true,
+    "description": "Dolis ()"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Bourges, France",
+    "coords": [
+      47.0833,
+      2.4
+    ],
+    "year": 1100,
+    "date_str": "[1100, apr\u00e8s le 7 avril]",
+    "is_approximate": false,
+    "description": "Bourges ()"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "Marmoutier, Tours, France",
+    "coords": [
+      47.4022,
+      0.7033
+    ],
+    "year": 1100,
+    "date_str": "[1100, apr\u00e8s le 7 avril]",
+    "is_approximate": false,
+    "description": "Bernard (abbot)"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3833,
+      0.6833
+    ],
+    "year": 1100,
+    "date_str": "[1100, apr\u00e8s le 7 avril]",
+    "is_approximate": false,
+    "description": "Saint Magloire ()"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Chartres, France",
+    "coords": [
+      48.4472,
+      1.4875
+    ],
+    "year": 1100,
+    "date_str": "[1100, apr\u00e8s le 7 avril]",
+    "is_approximate": false,
+    "description": "Yves of Chartres ()"
+  }
+]

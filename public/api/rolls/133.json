@@ -1,0 +1,165 @@
+{
+  "roll": {
+    "id": 133,
+    "roll_num": 130,
+    "date_str": "[1142, apr\u00e8s le 21 janvier]",
+    "title": "Rouleau mortuaire (fragmentaire) de Robert, abb\u00e9 de Corbie (\u2020 21 janvier 1142).",
+    "manuscripts": "A. Paris, B. N. F., lat. 12016, fol. 90 (derni\u00e8re feuille de garde). Parchemin (\u00e9pais, c. c et c. p. jaun\u00e2tres). Un fragment conserv\u00e9, anopisthographe. Longueur, 28/29 cm ; largeur, 23 cm.",
+    "pdf_source": "4",
+    "pdf_pages": "53",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1721,
+      "roll_id": 133,
+      "title": "[A. col. 2]",
+      "location_name": "",
+      "latin_text": "Scribamus et pro Bosone precemur,\nIlle sacer, iste sacrum <...> quia <...>\n<...> vita <........................> cor-<...>\n<.........................> indefeci-<.......>\n<..........................> <...> secre-<...>, sapo <...> de placent ex-<...>\nHuic ergo quod plebs devota <...>\nObsecret ipse Deum nobis ut propicietur.\n\nVersus Galteri de Duaco.\n[Boso,] vir justus, prudens, pius atque <...>\n[Nunc] jacet in tumulo praecipiente [Deo].\n[Laus] tibi debetur, tibi coli gloria [detur],\nSit concessa tibi gloria larga Dei.\nDum vixit Boso cum coetu religioso,\nReligiosorum servus fuit iste virorum\nEt fratrum custos, excoluit quoque vicos.\n\nVersus Hermeti.\n<...> cunctis nullique remanens\nBoso vir simplex atque pius <...>\nHi <...> loca cum certo <...> tuo\nQui decus et genuina <......>.\nBalderici fuit.\nSi confert fatum celis <...>\nPauperibus dandum nichil <...>.\nMoribus <........................>\n<....................................>",
+      "pdf_page": 53,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7183,
+          "titulus_id": 1721,
+          "original_name": "Bosone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7184,
+          "titulus_id": 1721,
+          "original_name": "Galteri de Duaco",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gualterus de Duaco",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Duaco"
+        },
+        {
+          "id": 7185,
+          "titulus_id": 1721,
+          "original_name": "Boso",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Boso",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7186,
+          "titulus_id": 1721,
+          "original_name": "Deo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Deus",
+          "normalized_role": "God",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7187,
+          "titulus_id": 1721,
+          "original_name": "Hermeti",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hermes",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7188,
+          "titulus_id": 1721,
+          "original_name": "Balderici",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Baldericus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1722,
+      "roll_id": 133,
+      "title": "1 S.-d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "",
+      "latin_text": "Quid nos in mundo tenet ? Hic como laqueatur ?\nTransit, nec reddit, effugit hic quod amatur.\nHic quid honos ? Premit una bonos reprobusque ruinam.\nNil manet hic ; perit omne quod est, seu prole ruin\u00e2.\nOmnia regna potentia, fortia, mors rapit una.\nQuod sumus iste fuit, erimus quod est, moriemur.\nErgo salus Deus huic ut sibi nobis precemur.\nAque talenta data sibi tunc referat geminata,\nCredita cum Dominus vehementis et in igne requiret.\nAgmina c\u00e6lorum gaudent quod flent monachorum.\nFratrum virga petit, fit cinis atque redit.\nIn nobis juris habet hoc mors pervia muris,\nEx quo perjurus actibus, Eva, furis.\nSternut maiores nec minus inferios :\nSic dominos servus equat, et hos dominis.",
+      "pdf_page": 53,
+      "pdf_half": "right",
+      "entities": []
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 2101,
+      "roll_id": 133,
+      "pdf_page": 53,
+      "pdf_half": "left",
+      "footnote_num": "30",
+      "text": "A. Paris, B. N. F., lat. 12016, fol. 90 (derni\u00e8re feuille de garde). Parchemin (\u00e9pais, c. c et c. p. jaun\u00e2tres). Un fragment conserv\u00e9, anopisthographe. Longueur, 28/29 cm ; largeur, 23 cm."
+    },
+    {
+      "id": 2102,
+      "roll_id": 133,
+      "pdf_page": 53,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "\u00c9d. J. Dufour, Recueil des actes de Louis VI, roi de France, Paris, t. I, 1992, p. 440, n\u00b0 209."
+    },
+    {
+      "id": 2103,
+      "roll_id": 133,
+      "pdf_page": 53,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Cf. Jaff\u00e9, n\u00b0 7671."
+    },
+    {
+      "id": 2104,
+      "roll_id": 133,
+      "pdf_page": 53,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "\u00c9d. Fr. Gasparri, Suger. \u0152uvres, Paris, t. II, 2001, p. 193."
+    },
+    {
+      "id": 2105,
+      "roll_id": 133,
+      "pdf_page": 53,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "\u00c9d. Du Cange, Glossarium, t. III, p. 402."
+    },
+    {
+      "id": 2106,
+      "roll_id": 133,
+      "pdf_page": 53,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": ""
+    },
+    {
+      "id": 2107,
+      "roll_id": 133,
+      "pdf_page": 53,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": ""
+    }
+  ]
+}

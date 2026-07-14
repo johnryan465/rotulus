@@ -1,14 +1,2931 @@
 {
   "roll": {
     "id": 65,
-    "roll_num": "107",
-    "date_str": "S.d.",
-    "title": "] 12",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (3)",
-    "pdf_pages": "7",
+    "roll_num": 72,
+    "date_str": "1046, novembre \u2013 1047, juin",
+    "title": "Rouleau mortuaire (fragmentaire) d'Oliba, avec la cote \u00ab arm. 1, cal. 2 \u00bb, d\u00e9truit dans l'incendie de Ripoll en 1835.",
+    "manuscripts": "A. Original, autrefois conserv\u00e9 \u00e0 Ripoll, avec la cote \u00ab arm. 1, cal. 2 \u00bb, d\u00e9truit dans l'incendie de Ripoll en 1835.\nB. Vic, Arxium episcopale, Olinenses 2061-IV, p. 21-40, d'apr\u00e8s A (copie incompl\u00e8te vers 1830).",
+    "pdf_source": "1",
+    "pdf_pages": "57,58,59,60,61,62,63,64,65,66,67,68,69",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": []
+  "tituli": [
+    {
+      "id": 211,
+      "roll_id": 65,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Pro defunctis fratribus breve\nObiit ille nostre congregacionis monach. Et in ultimo scribat pronomen et provinciam unde ortus eum.\nDe pueris taliter\nObiit A., puer nostre congregacionis monach.\nItem alium cum supplicatione pro monachis\nObiit A., cantor nostre congregacionis monachus, pro quo quinci fideles, sub sancta professione viventes, humiliter petimus apud Deum intervenite.",
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 481,
+          "titulus_id": 211,
+          "original_name": "A.",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "A.",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "roll_id": 65,
+      "title": "",
+      "location_name": "",
+      "latin_text": "y\u0935\u093e\u0928\u093f\u0935ist de monasterio de S. Pedro de Caversia, en la diocesis y corregimiento de Vich,\nVich, 1823, p. 2, d'Agote s \u00e9d. (partielle). \u2014 d. F. Monsalvete y Fossas, Noticias historicas, t. IX,\nOlot, 1976, p. 48, 51, d'Agote s \u00e9d. (partielle). \u2014 e. E. Junyent, Olot, p. 252-263, d'apr\u00e8s B (\u00e9d.\npartielle). \u2014 f. E. Junyent, Diplomatus et scriptis latinis abbat i bisbe Olba a cura d'A. M.\nMundo, Barcelona, 1992, p. 341-358, pp. 24.",
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 213,
+      "roll_id": 65,
+      "title": "",
+      "location_name": "",
+      "latin_text": "defunctis : S. Pere de Rodas n\u00b0 36 [20], S. Cugat del Vall\u00e9s n\u00b0 36 [67], S. Lliboren del Mont n\u00b0 57 [180], Albi (n\u00b0 39 [22], Cabrer (n\u00b0 41 [25], Claret (n\u00b0 43 [63], Marmouret (n\u00b0 44 [50], Charroux (n\u00b0 54 [43], la cath\u00e9drale de Poitiers n\u00b0 57 [35] et Martin de Lugo (n\u00b0 57 [39] [77], la cath\u00e9drale de Poitiers n\u00b0 70 [89], Besal\u00fa n\u00b0 76 [63], Le Monast\u00e8re de San-Gazoll\u00e9 n\u00b0 77 [75], S. Cecilia de Montserrat n\u00b0 70 [89], Ezul, B juge de la qualit\u00e9 de erratum certi\u00e2) ou rel\u00e8ve des d\u00e9tails d'erreurs dans l'\u00e9dition.",
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 214,
+      "roll_id": 65,
+      "title": "1 [17] S.d.- Ripoll",
+      "location_name": "Ripoll",
+      "latin_text": "Mueste del obispo al Abbay Oliba. Encyclica. \n\nIst ri porrecta, lacrimabilis grex conoborum Virginis Mariae Ripovellensis et principi- pis Achteris Michaelis archangelui Cocheanus, et remissis et destituotis solliciti pissioni pectoris. Fratuli dolore percussore mercente nos verbi anxietatis larginae apud paci- tats, ut nostro vetere cauminae reliquemus admonere caiminis caputnis. Nolumus ut autem admonemus esse verbis, ne verum videmus latuaris auribus crescens (5). Sel, remissis caumas, electis obnecius linguae, tenebrarum oculi, marcescens digiti dolore cordis <...> denum renovatur, cum tremendotis dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litterIS annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdisemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis, quem perdidemus, totius dis mansibus causa dolores litteris annuat. Erat nobis,",
+      "pdf_page": 59,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 215,
+      "roll_id": 65,
+      "title": "",
+      "location_name": "",
+      "latin_text": "renunciavit et admodum juvenis in cenobio gloriae Virginis Mariae, juxta regulam Benedicti patris, sub abbatis imperio militavit. Abbatiis interea prefatorum coenobiorum uno tempore ab hac luce subtractis, adclamatione cunctorum trium curam regiminis repugnans nolensque suscepit. Eletus autem omnibus equamlem sebe praemutte sancte conversationis opere verbis docuit et operibus praemonstravit. Aecleasuerem quoquo statum doctrina sapientiae et hedificiorum (sic) mirabili structura diversorumque ornamentum gloria sumis (sic) honoribus ampliavit. Obeunte etiam ipsium regionis proportio, conventia clericorum et hominum totius episcopi et principum electione magna et diversorum presulum ordinationem promississima (sic) pontificali est sublimatus in cathedra. Qui prioris continentie nichil rigore laxavit, sed humilitatis et pacientie ac totius boni operis exemplis instituendis. Succinte quidem nos promissimis loqui, qui ergo cum bonis polleret moribus et propter exemplie karitatis affectum fieret amabilis cunctis, in predicto cenobio gloriosi archangeli Michaelis corporis largore preventus atque ad extrema predempt, gregium sbi comissum Domino commendantv sicque multis coram astantibus misereque lugentibus et flibustis, 3 kalendas novembre, 5 feria, hora 9 jam decendente, ab hac luce decessit et nobis inarrabiles luxet et inamables fluit sua mortie relicqu\u00e6 (sic). Hunc ergo quanto caris amabamus, tantus artus vetrer\u00e6 pietatis vestigi inelecum casus, quantumque cum ille extremi contagio pulveris peccatorum macule vesper extreccuant orantibus juvenis, at a multis omnibus exiti et in celestis regni gudiam direatur adgiundo. Et quia in multis offendimus omnes \u2039 (1) et ne homo nobis unum absque peccato \u203a (2), presidia sancte intercessionis ei impetendis, ut non paciatur illum trudi genuhellenis clausis. Filius Dei qui eum precio si redemit sanguinis factiat sui consortem in paradisi amenet, quem perornavit in hoc 25 securo sacerdoci dignitate. Nostrorum vero fratrum defunctorum nomina, quibus vetrer\u00e6 pietatis decorpsimus solitati, ideo hic non sont nata, quem ui sunt nota qui nichil nesciens novit omnia. Cursores pretrea nostri diebus, quibus eis adirent, vicem quis obtineant medicantis et de mense vestre fragmentis expleant inendam anime exsertis adittoque eis qualicumque supplemento viatici, permittis illo iam piacis, ut Deus pacis et karitatis sit semper cum omnibus vobis.",
+      "pdf_page": 59,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 482,
+          "titulus_id": 215,
+          "original_name": "Virginis Mariae",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Virgin Mary",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 483,
+          "titulus_id": 215,
+          "original_name": "Benedicti patris",
+          "original_title": "patris",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Benedict",
+          "normalized_role": "abbot/father",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 484,
+          "titulus_id": 215,
+          "original_name": "Michaelis",
+          "original_title": "archangeli",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Michael",
+          "normalized_role": "archangel",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 485,
+          "titulus_id": 215,
+          "original_name": "Dei",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "God",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "roll_id": 65,
+      "title": "",
+      "location_name": "",
+      "latin_text": "tem actualm et regnum optantes cum sanctis aeternum. Dum corporis presentiam prefati presulis et patri Olivae (60) viaus nomen in tumulo quiescere si visitur, continue memorie ac \u00e6vis ut vivas reducat. Unde si suntos cogitur de se loqui quem novarent, quanto magis primus que adoptaret in ordine monastico pater sibi s in filios et, dum fuit in secura, delect satis karis et exedens nimium dolendus mago sacratissimam benedixit seques ! Ergo illum commendates (sic) vestris preschis, ut in regno Christi sanctis adjungatur omnibus, in offivis divinis poscite, vultis. Pro nobis quoque apud Dominum intercessores ut sit oramus, ut oves suos Pastor \u00e6ternus per vivas hujes vite ita dirigat, ut ad pascua \u00e6terne io hereditatis elementer introducat et fratribus vestre congregationis defunctis partem beate resurrectionis concedat, qui omnes conditit et redemit et cunctorum nomina novit. Gratia Domini vobiscum. Amen.",
+      "pdf_page": 60,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 486,
+          "titulus_id": 216,
+          "original_name": "Olivae",
+          "original_title": "",
+          "footnote_num": "60",
+          "footnote_text": "viaus nomen in tumulo quiescere si visitur,",
+          "normalized_name": "Oliver",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "roll_id": 65,
+      "title": "7 [5] S.d.- S. Hilaire.",
+      "location_name": "S. Hilaire",
+      "latin_text": "",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 487,
+          "titulus_id": 217,
+          "original_name": "S. Hilaire",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Hilaire",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "roll_id": 65,
+      "title": "7. S\" Hilario de Carcassona.",
+      "location_name": "Carcassona",
+      "latin_text": "",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 488,
+          "titulus_id": 218,
+          "original_name": "S\" Hilario",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Hilaire",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Carcassona"
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "roll_id": 65,
+      "title": "8 [6] S.d.- Lagrasse, N.-D.",
+      "location_name": "Lagrasse",
+      "latin_text": "",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 489,
+          "titulus_id": 219,
+          "original_name": "N.-D.",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Notre-Dame",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "roll_id": 65,
+      "title": "8. S\"ta Maria virtutibus Crasse (a). Es larga y bien escrita y contiene muchos elogios de Oliba. Concluye con unos quantos hexametros.",
+      "location_name": "Maria",
+      "latin_text": "",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 490,
+          "titulus_id": 220,
+          "original_name": "S\"ta Maria",
+          "original_title": "",
+          "footnote_num": "a",
+          "footnote_text": "a. H. Flores, Espa\u00f1a sacrada, t. XLIII, Madrid, 1819, p. 439-440, d'apr\u00e8s A.",
+          "normalized_name": "Sainte Marie",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 491,
+          "titulus_id": 220,
+          "original_name": "Oliba",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Oliba",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "roll_id": 65,
+      "title": "9 [7] S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "",
+      "latin_text": "9. No expresa el titulo de la iglesia.",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 222,
+      "roll_id": 65,
+      "title": "10 [12] S.d.- S. Guilhem-le-D\u00e9sert.",
+      "location_name": "S. Guilhem-le-D\u00e9sert",
+      "latin_text": "",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 492,
+          "titulus_id": 222,
+          "original_name": "S. Guilhem-le-D\u00e9sert",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Guilhem-le-D\u00e9sert",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "roll_id": 65,
+      "title": "10. S\" Salvador Gellonense, ubi adoratur herilis Christi crux et in quo quiescit corpus beati Willelmi, confessoris Christi, etc.",
+      "location_name": "Salvador Gellonense",
+      "latin_text": "ubi adoratur herilis Christi crux et in quo quiescit corpus beati Willelmi, confessoris Christi, etc.",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 493,
+          "titulus_id": 223,
+          "original_name": "S\" Salvador Gellonense",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Salvador de Gellone",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Gellone"
+        },
+        {
+          "id": 494,
+          "titulus_id": 223,
+          "original_name": "beati Willelmi",
+          "original_title": "confessoris Christi",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillaume",
+          "normalized_role": "confessor",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "roll_id": 65,
+      "title": "11 [14] S.d.- Villemagne, S. Martin, S. Majan.",
+      "location_name": "Villemagne",
+      "latin_text": "",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 495,
+          "titulus_id": 224,
+          "original_name": "S. Martin",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Martin",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 496,
+          "titulus_id": 224,
+          "original_name": "S. Majan",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Majan",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "roll_id": 65,
+      "title": "11. S\" Martin obispo Ville Magnensis y S\" Mariano (sic) consec. Concluye con versos hexametros bastante regulares.",
+      "location_name": "Ville Magnensis",
+      "latin_text": "obispo Ville Magnensis y S\" Mariano (sic) consec. Concluye con versos hexametros bastante regulares.",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 497,
+          "titulus_id": 225,
+          "original_name": "S\" Martin",
+          "original_title": "obispo",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Martin",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Ville Magnensis"
+        },
+        {
+          "id": 498,
+          "titulus_id": 225,
+          "original_name": "S\" Mariano",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Mariano",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "roll_id": 65,
+      "title": "12 [15] S.d.- S. Pons-de-Thomi\u00e8res.",
+      "location_name": "S. Pons-de-Thomi\u00e8res",
+      "latin_text": "",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 499,
+          "titulus_id": 226,
+          "original_name": "S. Pons-de-Thomi\u00e8res",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Pons-de-Thomi\u00e8res",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "roll_id": 65,
+      "title": "12. S\" Poncio Tomeriense. Dicen haber escrito el nombre de Oliba en su 15 breviario y piden lo mismo para sus difuntos.",
+      "location_name": "Poncio Tomeriense",
+      "latin_text": "Dicen haber escrito el nombre de Oliba en su 15 breviario y piden lo mismo para sus difuntos.",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 500,
+          "titulus_id": 227,
+          "original_name": "S\" Poncio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Ponce",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Tomeriense"
+        },
+        {
+          "id": 501,
+          "titulus_id": 227,
+          "original_name": "Oliba",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Oliba",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "roll_id": 65,
+      "title": "13 [16] S.d.- Caunes, S. Pierre.",
+      "location_name": "Caunes",
+      "latin_text": "",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 502,
+          "titulus_id": 228,
+          "original_name": "S. Pierre",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Pierre",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "roll_id": 65,
+      "title": "13. S\" Pedro Caunense. Al fin uno monogramma muy grande con bermellon.",
+      "location_name": "Pedro Caunense",
+      "latin_text": "Al fin uno monogramma muy grande con bermellon.",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 503,
+          "titulus_id": 229,
+          "original_name": "S\" Pedro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Pierre",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Caunes"
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "roll_id": 65,
+      "title": "14 [17] S.d.- Montlieu, S. Jean-Baptiste.",
+      "location_name": "Montlieu",
+      "latin_text": "",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 504,
+          "titulus_id": 230,
+          "original_name": "S. Jean-Baptiste",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Jean-Baptiste",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "roll_id": 65,
+      "title": "14. S\" Juan Bautista de Vallsichare. Es larga.",
+      "location_name": "Vallsichare",
+      "latin_text": "Es larga.",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 505,
+          "titulus_id": 231,
+          "original_name": "S\" Juan Bautista",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Jean-Baptiste",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Vallsichare"
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "roll_id": 65,
+      "title": "15 [19] S.d.- Sor\u00e8ze, N.-D.",
+      "location_name": "Sor\u00e8ze",
+      "latin_text": "",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 506,
+          "titulus_id": 232,
+          "original_name": "N.-D.",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Notre-Dame",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "roll_id": 65,
+      "title": "15. S\"a Maria Soricinense.",
+      "location_name": "Soricinense",
+      "latin_text": "",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 507,
+          "titulus_id": 233,
+          "original_name": "S\"a Maria",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Sainte Marie",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Soricinense"
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "roll_id": 65,
+      "title": "16 [18] S.d.- N.-D.-de-Bernassone.",
+      "location_name": "Bernassone",
+      "latin_text": "",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 508,
+          "titulus_id": 234,
+          "original_name": "N.-D.-de-Bernassone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Notre-Dame de Bernassone",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Bernassone"
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "roll_id": 65,
+      "title": "16. S\"a Maria Varnassonense.",
+      "location_name": "Varnassonense",
+      "latin_text": "",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 509,
+          "titulus_id": 235,
+          "original_name": "S\"a Maria",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Sainte Marie",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Varnassonense"
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "roll_id": 65,
+      "title": "17 [20] S.d.- Vielmur-sur-Agout, N.-D.",
+      "location_name": "Vielmur-sur-Agout",
+      "latin_text": "",
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 510,
+          "titulus_id": 236,
+          "original_name": "Maria",
+          "original_title": "S\u00aa",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "roll_id": 65,
+      "title": "18 [23] S.d.- Varen, N.-D., S. Serge.",
+      "location_name": "Varen",
+      "latin_text": "",
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 511,
+          "titulus_id": 237,
+          "original_name": "Maria",
+          "original_title": "S\u00aa",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 512,
+          "titulus_id": 237,
+          "original_name": "Serge",
+          "original_title": "S.",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Sergius",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "roll_id": 65,
+      "title": "19 [59] S.d.-[Autun,] S. Andochie.",
+      "location_name": "Autun",
+      "latin_text": "monasterio de monjas, como sigue: / Caetinus prytan tyran surgebat evo / Martyris Andochii teripes cum libem inivit, / Insimuante sacre verbum Gabrihele (a) Marie / Ostendens Olibam cosmi superasse ruinam, / Pro quo conatum sternuntur membra srorum, / Signorum bombis, funis cadet ala Sabacis (b)",
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 513,
+          "titulus_id": 238,
+          "original_name": "Andochie",
+          "original_title": "S.",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Andochi",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Autun"
+        },
+        {
+          "id": 514,
+          "titulus_id": 238,
+          "original_name": "Caetinus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Caetinus",
+          "normalized_role": "tyrant",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 515,
+          "titulus_id": 238,
+          "original_name": "Gabrihele",
+          "original_title": "",
+          "footnote_num": "a",
+          "footnote_text": "a. H. Flores, Espa\u00f1a sacrada, t. XLIII, Madrid, 1819, p. 439-440, d'apr\u00e8s A.",
+          "normalized_name": "Gabriel",
+          "normalized_role": "angel",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 516,
+          "titulus_id": 238,
+          "original_name": "Marie",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "roll_id": 65,
+      "title": "20 [60] S.d.-[Autun,] S. Symphorien.",
+      "location_name": "Autun",
+      "latin_text": "",
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 517,
+          "titulus_id": 239,
+          "original_name": "Symphorien",
+          "original_title": "S.",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Symphorianus",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Autun"
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "roll_id": 65,
+      "title": "21 [66] S.d.- Sauxillanges, S. Pierre.",
+      "location_name": "Sauxillanges",
+      "latin_text": "",
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 518,
+          "titulus_id": 240,
+          "original_name": "Pierre",
+          "original_title": "S.",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Sauxillanges"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "roll_id": 65,
+      "title": "22 [67] S.d.- Brioude, S. Julien.",
+      "location_name": "Brioude",
+      "latin_text": "S. Julian de vico Brivatense. Muy corta.",
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 519,
+          "titulus_id": 241,
+          "original_name": "Julien",
+          "original_title": "S.",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Julian",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Brioude"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "roll_id": 65,
+      "title": "23 [68] S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "",
+      "latin_text": "No expresa el titulo.",
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 243,
+      "roll_id": 65,
+      "title": "24 [65] S.d.- Charlieu, S. \u00c9tienne, S. Fortunat.",
+      "location_name": "Charlieu",
+      "latin_text": "",
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 520,
+          "titulus_id": 243,
+          "original_name": "\u00c9tienne",
+          "original_title": "S.",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Stephen",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Charlieu"
+        },
+        {
+          "id": 521,
+          "titulus_id": 243,
+          "original_name": "Fortunat",
+          "original_title": "S\u00ba",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Fortunatus",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Charlieu"
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "roll_id": 65,
+      "title": "25 [70] S.d.- [Chanteuges], S. Marcellin.",
+      "location_name": "Chanteuges",
+      "latin_text": "Un monasterio que tiene el cuerpo de san Marcelino. En versos hexametros.",
+      "pdf_page": 61,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 522,
+          "titulus_id": 244,
+          "original_name": "san Marcelino",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Marcellinus",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "roll_id": 65,
+      "title": "26 [71] S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "",
+      "latin_text": "[25 bis]. Otra muy corta del monasterio Chatojolese (a).",
+      "pdf_page": 61,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 246,
+      "roll_id": 65,
+      "title": "Entre 25 e 26 la del monasterio Chatojolese, si no es el mismo que el de 5 n\u00b0 25 (b).",
+      "location_name": "Chatojolese",
+      "latin_text": "",
+      "pdf_page": 61,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 247,
+      "roll_id": 65,
+      "title": "27 [72] S.d.- Le Puy, la cath\u00e9drale (N.-D.).",
+      "location_name": "Le Puy",
+      "latin_text": "",
+      "pdf_page": 61,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 248,
+      "roll_id": 65,
+      "title": "26. S\u00aa Maria Aniciense (e).",
+      "location_name": "Aniciense",
+      "latin_text": "",
+      "pdf_page": 61,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 523,
+          "titulus_id": 248,
+          "original_name": "S\u00aa Maria",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Mary",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "roll_id": 65,
+      "title": "",
+      "location_name": "",
+      "latin_text": "potuimus offerre curavimus. De certo valet et hanc vicem pro nostris reddite et specialiter pro hoc facere, quos adhuc ploramus, dignemini, pro Durando scilicet et Petro qui hoc anno a nobis recesserunt.",
+      "pdf_page": 62,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 524,
+          "titulus_id": 249,
+          "original_name": "Durando",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Durandus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 525,
+          "titulus_id": 249,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "roll_id": 65,
+      "title": "31 [9] S.d.-[Marseille.] S. Victor.",
+      "location_name": "S. Victor",
+      "latin_text": "Ceu jubar in tenebris effulsit Olivis sacerdos,\nPresul et egregius fama super aethera notus,\nCorpus et caete conjungens <...>ne certo,\nCeloris in merito sancto <...>in documento,\nCuius quaquam crescebat parte per orbem\nAtque per extremes fulget prudentia meae.\nHis quoque firmavit caste conemnia virae\nQualiter optatam teneat conembia namorum,\nClaruit idoneo celebri numero per orbem.\nHunc Deus Hespergi clemens indulserat olim,\nUt Domini populum nutumque tramite recto\nFerret ad asteri docter vestigia regni.\nQuis modos aut numerus vel certe calculus index\nExplanare valet virtutes illius amplas\nQuo modulum et numerum excedunt pro mole suorum?\nVicerat in terra celesti munere fretus,\nTunc denarum aetherae stipulatus jure pateris,\nIvi ad aetern caelum conemnia regni.\nPercepturus in excelsis nova gaudia victor.\nCredula si vere gestamus pectora fratres,\nNunc precipus Dominum celi que regnat in arce,\nPulscemus pariter solamina digna petentes,\nSpiritus ut caelo rescuiat nunc Olibani.\nPomnus et fructu lumenu vexatum amaro\nEjus prope annuo Domini rugitare videtur,\nUt quodcumque mali gesti lasciva juventus,\nDelicat aeternam caelorum gloria Christus.\nSydera quot caelo fulgent in nocte sereno\nFratribus ergo meis tot caras mio salutes.",
+      "pdf_page": 62,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 526,
+          "titulus_id": 250,
+          "original_name": "Christus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 527,
+          "titulus_id": 250,
+          "original_name": "Olibani",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Olibanus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "roll_id": 65,
+      "title": "31.",
+      "location_name": "",
+      "latin_text": "Otra letra y al lado de los versos precedentes (a). Igitur deum vestris monstris audivimus, compassi a dolore statim subprimessos. Agimus sicut unicus patri filius, more complexum sicut oportet, scimus Victoris alumni et congregatio totius capubi cenobii et omnis nostri loci hostiam laudis 5 offerimus pro vestro presuli Olibe, abba seu excellentissimi, qui, dum vivit, se mundo crucifix (b). Sit felix et beatus miles et decies, ala puleri paradisi fai sibi requies, dextra (c) Christi sit protectus fortiter multitotes. Amen. Fiat.",
+      "pdf_page": 62,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 528,
+          "titulus_id": 251,
+          "original_name": "Victoris",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Victor",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 529,
+          "titulus_id": 251,
+          "original_name": "Olibe",
+          "original_title": "abba seu excellentissimi",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Olibe",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 530,
+          "titulus_id": 251,
+          "original_name": "Christi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "roll_id": 65,
+      "title": "32 [11]",
+      "location_name": "S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "latin_text": "Otra letra, al lado de los versos n\u00b0 30 (d). Munere perpetuo Torquatus patre beato, Summus pontificum perdignus sede deorum, Permaneant sancta quo Christus regnat in aula. Oramus cuncti precibus rogitemus amici, Conditus si nobis orando amicus.",
+      "pdf_page": 62,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 531,
+          "titulus_id": 252,
+          "original_name": "Torquatus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Torquatus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 532,
+          "titulus_id": 252,
+          "original_name": "Christus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "roll_id": 65,
+      "title": "33 [76]",
+      "location_name": "S.d.- [Sor\u00e8de,] S. Andr\u00e9.",
+      "latin_text": "",
+      "pdf_page": 62,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 254,
+      "roll_id": 65,
+      "title": "34 [75]",
+      "location_name": "S.d.- Arles-sur-Tech, N.-D.",
+      "latin_text": "Sta Maria de Arles. Monasterio que gobernaba Don Berenguer, obispo de Elna (1).",
+      "pdf_page": 62,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 533,
+          "titulus_id": 254,
+          "original_name": "Don Berenguer",
+          "original_title": "obispo de Elna",
+          "footnote_num": "1",
+          "footnote_text": "(1) V. Mortet, \u00ab Note sur la date de r\u00e9daction des \u00ab Coutumes de Cluny \u00bb dites de Farfa \u00bb, dans Mill\u00e9naire de Cluny, Macon, 1910, t. I, p. 144.",
+          "normalized_name": "Berenguer",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Elna"
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "roll_id": 65,
+      "title": "36 [87] [28 mai 1047].- S. Cugat del Vall\u00e8s.",
+      "location_name": "S. Cugat del Vall\u00e8s.",
+      "latin_text": "35. S' Cucufate, como sigue: Excellentissimi fratribus domine nostr\u0119 Marie Rivollipents cenobii, Guitar- dus (2), licet inimicus, monachus, et abba unacum congregatione alumni Christi Cucufati cenobii perpetuam jucunditatem in Christo. Die vero quinta quo",
+      "pdf_page": 62,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 534,
+          "titulus_id": 255,
+          "original_name": "Marie",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Mary",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 535,
+          "titulus_id": 255,
+          "original_name": "Christi Cucufati",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Cucufas",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 536,
+          "titulus_id": 255,
+          "original_name": "Christo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "roll_id": 65,
+      "title": "",
+      "location_name": "",
+      "latin_text": "domino nostro aureo velati ascendit ad celum, jam vesperant pergentibus, venit ad nos porter vestor, commemorans nobis lamentable funus domni Oliv\u00e6 patri et presidis. Nos, ut vidimus, eum petitionem vestram lata mente suscepimus, verum perpetam rectum, lacrimabiliter obrequiarum officia Domino fundere preces s studium. Oranim ego ut quod vos adi res pocitis agro pro domino presel ve prostit defunctis: cemili... et habbatis necnim et pro Raimundum Riculphum (sic) et vice boim cognitum (sic) atque Guillelm loci hujus loci monachum (sic) et sic aliorum verum defunctionem fratrum nostrum nomine Ipsi sunt cognita ex nichilo conditi animam. Vestrae isto die multiplicet alia omnes potestas, omnipotens Dominus, sanctitatem vestram evo longiori orantem pro nobis et nos indigni simulque vos gaudeamus cum pelorum agnino et eterna feliciter gloria.",
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 537,
+          "titulus_id": 256,
+          "original_name": "Oliv\u00e6",
+          "original_title": "patri et presidis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Oliver",
+          "normalized_role": "patrician and priest",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 538,
+          "titulus_id": 256,
+          "original_name": "Raimundum Riculphum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Raimund Riculph",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 539,
+          "titulus_id": 256,
+          "original_name": "Guillelm",
+          "original_title": "monachum",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "roll_id": 65,
+      "title": "36\u00b0 S. Lorenzo in Monte altieri supra Terrassa. Era abad Don Odegario (2) y 35 pone entre sus defuntos a Barenello (5), abad.",
+      "location_name": "S. Lorenzo in Monte altieri supra Terrassa",
+      "latin_text": "36\u00b0 S. Lorenzo in Monte altieri supra Terrassa. Era abad Don Odegario (2) y 35 pone entre sus defuntos a Barenello (5), abad.",
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 540,
+          "titulus_id": 257,
+          "original_name": "Don Odegario",
+          "original_title": "abad",
+          "footnote_num": "2",
+          "footnote_text": "(2) Monachisme clunisien, t. I, p. 21, n. 4.",
+          "normalized_name": "Odegario",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 541,
+          "titulus_id": 257,
+          "original_name": "Barenello",
+          "original_title": "abad",
+          "footnote_num": "5",
+          "footnote_text": "Fils d'Olba Calvet d'Emperaguer, ne versa 771, Olba devia conter de Berg\u00e0, lorsque son p\u00e8re se relata au Monasterio [39] en 1102, il ne resta \u00e0 Ripoll, qu'il dirigea \u00e0 partir de 1008, date de l'abb\u00e9 S. Pedro Sifrondas; plus il devit abb\u00e9 de S. Michel de Curz\u00e1 et enfin, en 1018 \u00e9v\u00eaque de Vich. Il menint \u00e0 l'ann\u00e9e 1036 que son comte aurait \u00e9t\u00e9 transf\u00e9r\u00e9 \u00e0 Yepes, pr\u00e8s de Ripoll [40]. Son r\u00f4le, si important pour l'histoire de la Catalogne dans la premi\u00e8re moiti\u00e9 du XI e., a \u00e9t\u00e9 \u00e9tudi\u00e9 \u00e0 30 \u0645\u0631\u0627\u062a reprises [41], s'en est il rendu et est devenu \u00e9v\u00eaque.",
+          "normalized_name": "Barenello",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "roll_id": 65,
+      "title": "37 [89] S.d.- S. Lloren\u00e7 del Mont (pr\u00e8s de Terrassa).",
+      "location_name": "S. Lloren\u00e7 del Mont",
+      "latin_text": "",
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 259,
+      "roll_id": 65,
+      "title": "38 [21] S.d.- Castres, S. Benoit.",
+      "location_name": "Castres, S. Benoit",
+      "latin_text": "37 Bevi\u00e7o, quo sancti Vincentii membra quiescunt. Esta en versos hexametros bien regulares.",
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 542,
+          "titulus_id": 259,
+          "original_name": "sancti Vincentii",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Vincent",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 260,
+      "roll_id": 65,
+      "title": "44. S\u1eaab Salvador Sarlatense.",
+      "location_name": "Sarlat",
+      "latin_text": "En versos de 2 pies, dactilo et spondeo.",
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 261,
+      "roll_id": 65,
+      "title": "45. S\u1eaab Pedro apostol y S\u1eaab Cipriano.",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 543,
+          "titulus_id": 261,
+          "original_name": "Pedro",
+          "original_title": "apostol",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pierre",
+          "normalized_role": "apostle",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 544,
+          "titulus_id": 261,
+          "original_name": "Cipriano",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Cyprien",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "roll_id": 65,
+      "title": "46. S\u1eaab Pedro apostol y S\u1eaab Amando dicho Genolitico.",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 545,
+          "titulus_id": 262,
+          "original_name": "Pedro",
+          "original_title": "apostol",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pierre",
+          "normalized_role": "apostle",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 546,
+          "titulus_id": 262,
+          "original_name": "Amando",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Amand",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "roll_id": 65,
+      "title": "39. Vallnobilense, ubi caput s. Antoni (sic) martiris quiescit.",
+      "location_name": "Vallnobilense",
+      "latin_text": "",
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 547,
+          "titulus_id": 263,
+          "original_name": "s. Antoni",
+          "original_title": "martiris",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Antonin",
+          "normalized_role": "martyr",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 264,
+      "roll_id": 65,
+      "title": "40. Catedral de S\u1eaab Estevan Caturcis.",
+      "location_name": "Caturcis",
+      "latin_text": "Ponen entre sus difuntos al obispo Willelmo (1).",
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 548,
+          "titulus_id": 264,
+          "original_name": "Willelmo",
+          "original_title": "obispo",
+          "footnote_num": "1",
+          "footnote_text": "(1) V. Mortet, \u00ab Note sur la date de r\u00e9daction des \u00ab Coutumes de Cluny \u00bb dites de Farfa \u00bb, dans Mill\u00e9naire de Cluny, Macon, 1910, t. I, p. 144.",
+          "normalized_name": "Guillaume",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 265,
+      "roll_id": 65,
+      "title": "41. S\u1eaab Maria Soliacense.",
+      "location_name": "Soliacense",
+      "latin_text": "",
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 266,
+      "roll_id": 65,
+      "title": "42. Monasterio Cluniense.",
+      "location_name": "Cluny",
+      "latin_text": "Patribus et fratribus omnibus sub Domino Christo militantibus nos, fratres Clunienses divis regentes, fideles orationes. Intimamus et vobis karissimi fratres nostri Miliardi, 13 kalendas aprilis de scido monasterium conversi, ipsa vero die ex hac luce migrati, per cujus caeterorum christicolarum requie omnipotentem Domino pia prece.",
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 549,
+          "titulus_id": 266,
+          "original_name": "Miliardi",
+          "original_title": "fratres nostri",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "G\u00e9raud",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "roll_id": 65,
+      "title": "42. Monasterio Cluniense.",
+      "location_name": "Cluny",
+      "latin_text": "Patribus et fratribus omnibus sub Domino Christo militantibus nos, fratres Clunienses divis regentes, fideles orationes. Intimamus et vobis karissimi fratres nostri Miliardi, 13 kalendas aprilis de scido monasterium conversi, ipsa vero die ex hac luce migrati, per cujus caeterorum christicolarum requie omnipotentem Domino pia prece.",
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 550,
+          "titulus_id": 267,
+          "original_name": "Miliardi",
+          "original_title": "fratres nostri",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "G\u00e9raud",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "roll_id": 65,
+      "title": "43. Monasterio Mayor.",
+      "location_name": "",
+      "latin_text": "Defunctorum vestrorum nuncius ad nostrum quod is Majus vocatur Monasterium venit. Debitum illius commendationis excolvimus et nostris Baldrico, Guillelmo, Pedro id ipsum vos impendere flagitamus.",
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 551,
+          "titulus_id": 268,
+          "original_name": "Baldrico",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Baudry",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 552,
+          "titulus_id": 268,
+          "original_name": "Guillelmo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillaume",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 553,
+          "titulus_id": 268,
+          "original_name": "Pedro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pierre",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "roll_id": 65,
+      "title": "47. [30] S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "",
+      "latin_text": "No expresa el titulo. En versos hexametros.",
+      "pdf_page": 64,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 270,
+      "roll_id": 65,
+      "title": "48. [69] S.d.- Reilhac.",
+      "location_name": "Reilhac",
+      "latin_text": "Monasterio de Rialaco (1)",
+      "pdf_page": 64,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 271,
+      "roll_id": 65,
+      "title": "49. [90] S.d.- [Bages, S. Benet].",
+      "location_name": "Bages, S. Benet",
+      "latin_text": "No expresa el titulo. Tal vez de S\u00ba Benito. Era abad Miron (2).",
+      "pdf_page": 64,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 554,
+          "titulus_id": 271,
+          "original_name": "Miron",
+          "original_title": "abad",
+          "footnote_num": "2",
+          "footnote_text": "(2) Monachisme clunisien, t. I, p. 21, n. 4.",
+          "normalized_name": "Miron",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "roll_id": 65,
+      "title": "50. [32] S.d.- Vigreois, S. Pierre.",
+      "location_name": "Vigreois, S. Pierre",
+      "latin_text": "S\u00ba Pedro Vessiense.",
+      "pdf_page": 64,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 555,
+          "titulus_id": 272,
+          "original_name": "Pedro Vessiense",
+          "original_title": "S\u00ba",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter of Viguer",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Viguer"
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "roll_id": 65,
+      "title": "51. [33] S.d.- Uzerche.",
+      "location_name": "Uzerche",
+      "latin_text": "No expresa el titulo. Venit ad Usariichum solum.",
+      "pdf_page": 64,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 274,
+      "roll_id": 65,
+      "title": "52. [35] S.d.- Arnac-Pampadour, S. Pardoux.",
+      "location_name": "Arnac-Pampadour, S. Pardoux",
+      "latin_text": "Tampon[?] expres\u00e1 el t\u00edtulo, sino: venint <...> ad locum (parece) Arnaeus cenobii, ubi requiescit eximus confessor Christif Pardulfus.",
+      "pdf_page": 64,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 556,
+          "titulus_id": 274,
+          "original_name": "Christif Pardulfus",
+          "original_title": "confessor",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pardulf",
+          "normalized_role": "confessor",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 275,
+      "roll_id": 65,
+      "title": "59. S\u1d31 Martial Lemovicense.",
+      "location_name": "Limoges",
+      "latin_text": "La salutacion es a nombre de choors (sie) almi Christi discipuli Martialii et degues diven qu'el portador venit ad alvas Jesu Christi Domini nostri Lemovic\u00e6 cristatalis, ubi supradictus pastor et dus honorifi- 5 ce (60) humatus quiescit.",
+      "pdf_page": 65,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 557,
+          "titulus_id": 275,
+          "original_name": "Martialii",
+          "original_title": "pastor",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Martial",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Limoges"
+        }
+      ]
+    },
+    {
+      "id": 276,
+      "roll_id": 65,
+      "title": "60. S\u1d21 Andres apostol, ubi beatissimi Juniani confessoris corpus quiescit.",
+      "location_name": "",
+      "latin_text": "S\u1d21 Andres apostol, ubi beatissimi Juniani confessoris corpus quiescit.",
+      "pdf_page": 65,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 558,
+          "titulus_id": 276,
+          "original_name": "Andres",
+          "original_title": "apostol",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Andrew",
+          "normalized_role": "apostle",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 559,
+          "titulus_id": 276,
+          "original_name": "Juniani",
+          "original_title": "confessoris",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Junian",
+          "normalized_role": "confessor",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 277,
+      "roll_id": 65,
+      "title": "61. Monasterio Starpense. En versos hexametros.",
+      "location_name": "Starpenso",
+      "latin_text": "",
+      "pdf_page": 65,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 278,
+      "roll_id": 65,
+      "title": "62. Monasterio Legudiacense. Envoie:",
+      "location_name": "Legudiacum",
+      "latin_text": "Vasti orbem per spatium qui dirextis rotulum vestrorum fratrum (b) requiem concedat Rex omnipotentes <.....>.\netc., etc.",
+      "pdf_page": 65,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 560,
+          "titulus_id": 278,
+          "original_name": "Rex",
+          "original_title": "",
+          "footnote_num": "b",
+          "footnote_text": "b. J. Villanueva, l'usage literario, t. VI, p. 302-306, app. XXIX, d'apr\u00e8s A (\u00e9d. partielle).",
+          "normalized_name": "God",
+          "normalized_role": "King",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "roll_id": 65,
+      "title": "Al medio:",
+      "location_name": "Legudiacum",
+      "latin_text": "Locum nostrum agnoscite Legudiacum nomine, In quo Martinus pontifex Christo senuit jugiter. Distat idem sanctissimus sive locus aptissimus A Pictavense moenibus bis binis ferme nilibus Florea conculta gerit et prata virgentia gestat <.....>.\netc., etc.",
+      "pdf_page": 65,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 561,
+          "titulus_id": 279,
+          "original_name": "Martinus",
+          "original_title": "pontifex",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Martin",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Poitiers"
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "roll_id": 65,
+      "title": "63. Catedral Pictavense, como sique:",
+      "location_name": "Pictavense",
+      "latin_text": "Aut te damnum deterreat, aut merori subjacas, Uti ror quam minima videtur differentia, At si rota volubli sors id utrique detulit Nil restat qu\u00e4m terribili succumbas prorsus honeri. Mesta nobis Hibernia preces proscendo clamitat Fichile fumus pr\u00e6sulis flens acerrime, Quod nequamquam absumitis libenter sed annuimus Faveas vota supplicium fundendo preces ad Deum.",
+      "pdf_page": 65,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 562,
+          "titulus_id": 280,
+          "original_name": "Deum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "God",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 281,
+      "roll_id": 65,
+      "title": "64. S\u02c6 Hilaire Piptracie. Empieze :",
+      "location_name": "Poitiers, S. Hilaire[-le-Grand]",
+      "latin_text": "Summis Rivipollensibus in Christo junctis fratribus Hylarii in Domino salutes congregatio etc., etc.",
+      "pdf_page": 65,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 282,
+      "roll_id": 65,
+      "title": "65. No expresa el titulo. Hexametros.",
+      "location_name": "Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es",
+      "latin_text": "",
+      "pdf_page": 65,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 283,
+      "roll_id": 65,
+      "title": "66. S\u02c6 Martin urbis Aedu\u00e9.",
+      "location_name": "Autun, S. Martin.",
+      "latin_text": "",
+      "pdf_page": 65,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 563,
+          "titulus_id": 283,
+          "original_name": "S\u02c6 Martin",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Martin",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Autun"
+        }
+      ]
+    },
+    {
+      "id": 284,
+      "roll_id": 65,
+      "title": "67. S\u02c6 Juniano. Hexametros.",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 65,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 573,
+      "roll_id": 65,
+      "title": "71 [48] S.d.- [Poitiers], S. Radegonde.",
+      "location_name": "S. Radegonde",
+      "latin_text": "",
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 574,
+      "roll_id": 65,
+      "title": "72 [49] S.d.\u2013Eglise ind\u00e9termin\u00e9e (S. Martin).",
+      "location_name": "S. Martin",
+      "latin_text": "",
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 575,
+      "roll_id": 65,
+      "title": "73 [84] S.d.- S. Loren\u00e7 del Munt.",
+      "location_name": "S. Loren\u00e7 del Munt",
+      "latin_text": "",
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 576,
+      "roll_id": 65,
+      "title": "75 [82] 15 mai [1047].\u2014Banyoles, S. Esteve.",
+      "location_name": "Banyoles, S. Esteve",
+      "latin_text": "",
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 577,
+      "roll_id": 65,
+      "title": " ",
+      "location_name": "",
+      "latin_text": "cunctaque subito illo degens congregatio in gloriosissimi martiris Stephani Banniolensi monasterio gloriam et regnum vit\u00e6 perpetu\u00e9 cum Salvatore Domino. Postquam dulcissimi patris ac pii pastoris Oliv\u00e6 admodum lamentabiles planximus exequias, cum jam nostros oculos fletibus undatis pro ipsiis absentia pausipser siccaremus laxtris, novus ad revivendis nobis ortus est luctus cum vestrum cursorism rem qui cuncta sanctorum loca peragrans ad nos usque pervenit, 6 feria, idumum maiarum videmus. Quem sumo studio assidu\u00e8 instanti\u00e0 precum sciatis nos Domino commendare, quo totius mundi factor atque Redemptor, si forte illis aliquus accusat reatus conscientiae, delect et absterga sus largissima miseratione.",
+      "pdf_page": 66,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 1707,
+          "titulus_id": 577,
+          "original_name": "Stephani",
+          "original_title": "martiris",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Stephen",
+          "normalized_role": "martyr",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 1708,
+          "titulus_id": 577,
+          "original_name": "Salvatore",
+          "original_title": "Domino",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Savior",
+          "normalized_role": "Lord",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 1709,
+          "titulus_id": 577,
+          "original_name": "Oliv\u00e6",
+          "original_title": "pastoris",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Oliver",
+          "normalized_role": "pastor",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 578,
+      "roll_id": 65,
+      "title": "76 [83] Bes\u00e1l\u00e1, S. Pere.",
+      "location_name": "Bes\u00e1l\u00e1, S. Pere.",
+      "latin_text": "15 kalendas junii, hora 3, missarum solemnia peragantibus, adit poritur verter limina apostoli (sic) coenobi estis casuum, nec nomen cum gloriosissimis martir Primus atque Concordius(2), Arelatensis archiepiscopus, nec tantum et beatissimus confessor Christi Marinus et alia nonnulla corpora sanctorum, obi ut bellas regulae patent Benedicti. In hoc ergo locum (sic) adveniens ductor scedule, admnuncians nobis funus lacribiles cuius ab adolescentia laribus funibus 10 observati ? Cujusque doctrinis eruditi et prospere educati ? Sed nunquam dies erit quo nostro corde ejus recedat memoria in hujus eremusula vult. Bonifilium(1) etiam abbatem vobis bene cognitum et nostri ordinis certos fratres,\nquorum nomina ipsi spunta coniugi sua solvis nutrit omnia, versis commistis inter 15 cessionibus. Tempora per longa sint vobis prosperta cuncta",
+      "pdf_page": 66,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 1710,
+          "titulus_id": 578,
+          "original_name": "Primus",
+          "original_title": "martir",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Primus",
+          "normalized_role": "martyr",
+          "normalized_dates": "",
+          "location_name": "Arelate"
+        },
+        {
+          "id": 1711,
+          "titulus_id": 578,
+          "original_name": "Concordius",
+          "original_title": "martir",
+          "footnote_num": "2",
+          "footnote_text": "(2) Monachisme clunisien, t. I, p. 21, n. 4.",
+          "normalized_name": "Concordius",
+          "normalized_role": "martyr",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 1712,
+          "titulus_id": 578,
+          "original_name": "Christi Marinus",
+          "original_title": "confessor Christi",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Marinus",
+          "normalized_role": "confessor",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 1713,
+          "titulus_id": 578,
+          "original_name": "Bonifilium",
+          "original_title": "abbatem",
+          "footnote_num": "1",
+          "footnote_text": "(1) V. Mortet, \u00ab Note sur la date de r\u00e9daction des \u00ab Coutumes de Cluny \u00bb dites de Farfa \u00bb, dans Mill\u00e9naire de Cluny, Macon, 1910, t. I, p. 144.",
+          "normalized_name": "Boniface",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 579,
+      "roll_id": 65,
+      "title": "76. Monasterio Caliminesse,",
+      "location_name": "Monasterio Caliminesse",
+      "latin_text": "humus hui(sic) almus Tehofredus (sic) martir jacet humus. Expressas las circunstancias de sus defuntos y entre ellos, Larento (sic) monachus qui in juveni obiit, sed non parvum nobis lamentum reliquit (sic)$^{(4)}$ <...>, Gerardus monachus qui venit eram $11^{am}$, sed parum desudavit il vocam$^{(5)}$, etc., etc.",
+      "pdf_page": 67,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 1714,
+          "titulus_id": 579,
+          "original_name": "Tehofredus",
+          "original_title": "martir",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Tehofredus",
+          "normalized_role": "martyr",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 1715,
+          "titulus_id": 579,
+          "original_name": "Larento",
+          "original_title": "monachus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Larento",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 1716,
+          "titulus_id": 579,
+          "original_name": "Gerardus",
+          "original_title": "monachus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gerardus",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 580,
+      "roll_id": 65,
+      "title": "77. S.$^{20}$ Pedro de Castro Serra.",
+      "location_name": "Pedro de Castro Serra",
+      "latin_text": "Cum$^{(3)}$ [84] jubat sollis differenter, lumini cel suis radis medioque horarum per-deret liberrima cumuna adversis ad levens summi poli cardine occasum sue lucis $^{(1)}$ pretenderet supremum terrarum orbem, tune adit veter si venera limpina pellifer$^{(2)}$ [Sancti cenobi Petri Kazstrieqe, ferens doloros$^{(3)}$] Pio patri Olbe funebria. Mox pro ejus anima eterique lacrimabilem ad Dominum defendimus preces, ut est sis misericiei corus et proprius. Quod nos pre vestris oeanus, no pigrimetini solotemus obsecra-mus praecare pro nostris. Quorum fratrum nostrum nomina Deus perdidit in sui plena memoria.",
+      "pdf_page": 67,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 1717,
+          "titulus_id": 580,
+          "original_name": "",
+          "original_title": "",
+          "footnote_num": "20",
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 1718,
+          "titulus_id": 580,
+          "original_name": "Olbe",
+          "original_title": "patri",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Olbe",
+          "normalized_role": "father/patron",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 581,
+      "roll_id": 65,
+      "title": "78. Catedral de Auna,",
+      "location_name": "Catedral de Auna",
+      "latin_text": "Religioso coenobi in monasterio Rivipollensis (sic) Christo ejusque genitrici ad-due militanti, Aunonensis ecclesie universis et vit\u00e8 instantis diutina com-des moda et premia futura felicia. Cum primus quinta super enaps lama gem perme medium orbis amem Titane alijedes agjante, 12 kalendarum juniarum die gerulus venter communis vestre sacristie nostre ad nos per litteras monumenta",
+      "pdf_page": 67,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 1719,
+          "titulus_id": 581,
+          "original_name": "Christo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 582,
+      "roll_id": 65,
+      "title": "79. S\u0103. Maria de Serrateix,",
+      "location_name": "Serrateix",
+      "latin_text": "Reverentissimis patribus valdeque dilectissimis fratribus alm\u011b Mar\u012b Ripolv.- conis lenotis congebio degustibis, Dei genitricis Serratax conobelli congregatio (a) umifis (sic), verst quod scire valemus educata (b) ac eruditis studiis, interminabile gau-",
+      "pdf_page": 67,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 1720,
+          "titulus_id": 582,
+          "original_name": "S\u0103. Maria de Serrateix",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Santa Maria de Serrateix",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Serrateix"
+        },
+        {
+          "id": 1721,
+          "titulus_id": 582,
+          "original_name": "Serratax conobelli congregatio",
+          "original_title": "congregatio",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Congregation of Serrateix",
+          "normalized_role": "monastic congregation",
+          "normalized_dates": "",
+          "location_name": "Serrateix"
+        }
+      ]
+    },
+    {
+      "id": 583,
+      "roll_id": 65,
+      "title": "continuing text from previous page",
+      "location_name": "",
+      "latin_text": "dium aeterne felicitatis. Patronis (sic) vestri nostri pie rectoris plena melore nodis olim delata est secunda 6\u1d43 sicillet nonas mai, feria 4 ante veneranda Pentecostes den dominica (sic)(1). Pro eo namque devota mente diligenter eadem die vespra (sic) obsequium celebrare studimus et, mane superveniente, sacras pro iustis sancta hostias, lect if indigni, opere curravimus. Memoriae (sic) etiam ejus et nunc quodam modo regressi in nostris manet cordibus et ejus judicis perseveret in ac(sic) nodo vita numeribus. Uniliter (sic) namque magnague claim diligentia petendi, ut munireri nostro domino Rainaldo (2)abbati vestro que fraternitatatis commiliti hac eadem impendere et, ut sanctorum, Christo propri o christiani, meruerat alisci collegio pia benignitate exercere dignomini. Ceterorumque defectorum nostrum animam Domino redeemere post, qui ulle eis proflua (a) misericordiae donum veniam qui proprio redimit merere, quicunque omnium in se continet memoriam. Prospera vobis sancta succedant et commoda bona semper proveniant.",
+      "pdf_page": 68,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 1722,
+          "titulus_id": 583,
+          "original_name": "Rainaldo",
+          "original_title": "abbati",
+          "footnote_num": "2",
+          "footnote_text": "(2) Monachisme clunisien, t. I, p. 21, n. 4.",
+          "normalized_name": "Rainald",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 584,
+      "roll_id": 65,
+      "title": "81. S\u207f Cyrion en el catedral Pratense, en valle Leo Karchari.",
+      "location_name": "Pratense/Leo Karchari",
+      "latin_text": "",
+      "pdf_page": 68,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 585,
+      "roll_id": 65,
+      "title": "82. S\u207f Maria de Roses. Alad Hechardo (35). Es muy corta.",
+      "location_name": "Roses",
+      "latin_text": "",
+      "pdf_page": 68,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 1723,
+          "titulus_id": 585,
+          "original_name": "Maria de Roses",
+          "original_title": "S\u207f",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Mary of Roses",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Roses"
+        }
+      ]
+    },
+    {
+      "id": 586,
+      "roll_id": 65,
+      "title": "80. S\u207f Gises de Fontanas.",
+      "location_name": "Fontanas",
+      "latin_text": "",
+      "pdf_page": 68,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 587,
+      "roll_id": 65,
+      "title": "84. No expresa el t\u00edtulo. En hexametros y no dice que si los muertos pudieran, a fuerza de lagrimas, resueteria nuestro difunto con las suyas, pero que no permitiendo lo los derechos de la muerte, rogaran por el, etc.",
+      "location_name": "",
+      "latin_text": "84. No expresa el t\u00edtulo. En hexametros y no dice que si los muertos pudieran, a fuerza de lagrimas, resueteria nuestro difunto con las suyas, pero que no permitiendo lo los derechos de la muerte, rogaran por el, etc.",
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 588,
+      "roll_id": 65,
+      "title": "87 [64] S.d.- Anzy-le-Duc.",
+      "location_name": "Anzy-le-Duc",
+      "latin_text": "",
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 589,
+      "roll_id": 65,
+      "title": "85 [81] S.d.- Cormery, S. Paul.",
+      "location_name": "Cormery, S. Paul",
+      "latin_text": "85. S\u00ba Pablo (parece) Cormaricense. En hexametros. Acia al medio:",
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 590,
+      "roll_id": 65,
+      "title": "86. Monasterio Encakense, ubi requiescit eximius confessor Christi Hugo(1)",
+      "location_name": "Monasterio Encakense",
+      "latin_text": "86. Monasterio Encakense, ubi requiescit eximius confessor Christi Hugo(1)",
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 1724,
+          "titulus_id": 590,
+          "original_name": "Hugo",
+          "original_title": "eximius confessor Christi",
+          "footnote_num": "1",
+          "footnote_text": "(1) V. Mortet, \u00ab Note sur la date de r\u00e9daction des \u00ab Coutumes de Cluny \u00bb dites de Farfa \u00bb, dans Mill\u00e9naire de Cluny, Macon, 1910, t. I, p. 144.",
+          "normalized_name": "Hugh",
+          "normalized_role": "confessor",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 591,
+      "roll_id": 65,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Undenis nostri penetravit limina templi\nPellifer aprilis devolvens funeris mensis\nPontificis Olibe redemita scemate rite\nBino sole vagas theadis repetente salebras\nClassica pulsantur Nozari et ad astra feruntur,\nPro cujus neque Nazari suggere Sancte\nFratribus et reliquiis Domino jam carne solutis,\nUt sibi donetur quicquid peccasse viderent,\nRegia stellati capiat quos splendida caeli\nA vobis nostris solvantur xenia funtis,\nUt valeant politis per vos gaudere coreis,\nQuorum qui fecit Plasmator nominum novis\nAl lado de dichos versos se lien los siguientes nombre, uno debajo del otro:\nDomnus Walterius (1) episcopus\nAnsisus (2) decamus\nAyn[ar]dus (3) decanus\nRich[ar]dus archidiaconus\nAlbuinus prepositus\nGirbertus archipresbiter\nOdugerius archipresbiter\nHugo paraphonista\nWilelumus precentor (a).\nLotlinus scutor (a).",
+      "pdf_page": 69,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 1725,
+          "titulus_id": 591,
+          "original_name": "Olibe",
+          "original_title": "Pontificis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Oliba",
+          "normalized_role": "Bishop/Pope",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 1726,
+          "titulus_id": 591,
+          "original_name": "Nazari",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Nazarius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 1727,
+          "titulus_id": 591,
+          "original_name": "Sancte",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 1728,
+          "titulus_id": 591,
+          "original_name": "Domnus Walterius",
+          "original_title": "episcopus",
+          "footnote_num": "1",
+          "footnote_text": "(1) V. Mortet, \u00ab Note sur la date de r\u00e9daction des \u00ab Coutumes de Cluny \u00bb dites de Farfa \u00bb, dans Mill\u00e9naire de Cluny, Macon, 1910, t. I, p. 144.",
+          "normalized_name": "Walter",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 1729,
+          "titulus_id": 591,
+          "original_name": "Ansisus",
+          "original_title": "decamus",
+          "footnote_num": "2",
+          "footnote_text": "(2) Monachisme clunisien, t. I, p. 21, n. 4.",
+          "normalized_name": "Ansisus",
+          "normalized_role": "decan",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 1730,
+          "titulus_id": 591,
+          "original_name": "Ayn[ar]dus",
+          "original_title": "decanus",
+          "footnote_num": "3",
+          "footnote_text": "(3) \u00ab Tiene de largo 11 varas 11 1/2 o ses 46 palmos \u00bb.",
+          "normalized_name": "Aynard",
+          "normalized_role": "decan",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 1731,
+          "titulus_id": 591,
+          "original_name": "Rich[ar]dus",
+          "original_title": "archidiaconus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Richard",
+          "normalized_role": "archdeacon",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 1732,
+          "titulus_id": 591,
+          "original_name": "Albuinus",
+          "original_title": "prepositus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Albinus",
+          "normalized_role": "provost",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 1733,
+          "titulus_id": 591,
+          "original_name": "Girbertus",
+          "original_title": "archipresbiter",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gilbert",
+          "normalized_role": "archpriest",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 1734,
+          "titulus_id": 591,
+          "original_name": "Odugerius",
+          "original_title": "archipresbiter",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Odo",
+          "normalized_role": "archpriest",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 1735,
+          "titulus_id": 591,
+          "original_name": "Hugo",
+          "original_title": "paraphonista",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "paraphonist",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 323,
+      "roll_id": 65,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "a. H. Flores, Espa\u00f1a sacrada, t. XLIII, Madrid, 1819, p. 439-440, d'apr\u00e8s A."
+    },
+    {
+      "id": 324,
+      "roll_id": 65,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "b",
+      "text": "b. J. Villanueva, l'usage literario, t. VI, p. 302-306, app. XXIX, d'apr\u00e8s A (\u00e9d. partielle)."
+    },
+    {
+      "id": 325,
+      "roll_id": 65,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "(1) V. Mortet, \u00ab Note sur la date de r\u00e9daction des \u00ab Coutumes de Cluny \u00bb dites de Farfa \u00bb, dans Mill\u00e9naire de Cluny, Macon, 1910, t. I, p. 144."
+    },
+    {
+      "id": 326,
+      "roll_id": 65,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "(2) Monachisme clunisien, t. I, p. 21, n. 4."
+    },
+    {
+      "id": 327,
+      "roll_id": 65,
+      "pdf_page": 57,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "(3) \u00ab Tiene de largo 11 varas 11 1/2 o ses 46 palmos \u00bb."
+    },
+    {
+      "id": 328,
+      "roll_id": 65,
+      "pdf_page": 58,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": "Fils d'Olba Calvet d'Emperaguer, ne versa 771, Olba devia conter de Berg\u00e0, lorsque son p\u00e8re se relata au Monasterio [39] en 1102, il ne resta \u00e0 Ripoll, qu'il dirigea \u00e0 partir de 1008, date de l'abb\u00e9 S. Pedro Sifrondas; plus il devit abb\u00e9 de S. Michel de Curz\u00e1 et enfin, en 1018 \u00e9v\u00eaque de Vich. Il menint \u00e0 l'ann\u00e9e 1036 que son comte aurait \u00e9t\u00e9 transf\u00e9r\u00e9 \u00e0 Yepes, pr\u00e8s de Ripoll [40]. Son r\u00f4le, si important pour l'histoire de la Catalogne dans la premi\u00e8re moiti\u00e9 du XI e., a \u00e9t\u00e9 \u00e9tudi\u00e9 \u00e0 30 \u0645\u0631\u0627\u062a reprises [41], s'en est il rendu et est devenu \u00e9v\u00eaque."
+    },
+    {
+      "id": 332,
+      "roll_id": 65,
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "En outre, l'identification de l'arch\u00e9v\u00e9e de San Augustin, Sparmolgi (n\u00ba 58 [36]) avec S. Augustin de Lim\u00f4ges est incertaine."
+    },
+    {
+      "id": 329,
+      "roll_id": 65,
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "On peut supposer que le porte-rouleaux emprunta une partie de la voie Regoldane, puis la voie c\u00f4ti\u00e9re."
+    },
+    {
+      "id": 330,
+      "roll_id": 65,
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "\u00ab Ejus nomen in pagina superior alaria in commemoratione conspicimus \u00bb (cf. J. Villa nueva, Viage, literario, t. VI, p. 1809)."
+    },
+    {
+      "id": 331,
+      "roll_id": 65,
+      "pdf_page": 58,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "\u00ab San Poncio Toriemense. Dichen haben escrito el nombre de Oliba en su febrero y piden lo mismo para sus difuntos. \u00bb"
+    },
+    {
+      "id": 333,
+      "roll_id": 65,
+      "pdf_page": 59,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "\u00ab Michaele con bermellon \u00bb B."
+    },
+    {
+      "id": 334,
+      "roll_id": 65,
+      "pdf_page": 59,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "\u00ab in multis enim offendi mus omnes \u00bb."
+    },
+    {
+      "id": 335,
+      "roll_id": 65,
+      "pdf_page": 59,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "\u00bb nullus hominum absque peccato est \u00ab."
+    },
+    {
+      "id": 336,
+      "roll_id": 65,
+      "pdf_page": 59,
+      "pdf_half": "right",
+      "footnote_num": "25",
+      "text": "perornavit in hoc 25 securo sacerdoci dignitate."
+    },
+    {
+      "id": 337,
+      "roll_id": 65,
+      "pdf_page": 60,
+      "pdf_half": "left",
+      "footnote_num": "60",
+      "text": "viaus nomen in tumulo quiescere si visitur,"
+    },
+    {
+      "id": 338,
+      "roll_id": 65,
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "Peut-\u00eatre faut-il corriger virtutibus Crasse (mots soulign\u00e9s et donc incertaines pour B en virginitatis opibus Crasse, expression pr\u00e9sente dans le rouleau de Guifr\u00e9 (cf. infos, p. 142)."
+    },
+    {
+      "id": 339,
+      "roll_id": 65,
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "Gabrielle corrig\u00e9 en Gabrielle B."
+    },
+    {
+      "id": 340,
+      "roll_id": 65,
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "Allusion \u00e0 Job, 1, 15 ou \u00e0 Joel, III, 8."
+    },
+    {
+      "id": 345,
+      "roll_id": 65,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Abbe de S. Lloren\u00e7 del Mont (pr\u00e8s de Terrassa) de 1029 au 35 mai 1073, de sa naissance; cf. P. Puig Usell, Epist. op. cit., p. 124, 129."
+    },
+    {
+      "id": 341,
+      "roll_id": 65,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "Abbe de S. Lloren\u00e7 del Mont (pr\u00e8s de Terrassa) de 1029 au 35 mai 1073, de sa naissance; cf. P. Puig Usell, Epist. op. cit., p. 124, 129."
+    },
+    {
+      "id": 342,
+      "roll_id": 65,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": "Wilhelmo I, \u00e9v\u00eaque d'Albi de 1041/ 1044 \u00e0 1052 (ibid., p. 29-31)."
+    },
+    {
+      "id": 343,
+      "roll_id": 65,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": "Amelius II. \u00e9v\u00eaque d'Albi de 1019 \u00e0 1041 (ibid., p. 29-31)."
+    },
+    {
+      "id": 346,
+      "roll_id": 65,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": "Wilhelmo I, \u00e9v\u00eaque d'Albi de 1041/ 1044 \u00e0 1052 (ibid., p. 29-31)."
+    },
+    {
+      "id": 344,
+      "roll_id": 65,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "6",
+      "text": "Salvius, \u00e9v\u00eaque d'Albi de 574/575 \u00e0 584/585 et honor\u00e9 comme saint localement (ibid., p. 22-23)."
+    },
+    {
+      "id": 347,
+      "roll_id": 65,
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Willelmus II, \u00e9v\u00e8que d'Albi, mort avant 1047 (ibid., p. 60)."
+    },
+    {
+      "id": 348,
+      "roll_id": 65,
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "L. Grillon (\"Le pri\u00e9r\u00e9gourdin de Saint-Cyprien fut-il rattach\u00e9 \u00e0 Moissac, , dans Moissac et l'Occident au XI\u1d47 s. Actes du collo-"
+    },
+    {
+      "id": 349,
+      "roll_id": 65,
+      "pdf_page": 64,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Establishment chanoisien (Haute-Loire, art. Brioude, etc. Langue: cf. G. de Valous, Monast\u00e8re clunisien, t. II, p. 185). La forme ancienne Rialaco est attest\u00e9e en 990 (cf. A. Jacotin, Dictionnaire topographique ... de la"
+    },
+    {
+      "id": 350,
+      "roll_id": 65,
+      "pdf_page": 64,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Haute-Loire, Paris, 1907, p. 229)."
+    },
+    {
+      "id": 352,
+      "roll_id": 65,
+      "pdf_page": 65,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "fratrum"
+    },
+    {
+      "id": 354,
+      "roll_id": 65,
+      "pdf_page": 65,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "fratrum"
+    },
+    {
+      "id": 351,
+      "roll_id": 65,
+      "pdf_page": 65,
+      "pdf_half": "left",
+      "footnote_num": "60",
+      "text": "humatus quiescit."
+    },
+    {
+      "id": 353,
+      "roll_id": 65,
+      "pdf_page": 65,
+      "pdf_half": "left",
+      "footnote_num": "60",
+      "text": "humatus quiescit."
+    },
+    {
+      "id": 713,
+      "roll_id": 65,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(3)",
+      "text": "abati et cunfiti fratribus Sancte Marie cemobio (sic) Rivipollensis presentia vite grupera et felicitissima gaudia."
+    },
+    {
+      "id": 714,
+      "roll_id": 65,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(4)",
+      "text": "monachi predicti monasterii vestras vestras litteras sanctissimi presulis et abbatis Oliv\u00e6, uti membris chore de condolentes, condescantes (sic) ergo Deo animam eius sanctorum intercessionibus."
+    },
+    {
+      "id": 715,
+      "roll_id": 65,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(5)",
+      "text": "intercessionibus."
+    },
+    {
+      "id": 716,
+      "roll_id": 65,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(6)",
+      "text": "De profecto nunc reddite et p. n. similia, quorum eos (sic) sunt vocabula:"
+    },
+    {
+      "id": 717,
+      "roll_id": 65,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(9)",
+      "text": "Johannis"
+    },
+    {
+      "id": 718,
+      "roll_id": 65,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(10)",
+      "text": "abbas"
+    },
+    {
+      "id": 719,
+      "roll_id": 65,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(11)",
+      "text": "abbba."
+    },
+    {
+      "id": 720,
+      "roll_id": 65,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "Willdeni"
+    },
+    {
+      "id": 721,
+      "roll_id": 65,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(8)",
+      "text": "Gisafredus et Riculfus et Bonfill"
+    },
+    {
+      "id": 722,
+      "roll_id": 65,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(7)",
+      "text": "tumundo suggimus, ut istis et pro aliis, quorum Deus scit nominare, Dominum loquere per tempora longa. Sint voces propera."
+    },
+    {
+      "id": 723,
+      "roll_id": 65,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(3)",
+      "text": "abte de S. Cecilia de Montserrat,"
+    },
+    {
+      "id": 724,
+      "roll_id": 65,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(4)",
+      "text": "J. Villanusse (Viage literario, t. VII, p. 163) d'ao\u00fbt 1043 (non successeur, Paria, est attest\u00e9 en 1064 [ibid.])."
+    },
+    {
+      "id": 725,
+      "roll_id": 65,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(5)",
+      "text": "Abbe de S. Cecilia de Montserrat, cite par J. Villanusse (Viage literario, t. VII, p. 177 n\u00b0 37)."
+    },
+    {
+      "id": 726,
+      "roll_id": 65,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(6)",
+      "text": "Abbe de S. Cecilia de Montserrat, cite par J. Villanusse (Viage literario, t. VII, p. 162) cf. (12) \u00e0 131]."
+    },
+    {
+      "id": 727,
+      "roll_id": 65,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(8)",
+      "text": "Baes\u00e0 (Espagne, provincia de Girona, comarca de Geralsa); et Catalunya catalanica."
+    },
+    {
+      "id": 728,
+      "roll_id": 65,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(9)",
+      "text": "Cf. Salaeragina = mater misericordiae s."
+    },
+    {
+      "id": 729,
+      "roll_id": 65,
+      "pdf_page": 67,
+      "pdf_half": "left",
+      "footnote_num": "(4)",
+      "text": "Wigo monachus navit aliquid reliquit B."
+    },
+    {
+      "id": 730,
+      "roll_id": 65,
+      "pdf_page": 67,
+      "pdf_half": "left",
+      "footnote_num": "(5)",
+      "text": "Tite omnis par B et donni uniquement par c. -"
+    },
+    {
+      "id": 731,
+      "roll_id": 65,
+      "pdf_page": 67,
+      "pdf_half": "left",
+      "footnote_num": "(6)",
+      "text": "pellec o; corriges pellefer. \u2014 dolosa c.; corriges dolosa."
+    },
+    {
+      "id": 732,
+      "roll_id": 65,
+      "pdf_page": 67,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Pundre: Widfridus (in; Gifredus ou Jesu frodus), abb\u00e9 de b."
+    },
+    {
+      "id": 733,
+      "roll_id": 65,
+      "pdf_page": 67,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "Ferre de Besall entre 950 et 979; cf. J. Villanova, Viage iliterico, t. XV, p. 97."
+    },
+    {
+      "id": 734,
+      "roll_id": 65,
+      "pdf_page": 67,
+      "pdf_half": "left",
+      "footnote_num": "(3)",
+      "text": "Probablement Widfridus, abb\u00e9 de S. Pere de Besall entre 1003/1008 et 1022 (ibid.)."
+    },
+    {
+      "id": 735,
+      "roll_id": 65,
+      "pdf_page": 67,
+      "pdf_half": "left",
+      "footnote_num": "(4)",
+      "text": "Allusion \u00e0 Ma\u00efth., XX, 9."
+    },
+    {
+      "id": 736,
+      "roll_id": 65,
+      "pdf_page": 67,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Expression tr\u00e8s fr\u00e9quente chez les P\u00e8res de l'\u00c9glise."
+    },
+    {
+      "id": 737,
+      "roll_id": 65,
+      "pdf_page": 67,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "I Thess., IV, 12-13."
+    },
+    {
+      "id": 738,
+      "roll_id": 65,
+      "pdf_page": 67,
+      "pdf_half": "right",
+      "footnote_num": "(3)",
+      "text": "I Thess., IV, 17."
+    },
+    {
+      "id": 739,
+      "roll_id": 65,
+      "pdf_page": 67,
+      "pdf_half": "right",
+      "footnote_num": "(4)",
+      "text": ""
+    },
+    {
+      "id": 740,
+      "roll_id": 65,
+      "pdf_page": 67,
+      "pdf_half": "right",
+      "footnote_num": "(a)",
+      "text": "congregati B ; corrige congregatio."
+    },
+    {
+      "id": 741,
+      "roll_id": 65,
+      "pdf_page": 67,
+      "pdf_half": "right",
+      "footnote_num": "(b)",
+      "text": "educata B ; corrige educata."
+    },
+    {
+      "id": 742,
+      "roll_id": 65,
+      "pdf_page": 68,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Dies erroneis en effectiv, le 2 de mai erat in 1097; qui est pr\u00e9cis que le particulier est all\u00e9 \u00e0 Gerona munici (juin 48) en outre, le novembre aussi la Pent\u0329cote correspond en 1047 au 3 juin (qui c\u00e9l\u00e8bre \u00e0 3 jours juli). A main avis, il faut corriger 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d0\u00ba tonsos, dec 6 \u02d4\ufe0f"
+    },
+    {
+      "id": 743,
+      "roll_id": 65,
+      "pdf_page": 68,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "Abb\u00e9 de Serratse, exist en 1005 par J. Villanueva (Viage literario, t. VIII, p. 137)."
+    },
+    {
+      "id": 744,
+      "roll_id": 65,
+      "pdf_page": 68,
+      "pdf_half": "left",
+      "footnote_num": "(3)",
+      "text": "Abb\u00e9 de S. Maria de Roses, inconnu de J. Villanueva (Viage literario, t. XIV, p. 237 et alii)."
+    },
+    {
+      "id": 745,
+      "roll_id": 65,
+      "pdf_page": 68,
+      "pdf_half": "left",
+      "footnote_num": "(a)",
+      "text": "proflua"
+    },
+    {
+      "id": 746,
+      "roll_id": 65,
+      "pdf_page": 68,
+      "pdf_half": "left",
+      "footnote_num": "(b)",
+      "text": "morte."
+    },
+    {
+      "id": 747,
+      "roll_id": 65,
+      "pdf_page": 68,
+      "pdf_half": "left",
+      "footnote_num": "(c)",
+      "text": "Es muy corta."
+    },
+    {
+      "id": 748,
+      "roll_id": 65,
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "footnote_num": "",
+      "text": "[1047]"
+    },
+    {
+      "id": 749,
+      "roll_id": 65,
+      "pdf_page": 68,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "S. Hugues de Poitiers, prieur d'Anzy-le-Duc, mort en 930; cf. J. Baudot, Dictionnaire d'hagiographie, Paris, 1925, p. 343."
+    },
+    {
+      "id": 750,
+      "roll_id": 65,
+      "pdf_page": 69,
+      "pdf_half": "left",
+      "footnote_num": "*",
+      "text": "La p. 38 de B d\u0119telle par deux textes (annexes) \u00e9trangers au rouleau mortuaire d'Olbba ; il s'agit de la fin d'un vers du X\u02b3 ou du XP a. ci du d\u00e9but de l'inventaire \u00e9tabli \u00e0 la mort de l'\u00e1bb\u00e9 de Ripoll Sancedoneda. ${}^{18}$ La primse emeta regenti ... etudimas atque, omnia, a\u00e9t ajout\u00e9."
+    },
+    {
+      "id": 751,
+      "roll_id": 65,
+      "pdf_page": 69,
+      "pdf_half": "left",
+      "footnote_num": "17",
+      "text": "ab hoc, quod viverimus, mimine cessas"
+    },
+    {
+      "id": 752,
+      "roll_id": 65,
+      "pdf_page": 69,
+      "pdf_half": "left",
+      "footnote_num": "18",
+      "text": "La primse emeta regenti ... etudimas atque, omnia, a\u00e9t ajout\u00e9."
+    }
+  ]
 }

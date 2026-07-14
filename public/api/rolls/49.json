@@ -1,55 +1,173 @@
 {
   "roll": {
     "id": 49,
-    "roll_num": "87",
-    "date_str": "S.d.",
-    "title": "15 S.d. [1097, apr\u00e8s le 17 janvier] Rouleau mortuaire de G\u00e9raud, abb\u00e9 de Montierneuf (t 17 janvier 1097,n. st.) _ Document perdu (4) mentionn\u00e9 dans le titre de Baudri de Bourgueil pour le rouleau mortuaire (5) &'Audebert, archev\u00eaque de Bourges (6) G\u00e9raud, abb\u00e9 de Montierneuf, mourut le 17 janvier 1097 (n. st.) 20 Stoxte R (b) vivendo corriee en vovendo",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "41",
+    "roll_num": 56,
+    "date_str": "S.d. [X\u00ba s.]",
+    "title": "Titres compos\u00e9s \u00e0 S. Mesmin de Micy et \u00e0 S. Laumer de Blois pour le rouleau d'un certain \u00ab Teuto \u00bb (2).",
+    "manuscripts": "A. Original perdu.\nB. Paris, B. N. F., lat. 5275, fol. 43 (X\u00ba s.)",
+    "pdf_source": "1",
+    "pdf_pages": "35,36",
     "is_verified": 0
   },
-  "tituli": [],
+  "tituli": [
+    {
+      "id": 101,
+      "roll_id": 49,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Dominus conculcate congregatio, cunctis sanctae Ecclesiae fidelibus, lam pretiis quam et subditis. Cum quoncus maneat sors irrevocabilis horae, notum vobis esse cupimus de quonam fratre nostro, vocitamine N\u00ba, ordine funto, quem Dominus \u2026 de ergastulo hujus seculi vocare dignatus est \u2026 (1). Pro quo obnexe petimus ut sitis strenue interventores ad Dominum sentientiae interventione quibus fuerat unitus in ordinis communione, Valete.",
+      "pdf_page": 35,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 271,
+          "titulus_id": 101,
+          "original_name": "s. Dunstan",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Dunstan",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Sherborne"
+        },
+        {
+          "id": 272,
+          "titulus_id": 101,
+          "original_name": "N\u00ba",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "roll_id": 49,
+      "title": "1 S.d.-Micy, S. Mesmin.",
+      "location_name": "Micy, S. Mesmin",
+      "latin_text": "Castorola legione frui, quam continet illic\nOmnis creatura virtus splendoris honore,\nNumine vestrorum fratrum jubet Deus acmen.\nSolida quad reserant speculum nomina gestans,\nTartareus retrabat inferna vade, quoque reddat\nAlba Paris summi christiani sapientia summa\nNominibus propriis conscepsis omne per eon\nTer terros soles his sed binos dies et\nIn janu linquens urnam ut pastibus austri\nNotatur penetrans prestans hiemale lumen.\nVestor ekulchoforus adulit cum limina nitu\nSidera regis iuge cuncta recta regentis\nBladinus festinabant cum corpora cibo\nBis solnemque mitis[elorum concelebrat[ar]lum\nAlthrafus fratribus vestris rogatisse ciatis\nAret lympha scythandum (sic) sepia currere rescit.\nValete in Christo. Amen.",
+      "pdf_page": 36,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 273,
+          "titulus_id": 102,
+          "original_name": "Paris",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Paris",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Paris"
+        },
+        {
+          "id": 274,
+          "titulus_id": 102,
+          "original_name": "Althrafus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Althrafus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "roll_id": 49,
+      "title": "2 18 janvier ...-Blois, S. Laumer.",
+      "location_name": "Blois, S. Laumer",
+      "latin_text": "Sol citis occiduus cum festinat ad umbras,\nAdveniens apicum delator luciferorum\nQuonq ut seco decembris fortis loc kalendis\nLumina Lannorum penetravit sacra Beati.\nHaec tradendum rotulam satis anxietate refertam,\n(quam discrimen) vantes pariter quoque scripta legentes\nQuosque vestrorum superrime corne salutos\nCorpusculum, quo pro confestim poplite flexo\nFluminis ante preces Dominum de corde petentes\nIllam peccati lapso quo solvat ab omni\nSecum letari faciendo sorte perhenni\nIlid apostolorum complentes optime dictum\nAltheis videlas vestrorum pondera ferte\nEtra\nHaja quoque regi regimen noscatis habere\nMultum olim domnumque patrem piaitate Teutonem\nInsignem meritis celo terraque nitentem.\nValete in Christum. Amen.",
+      "pdf_page": 36,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 275,
+          "titulus_id": 103,
+          "original_name": "Beati",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Beatus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 276,
+          "titulus_id": 103,
+          "original_name": "Lannorum",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lannorum",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 277,
+          "titulus_id": 103,
+          "original_name": "Teutonem",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Teutonem",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
   "footnotes": [
     {
-      "id": 35782,
+      "id": 209,
       "roll_id": 49,
-      "pdf_page": 41,
+      "pdf_page": 35,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "Cf. A. Vid\u00e9s, L'hagiographie \u00e0 Saint-Beno\u00edt au Loire et les monast\u00e8res de Saint-Beno\u00edt, Paris, 1965, p. 142."
+    },
+    {
+      "id": 206,
+      "roll_id": 49,
+      "pdf_page": 35,
       "pdf_half": "right",
       "footnote_num": "1",
-      "text": "vers, oudlle, Q ele UuulC Cil 7ll6\" Pe"
+      "text": "Cf. supra, p. 47, n. 2."
     },
     {
-      "id": 35783,
+      "id": 205,
       "roll_id": 49,
-      "pdf_page": 41,
+      "pdf_page": 35,
       "pdf_half": "right",
       "footnote_num": "2",
-      "text": "exponctuation du i et addition du 0 en interligr"
+      "text": "A. Original perdu."
     },
     {
-      "id": 35784,
+      "id": 207,
       "roll_id": 49,
-      "pdf_page": 41,
+      "pdf_page": 35,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Un personnage de ce nom est \u00e9voqu\u00e9 de Cambrai dans la seconde moiti\u00e9 du X\u00ba s.; cf. L. Halphen et F. Lot, Recueil des actes de Cambrai, vol. 1, p. 98."
+    },
+    {
+      "id": 208,
+      "roll_id": 49,
+      "pdf_page": 35,
       "pdf_half": "right",
       "footnote_num": "3",
-      "text": "Cf.L. Delisle, Rouleaux des morts du IX: au XVe s, p. 144,n XXVI. (2) \u00c9d. infra, P. 236, n 88. Baudri de Bour- gueil composa en outre deux \u00e9pitaphes  pour Durand (\u00e9d. J-Y. Tilliette; op. cit., t. I, P. 57, n' 50 ; P. 58, n 51)."
-    },
-    {
-      "id": 35786,
-      "roll_id": 49,
-      "pdf_page": 41,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "Ce. Gallia   christiana, L, II, col. 263 Gams, P. 538. (4) Cf.L. Delisle, Rouleaux des morts [X' au XVe s , P. 144, n? XXVI (5) \u00c9d. infra, P. 236, n 88, (6)   Cf. Gallia christiana, t. IL, col 1265."
-    },
-    {
-      "id": 35785,
-      "roll_id": 49,
-      "pdf_page": 41,
-      "pdf_half": "right",
-      "footnote_num": "4",
-      "text": "B."
+      "text": "Cf. Catalogues indicorum haghiographique"
     }
   ]
 }

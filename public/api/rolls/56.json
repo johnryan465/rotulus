@@ -1,31 +1,380 @@
 {
   "roll": {
     "id": 56,
-    "roll_num": "96",
-    "date_str": "S.d.",
-    "title": "S.d. [XI s.] Titres appos\u00e9s par les moines de Fleury sur des rouleaux mortuaires. 10 Selon A. Vidier (loc. cit.), les deux titres \u00e9dit\u00e9s ci-apr\u00e8s auraient fait partie du rouleau mortuaire dAbbon (1) _ Il n'en est rien de style identique; ces pi\u00e8ces furent en fait compos\u00e9es \u00e0 Fleury \u00e0 loccasion du passage de rouleaux mortuaires ind\u00e9termin\u00e9s. Texte \u00e9tabli dapr\u00e8s @. 20",
-    "manuscripts": "A. Original perdu . B. Orl\u00e9ans; B. M., ms. 259 (215), P. 30-31 (XI s) . (. L. Delisle, Notice sur plusieurs manuscrits de la Biblioth\u00e8que d'Orl\u00e9ans \" dans Notices et extraits des manuscrits de la Biblioth\u00e8que nationale et autres Biblioth\u00e8ques, t. XXXI, 1, 1883, P. 389, dapr\u00e8s B. A. Vidier; L'historiographie \u00e0 Saint-Beno\u00eet-sur-Loire et les miracles de saint Beno\u00eet, 15 INDIQU\u00c9 Paris, 1965, p. 121. - J Dufour; Abbon, p. 30.",
-    "pdf_source": "Dufour T1 (2)",
-    "pdf_pages": "49,50",
+    "roll_num": 63,
+    "date_str": "S.d. [988-1004]",
+    "title": "Rouleau mortuaire (fragmentaire) mis en circulation pour plusieurs moines de S. Martial (de Limoges).",
+    "manuscripts": "A. Paris, B. N. F., lat. 2195, fol. 1. Parchemin (gris\u00e2tre). Un fragment (rogn\u00e9) opisthographe. Longueur: 36,5 cm ; largeur: 24 cm.",
+    "pdf_source": "1",
+    "pdf_pages": "40,41",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": [
+  "tituli": [
     {
-      "id": 35814,
+      "id": 114,
       "roll_id": 56,
-      "pdf_page": 49,
+      "title": "1 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "",
+      "latin_text": "<...........> sibi alternatim officii aut segunter desinit. De cerebro vestre scribi subpositis exoramus genibus clemenciam patentiris, ut idipsum nostrumet solvastis alumnis conicionis, quorum huic inserere temptamus enarithmata, quamvis compensidiosa sit menbranula. Valete in Christo. Amen.",
+      "pdf_page": 40,
       "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "IlldillVUS ICLILID YCP Et quod quisque cupit compaciendo ferat"
+      "entities": []
     },
     {
-      "id": 35815,
+      "id": 115,
       "roll_id": 56,
-      "pdf_page": 49,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Hec sunt nomina sanctimonialium Sanete Marie Mettensis (sic): Odilia (1) abbattissa, Eremberga, Lekardis, Rilindis, Algebungis, Geila, Adelbulgis, Richildis, Adelbugis, Ida, Liutcardis, Werenburgis, Fastrada, Geila, Hildegard, Hersindis, Ermentrudis, Geila, Berta et soror ejus Matfrid, Anna, Ermengardis, Liutgardis, Adelaidis, Hitta, item Hildegardis, Engeleva, Gertrudis, Adheburgis, Heluidis, Hathuidis.",
+      "pdf_page": 40,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 296,
+          "titulus_id": 115,
+          "original_name": "Odilia",
+          "original_title": "abbatissa",
+          "footnote_num": "1",
+          "footnote_text": "Ni le Gallia christiana (t. XIII, col. 833), ni E. de Bouteiller (s Notice sur les anciennes abbayes de Saint-Pierre et de Sainte-Marie de Metz ...), dans M\u00e9moires de l'Acad\u00e9mie imp\u00e9riale de Metz, t. XLIV, 1862-1863, 2e partie, p. 25-128) ne mentionnent cette abbesse.",
+          "normalized_name": "Odilia",
+          "normalized_role": "abbess",
+          "normalized_dates": "",
+          "location_name": "Sancte Marie Mettensis"
+        },
+        {
+          "id": 297,
+          "titulus_id": 115,
+          "original_name": "Matfrid",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Matfrid",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 298,
+          "titulus_id": 115,
+          "original_name": "Anna",
+          "original_title": "soror ejus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Anna",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "roll_id": 56,
+      "title": "2 19 septembre ... S. Maixent.",
+      "location_name": "S. Maixent",
+      "latin_text": "Reduentes fragilitatis nostre miserationisque domine, nos que faucibus innueros tartere damputationis secernere vult ad culmina beate Redemptionis (perditi nomi vague in prothoplasto liberamur at Christo), apostoli debemus imitari exemplum : 5 plio decernt : as Alter alterus honore portare et ad indispensibilitatem legem Christi \u2019\u201d. Noverit enim paternatis vestra genuino huic rotule adhibere limina alumni confessori Beati Maixenti patriarchis adque pontificis, ubi domini Bernardus \u201a abbas magna praecesse quam praese dinoscitur, XIII kalendas octobris, hora die nomo, suscipere litteras compendium Domini clini genethnus postulando 10 uia Christique allectis, pro quorum elementum Domni clini genethnus postulando lativus, ut cum electis suis fistula colligant. Petimus pro nostris super defunctis, ut vestris honoribus suffulgi in cellis regni cubilibus valeant gaudere cum omnibus sanctis. Amen. Domnis Ebulo \u201c episcopus, Ramulfus \u201c abbas, Abbo monachus, Ognerus monachus, Rainierdus monachus, Arrius monachus, Ermenfridus monachus, Gaiferius, Ubertus, Lonus, Ranulfus, Galbertus, Landericus. Aliorum quorum anima Domini ea concedat. Valeat in Christo. Amen.",
+      "pdf_page": 41,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 299,
+          "titulus_id": 116,
+          "original_name": "Beati Maixenti",
+          "original_title": "patriarchis adque pontificis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Maixent",
+          "normalized_role": "patriarch and pontiff",
+          "normalized_dates": "",
+          "location_name": "S. Maixent"
+        },
+        {
+          "id": 300,
+          "titulus_id": 116,
+          "original_name": "Bernardus",
+          "original_title": "abbas magna praecesse quam praese dinoscitur",
+          "footnote_num": "2",
+          "footnote_text": "Abb\u00e9 de S. Maixent, cit\u00e9 par la Gallia christiana (t. II, col. 1289/1250) de 987 \u00e0 1018.",
+          "normalized_name": "Bernard",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 301,
+          "titulus_id": 116,
+          "original_name": "Ebulo",
+          "original_title": "episcopus",
+          "footnote_num": "4",
+          "footnote_text": "Abb\u00e9 de S. Maixent de 986 \u00e0 963, \u00e9v\u00eaque de Limoges de 944 \u00e0 969; \u00e0 son sujet, cf. Chroniques de S. Maixens (ed. J. Verdun, Paris, 1979).",
+          "normalized_name": "Ebulus",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 302,
+          "titulus_id": 116,
+          "original_name": "Ramulfus",
+          "original_title": "abbas",
+          "footnote_num": "4",
+          "footnote_text": "Abb\u00e9 de S. Maixent de 986 \u00e0 963, \u00e9v\u00eaque de Limoges de 944 \u00e0 969; \u00e0 son sujet, cf. Chroniques de S. Maixens (ed. J. Verdun, Paris, 1979).",
+          "normalized_name": "Ranulf",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 303,
+          "titulus_id": 116,
+          "original_name": "Ognerus",
+          "original_title": "monachus",
+          "footnote_num": "4",
+          "footnote_text": "Abb\u00e9 de S. Maixent de 986 \u00e0 963, \u00e9v\u00eaque de Limoges de 944 \u00e0 969; \u00e0 son sujet, cf. Chroniques de S. Maixens (ed. J. Verdun, Paris, 1979).",
+          "normalized_name": "Ogner",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 304,
+          "titulus_id": 116,
+          "original_name": "Rainierdus",
+          "original_title": "monachus",
+          "footnote_num": "4",
+          "footnote_text": "Abb\u00e9 de S. Maixent de 986 \u00e0 963, \u00e9v\u00eaque de Limoges de 944 \u00e0 969; \u00e0 son sujet, cf. Chroniques de S. Maixens (ed. J. Verdun, Paris, 1979).",
+          "normalized_name": "Rainier",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 305,
+          "titulus_id": 116,
+          "original_name": "Arrius",
+          "original_title": "monachus",
+          "footnote_num": "4",
+          "footnote_text": "Abb\u00e9 de S. Maixent de 986 \u00e0 963, \u00e9v\u00eaque de Limoges de 944 \u00e0 969; \u00e0 son sujet, cf. Chroniques de S. Maixens (ed. J. Verdun, Paris, 1979).",
+          "normalized_name": "Arrius",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 306,
+          "titulus_id": 116,
+          "original_name": "Ermenfridus",
+          "original_title": "monachus",
+          "footnote_num": "4",
+          "footnote_text": "Abb\u00e9 de S. Maixent de 986 \u00e0 963, \u00e9v\u00eaque de Limoges de 944 \u00e0 969; \u00e0 son sujet, cf. Chroniques de S. Maixens (ed. J. Verdun, Paris, 1979).",
+          "normalized_name": "Ermenfrid",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 307,
+          "titulus_id": 116,
+          "original_name": "Gaiferius",
+          "original_title": "",
+          "footnote_num": "4",
+          "footnote_text": "Abb\u00e9 de S. Maixent de 986 \u00e0 963, \u00e9v\u00eaque de Limoges de 944 \u00e0 969; \u00e0 son sujet, cf. Chroniques de S. Maixens (ed. J. Verdun, Paris, 1979).",
+          "normalized_name": "Gaiferius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 308,
+          "titulus_id": 116,
+          "original_name": "Ubertus",
+          "original_title": "",
+          "footnote_num": "4",
+          "footnote_text": "Abb\u00e9 de S. Maixent de 986 \u00e0 963, \u00e9v\u00eaque de Limoges de 944 \u00e0 969; \u00e0 son sujet, cf. Chroniques de S. Maixens (ed. J. Verdun, Paris, 1979).",
+          "normalized_name": "Hubert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 309,
+          "titulus_id": 116,
+          "original_name": "Lonus",
+          "original_title": "",
+          "footnote_num": "4",
+          "footnote_text": "Abb\u00e9 de S. Maixent de 986 \u00e0 963, \u00e9v\u00eaque de Limoges de 944 \u00e0 969; \u00e0 son sujet, cf. Chroniques de S. Maixens (ed. J. Verdun, Paris, 1979).",
+          "normalized_name": "Lonus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 310,
+          "titulus_id": 116,
+          "original_name": "Ranulfus",
+          "original_title": "",
+          "footnote_num": "4",
+          "footnote_text": "Abb\u00e9 de S. Maixent de 986 \u00e0 963, \u00e9v\u00eaque de Limoges de 944 \u00e0 969; \u00e0 son sujet, cf. Chroniques de S. Maixens (ed. J. Verdun, Paris, 1979).",
+          "normalized_name": "Ranulf",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 311,
+          "titulus_id": 116,
+          "original_name": "Galbertus",
+          "original_title": "",
+          "footnote_num": "4",
+          "footnote_text": "Abb\u00e9 de S. Maixent de 986 \u00e0 963, \u00e9v\u00eaque de Limoges de 944 \u00e0 969; \u00e0 son sujet, cf. Chroniques de S. Maixens (ed. J. Verdun, Paris, 1979).",
+          "normalized_name": "Galbert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 312,
+          "titulus_id": 116,
+          "original_name": "Landericus",
+          "original_title": "",
+          "footnote_num": "4",
+          "footnote_text": "Abb\u00e9 de S. Maixent de 986 \u00e0 963, \u00e9v\u00eaque de Limoges de 944 \u00e0 969; \u00e0 son sujet, cf. Chroniques de S. Maixens (ed. J. Verdun, Paris, 1979).",
+          "normalized_name": "Landericus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "roll_id": 56,
+      "title": "3 21 octobre ... Paris, cath\u00e9drale (N.-D.)",
+      "location_name": "Paris, cath\u00e9drale (N.-D.)",
+      "latin_text": "Scit dialecto vestrae latine litterarum ad illum interdum datur veneris Virgini Christi Mariae Parisiae sedis XII kalendas novembre, depremens 20 finura nobis quorumratum fratrum vestrorum ex monasterio Sancti Marchialis, Nos vero, ut percipimus, ille decravimus, pro abolenda eorum marcula, Domino prece imprescindi, quo valcant perveneris ad gaudia superne jocunditatis et evade supplica extreme ultionis. Summis ergo nobis ossecuamus (sic) multitudem karitatem vestram ut, sciat figulatus pro vestris a nobis api, idemptidem pro 25 nostris agere ne pilgrimini, quorum ile scit nomina qui condidit omnia. Valeat alstris vestra per secula cumcta. Amen.",
+      "pdf_page": 41,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 313,
+          "titulus_id": 117,
+          "original_name": "Virgini Christi Mariae",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Virgin Mary",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Paris"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "roll_id": 56,
+      "title": "4 10 novembre ... Fleury.",
+      "location_name": "Fleury",
+      "latin_text": "[verso] Quarto idus novembris. Casta sibi mater coelestis maxime nutrit 30 Filioque regit pulchros dulcedine rerum,",
+      "pdf_page": 41,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 119,
+      "roll_id": 56,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Cum solidum prebet p<...> pietate salubri\nCollucetque nimis per secula <...>,\nQuae cunctis semper radiis illuminat atque\nConvertit proprias in claro lumine formas,\nOstenditque suis angustum vadere callem.\nQui ducit pulchrum servat quoque munere plenum\nPastori Christo grantater ovile superno,\nAd messem niveam quae glignit lilia vite,\nEt placide floret radianti germine semper.\nOlim quippe fuit, nunc est, sine fine manebit.\nIllic maturae segetes resonant reverenter.\nConspectum reboant messoris suaviter ante.\nHinc blandos puerile sonos decus atque decentes,\nPost agnum gaudentes per violaria campi,\nEt confessorum legio modulamine psaldite,\nAeternisque bonus utornt corde pudico,\nCum quibus insignis renitet pastor Benedictus.\nNobilitate cluens et morum stemmate fulgens.\nNam tumulus perhibet quod in astris optime lucet,\n<...> suos junctos fovet, implet, honorat,\nGlorificat, servat, custodit, diligit, ornat (?),\nGaudia nempe ferens nobis coelestia dulce,\n<...> pastor quo nomine dictus (?).\nPossidet atque regit nos Abbo ore paterno,\nLetamurque satis florent sire sub illo,\nQui pollet <...> sermone per aeum.\nFunera vestrorum subito nimio relegentes,\nMenbra solo, planctu turbati namque doloris,\nSternentes, lacrimis fuis, deposcimus illum\nGrex electorum pariter quem plaidant ovanter\nUt possint sanctas inter gaudere chatervas;\nNunc etiam petimus cuncti cum mente serena\nPro vestris, et idem pro nobis quae rogastis,\nSitque satis placide per tempora cuneta. Valete.",
+      "pdf_page": 41,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 314,
+          "titulus_id": 119,
+          "original_name": "Christo",
+          "original_title": "Pastori",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "pastor",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 315,
+          "titulus_id": 119,
+          "original_name": "original_name\ub098 Benedictus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "original_name\ub098 Benedictus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 316,
+          "titulus_id": 119,
+          "original_name": "original_title': 'pastor', 'footnote_num': null, 'normalized_name': 'Benedict', 'normalized_role': 'pastor', 'normalized_dates': '', 'location_name': null}, {",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "original_title': 'pastor', 'footnote_num': null, 'normalized_name': 'Benedict', 'normalized_role': 'pastor', 'normalized_dates': '', 'location_name': null}, {",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 220,
+      "roll_id": 56,
+      "pdf_page": 40,
       "pdf_half": "right",
       "footnote_num": "1",
-      "text": "Cf. supra, P. 80, n? 64."
+      "text": "Ni le Gallia christiana (t. XIII, col. 833), ni E. de Bouteiller (s Notice sur les anciennes abbayes de Saint-Pierre et de Sainte-Marie de Metz ...), dans M\u00e9moires de l'Acad\u00e9mie imp\u00e9riale de Metz, t. XLIV, 1862-1863, 2e partie, p. 25-128) ne mentionnent cette abbesse."
+    },
+    {
+      "id": 221,
+      "roll_id": 56,
+      "pdf_page": 41,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Gal. VI, 2."
+    },
+    {
+      "id": 222,
+      "roll_id": 56,
+      "pdf_page": 41,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Abb\u00e9 de S. Maixent, cit\u00e9 par la Gallia christiana (t. II, col. 1289/1250) de 987 \u00e0 1018."
+    },
+    {
+      "id": 223,
+      "roll_id": 56,
+      "pdf_page": 41,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": "Abb\u00e9 de S. Maixent de 986 \u00e0 963, \u00e9v\u00eaque de Limoges de 944 \u00e0 969; \u00e0 son sujet, cf. Chroniques de S. Maixens (ed. J. Verdun, Paris, 1979)."
+    },
+    {
+      "id": 224,
+      "roll_id": 56,
+      "pdf_page": 41,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": ""
+    },
+    {
+      "id": 225,
+      "roll_id": 56,
+      "pdf_page": 41,
+      "pdf_half": "left",
+      "footnote_num": "30",
+      "text": ""
     }
   ]
 }

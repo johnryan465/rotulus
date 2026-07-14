@@ -1,215 +1,90 @@
 {
   "roll": {
     "id": 33,
-    "roll_num": "59",
-    "date_str": "S.d.",
-    "title": "S.d. [X' s] Encyclique anonyme. A. Original perdu. B. \u00c9pinal, B. M., ms. 74 (161), fol. 2 (X' s) (1) . 20 Le ms. 74 (161) d\u00c9pinal provient de Tabbaye de Moyenmoutier (2)",
-    "manuscripts": "",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "38,39,40,41,42,43,44,45,46",
+    "roll_num": 37,
+    "date_str": "S.d. [apr\u00e8s le 1\u00ba janvier 956]",
+    "title": "Bref mortuaire envoy\u00e9 par l'abbaye de S. Gallen \u00e0 l'occasion du d\u00e9c\u00e8s du pr\u00eatre Liuprand.",
+    "manuscripts": "A. Original perdu.\nB. Sankt Gallen, Stiftsbhld., 915, p. 18 (X\u2070-XI\u2070 s.).\na. P. Piper, Libri confraternitatum Sancti Galli, Augiensis, Fabariensis (M. G. H., Necro.), p. 143.",
+    "pdf_source": "1",
+    "pdf_pages": "22",
     "is_verified": 0
   },
-  "tituli": [],
+  "tituli": [
+    {
+      "id": 56,
+      "roll_id": 33,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Liuprandus app\u00e4r\u00e4t a la date du 1\u00ba janvier dans ce bref, comme dans l'obituaria de S. Gallen (1); ill mourut apr\u00e8s 956 (2).",
+      "pdf_page": 22,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 198,
+          "titulus_id": 56,
+          "original_name": "Liup\u00ebrandus",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "(1) Cf. E. Dimmler, H. Wartmann, \u2039 St. Gal-\nler Todtenbuch und Verbr\u00fcderungen i, dass\nMuttheilungen zurvaterl\u00e4ndischen Geschichte,",
+          "normalized_name": "Liuprand",
+          "normalized_role": "priest",
+          "normalized_dates": "",
+          "location_name": "S. Gallen"
+        },
+        {
+          "id": 199,
+          "titulus_id": 56,
+          "original_name": "S. Gallen",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "St. Gallen",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "St. Gallen"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "roll_id": 33,
+      "title": "10",
+      "location_name": "",
+      "latin_text": "Patribus et fratribus ubi\u00adubis conversantibus Sanctigallensis congregatio compas-\nsionis vinculum in Domino. Frater noster Liuprandus, pres\u00e8sbit et monachus vocatione divin\u00e9 dispositi\u00f3nis, kal. jan. essolvit debitum mortis. Vos autem compas-\ntantes nostrum\u00e6 amaritudinem, human\u00e9 conditionis reminscamini, ut orato, que\npro ejus anima a vobis v\u00f3bis monasteria intim\u00e2te.\n15. Valete et ad contigua v\u00f3bis monasteria intimate.",
+      "pdf_page": 22,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 200,
+          "titulus_id": 57,
+          "original_name": "Liuprandus",
+          "original_title": "Frater noster, pres\u00e8sbit et monachus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Liuprand",
+          "normalized_role": "monk/priest",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
   "footnotes": [
     {
-      "id": 35629,
+      "id": 150,
       "roll_id": 33,
-      "pdf_page": 38,
-      "pdf_half": "right",
+      "pdf_page": 22,
+      "pdf_half": "left",
       "footnote_num": "1",
-      "text": "\"Pies &,le Copisle Q Oills Le Uefilei ilulUC CC Ueio ultraviolets."
+      "text": "(1) Cf. E. Dimmler, H. Wartmann, \u2039 St. Gal-\nler Todtenbuch und Verbr\u00fcderungen i, dass\nMuttheilungen zurvaterl\u00e4ndischen Geschichte,"
     },
     {
-      "id": 35630,
+      "id": 151,
       "roll_id": 33,
-      "pdf_page": 38,
-      "pdf_half": "right",
+      "pdf_page": 22,
+      "pdf_half": "left",
       "footnote_num": "2",
-      "text": "UCJu"
-    },
-    {
-      "id": 35631,
-      "roll_id": 33,
-      "pdf_page": 38,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "r\u00e9f\u00e9rence m'a \u00e9t\u00e9 aimablement communiqu\u00e9e par Bernhard Bischoff. (2) Sur ce Ms , cf. Catalogue g\u00e9n\u00e9ral des"
-    },
-    {
-      "id": 35632,
-      "roll_id": 33,
-      "pdf_page": 38,
-      "pdf_half": "right",
-      "footnote_num": "4",
-      "text": "mss.  des Biblioth\u00e8ques publiques de France, in-49 , Paris, L. IIL, 1861, P 430."
-    },
-    {
-      "id": 35633,
-      "roll_id": 33,
-      "pdf_page": 39,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "[CesencrQu Coinenlaiculd o"
-    },
-    {
-      "id": 35634,
-      "roll_id": 33,
-      "pdf_page": 40,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "ExoramnuS geniDuS ClemnenLaIII paleri tis alumpnis concionis; quorum huic inserere te compendiosa sit menbranula. Valete in Christo."
-    },
-    {
-      "id": 35637,
-      "roll_id": 33,
-      "pdf_page": 40,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "dans M\u00e9moires de V Acnd\u00e9m\u00ede imps de Metz, L XLIV, 1862-1863,2 partic, 128) ne ment\u00edonnent cette abbesse"
-    },
-    {
-      "id": 35635,
-      "roll_id": 33,
-      "pdf_page": 40,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "Gallia christiana (t. XIII, col. 833) , Metz ni E. de Bouteiller Notice sur les anciennes riale abbayes de Saint-Pierre et de Sainte-Marie de p 25"
-    },
-    {
-      "id": 35636,
-      "roll_id": 33,
-      "pdf_page": 40,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "lalls, UlluPsun HUoliUAul ou mptamus enarithmata; quamvis 25 Amen."
-    },
-    {
-      "id": 35638,
-      "roll_id": 33,
-      "pdf_page": 42,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "icur)uu Personner U AdDOn) Per"
-    },
-    {
-      "id": 35639,
-      "roll_id": 33,
-      "pdf_page": 42,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "\u00c9d. H.  Zimmermann, Papsturkunden (896- 1046 ) , Wien, t. II, 1985, p. 655, n + 335 (13 novembre 996) cf. Jaff\u00e9, nS 3872 (2961) E Lot, \u00c9tudes sur le r\u00e8gne de Hugues Capet , el la fin du X 5., Paris; 1903, P 273-275 . A son sujet et sur sa r\u00e9gion; cf. notam- ment A. Notter - etA. Bosc, \u00e9d. Lumieres delan mil en Orl\u00e9anais. Autour du millenaire dAbbon de Fleury , Turnhout, 2004 ; Cabbaye"
-    },
-    {
-      "id": 35640,
-      "roll_id": 33,
-      "pdf_page": 42,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "supposcr quC MC noindfcuses Cbiiscs"
-    },
-    {
-      "id": 35641,
-      "roll_id": 33,
-      "pdf_page": 42,
-      "pdf_half": "right",
-      "footnote_num": "4",
-      "text": "Fleury , en Van mil  passim. A. Vidier (op cit  P 121) fait \u00e9tat \u00e0 tort de deux pi\u00e8ces de vers transcrites au XI' & dans le ms, 259 (215) &'Orleans [p 3031] car |es d\u00edts  poemca (de etyle identique) n'ont pas 6 MU n rouleau funfraire exp\u00e9di par apposes Fleury; mais 0 Toccaaion du paseage de rotuli ind\u00e9terminre dans cette abbaye (  Torigine infra, p 25L,n' 96)"
-    },
-    {
-      "id": 35642,
-      "roll_id": 33,
-      "pdf_page": 43,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "IOI LIICIO SapOrC, IllOlIUI 9 remur; non moreremur:"
-    },
-    {
-      "id": 35643,
-      "roll_id": 33,
-      "pdf_page": 43,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "Ce: Gallia = christiana, t. IX, col. 227 . Cf. Rom. VIII, 17 ; heredes   quidem"
-    },
-    {
-      "id": 35644,
-      "roll_id": 33,
-      "pdf_page": 43,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "Dei, timu"
-    },
-    {
-      "id": 35645,
-      "roll_id": 33,
-      "pdf_page": 43,
-      "pdf_half": "right",
-      "footnote_num": "4",
-      "text": "Capuivilale . Ji iioi Peicguna 36"
-    },
-    {
-      "id": 35646,
-      "roll_id": 33,
-      "pdf_page": 43,
-      "pdf_half": "right",
-      "footnote_num": "5",
-      "text": "autem Chr\u00edsti ; \u00ed tamen compv ~Ilcl conglorificemur ,"
-    },
-    {
-      "id": 35647,
-      "roll_id": 33,
-      "pdf_page": 44,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "JUeAUId uccuraLI, UlILaLC secundi ordinis ampliati. Electam multum nutrivit regula caedrum. Artibus imbutum quis non deflebit alumnum ? Nona dies julii quem sustulit ante kalendas; Cum sol a tropico vibraret lumina cancro. (1) CE: Jac., 1, 19 : < tardus autem ad loquendum"
-    },
-    {
-      "id": 35648,
-      "roll_id": 33,
-      "pdf_page": 44,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "noncslale Insgnil1, MOnOiC"
-    },
-    {
-      "id": 35649,
-      "roll_id": 33,
-      "pdf_page": 44,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "35"
-    },
-    {
-      "id": 35650,
-      "roll_id": 33,
-      "pdf_page": 45,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "eclecilCelUcicaou("
-    },
-    {
-      "id": 35651,
-      "roll_id": 33,
-      "pdf_page": 45,
-      "pdf_half": "right",
-      "footnote_num": "2",
-      "text": ", en 69 Touraine \" dans DHGE,L XX;col. (G. Suint ] Oury) G. Ouri, monastique La reconstruction LIY; dans [Ouest. Cabb\u00e9 Cauzbeet de"
-    },
-    {
-      "id": 35652,
-      "roll_id": 33,
-      "pdf_page": 45,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "Uogcee"
-    },
-    {
-      "id": 35653,
-      "roll_id": 33,
-      "pdf_page": 45,
-      "pdf_half": "right",
-      "footnote_num": "4",
-      "text": "de Tours %, dans Revue Mabillon; [964, p 69-124 LPL,LCXXXIX,col 425,\" VIIL"
+      "text": "(2) Ibid., p. 89."
     }
   ]
 }

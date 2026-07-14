@@ -1,0 +1,421 @@
+{
+  "roll": {
+    "id": 141,
+    "roll_num": 138,
+    "date_str": "S. d.",
+    "title": "Rouleau mortuaire (fragmentaire) d'\u00c8bles de Turenne, abb\u00e9 de S. Martin de Tulle.",
+    "manuscripts": "A. Original perdu.\na. \u00c9. Baluze, Historiae Turellensis libri tres, Paris, 1717, col. 477, s ex vetustissimis membranis monasterii Obasinensis ss.\nb. L. Delisle, Rouleaux des morts du IX\u00ba au XV\u00ba s., p. 361, n\u00ba XLVIII, d'apr\u00e8s a (\u00e9d. partielle).",
+    "pdf_source": "4",
+    "pdf_pages": "60,61",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1755,
+      "roll_id": 141,
+      "title": "1 S.d.- Poitiers, S. Cyprien.",
+      "location_name": "",
+      "latin_text": "Tancti Cypriani Pictavis. Anima domni Eblonis abbatis requiescat in pace. Oravimus pro vestris et vos ora pro nobis. Orate pro domno Petro \u24d8 episcopo et Rainaud (1) abbate, pro Petro (4) abbate, iterum pro domno Petro \u24d9 abbate, pro domino Ancelino (6) abbate, etc. Spiritus Eblonis caelorum culmina sanctit.",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7249,
+          "titulus_id": 1755,
+          "original_name": "Eblonis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "\u00c9bles de Turenne",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": "Tulle"
+        },
+        {
+          "id": 7250,
+          "titulus_id": 1755,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": "8",
+          "footnote_text": null,
+          "normalized_name": "Pierre",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7251,
+          "titulus_id": 1755,
+          "original_name": "Rainaud",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "L'abbaye cistercienne d'Obazine en Bas-Limousin. Les origines, le patrimoine, Tulle, 1977, p. 171.",
+          "normalized_name": "Rainaud",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7252,
+          "titulus_id": 1755,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": "4",
+          "footnote_text": "Petrus I, abb\u00e9 de S. Cyprien de Poitiers, cite sans indication chronologique par la Gallia christiana (t. II, col. 1235).",
+          "normalized_name": "Pierre",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7253,
+          "titulus_id": 1755,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": "5",
+          "footnote_text": "Petrus II, abb\u00e9 de S. Cyp\u00b8ien de Poitiers, cit\u00e9 par la Gallia christiana (loc. cit.) de 1110 \u00e0 1119.",
+          "normalized_name": "Pierre",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7254,
+          "titulus_id": 1755,
+          "original_name": "Ancelino",
+          "original_title": "",
+          "footnote_num": "6",
+          "footnote_text": "Ce personnage n'appara\u00edt pas dans la liste des abb\u00e9s de S. Cyprien de Poitiers donn\u00e9e par la Gallia christiana (t. II, col. 1231 et suiv.).",
+          "normalized_name": "Ancelin",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7255,
+          "titulus_id": 1755,
+          "original_name": "Eblonis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "\u00c9bles de Turenne",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1756,
+      "roll_id": 141,
+      "title": "2 S.d.- [Paris], S. Martin-des-Champs.",
+      "location_name": "",
+      "latin_text": "Tancti Sancti Martini de Campis. Omnipotens, pius et misericors Dominus animam venerabilis patri vestri aliorum fregatrum vestrorum digestror nimet absque al",
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1757,
+      "roll_id": 141,
+      "title": "3 S.d.-[Paris.] Montmartre, S. Denis.",
+      "location_name": "Montmartre, S. Denis",
+      "latin_text": "",
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7256,
+          "titulus_id": 1757,
+          "original_name": "S. Denis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Denis",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1758,
+      "roll_id": 141,
+      "title": "4 S.d.-Poitiers, S. Radegonde.",
+      "location_name": "Poitiers, S. Radegulos",
+      "latin_text": "T. ecclesiae Sanctae Radegundis Pictavis.\n\nVersus Oliverii.\nProgenie clarus Eblo fuit vocatus.\nReligiosus enim fuit abbatis religionis,\nConventumque suum bene rexit, fovit, amavit,\nEt monachis monachis et super diges evenis,\nChristum passcebat et \u043f\u0430\u0441\u0446\u0435\u0431\u0430atur ab ipso.\nIn turba solus fuit hic, solus fuit extra.\nIn clausrum monachus, extra fuit hic eremita.\nAanima sua et animae o. f. r. i. Amen.",
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7257,
+          "titulus_id": 1758,
+          "original_name": "Eblo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ebalus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7258,
+          "titulus_id": 1758,
+          "original_name": "Radegunde",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Radegund",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Poitiers"
+        }
+      ]
+    },
+    {
+      "id": 1759,
+      "roll_id": 141,
+      "title": "5 S.d.-Aiermy, chanoine de Chartres.",
+      "location_name": "Aiermy, Chartres",
+      "latin_text": "Versus Haemerii, Carnotensis ecclesiae canonici.\nXristus Rex magnus, vitulus leo, vernus et agnus,\nInnumeris donis vitam decoravit Eblonis.\nSua Stanis athleta bonus, miseris reruit mundos modestly.\nRegnum caeleste mundanos srevit honoris.",
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7259,
+          "titulus_id": 1759,
+          "original_name": "Haemerii",
+          "original_title": "canon of the church of Chartres",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Haemerius",
+          "normalized_role": "canon",
+          "normalized_dates": "",
+          "location_name": "Chartres"
+        },
+        {
+          "id": 7260,
+          "titulus_id": 1759,
+          "original_name": "Eblonis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ebalus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1760,
+      "roll_id": 141,
+      "title": "6",
+      "location_name": "S. Maur-des-Foss\u00e9s, S. Pierre",
+      "latin_text": "T. Sancti Petri Fossatensis. Anima domni Eblonis et animae o. f., per m. D., r. i. p. Amen. Pro Burchardo (1) comite, pro Guillelmo, pro Rainaldo (2) pontifice, pro Guilferio (3) abbate, pro Theobaldo (4) abbate, pro Philippo et pro alis, quorum nomina Deus scit.\n\nVersus Bartholomei.\nEblo, decus Tutelae, pius abbas, Cyprianistae\nDicunt quod sacre tres sunt, lar, tumba polusque,\nQuas tibi fecere lignum, ligo, lex data normae.\nLigna dedere larem, limo fossam, regula dormat.\nIn tribus his trinos socios te scimus habere.\nDe lare mors socia rapuet te vermis in olla,\nEt Deus in caelo comitantur te, Pater Eblo.\nGaudia dat caelum, lar poenam, tumba soporem.\nHis tribus ita tria sunt mira sorte dicata.\nCulpa priora duo, dat gratia sola supremum.\n\nVersus Aicelinci, ejusdem loci monachi.\nVivit vir moriens, quem scripta canunt morientem.\nFarna tenet populum, caecilia vita virum.\nVivit qui mortem fugiens vigilia gessit,\nCui fuit et Christus vita lucrumque mori.\nHunc rotulus laudat, laud huius vita virilis.\nAd cumulum laudis sufficit iste mihi.\n\nAlterius.\nAptus namque mori peripathetica ratione,",
+      "pdf_page": 61,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7261,
+          "titulus_id": 1760,
+          "original_name": "Eblonis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Eblon",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7262,
+          "titulus_id": 1760,
+          "original_name": "Burchardo",
+          "original_title": "comite",
+          "footnote_num": "1",
+          "footnote_text": "L'abbaye cistercienne d'Obazine en Bas-Limousin. Les origines, le patrimoine, Tulle, 1977, p. 171.",
+          "normalized_name": "Burchard",
+          "normalized_role": "count",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7263,
+          "titulus_id": 1760,
+          "original_name": "Guillelmo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7264,
+          "titulus_id": 1760,
+          "original_name": "Rainaldo",
+          "original_title": "pontifice",
+          "footnote_num": "2",
+          "footnote_text": "sans doute Petrus II, \u00e9v\u00eaque de Poitiers,",
+          "normalized_name": "Rinaldo",
+          "normalized_role": "pope/bishop",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7265,
+          "titulus_id": 1760,
+          "original_name": "Guilferio",
+          "original_title": "abbate",
+          "footnote_num": "3",
+          "footnote_text": "en charge de 1087/1088 \u00e0 1115/1166, tr\u00e8s li\u00e9 \u00e0 S. Cyprien de Poitiers ; cf. Gallia christiana, t. II, col. 1167-1170; Gams, p. 602.",
+          "normalized_name": "Guilferio",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7266,
+          "titulus_id": 1760,
+          "original_name": "Theobaldo",
+          "original_title": "abbate",
+          "footnote_num": "4",
+          "footnote_text": "Petrus I, abb\u00e9 de S. Cyprien de Poitiers, cite sans indication chronologique par la Gallia christiana (t. II, col. 1235).",
+          "normalized_name": "Theobald",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7267,
+          "titulus_id": 1760,
+          "original_name": "Philippo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Philip",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 2137,
+      "roll_id": 141,
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "L'abbaye cistercienne d'Obazine en Bas-Limousin. Les origines, le patrimoine, Tulle, 1977, p. 171."
+    },
+    {
+      "id": 2138,
+      "roll_id": 141,
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "sans doute Petrus II, \u00e9v\u00eaque de Poitiers,"
+    },
+    {
+      "id": 2139,
+      "roll_id": 141,
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "en charge de 1087/1088 \u00e0 1115/1166, tr\u00e8s li\u00e9 \u00e0 S. Cyprien de Poitiers ; cf. Gallia christiana, t. II, col. 1167-1170; Gams, p. 602."
+    },
+    {
+      "id": 2140,
+      "roll_id": 141,
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Petrus I, abb\u00e9 de S. Cyprien de Poitiers, cite sans indication chronologique par la Gallia christiana (t. II, col. 1235)."
+    },
+    {
+      "id": 2141,
+      "roll_id": 141,
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "Petrus II, abb\u00e9 de S. Cyp\u00b8ien de Poitiers, cit\u00e9 par la Gallia christiana (loc. cit.) de 1110 \u00e0 1119."
+    },
+    {
+      "id": 2142,
+      "roll_id": 141,
+      "pdf_page": 60,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "Ce personnage n'appara\u00edt pas dans la liste des abb\u00e9s de S. Cyprien de Poitiers donn\u00e9e par la Gallia christiana (t. II, col. 1231 et suiv.)."
+    },
+    {
+      "id": 2143,
+      "roll_id": 141,
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Sur ce personnage, cf. supra, p. 546, n. 10."
+    },
+    {
+      "id": 2144,
+      "roll_id": 141,
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Sur ce personnage, cf. supra, p. 542, n. 11."
+    },
+    {
+      "id": 2145,
+      "roll_id": 141,
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "Odo I, monne et prior de S. Martin-des-Champs, puis abb\u00e9 de S. M\u00e9dard de Soissons de septembre 1331 \u00e0 f\u00e9vrier 1138 ; son sujet, cf. Gallia christiana, t. VII, col. 521 ; L'Deplan, Manuel de chartes et documents de Saint-Martin-des-Champs, monast\u00e8re parisien, Ligues-Paris, t. II, 1913, p. 7, n\u00b0 197; Saint-"
+    },
+    {
+      "id": 2146,
+      "roll_id": 141,
+      "pdf_page": 61,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": "Sur ce personnage (mort le 25 d\u00e9cembre 1135), cf. notamment U. Berli\u00e8re, \u00ab Le cardinal Matthieu d'Albon (c. 1085\u20131135) \u00bb, dans M\u00e9langes d'histoire b\u00e9n\u00e9dictine, 4e s\u00e9rie, 1902, p. 1-51 ; \u00ab Albanum \u00bb, dans Series episcoporum, t. I, Italia, I, p. 11-13 (G. Melville."
+    },
+    {
+      "id": 2147,
+      "roll_id": 141,
+      "pdf_page": 61,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Sur ce personnage, cf. supra, p. 473, n. 5."
+    },
+    {
+      "id": 2148,
+      "roll_id": 141,
+      "pdf_page": 61,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Sur ce personnage, cf. supra, p. 473, n. 6."
+    },
+    {
+      "id": 2149,
+      "roll_id": 141,
+      "pdf_page": 61,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Sur ce personnage, cf. supra, p. 473, n. 9."
+    },
+    {
+      "id": 2150,
+      "roll_id": 141,
+      "pdf_page": 61,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Theobaldus II, abb\u00e9 de S. Maur-des-Foss\u00e9s, cit\u00e9 par le Gallia christiana (t. VII, col. 292) de 1107 \u00e0 1126."
+    }
+  ]
+}

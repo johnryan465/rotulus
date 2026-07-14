@@ -1,0 +1,41 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 965,
+    "date_str": "S.d.[965-985]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) anonyme, probable..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 965,
+    "date_str": "S.d.[965-985]",
+    "is_approximate": false,
+    "description": "Hilaire ()"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Auxerre, France",
+    "coords": [
+      47.8,
+      3.5667
+    ],
+    "year": 965,
+    "date_str": "S.d.[965-985]",
+    "is_approximate": false,
+    "description": "Titulus Header: Auxerre"
+  }
+]

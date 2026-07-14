@@ -1,0 +1,160 @@
+{
+  "roll": {
+    "id": 150,
+    "roll_num": 147,
+    "date_str": "S. d. [1176]",
+    "title": "Encyclique sollicitant de prier pour Robert [II de Blois], abb\u00e9 de Marmoutier (\u2020 1176).",
+    "manuscripts": "A. Original perdu.\nB. Paris, B. N. F., lat. 3823, fol. 58v, sous la rubrique : \u00ab Epistola de rotulo Roberti abbatis \u00bb (fin XII^e s.).\na. J. Leclercq, Mort des moines I, p. 174, d'apr\u00e8s B.\nb. Insuqu\u00e9 : L. Delisle, Vital de Sauvigny, p. 30, n\u00b0. 9. \u2013 J. Leclercq, \u00ab Le genre \u00e9pistolaire au Moyen Age \u00bb, dans Revue du Moyen Age latin, t. II, 1946, p. 65, n. 6.",
+    "pdf_source": "4",
+    "pdf_pages": "77,78",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1832,
+      "roll_id": 150,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Universis catholicis matrice Ecclesie pastoribus et alumniis, tribunis et pupillis, 15 humilis et devotos Majoris Monasterii conventui, que \u00ab ad pacem sunt Jerusalem \u00bb (2) et ab Eo qui sui \u00ab salus est populi salutem quam operatus est in medio terre \u00bb (3), Desolationis ac destitutionis nostre locutamatem plenam sin- gultibus, suspiris cumulatam, sed et repentinam, et ut credimus, irreperuabilem domestice cladis jacturam vobis, fratres, comparticeps gratiae et coheredes regni, 20 stilo lugubri et clamio tragico describere vestrisque sensim instillare auribus nostrumorum congereri, ut fieri tassescent, affectantes ut vel sic concretis dolor in sensibus evaporet et ex verre compassionis affectu venis planc- tibus etuans paululum respiret et revertetur a placentu, non arbitramur ab re primo vobis exponerre que nostra insessit coridibus publici causa doloris, que nostros 25 exhausteris oculis communis lacrimarum materiae. Attenuati igitur oculis, suspiciam in excesso et interioris acim lacerium luminis ad genesis fontem retournemus misericie. Eheu, quam misera sors hominis ! Eheu, vite mortalium ! \u00ab Quam multi",
+      "pdf_page": 77,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1833,
+      "roll_id": 150,
+      "title": "",
+      "location_name": "",
+      "latin_text": "pliciter \u00bb (1) excisialis et dolenta conditio que virulento viperee suggestionis minis- tra suau de paterne prevaricationis penali propagata, caetudre affectare Deitatis defraudata proximo, extraordiniam et emulaticem \u00ab boni malique \u00bb sub \u00abv lege mortis\u00bb (2) est adepta \u00ab scientiam \u00bb (3) et de \u00ab posse non morri (4) \u00ab panam transitut in naturam, quia mors que penaliter accidit hominibus primis, naturaliter subse - cuta es in nacebus criteris. Inanimis sane, cujus formam gerat impressam, obliterata \u00ab similitudine, Dei yimago \u00bb (5) apostate persuasoris adhesit ymagini; qui, cum ex prima Eve (6) originis attut sepreccet, ut \u00ab posset non peccare \u00bb, emula conspicue majestatis ambitione distentus, \u00ab tanquam fulgor de celo confusibiliter cecidit \u00bb, (6), ut deinpecq canecer non possit \u00bb, (7). 0 mater Eva 10 vivientium, sed funeris ministra, sed mortis inexhausta matrimies! Hoc generale precipium hereditaria successione in posteritatis re luxilis ultrix severa paciuli operata est celestis intermario maladeti. Hinc virose arboris fructum assecuta es de presumpto inhibite commessionis edulicio. Hinc juridici sortis appo- site mutilatione distractum semen tuum pro loco glorie \u00ab lacum miser\u00e8 (8), pro 15 \u00abortu voluptatis\u00bb (9) volutabrum fetos, pro \u00ab habitatione lament\u00f2 (3) \u00abvallem lacrimarum\u00bb (11) et pro hausto denique vite perhennis in decedentium mortibus cotidianas tua soboles expetitur exequias. Est quod << vanitati creatura subjecta non volens, in spem tamen ad libertatem gloriae florium Dei \u00bb (12) respirat nam tubanda interim corruptionis servitute curvatur tantoque instabilitas est 20 elysia ludibrio, ut \u00ab extrema gaudii ejus luctus occupet \u00bb (13) et \u00ab carnem sequantur lamentationes et ve \u00bb (14). Rara sic constat sua forma mundo, sic suas variat vices,",
+      "pdf_page": 77,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7459,
+          "titulus_id": 1833,
+          "original_name": "Eve",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Eve",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7460,
+          "titulus_id": 1833,
+          "original_name": "Eva",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Eve",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7461,
+          "titulus_id": 1833,
+          "original_name": "Dei",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "God",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1834,
+      "roll_id": 150,
+      "title": "",
+      "location_name": "",
+      "latin_text": "quia constat eterna positumque lege est, ut constet genuini nichil. Ista sunt tue vegtialia mortalitatis, miser exul et refuga, post terg momentis. Hec est tui cautio reatus (4), \"stilo ferreo\" (1) in unge adamantino sic indelebiliter exarata ut non ferro, nec chalybe, nec nisi solo sanguinis hyrcini litera delera (sic) (a) valeat et (5) abradet. Hoc est lutee domus seminarium que, licet reluctetur et recalcuret (sic) (b), ad terreni tamen necesse est relatbur consuetudinem fundamenti. Hec, inquam, denique est de voluntarii lapsu impetu renitenti et repugnanti homini celitus ingestia ut, quia nolit abstinere, imflictum sit et non posse, cum velit, ut qui per se cadere sufficiet, per se \u00abnon adjectia ut resurgat\u00bb (2). Hinc egetrudinum frequentia, rearius remediorum efficacia, brevis vita tua lubricas mors incerta,quam si trahere in jus et in causam liceret, perfunctorie in eam allegare nobis et desiderer suppetaret et factus. Hec est enim per quam felices obeunt, quorum sine crimine malis, hac justis sera die que defunctos stravit, reprobos ea colligit equet. Hec est, inquam, qua latrocinante nes III, 15 non septum, extincta erat carne \u00ablucerna Israel\" (3), licet meritis et exemplo ubique terrarum refugeat var; videlicet profuse liberalitatis et conversationis honeste qui, ut in brevi cladum, plura \u00abgregi\" domino digne Deo vivendi atts est forma (4), modus, speculum et exemplum. Hic enim bone memorie Robertus secundus, pastor et pater monachorum Majoris Monasterii tan exuberantibus 20 pietas \"abflaget visceribus\" (5), ut, quamvis a quolibet in autojuris lacessis, ad jujgis exacerbatus, verbus acrius intacton, corrigendens tamen nimis non sustinerebaff aligii verbreribus, sed citra modum culpe contines mensuram vin- dictae, de boni \u0633\u067eedi medullis et expeditionis equanimi pacientia annonebat malagma vulneribus, insimulandi utique dissimulandiques opportunitate modesta 25 prudentiam equilibrans circumspectam. Humilitati etiam insigne pudicitiqve titulum tam diligentibus observat exquis, ut nec arrogante typus quicum de moribus ejus, nec de puritate opinionis ipsius carnis voluptas aliquid vendicaret, sed nec cum elution at luxurie commeque quomui volut habere criminibus, nisi talium cruminum eludientem in. Hoc etiam sariatet (sic) (c) et castimonie 30 nobis evidens indit argumentum quod, licet \u00abcum infirmis aliquentius infirmia",
+      "pdf_page": 78,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7462,
+          "titulus_id": 1834,
+          "original_name": "Robertus secundus",
+          "original_title": "pastor et pater monachorum Majoris Monasterii",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert II",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 2251,
+      "roll_id": 150,
+      "pdf_page": 77,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "(1) Cf. J. Leclercq, Mort des moines I, p. 17 (qui fait r\u00e9f\u00e9rence essentiellement \u00e0 Ed. Martene, Histoire de Marmoutier, \u00e9d. C. Chevalier, Tours, t. II, 1875, pp. 133-140); au sujet de cet"
+    },
+    {
+      "id": 2252,
+      "roll_id": 150,
+      "pdf_page": 78,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "delera corrigi en deleri par a."
+    },
+    {
+      "id": 2253,
+      "roll_id": 150,
+      "pdf_page": 78,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "recalcuret corrigi en recalcit par a."
+    },
+    {
+      "id": 2254,
+      "roll_id": 150,
+      "pdf_page": 78,
+      "pdf_half": "left",
+      "footnote_num": "c",
+      "text": "sabriatets corrig\u00e9 en sobriatets par aa."
+    },
+    {
+      "id": 2255,
+      "roll_id": 150,
+      "pdf_page": 78,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "\"stilo ferreo\""
+    },
+    {
+      "id": 2256,
+      "roll_id": 150,
+      "pdf_page": 78,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "\u00abnon adjectia ut resurgat\u00bb . "
+    },
+    {
+      "id": 2257,
+      "roll_id": 150,
+      "pdf_page": 78,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "\u00ablucerna Israel\" "
+    },
+    {
+      "id": 2258,
+      "roll_id": 150,
+      "pdf_page": 78,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": ""
+    }
+  ]
+}

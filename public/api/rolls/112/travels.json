@@ -1,0 +1,52 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Rouleau",
+    "coords": null,
+    "year": 1107,
+    "date_str": "[1107, apr\u00e8s le 26 mars]",
+    "is_approximate": true,
+    "description": "Origin: Rouleau mortuaire (fragmentaire) de Guillaume [II ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Gu\u00eetres",
+    "coords": null,
+    "year": 1107,
+    "date_str": "[1107, apr\u00e8s le 26 mars]",
+    "is_approximate": true,
+    "description": "Titulus Header: Gu\u00eetres"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Souin-de-Marnes",
+    "coords": null,
+    "year": 1107,
+    "date_str": "[1107, apr\u00e8s le 26 mars]",
+    "is_approximate": true,
+    "description": "Titulus Header: Souin-de-Marnes"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "F\u00e9camp",
+    "coords": null,
+    "year": 1107,
+    "date_str": "[1107, apr\u00e8s le 26 mars]",
+    "is_approximate": true,
+    "description": "William II of Rouet (abbot)"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "Th\u00e9rouanne",
+    "coords": null,
+    "year": 1107,
+    "date_str": "[1107, apr\u00e8s le 26 mars]",
+    "is_approximate": true,
+    "description": "Hubert (bishop)"
+  }
+]

@@ -1,128 +1,300 @@
 {
   "roll": {
     "id": 83,
-    "roll_num": "140",
-    "date_str": "S.d.",
-    "title": ", premier = semestre] S. d. [1154, apr\u00e8s le 27 avril Aubin 10 abb\u00e9_ de S Rohert [de La Tour-Landry] , Rov]",
+    "roll_num": 77,
+    "date_str": "13 ao\u00fbt [1051]",
+    "title": "(Monogramme (b)) Titulus plissimi Servati confessoris.\nNos parse Teutonicae nutrit perulima terrae;\nTractuum colimus, porro Mosam bibimus,\nDe nemis nomen ducens Servatius et rem\nPatrimoni nostrum laudibus est celebris.\nIdibus augusti, locum miserabile justi\nComperimus, fridus cui datis exequias.\nVera quidem geminum vos attulit aspera motum,\nTrista parietis, laeticiam parietis:\nExegi geminum compassionis debita fratrum;\nMox hilaris, talem vos meruisse patrem.\nErgo solamur quoque vos, pariter, peracum precar.\nSod lacrimis dignos haud inficiabimus illos,\nQui cumme suo praesponsere bono.",
     "manuscripts": "",
-    "pdf_source": "Dufour T1 (4)",
-    "pdf_pages": "65,66,67,68,69",
+    "pdf_source": "2",
+    "pdf_pages": "13,14,15",
     "is_verified": 0
   },
   "tituli": [
     {
-      "id": 46979,
+      "id": 679,
       "roll_id": 83,
-      "title": "662 [1155] !Ve cui mundus placet, ad nihilum redeundus Ve cui plus nox atque cathena Ve cui plus pen",
-      "location_name": "!Ve cui mundus placet",
-      "latin_text": "Pisus (b) gaudete; sevra p- > m-<. >-ti Plaudant anguillae, letentur et hostrea mille. Nam cessit vere nec scivit morte [carere] 15 Milia qui mille de vestris perdidit. Responsio. Unus si monachus moritur; quicumque Non ideo par est nobis ? Nam mille supersunt; Artifices gulae; qui retia tendere norunt. 20 Ergo; crede mihi, duo vel tres cum moriuntur; Unus post alium moriendo veniret ad i-< Versus Renaudi, cum vertuntur (c) Non causa abbatis hos me cogit versus faciendis Sed rotuligerolae () qui rotulum vult 25 replendi. Nam fessus diuturno est hic Et cupit multum itinere; praeterea laudem a monachis habere. Il faut peut-\u00eatre supprimer ce mot sont ray\u00e9es de deux traits (a,p. 367 , n. 1) . (b) de plume. Il est [En B], les pi\u00e8ces [suivantes] original et que; d\u00e8s le XII s,on ait possible qu'elles aient \u00e9t\u00e9 cancell\u00e9es sur le rouleau rencontrer sur un rouleau fun\u00e9aae essay\u00e9 de supprimer ces vers plaisants sans qu 'on est tout \u00e9tonn\u00e9 de doute  que les  (a,p. 367 , 1l. 4) . ((c) P. 368, (d) mots de la pi\u00e8ce doivent Lexpression cum vertuntur signifie 1. 1) . Mot \u00eatre douteux  dans mis dans un ordre diff\u00e9rent pour former des vers les (a, copies (a,P. 368, 7. 2) .",
-      "pdf_page": 67,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Attament est mensis, si firman spem foveamus,\nVivere cum Domino, dum fluit ita caro.\nEst commune qui si dolorum, nolle mederi,\nQuibus immodicis, a racione vagis.\nImpia quem raperet mors, aut quid jure haberet,\nSi caput humano subderet arbitrio?\nQuod petitis, totis faciemus denique votis,\nHac interposita conditione pia :\nUt que spondemus fidei commercia, rursus\nAicipiant nostrae, nam decet hoc, animae ;\nAlternis precibus quomodo superare valemus\nNexis tam carni, quam mala spiritui .\nSedulitate probos, pro fratribus officio sosos,\nEmptos hoc prece, complacet hocque modo.\nFoederibus certe par (b) gloria crescet utrisque :\nSint igitur stabiles hac sine vine vices. Amen.\nItem.\nDiscendi nostris miles Guifredus ab horis,\nRegnans cum Christo, quo sedet in solio.\nIste sequens Martis prius hinc vestigia pacis",
+      "pdf_page": 13,
       "pdf_half": "left",
-      "entities": []
+      "entities": [
+        {
+          "id": 2171,
+          "titulus_id": 679,
+          "original_name": "Guifredus",
+          "original_title": "miles",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guifredo",
+          "normalized_role": "soldier/knight",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
     },
     {
-      "id": 46980,
+      "id": 680,
       "roll_id": 83,
-      "title": "T. (d) SANCTI PETRI JUNCELLIS MONASTERII () . Anima domni Rotberti et abbatis et a. 0. f.d. r i. P. ",
-      "location_name": "(d) SANCTI PETRI JUNCELLIS MONASTERII ()",
-      "latin_text": "",
-      "pdf_page": 67,
+      "title": "Item.",
+      "location_name": "",
+      "latin_text": "Mutavit mores atque refugit opes :\nPostponens sacris que sunt mortalia curis,\nVisere proposuit mens quibus alma fuit ;\nFitque Dei miles, Benedicti abbatis et heres,\nInstans subjectis, ut genitor pueris.\nQuapropreter, fratres, mentis lenite dolores :\nTerra licet arnem, vita tenet requiem.\nHunc nos ascribi descrevimus atque notari,\nIstius meritum ne foret occidium.",
+      "pdf_page": 13,
       "pdf_half": "right",
-      "entities": []
+      "entities": [
+        {
+          "id": 2172,
+          "titulus_id": 680,
+          "original_name": "Benedicti",
+          "original_title": "abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Benedict",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2173,
+          "titulus_id": 680,
+          "original_name": "",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
     },
     {
-      "id": 46981,
+      "id": 681,
       "roll_id": 83,
-      "title": "T. Sancte Marie Columbis. Anima domni Roberti abbatis et a. 0. f. d. 1. i. p (c) Amen. Oramus p. [ve",
-      "location_name": "Sancte Marie Columbis",
-      "latin_text": "15 [B] 21 S.d.- Josaphat . T. Sanctae Mariae JOSAPHAT. Anima domni Roberti abbatis et a. 0 f. d. r.i. P Oravimus p. v, orate p. n. 22 S.d.- [Chartres,] S. Jean[-en-Vall\u00e9e] .",
-      "pdf_page": 69,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Quare felices secula vivite, fratres,\nEt date quod petimus, nos quoque quod petitis.\nAc vivet nobis tam clari vita parentis.\nUt vultis, volumus : si facitis, facemus. Valete.\n\nItem.\nEst ammirari quemquam indulgere dolori,\nSi sinuat sociam lex sibi mortis opem.\nEst, fui et sociam remanebit in orbe potenter,\nQuod bonus atque malus morte simul premitur.\nVos nostri memores fratres estote fideles,\nNos si concupivis velle quod appetitis.\nTerra perit cari Guifredi amici,\nAst requiem repetuit spiritus atque habeat.\nNon claudatur ei via sed pateat paradysi,\nNon noccant tenebr\u00e6, dissiliant nebul\u00e6.\nCompatimur vobis de vestri morte prioris,\nClerus Servatii proximi essimis :\nNominis hic heres, proprios serviendo clientes,\nTrajecti seris serim eret cerebris,\nAuditis vestri qui cesset fere querelis?\nHujus ad interim quisquam que patet gemitum.\nSed nulli parcit mors, heo ! quia parcere nescit ;\nQui mortur sapiens, et sic insipiens.\nBis morirur pravus, perdens cum bonus efflamine corpus;\nSed melioratur, cum bonus emoritur.\nNam mors in vestro quid habet nisi corpus amico ?\nSpiritus at repetat pars bona cujus erat.\nMors si cessaret, vel in esto, degeneraret ;\nPerdeti antiquum nomen et officium.\nSi neque hoc fieri, qui prodest nos lacrimari ?\nProscis tristicie nil faciunt anime.\nParcite fiere pleum qui non morir Guifredum :\nMutavit vitam, dum redit ad patriam.\nQuod petitis dantes, sumus h\u00e6c eadem rogantes,\nServos Martini nos quoque Servatii.",
+      "pdf_page": 14,
       "pdf_half": "left",
-      "entities": []
+      "entities": [
+        {
+          "id": 2174,
+          "titulus_id": 681,
+          "original_name": "Guifredi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guifredo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2175,
+          "titulus_id": 681,
+          "original_name": "Servatii",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Servatius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2176,
+          "titulus_id": 681,
+          "original_name": "Martini",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Martin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
     },
     {
-      "id": 46982,
+      "id": 682,
       "roll_id": 83,
-      "title": "T. Sancti Johlannis Carnotensis]  Anima domni Roberti abbatis et a. 0. f. d. r.i. 20 p. Oravimus p. ",
-      "location_name": "Sancti Johlannis Carnotensis]  Anima domni Roberti abbatis et a",
-      "latin_text": "23 S.d. Chartres; S. P\u00e8re[-en-Vall\u00e9e] . T.Sancti PETRI CARNOTENSIS. Anima domni Roberti abbatis et a. 0 \u00ca.d. r i.p. Oravimus p. Y.s orate p. n. Ce mot est rubrique, A. (b)   voestris du titre est corrig\u00e9 en vestris par exponctuation du 0 A. (c) La fin presque enti\u00e8rement rogn\u00e9e, A; le formulaire habituel permet pourtant de la compl\u00e9ter. Sur ce roi, cf_supra, p 162,n. 1. Sur ce roi; cf. supra; 188, Abb\u00e9 de S. Denis; cit\u00e9 par le Gallia chris- n. 2 Peut-\u00eatre Louis le Pieux \u20ac tiana (. VII, col. 366-368) de 1099 \u00e0 1122 \u00e0 Sur ce roi, cf. ou Louis VL son sujet, cf. notamment R. Grosse; Labb\u00e9 Sur supra; p. 188, n. 3. cet abb\u00e9 de $. Denis; Adam, mort en pr\u00e9d\u00e9cesseur de Suger \", dans R. Grosse 842, cf: notamment octobre Gallia dir , christiana, Suger en question.  Regards   crois\u00e9s SuT col 351-356. t VII, Saint-Denis;  Sur ce M\u00fcnchen; 2004, P. 31-43. personnage, cf. (8) supra, Abb\u00e9 de S. Denis, mort le 13 janvier 1151. p 8, n. 18.",
-      "pdf_page": 69,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Nam qualis mundo Guifredus vixerit isto,\nNobis ignotum, carmina vestra ferunt.\nSed quia nos vestr\u0113 voluistis jungere cur\u0113,\nAddamus socias cum precis\u016b lacrimas.\nEst scriptum : \u20ac Frater si juverit, ambo\nMunera majoris suscipient meriti. $^a$\nVos etiam cari memores consistite nostri.\nUt prece conjuncta dentur in arce bona.\nIdibus \u0430\u0432\u0433\u0443\u0441\u0442\u0430 nobis est cognita vestri\nPatris mors, immo gloria per merito.\nNam si pensetur quantum certaverit aur cu,\nQuod vivus pecuit, mortuus obtinuit.\nSed quia vos egre fertis dispendia sacr\u0113\nMortis, vobiscum solvimur in gemitu.\nQuod tamen huic digne nomen concessero, certe\nQuod sit perfectus, testis adet Dominus.\nDenique dum clarus multum foret ac opulentes,\nDeposit guibbum quo penetraret acim.\nSprevit opes falsas, thesaurisans sibi veras.\nQuas nec diminuit fur, neque erugo terit.\nO quotiens similem petet altera patrem\nEt fluet incassum vox studiosa precum.\nSi quod fas prohibet, mors evitabilis esset,\nVellemus raperet nos et eum fugeret.\nAt cum natur\u0ede cui cessit hic, oblivio ire\nNemo quaet, cui lacrimis sim modest assiduis.\nCongaudete patri, qui jam sine spe moriendi,\nVitam, quam peciit, carne solutus, agit.\nUnde simul uncti, quod solum possumus, illi\nSit requies petimus, sit decus atque salus.\nVos quoque ferte vicem nostrique apud Omnipotentem\nSitis per voces continuas memores.\nVerum ne lateat que natio talia scribat\nTrajectum nutrit nos, pater Hugo regit.\n\nItem.\nScimus quo clausri cecidit maxima vestri\nGuifredus modico cum jaceat tumulo ;\nCujus vita bonis tantis fulsisse probatur,",
+      "pdf_page": 14,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2177,
+          "titulus_id": 682,
+          "original_name": "Guifredus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guifred",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2178,
+          "titulus_id": 682,
+          "original_name": "Dominus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "God/Lord",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2179,
+          "titulus_id": 682,
+          "original_name": "Hugo",
+          "original_title": "regit (king)",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "king",
+          "normalized_dates": "",
+          "location_name": "Trajectum"
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "roll_id": 83,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Fraterum requiem solverit ut moriens.\nNam petit hoc hominum mos mortem fiere priorum,\nTurbarique nimis dum viduantur eis,\nSed vos cum lacrimis causas remotere doloris;\nPellite mores et geminate preces\nNam liquam Guifredu habuquet Mariam (1).\nA si quod resistat, supplet ad pietas,\nTerra veit terre, patria sed spiritus alme.\nTerra veit patrie, spiritus atque su\u0119.\n\nItem.\nQuod jam prelacus vester sic carne solutus,\nNarravit nobis nuncius advienis.\nQuaproper vobis compassi corde, doloris\nNostri vim multis exprimimus lacrimis.\nSed sequiam sanctos mores exercuit, ut vos\nDieitis, nunc summo scimus imesse polo.\nNam quod qu\u00e6sit, dum viveret hic, Deus illic\nPrealit ei, variis congrua dam meritis.\nQuaproper fietus depone, pelite questus,\nQua prospicientes quod caro jam cinis est.\n\nItem.\nVestra sit ut nobis, nostri stat mencio vobis ;\nGfoedus mandatis, pignus et hoc cupitis.\nGuifredum fleti ; sublato patre doletis :\nTerra sums ussumpt, nam caro terra fuit.\nCessant a lacrimis ocul; neu fiere velitis;\nCum Christo solis regnat in astrofiero.\nElegit vitam, spernens bonus arbiter aulam ;\nSubtraxit mundo seque dedit Domino.\nAccepit vitam, mortem superavit iniquam ;\nPropterea dulce promuerit requiem.\n\nItem.\nFratres Canigoni, quibus est mors dura magisteri,\nNe nimium mestis subdite vos lacrimis.",
+      "pdf_page": 15,
       "pdf_half": "left",
+      "entities": [
+        {
+          "id": 2180,
+          "titulus_id": 683,
+          "original_name": "Guifredu",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guifredo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2181,
+          "titulus_id": 683,
+          "original_name": "Mariam",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "(1) Allusion \u00e0 Luc., X, 38-40.",
+          "normalized_name": "Maria",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2182,
+          "titulus_id": 683,
+          "original_name": "Christo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 2183,
+          "titulus_id": 683,
+          "original_name": "Canigoni",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Canig\u00f3",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Canig\u00f3"
+        }
+      ]
+    },
+    {
+      "id": 684,
+      "roll_id": 83,
+      "title": "Cur lugetis eum, qui felix vivet in evum ?\nQuare non vit\u00e8 cernitis acta su\u00e6 ?\nLetificat mundum requiescens arce polorum,\nExemplar vivis, palma recens superis.\nItem.\nMundi luxurias imitandus respuit abbas\nGuifredus, nullis subditus illecebris.\nSepius orabat, poterat quis subveniebat,\nPostremo cunctis consulo mit iser.\nSed pro magnificis sortis premia factis,\nQua primum venit, nunc patriam repetit.\nQuesumus hinc, fratres Christo patrique fideles,\nPellite steticiam, sumite leticiem.\nMandatis vester posita quod carne magister\nCorpore defunctos nunc micet eximius ;\nInde quidem letas Domino persolvimus odas,\nQui sese in propriis magnificat famulis.\nPorro mortalis quia distat opinio summis,\nUtile quod scimus quoque decet facemis.\nFundimus ergo preces, anim\u00e6 pia dona petentes,\nScilicet ut vivat cum Domino et valeat.\nItem.\nAbbatem vestrumDixit fore morte gravatum\nVester legatus, quod graviter ferimus.\nSed vos nullis ob id dolor aut metus occupet : ut quid\nVos fleretis ei quem tenet aula poli ?\nCerte si fecit quod eum fecisse doletis,\nNon est ambiguum quod teneat pretium.\nNam quamvis tellus fragiles consumserit artus,\nEst tamen in regno spiritus ethereo.",
+      "location_name": "",
+      "latin_text": "Cur lugetis eum, qui felimos vivet in evum ?\nQuare non vit\u00e8 cernitis acta su\u00e6 ?\nLetificat mundum requiescens arce polorum,\nExemplar vivis, palma recens superis.\nItem.\nMundi luxurias imitandus respuit abbas\nGuifredus, nullis subditus illecebris.\nSepius orabat, poterat quis subveniebat,\nPostremo cunctis consulo miseris.\nSed pro magnificis sortis premia factis,\nQua primum venit, nunc patriam repetit.\nQuesumus hinc, fratres Christo patrique fideles,\nPellite steticiam, sumite leticiem.\nMandatis vester posita quod carne magister\nCorpore defunctos nunc micet eximius ;\nInde quidem letas Domino persolvis mus odas,\nQui sese in propriis magnificat famulis.\nPorro mortalis quia distat opinio summis,\nUtile quod scimus quoque decet facemis.\nFundimus ergo preces, anim\u00e6 pia dona petentes,\nScilicet ut vivat cum Domino et valeat.\nItem.\nAbbatem vestrumDixit fore morte gravatum\nVester legatus, quod graviter ferimus.\nSed vos nullis ob id dolor aut metus occupet : ut quid\nVos fleretis ei quem tenet aula poli ?\nCerte si fecit quod eum fecisse doletis,\nNon est ambiguum quod teneat pretium.\nNam quamvis tellus fragiles consumserit artus,\nEst tamen in regno spiritus ethereo.",
+      "pdf_page": 15,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2184,
+          "titulus_id": 684,
+          "original_name": "Guifredus",
+          "original_title": "abbas",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guifredo",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 685,
+      "roll_id": 83,
+      "title": "78 [74] S.d.- Aachen, \u00e9glise ind\u00e9termin\u00e9e.",
+      "location_name": "Aachen, \u00e9glise ind\u00e9termin\u00e9e",
+      "latin_text": "Aquis.\nKanigonis frates, quos servat regia sedes,\nAtque lavantur aquis perpetuo calidis,",
+      "pdf_page": 15,
+      "pdf_half": "right",
       "entities": []
     }
   ],
   "footnotes": [
     {
-      "id": 36145,
+      "id": 830,
       "roll_id": 83,
-      "pdf_page": 65,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "iloiuucuie Utaghleiluuic ) U d Angers (t 27 avril 1154 )"
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "(Monogramme (b))"
     },
     {
-      "id": 36146,
+      "id": 831,
       "roll_id": 83,
-      "pdf_page": 65,
-      "pdf_half": "right",
-      "footnote_num": "1",
-      "text": "Ps., XVIII, 5 Cf. Ps., LXVI, 7 : ( terra dedit fructum suum >"
+      "pdf_page": 13,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "(b) corrige par."
     },
     {
-      "id": 36147,
+      "id": 832,
       "roll_id": 83,
-      "pdf_page": 65,
+      "pdf_page": 14,
       "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "in elegi eum Reg II, 28 :  Cf. [ sacerdotem 0 CXVIIL= 46. Ps ,"
+      "footnote_num": "a",
+      "text": "a"
     },
     {
-      "id": 36148,
+      "id": 833,
       "roll_id": 83,
-      "pdf_page": 66,
+      "pdf_page": 15,
       "pdf_half": "left",
       "footnote_num": "1",
-      "text": "son sujet, cf. Gallia christiana, - col. 615-616 ; t.XIV Angers 1 DHGE, t. IIL, 88 (F. Uzureau) C. col. Port, Dictionnaire histori- que, g\u00e9ographique et biographique de Maine-"
+      "text": "(1) Allusion \u00e0 Luc., X, 38-40."
     },
     {
-      "id": 36149,
+      "id": 834,
       "roll_id": 83,
-      "pdf_page": 66,
-      "pdf_half": "left",
-      "footnote_num": "2",
-      "text": "(2) Angers; t.I, P. 84. \u00c9d. Bertrand de Broussillon; Cartulaire de labbaye  de Saint-Aubin & Angers, passim ."
-    },
-    {
-      "id": 36152,
-      "roll_id": 83,
-      "pdf_page": 68,
+      "pdf_page": 15,
       "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "Ph\u0131pp` mort Je Lv Maurienne; - la\u00efde ' de"
-    },
-    {
-      "id": 36153,
-      "roll_id": 83,
-      "pdf_page": 68,
-      "pdf_half": "right",
-      "footnote_num": "4",
-      "text": "1154,est"
-    },
-    {
-      "id": 36150,
-      "roll_id": 83,
-      "pdf_page": 68,
-      "pdf_half": "right",
-      "footnote_num": "719",
-      "text": "TOLac rrance. IlOl [ 1"
-    },
-    {
-      "id": 36151,
-      "roll_id": 83,
-      "pdf_page": 68,
-      "pdf_half": "right",
-      "footnote_num": "1137",
-      "text": ". ((6) Ad\u00e9la\u00efde de Maurienne, morte en"
+      "footnote_num": "a",
+      "text": "Corrigez sans doute octo ducenti."
     }
   ]
 }

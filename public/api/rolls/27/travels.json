@@ -1,0 +1,25 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 950,
+    "date_str": "S.d. [premier quart du X s.]",
+    "is_approximate": false,
+    "description": "Origin: ..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Lauduni",
+    "coords": null,
+    "year": 950,
+    "date_str": "S.d. [premier quart du X s.]",
+    "is_approximate": true,
+    "description": "Bernardo (decanus)"
+  }
+]

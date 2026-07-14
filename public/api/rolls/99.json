@@ -1,0 +1,35 @@
+{
+  "roll": {
+    "id": 99,
+    "roll_num": 96,
+    "date_str": "S.d.[XI\u02b0 s.]",
+    "title": "Titres appos\u00e9s par les moines de Fleury sur des rouleaux mortuaires.",
+    "manuscripts": "A. Original perdu.\nB. Orl\u00e9ans, B. M., ms. 259 (215), p. 30-31 (XI\u02b0 s.).",
+    "pdf_source": "2",
+    "pdf_pages": "49,50",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 804,
+      "roll_id": 99,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Quod si vite brevis quisque mortalibus aevi,\nDum sibi quis metuit, pede vigilare sapit.\nQuis sit, quis fuerit, quantus post necre futuros,\nSi mens rete ferat, caelica valde placent.\nEcce caduca v\u0119gi vix punctum tempora saede\nConservant quos hic orbita semper agit.\nQuapropter manibus mentis caput est revendandum,\nEt quod quisque cupit compando fero fatet.",
+      "pdf_page": 49,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 805,
+      "roll_id": 99,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Quod nos pro vestris animo servare libenti\nOptamus, Domino vota ferendo pio,\nSolatos cupimus, communi sorte tenemur\nAlter in alterius ponere spem placeat.\nFebruus optatas stringebat frigore mensas,\nPellifer ut nostrum linum anhelus adit ;\nFloriacos fratres prompto clemore (sic) salutat,\nEt vestem relevans, signat adesse thorum,\nIn quo nostrorum memores vos esse petentes\nNomina signavimus, o lacrimosa nimis.",
+      "pdf_page": 50,
+      "pdf_half": "left",
+      "entities": []
+    }
+  ],
+  "footnotes": []
+}

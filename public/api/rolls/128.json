@@ -1,0 +1,1106 @@
+{
+  "roll": {
+    "id": 128,
+    "roll_num": 125,
+    "date_str": "S. d. [1113-1127]",
+    "title": "Rouleau mortuaire (fragmentaire) d\u2019un abb\u00e9 Guillaume.",
+    "manuscripts": "A. Original, Deux fragments epistoghraphes, d\u2019une longueur totale de 66 cm et d\u2019une largeur comprise entre 12 cm et 26,5 cm :\n\u2014 I Leiden, Bibliotheek der Rijksuniversiteit, B.P.L. 2505 (1). Parchemin (e. c. blanch\u00e2tre ; e. p. jaun\u00e2tre). Longueur, 33 cm ; largeur, 26,5 cm.\n\u2014 II Vaticano, Reg. lat. 1495, fol. (2). Parchemin (e. c. blanch\u00e2tre ; e. p. jaun\u00e2tre). Longueur, 33 cm ; largeur, 21/26 cm. Ce fragment est form\u00e9 de deux feuilles (reli\u00e9es par une mince bande horizontale de parchemin passant dans dix-sept verticales) de dimensions tr\u00e8s diff\u00e9rentes : la feuille sup\u00e9rieure mesure 10/11 cm de long sur 26 cm de large, la feuille inf\u00e9rieure 24,5/25 cm de long sur 21/25 cm de large.",
+    "pdf_source": "4",
+    "pdf_pages": "31,32,33,34",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1640,
+      "roll_id": 128,
+      "title": "[I, c. c.] 1 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es",
+      "latin_text": "<.................................................>\nVestibat nudos necnon pascebat egenos\nAtque suis votis salvabat carcere clausos\nConsiliumque (a) dabat cumctum vultu (b) benigno.\nBene suos monachos servabat ordine recto,\nH[orium sanctis exemplis corda replendo.\nPro factis istis nunc gaudet in \u011fhere summo\nC[ium] sanctis illis qui dicunt neumata Christo.\nO vos (c) pro monachis effundite nenia nostris :\n<...> Christiano (d), Roberto, Duranto, Harviso, Gautoro, Supplicio, Girardo, Haimerico clerico.",
+      "pdf_page": 32,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6832,
+          "titulus_id": 1640,
+          "original_name": "Christiano",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christian",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6833,
+          "titulus_id": 1640,
+          "original_name": "Roberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6834,
+          "titulus_id": 1640,
+          "original_name": "Duranto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Durant",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6835,
+          "titulus_id": 1640,
+          "original_name": "Harviso",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Harvey",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6836,
+          "titulus_id": 1640,
+          "original_name": "Gautoro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gautier",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6837,
+          "titulus_id": 1640,
+          "original_name": "Supplicio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Supplice",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6838,
+          "titulus_id": 1640,
+          "original_name": "Girardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Girard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6839,
+          "titulus_id": 1640,
+          "original_name": "Haimerico",
+          "original_title": "clerico",
+          "footnote_num": "d",
+          "footnote_text": null,
+          "normalized_name": "Haimeric",
+          "normalized_role": "clerk",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1641,
+      "roll_id": 128,
+      "title": "2 S.d.- cath\u00e9drale (N.-D.).",
+      "location_name": "cath\u00e9drale (N.-D.)",
+      "latin_text": "T. SANCTIE MARIE SEDIS ARVERNENS.\n[I]lle cello sedeat quem presentis catula monstrat.\n[Cu]ncti fleclam precum $\text{precibum}$ sanctosque precamur,\nTartara nie videat que Christo duce repellat.\nNostros juganti vetris precum valeatis :\nStephanum (1) atque Stephanum episcopos, Hunaldum et Bernardum archidiaconos, Emenonem et Johannem archipresbyteros.",
+      "pdf_page": 32,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6840,
+          "titulus_id": 1641,
+          "original_name": "Stephanum",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "Aucun de ces personnages n'est mentionn\u00e9 par P. de Cessac, Liste des pr\u00e9v\u00f4ts du monast\u00e8re d'Evaux (Creuse). Ordre de saint Augustin, dans M\u00e9moires de la Soci\u00e9t\u00e9 des sciences naturelles et arch\u00e9ologiques de Creuse, t. VI, 1888, p. 101-120.",
+          "normalized_name": "\u00c9tienne",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6841,
+          "titulus_id": 1641,
+          "original_name": "Stephanum",
+          "original_title": "episcopos",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "\u00c9tienne",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6842,
+          "titulus_id": 1641,
+          "original_name": "Hunaldum",
+          "original_title": "archidiaconos",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hunald",
+          "normalized_role": "archdeacon",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6843,
+          "titulus_id": 1641,
+          "original_name": "Bernardum",
+          "original_title": "archidiaconos",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "archdeacon",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6844,
+          "titulus_id": 1641,
+          "original_name": "Emenonem",
+          "original_title": "archipresbyteros",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Emon",
+          "normalized_role": "archpriest",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6845,
+          "titulus_id": 1641,
+          "original_name": "Johannem",
+          "original_title": "archipresbyteros",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Jean",
+          "normalized_role": "archpriest",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1642,
+      "roll_id": 128,
+      "title": "3 S.d.- [Clermont,] S. Allyre.",
+      "location_name": "[Clermont,] S. Allyre",
+      "latin_text": "T. SANCTI YLLIDII, ARVERNENSIS EPISCOPI.\nVenit nutrius dissensum Willelmi nutrians fratribus.\nUt (e) Deusi illi sit propitius,\nA quo mirabiliter est plasmutas",
+      "pdf_page": 32,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6846,
+          "titulus_id": 1642,
+          "original_name": "Willelmi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillaume",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1643,
+      "roll_id": 128,
+      "title": "4 S.d.- Issoire, S. Austremoine.",
+      "location_name": "Issoire, S. Austremoine",
+      "latin_text": "T. SANCTI AUSTREMOINI, primi Arvernorum episcopi, Issiodorensis cenobii.\nQuod vestris petitio, edem persovite nostris, domno <...>-mundo abbate,\nAymone (2) abbate, Arberto monacho, <...>-aldo (b) monacho, Radulfo monacho,\nWillelmo monacho, Stephano <...> quorum nomina Deus scit.",
+      "pdf_page": 32,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6847,
+          "titulus_id": 1643,
+          "original_name": "SANCTI AUSTREmente",
+          "original_title": "primi Arvernorum episcopi",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Austremonius",
+          "normalized_role": "bishop of Auvergne",
+          "normalized_dates": "",
+          "location_name": "Issoire"
+        },
+        {
+          "id": 6848,
+          "titulus_id": 1643,
+          "original_name": "Aymone",
+          "original_title": "abbate",
+          "footnote_num": "2",
+          "footnote_text": null,
+          "normalized_name": "Aymon",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 6849,
+          "titulus_id": 1643,
+          "original_name": "Arberto",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arbert",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 6850,
+          "titulus_id": 1643,
+          "original_name": "Radulfo",
+          "original_title": "monacho",
+          "footnote_num": "b",
+          "footnote_text": null,
+          "normalized_name": "Raoul",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 6851,
+          "titulus_id": 1643,
+          "original_name": "Willelmo",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillaume",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 6852,
+          "titulus_id": 1643,
+          "original_name": "Stephano",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "\u00c9tienne",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1644,
+      "roll_id": 128,
+      "title": "",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 33,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1645,
+      "roll_id": 128,
+      "title": "7 S.d.\u2013 Caen, S. \u00c9tienne.",
+      "location_name": "Caen, S. \u00c9tienne",
+      "latin_text": "TITULUS (a) SANCTI STEPHANI CADOMI. Respiuescat i. p. Fecimus quod jusistis (sic), facite et vos idem p.n., Ragnulfo, Petro, Stephano, Ricardo (b), Fulcone, Willelmo, Rogerio, Walterio, Nigello, Rogerio, Radulfo et aliis quamplurimis familiaribus.",
+      "pdf_page": 33,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6853,
+          "titulus_id": 1645,
+          "original_name": "SANCTI STEPHANI CADOMI",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Stephen of Caen",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Caen"
+        },
+        {
+          "id": 6854,
+          "titulus_id": 1645,
+          "original_name": "Ragnulfo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ragnold",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6855,
+          "titulus_id": 1645,
+          "original_name": "Petro",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6856,
+          "titulus_id": 1645,
+          "original_name": "Stephano",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Stephen",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6857,
+          "titulus_id": 1645,
+          "original_name": "Ricardo",
+          "original_title": "",
+          "footnote_num": "b",
+          "footnote_text": null,
+          "normalized_name": "Richard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6858,
+          "titulus_id": 1645,
+          "original_name": "Fulcone",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Fulcon",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6859,
+          "titulus_id": 1645,
+          "original_name": "Willelmo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6860,
+          "titulus_id": 1645,
+          "original_name": "Rogerio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Roger",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6861,
+          "titulus_id": 1645,
+          "original_name": "Walterio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6862,
+          "titulus_id": 1645,
+          "original_name": "Nigello",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Nigel",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6863,
+          "titulus_id": 1645,
+          "original_name": "Radulfo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ralph",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1646,
+      "roll_id": 128,
+      "title": "8 S.d.\u2013 Caen, la Trinit\u00e9.",
+      "location_name": "Caen, la Trinit\u00e9",
+      "latin_text": "TITULUS SANCTAE TRINITATIS CADOMI.\nOravimus p., v., orate et vos p. n., videhet pro anima domin\u00e6 nostr\u00e6 Matildis (1) regine et pro animabus filiarum ipsius Adilidis (2) atque Mathildis (3) et pro animabus sororum defunctarum nostri loci, Adelais scilicet, Hatvidis, Caterina, Hatvidis, Adelaidis, Itisburgis, Adeladis, Ascelina, Gisla, Henscelina, Adelidis.",
+      "pdf_page": 33,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6864,
+          "titulus_id": 1646,
+          "original_name": "Matildis",
+          "original_title": "regine",
+          "footnote_num": "1",
+          "footnote_text": "Aucun de ces personnages n'est mentionn\u00e9 par P. de Cessac, Liste des pr\u00e9v\u00f4ts du monast\u00e8re d'Evaux (Creuse). Ordre de saint Augustin, dans M\u00e9moires de la Soci\u00e9t\u00e9 des sciences naturelles et arch\u00e9ologiques de Creuse, t. VI, 1888, p. 101-120.",
+          "normalized_name": "Matilda",
+          "normalized_role": "queen",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6865,
+          "titulus_id": 1646,
+          "original_name": "Adilidis",
+          "original_title": "",
+          "footnote_num": "2",
+          "footnote_text": null,
+          "normalized_name": "Adelaide",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6866,
+          "titulus_id": 1646,
+          "original_name": "Mathildis",
+          "original_title": "",
+          "footnote_num": "3",
+          "footnote_text": null,
+          "normalized_name": "Matilda",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6867,
+          "titulus_id": 1646,
+          "original_name": "Adelais",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Adela",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6868,
+          "titulus_id": 1646,
+          "original_name": "Hatvidis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hildegard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6869,
+          "titulus_id": 1646,
+          "original_name": "Caterina",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Catherine",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6870,
+          "titulus_id": 1646,
+          "original_name": "Hatvidis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hildegard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6871,
+          "titulus_id": 1646,
+          "original_name": "Adelaidis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Adelaide",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6872,
+          "titulus_id": 1646,
+          "original_name": "Itisburgis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ida/Isburg",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6873,
+          "titulus_id": 1646,
+          "original_name": "Adeladis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Adelaide",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6874,
+          "titulus_id": 1646,
+          "original_name": "Ascelina",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6875,
+          "titulus_id": 1646,
+          "original_name": "Gisla",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gisela",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6876,
+          "titulus_id": 1646,
+          "original_name": "Henscelina",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Henseline",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6877,
+          "titulus_id": 1646,
+          "original_name": "Adelidis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Adelaide",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1647,
+      "roll_id": 128,
+      "title": "9 S.d.- Locality et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "Locality et \u00e9glise ind\u00e9termin\u00e9es",
+      "latin_text": "T. Excelini.\nMe (c) sedente in solo, vidi ferri hos rodulos (sic).\nEt mox accepi calamum et scripsi hunc versiculum.\nSumat requiem con sanctis omnibus. Amen.",
+      "pdf_page": 33,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6878,
+          "titulus_id": 1647,
+          "original_name": "Excelini",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Excellinus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1648,
+      "roll_id": 128,
+      "title": "11 S.d.- Dijon, S. \u00c9tienne.",
+      "location_name": "Dijon, S. \u00c9tienne",
+      "latin_text": "T. SANCTI STEPHANI DIVIONENSIS.\nEcce tibi scriptum; post scriptum victum\nCumque satur fueris, quod clamas jure frueris,\nSecurus pota reddentur premia tota.\nNe parcas esce, nummos tibi IIII\u00ba ecce.\nNon est noscer mos pro vietu demere nummos.\n[V]otum Guillemo dedimus sua premia servo.\nSolvite vos nostris, repetit quod quartaestris :\n[II, c. p.] Bernardo nostro (a) <...................> Warnerio preposto, Waudierio, Arardo, Goncelino, Bertrano, Fulconi.",
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6879,
+          "titulus_id": 1648,
+          "original_name": "Guillemo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillaume",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6880,
+          "titulus_id": 1648,
+          "original_name": "Bernardo",
+          "original_title": "",
+          "footnote_num": "a",
+          "footnote_text": "Les deux titres de S. Pierre d'\u00c9vaux, d\u00e9plac\u00e9s, sont appos\u00e9s \u00e0 droite des titres de la cath\u00e9drale de Langres et de S. \u00c9tienne de Dijon.",
+          "normalized_name": "Bernard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6881,
+          "titulus_id": 1648,
+          "original_name": "Warnerio",
+          "original_title": "preposto",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Warin",
+          "normalized_role": "provost",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6882,
+          "titulus_id": 1648,
+          "original_name": "Waudierio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Waudier",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6883,
+          "titulus_id": 1648,
+          "original_name": "Arardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Arard",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6884,
+          "titulus_id": 1648,
+          "original_name": "Goncelino",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Goncelin",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6885,
+          "titulus_id": 1648,
+          "original_name": "Bertrano",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bertrand",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6886,
+          "titulus_id": 1648,
+          "original_name": "Fulconi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Foulcon",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1649,
+      "roll_id": 128,
+      "title": "12 S.d.- Vergy, S. Vivant.",
+      "location_name": "Vergy, S. Vivant",
+      "latin_text": "T. SANCTI VIVENTII VERGIACENSIS MONASTERI.\nDeus, cuius bonitas hominem fecit, misericordia redeemit, veritas judicabit,\nmiserere anime famuli tui Willelmi, misericie ecriam animabus famulorum familiarumque tuarum, fratrum, parentum, propinquorum, benefactorum familiarium que nostrum et omnibus christianis qui, zelo tuo duci, contra paganos finitimos et transmarinos sub signis tui (c) dimicant, <...> tue virtute vivis expolare, pietatis tue munere mortuis mortuarie misericere, ut eorum atque o. f. d. anime requiescant in pace.",
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 6887,
+          "titulus_id": 1649,
+          "original_name": "Willelmi",
+          "original_title": "famuli tui",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillaume",
+          "normalized_role": "servant of the monastery",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1650,
+      "roll_id": 128,
+      "title": "13 S.d.- Vergy, S. Denis.",
+      "location_name": "Vergy, S. Denis",
+      "latin_text": "T. SANCTI DIONISII VERZIENSIS (sic) mo[NASTERII]. Deus omnipotens sit omnibus pie et clemens, Ascherio, Aimario, Hengilber[to] [...] Habardo, Bivino, Wido, Hunberto, Gaufrido.",
+      "pdf_page": 34,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6888,
+          "titulus_id": 1650,
+          "original_name": "Ascherio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ascherio",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6889,
+          "titulus_id": 1650,
+          "original_name": "Aimario",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Aimario",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6890,
+          "titulus_id": 1650,
+          "original_name": "Hengilber[to]",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hengilbertus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6891,
+          "titulus_id": 1650,
+          "original_name": "Habardo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Habardus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6892,
+          "titulus_id": 1650,
+          "original_name": "Bivino",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bivinus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6893,
+          "titulus_id": 1650,
+          "original_name": "Wido",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Wido",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6894,
+          "titulus_id": 1650,
+          "original_name": "Hunberto",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hunbertus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6895,
+          "titulus_id": 1650,
+          "original_name": "Gaufrido",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gaufridus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1651,
+      "roll_id": 128,
+      "title": "14 S.d.- \u00c9vaux, S. Pierre.",
+      "location_name": "\u00c9vaux, S. Pierre",
+      "latin_text": "TITULUS (a) SANCTI PETRI EUVAUNENSIS ECCLESIAE.\nWilelmus seclosi (sic) quid male gessu[m] isto,\nHoc Pretii precibus deleat ipse Deu[s].\nITEM LOCI EJUSDEM.\nHic Domini famulus, Wilemus nomine dictus,\nQuod jussum tenuit Christi sine manebit,\nUt referat fratres, narrant Italie patres,\nQui Domino servit, celorum sede quiescit.\nErgo deced cunctos hac conditione quietos,\nUt rogient Christum, tribuat sic sperare mundum,\nUt Domini summum valeant descendere regnum,\nQuo Dominum c\u0153li conlaudent tempore seculi.\nQuod petitis verstis, cunctis impendite nostris:\nBERNARDO, ROTGE [ri]O, GERALDO, UGONI, AMELIO ATQUE RADULFO (1).\nCum sancti celo degat, Wilemus in evo\nImpetret hoc precibus claviger deuus in ethereus.\nIN TE CONFISUM CONFER DEUS IN PARADISUM.",
+      "pdf_page": 34,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6896,
+          "titulus_id": 1651,
+          "original_name": "Wilemus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Willelmus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 6897,
+          "titulus_id": 1651,
+          "original_name": "BERNARDO",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernardo",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6898,
+          "titulus_id": 1651,
+          "original_name": "ROTGE[rio]",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Rotgerius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6899,
+          "titulus_id": 1651,
+          "original_name": "GERALDO",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Geraldus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6900,
+          "titulus_id": 1651,
+          "original_name": "UGONI",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ungus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6901,
+          "titulus_id": 1651,
+          "original_name": "AMELIO",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Amelius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 6902,
+          "titulus_id": 1651,
+          "original_name": "RADULFO",
+          "original_title": "",
+          "footnote_num": "1",
+          "footnote_text": "Aucun de ces personnages n'est mentionn\u00e9 par P. de Cessac, Liste des pr\u00e9v\u00f4ts du monast\u00e8re d'Evaux (Creuse). Ordre de saint Augustin, dans M\u00e9moires de la Soci\u00e9t\u00e9 des sciences naturelles et arch\u00e9ologiques de Creuse, t. VI, 1888, p. 101-120.",
+          "normalized_name": "Radulfus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1652,
+      "roll_id": 128,
+      "title": "II : po\u00e8me de Baudri de Bourgueil",
+      "location_name": "Bourgueil",
+      "latin_text": "Texte \u00e9tabli d'apr\u00e8s B.\nIn rotula de Guillelmo abbate\nGuillelmus, quoniam verum perpravet ad esse\n(Ad non esse licet sit vivus primitus imsse),",
+      "pdf_page": 34,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 6903,
+          "titulus_id": 1652,
+          "original_name": "Guillelmo",
+          "original_title": "abbate",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillelmus",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 6904,
+          "titulus_id": 1652,
+          "original_name": "Guillelmu",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guillelmus",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 1975,
+      "roll_id": 128,
+      "pdf_page": 31,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Il s'agit de l'ancienne feuille de garde du ms. Leiden, Bibliotheek der Rijksuniversiteit, Vossianus Lat. Fol. 25 (cf. K. A. De Meijer, Codices Vossiani Latini, t. I, 1973, p. 53)."
+    },
+    {
+      "id": 1976,
+      "roll_id": 128,
+      "pdf_page": 31,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "Les deux ms. Leiden, Bibliotheek der Rijksuniversiteit, Vossianus Lat. Fol. 25 et Vaticano, Reg. lat. 1495 ne portent aucun ex-libris."
+    },
+    {
+      "id": 1977,
+      "roll_id": 128,
+      "pdf_page": 31,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Catalogue des sources hagiographiques de l'histoire de Bretagne, Paris, 1922, p. 10-11."
+    },
+    {
+      "id": 1978,
+      "roll_id": 128,
+      "pdf_page": 31,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "A son sujet, cf. Gallia christiana, t. XIV, col. 629-631, ainsi que supra, p. 564 et n. 3."
+    },
+    {
+      "id": 1979,
+      "roll_id": 128,
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "Hugo Reinaldus de Bar-sur-Seine, \u00e9v\u00e9-\nque de Langres de 1065 \u00e0 alburg 1005 (cf. Gans,\np. 558); son nom ne permet de localiser ce titre."
+    },
+    {
+      "id": 1980,
+      "roll_id": 128,
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "Ingelbaldus, disciple de Guillaume de\nVolpiano, abb\u00e9 de Vergy (cf. Gallia christiana,"
+    },
+    {
+      "id": 1981,
+      "roll_id": 128,
+      "pdf_page": 33,
+      "pdf_half": "right",
+      "footnote_num": "(3)",
+      "text": "Rotbertus n'appara\u00eet pas dans la liste des\nabb\u00e9s de Vergy donn\u00e9e par la Gallia christiana\n(loc. cit)."
+    },
+    {
+      "id": 1982,
+      "roll_id": 128,
+      "pdf_page": 34,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "Les deux titres de S. Pierre d'\u00c9vaux, d\u00e9plac\u00e9s, sont appos\u00e9s \u00e0 droite des titres de la cath\u00e9drale de Langres et de S. \u00c9tienne de Dijon."
+    },
+    {
+      "id": 1983,
+      "roll_id": 128,
+      "pdf_page": 34,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Aucun de ces personnages n'est mentionn\u00e9 par P. de Cessac, Liste des pr\u00e9v\u00f4ts du monast\u00e8re d'Evaux (Creuse). Ordre de saint Augustin, dans M\u00e9moires de la Soci\u00e9t\u00e9 des sciences naturelles et arch\u00e9ologiques de Creuse, t. VI, 1888, p. 101-120."
+    }
+  ]
+}

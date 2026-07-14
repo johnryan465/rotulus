@@ -1,39 +1,71 @@
 {
   "roll": {
     "id": 32,
-    "roll_num": "57",
-    "date_str": "S.d.",
-    "title": "S.d. [X' s] Titre compos\u00e9 \u00e0 Fleury:",
-    "manuscripts": "A. Original perdu . B. Paris, B. N. E., lat. 8674, fol. Il2v (X' s.) . 0. L. Delisle, Rouleaux des morts du IX' au XV 8., P. 21, n\" X (3), dapr\u00e8s , B. Ce titre;, constitu\u00e9 de 98 vers, \u00e9crit \u00e0 Fleury; un 20 furent abb\u00e9s de cette \u00e9glise:. Cependant comue iln2\u00dfguienindiquengue Rainardus pas dans les et listes Ramnulfus on ne peut d\u00e9terminer avec exactitude \u00e0 quel moment ils v\u00e9curent. 'abbatiales de ] Fleury, 20 juin Fleury Tristia corda solent mestum quia promere carmen; 10 Spargere nec radios nube tegente suos Furva, sydereis quanquam clarescat in oris Phebus; quadrigis qui micat ignivomis; Nec crescat condigna dolor sub corde latendo; Cudimus abstracti () carmina nos elegi; 15 Quos sors exilii tenet, cheu; mesta vetusti; Que veram requiem denegat adque  diem Non inlustratum; semper sed lumine plenum; Cernere, quem superus occupat ecce chorus 20 Angelorum; quamvis hac perpete luce fruatur; Quam quicumque videt, ambit habere semel, Est quia summa quies; simul est et gloria perpes; Nullus cecatur; nemoque quo moritur, Noscere (uam (nc6o]",
-    "pdf_source": "Dufour T1 (1)",
-    "pdf_pages": "36,37,38",
+    "roll_num": 36,
+    "date_str": "S.d. [premier quart du X\u00ba s.]",
+    "title": "Formul\u00e9 de bref mortuaire \u00e0 l'usage de S. Germain d'Auxerre.",
+    "manuscripts": "A. Original perdu.\nB. Paris, B. N. F., lat. 11379, fol. 27 (endommag\u00e9; addition du X\u00ba s.).\na. E. de Rouern\u00e9e, Formules, 2\u00ba partie, p. 955, n\u00ba 406. \u2013 b. K. Zeumer, Formulae merovingicae et karolini aevi (M. G. H. Legis), p. 517, n\u00ba 10.",
+    "pdf_source": "1",
+    "pdf_pages": "20,21",
     "is_verified": 0
   },
-  "tituli": [],
-  "footnotes": [
+  "tituli": [
     {
-      "id": 35627,
+      "id": 53,
       "roll_id": 32,
-      "pdf_page": 36,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Sanctissimis patriis suburbis dilectione ven[erundis] <...> diligendis fratribus quorumque locorum Deo pio [famulitatibus] humilis contio ad beatissim\u00e9 Germani Antissiod[rensis], optatam in Deo et seculo pacem et prosperitatem <...> ordine simili et pari religione Christo militiae[tes] <...> sequam eum, ut is mutuis fovereant praesidis, et quod [unusquequ\u00adque] vult fratri impendere, non denegat, quatinus quod sing[ulij] per se obtinere non valent, multorum praecibus procellossi maris discrimina valde ad optimum caeli portium prospero tractu perve-\nneare quineamus. Tunc enim vere legis precepta implebumis, si, Deum cum amore et timore colentes, etiam proximis solita orationis impendere non neglexerimus.\nProinde de praedictam patrum more admonitis sanctissimam vestem per litteras adscim religiositatem, innotescentes obitum cujusdam fratris nostri et Deo, ut credimus, satis amabili, nomine [illo], V kalendas ill. seculo moriens, Christo vivere coepit <...> ejus animae absolutioni Domini Clementi exorare <...> ut, vestris sanctis precipibus adptus, si quid terrene <...> contraxit propitio Domini expietur.",
+      "pdf_page": 20,
       "pdf_half": "right",
-      "footnote_num": "2",
-      "text": "B ; corrigez abstracti"
+      "entities": [
+        {
+          "id": 196,
+          "titulus_id": 53,
+          "original_name": "Germani Antissiod[rensis]",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Germain d'Auxerre",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": "Auxerre"
+        }
+      ]
     },
     {
-      "id": 35628,
+      "id": 54,
       "roll_id": 32,
-      "pdf_page": 36,
-      "pdf_half": "right",
-      "footnote_num": "3",
-      "text": "30"
+      "title": "",
+      "location_name": "",
+      "latin_text": "eres. Idoneq <...> nume, ut meremur, unum tantum ac singulare <...> at per Christum, ut, dum vivimus, jam profuturae vitae <...> beate resurrectionis collegium pauperes <...> tolemur, praestantes inflatigabilier postulemus <...> [d\u00e9but X\u00ba",
+      "pdf_page": 21,
+      "pdf_half": "left",
+      "entities": []
     },
     {
-      "id": 35626,
+      "id": 55,
       "roll_id": 32,
-      "pdf_page": 36,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Sanctissimis patrism sincera delicteja velingrandis <...> diligendis fratribus quocumque locorum Deo pie [famlulantibus], humilis contio domni ac beatissimi Germani[n] Autissiodo[rensis]ensis, optatam in Deo et secula pacem et prosperatetim <...> ordine simili et prae religioce Christo militant[a] <...> acemum est, ut mutuo vocaret presidalis, et quae [insignificasque] vulc fratrI superndere, non denique, quibus quod sing[ul] be per obtere non valent, multorum precibus assequatur, ut sic imcevis dilectionis et precum suffragia conferentes, post hujus practi morsima delicina valida ad optimum casum protrum prospero tractu perve- nieare quamus. Tunc enim vere legis precepta implebus, si Deum cum amore et timore colentes, etiam proximis solatia orationis impendere non negligereus. Proinde de precedentium patrism more admonitis sanetissimam vestram per litteras adligiosistim, innoscentes obitum cuijusdam fratris nostri et Deo, ut credimus, satis amabili, nomine [ille], V kalendas ill. seculo mariena, Christo vivere coepit <...> ejus animae absolutionem Domini Clementium exorare <...> ut, vestris sanctis precibus adjutus, si quid terrene <.......> contractiv propitio Domini expietur.",
+      "pdf_page": 21,
       "pdf_half": "right",
-      "footnote_num": "44794479",
-      "text": "Piciu Hluldiiiiic 83C19, Perlege divinos corde tenace libros; In quis perpetuae quanquam sint dogmata vitac, Et mentem supera quamvis ad astra ve[h]ant, Quam sit amoena pie non pandunt gloria vite, A qua culpati pellimur heu miseri. Pervigil et quoniam non mansit vivere cura"
+      "entities": [
+        {
+          "id": 197,
+          "titulus_id": 55,
+          "original_name": "Germani[n] Autissiodo[rensis]ensis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Saint Germain d'Auxerre",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Auxerre"
+        }
+      ]
     }
-  ]
+  ],
+  "footnotes": []
 }

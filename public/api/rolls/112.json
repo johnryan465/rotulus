@@ -1,0 +1,383 @@
+{
+  "roll": {
+    "id": 112,
+    "roll_num": 109,
+    "date_str": "[1107, apr\u00e8s le 26 mars]",
+    "title": "Rouleau mortuaire (fragmentaire) de Guillaume [II de Rots], abb\u00e9 de F\u00e9camp (\u2020 26 mars 1107).",
+    "manuscripts": "",
+    "pdf_source": "3",
+    "pdf_pages": "7,8",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1092,
+      "roll_id": 112,
+      "title": "T. (a) Sancte Marie Aequistrensis cenobii.",
+      "location_name": "Gu\u00eetres",
+      "latin_text": "Anima Fulconis condescat Dindima celi.\nHic maneat semper cum sanctis fratribus. Amen.\nQuod petitis vestris placeat persolvere nostris.",
+      "pdf_page": 7,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3148,
+          "titulus_id": 1092,
+          "original_name": "Fulconi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Fulcon",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1093,
+      "roll_id": 112,
+      "title": "Signino (1) abbati, Stephano abbati, Fortoni abbati, Martino monacho, <......> monacho, Gaucelmo monacho, Lamberto monacho, Fortoni monacho, Petro monacho, ceterisque fratribus.",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 7,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 3149,
+          "titulus_id": 1093,
+          "original_name": "Stephano",
+          "original_title": "abbati",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Stephen",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3150,
+          "titulus_id": 1093,
+          "original_name": "Fortoni",
+          "original_title": "abbati",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Fortun",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3151,
+          "titulus_id": 1093,
+          "original_name": "Martino",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Martin",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3152,
+          "titulus_id": 1093,
+          "original_name": "Gaucelmo",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gaucelm",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3153,
+          "titulus_id": 1093,
+          "original_name": "Lamberto",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lambert",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3154,
+          "titulus_id": 1093,
+          "original_name": "Fortoni",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Fortun",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3155,
+          "titulus_id": 1093,
+          "original_name": "Petro",
+          "original_title": "monacho",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Peter",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1094,
+      "roll_id": 112,
+      "title": "TITULUS (b) SANCTI JOHANNIS EVANGELISTAE ET BEATORUM CONFESSORUM M[ARTINI] ET JOVINI ATQUE ABBATUM <.......>.",
+      "location_name": "Souin-de-Marnes",
+      "latin_text": "",
+      "pdf_page": 7,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1095,
+      "roll_id": 112,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Document perdu \u2071\u00b2, connu par la montre que font Orderic Vital \u2072\u2073 (de la pi\u00e8ce ins\u00e9r\u00e9e au Milleu de l'Adeleme). Guillaume II de Rots \u2073\u2074, d'abord chanoine, et archidiacre de Bayeux (1068/1069), se fit mo\u00eene \u00e0 S\u00e8ne de Caen, puis fut abb\u00e9 de F\u00e9camp vers 1078/1079. Son abbatial fut marqu\u00e9 \u2075 par la consolidation et l'accroissement du temporel :\n\u2014 1080, confirmation par Hubert, \u00e9v\u00eague de Th\u00e9rouanne, de la donation de l'\u00e9glise de S. Jean de Th\u00e9rouanne par son pr\u00e9s\u00e9diteur Drogon ;\n\u2014 1083, restitution par le duc de Normandie Robert Courte de terres confisqu\u00e9es par Guillaume le Conqu\u00e9rant \u2076;\n\u2014 1103, lors du voyage de l'\ngleterre en Angleterre, confirmation par Manass\u00e9s Arsic de sa cession d'une terre \u00e0 Coggs (Oxfordshire), accord avec Philippe de Braiosa au sujet de la terre de Stanning \u2077\u2078, r\u00e9gent du convent de l'\nabba\u00efe d'Evreux \u2079 (qui devient une d\u00e9pendance de F\u00e9camp).\n\u2014 1106, r\u00e9giment de l'\nabba\u00efe, en qu\u00e9te de l'\nofficier d'\na\u00fblemur \u207a, et reconstruisit l'\u00e9glise, en 15 apr\u00e8s M. Aubert \u207b\u2079, fut concesso le 15 juin 1099.\nTomb\u00e9 malade au retour de snydo de Lasi\u00e9ux, Guillaume mourut le 26 mars 1107 \u207a\u207b\u207c. Son ascetisme avait, son rayonnement \u207d\u207c, comme sa grande valeur, dont Orderic",
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 3156,
+          "titulus_id": 1095,
+          "original_name": "Orderic Vital",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Orderic Vitalis",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3157,
+          "titulus_id": 1095,
+          "original_name": "Guillaume II de Rots",
+          "original_title": "chanoine, archidiacre, mo\u00eene, abb\u00e9",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William II of Rouet",
+          "normalized_role": "abbot",
+          "normalized_dates": "died 1107",
+          "location_name": "F\u00e9camp"
+        },
+        {
+          "id": 3158,
+          "titulus_id": 1095,
+          "original_name": "Hubert",
+          "original_title": "\u00e9v\u00eague de Th\u00e9rouanne",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hubert",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": "Th\u00e9rouanne"
+        },
+        {
+          "id": 3159,
+          "titulus_id": 1095,
+          "original_name": "Drogon",
+          "original_title": "pr\u00e9s\u00e9diteur",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Drogon",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3160,
+          "titulus_id": 1095,
+          "original_name": "Robert Courte",
+          "original_title": "duc de Normandie",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert the Magnificent",
+          "normalized_role": "duke",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 3161,
+          "titulus_id": 1095,
+          "original_name": "Guillaume le Conqu\u00e9rant",
+          "original_title": "king/duke",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William the Conqueror",
+          "normalized_role": "king",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3162,
+          "titulus_id": 1095,
+          "original_name": "Manass\u00e9s Arsic",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Manasser Arsic",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3163,
+          "titulus_id": 1095,
+          "original_name": "Philippe de Braiosa",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Philip of Brienne",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 3164,
+          "titulus_id": 1095,
+          "original_name": "M. Aubert",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Aubert",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 1176,
+      "roll_id": 112,
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "footnote_num": "\u00b2",
+      "text": "(de la pi\u00e8ce ins\u00e9r\u00e9e au Milleu de l'Adeleme)."
+    },
+    {
+      "id": 1183,
+      "roll_id": 112,
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "footnote_num": "\u207a",
+      "text": "l'\nofficier d'\na\u00fblemur \u207a,"
+    },
+    {
+      "id": 1185,
+      "roll_id": 112,
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "footnote_num": "\u207b\u2079",
+      "text": "M. Aubert \u207b\u2079,"
+    },
+    {
+      "id": 1187,
+      "roll_id": 112,
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "footnote_num": "\u207a\u207b\u207c",
+      "text": "Guillaume mourut le 26 mars 1107 \u207a\u207b\u207c."
+    },
+    {
+      "id": 1188,
+      "roll_id": 112,
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "footnote_num": "\u207d\u207c",
+      "text": "Son ascetisme avait, son rayonnement \u207d\u207c"
+    },
+    {
+      "id": 1189,
+      "roll_id": 112,
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "footnote_num": "\u207d\u207c",
+      "text": "Son ascetisme avait, son rayonnement \u207d\u207c"
+    },
+    {
+      "id": 1175,
+      "roll_id": 112,
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Document perdu \u2071\u00b2"
+    },
+    {
+      "id": 1177,
+      "roll_id": 112,
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "Guillaume II de Rots \u2073\u2074,"
+    },
+    {
+      "id": 1178,
+      "roll_id": 112,
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": "Rots \u2073\u2074,"
+    },
+    {
+      "id": 1179,
+      "roll_id": 112,
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": "Son abbatial fut marqu\u00e9 \u2075"
+    },
+    {
+      "id": 1180,
+      "roll_id": 112,
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "footnote_num": "6",
+      "text": "par Guillaume le Conqu\u00e9rant \u2076;"
+    },
+    {
+      "id": 1181,
+      "roll_id": 112,
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "footnote_num": "7",
+      "text": "Stanning \u2077\u2078,"
+    },
+    {
+      "id": 1182,
+      "roll_id": 112,
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "footnote_num": "8",
+      "text": "d'\na\u00efe d'Evreux \u2079 (qui devient une d\u00e9pendance de F\u00e9camp).\n\u2014 1106, r\u00e9giment de l'\nabba\u00efe, en qu\u00eate de l'\nofficier d'\na\u00fblemur \u207a,"
+    },
+    {
+      "id": 1184,
+      "roll_id": 112,
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "footnote_num": "9",
+      "text": "en 15 apr\u00e8s M. Aubert \u207b\u2079,"
+    },
+    {
+      "id": 1186,
+      "roll_id": 112,
+      "pdf_page": 8,
+      "pdf_half": "left",
+      "footnote_num": "10",
+      "text": "Tomb\u00e9 malade au retour de snydo de Lasi\u00e9ux, Guillaume mourut le 26 mars 1107 \u207a\u207b\u207c."
+    }
+  ]
+}

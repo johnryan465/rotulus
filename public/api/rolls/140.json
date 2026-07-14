@@ -1,0 +1,287 @@
+{
+  "roll": {
+    "id": 140,
+    "roll_num": 137,
+    "date_str": "S. d. [milieu XII^e s.]",
+    "title": "Rouleau mortuaire (fragmentaire) d'un abb\u00e9 Gautier.",
+    "manuscripts": "A. Bern, Burghirbl., ms. 236 A. Parchemin (assez \u00e9pais ; c. blanch\u00e2tre ; c. p. jaun\u00e2tre, tr\u00e8s pigment\u00e9). Deux fragments opisthographes, aujourd'hui r\u00e9unis, se faisant suite sans aucune solution de continuit\u00e9.\n\u2014 I (anc. fol. 183) : Longueur, 43 cm ; largeur, 27,27,5 cm ;\n\u2014 II (anc. fol. 1) : Longueur, 21 cm ; largeur, 27/27,5 cm .\na. L. Kern, Rouleaux des morts, p. 140-142, d'apr\u00e8s A.",
+    "pdf_source": "4",
+    "pdf_pages": "59,60",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1747,
+      "roll_id": 140,
+      "title": "1 S.d.- Angers, S. Nicolas.",
+      "location_name": "Angers, S. Nicolas",
+      "latin_text": "[Titulus Sancti Nicolai Andegavus. Absolvat Dominus animam domini Gauterii abbatis et animas o. f. d. ab omni vinculo delictorum et pravitat ad vitam eternam. Oramus p. v., orate p. n.",
+      "pdf_page": 59,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7239,
+          "titulus_id": 1747,
+          "original_name": "Gauterii",
+          "original_title": "domini ... abbatis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gauthier",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1748,
+      "roll_id": 140,
+      "title": "2 S.d.-[Angers,] N.-D.-de-la-Charit\u00e9.",
+      "location_name": "[Angers,] N.-D.-de-la-Charit\u00e9",
+      "latin_text": "T. Sancte Marie Caritatis, Anima donni Gouterii (a) abbatis et a o. f. D., Domine, r. i. p. Amen. Oravimus p. v., orate p. n., pro Domitilla, pro Advenia.",
+      "pdf_page": 60,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7240,
+          "titulus_id": 1748,
+          "original_name": "Gouterii",
+          "original_title": "abbati",
+          "footnote_num": "a",
+          "footnote_text": "Le second i de ce mot est ajout\u00e9 en interligne.",
+          "normalized_name": "Gauthier",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7241,
+          "titulus_id": 1748,
+          "original_name": "Domitilla",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Domitilla",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7242,
+          "titulus_id": 1748,
+          "original_name": "Advenia",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Advenia",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1749,
+      "roll_id": 140,
+      "title": "3 S.d.- Angers, S. Martin.",
+      "location_name": "Angers, S. Martin",
+      "latin_text": "[5] T. SANCTI MARTINI ANDEGUAVIS (sic). ANIMA DOMNI GUALTERII ABBATIS ET ANIMAE o. F. DEI D., PER M. D., IN CHRISTI NOMINE SINE FINE R. I. P. AMEN. ORAVIMUS P. V., ORATE P. N.",
+      "pdf_page": 60,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7243,
+          "titulus_id": 1749,
+          "original_name": "GUALTERII",
+          "original_title": "ABBATIS",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gauthier",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1750,
+      "roll_id": 140,
+      "title": "4 S.d.- Angers, S. Jean-Baptiste, S. L\u00e9zin.",
+      "location_name": "Angers, S. Jean-Baptiste, S. L\u00e9zin",
+      "latin_text": "T. SANCTI JOHANNIS BAPTISTE et sanctis(sic) Licinii, episcopi Andeacavis [10] (sic). Anima donni Galterii abbatis et a o. f. d., per <.......>.",
+      "pdf_page": 60,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7244,
+          "titulus_id": 1750,
+          "original_name": "Licinii",
+          "original_title": "episcopi Andeacavis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Licinius",
+          "normalized_role": "bishop of Angers",
+          "normalized_dates": "",
+          "location_name": "Angers"
+        },
+        {
+          "id": 7245,
+          "titulus_id": 1750,
+          "original_name": "Galterii",
+          "original_title": "abbati",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gauthier",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1751,
+      "roll_id": 140,
+      "title": "[Iv, c. p.] 5 S.d.- Localit\u00e9 et \u00e9glise ind\u00e9termin\u00e9es.",
+      "location_name": "",
+      "latin_text": "<.......> p. v., orate p. n. (b).",
+      "pdf_page": 60,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1752,
+      "roll_id": 140,
+      "title": "6 S.d.- Boulogne[-sur-Mer], N.-D.",
+      "location_name": "Boulogne[-sur-Mer], N.-D.",
+      "latin_text": "T. Sancte Marie Bolonie. Anima domni Galteri abbatis et a o. f. d. r. i. p. Amen 15 Oravimus p. v., orate p. n.",
+      "pdf_page": 60,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7246,
+          "titulus_id": 1752,
+          "original_name": "Galteri",
+          "original_title": "abbati",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gauthier",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1753,
+      "roll_id": 140,
+      "title": "[Iv, c. p.] 7 S.d.- Boulogne[-sur-Mer], S. Vulmer.",
+      "location_name": "Boulogne[-sur-Mer], S. Vulmer",
+      "latin_text": "T. Sancti Vulmeri de Bolonia. Anima domini Galteri et a. o. f. d. r. i. p. Amen. Oravimus p. v., orate p. n.",
+      "pdf_page": 60,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7247,
+          "titulus_id": 1753,
+          "original_name": "Galteri",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gauthier",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1754,
+      "roll_id": 140,
+      "title": "8 S.d.- Beaulieu, N.-D.",
+      "location_name": "Beaulieu, N.-D.",
+      "latin_text": "[20] [Titulus (c) Sancte] Marie de Bello Loco. Anima domni Galteri abbatis et a o. f. d. r. i. p. A[men].",
+      "pdf_page": 60,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7248,
+          "titulus_id": 1754,
+          "original_name": "Galteri",
+          "original_title": "abbati",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gauthier",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 2129,
+      "roll_id": 140,
+      "pdf_page": 59,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "\u00ab L'\u00e9tude du grec \u00e0 Orleans, depuis le IX\u00ba jusqu'\u00e0 milieau du XVIII\u00ba s.\u00bb, dans M\u00e9moires de la Soci\u00e9t\u00e9 arch\u00e9ologique et historique de l'Orl\u00e9anais, t. XIX, 1883, p. 677."
+    },
+    {
+      "id": 2130,
+      "roll_id": 140,
+      "pdf_page": 59,
+      "pdf_half": "right",
+      "footnote_num": "(2)",
+      "text": "Paul en Alexandre Petau en des Geschie-denis van hun handschriften, Leiden, p. 92."
+    },
+    {
+      "id": 2131,
+      "roll_id": 140,
+      "pdf_page": 59,
+      "pdf_half": "right",
+      "footnote_num": "(3)",
+      "text": "Op. cit., p. 139, n. 1."
+    },
+    {
+      "id": 2132,
+      "roll_id": 140,
+      "pdf_page": 59,
+      "pdf_half": "right",
+      "footnote_num": "(4)",
+      "text": "A ce sujet, cf. notamment A. Vidal, L'historiographie \u00e0 Saint-Benoit-sur-Loire les miracles de saint Beno\u00edt, Paris, 1965, p. 32."
+    },
+    {
+      "id": 2133,
+      "roll_id": 140,
+      "pdf_page": 59,
+      "pdf_half": "right",
+      "footnote_num": "(5)",
+      "text": "Op. cit., p. 143."
+    },
+    {
+      "id": 2134,
+      "roll_id": 140,
+      "pdf_page": 60,
+      "pdf_half": "left",
+      "footnote_num": "a",
+      "text": "Le second i de ce mot est ajout\u00e9 en interligne."
+    },
+    {
+      "id": 2135,
+      "roll_id": 140,
+      "pdf_page": 60,
+      "pdf_half": "left",
+      "footnote_num": "b",
+      "text": "Seule la partie inf\u00e9rieure de quelques lettres se distingue."
+    },
+    {
+      "id": 2136,
+      "roll_id": 140,
+      "pdf_page": 60,
+      "pdf_half": "left",
+      "footnote_num": "c",
+      "text": "\u201cL'\u0395criture de ce titre, appos\u00e9 sur le c. p. du rouleau, \u00e9tait encore fraiche lors d'Angers (a ce sujet, cf. o. p. 141).\u201d"
+    }
+  ]
+}

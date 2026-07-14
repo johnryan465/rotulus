@@ -1,0 +1,1989 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Abbesses",
+    "coords": [
+      48.884444444444,
+      2.3386111111111
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Origin: Rouleau mortuaire de Mathilde, abbesse de la Trini..."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "England",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Matilda (Queen of the English)"
+  },
+  {
+    "step": 2,
+    "type": "stop",
+    "name": "Cadom",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Cadom"
+  },
+  {
+    "step": 3,
+    "type": "stop",
+    "name": "S. Gabriel",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Gabriel"
+  },
+  {
+    "step": 4,
+    "type": "stop",
+    "name": "D\u00e9ols",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: D\u00e9ols"
+  },
+  {
+    "step": 5,
+    "type": "stop",
+    "name": "Bajocensis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bajocensis"
+  },
+  {
+    "step": 6,
+    "type": "stop",
+    "name": "Fontenetensis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Fontenetensis"
+  },
+  {
+    "step": 7,
+    "type": "stop",
+    "name": "Wintoniensis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Edburga (virgin/saint)"
+  },
+  {
+    "step": 8,
+    "type": "stop",
+    "name": "Whervell, Holy Cross, S. Peter.",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Whervell, Holy Cross, S. Peter."
+  },
+  {
+    "step": 9,
+    "type": "stop",
+    "name": "Amesbury",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Amesbury"
+  },
+  {
+    "step": 10,
+    "type": "stop",
+    "name": "Salisbury",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Salisbury"
+  },
+  {
+    "step": 11,
+    "type": "stop",
+    "name": "[Lewes]",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: [Lewes]"
+  },
+  {
+    "step": 12,
+    "type": "stop",
+    "name": "Wilton",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Wilton"
+  },
+  {
+    "step": 13,
+    "type": "stop",
+    "name": "Shaftesbury",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Eulalia (abbess)"
+  },
+  {
+    "step": 14,
+    "type": "stop",
+    "name": "Milton",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Milton"
+  },
+  {
+    "step": 15,
+    "type": "stop",
+    "name": "Exeter, cathedral (S. Mary, S. Peter)",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Exeter, cathedral (S. Mary, S. Peter)"
+  },
+  {
+    "step": 16,
+    "type": "stop",
+    "name": "Burton [upon Trent] (Modwenstow), S. Mary",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Burton [upon Trent] (Modwenstow), S. Mary"
+  },
+  {
+    "step": 17,
+    "type": "stop",
+    "name": "Nottingham",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Holy Trinity Priory of Nottingham (monastery)"
+  },
+  {
+    "step": 18,
+    "type": "stop",
+    "name": "Exeter, S. Nicholas",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Exeter, S. Nicholas"
+  },
+  {
+    "step": 19,
+    "type": "stop",
+    "name": "Montacute, S. Peter",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Montacute, S. Peter"
+  },
+  {
+    "step": 20,
+    "type": "stop",
+    "name": "Malmesbury",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Malmesbury"
+  },
+  {
+    "step": 21,
+    "type": "stop",
+    "name": "Muchelney",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Muchelney"
+  },
+  {
+    "step": 22,
+    "type": "stop",
+    "name": "Glastonbury, England",
+    "coords": [
+      51.1473,
+      -2.7186
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Titulus Header: Glastonbury"
+  },
+  {
+    "step": 23,
+    "type": "stop",
+    "name": "Bath",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bath"
+  },
+  {
+    "step": 24,
+    "type": "stop",
+    "name": "Winchcombe",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Winchcombe"
+  },
+  {
+    "step": 25,
+    "type": "stop",
+    "name": "Evesham",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Evesham"
+  },
+  {
+    "step": 26,
+    "type": "stop",
+    "name": "York, Holy Trinity",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: York, Holy Trinity"
+  },
+  {
+    "step": 27,
+    "type": "stop",
+    "name": "Norwich, cathedral (Holy Trinity)",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Norwich, cathedral (Holy Trinity)"
+  },
+  {
+    "step": 28,
+    "type": "stop",
+    "name": "Eboracum (York)",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Eboracum (York)"
+  },
+  {
+    "step": 29,
+    "type": "stop",
+    "name": "York, cathedral (S. Peter)",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: York, cathedral (S. Peter)"
+  },
+  {
+    "step": 30,
+    "type": "stop",
+    "name": "Saxford",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Canon of Saxford (canon)"
+  },
+  {
+    "step": 31,
+    "type": "stop",
+    "name": "Crowland, S. Bartholomew, S. Guthlac",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Crowland, S. Bartholomew, S. Guthlac"
+  },
+  {
+    "step": 32,
+    "type": "stop",
+    "name": "Holmensis ecclesia",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Holmensis ecclesia"
+  },
+  {
+    "step": 33,
+    "type": "stop",
+    "name": "Ramesiae",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ramesiae"
+  },
+  {
+    "step": 34,
+    "type": "stop",
+    "name": "Huntingdon",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Ingelram (canon)"
+  },
+  {
+    "step": 35,
+    "type": "stop",
+    "name": "St Albans",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Alban (martyr)"
+  },
+  {
+    "step": 36,
+    "type": "stop",
+    "name": "Bermondsey",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bermondsey"
+  },
+  {
+    "step": 37,
+    "type": "stop",
+    "name": "Southwark",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Southwark"
+  },
+  {
+    "step": 38,
+    "type": "stop",
+    "name": "Rochester, England",
+    "coords": [
+      51.39,
+      0.505
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Titulus Header: Rochester"
+  },
+  {
+    "step": 39,
+    "type": "stop",
+    "name": "Malling",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Malling"
+  },
+  {
+    "step": 40,
+    "type": "stop",
+    "name": "Canterbury",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Canterbury"
+  },
+  {
+    "step": 41,
+    "type": "stop",
+    "name": "Battle",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Battle"
+  },
+  {
+    "step": 42,
+    "type": "stop",
+    "name": "Troarn",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Troarn"
+  },
+  {
+    "step": 43,
+    "type": "stop",
+    "name": "Lisieux",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Hugo (bishop)"
+  },
+  {
+    "step": 44,
+    "type": "stop",
+    "name": "Angers, S. Trinit\u00e9-[de l'\u00c9vi\u00e8re]",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Angers, S. Trinit\u00e9-[de l'\u00c9vi\u00e8re]"
+  },
+  {
+    "step": 45,
+    "type": "stop",
+    "name": "Cormeilles, N.-D.",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Cormeilles, N.-D."
+  },
+  {
+    "step": 46,
+    "type": "stop",
+    "name": "Sancti Luciani",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Henricus (monk)"
+  },
+  {
+    "step": 47,
+    "type": "stop",
+    "name": "S. L\u00e9ger",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. L\u00e9ger"
+  },
+  {
+    "step": 48,
+    "type": "stop",
+    "name": "Sanctae Mariae Belvacensis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Odilia (abbess)"
+  },
+  {
+    "step": 49,
+    "type": "stop",
+    "name": "Caudiodunum",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Caudiodunum ()"
+  },
+  {
+    "step": 50,
+    "type": "stop",
+    "name": "Bec-Hellouin",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bec-Hellouin"
+  },
+  {
+    "step": 51,
+    "type": "stop",
+    "name": "La Croix-S. Leufroy",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: La Croix-S. Leufroy"
+  },
+  {
+    "step": 52,
+    "type": "stop",
+    "name": "Jumi\u00e8ges Abbey, France",
+    "coords": [
+      49.4326,
+      0.8211
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Titulus Header: Jumi\u00e8ges"
+  },
+  {
+    "step": 53,
+    "type": "stop",
+    "name": "Fontenelle",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Wandregisle (abbot of Fontenelle)"
+  },
+  {
+    "step": 54,
+    "type": "stop",
+    "name": "Rotenio",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "William (priest)"
+  },
+  {
+    "step": 55,
+    "type": "stop",
+    "name": "Vilarensis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Vilarensis"
+  },
+  {
+    "step": 56,
+    "type": "stop",
+    "name": "Longueville",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Longueville"
+  },
+  {
+    "step": 57,
+    "type": "stop",
+    "name": "Saint-Victor de l'Abbaye",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Saint-Victor de l'Abbaye"
+  },
+  {
+    "step": 58,
+    "type": "stop",
+    "name": "Rotomagensis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Saint Mary ()"
+  },
+  {
+    "step": 59,
+    "type": "stop",
+    "name": "Ebroicensis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ebroicensis"
+  },
+  {
+    "step": 60,
+    "type": "stop",
+    "name": "\u00c9vreux, cath\u00e9drale",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: \u00c9vreux, cath\u00e9drale"
+  },
+  {
+    "step": 61,
+    "type": "stop",
+    "name": "Conches[-en-Ouche]",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Conches[-en-Ouche]"
+  },
+  {
+    "step": 62,
+    "type": "stop",
+    "name": "Brittany",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Guillaume de Bretagne ()"
+  },
+  {
+    "step": 63,
+    "type": "stop",
+    "name": "Utica",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Ebrulf (confessor)"
+  },
+  {
+    "step": 64,
+    "type": "stop",
+    "name": "Pierre-sur-Dives",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Pierre-sur-Dives"
+  },
+  {
+    "step": 65,
+    "type": "stop",
+    "name": "Cerisy[la-For\u00e9t]",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Cerisy[la-For\u00e9t]"
+  },
+  {
+    "step": 66,
+    "type": "stop",
+    "name": "S. Sever[-Calvados]",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Sever[-Calvados]"
+  },
+  {
+    "step": 67,
+    "type": "stop",
+    "name": "Magne Villa",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Gisbert ()"
+  },
+  {
+    "step": 68,
+    "type": "stop",
+    "name": "B\u00e9n\u00e9v\u00e9nt[l\u2019Abbaye]",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: B\u00e9n\u00e9v\u00e9nt[l\u2019Abbaye]"
+  },
+  {
+    "step": 69,
+    "type": "stop",
+    "name": "Coutances, cath\u00e9drale (N.-D.)",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Coutances, cath\u00e9drale (N.-D.)"
+  },
+  {
+    "step": 70,
+    "type": "stop",
+    "name": "Abricensis ecclesiae Sancti Andree",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Abricensis ecclesiae Sancti Andree"
+  },
+  {
+    "step": 71,
+    "type": "stop",
+    "name": "Le Mont-S. Michel",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Le Mont-S. Michel"
+  },
+  {
+    "step": 72,
+    "type": "stop",
+    "name": "Rennes",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Sancti Melanii ()"
+  },
+  {
+    "step": 73,
+    "type": "stop",
+    "name": "Rennes, S. Georges",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Rennes, S. Georges"
+  },
+  {
+    "step": 74,
+    "type": "stop",
+    "name": "Redon Abbey, France",
+    "coords": [
+      47.6534,
+      -2.085
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Titulus Header: Redon"
+  },
+  {
+    "step": 75,
+    "type": "stop",
+    "name": "Penpont",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Penpont"
+  },
+  {
+    "step": 76,
+    "type": "stop",
+    "name": "Nantes ?",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Nantes ?"
+  },
+  {
+    "step": 77,
+    "type": "stop",
+    "name": "Cormary",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Paul (Apostle)"
+  },
+  {
+    "step": 78,
+    "type": "stop",
+    "name": "S. Florenti Glienson.",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Florenti Glienson."
+  },
+  {
+    "step": 79,
+    "type": "stop",
+    "name": "Angers, France",
+    "coords": [
+      47.4736,
+      -0.5542
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Saint Maurice (saint)"
+  },
+  {
+    "step": 80,
+    "type": "stop",
+    "name": "Angers, S. Nicolas",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Angers, S. Nicolas"
+  },
+  {
+    "step": 81,
+    "type": "stop",
+    "name": "Poitiers, S. Croix",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Poitiers, S. Croix"
+  },
+  {
+    "step": 82,
+    "type": "stop",
+    "name": "S. Thierry",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Thierry"
+  },
+  {
+    "step": 83,
+    "type": "stop",
+    "name": "Andegavia",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Albin (bishop of Angers)"
+  },
+  {
+    "step": 84,
+    "type": "stop",
+    "name": "Cunault, N.-D.",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Cunault, N.-D."
+  },
+  {
+    "step": 85,
+    "type": "stop",
+    "name": "S. Florent-l\u00e8s-Saumur",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Florent-l\u00e8s-Saumur"
+  },
+  {
+    "step": 86,
+    "type": "stop",
+    "name": "Bourgueil, S. Pierre",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bourgueil, S. Pierre"
+  },
+  {
+    "step": 87,
+    "type": "stop",
+    "name": "Tours, France",
+    "coords": [
+      47.3833,
+      0.6833
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Titulus Header: Turonensis"
+  },
+  {
+    "step": 88,
+    "type": "stop",
+    "name": "Nucariensis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Nucariensis"
+  },
+  {
+    "step": 89,
+    "type": "stop",
+    "name": "Pictavis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Pictavis"
+  },
+  {
+    "step": 90,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Radegund (queen)"
+  },
+  {
+    "step": 91,
+    "type": "stop",
+    "name": "Tescelini",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Tescelini"
+  },
+  {
+    "step": 92,
+    "type": "stop",
+    "name": "Novi Monasterii Pictavis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "John the Evangelist (saint)"
+  },
+  {
+    "step": 93,
+    "type": "stop",
+    "name": "Aquitanorum",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Gaufred (lord/duke of Aquitaine)"
+  },
+  {
+    "step": 94,
+    "type": "stop",
+    "name": "Poitou",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Ad\u00e8le of Normandy (countess/abbess)"
+  },
+  {
+    "step": 95,
+    "type": "stop",
+    "name": "Poitiers, France",
+    "coords": [
+      46.5802,
+      0.3404
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Titulus Header: Poitiers"
+  },
+  {
+    "step": 96,
+    "type": "stop",
+    "name": "Quincay",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Benedict (saint)"
+  },
+  {
+    "step": 97,
+    "type": "stop",
+    "name": "Quincy",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Bishop of Quincy (bishop)"
+  },
+  {
+    "step": 98,
+    "type": "stop",
+    "name": "Nubiliacensis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Junian (saint)"
+  },
+  {
+    "step": 99,
+    "type": "stop",
+    "name": "S. Maixent",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Maixent"
+  },
+  {
+    "step": 100,
+    "type": "stop",
+    "name": "Niolo (Niell sur l'Autise)",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Niolo (Niell sur l'Autise)"
+  },
+  {
+    "step": 101,
+    "type": "stop",
+    "name": "Maillezas",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Maillezas"
+  },
+  {
+    "step": 102,
+    "type": "stop",
+    "name": "V\u00e9zelay, S. Marie-Madeleine",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: V\u00e9zelay, S. Marie-Madeleine"
+  },
+  {
+    "step": 103,
+    "type": "stop",
+    "name": "Auxerre, S. Germain",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Auxerre, S. Germain"
+  },
+  {
+    "step": 104,
+    "type": "stop",
+    "name": "[Paris,] S. Pierre, S. Paul, S. Genevi\u00e8ve",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: [Paris,] S. Pierre, S. Paul, S. Genevi\u00e8ve"
+  },
+  {
+    "step": 105,
+    "type": "stop",
+    "name": "Lucionensis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Marie ()"
+  },
+  {
+    "step": 106,
+    "type": "stop",
+    "name": "Quadomo",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Mathilde (abbess)"
+  },
+  {
+    "step": 107,
+    "type": "stop",
+    "name": "S. Michel-en-l'Herm.",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Michel-en-l'Herm."
+  },
+  {
+    "step": 108,
+    "type": "stop",
+    "name": "S. Sancti Juliani de Prato.",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Sancti Juliani de Prato."
+  },
+  {
+    "step": 109,
+    "type": "stop",
+    "name": "Saintes, S. Eutrope",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Saintes, S. Eutrope"
+  },
+  {
+    "step": 110,
+    "type": "stop",
+    "name": "Sanctonensis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Vivianus (saint)"
+  },
+  {
+    "step": 111,
+    "type": "stop",
+    "name": "Saintes, N.-D.",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Saintes, N.-D."
+  },
+  {
+    "step": 112,
+    "type": "stop",
+    "name": "Saintes",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Sibylla (abbess)"
+  },
+  {
+    "step": 113,
+    "type": "stop",
+    "name": "Cognac, S. L\u00e9ger",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Cognac, S. L\u00e9ger"
+  },
+  {
+    "step": 114,
+    "type": "stop",
+    "name": "Angoul\u00eame",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Angoul\u00eame"
+  },
+  {
+    "step": 115,
+    "type": "stop",
+    "name": "Millebecq",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Millebecq"
+  },
+  {
+    "step": 116,
+    "type": "stop",
+    "name": "Bouteville",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Bouteville"
+  },
+  {
+    "step": 117,
+    "type": "stop",
+    "name": "Bonneval",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Robert (abbot)"
+  },
+  {
+    "step": 118,
+    "type": "stop",
+    "name": "Sens; S. Colombe; S. Loup",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Sens; S. Colombe; S. Loup"
+  },
+  {
+    "step": 119,
+    "type": "stop",
+    "name": "Sancti Petri Insulae germanicae",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Sancti Petri Insulae germanicae"
+  },
+  {
+    "step": 120,
+    "type": "stop",
+    "name": "Gandersheim",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Gandensia ()"
+  },
+  {
+    "step": 121,
+    "type": "stop",
+    "name": "Soissons",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Crispin (saint/martyr)"
+  },
+  {
+    "step": 122,
+    "type": "stop",
+    "name": "Coincy",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Peter (apostle)"
+  },
+  {
+    "step": 123,
+    "type": "stop",
+    "name": "Columbensis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Columbensis"
+  },
+  {
+    "step": 124,
+    "type": "stop",
+    "name": "Comote",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "William (monk of Comote)"
+  },
+  {
+    "step": 125,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Saint Germain ()"
+  },
+  {
+    "step": 126,
+    "type": "stop",
+    "name": "\u00c9pernon, S. Thomas",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: \u00c9pernon, S. Thomas"
+  },
+  {
+    "step": 127,
+    "type": "stop",
+    "name": "Chartres, S. P\u00e8re[en-Vall\u00e9e]",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Chartres, S. P\u00e8re[en-Vall\u00e9e]"
+  },
+  {
+    "step": 128,
+    "type": "stop",
+    "name": "Paris, S. Magloire",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Paris, S. Magloire"
+  },
+  {
+    "step": 129,
+    "type": "stop",
+    "name": "Rebais Abbey, France",
+    "coords": [
+      48.8471,
+      3.2323
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Saint Peter of Resbacensis ()"
+  },
+  {
+    "step": 130,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Mary ()"
+  },
+  {
+    "step": 131,
+    "type": "stop",
+    "name": "Ch\u00e9zy[sur-Marne]",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ch\u00e9zy[sur-Marne]"
+  },
+  {
+    "step": 132,
+    "type": "stop",
+    "name": "Ess\u00f4mes[sur-Marne]",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ess\u00f4mes[sur-Marne]"
+  },
+  {
+    "step": 133,
+    "type": "stop",
+    "name": "Soissons",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Soissons"
+  },
+  {
+    "step": 134,
+    "type": "stop",
+    "name": "S. Nicolas-aux-Bois.",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Nicolas-aux-Bois."
+  },
+  {
+    "step": 135,
+    "type": "stop",
+    "name": "Abbey of Hautvillers, France",
+    "coords": [
+      49.0817,
+      3.9383
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Titulus Header: Hautvillers"
+  },
+  {
+    "step": 136,
+    "type": "stop",
+    "name": "Avenay",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Avenay"
+  },
+  {
+    "step": 137,
+    "type": "stop",
+    "name": "Soissons, S. Jean[des-Vignes]",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Soissons, S. Jean[des-Vignes]"
+  },
+  {
+    "step": 138,
+    "type": "stop",
+    "name": "Ariopagae",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Denis (saint)"
+  },
+  {
+    "step": 139,
+    "type": "stop",
+    "name": "Argenteuil",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Argenteuil"
+  },
+  {
+    "step": 140,
+    "type": "stop",
+    "name": "Neauphle-le-Vieux",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Neauphle-le-Vieux"
+  },
+  {
+    "step": 141,
+    "type": "stop",
+    "name": "[Chelles]",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: [Chelles]"
+  },
+  {
+    "step": 142,
+    "type": "stop",
+    "name": "Lagny",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Saint Pierre de Lagny ()"
+  },
+  {
+    "step": 143,
+    "type": "stop",
+    "name": "Meaux, France",
+    "coords": [
+      48.95,
+      2.9
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Titulus Header: Meaux"
+  },
+  {
+    "step": 144,
+    "type": "stop",
+    "name": "Reims, France",
+    "coords": [
+      49.25,
+      4.0333
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Denis (saint)"
+  },
+  {
+    "step": 145,
+    "type": "stop",
+    "name": "S. Basle",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Basle"
+  },
+  {
+    "step": 146,
+    "type": "stop",
+    "name": "Almenescarum",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Almenescarum"
+  },
+  {
+    "step": 147,
+    "type": "stop",
+    "name": "Medis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Medis"
+  },
+  {
+    "step": 148,
+    "type": "stop",
+    "name": "Jotensis (Jotes)",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Jotensis (Jotes)"
+  },
+  {
+    "step": 149,
+    "type": "stop",
+    "name": "Reims, S. Trinit\u00e9",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Reims, S. Trinit\u00e9"
+  },
+  {
+    "step": 150,
+    "type": "stop",
+    "name": "[Reims,] S. Symphorien",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: [Reims,] S. Symphorien"
+  },
+  {
+    "step": 151,
+    "type": "stop",
+    "name": "Cathalaunensis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Memme (bishop)"
+  },
+  {
+    "step": 152,
+    "type": "stop",
+    "name": "Ch\u00e2lons-en-Champagne/Toussaints",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Ch\u00e2lons-en-Champagne/Toussaints"
+  },
+  {
+    "step": 153,
+    "type": "stop",
+    "name": "Cathalaunensis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "\u00c9tienne (saint)"
+  },
+  {
+    "step": 154,
+    "type": "stop",
+    "name": "Villarc\u00e9f, S. S\u00e9pulcre",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Villarc\u00e9f, S. S\u00e9pulcre"
+  },
+  {
+    "step": 155,
+    "type": "stop",
+    "name": "Troyes, N.-D.-aux-Nonnains",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Troyes, N.-D.-aux-Nonnains"
+  },
+  {
+    "step": 156,
+    "type": "stop",
+    "name": "Sens, S. Jean-Baptiste",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Sens, S. Jean-Baptiste"
+  },
+  {
+    "step": 157,
+    "type": "stop",
+    "name": "S. Pierre-le-Vif",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: S. Pierre-le-Vif"
+  },
+  {
+    "step": 158,
+    "type": "stop",
+    "name": "Troyes, S. Martin (\u00e8s-Aires)",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Troyes, S. Martin (\u00e8s-Aires)"
+  },
+  {
+    "step": 159,
+    "type": "stop",
+    "name": "Troyes, France",
+    "coords": [
+      48.3,
+      4.0833
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Saint Loup ()"
+  },
+  {
+    "step": 160,
+    "type": "stop",
+    "name": "Sens, S. Remi.",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Sens, S. Remi."
+  },
+  {
+    "step": 161,
+    "type": "stop",
+    "name": "Nongenti",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Denis (saint)"
+  },
+  {
+    "step": 162,
+    "type": "stop",
+    "name": "Sens, France",
+    "coords": [
+      48.2,
+      3.2833
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Titulus Header: Sens"
+  },
+  {
+    "step": 163,
+    "type": "stop",
+    "name": "Auxerre, France",
+    "coords": [
+      47.8,
+      3.5667
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Julien (monks/saints)"
+  },
+  {
+    "step": 164,
+    "type": "stop",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": false,
+    "description": "Saint Martin (saint)"
+  },
+  {
+    "step": 165,
+    "type": "stop",
+    "name": "Cure",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Saint Martin (saint)"
+  },
+  {
+    "step": 166,
+    "type": "stop",
+    "name": "[Corbigny,] S. Pierre, S. Paul, S. L\u00e9onard",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: [Corbigny,] S. Pierre, S. Paul, S. L\u00e9onard"
+  },
+  {
+    "step": 167,
+    "type": "stop",
+    "name": "Massay",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Martin ()"
+  },
+  {
+    "step": 168,
+    "type": "stop",
+    "name": "Thenay",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "John the Baptist (evangelist)"
+  },
+  {
+    "step": 169,
+    "type": "stop",
+    "name": "Tanacensis",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Walter ()"
+  },
+  {
+    "step": 170,
+    "type": "stop",
+    "name": "Noblat",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Leonard (confessor)"
+  },
+  {
+    "step": 171,
+    "type": "stop",
+    "name": "Aureil",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Aureil ()"
+  },
+  {
+    "step": 172,
+    "type": "stop",
+    "name": "Limoges",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Limoges ()"
+  },
+  {
+    "step": 173,
+    "type": "stop",
+    "name": "Chichester",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Chichester ()"
+  },
+  {
+    "step": 174,
+    "type": "stop",
+    "name": "Barking",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Barking ()"
+  },
+  {
+    "step": 175,
+    "type": "stop",
+    "name": "St Neots",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: St Neots"
+  },
+  {
+    "step": 176,
+    "type": "stop",
+    "name": "Thorney",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Thorney ()"
+  },
+  {
+    "step": 177,
+    "type": "stop",
+    "name": "Peterborough",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Peterborough ()"
+  },
+  {
+    "step": 178,
+    "type": "stop",
+    "name": "Ely",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Ely ()"
+  },
+  {
+    "step": 179,
+    "type": "stop",
+    "name": "Acre",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Acre ()"
+  },
+  {
+    "step": 180,
+    "type": "stop",
+    "name": "Pontefract",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Pontefract ()"
+  },
+  {
+    "step": 181,
+    "type": "stop",
+    "name": "Worcester",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Worcester ()"
+  },
+  {
+    "step": 182,
+    "type": "stop",
+    "name": "Abbotsbury",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Abbotsbury ()"
+  },
+  {
+    "step": 183,
+    "type": "stop",
+    "name": "Cerne",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Saint Peter ()"
+  },
+  {
+    "step": 184,
+    "type": "stop",
+    "name": "Romsey",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Saint Mary ()"
+  },
+  {
+    "step": 185,
+    "type": "stop",
+    "name": "Gloucester",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Saint Peter ()"
+  },
+  {
+    "step": 186,
+    "type": "stop",
+    "name": "Limoges",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Saint Martial ()"
+  },
+  {
+    "step": 187,
+    "type": "stop",
+    "name": "Lesterps",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Titulus Header: Lesterps"
+  },
+  {
+    "step": 188,
+    "type": "stop",
+    "name": "Charroux",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Saint Savior ()"
+  },
+  {
+    "step": 189,
+    "type": "stop",
+    "name": "Bassac",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Saint Stephen (protomartyr)"
+  },
+  {
+    "step": 190,
+    "type": "stop",
+    "name": "Issoudun",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Mary ()"
+  },
+  {
+    "step": 191,
+    "type": "stop",
+    "name": "Vatan",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Saint Lawrence ()"
+  },
+  {
+    "step": 192,
+    "type": "stop",
+    "name": "Soissons",
+    "coords": null,
+    "year": 1113,
+    "date_str": "S. d. [1113, apr\u00e8s le 6 juillet - 1114]",
+    "is_approximate": true,
+    "description": "Mary (moniales)"
+  }
+]

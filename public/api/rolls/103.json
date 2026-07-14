@@ -1,0 +1,142 @@
+{
+  "roll": {
+    "id": 103,
+    "roll_num": 100,
+    "date_str": "S.d. [XI\u207f-XII\u207f s.]",
+    "title": "Pi\u00e8ce versifi\u00e9e, appos\u00e9e sans doute sur un rouleau mortuaire.",
+    "manuscripts": "A. Original perdu.\nB. Vaticano, Reg. lat. 711 A, fol. 93 (copie du XI\u207f-XII\u00b2s.).\na. L. Auvray, Documents parisiens, p. 33, n\u00ba 11, d'apr\u00e8s B.",
+    "pdf_source": "2",
+    "pdf_pages": "54",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 822,
+      "roll_id": 103,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Compatimur vobis tanti de funere fratris,\nSed non es fiendus, clorum sede locatus;\nPlasmate nam prino mortis datur ista vorago,\nQui jam delicis fulgens in origine mundi,\nUxori credens, vetitum fulgmen omittens,\nIncurrit mortem, pmi dulcedine sumptam,\nQua genus humanum sic corruit omne per evum.\nVivitur in terris, heu! magna clade doris:\nSed nos, quos ratio spem firmat habere Superno,\nPlanctum mittamus, Domino per fratre rogemus;\nEt vos pro nostris hoc que[umus] ut faciatis,\nFratrum Maglorii vobis hec concio sancti,\nEt reliqui, Dominus quorum scit nomina solus.",
+      "pdf_page": 54,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2634,
+          "titulus_id": 822,
+          "original_name": "Maglorii",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Maglorius",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 823,
+      "roll_id": 103,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Nam moriens vivit, si spiritus atra <.........>\nEt dignus dignum invenit exitium.\nNon fuit hic tardus Christo famulando Girardus,\nAscitus rectis fructibus ac opere.\nQuod petitestris, nostris concedite cuncis;\nNomina enim eorum qui continet astra polorum.\nBernardi, Rogardi, decanorum, Ademari, Rigardi, Laurentii et\nDortrandi et aliorum monachorum.",
+      "pdf_page": 54,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 2635,
+          "titulus_id": 823,
+          "original_name": "Girardus",
+          "original_title": "Christo famulus",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Girard",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2636,
+          "titulus_id": 823,
+          "original_name": "Bernardi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2637,
+          "titulus_id": 823,
+          "original_name": "Rogardi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Roger",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2638,
+          "titulus_id": 823,
+          "original_name": "Ademari",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Adelmar",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2639,
+          "titulus_id": 823,
+          "original_name": "Rigardi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Richard",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2640,
+          "titulus_id": 823,
+          "original_name": "Laurentii",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lawrence",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 2641,
+          "titulus_id": 823,
+          "original_name": "Dortrandi",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Dortrand",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 985,
+      "roll_id": 103,
+      "pdf_page": 54,
+      "pdf_half": "right",
+      "footnote_num": "(1)",
+      "text": "\u00c9d. supra, p. 224, n\u00ba 79."
+    }
+  ]
+}

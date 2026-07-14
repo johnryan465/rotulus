@@ -1,0 +1,28 @@
+[
+  {
+    "step": 0,
+    "type": "origin",
+    "name": "Paris, France",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "year": null,
+    "date_str": "S.d.[premi\u00e8re moiti\u00e9 du XI\u1d49 s.]",
+    "is_approximate": false,
+    "description": "Origin: Titres provenant d\u2019un rouleau mortuaire anonyme...."
+  },
+  {
+    "step": 1,
+    "type": "stop",
+    "name": "Fleury / Saint-Beno\u00eet-sur-Loire, France",
+    "coords": [
+      47.81,
+      2.305
+    ],
+    "year": null,
+    "date_str": "S.d.[premi\u00e8re moiti\u00e9 du XI\u1d49 s.]",
+    "is_approximate": false,
+    "description": "Titulus Header: Fleury"
+  }
+]

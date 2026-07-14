@@ -1,0 +1,50 @@
+{
+  "roll": {
+    "id": 12,
+    "roll_num": 13,
+    "date_str": "765-octobre 786",
+    "title": "Guthbert, abb\u00e9 [de Monkwearmouth et de Jarrow], en r\u00e9ponse \u00e0 la lettre de Lul, \u00e9v\u00eaque [de Mainz], indique, entre autres, qu'il fera c\u00e9l\u00e9brer au moins quatrevingt-dix messes pour les d\u00e9funts, dont le nom lui a \u00e9t\u00e9 communiqu\u00e9.",
+    "manuscripts": "A. Original perdu.\nB. Wien, \u00d6sterreichische Nationalbibl., lat. 751, fol. 60 (milieu du IXe s.).\na. M. Tangl, Bonifatius, p. 264, n\u00b0 127.",
+    "pdf_source": "1",
+    "pdf_pages": "8",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 18,
+      "roll_id": 12,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Sancto ac venerabili in Christo fratri Guthberto abbati Lullus, exiguus servus servorum Dei, perennem in Christo salutem ... Nomina quoque fratrum ac amicorum nostrorum de hac luce migrantium ut caritati commendantes, quae sunt ...",
+      "pdf_page": 8,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 92,
+          "titulus_id": 18,
+          "original_name": "Guthberto",
+          "original_title": "abbati",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Guthbert",
+          "normalized_role": "abbot",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 93,
+          "titulus_id": 18,
+          "original_name": "Lullus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lul",
+          "normalized_role": "bishop",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

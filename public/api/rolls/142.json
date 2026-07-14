@@ -1,0 +1,813 @@
+{
+  "roll": {
+    "id": 142,
+    "roll_num": 139,
+    "date_str": "[1154, apr\u00e8s le 4 septembre]",
+    "title": "Rouleau mortuaire (?) de Gilbert de La Porr\u00e9e, \u00e9v\u00eaque de Poitiers (\u2020 4 septembre 1154).",
+    "manuscripts": "",
+    "pdf_source": "4",
+    "pdf_pages": "62,63,64,65,66",
+    "is_verified": 0
+  },
+  "tituli": [
+    {
+      "id": 1761,
+      "roll_id": 142,
+      "title": "10",
+      "location_name": "",
+      "latin_text": "Deux textes, fort diff\u00e9rents dans la forme, l'on \u00e9tologe fun\u00e8bre de Gilbert de La Porr\u00e9e (1). L'un (I) est intitul\u00e9 au nom de Laurent, dont de Poitiers, qui devait succ\u00e9der \u00e0 Gilbert sur le si\u00e8ge \u00e9piscopal des Poitiers de 1159 \u00e0 1161. D'apr\u00e8s L. Delisle (Rouleaux des morts du IXe au XVe s., p. 363), il \u00ab a pu \u00eatre \u00e9crit en tde un r\u00f4leau [mortuaire] \u00bb. L'autre (II), fort long, aurait \u00e9t\u00e9 recueilli par le porte-rouleau, il on fait foi \u00e0 la mention qui l'introduit (\u00ab De commendationi magistri Gisliberti 15 Porr\u00e9e, excerpta de manu rolligeri \u00bb). Le style de la premier, la longueur exceptionnelle se rend compte dont il faut qu'il ait eu r\u00e9ellement appartenir \u00e0 un r\u00f4leau mortuaire.",
+      "pdf_page": 62,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7268,
+          "titulus_id": 1761,
+          "original_name": "Gilbert de La Porr\u00e9e",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gilbert de la Porr\u00e9e",
+          "normalized_role": "bishop",
+          "normalized_dates": "d. 1154",
+          "location_name": "Poitiers"
+        },
+        {
+          "id": 7269,
+          "titulus_id": 1761,
+          "original_name": "Laurent",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Laurent",
+          "normalized_role": "bishop of Poitiers",
+          "normalized_dates": "1159-1161",
+          "location_name": "Poitiers"
+        },
+        {
+          "id": 7270,
+          "titulus_id": 1761,
+          "original_name": "Gisliberti Porr\u00e9e",
+          "original_title": "magistri",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gilbert de la Porr\u00e9e",
+          "normalized_role": "master/bishop",
+          "normalized_dates": "",
+          "location_name": ""
+        }
+      ]
+    },
+    {
+      "id": 1762,
+      "roll_id": 142,
+      "title": "I",
+      "location_name": "",
+      "latin_text": "",
+      "pdf_page": 62,
+      "pdf_half": "right",
+      "entities": []
+    },
+    {
+      "id": 1763,
+      "roll_id": 142,
+      "title": "",
+      "location_name": "",
+      "latin_text": "Pictavensis conventus salutem et unanimem in Christo dilectionem. Grave jugum super filios hominum jugum mortis: dura enim amara conditio, necessitas moriendi. He in humanis corporis inevitabilis clades, hoc insanabile vulnus. hec plag\u00e6 medicina. \"Moritur doctus similiter et indoctus\" (1), dicit ss Ecclesiastes, \u00abet unus interitus hominum et jumentorum, et \u00e6que utrorumque conditio\u00bb (2). Ecce obit doctor magnus, magnus ecclesie pastor Gislebertus, gemma pontific, pastor et episcopus animarum nostrum! Ecce nunc facti sumus \u00abcit us oerrantes \u00bb (3), non habemus pastorem! Vere, mortalium omnium fragilis est et caduca natura et nisi Christi fides ad celum nos elevet et eternitatim nobis promittat unanimem vanum est omne quod vivimus. O mors, O Deus, quando \u00ab fiet sermo qui scriptus est ? Quando absorta erit mors in victoria ? \u00bb (4) Scimus quando : \u00ab cum mortale hoc duet induet immortalitatem et corruptibilitate induret incorruptionem. (5) Interim vero quit ? \u00ab Omnis caro fenum et omnis gloria ejus ut flos feni. Exsiccatus est fenum et cecidit flos \u00bb. \" Quomodo eccitit 15 doctor magnus ? \" Quomodo eccidit \u00ab arbor magna \u00bb (7), \u00ab cedrus alta de Libano \u00bb (8), \u00ab cypress in altitudinem se extollens \u00bb (9) ? Heu ! Heu ! Sapiens illi migravit a scelo qui adamaverat sapientiam tanquam sopiam, qui \u00ab dicebat sapientie : ' Soror mea es, et prudentiam vocabat amicam suam ' \u00bb (10). \u00ab Lugete, fratres ! Plorate, pontifices ! \u00bb (11) . \u00ab Ululate, pastores \u00bb (12) . \u00ab Plange et plora, clama et olula, tu misera et desolata ecclesia Pictavensis, quoniam gloria tua translatta est. \" Motum est cabeladrum luminis tui de loco suo \u00bb (13) . Lucerne tui splendor extinctus est. \u00ab Dies festi tu verti sunt in luctum \u00bb (14) \u00ab et organum tuum in vocem fleventium \u00bb (15) . Nunc vero sic quale quantumve bonus ameris. Nesciebas ante quia habeas: pris ut amodis te sensis, quan quod tu patabas 25 habere. Optima quae meliora sunt perdita quam posseda. Quid boni habeat",
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7271,
+          "titulus_id": 1763,
+          "original_name": "Gislebertus",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Gislebert",
+          "normalized_role": "bishop/abbot",
+          "normalized_dates": "",
+          "location_name": "Poitiers"
+        }
+      ]
+    },
+    {
+      "id": 1764,
+      "roll_id": 142,
+      "title": "",
+      "location_name": "",
+      "latin_text": "luminis splendor, tenebris nocte ostndunt. Quid gaudii samitas, indicat egritudo.\nVe nobis, quantum amimisus. Sublatus est nobis vir ille magnus inter omnes mortales (a), specialis inter speciales, qui non (1) occidentem litteram sequa, sed spiritum vivificantem (2) attendens, justa sentiamus justitia Salvatoris, in lege Domini <scriba dictossus novater proferre de thesauro sua et vetera > (3). Sed s quoqueus illic pariter laudamus and plaungimus; Ne placent mors nostri admitit consolationem, nec gloria ejus habebit finem. <lauda \u067e\u0648\u0633 lauda post mortem, lauda post consummationem> (4). Unde et nos laudare virum laudabilem volvimus, nec valemus ; incipimus et defici mus ; aggredimur and succumbimus. Quidquid primum in eo laudamus occurrit, so sequentium comparatione vilescit. Si dixerimus mansuetum, liberalitas antece di ; si modestiam predicemus, superexcedet benignitas ; sa ludemus humilit a tem, supergridur patientia. Si ad prima illus rudimera recurrimus, puerelis annos subdito imbuedos liberalibus artibus, juvenilematem philosophicus disciplinas : ubi vero << profecit etate et sapientia >> (4), et ad capsendas majora latiois intelligente sinum laxavit, ad lexidem divinam totum se consult. Hec fuit ejus cara continua, hoc indeficis desiderium, propheticis et apostolicis jugiter inherere doctrina, sacris litteris invigilare, incertari << in lege Domini mediatri die ac nocte >> (5). In qua nimium doctrina quantum profercit, << opera manum eius >> (6) in Apostolum et Prophetam (7) et alia epia opuscula (8) 20 contestanttur. Vivunt, vivunt et in eternum vivent preclara et saa doctrina sue munimenta perpetua, que non corrupere livor edax, nec albore poteri ullu vetustas. Ille audiens Apostolum suscit demicent: << Gratia Dei sum id quod sum et gratia ejus in me vacua non fuit >> (9), ne forte in vacuum Dei gratiam recepisset, collocat sibi divini numeris gratiam occulet communicabilem facients nollur easm 25",
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7272,
+          "titulus_id": 1764,
+          "original_name": "Salvatoris",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Savior",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1765,
+      "roll_id": 142,
+      "title": "",
+      "location_name": "",
+      "latin_text": "propriis usibus reserve. And unde meruit eminere magisterii merito supra omnes doctores in tempo suo et obtinuit \u00ab nomen grande supra nomen magnorum qui sunt in terra \u00bb \u00b9). Cum autem conplacuit Ei qui de tenebris jussit lumen splendere, ut ecclesiam Pictavensem splendore tanti luminis illuminaret, tuli lut \u00ab lucerne nam quam accernaet, ne latere sat subito, et possuit eam supra candelabrum, ut luceret omnibus qui in domo \u00bb \u00b2). Jam vero in episcopum sublimatus, cepit continuo versus Sponse paraninplus, amicus Sponsi due, zelare Christo, non sibi; et illis gloriam et decorem totus estibus animis, totis anime desideriis enarebat. Anebale patia pretiosa, sericas vestes et alia diversarum 10 specimenia ornamenta, quibus tibiem faciem exornaret. Argentum ejus in vasa Domini formabat, at in variis utensilium formas ad ministerium et ornatum altaris elargiti studio figurabatur. Aurum quoque modo lentescabat in laminas, modo vanescebat in spumam, ut vasa ministeri coloraret : videres etiam in fila mollessere, torquere, in fibris, and in opus textile per manus artificum deservire. 15 Denique, ut etiam digitorum suorum ornamentum opus Domini facere gloriosum, anus solos conravit in calicem et pretioso eo in \u0142a epides inseruit ad venustatem. Hi episcopi jugis affectus, hee erga ecclesiam mirande affectio, ut omnis gloria Filie Regis emeret, in fibris aureis \u00ab in vestitu deaurato circumdata varietate tape \u00bb \u00b3). Desiderabat etiam, si fieri posset, parietes auro vestire, pavimentum 20 lapidibus terrestre pretioso, ut in nuptiis Sponsi et Sponse fiducialiter Domini decantaret: \u00ab Domine, dilexi decorem tuos dome et locum habitationis glorie tue \u00bb \u2074). Verum super hac omnia illud non omittendum est, quod inestimabile divinorum multitudinem divinorum, quam per diversas provincias ante episcopatu multo labore generat, in ecclesie bibliothecam, velum magnum et pretiosum 25 thesarium, gratuito munere collocavit. Ibi quippe sanctorum patrum in lege divina mirandi traktatus, albi labor et opus quorum hauerat fontes, quorum fluenta potaverat, quorum testimoniis et auctoritatis doctrinae sue sentencias roboraverat, al hic catholiche filii robusti defendores, Hilarius, Ambrosius, Gregorius, Augustinus et alii innumerables qui pro tua illius doctrina viriliter sine fine 30 certant, omnes tenentes gladios et ad bella doctissimi. Habebit defunctos, quos habeit vivus, scriptorum suorum et auctores et testes, adversus eorum contra- dictiones di que Filie Christi despretate presumt, << nescientes >>, ut dicit Apostolo-",
+      "pdf_page": 64,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7273,
+          "titulus_id": 1765,
+          "original_name": "Christo",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Christ",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7274,
+          "titulus_id": 1765,
+          "original_name": "Sponse",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Spouse",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7275,
+          "titulus_id": 1765,
+          "original_name": "Filie Regis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Daughter of the King",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7276,
+          "titulus_id": 1765,
+          "original_name": "Hilarius",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hilary",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7277,
+          "titulus_id": 1765,
+          "original_name": "Ambrosius",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ambrose",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7278,
+          "titulus_id": 1765,
+          "original_name": "   {",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "   {",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        }
+      ]
+    },
+    {
+      "id": 1766,
+      "roll_id": 142,
+      "title": "",
+      "location_name": "",
+      "latin_text": "lus. \u00ab quid loquuntur, neque de quibus affirmant \u00bb (1). Longum est ennarre de singulis, quomodo inter odia proximorum, extraneorum insidias, persecutorum varias infestationes, ecclesiam liberavit calumniis, absolvit querelis, absolvit possessionibus. Quomodo edificavit domus, circumdivit muros, velut edificans nobis civitatem novam, (2) \u00ab civitatem multitudinem (3) \u00ab urbem fortitudinis nostrae, Sion \u00bb (4), si ipsa se opera indicat, ipsa loquuntur. Sed desistas tandem a laudibus et redeamus ad planctum, non ut jam damna nostra ploremus, sed ut ejus delicta lacrimis abluamus. Fuit enim et ipse \u00ab natura filii irae, sicut et ceteri \u00bb (5). Nec facile totum homo, quae de carne divinus ut vires in carne saine labis transire. Vos ergo, fratres, Ecclesie Dei fideles universi, si qua in vobis viscera pietatis, si qua viscera misericordiae, assumite planctum nostrum. Adtendite et videte dolorum nostrum ! Adjuvante precibus, orationibus intercedite ut absolvat Dominus episcopum nostrum ab omni vinculo delictorum et beatum faciat eum in gloria sanctorum. Amen. Dormivit autem in senectute bona, senex et \u00ab plenus die rerum \u00bb (6), anno Incarnatione Domini MCLV, episcopatus sui termino dec15, Anastasio (7). Romano pontifice, Ludovico (8) Francorum rege, Henrico (9) Aquitanorum duce, mens septembrie, pridem nonas septembris, et sepultus est archiepiscopo Burdegalensi Goffredo (10) et episcopis alis, Bernardo (11) Santonensis, Ugone (12) Engolinensis, Helia (13) Agennensi (4) ...\n\n  Ii audiens Apostolum suum dicentem : \u00ab Gratia Dei sum id quod sum et gratia ejus in me vacua non fuit \u00bb (13), ne forte in vacuum gratiam Dei recipesset, calla-",
+      "pdf_page": 64,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7279,
+          "titulus_id": 1766,
+          "original_name": "Anastasio",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Anastasius",
+          "normalized_role": "",
+          "normalized_dates": "died 1155",
+          "location_name": ""
+        },
+        {
+          "id": 7280,
+          "titulus_id": 1766,
+          "original_name": "Ludovico",
+          "original_title": "Romano pontifice",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Lucius",
+          "normalized_role": "Pope",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7281,
+          "titulus_id": 1766,
+          "original_name": "Henrico",
+          "original_title": "Francorum rege",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Henry",
+          "normalized_role": "King of the Franks",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7282,
+          "titulus_id": 1766,
+          "original_name": "Goffredo",
+          "original_title": "archiepiscopo Burdegalensi",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Geoffrey",
+          "normalized_role": "Archbishop of Bordeaux",
+          "normalized_dates": "",
+          "location_name": "Bordeaux"
+        },
+        {
+          "id": 7283,
+          "titulus_id": 1766,
+          "original_name": "Bernardo",
+          "original_title": "episcopis alis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Bernard",
+          "normalized_role": "Bishop",
+          "normalized_dates": "",
+          "location_name": "Saintes"
+        },
+        {
+          "id": 7284,
+          "titulus_id": 1766,
+          "original_name": "Ugone",
+          "original_title": "episcopis alis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh",
+          "normalized_role": "Bishop",
+          "normalized_dates": "",
+          "location_name": "Engoulins"
+        },
+        {
+          "id": 7285,
+          "titulus_id": 1766,
+          "original_name": "Helia",
+          "original_title": "episcopis alis",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "H\u00e9lie",
+          "normalized_role": "Bishop",
+          "normalized_dates": "",
+          "location_name": "Agen"
+        }
+      ]
+    },
+    {
+      "id": 1767,
+      "roll_id": 142,
+      "title": "",
+      "location_name": "",
+      "latin_text": "tam sibi divini muneris gratiam cunctis communicabilem faciens, noluit eam propriis usibus reservare. Unde meritum eminere magisterii merito supra omnes doctores in tempore suo et obnuit nomen grande super nomen magnumorum qui sunt in terra<...........>.",
+      "pdf_page": 65,
+      "pdf_half": "left",
+      "entities": []
+    },
+    {
+      "id": 1768,
+      "roll_id": 142,
+      "title": "",
+      "location_name": "",
+      "latin_text": "dine scientie repletus, ut ad magisterii honorem provectus super omnis nostris temporibus in hac officii dignitate floret et odor discipline ejus multas diversarum terrarum partes audeo repletus, ut in omnem terram gloria nominis ejus erit \u00ab et in fines orbis terre doctrina verba \u00bb (1) procedent. Quanta vero in ipsa divinitatis scientia abundaverit, quantum vero laboribus et expensis solorum conubio: rit, ipsa super psalmos et epistolas Pauli ejus opera mirabile laborare mirabiliter composita testantur. Dei autem mira dispositio non innemor ecclesie sue, vora ipsam tanto illustrari fulgore et terram nostram suo fructu non carere (\u00ab terra enim nostra dextra terdet fructum suum \u00bb (2)), dedi ipsum in ecclesie sue Pietavensis, videferi reddit terre sue, restituit geni et populo suo, eligens ipsum in episcopum nos nostrum, \u00ab eligens ipsum in sacerdotem sith \u00bb (3). In episcopato vero tanta gratie virtute repletus est, ut magnificentur \u00ab in conspectu regum \u00bb (4) principes et corona glorie ipsis laboribus, anxietatibus, doloribus et persecutionibus plurimorum multorum et magnorum plurarum augmentaretur. Ecclesiam vero nostrum quam inveni et gravibus implicitam vexationibus et, ut ita dixerimus, quasi 15 tributariis exactionibus, sub feodali tamen nomine, a multis et majoribus terre nostri virlis alligatam, Deo auxiliante, penitus absolvit. Reddid vivo episcopos ecclesiae in terrarum suarum restitution, in aliquam adustionem mirabiliter amplavit. Canonicorum qui ita dicter canonicum multum ampliando ipsamque claudendo decernat anvrit. Successoribus suis domos mirabiles magnorum et amplissimo circum circundatione murorum, multa latitudine terre intra claustra adquisita mirabiliter clausas, in tantum extruxit, ut videntis eis absque admiratione non transeant, opus regium appellent, animam ipsus absque benedictione non relinquant, quodumque illam domini firmiter edicatiam dicere non dubitent. Aurum verum suum et argentum et gemmas in ornamentis ecclesis sue, crucibus videlicet, in calicis, pallis, casulis, dalmaticis, tunicis, albis, stolis, manipul\u00eds, aurifrasis, devote semper et diligenter studuit expendere.",
+      "pdf_page": 65,
+      "pdf_half": "right",
+      "entities": [
+        {
+          "id": 7286,
+          "titulus_id": 1768,
+          "original_name": "Pauli",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Paul",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": null
+        },
+        {
+          "id": 7287,
+          "titulus_id": 1768,
+          "original_name": "Pietavensis",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Pavia",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": "Pavia"
+        }
+      ]
+    },
+    {
+      "id": 1769,
+      "roll_id": 142,
+      "title": "",
+      "location_name": "S. Aubin d\u2019Angers",
+      "latin_text": "Robert de La Tour-Landry, abb\u00e9 de S. Aubin d\u2019Angers octobre 1127 au avril 1154 (jour de sa mort) $^{(1)}$, est mentionn\u00e9 dans de nombreux actes du cartulaire de S. Aubin $^{(2)}$. Le ms. 307 (298) de la B. M., datant du XII$^{\text{e}}$ s. et provenant de S. Aubin, contient les 25 lettres de ss. Ambroise. Les copies modernes ont \u00e9t\u00e9 effectu\u00e9es d'apr\u00e8s ce ms., comme d'autres mss. renfermant : $^{1}$ la chronique de S. Aubin ; $^{2}$ la vie de s. Giraud, moine de S. Aubin ; $^{3}$ le $^\text{s}$ de Majorat et senescalcia Franciae $\\text{de Hugues de Clercs.}$ Le pr\u00e9sent rouleau circulaire entre avril 1154 (\u00e9poque de la mort de l'abb\u00e9 Robert) et sans doute le premier semestre de 1155; en effet, le titre d'Anci\u00e8re (\u00e9glise tr\u00e8s \u00e9loign\u00e9e d'Angers) qui mentionne les d\u00e9c\u00e8s de son abb\u00e9 Guillaume, survenu \u00e0 Rome le 25 d\u00e9cembre 1154, n'est pas ant\u00e9rieur au d\u00e9but de l'ann\u00e9e 1155.",
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "entities": [
+        {
+          "id": 7288,
+          "titulus_id": 1769,
+          "original_name": "Robert",
+          "original_title": "abb\u00e9 de S. Aubin d\u2019Angers",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Robert",
+          "normalized_role": "abbot",
+          "normalized_dates": "1127-1154",
+          "location_name": "S. Aubin d\u2019Angers"
+        },
+        {
+          "id": 7289,
+          "titulus_id": 1769,
+          "original_name": "Ambroise",
+          "original_title": "ss.",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Ambrose",
+          "normalized_role": "saint",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7290,
+          "titulus_id": 1769,
+          "original_name": "Giraud",
+          "original_title": "s.",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Girard",
+          "normalized_role": "monk",
+          "normalized_dates": "",
+          "location_name": "S. Aubin"
+        },
+        {
+          "id": 7291,
+          "titulus_id": 1769,
+          "original_name": "Hugues de Clercs",
+          "original_title": "",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "Hugh of Cleves",
+          "normalized_role": "",
+          "normalized_dates": "",
+          "location_name": ""
+        },
+        {
+          "id": 7292,
+          "titulus_id": 1769,
+          "original_name": "Guillaume",
+          "original_title": "abb\u00e9",
+          "footnote_num": null,
+          "footnote_text": null,
+          "normalized_name": "William",
+          "normalized_role": "abbot",
+          "normalized_dates": "died 1154",
+          "location_name": ""
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": 2151,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "Cf. Eccles., II., 16 : \u00ab mortitur doctus similiter ut indoctus \u00bb."
+    },
+    {
+      "id": 2152,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "Cf. Eccles., III, 19 : \u00ab unus interitus hominum et jumentorum, et \u00e6que utrorumque conditio\u00bb."
+    },
+    {
+      "id": 2153,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": ""
+    },
+    {
+      "id": 2154,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": "Cf. I Cor., XV, 54 : \u00ab fiet sermo qui scriptus est: Absorta erit mors in victoria. \u00bb"
+    },
+    {
+      "id": 2155,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "5",
+      "text": "Cf. I Cor., XV, 53 : \u00ab Oporiet enim corruptibile induet hic induet incorruptionem: et mortalitade hoc induet immortalitatem \u00bb."
+    },
+    {
+      "id": 2156,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "6",
+      "text": ""
+    },
+    {
+      "id": 2157,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "7",
+      "text": ""
+    },
+    {
+      "id": 2158,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "8",
+      "text": ""
+    },
+    {
+      "id": 2159,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "9",
+      "text": ""
+    },
+    {
+      "id": 2160,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "10",
+      "text": ""
+    },
+    {
+      "id": 2161,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "11",
+      "text": ""
+    },
+    {
+      "id": 2162,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "12",
+      "text": ""
+    },
+    {
+      "id": 2163,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "13",
+      "text": ""
+    },
+    {
+      "id": 2164,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "14",
+      "text": ""
+    },
+    {
+      "id": 2165,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "left",
+      "footnote_num": "15",
+      "text": ""
+    },
+    {
+      "id": 2166,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "(a) orientales B ; corrigez mortales."
+    },
+    {
+      "id": 2169,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "footnote_num": "",
+      "text": "(3) Allusion \u00e0 Eccl. XI, 30: \u00ab Ante mortem ne laudes hominem quemquam; quoniam in filiis suis agnoscitur vir \u00bb."
+    },
+    {
+      "id": 2167,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "(1) Cf. II Cor., 11, 6 : \u00ab littera enim occidit, spiritus autem vivificat \u00bb."
+    },
+    {
+      "id": 2168,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "(2) Cf. Matth., XXIII, 52 : \u00abideo omnis scriba doctus in regno caerulorum, similis est homini patri familias, qui profit de thesauro sua novo et vetera \u00bb."
+    },
+    {
+      "id": 2170,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "(4) Cf. Luc., II, 52 : \u00ab proficiebat sapientia et acitate \u00bb."
+    },
+    {
+      "id": 2171,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "(5) Cf. Ps., I, 2 : \u00ab in lege Ejus meditabitur"
+    },
+    {
+      "id": 2172,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "(6) Ps., XVIII, 2."
+    },
+    {
+      "id": 2173,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "footnote_num": "7",
+      "text": "(7) Allusion aux Commentaires de Gilbert de la Porr\u00e9e sur les Psaumes et sur les \u00c9p\u00eetres de s. Paul ; cf. R. H. f. XIV, p. 380, n. a."
+    },
+    {
+      "id": 2174,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "footnote_num": "8",
+      "text": "(8) Allusion \u00e0 ses Commentaires sur S. Jean et le De Trinitate de Bo\u00e8ce ; cf. R. H. f. XIV, p. 380, n. b."
+    },
+    {
+      "id": 2175,
+      "roll_id": 142,
+      "pdf_page": 63,
+      "pdf_half": "right",
+      "footnote_num": "9",
+      "text": "(9) Cf. I Cor., X, 10 : \u00ab Gratia autem Dei sum id quod sum et gratia ejus in me vacua non fuit \u00bb."
+    },
+    {
+      "id": 2176,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "left",
+      "footnote_num": "1",
+      "text": "(\u00b9) Cf. II Reg., VII, 9: \u00ab nomen grande, juxta nomen magnorum qui sunt in terra \u00bb."
+    },
+    {
+      "id": 2177,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "left",
+      "footnote_num": "2",
+      "text": "(\u00b2) Cf. Math., V, 15: \u00ab neque accendunt lucernam et ponunt eam sub modio, sed super candelabrum, ut luceat omnibus qui in domo sunt \u00bb."
+    },
+    {
+      "id": 2178,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "left",
+      "footnote_num": "3",
+      "text": "(\u00b3) Cf. Ps., XLIV, 10: \u00ab in vestitu deaurato circumdata varietate \u00bb."
+    },
+    {
+      "id": 2179,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "left",
+      "footnote_num": "4",
+      "text": "(\u2074) Ps., XXV, 8."
+    },
+    {
+      "id": 2192,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "right",
+      "footnote_num": "a",
+      "text": "(a) Petragorincensi B.; corrigez Agennensi."
+    },
+    {
+      "id": 2193,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "right",
+      "footnote_num": "b",
+      "text": "(b) remarque qu'\u00e0 la suite de ce texte se trouvent des traces de signatures, graiss\u00e9es \u00e0 l'exergue de croix."
+    },
+    {
+      "id": 2180,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "(1) Cf. I. Tim., I, 7 : \u00ab non intelligentes neque qua loquuntur, neque de quibus affirmant \u00bb."
+    },
+    {
+      "id": 2181,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "(2) Ps., LIX, 11."
+    },
+    {
+      "id": 2182,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "(3) Cf., XXVI, 1 : \u00ab Urbis fortitudinis nostrae Sion \u00bb."
+    },
+    {
+      "id": 2183,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "right",
+      "footnote_num": "5",
+      "text": "(5) Gen., XXV, 8."
+    },
+    {
+      "id": 2184,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "right",
+      "footnote_num": "6",
+      "text": "(6), anno Incarnatione Domini MCLV,"
+    },
+    {
+      "id": 2185,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "right",
+      "footnote_num": "7",
+      "text": "(7) Anastase IV, pape (1153-1154)"
+    },
+    {
+      "id": 2186,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "right",
+      "footnote_num": "8",
+      "text": "(8) L. Delisle..."
+    },
+    {
+      "id": 2187,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "right",
+      "footnote_num": "9",
+      "text": "(9) Henri II, dux de Normandie et comte d'Anjou, prince roi d'Angleterre (1154-1189)."
+    },
+    {
+      "id": 2188,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "right",
+      "footnote_num": "10",
+      "text": "(10) Geoffroy II du Loroux, archev\u00eaque de Bordeaux (1136-1158); cf. Gams, p. 520."
+    },
+    {
+      "id": 2189,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "right",
+      "footnote_num": "11",
+      "text": "(11) Bernard, \u00e9v\u00eaque de Santes (1141-1166);"
+    },
+    {
+      "id": 2190,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "right",
+      "footnote_num": "12",
+      "text": "(12) Hugues de la Rochefoucauld, \u00e9v\u00eaque d'Angoul\u00eame (1148-1158); cf. Gams, p. 490."
+    },
+    {
+      "id": 2191,
+      "roll_id": 142,
+      "pdf_page": 64,
+      "pdf_half": "right",
+      "footnote_num": "13",
+      "text": "(13) Helias II de Ch\u00e2tillon, \u00e9v\u00eaque d'Agen (1149-1181); cf. Gams, p. 479."
+    },
+    {
+      "id": 2194,
+      "roll_id": 142,
+      "pdf_page": 65,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "Ovide, Pontiques, I, 3, 35, \u00e9d. J. Andr\u00e9, Paris, 1977, p. 14."
+    },
+    {
+      "id": 2195,
+      "roll_id": 142,
+      "pdf_page": 65,
+      "pdf_half": "right",
+      "footnote_num": "1",
+      "text": "Ps., XVIII, 5."
+    },
+    {
+      "id": 2196,
+      "roll_id": 142,
+      "pdf_page": 65,
+      "pdf_half": "right",
+      "footnote_num": "2",
+      "text": "Cf. Ps., LXVI, 7 : \u00ab terra dedit fructum suum \u00bb."
+    },
+    {
+      "id": 2197,
+      "roll_id": 142,
+      "pdf_page": 65,
+      "pdf_half": "right",
+      "footnote_num": "3",
+      "text": "Cf. I Reg., II, 28 : \u00ab elegi eum ... nisi in sacerdotem \u00bb. "
+    },
+    {
+      "id": 2198,
+      "roll_id": 142,
+      "pdf_page": 65,
+      "pdf_half": "right",
+      "footnote_num": "4",
+      "text": "Ps., CXVIII, 46."
+    },
+    {
+      "id": 2199,
+      "roll_id": 142,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(1)",
+      "text": "A son sujet, cf. Gallia christiana, t. XIV, col. 615-616 ;"
+    },
+    {
+      "id": 2200,
+      "roll_id": 142,
+      "pdf_page": 66,
+      "pdf_half": "left",
+      "footnote_num": "(2)",
+      "text": "Angers, t. I, p. 84."
+    }
+  ]
+}
