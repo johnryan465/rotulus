@@ -4,6 +4,7 @@ import json
 import shutil
 
 from pipeline.geo import extract_year, get_roll_travels as _get_roll_travels, get_roll_movements as _get_roll_movements
+from pipeline.entities_index import get_entity_index, get_location_index
 
 DB_PATH = "rolls.db"
 OUTPUT_DIR = "public/api"
@@ -69,6 +70,8 @@ def export_data():
 
     with open(os.path.join(OUTPUT_DIR, "rolls.json"), "w") as f: json.dump(rolls_with_stops, f, indent=2)
     with open(os.path.join(OUTPUT_DIR, "travels.json"), "w") as f: json.dump(all_travels, f, indent=2)
+    with open(os.path.join(OUTPUT_DIR, "entities.json"), "w") as f: json.dump(get_entity_index(cursor), f, indent=2)
+    with open(os.path.join(OUTPUT_DIR, "locations.json"), "w") as f: json.dump(get_location_index(cursor), f, indent=2)
     
     conn.close(); print(f"✅ Database exported to static JSON using ROLL_NUM as keys.")
 

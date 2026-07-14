@@ -10,6 +10,7 @@ from PIL import Image
 
 from pipeline.imaging import split_page_halves
 from pipeline.geo import get_roll_travels as _get_roll_travels, get_roll_movements as _get_roll_movements
+from pipeline.entities_index import get_entity_index as _get_entity_index, get_location_index as _get_location_index
 
 WORKSPACE = "/home/john/rolls"
 DB_PATH = os.path.join(WORKSPACE, "rolls.db")
@@ -150,6 +151,22 @@ def get_all_travels():
             }
     conn.close()
     return all_travels
+
+@app.get("/api/entities")
+def get_entities():
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    result = _get_entity_index(cursor)
+    conn.close()
+    return result
+
+@app.get("/api/locations")
+def get_locations():
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    result = _get_location_index(cursor)
+    conn.close()
+    return result
 
 @app.put("/api/rolls/{roll_id}")
 def update_roll(roll_id: int, data: RollUpdate):

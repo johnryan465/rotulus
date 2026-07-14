@@ -56,6 +56,13 @@ export default function App() {
   const [explorerTravelPath, setExplorerTravelPath] = useState([]);
   const [rollMovements, setRollMovements] = useState([]);
 
+  // Entities tab state
+  const [entityView, setEntityView] = useState('people'); // 'people' | 'locations'
+  const [entitiesData, setEntitiesData] = useState([]);
+  const [locationsData, setLocationsData] = useState([]);
+  const [entitySearch, setEntitySearch] = useState('');
+  const [selectedEntity, setSelectedEntity] = useState(null); // { type: 'people'|'locations', name }
+
   // Verification & Dashboard State
   const [activeVerificationIndex, setActiveVerificationIndex] = useState(0);
   const [zoomLevel] = useState(1);
@@ -88,7 +95,7 @@ export default function App() {
       const tab = parts[0] || 'map';
       const id = parts[1] ? Number(parts[1]) : null;
 
-      if (['dashboard', 'explorer', 'map', 'verification'].includes(tab)) {
+      if (['dashboard', 'explorer', 'map', 'entities', 'verification'].includes(tab)) {
         setActiveTab(tab);
         if (id && id !== selectedRollId) {
           setSelectedRollId(id);
@@ -175,6 +182,21 @@ export default function App() {
   useEffect(() => {
     if (activeTab === 'map' && rolls.length > 0 && !mapRollId) setMapRollId('all');
   }, [activeTab, rolls, mapRollId]);
+
+  useEffect(() => {
+    if (activeTab !== 'entities' || entitiesData.length > 0) return;
+    (async () => {
+      try {
+        const [peopleRes, locRes] = await Promise.all([
+          fetch(getApiUrl('/api/entities')),
+          fetch(getApiUrl('/api/locations')),
+        ]);
+        setEntitiesData(await peopleRes.json());
+        setLocationsData(await locRes.json());
+      } catch (e) { console.error("Failed to fetch entities/locations:", e); }
+    })();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [activeTab]);
 
   useEffect(() => {
     window.gotoRoll = (rNum) => {
@@ -393,7 +415,7 @@ export default function App() {
           <div className="logo-text">ROTULUS</div>
         </div>
         <div className="tabs-nav">
-          {['dashboard', 'explorer', 'map', 'verification'].map(t => (
+          {['dashboard', 'explorer', 'map', 'entities', 'verification'].map(t => (
             <button key={t} className={`tab-btn ${activeTab === t ? 'active' : ''}`} onClick={() => handleTabChange(t)}>
               {t.charAt(0).toUpperCase() + t.slice(1)}
             </button>
@@ -627,6 +649,112 @@ export default function App() {
                 </div>
               </div>
             )}
+          </div>
+
+          <div style={{ display: activeTab === 'entities' ? 'flex' : 'none', flexDirection: 'column', gap: '24px', height: '100%' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+              <h1>Entities &amp; Connections</h1>
+              <div style={{ display: 'flex', gap: '8px' }}>
+                <button className={`tab-btn ${entityView === 'people' ? 'active' : ''}`} onClick={() => { setEntityView('people'); setSelectedEntity(null); setEntitySearch(''); }}>People</button>
+                <button className={`tab-btn ${entityView === 'locations' ? 'active' : ''}`} onClick={() => { setEntityView('locations'); setSelectedEntity(null); setEntitySearch(''); }}>Locations</button>
+              </div>
+            </div>
+            <p style={{ color: 'var(--text-muted)', fontSize: '13px', maxWidth: '750px', marginTop: '-12px' }}>
+              Aggregated by name across the whole corpus - a common name (e.g. "Bernard") may group
+              several distinct historical individuals, not one person. Religious-order affiliation
+              isn't extracted as structured data in this corpus, so it isn't shown here.
+            </p>
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1.3fr', gap: '24px', flex: 1, minHeight: 0 }}>
+              <div className="glass-panel" style={{ display: 'flex', flexDirection: 'column', padding: '16px', maxHeight: '650px' }}>
+                <input type="text" className="search-input" placeholder={`Search ${entityView}...`}
+                       value={entitySearch} onChange={e => setEntitySearch(e.target.value)} style={{ marginBottom: '12px' }} />
+                <div style={{ overflowY: 'auto', flex: 1 }}>
+                  {(entityView === 'people' ? entitiesData : locationsData).length === 0 ? (
+                    <div style={{ textAlign: 'center', padding: '20px', color: 'var(--text-muted)' }}>Loading…</div>
+                  ) : (entityView === 'people' ? entitiesData : locationsData)
+                    .filter(e => e.name.toLowerCase().includes(entitySearch.toLowerCase()))
+                    .slice(0, 300)
+                    .map(e => (
+                      <div key={e.name} className={`roll-item ${selectedEntity?.name === e.name ? 'active' : ''}`}
+                           onClick={() => setSelectedEntity({ type: entityView, name: e.name, data: e })}>
+                        <div style={{ fontWeight: 'bold' }}>{e.name}</div>
+                        <div style={{ fontSize: '12px', color: 'var(--text-muted)' }}>
+                          {entityView === 'people'
+                            ? `${e.appearance_count} appearance${e.appearance_count !== 1 ? 's' : ''}${e.roles[0] ? ' · ' + e.roles[0] : ''}`
+                            : `${e.roll_count} roll${e.roll_count !== 1 ? 's' : ''}`}
+                        </div>
+                      </div>
+                    ))}
+                </div>
+              </div>
+              <div className="glass-panel" style={{ padding: '32px', overflowY: 'auto', maxHeight: '650px' }}>
+                {!selectedEntity ? (
+                  <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%', color: 'var(--text-muted)' }}>
+                    <p>Select a {entityView === 'people' ? 'person' : 'location'} to see their connections.</p>
+                  </div>
+                ) : (
+                  <div>
+                    <h2 style={{ marginTop: 0 }}>{selectedEntity.data.name}</h2>
+                    {selectedEntity.type === 'people' && selectedEntity.data.roles.length > 0 && (
+                      <p><strong>Roles seen:</strong> {selectedEntity.data.roles.join(', ')}</p>
+                    )}
+                    {selectedEntity.type === 'people' && selectedEntity.data.dates.length > 0 && (
+                      <p><strong>Dates:</strong> {selectedEntity.data.dates.join('; ')}</p>
+                    )}
+                    <p><strong>{selectedEntity.type === 'people' ? 'Appears in' : 'Visited by'} {selectedEntity.data.rolls.length} roll{selectedEntity.data.rolls.length !== 1 ? 's' : ''}:</strong></p>
+                    <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px', marginBottom: '16px' }}>
+                      {selectedEntity.data.rolls.map(r => (
+                        <span key={r.id} className="roll-num" style={{ cursor: 'pointer' }} onClick={() => window.gotoRoll(r.id)}>N° {r.roll_num}</span>
+                      ))}
+                    </div>
+                    {selectedEntity.type === 'people' && selectedEntity.data.locations.length > 0 && (
+                      <>
+                        <p><strong>Associated locations:</strong></p>
+                        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px', marginBottom: '16px' }}>
+                          {selectedEntity.data.locations.map(l => (
+                            <span key={l} style={{ fontSize: '12px', background: 'var(--paper-dark)', padding: '2px 10px', borderRadius: '12px', border: '1px solid var(--border)' }}>{l}</span>
+                          ))}
+                        </div>
+                      </>
+                    )}
+                    {selectedEntity.type === 'people' && selectedEntity.data.co_occurring.length > 0 && (
+                      <>
+                        <p><strong>Named alongside:</strong></p>
+                        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px' }}>
+                          {selectedEntity.data.co_occurring.map(n => (
+                            <span key={n} style={{ fontSize: '12px', background: 'var(--paper-dark)', padding: '2px 10px', borderRadius: '12px', border: '1px solid var(--border)', cursor: 'pointer' }}
+                                  onClick={() => {
+                                    setEntityView('people'); setEntitySearch('');
+                                    const found = entitiesData.find(p => p.name === n);
+                                    setSelectedEntity({ type: 'people', name: n, data: found || { name: n, roles: [], dates: [], rolls: [], locations: [], co_occurring: [] } });
+                                  }}>
+                              {n}
+                            </span>
+                          ))}
+                        </div>
+                      </>
+                    )}
+                    {selectedEntity.type === 'locations' && selectedEntity.data.people.length > 0 && (
+                      <>
+                        <p><strong>People named here:</strong></p>
+                        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px' }}>
+                          {selectedEntity.data.people.map(n => (
+                            <span key={n} style={{ fontSize: '12px', background: 'var(--paper-dark)', padding: '2px 10px', borderRadius: '12px', border: '1px solid var(--border)', cursor: 'pointer' }}
+                                  onClick={() => {
+                                    setEntityView('people'); setEntitySearch('');
+                                    const found = entitiesData.find(p => p.name === n);
+                                    setSelectedEntity({ type: 'people', name: n, data: found || { name: n, roles: [], dates: [], rolls: [], locations: [], co_occurring: [] } });
+                                  }}>
+                              {n}
+                            </span>
+                          ))}
+                        </div>
+                      </>
+                    )}
+                  </div>
+                )}
+              </div>
+            </div>
           </div>
         </div>
       </div>
